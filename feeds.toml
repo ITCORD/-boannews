@@ -1,0 +1,139 @@
+[latest]
+title = "보안뉴스 ─ 전체기사"
+url = "https://www.boannews.com/media/t_list.asp"
+entrySelector = "div[id='news_area'] div.news_list"
+titleSelector = "span.news_txt"
+linkSelector = "a"
+contentSelector = "a.news_content"
+imageSelector = "img.news_img"
+waitUntil = "networkidle"
+
+[popular]
+title = "보안뉴스 ─ 가장 많이 본 기사"
+url = "https://www.boannews.com/media/o_list.asp"
+entrySelector = "div[id='news_area'] div.news_list"
+titleSelector = "span.news_txt"
+linkSelector = "a"
+contentSelector = "a.news_content"
+imageSelector = "img.news_img"
+waitUntil = "networkidle"
+
+[security]
+title = "보안뉴스 ─ SECURITY"
+url = "https://www.boannews.com/media/list.asp?mkind=1"
+entrySelector = "div[id='news_area'] div.news_list"
+titleSelector = "span.news_txt"
+linkSelector = "a"
+contentSelector = "a.news_content"
+imageSelector = "img.news_img"
+waitUntil = "networkidle"
+
+[it]
+title = "보안뉴스 ─ IT"
+url = "https://www.boannews.com/media/list.asp?mkind=2"
+entrySelector = "div[id='news_area'] div.news_list"
+titleSelector = "span.news_txt"
+linkSelector = "a"
+contentSelector = "a.news_content"
+imageSelector = "img.news_img"
+waitUntil = "networkidle"
+
+[safety]
+title = "보안뉴스 ─ SAFETY"
+url = "https://www.boannews.com/media/list.asp?mkind=4"
+entrySelector = "div[id='news_area'] div.news_list"
+titleSelector = "span.news_txt"
+linkSelector = "a"
+contentSelector = "a.news_content"
+imageSelector = "img.news_img"
+waitUntil = "networkidle"
+
+[security-world]
+title = "보안뉴스 ─ Security World"
+url = "https://www.boannews.com/securityworld/"
+entrySelector = "div[id='headline'] div[id^='head']"
+titleSelector = "div:nth-child(1) a:nth-child(1)"
+linkSelector = "div:nth-child(1) a:nth-child(1)"
+contentSelector = "div:nth-child(3) > a:nth-child(1) > font"
+imageSelector = "div:nth-child(2) > a > img"
+waitUntil = "networkidle"
+
+[vulnerability]
+title = "보안뉴스 ─ 취약점 경고 및 버그리포트"
+url = "https://www.boannews.com/media/s_list.asp?skind=5"
+entrySelector = "div[id='news_area'] div.news_list"
+titleSelector = "span.news_txt"
+linkSelector = "a"
+contentSelector = "a.news_content"
+imageSelector = "img.news_img"
+waitUntil = "networkidle"
+
+[opinion]
+title = "보안뉴스 ─ 오피니언"
+url = "https://www.boannews.com/media/s_list.asp?mkind=5&skind=2"
+entrySelector = "div[id='news_area'] div.news_list"
+titleSelector = "span.news_txt"
+linkSelector = "a"
+contentSelector = "a.news_content"
+imageSelector = "img.news_img"
+waitUntil = "networkidle"
+
+[interview]
+title = "보안뉴스 ─ 인터뷰"
+url = "https://www.boannews.com/media/s_list.asp?skind=3"
+entrySelector = "div[id='news_area'] div.news_list"
+titleSelector = "span.news_txt"
+linkSelector = "a"
+contentSelector = "a.news_content"
+imageSelector = "img.news_img"
+waitUntil = "networkidle"
+
+[policy]
+title = "보안뉴스 ─ 정책"
+url = "https://www.boannews.com/media/s_list.asp?skind=6"
+entrySelector = "div[id='news_area'] div.news_list"
+titleSelector = "span.news_txt"
+linkSelector = "a"
+contentSelector = "a.news_content"
+imageSelector = "img.news_img"
+waitUntil = "networkidle"
+
+[world]
+title = "보안뉴스 ─ 국제"
+url = "https://www.boannews.com/media/s_list.asp?skind=D"
+entrySelector = "div[id='news_area'] div.news_list"
+titleSelector = "span.news_txt"
+linkSelector = "a"
+contentSelector = "a.news_content"
+imageSelector = "img.news_img"
+waitUntil = "networkidle"
+
+[special]
+title = "보안뉴스 ─ 기획특집"
+url = "https://www.boannews.com/media/s_list.asp?skind=7"
+entrySelector = "div[id='news_area'] div.news_list"
+titleSelector = "span.news_txt"
+linkSelector = "a"
+contentSelector = "a.news_content"
+imageSelector = "img.news_img"
+waitUntil = "networkidle"
+
+[industry]
+title = "보안뉴스 ─ 기업뉴스"
+url = "https://www.boannews.com/media/s_list.asp?skind=8"
+entrySelector = "div[id='news_area'] div.news_list"
+titleSelector = "span.news_txt"
+linkSelector = "a"
+contentSelector = "a.news_content"
+imageSelector = "img.news_img"
+waitUntil = "networkidle"
+
+[hr]
+title = "보안뉴스 ─ 인사 부고"
+url = "https://www.boannews.com/media/s_list.asp?skind=K"
+entrySelector = "div[id='news_area'] div.news_list"
+titleSelector = "span.news_txt"
+linkSelector = "a"
+contentSelector = "a.news_content"
+imageSelector = "img.news_img"
+waitUntil = "networkidle"
