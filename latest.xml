@@ -4,9 +4,17 @@
         <title>보안뉴스 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Jan 2022 05:19:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Jan 2022 06:21:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[포토뉴스] 서울여대 정보보호학과 학생회, 보안뉴스 방문]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104094&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104094&amp;page=1&amp;kind=1</guid>
+            <pubDate>Thu, 13 Jan 2022 06:19:33 GMT</pubDate>
+            <content:encoded><![CDATA[서울여자대학교 정보보호학과 학생회 학생들이 1월 13일 &lt;보안뉴스&gt;를 방문했다. 그동안 보안뉴스에 ‘카드뉴스’를 연재했던 서울여대 정보보호학과 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/IMG_9129_main.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[구름에 숨은 생쥐 3마리, 현대 기업을 위협하는 종합 선물 세트]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104093&amp;page=1&amp;kind=1</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 12 Jan 2022 20:15:03 GMT</pubDate>
             <content:encoded><![CDATA[새해 첫 주, &lt;보안뉴스&gt;에 전 세계적으로도 매우 드문 유형의 가상자산(암호화폐) 탈취 사건에 대한 제보가 접수됐다. 이른바 ‘심스와핑(SIM ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/19695308_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사이버 공격자들, 이제 클라우드 서비스 사용해 멀웨어 유포한다]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104066&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104066&amp;page=1&amp;kind=1</guid>
-            <pubDate>Wed, 12 Jan 2022 20:15:03 GMT</pubDate>
-            <content:encoded><![CDATA[최근 조사를 통해 기업들의 멀웨어 다운로드 출처가 클라우드 애플리케이션임이 밝혀졌다. 보안 업체 넷스코프(Netskope)가 조사한 바에 따르면 2020년...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/cloud-humb-0112.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[슈프리마, 글로벌 파트너 서밋 통해 2022년 새로운 비전 선포]]></title>
@@ -225,12 +225,12 @@
             <content:encoded><![CDATA[어린이집 영유아 건강 관리도 이제는 스마트하게 한다. 서울 강서구는 어린이집 163개소에 실시간 건강 관리 모니터링 기기 312대를 지원했다고 밝혔다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[개인정보위, 이석준 살인사건 관련 공공기관 개인정보 유출 대응]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104065&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104065&amp;page=1&amp;kind=2</guid>
+            <title><![CDATA[사이버 공격자들, 이제 클라우드 서비스 사용해 멀웨어 유포한다]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104066&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104066&amp;page=1&amp;kind=1</guid>
             <pubDate>Wed, 12 Jan 2022 20:15:03 GMT</pubDate>
-            <content:encoded><![CDATA[최근 발생한 이석준의 살인사건에서 피해자의 집주소가 공무원이 2만원에 흥신소에 넘겨 유출된 것으로 알려졌다. 개인정보보호위원회(위원장 윤종인)는 자치단체 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/21562143_main.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[최근 조사를 통해 기업들의 멀웨어 다운로드 출처가 클라우드 애플리케이션임이 밝혀졌다. 보안 업체 넷스코프(Netskope)가 조사한 바에 따르면 2020년...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/cloud-humb-0112.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

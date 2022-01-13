@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Jan 2022 05:19:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Jan 2022 06:21:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[포토뉴스] 서울여대 정보보호학과 학생회, 보안뉴스 방문 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104094&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104094&amp;page=1&amp;kind=1</guid>
+            <pubDate>Thu, 13 Jan 2022 06:19:33 GMT</pubDate>
+            <content:encoded><![CDATA[서울여자대학교 정보보호학과 학생회 학생들이 1월 13일 &lt;보안뉴스&gt;를 방문했다. 그동안 보안뉴스에 ‘카드뉴스’를 연재했던 서울여대 정보보호학과 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/IMG_9129_main.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[구름에 숨은 생쥐 3마리, 현대 기업을 위협하는 종합 선물 세트 (보안뉴스 ─ 전체기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104093&amp;page=1&amp;kind=1</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 12 Jan 2022 20:15:03 GMT</pubDate>
             <content:encoded><![CDATA[새해 첫 주, &lt;보안뉴스&gt;에 전 세계적으로도 매우 드문 유형의 가상자산(암호화폐) 탈취 사건에 대한 제보가 접수됐다. 이른바 ‘심스와핑(SIM ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/19695308_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사이버 공격자들, 이제 클라우드 서비스 사용해 멀웨어 유포한다 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104066&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104066&amp;page=1&amp;kind=1</guid>
-            <pubDate>Wed, 12 Jan 2022 20:15:03 GMT</pubDate>
-            <content:encoded><![CDATA[최근 조사를 통해 기업들의 멀웨어 다운로드 출처가 클라우드 애플리케이션임이 밝혀졌다. 보안 업체 넷스코프(Netskope)가 조사한 바에 따르면 2020년...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/cloud-humb-0112.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[슈프리마, 글로벌 파트너 서밋 통해 2022년 새로운 비전 선포 (보안뉴스 ─ 전체기사)]]></title>
@@ -225,12 +225,12 @@
             <content:encoded><![CDATA[어린이집 영유아 건강 관리도 이제는 스마트하게 한다. 서울 강서구는 어린이집 163개소에 실시간 건강 관리 모니터링 기기 312대를 지원했다고 밝혔다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[개인정보위, 이석준 살인사건 관련 공공기관 개인정보 유출 대응 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104065&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104065&amp;page=1&amp;kind=2</guid>
+            <title><![CDATA[사이버 공격자들, 이제 클라우드 서비스 사용해 멀웨어 유포한다 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104066&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104066&amp;page=1&amp;kind=1</guid>
             <pubDate>Wed, 12 Jan 2022 20:15:03 GMT</pubDate>
-            <content:encoded><![CDATA[최근 발생한 이석준의 살인사건에서 피해자의 집주소가 공무원이 2만원에 흥신소에 넘겨 유출된 것으로 알려졌다. 개인정보보호위원회(위원장 윤종인)는 자치단체 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/21562143_main.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[최근 조사를 통해 기업들의 멀웨어 다운로드 출처가 클라우드 애플리케이션임이 밝혀졌다. 보안 업체 넷스코프(Netskope)가 조사한 바에 따르면 2020년...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/cloud-humb-0112.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[유출된 카카오톡 계정 악용한 대규모 로그인 시도 공격 발생했다 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
@@ -321,20 +321,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/bm-thumb-0110.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[보안 사고 대처의 새로운 트렌드, “법 전문가부터 찾아라!” (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104038&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104038&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Wed, 12 Jan 2022 20:15:13 GMT</pubDate>
-            <content:encoded><![CDATA[데이터 침해 사고에 대처하는 기업들의 방식이 조금씩 바뀌는 중이다. 사건 대응 팀 혹은 보안 전문 기업들에 먼저 전화를 하는 게 아니라 외부 법률 자문이나 변호사...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/law-thumb-0111.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[단독 인터뷰] 한국 심스와핑 의심 피해자 “유심 복사로 가상자산 털렸다” (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104063&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104063&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Thu, 13 Jan 2022 02:10:27 GMT</pubDate>
             <content:encoded><![CDATA[새해 첫 주, &lt;보안뉴스&gt;에 전 세계적으로도 매우 드문 유형의 가상자산(암호화폐) 탈취 사건에 대한 제보가 접수됐다. 이른바 ‘심스와핑(SIM Swap...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/19695308_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[보안 사고 대처의 새로운 트렌드, “법 전문가부터 찾아라!” (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104038&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104038&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Wed, 12 Jan 2022 20:15:13 GMT</pubDate>
+            <content:encoded><![CDATA[데이터 침해 사고에 대처하는 기업들의 방식이 조금씩 바뀌는 중이다. 사건 대응 팀 혹은 보안 전문 기업들에 먼저 전화를 하는 게 아니라 외부 법률 자문이나 변호사...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/law-thumb-0111.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2022년 공공부문 정보보호 제품·서비스 구매 예산 분석 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
@@ -385,12 +385,19 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/22010501ss.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[에너지 및 사회 인프라 분야의 사이버 보안을 7가지로 예측한다 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104001&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104001&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Wed, 12 Jan 2022 20:15:13 GMT</pubDate>
-            <content:encoded><![CDATA[사이버 공격으로 사회 기능을 마비시킬 수 있는 시대다. 세계 경제의 메가 트렌드인 디지털 융합과 에너지 변환과 같은 흐름을 면밀히 파악해왔던 사람들이라면 아마 ‘...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/ene-thumb-0110.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[카카오로부터 온 ‘선물하기’ 메일? 피싱 통한 계정정보 탈취 공격 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104055&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104055&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Thu, 13 Jan 2022 06:19:43 GMT</pubDate>
+            <content:encoded><![CDATA[최근 카카오 선물하기로 위장한 피싱 메일을 통해 카카오톡 친구추가를 유도함으로써 계정정보 유출을 시도하는 공격이 지속적으로 발생하고 있어 사용자들의 각별한 주의가...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/20220113KAKAO-S.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[전 세계 ‘팩트체킹’ 기관들, “유튜브가 가장 큰 문제” (보안뉴스 ─ SECURITY)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104091&amp;page=1&amp;mkind=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104091&amp;page=1&amp;mkind=1&amp;kind=1</guid>
+            <pubDate>Thu, 13 Jan 2022 06:19:53 GMT</pubDate>
+            <content:encoded><![CDATA[사실 확인을 전문으로 하는 조직들이 유튜브를 “가장 거대한 허위 정보 및 가짜뉴스 살포 플랫폼”이라고 지목했다. 유튜브에서 각종 허위 정보가 퍼져가고 있는데, 유튜브를 관리하고 있는 구글은 별다른 조치를 취하지 않고 있다는 내용의 서신에 80개가 넘는 조직들이 서명하고...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[애플, 아이폰과 아이패드의 도어락 버그 고쳐 (보안뉴스 ─ SECURITY)]]></title>
@@ -503,13 +510,6 @@
             <guid>https://www.boannews.com/media/view.asp?idx=104056&amp;page=1&amp;mkind=1&amp;kind=1</guid>
             <pubDate>Wed, 12 Jan 2022 20:15:22 GMT</pubDate>
             <content:encoded><![CDATA[FBI, CISA, NSA가 “러시아에서부터 시작된 사이버 공격에 유의하라”는 경고문을 발표했다. 특히 미국 사회 기반 시설을 노리는 공격이 거세게 이어지고 있다고 한다. 공격자들은 스피어피싱, 브루트포스, 취약점 익스플로잇, 서드파티 소프트웨어 침해, 자체 제작 멀웨...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[카카오로부터 온 ‘선물하기’ 메일? 피싱 통한 계정정보 탈취 공격 (보안뉴스 ─ SECURITY)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104055&amp;page=1&amp;mkind=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104055&amp;page=1&amp;mkind=1&amp;kind=1</guid>
-            <pubDate>Wed, 12 Jan 2022 20:15:22 GMT</pubDate>
-            <content:encoded><![CDATA[최근 카카오 선물하기로 위장한 피싱 메일을 통해 카카오톡 친구추가를 유도함으로써 계정정보 유출을 시도하는 공격이 지속적으로 발생하고 있어 사용자들의 각별한 주의가 필요하다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[과기정통부, 청년 인공지능·소프트웨어 교육 기회 대폭 확대 (보안뉴스 ─ IT)]]></title>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-01-13T05:19:05.562Z</updated>
+    <updated>2022-01-13T06:21:52.020Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[전 세계 ‘팩트체킹’ 기관들, “유튜브가 가장 큰 문제”]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104091&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104091&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-01-13T06:19:53.984Z</updated>
+        <content type="html"><![CDATA[사실 확인을 전문으로 하는 조직들이 유튜브를 “가장 거대한 허위 정보 및 가짜뉴스 살포 플랫폼”이라고 지목했다. 유튜브에서 각종 허위 정보가 퍼져가고 있는데, 유튜브를 관리하고 있는 구글은 별다른 조치를 취하지 않고 있다는 내용의 서신에 80개가 넘는 조직들이 서명하고...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[애플, 아이폰과 아이패드의 도어락 버그 고쳐]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=104090&amp;page=1&amp;mkind=1&amp;kind=1</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=104056&amp;page=1&amp;mkind=1&amp;kind=1"/>
         <updated>2022-01-12T20:15:22.171Z</updated>
         <content type="html"><![CDATA[FBI, CISA, NSA가 “러시아에서부터 시작된 사이버 공격에 유의하라”는 경고문을 발표했다. 특히 미국 사회 기반 시설을 노리는 공격이 거세게 이어지고 있다고 한다. 공격자들은 스피어피싱, 브루트포스, 취약점 익스플로잇, 서드파티 소프트웨어 침해, 자체 제작 멀웨...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[카카오로부터 온 ‘선물하기’ 메일? 피싱 통한 계정정보 탈취 공격]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104055&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104055&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-01-12T20:15:22.171Z</updated>
-        <content type="html"><![CDATA[최근 카카오 선물하기로 위장한 피싱 메일을 통해 카카오톡 친구추가를 유도함으로써 계정정보 유출을 시도하는 공격이 지속적으로 발생하고 있어 사용자들의 각별한 주의가 필요하다.]]></content>
     </entry>
 </feed>
