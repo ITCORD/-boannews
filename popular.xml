@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Jan 2022 20:19:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Jan 2022 21:15:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -40,20 +40,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/studythumb.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[2021년에 등장한 맥용 멀웨어들이 보여주는 애플 장비들의 보안 포인트]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=103977&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=103977&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Wed, 12 Jan 2022 20:15:13 GMT</pubDate>
-            <content:encoded><![CDATA[2021년에도 애플의 생태계가 안전하지 않다는 사실은 여실히 증명됐다. 물론 윈도나 안드로이드에 비하면 조금 나은 수준이긴 하지만 말이다. 보안 전문가 패트릭 워...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/apple-thumb-0107.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[단독] 국내 심스와핑 의심 피해자 또 나와... KT 사용자 2천여만원 피해입어]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104097&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104097&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Thu, 13 Jan 2022 13:25:37 GMT</pubDate>
             <content:encoded><![CDATA[&lt;보안뉴스&gt;가 단독 보도했던 ‘한국 심스와핑(SIM Swaping) 의심 공격’이 지난 1월 12일 새벽 또 다시 발생했다.]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/sim2_011301_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2021년에 등장한 맥용 멀웨어들이 보여주는 애플 장비들의 보안 포인트]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=103977&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=103977&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Wed, 12 Jan 2022 20:15:13 GMT</pubDate>
+            <content:encoded><![CDATA[2021년에도 애플의 생태계가 안전하지 않다는 사실은 여실히 증명됐다. 물론 윈도나 안드로이드에 비하면 조금 나은 수준이긴 하지만 말이다. 보안 전문가 패트릭 워...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/apple-thumb-0107.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[단독 인터뷰] 한국 심스와핑 의심 피해자 “유심 복사로 가상자산 털렸다”]]></title>
