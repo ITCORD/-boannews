@@ -4,9 +4,17 @@
         <title>보안뉴스 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Jan 2022 04:22:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Jan 2022 05:19:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[구름에 숨은 생쥐 3마리, 현대 기업을 위협하는 종합 선물 세트]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104093&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104093&amp;page=1&amp;kind=1</guid>
+            <pubDate>Thu, 13 Jan 2022 05:17:03 GMT</pubDate>
+            <content:encoded><![CDATA[유명 ‘원격 접근 트로이목마(RAT)’ 세 가지를 한꺼번에 활용한 대형 정보 탈취 캠페인이 적발됐다. 이 캠페인이 독특한 건, 나노코어(Nanocore),...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/rat-thumb-0113.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[미국 사이버 사령부, “이란 정부가 머디워터의 배후에 있다”]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104092&amp;page=1&amp;kind=1</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 12 Jan 2022 20:15:03 GMT</pubDate>
             <content:encoded><![CDATA[최근 조사를 통해 기업들의 멀웨어 다운로드 출처가 클라우드 애플리케이션임이 밝혀졌다. 보안 업체 넷스코프(Netskope)가 조사한 바에 따르면 2020년...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/cloud-humb-0112.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[개인정보위, 이석준 살인사건 관련 공공기관 개인정보 유출 대응]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104065&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104065&amp;page=1&amp;kind=2</guid>
-            <pubDate>Wed, 12 Jan 2022 20:15:03 GMT</pubDate>
-            <content:encoded><![CDATA[최근 발생한 이석준의 살인사건에서 피해자의 집주소가 공무원이 2만원에 흥신소에 넘겨 유출된 것으로 알려졌다. 개인정보보호위원회(위원장 윤종인)는 자치단체 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/21562143_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[슈프리마, 글로벌 파트너 서밋 통해 2022년 새로운 비전 선포]]></title>
@@ -225,12 +225,12 @@
             <content:encoded><![CDATA[어린이집 영유아 건강 관리도 이제는 스마트하게 한다. 서울 강서구는 어린이집 163개소에 실시간 건강 관리 모니터링 기기 312대를 지원했다고 밝혔다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2022년의 스타트를 끊는 정기 패치, 시작부터 100개에 육박]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104064&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104064&amp;page=1&amp;kind=1</guid>
+            <title><![CDATA[개인정보위, 이석준 살인사건 관련 공공기관 개인정보 유출 대응]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104065&amp;page=1&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104065&amp;page=1&amp;kind=2</guid>
             <pubDate>Wed, 12 Jan 2022 20:15:03 GMT</pubDate>
-            <content:encoded><![CDATA[마이크로소프트는 오늘 2022년 첫 번째 정기 패치를 발표했다. 이번 달은 100개에 조금 못 미치는 취약점들이 패치됐는데, 그 중 9개가 치명적 위험도를...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/fix-thumb-0112.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[최근 발생한 이석준의 살인사건에서 피해자의 집주소가 공무원이 2만원에 흥신소에 넘겨 유출된 것으로 알려졌다. 개인정보보호위원회(위원장 윤종인)는 자치단체 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/21562143_main.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

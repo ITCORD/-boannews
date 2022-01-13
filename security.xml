@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-01-13T04:22:42.023Z</updated>
+    <updated>2022-01-13T05:19:05.562Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[애플, 아이폰과 아이패드의 도어락 버그 고쳐]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104090&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104090&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-01-13T05:17:22.277Z</updated>
+        <content type="html"><![CDATA[얼마 전 애플의 아이폰과 아이패드를 사용불가 상태로 만들 수 있는 버그인 도어락(doorLock)이 발견됐다. 애플은 최근 업데이트를 발표하며 이 문제를 해결했다. 업데이트 된 버전은 iOS 15.2.1과 iPadOS 15.2.1이며, 사용자들에게는 빠른 패치 적용이 ...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[새로운 시스조커 멀웨어, 각종 OS 사용자들 노려]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=104089&amp;page=1&amp;mkind=1&amp;kind=1</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=104055&amp;page=1&amp;mkind=1&amp;kind=1"/>
         <updated>2022-01-12T20:15:22.171Z</updated>
         <content type="html"><![CDATA[최근 카카오 선물하기로 위장한 피싱 메일을 통해 카카오톡 친구추가를 유도함으로써 계정정보 유출을 시도하는 공격이 지속적으로 발생하고 있어 사용자들의 각별한 주의가 필요하다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아직 모바일보다 PC 온라인 게임이 더 좋다고? 해킹 수법도 더 많아요!]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104036&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104036&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-01-12T20:15:22.173Z</updated>
-        <content type="html"><![CDATA[스마트폰을 붙잡고 모바일 게임을 하기에 바쁜 시대, 여전히 PC 온라인 게임에 대한 애정을 갖고 있는 중장년층, 그리고 PC방에서 친구들과 함께 PC 온라인 게임을 즐기는 청소년층도 많다. 오늘도 오래된 PC 온라인 게임인 ‘월드오브워크래프트 온라인’(WOW)를 즐기고...]]></content>
     </entry>
 </feed>

@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Jan 2022 04:22:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Jan 2022 05:19:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -72,20 +72,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/noi-thumb-0107.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[구글 독스의 ‘주석’ 기능 활용한 새로운 피싱 공격 발견돼]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=103975&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=103975&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Wed, 12 Jan 2022 20:15:13 GMT</pubDate>
-            <content:encoded><![CDATA[구글 독스의 주석(comment) 기능을 악용하여 악성 링크를 유포하는 피싱 캠페인이 발견됐다. 이를 발견한 보안 업체 아바난(Avanan)은 구글이라는 브랜드가...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/comm-thumb-0107.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[MS 아웃룩, 12월 14일 보안 업데이트 이후 최신 메일 검색 불가]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104037&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104037&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Wed, 12 Jan 2022 20:15:13 GMT</pubDate>
             <content:encoded><![CDATA[인터넷 검색창에 ‘아웃룩 검색’을 검색해보면 지난해 12월부터 최근까지 아웃룩에서 메일이 검색되지 않는다는 글이 넘쳐난다. 주로 최근 2주 내에 받은 메일이 검색...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/out_011101_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[구글 독스의 ‘주석’ 기능 활용한 새로운 피싱 공격 발견돼]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=103975&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=103975&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Wed, 12 Jan 2022 20:15:13 GMT</pubDate>
+            <content:encoded><![CDATA[구글 독스의 주석(comment) 기능을 악용하여 악성 링크를 유포하는 피싱 캠페인이 발견됐다. 이를 발견한 보안 업체 아바난(Avanan)은 구글이라는 브랜드가...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/comm-thumb-0107.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[악명 높은 블랙매터 랜섬웨어에서 논리 오류가 하나 발견됐다]]></title>
@@ -104,20 +104,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/law-thumb-0111.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[2022년 공공부문 정보보호 제품·서비스 구매 예산 분석]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=103844&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=103844&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
-            <pubDate>Wed, 12 Jan 2022 20:15:13 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 공공부문 SW·ICT장비 사업 중 정보보호관련 예산이 포함된 예산은 1조 3,094억원으로 이중 정보보호관련 제품·서비스 구매 예산은 6,064억원이다...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/20733811_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[단독 인터뷰] 한국 심스와핑 의심 피해자 “유심 복사로 가상자산 털렸다”]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104063&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104063&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Thu, 13 Jan 2022 02:10:27 GMT</pubDate>
             <content:encoded><![CDATA[새해 첫 주, &lt;보안뉴스&gt;에 전 세계적으로도 매우 드문 유형의 가상자산(암호화폐) 탈취 사건에 대한 제보가 접수됐다. 이른바 ‘심스와핑(SIM Swap...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/19695308_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022년 공공부문 정보보호 제품·서비스 구매 예산 분석]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=103844&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=103844&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
+            <pubDate>Wed, 12 Jan 2022 20:15:13 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 공공부문 SW·ICT장비 사업 중 정보보호관련 예산이 포함된 예산은 1조 3,094억원으로 이중 정보보호관련 제품·서비스 구매 예산은 6,064억원이다...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/20733811_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[새로운 해, 새로운 랜섬웨어 나이트스카이의 등장]]></title>
@@ -144,20 +144,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/nkrus-thumb-0107.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[주차요금 결제도 점차 ‘비대면’으로 전환되고 있는 헝가리]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=103903&amp;page=1&amp;kind=4&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=103903&amp;page=1&amp;kind=4&amp;search=title&amp;find=</guid>
-            <pubDate>Wed, 12 Jan 2022 20:15:13 GMT</pubDate>
-            <content:encoded><![CDATA[전 세계가 코로나19로 어려움을 겪고 있지만 온라인 화상회의 플랫폼 줌(Zoom) 등 비대면 서비스를 제공하는 기업에게는 오히려 호재가 됐다. 헝가리 스타트업 롤...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/22010501ss.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[최정식 발행인 칼럼] 2022년도 사이버보안 예상 키워드, ‘홈네트워크 위협’]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104004&amp;page=1&amp;kind=6&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104004&amp;page=1&amp;kind=6&amp;search=title&amp;find=</guid>
             <pubDate>Wed, 12 Jan 2022 20:15:13 GMT</pubDate>
             <content:encoded><![CDATA[2021년도의 사이버보안 핵심 키워드는 ‘공급망에 대한 사이버보안 위협’이었다. 그리고 2022년에는 ‘홈네트워크(Home Network)와 관련된 위협’이 우리...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/20220110home-s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[주차요금 결제도 점차 ‘비대면’으로 전환되고 있는 헝가리]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=103903&amp;page=1&amp;kind=4&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=103903&amp;page=1&amp;kind=4&amp;search=title&amp;find=</guid>
+            <pubDate>Wed, 12 Jan 2022 20:15:13 GMT</pubDate>
+            <content:encoded><![CDATA[전 세계가 코로나19로 어려움을 겪고 있지만 온라인 화상회의 플랫폼 줌(Zoom) 등 비대면 서비스를 제공하는 기업에게는 오히려 호재가 됐다. 헝가리 스타트업 롤...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/22010501ss.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[에너지 및 사회 인프라 분야의 사이버 보안을 7가지로 예측한다]]></title>
