@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Jan 2022 14:17:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Jan 2022 15:19:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -274,20 +274,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/apple-thumb-0107.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[오탐은 잘못된 정보이기만 하고, 쓸모없는 노이즈인 걸까? (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=103965&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=103965&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Wed, 12 Jan 2022 20:15:13 GMT</pubDate>
-            <content:encoded><![CDATA[‘오탐’은 사이버 보안 업계에서는 공공의 적과 같다. 특히 많은 보안 업체들이 ‘이 오탐 때문에 진짜 경고를 사람들이 지겨워하고 넘겨듣게 된다’고 주장하기 시작하...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/noi-thumb-0107.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[단독 인터뷰] 한국 심스와핑 의심 피해자 “유심 복사로 가상자산 털렸다” (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104063&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104063&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Thu, 13 Jan 2022 02:10:27 GMT</pubDate>
             <content:encoded><![CDATA[새해 첫 주, &lt;보안뉴스&gt;에 전 세계적으로도 매우 드문 유형의 가상자산(암호화폐) 탈취 사건에 대한 제보가 접수됐다. 이른바 ‘심스와핑(SIM Swap...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/19695308_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[단독] 국내 심스와핑 의심 피해자 또 나와... KT 사용자 2천여만원 피해입어 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104097&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104097&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Thu, 13 Jan 2022 13:25:37 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;보안뉴스&gt;가 단독 보도했던 ‘한국 심스와핑(SIM Swaping) 의심 공격’이 지난 1월 12일 새벽 또 다시 발생했다.]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/sim2_011301_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[MS 아웃룩, 12월 14일 보안 업데이트 이후 최신 메일 검색 불가 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
@@ -322,14 +322,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/bm-thumb-0110.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[단독] 국내 심스와핑 의심 피해자 또 나와... KT 사용자 2천여만원 피해입어 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104097&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104097&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Thu, 13 Jan 2022 13:25:37 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;보안뉴스&gt;가 단독 보도했던 ‘한국 심스와핑(SIM Swaping) 의심 공격’이 지난 1월 12일 새벽 또 다시 발생했다.]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/sim2_011301_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[2022년 공공부문 정보보호 제품·서비스 구매 예산 분석 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=103844&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=103844&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
@@ -354,20 +346,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/1-86(295).jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[북한의 해커들, 러시아 외무부 공격하며 새해 시작 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=103971&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=103971&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Wed, 12 Jan 2022 20:15:13 GMT</pubDate>
-            <content:encoded><![CDATA[북한의 사이버 공격 단체인 코니(Konni)가 움직이기 시작했다. 러시아의 외무부에 대한 표적 공격을 감행하고 있다. 러시아 외무부 내에서 사용되는 윈도 시스템들...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/nkrus-thumb-0107.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[카카오로부터 온 ‘선물하기’ 메일? 피싱 통한 계정정보 탈취 공격 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104055&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104055&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Thu, 13 Jan 2022 06:19:43 GMT</pubDate>
             <content:encoded><![CDATA[최근 카카오 선물하기로 위장한 피싱 메일을 통해 카카오톡 친구추가를 유도함으로써 계정정보 유출을 시도하는 공격이 지속적으로 발생하고 있어 사용자들의 각별한 주의가...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/20220113KAKAO-S.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[북한의 해커들, 러시아 외무부 공격하며 새해 시작 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=103971&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=103971&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Wed, 12 Jan 2022 20:15:13 GMT</pubDate>
+            <content:encoded><![CDATA[북한의 사이버 공격 단체인 코니(Konni)가 움직이기 시작했다. 러시아의 외무부에 대한 표적 공격을 감행하고 있다. 러시아 외무부 내에서 사용되는 윈도 시스템들...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/nkrus-thumb-0107.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[최정식 발행인 칼럼] 2022년도 사이버보안 예상 키워드, ‘홈네트워크 위협’ (보안뉴스 ─ 가장 많이 본 기사)]]></title>
@@ -392,6 +384,13 @@
             <pubDate>Thu, 13 Jan 2022 08:20:06 GMT</pubDate>
             <content:encoded><![CDATA[사이버 공격으로 사회 기능을 마비시킬 수 있는 시대다. 세계 경제의 메가 트렌드인 디지털 융합과 에너지 변환과 같은 흐름을 면밀히 파악해왔던 사람들이라면 아마 ‘...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/ene-thumb-0110.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[천안시, 지능형 교통체계로 ‘뻥’ 뚫리는 교통망 구축 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=103981&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=103981&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
+            <pubDate>Thu, 13 Jan 2022 15:17:03 GMT</pubDate>
+            <content:encoded><![CDATA[천안시가 2022년을 ‘스마트 교통도시 천안’ 기틀 원년의 해로 삼고 주요 간선도로 교차로 교통흐름 개선 및 보행자 교통사고 예방을 위해 총력을 기울일 방침이다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[포토뉴스] 서울여대 정보보호학과 학생회, 보안뉴스 방문 (보안뉴스 ─ SECURITY)]]></title>
