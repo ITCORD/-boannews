@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-01-13T08:22:09.253Z</updated>
+    <updated>2022-01-13T09:18:37.613Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[포토뉴스] 서울여대 정보보호학과 학생회, 보안뉴스 방문]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104094&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104094&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-01-13T09:16:59.002Z</updated>
+        <content type="html"><![CDATA[서울여자대학교 정보보호학과 학생회 학생들이 1월 13일 &lt;보안뉴스&gt;를 방문했다. 그동안 보안뉴스에 ‘카드뉴스’를 연재했던 서울여대 정보보호학과 학생회 학생들은 이번 방문을 계기로 2022년에는 기사 작성, 영상 콘텐츠 제작, 세미나 등 보다 다양한 활동을 다...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[구름에 숨은 생쥐 3마리, 현대 기업을 위협하는 종합 선물 세트]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=104093&amp;page=1&amp;mkind=1&amp;kind=1</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=104059&amp;page=1&amp;mkind=1&amp;kind=1"/>
         <updated>2022-01-12T20:15:22.164Z</updated>
         <content type="html"><![CDATA[최근 새롭게 등장한 랜섬웨어 갱단인 나이트스카이(Night Sky)가 로그4셸(Log4Shell) 취약점을 공략하기 시작했다. VM웨어 호라이즌(Horizon)에 접근하기 위한 것으로 보인다. 나이트스카이는 현재까지 방글라데시와 일본의 조직을 공격한 전적을 가지고 있다...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전 세계 수천만 라우터에 영향 주는 새로운 취약점 나와]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104058&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104058&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-01-12T20:15:22.170Z</updated>
-        <content type="html"><![CDATA[넷기어(Netgear), TP링크(TP-Link), 텐다(Tenda), 에디맥스(EDiMAX), 디링크(D-Link), 웨스턴디지털(Western Digital) 등에서 만든 라우터들에는 한 가지 공통된 요소들이 있다. 케이코즈 넷유에스비(KCodes NetUSB)가 ...]]></content>
     </entry>
 </feed>
