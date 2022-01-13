@@ -4,9 +4,57 @@
         <title>보안뉴스 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 13 Jan 2022 02:12:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Jan 2022 03:20:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[미국 사이버 사령부, “이란 정부가 머디워터의 배후에 있다”]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104092&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104092&amp;page=1&amp;kind=1</guid>
+            <pubDate>Thu, 13 Jan 2022 03:18:27 GMT</pubDate>
+            <content:encoded><![CDATA[미국의 사이버 사령부가 전 세계 곳곳의 컴퓨터 네트워크를 공격하고 있는 해킹 단체의 배후에 이란 정부가 있다고 지목했다. 해킹 단체는 머디워터(MuddyW...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/mud-thumb-0113.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[전 세계 ‘팩트체킹’ 기관들, “유튜브가 가장 큰 문제”]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104091&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104091&amp;page=1&amp;kind=1</guid>
+            <pubDate>Thu, 13 Jan 2022 03:18:27 GMT</pubDate>
+            <content:encoded><![CDATA[사실 확인을 전문으로 하는 조직들이 유튜브를 “가장 거대한 허위 정보 및 가짜뉴스 살포 플랫폼”이라고 지목했다. 유튜브에서 각종 허위 정보가 퍼져가고 있는...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/you-thumb-0113.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[애플, 아이폰과 아이패드의 도어락 버그 고쳐]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104090&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104090&amp;page=1&amp;kind=1</guid>
+            <pubDate>Thu, 13 Jan 2022 03:18:27 GMT</pubDate>
+            <content:encoded><![CDATA[얼마 전 애플의 아이폰과 아이패드를 사용불가 상태로 만들 수 있는 버그인 도어락(doorLock)이 발견됐다. 애플은 최근 업데이트를 발표하며 이 문제를 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/door-thumb-0113.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[새로운 시스조커 멀웨어, 각종 OS 사용자들 노려]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104089&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104089&amp;page=1&amp;kind=1</guid>
+            <pubDate>Thu, 13 Jan 2022 03:18:27 GMT</pubDate>
+            <content:encoded><![CDATA[새로운 다중 플랫폼 백도어가 발견됐다. 이름은 시스조커(SysJoker)로, 윈도, 리눅스, 맥OS를 전부 노리는 멀웨어다. 2021년 하반기부터 진행된 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/jok-thumb-0113.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[AWS와 애저를 통해 진행된 대규모 정보 탈취 캠페인]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104088&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104088&amp;page=1&amp;kind=1</guid>
+            <pubDate>Thu, 13 Jan 2022 03:18:27 GMT</pubDate>
+            <content:encoded><![CDATA[사이버 공격자들이 대형 클라우드 서비스에 자신들의 멀웨어를 호스팅 해놓은 상태에서 대형 캠페인을 진행했다는 사실이 밝혀졌다. 연루된 클라우드 서비스는 AW...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/cloud-thumb-0113.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[랜섬웨어, 미국 감옥까지 공격해 시설 마비시켜]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104087&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104087&amp;page=1&amp;kind=1</guid>
+            <pubDate>Thu, 13 Jan 2022 03:18:27 GMT</pubDate>
+            <content:encoded><![CDATA[미국 뉴멕시코 주의 감옥 한 군데가 랜섬웨어에 감염되는 발마에 감시 카메라들이 마비되고, 수감자들이 방 밖으로 나오지 못하고 있다. 통제 서버와 인터넷 연...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/prison-thumb-0113.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[신용카드사와 은행, 북한 내부정보 등 위장한 北 해킹 공격 연이어 발견]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104085&amp;page=1&amp;kind=1</link>
@@ -38,54 +86,6 @@
             <pubDate>Wed, 12 Jan 2022 20:15:03 GMT</pubDate>
             <content:encoded><![CDATA[최근 발생한 이석준의 살인사건에서 피해자의 집주소가 공무원이 2만원에 흥신소에 넘겨 유출된 것으로 알려졌다. 개인정보보호위원회(위원장 윤종인)는 자치단체 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/21562143_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022년의 스타트를 끊는 정기 패치, 시작부터 100개에 육박]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104064&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104064&amp;page=1&amp;kind=1</guid>
-            <pubDate>Wed, 12 Jan 2022 20:15:03 GMT</pubDate>
-            <content:encoded><![CDATA[마이크로소프트는 오늘 2022년 첫 번째 정기 패치를 발표했다. 이번 달은 100개에 조금 못 미치는 취약점들이 패치됐는데, 그 중 9개가 치명적 위험도를...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/fix-thumb-0112.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마이크로소프트, 새해 첫 정기 패치 발표하며 6개 제로데이 다뤄]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104061&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104061&amp;page=1&amp;kind=1</guid>
-            <pubDate>Wed, 12 Jan 2022 20:15:03 GMT</pubDate>
-            <content:encoded><![CDATA[MS의 2022년 첫 정기 패치일이다. 1월부터 MS는 97개라는 어마어마한 패치를 발표했다. 치명적인 위험도를 갖춘 취약점이 9개, 제로데이 취약점이 6...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/ms-thumb-0112.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[어도비, 15만 달러짜리 리더 취약점 패치해]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104060&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104060&amp;page=1&amp;kind=1</guid>
-            <pubDate>Wed, 12 Jan 2022 20:15:03 GMT</pubDate>
-            <content:encoded><![CDATA[어도비가 2022년 첫 정기 패치를 발표했다. 총 26개의 취약점이 이번 패치를 통해 다뤄졌다. 	이 중 16개가 치명적인 위험도를 가진 것으로 분석됐는데...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/pat-thumb-0112.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나이트스카이 랜섬웨어, VM웨어 호라이즌의 로그4셸 공략]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104059&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104059&amp;page=1&amp;kind=1</guid>
-            <pubDate>Wed, 12 Jan 2022 20:15:03 GMT</pubDate>
-            <content:encoded><![CDATA[최근 새롭게 등장한 랜섬웨어 갱단인 나이트스카이(Night Sky)가 로그4셸(Log4Shell) 취약점을 공략하기 시작했다. VM웨어 호라이즌(Horiz...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/ns-thumb-0112.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전 세계 수천만 라우터에 영향 주는 새로운 취약점 나와]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104058&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104058&amp;page=1&amp;kind=1</guid>
-            <pubDate>Wed, 12 Jan 2022 20:15:03 GMT</pubDate>
-            <content:encoded><![CDATA[넷기어(Netgear), TP링크(TP-Link), 텐다(Tenda), 에디맥스(EDiMAX), 디링크(D-Link), 웨스턴디지털(Western Digi...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/rou-thumb-0112.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국가 지원 해커들, 로그4j 공략하며 새 백도어 사용]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104057&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104057&amp;page=1&amp;kind=1</guid>
-            <pubDate>Wed, 12 Jan 2022 20:15:03 GMT</pubDate>
-            <content:encoded><![CDATA[이란의 APT35로 보이는 해커들이 로그4j(Log4j)의 취약점을 익스플로잇 하기 시작했다는 증거가 나오기 시작했다. 이들은 취약점을 통해 새로운 파워셸...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/kitten-thumb-0112.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[슈프리마, 글로벌 파트너 서밋 통해 2022년 새로운 비전 선포]]></title>
@@ -225,12 +225,12 @@
             <content:encoded><![CDATA[어린이집 영유아 건강 관리도 이제는 스마트하게 한다. 서울 강서구는 어린이집 163개소에 실시간 건강 관리 모니터링 기기 312대를 지원했다고 밝혔다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[미국, 러시아 해커들에 관한 포괄적 경고문 발표]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104056&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104056&amp;page=1&amp;kind=1</guid>
+            <title><![CDATA[2022년의 스타트를 끊는 정기 패치, 시작부터 100개에 육박]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104064&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104064&amp;page=1&amp;kind=1</guid>
             <pubDate>Wed, 12 Jan 2022 20:15:03 GMT</pubDate>
-            <content:encoded><![CDATA[FBI, CISA, NSA가 “러시아에서부터 시작된 사이버 공격에 유의하라”는 경고문을 발표했다. 특히 미국 사회 기반 시설을 노리는 공격이 거세게 이어지...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/usrus-thumb-0112.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[마이크로소프트는 오늘 2022년 첫 번째 정기 패치를 발표했다. 이번 달은 100개에 조금 못 미치는 취약점들이 패치됐는데, 그 중 9개가 치명적 위험도를...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/fix-thumb-0112.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

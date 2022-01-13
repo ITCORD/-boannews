@@ -2,9 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-01-13T02:12:09.614Z</updated>
+    <updated>2022-01-13T03:20:28.993Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[새로운 시스조커 멀웨어, 각종 OS 사용자들 노려]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104089&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104089&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-01-13T03:18:45.849Z</updated>
+        <content type="html"><![CDATA[새로운 다중 플랫폼 백도어가 발견됐다. 이름은 시스조커(SysJoker)로, 윈도, 리눅스, 맥OS를 전부 노리는 멀웨어다. 2021년 하반기부터 진행된 정보 탈취 캠페인에 활용된 것으로 보이며 주로 가짜 시스템 업데이트 형태로 유포되고 있다고 한다. 시스조커의 배후에...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AWS와 애저를 통해 진행된 대규모 정보 탈취 캠페인]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104088&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104088&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-01-13T03:18:45.852Z</updated>
+        <content type="html"><![CDATA[사이버 공격자들이 대형 클라우드 서비스에 자신들의 멀웨어를 호스팅 해놓은 상태에서 대형 캠페인을 진행했다는 사실이 밝혀졌다. 연루된 클라우드 서비스는 AWS와 애저이며, 캠페인에 사용된 멀웨어는 에이싱크랫(AsyncRAT), 넷와이어(Netwire), 나노코어(Nano...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[랜섬웨어, 미국 감옥까지 공격해 시설 마비시켜]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104087&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104087&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-01-13T03:18:45.861Z</updated>
+        <content type="html"><![CDATA[미국 뉴멕시코 주의 감옥 한 군데가 랜섬웨어에 감염되는 발마에 감시 카메라들이 마비되고, 수감자들이 방 밖으로 나오지 못하고 있다. 통제 서버와 인터넷 연결 시스템들이 전부 감염된 상태라고 하며, 덕분에 수감자들이 방 밖으로 나와야만 하는 일이 있을 때마다 교도관들이 ...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[신용카드사와 은행, 북한 내부정보 등 위장한 北 해킹 공격 연이어 발견]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104085&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104085&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-01-13T03:18:45.864Z</updated>
+        <content type="html"><![CDATA[2022년 새해 들어 북한 배후 소행으로 분류된 사이버 위협 활동이 증가 추세에 있어 각별한 주의와 대비가 요구된다고 보안 전문 기업 이스트시큐리티(대표 정상원)가 밝혔다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[중부발전, 개인정보보호 관리수준 진단 최고등급 획득]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104074&amp;page=1&amp;mkind=1&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104074&amp;page=1&amp;mkind=1&amp;kind=2"/>
+        <updated>2022-01-13T03:18:45.865Z</updated>
+        <content type="html"><![CDATA[한국중부발전은 개인정보보호위원회에서 실시한 ‘2021년 개인정보보호 관리수준 진단’에서 100점 만점 달성과 함께 4년 연속 최고등급인 ‘양호’ 등급을 획득하였다고 밝혔다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독 인터뷰] 한국 심스와핑 의심 피해자 “유심 복사로 가상자산 털렸다”]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104063&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104063&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-01-13T03:18:45.867Z</updated>
+        <content type="html"><![CDATA[새해 첫 주, &lt;보안뉴스&gt;에 전 세계적으로도 매우 드문 유형의 가상자산(암호화폐) 탈취 사건에 대한 제보가 접수됐다. 이른바 ‘심스와핑(SIM Swaping)’ 공격을 받았다는 내용이었다. 유심 칩의 정보를 훔쳐 ‘복사 유심’을 만든 뒤, 이를 다른 스마트폰...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[사이버 공격자들, 이제 클라우드 서비스 사용해 멀웨어 유포한다]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=104066&amp;page=1&amp;mkind=1&amp;kind=1</id>
@@ -81,47 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=104036&amp;page=1&amp;mkind=1&amp;kind=1"/>
         <updated>2022-01-12T20:15:22.173Z</updated>
         <content type="html"><![CDATA[스마트폰을 붙잡고 모바일 게임을 하기에 바쁜 시대, 여전히 PC 온라인 게임에 대한 애정을 갖고 있는 중장년층, 그리고 PC방에서 친구들과 함께 PC 온라인 게임을 즐기는 청소년층도 많다. 오늘도 오래된 PC 온라인 게임인 ‘월드오브워크래프트 온라인’(WOW)를 즐기고...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021년 4분기에 차단한 ‘랜섬웨어 공격’ 총 16만 4,000여 건]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104054&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104054&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-01-12T20:15:22.173Z</updated>
-        <content type="html"><![CDATA[보안 전문 기업 이스트시큐리티(대표 정상원)는 자사의 백신 프로그램 ‘알약’을 통해, 2021년 4분기 총 16만 3,229건의 랜섬웨어 공격을 차단했다고 12일 밝혔다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국가정보자원관리원, 가명정보 결합전문기관 지정]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104053&amp;page=1&amp;mkind=1&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104053&amp;page=1&amp;mkind=1&amp;kind=2"/>
-        <updated>2022-01-12T20:15:22.185Z</updated>
-        <content type="html"><![CDATA[행정안전부는 국가정보자원관리원을 가명정보 결합전문기관으로 지정(2021년 12월 28일)하고, 행정·공공기관의 개인정보 가명화 및 결합 업무를 지원하기 위한 체계를 마련했다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[새만금청, 공공기관 개인정보 관리 최우수 기관 선정]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104049&amp;page=1&amp;mkind=1&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104049&amp;page=1&amp;mkind=1&amp;kind=2"/>
-        <updated>2022-01-12T20:15:22.186Z</updated>
-        <content type="html"><![CDATA[새만금개발청은 지난 11일 개인정보보호위원회가 주관하는 2021년도 공공기관 개인정보 관리수준 진단 결과에서 100점 만점을 획득해 3년 연속 최우수 등급을 달성했다고 밝혔다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[반도체 등 국가첨단전략산업 육성·보호로 경제안보 지켜낸다]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104048&amp;page=1&amp;mkind=1&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104048&amp;page=1&amp;mkind=1&amp;kind=2"/>
-        <updated>2022-01-12T20:15:22.186Z</updated>
-        <content type="html"><![CDATA[산업통상자원부는 지난 11일 ‘국가첨단전략산업 경쟁력 강화 및 육성에 관한 특별조치법’이 국회를 통과했다고 밝혔다. 정부는 2021년 5월 관계 부처 합동 ‘K-반도체 전략’ 수립 이후 ‘반도체 특별법’ 제정을 추진해 왔으며, 약 8개월간의 논의 끝에 국회에서 국가첨단...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[보안 사고 대처의 새로운 트렌드, “법 전문가부터 찾아라!”]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104038&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104038&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-01-12T20:15:22.189Z</updated>
-        <content type="html"><![CDATA[데이터 침해 사고에 대처하는 기업들의 방식이 조금씩 바뀌는 중이다. 사건 대응 팀 혹은 보안 전문 기업들에 먼저 전화를 하는 게 아니라 외부 법률 자문이나 변호사에게 먼저 연락을 하는 경우가 늘어나고 있다고 한다. 이 때문에 법적인 대응에는 조금 더 빨라지지만, 기술적...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코로나19에 따른 사이버위협,  AI 기반 보안기술로 대응하라]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=103974&amp;page=1&amp;mkind=1&amp;kind=5</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=103974&amp;page=1&amp;mkind=1&amp;kind=5"/>
-        <updated>2022-01-12T20:15:22.191Z</updated>
-        <content type="html"><![CDATA[코로나19가 전 세계에 창궐한 지 2년이 지난 지금, 비대면 업무환경이 증가함에 따라 사이버 위협도 점차 커지고 있다. 이에 &lt;보안뉴스&gt;에서는 정보보호학회지(제31권 제5호)에 실린 ‘코로나19에 따른 사이버 위협 및 대응기술 동향’이라는 논문을 중심으로 코...]]></content>
     </entry>
 </feed>
