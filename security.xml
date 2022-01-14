@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-01-13T23:18:36.245Z</updated>
+    <updated>2022-01-14T00:57:42.377Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[현대중공업, 업계 최초 정보보호 국제표준 4종 동시 획득]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104102&amp;page=1&amp;mkind=1&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104102&amp;page=1&amp;mkind=1&amp;kind=3"/>
+        <updated>2022-01-14T00:55:52.077Z</updated>
+        <content type="html"><![CDATA[현대중공업이 조선업계 최초로 ‘정보보호 및 개인정보 관리체계 국제 표준인증(ISO)’ 4종을 동시에 획득했다고 밝혔다. 현대중공업은 지난해 3월 국내 조선업체 최초로 ‘ISO27001(정보보호 관리체계), ISO 27701(개인정보보호 관리체계)를 취득한 이후 지속적으...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[단독] 국내 심스와핑 의심 피해자 또 나와... KT 사용자 2천여만원 피해 입어]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104097&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104097&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-01-14T00:55:52.077Z</updated>
+        <content type="html"><![CDATA[&lt;보안뉴스&gt;가 단독 보도했던 ‘한국 심스와핑(SIM Swaping) 의심 공격’이 지난 1월 12일 새벽 또 다시 발생했다. 역시나 지난 번 수법과 동일하게 새벽에 유심이 다른 스마트폰에 장착되어 사용자의 스마트폰이 먹통이 되는 ‘유심 기변’이 일어났으며, ...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘Weekly Security Premium Report’ 제34호 발간! 한 호흡으로 읽는 2022년 보안 전망]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104095&amp;page=1&amp;mkind=1&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104095&amp;page=1&amp;mkind=1&amp;kind=3"/>
+        <updated>2022-01-14T00:55:52.102Z</updated>
+        <content type="html"><![CDATA[1월 13일 발간된 ‘Weekly Security Premium Report’ 제34호에는 &lt;보안 심층 리포트&gt; 코너에서 2021년 주요 보안이슈와 사건사고 중심으로 2022년 전망과 대응방안을 공유하는 ‘한 호흡으로 읽는 2022년 보안 전망’을 주제로 다...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[보안 교육, 원래 최고 임원진들부터 시작해 내려오는 게 맞다]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104096&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104096&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-01-14T00:55:52.105Z</updated>
+        <content type="html"><![CDATA[사이버 범죄자들은 회사의 직원들만 골라서 노리지 않는다. 오히려 C레벨 임원들이라면 더 ‘땡큐’다. 데이터 침해 사건은 해마다 크게 증가하고 있는데, 이 사건 중 상당수가 ‘임원’을 겨냥한 것이었다. 기업들에 가장 큰 피해를 일으키고 있다는 BEC 공격의 경우에도 C레...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[포토뉴스] 서울여대 정보보호학과 학생회, 보안뉴스 방문]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=104094&amp;page=1&amp;mkind=1&amp;kind=1</id>
@@ -95,33 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=104065&amp;page=1&amp;mkind=1&amp;kind=2"/>
         <updated>2022-01-13T00:57:17.511Z</updated>
         <content type="html"><![CDATA[최근 발생한 이석준의 살인사건에서 피해자의 집주소가 공무원이 2만원에 흥신소에 넘겨 유출된 것으로 알려졌다. 개인정보보호위원회(위원장 윤종인)는 자치단체 공무원으로 인해 발생한 개인정보 유출사건과 관련하여 엄중하게 인식하고 있으며, 공공기관에 의한 개인정보 유출사건에 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022년의 스타트를 끊는 정기 패치, 시작부터 100개에 육박]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104064&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104064&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-01-12T20:15:22.159Z</updated>
-        <content type="html"><![CDATA[마이크로소프트는 오늘 2022년 첫 번째 정기 패치를 발표했다. 이번 달은 100개에 조금 못 미치는 취약점들이 패치됐는데, 그 중 9개가 치명적 위험도를 가지고 있는 것으로 분석됐으며, 6개는 제로데이 취약점으로 분류됐다. 다행인 건 공격자들의 익스플로잇이 벌써부터 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마이크로소프트, 새해 첫 정기 패치 발표하며 6개 제로데이 다뤄]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104061&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104061&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-01-12T20:15:22.162Z</updated>
-        <content type="html"><![CDATA[MS의 2022년 첫 정기 패치일이다. 1월부터 MS는 97개라는 어마어마한 패치를 발표했다. 치명적인 위험도를 갖춘 취약점이 9개, 제로데이 취약점이 6개였다. 치명적인 위험도를 가진 취약점 중에는 자가 증식(워머블)이 가능한 취약점도 포함되어 있었다. 이 취약점은 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어도비, 15만 달러짜리 리더 취약점 패치해]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104060&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104060&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-01-12T20:15:22.164Z</updated>
-        <content type="html"><![CDATA[어도비가 2022년 첫 정기 패치를 발표했다. 총 26개의 취약점이 이번 패치를 통해 다뤄졌다. 	이 중 16개가 치명적인 위험도를 가진 것으로 분석됐는데, CVSS를 기준으로는 ‘고위험군’에서 ‘치명적 위험군’에 포함된다. 이번 취약점들 중 CVE-2021-44704...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나이트스카이 랜섬웨어, VM웨어 호라이즌의 로그4셸 공략]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104059&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104059&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-01-12T20:15:22.164Z</updated>
-        <content type="html"><![CDATA[최근 새롭게 등장한 랜섬웨어 갱단인 나이트스카이(Night Sky)가 로그4셸(Log4Shell) 취약점을 공략하기 시작했다. VM웨어 호라이즌(Horizon)에 접근하기 위한 것으로 보인다. 나이트스카이는 현재까지 방글라데시와 일본의 조직을 공격한 전적을 가지고 있다...]]></content>
     </entry>
 </feed>
