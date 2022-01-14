@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Jan 2022 03:20:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jan 2022 04:22:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -375,6 +375,14 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/ene-thumb-0110.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[구름에 숨은 생쥐 3마리, 현대 기업을 위협하는 종합 선물 세트 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104093&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104093&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Fri, 14 Jan 2022 03:18:15 GMT</pubDate>
+            <content:encoded><![CDATA[유명 ‘원격 접근 트로이목마(RAT)’ 세 가지를 한꺼번에 활용한 대형 정보 탈취 캠페인이 적발됐다. 이 캠페인이 독특한 건, 나노코어(Nanocore), 넷와이...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/rat-thumb-0113.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[천안시, 지능형 교통체계로 ‘뻥’ 뚫리는 교통망 구축 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=103981&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=103981&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
@@ -388,14 +396,6 @@
             <pubDate>Fri, 14 Jan 2022 03:18:15 GMT</pubDate>
             <content:encoded><![CDATA[최근 조사를 통해 기업들의 멀웨어 다운로드 출처가 클라우드 애플리케이션임이 밝혀졌다. 보안 업체 넷스코프(Netskope)가 조사한 바에 따르면 2020년 1월 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/cloud-humb-0112.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[구름에 숨은 생쥐 3마리, 현대 기업을 위협하는 종합 선물 세트 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104093&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104093&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Fri, 14 Jan 2022 03:18:15 GMT</pubDate>
-            <content:encoded><![CDATA[유명 ‘원격 접근 트로이목마(RAT)’ 세 가지를 한꺼번에 활용한 대형 정보 탈취 캠페인이 적발됐다. 이 캠페인이 독특한 건, 나노코어(Nanocore), 넷와이...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/rat-thumb-0113.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[우크라이나, 랜섬웨어 그룹 일망타진해 공격 인프라 폐쇄시켜 (보안뉴스 ─ SECURITY)]]></title>
