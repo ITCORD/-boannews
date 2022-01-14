@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Jan 2022 04:22:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jan 2022 05:19:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -86,6 +86,13 @@
             <pubDate>Thu, 13 Jan 2022 08:19:55 GMT</pubDate>
             <content:encoded><![CDATA[1월 13일 발간된 ‘Weekly Security Premium Report’ 제34호에는 &lt;보안 심층 리포트&gt; 코너에서 2021년 주요 보안이...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/20220113report-sm.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[개인정보위, ‘신년 개인정보 정책 간담회’ 개최 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104124&amp;page=1&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104124&amp;page=1&amp;kind=2</guid>
+            <pubDate>Fri, 14 Jan 2022 05:16:47 GMT</pubDate>
+            <content:encoded><![CDATA[개인정보보호위원회(위원장 윤종인, 이하 ‘개인정보위’)는 1월 14일(금) 정부서울청사에서, 2022년 새해를 맞아 개인정보 전망과 과제에 대해 논의하기 ...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[안랩, 디지털 직무교육 사회공헌 프로그램 ‘안랩샘(SEM)’ 13기 수료식 개최 (보안뉴스 ─ 전체기사)]]></title>
@@ -231,14 +238,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/ce-thumb-0113.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[포토뉴스] 서울여대 정보보호학과 학생회, 보안뉴스 방문 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104094&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104094&amp;page=1&amp;kind=1</guid>
-            <pubDate>Thu, 13 Jan 2022 06:19:33 GMT</pubDate>
-            <content:encoded><![CDATA[서울여자대학교 정보보호학과 학생회 학생들이 1월 13일 &lt;보안뉴스&gt;를 방문했다. 그동안 보안뉴스에 ‘카드뉴스’를 연재했던 서울여대 정보보호학과 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/IMG_9129_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[유출된 카카오톡 계정 악용한 대규모 로그인 시도 공격 발생했다 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=103990&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=103990&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
@@ -261,14 +260,6 @@
             <pubDate>Thu, 13 Jan 2022 13:25:37 GMT</pubDate>
             <content:encoded><![CDATA[&lt;보안뉴스&gt;가 단독 보도했던 ‘한국 심스와핑(SIM Swapping) 의심 공격’이 지난 1월 12일 새벽 또 다시 발생했다. 역시나 지난 번 수법과 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/sim2_011301_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[긴급] 카카오 계정 이용자 보호 상태 변경? 알고 보니 피싱 메일 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=103973&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=103973&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Wed, 12 Jan 2022 20:15:13 GMT</pubDate>
-            <content:encoded><![CDATA[최근 카카오 계정 이용자 보호 상태로 변경됐다는 내용으로 피싱 메일이 유포돼 카카오 이용자들의 각별한 주의가 요구된다. 보안업체 이스트시큐리티 시큐리티대응센터(E...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/20220107kakao-S.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[[주말판] 2022년 크게 도움이 될 것으로 예상되는 IT 분야 기술들 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
@@ -383,6 +374,14 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/rat-thumb-0113.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[사이버 공격자들, 이제 클라우드 서비스 사용해 멀웨어 유포한다 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104066&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104066&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Fri, 14 Jan 2022 03:18:15 GMT</pubDate>
+            <content:encoded><![CDATA[최근 조사를 통해 기업들의 멀웨어 다운로드 출처가 클라우드 애플리케이션임이 밝혀졌다. 보안 업체 넷스코프(Netskope)가 조사한 바에 따르면 2020년 1월 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/cloud-humb-0112.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[천안시, 지능형 교통체계로 ‘뻥’ 뚫리는 교통망 구축 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=103981&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=103981&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
@@ -390,12 +389,19 @@
             <content:encoded><![CDATA[천안시가 2022년을 ‘스마트 교통도시 천안’ 기틀 원년의 해로 삼고 주요 간선도로 교차로 교통흐름 개선 및 보행자 교통사고 예방을 위해 총력을 기울일 방침이다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[사이버 공격자들, 이제 클라우드 서비스 사용해 멀웨어 유포한다 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104066&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104066&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Fri, 14 Jan 2022 03:18:15 GMT</pubDate>
-            <content:encoded><![CDATA[최근 조사를 통해 기업들의 멀웨어 다운로드 출처가 클라우드 애플리케이션임이 밝혀졌다. 보안 업체 넷스코프(Netskope)가 조사한 바에 따르면 2020년 1월 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/cloud-humb-0112.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[CES 2022 서울관 1일차, 수출상담 금액 3,658만달러 등 성황리 운영중 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=103987&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=103987&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
+            <pubDate>Fri, 14 Jan 2022 05:16:58 GMT</pubDate>
+            <content:encoded><![CDATA[올해 3년차 운영 중인 CES 2022 서울관은 역대 &lt;서울관&gt; 중 가장 큰 310㎡(약 94평) 규모로 조성됐다. 기업 참여 면에서도 역대 최대인 2...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/20220108seoul1-s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NFT 플랫폼 림포, 핫월렛 해킹 공격으로 1870만 달러 잃어 (보안뉴스 ─ SECURITY)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104121&amp;page=1&amp;mkind=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104121&amp;page=1&amp;mkind=1&amp;kind=1</guid>
+            <pubDate>Fri, 14 Jan 2022 05:17:08 GMT</pubDate>
+            <content:encoded><![CDATA[NFT라는 기술이 블록체인 분야에서 큰 주목을 받으면서 해커들의 표적이 되고 있다. 최근 NFT 기술을 제공하는 플랫폼 중 하나인 림포(Lympo)가 사이버 공격을 받았고, 1870만 달러에 해당하는 자산을 잃었다. 해커들이 림포의 핫월렛에 접근하는 데 성공한 것으로 ...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[우크라이나, 랜섬웨어 그룹 일망타진해 공격 인프라 폐쇄시켜 (보안뉴스 ─ SECURITY)]]></title>
@@ -508,13 +514,6 @@
             <guid>https://www.boannews.com/media/view.asp?idx=104091&amp;page=1&amp;mkind=1&amp;kind=1</guid>
             <pubDate>Thu, 13 Jan 2022 06:19:53 GMT</pubDate>
             <content:encoded><![CDATA[사실 확인을 전문으로 하는 조직들이 유튜브를 “가장 거대한 허위 정보 및 가짜뉴스 살포 플랫폼”이라고 지목했다. 유튜브에서 각종 허위 정보가 퍼져가고 있는데, 유튜브를 관리하고 있는 구글은 별다른 조치를 취하지 않고 있다는 내용의 서신에 80개가 넘는 조직들이 서명하고...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[애플, 아이폰과 아이패드의 도어락 버그 고쳐 (보안뉴스 ─ SECURITY)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104090&amp;page=1&amp;mkind=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104090&amp;page=1&amp;mkind=1&amp;kind=1</guid>
-            <pubDate>Thu, 13 Jan 2022 05:17:22 GMT</pubDate>
-            <content:encoded><![CDATA[얼마 전 애플의 아이폰과 아이패드를 사용불가 상태로 만들 수 있는 버그인 도어락(doorLock)이 발견됐다. 애플은 최근 업데이트를 발표하며 이 문제를 해결했다. 업데이트 된 버전은 iOS 15.2.1과 iPadOS 15.2.1이며, 사용자들에게는 빠른 패치 적용이 ...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[중기부, 2022년 인공지능·데이터 활용 지원 사업 공모 (보안뉴스 ─ IT)]]></title>

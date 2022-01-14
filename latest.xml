@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 14 Jan 2022 04:22:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Jan 2022 05:19:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -86,6 +86,13 @@
             <pubDate>Thu, 13 Jan 2022 08:19:55 GMT</pubDate>
             <content:encoded><![CDATA[1월 13일 발간된 ‘Weekly Security Premium Report’ 제34호에는 &lt;보안 심층 리포트&gt; 코너에서 2021년 주요 보안이...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/20220113report-sm.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[개인정보위, ‘신년 개인정보 정책 간담회’ 개최]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104124&amp;page=1&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104124&amp;page=1&amp;kind=2</guid>
+            <pubDate>Fri, 14 Jan 2022 05:16:47 GMT</pubDate>
+            <content:encoded><![CDATA[개인정보보호위원회(위원장 윤종인, 이하 ‘개인정보위’)는 1월 14일(금) 정부서울청사에서, 2022년 새해를 맞아 개인정보 전망과 과제에 대해 논의하기 ...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[안랩, 디지털 직무교육 사회공헌 프로그램 ‘안랩샘(SEM)’ 13기 수료식 개최]]></title>
@@ -229,14 +236,6 @@
             <pubDate>Thu, 13 Jan 2022 08:19:55 GMT</pubDate>
             <content:encoded><![CDATA[사이버 범죄자들은 회사의 직원들만 골라서 노리지 않는다. 오히려 C레벨 임원들이라면 더 ‘땡큐’다. 데이터 침해 사건은 해마다 크게 증가하고 있는데, 이 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/ce-thumb-0113.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[포토뉴스] 서울여대 정보보호학과 학생회, 보안뉴스 방문]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104094&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104094&amp;page=1&amp;kind=1</guid>
-            <pubDate>Thu, 13 Jan 2022 06:19:33 GMT</pubDate>
-            <content:encoded><![CDATA[서울여자대학교 정보보호학과 학생회 학생들이 1월 13일 &lt;보안뉴스&gt;를 방문했다. 그동안 보안뉴스에 ‘카드뉴스’를 연재했던 서울여대 정보보호학과 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/IMG_9129_main.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
