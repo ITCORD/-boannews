@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 15 Jan 2022 11:15:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Jan 2022 12:27:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -112,20 +112,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/cloud-humb-0112.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[보안 교육, 원래 최고 임원진들부터 시작해 내려오는 게 맞다]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104096&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104096&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Fri, 14 Jan 2022 12:26:10 GMT</pubDate>
-            <content:encoded><![CDATA[사이버 범죄자들은 회사의 직원들만 골라서 노리지 않는다. 오히려 C레벨 임원들이라면 더 ‘땡큐’다. 데이터 침해 사건은 해마다 크게 증가하고 있는데, 이 사건 중...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/ce-thumb-0113.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[자동차 열관리 시스템 기업 한온시스템, 랜섬웨어 ‘SNACH’에 당했나]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104116&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104116&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Sat, 15 Jan 2022 02:06:19 GMT</pubDate>
             <content:encoded><![CDATA[자동차 열관리 시스템 전문기업인 한온시스템이 랜섬웨어 공격그룹 ‘스내치(SNACH)’의 공격을 받아 내부 자료가 유출된 것으로 보인다. 스내치는 다크웹에서 지난 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/snach_011401_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[보안 교육, 원래 최고 임원진들부터 시작해 내려오는 게 맞다]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104096&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104096&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Fri, 14 Jan 2022 12:26:10 GMT</pubDate>
+            <content:encoded><![CDATA[사이버 범죄자들은 회사의 직원들만 골라서 노리지 않는다. 오히려 C레벨 임원들이라면 더 ‘땡큐’다. 데이터 침해 사건은 해마다 크게 증가하고 있는데, 이 사건 중...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/ce-thumb-0113.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[신용카드사와 은행, 북한 내부정보 등 위장한 北 해킹 공격 연이어 발견]]></title>
@@ -144,20 +144,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/RESIZEgisul20220104.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[코로나19에 따른 사이버위협,  AI 기반 보안기술로 대응하라]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=103974&amp;page=1&amp;kind=5&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=103974&amp;page=1&amp;kind=5&amp;search=title&amp;find=</guid>
-            <pubDate>Sat, 15 Jan 2022 02:06:19 GMT</pubDate>
-            <content:encoded><![CDATA[코로나19가 전 세계에 창궐한 지 2년이 지난 지금, 비대면 업무환경이 증가함에 따라 사이버 위협도 점차 커지고 있다. 이에 &lt;보안뉴스&gt;에서는 정보보호...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/RESIZEcyber20220104.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[윈도 원격 접근 및 제어 서비스인 RDS에서 새 취약점 발견돼]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104127&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104127&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Sat, 15 Jan 2022 06:19:37 GMT</pubDate>
             <content:encoded><![CDATA[마이크로소프트 윈도 시스템들 중 최소 윈도 서버 2012 R2 이후에 나온 것들의 원격 데스크톱 서비스(RDS) 서비스에서 취약점이 발견됐다. 이 취약점을 익스플...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/rem-thumb-0114.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[코로나19에 따른 사이버위협,  AI 기반 보안기술로 대응하라]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=103974&amp;page=1&amp;kind=5&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=103974&amp;page=1&amp;kind=5&amp;search=title&amp;find=</guid>
+            <pubDate>Sat, 15 Jan 2022 02:06:19 GMT</pubDate>
+            <content:encoded><![CDATA[코로나19가 전 세계에 창궐한 지 2년이 지난 지금, 비대면 업무환경이 증가함에 따라 사이버 위협도 점차 커지고 있다. 이에 &lt;보안뉴스&gt;에서는 정보보호...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/RESIZEcyber20220104.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘Weekly Security Premium Report’ 제34호 발간! 한 호흡으로 읽는 2022년 보안 전망]]></title>
