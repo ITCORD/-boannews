@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 15 Jan 2022 04:22:47 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Jan 2022 05:18:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,14 +104,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/20220110home-s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[주차요금 결제도 점차 ‘비대면’으로 전환되고 있는 헝가리]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=103903&amp;page=1&amp;kind=4&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=103903&amp;page=1&amp;kind=4&amp;search=title&amp;find=</guid>
-            <pubDate>Wed, 12 Jan 2022 20:15:13 GMT</pubDate>
-            <content:encoded><![CDATA[전 세계가 코로나19로 어려움을 겪고 있지만 온라인 화상회의 플랫폼 줌(Zoom) 등 비대면 서비스를 제공하는 기업에게는 오히려 호재가 됐다. 헝가리 스타트업 롤...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/22010501ss.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[에너지 및 사회 인프라 분야의 사이버 보안을 7가지로 예측한다]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104001&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104001&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
@@ -166,6 +158,14 @@
             <pubDate>Sat, 15 Jan 2022 02:06:19 GMT</pubDate>
             <content:encoded><![CDATA[코로나19가 전 세계에 창궐한 지 2년이 지난 지금, 비대면 업무환경이 증가함에 따라 사이버 위협도 점차 커지고 있다. 이에 &lt;보안뉴스&gt;에서는 정보보호...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/RESIZEcyber20220104.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[전 세계 수천만 라우터에 영향 주는 새로운 취약점 나와]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104058&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104058&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Sat, 15 Jan 2022 05:16:11 GMT</pubDate>
+            <content:encoded><![CDATA[넷기어(Netgear), TP링크(TP-Link), 텐다(Tenda), 에디맥스(EDiMAX), 디링크(D-Link), 웨스턴디지털(Western Digital)...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/rou-thumb-0112.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
