@@ -4,9 +4,23 @@
         <title>보안뉴스 ─ 국제</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 15 Jan 2022 05:18:11 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Jan 2022 06:21:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[주말판] 인공지능이 가야할 길, 평탄치 않다]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104138&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104138&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
+            <pubDate>Sat, 15 Jan 2022 06:20:53 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/view.asp?idx=104138&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
+					
+					<img src="/media/upFiles2/2022/01/hand-thumb-0115.jpg" alt="" class="news_img" height="70">
+					
+					<span class="news_txt">[주말판] 인공지능이 가야할 길, 평탄치 않다</span>
+					</a><br>
+					<a href="/media/view.asp?idx=104138&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">인공지능이 드디어 조금씩 그 가치를 증명하기 시작했는데, 산업 자동화(스마트 팩토리 등), 의료 진찰, 신약 개발(코로나 백신 등), 사업 프로세스의 자동화(사기...</a> <span class="news_writer">문가용 기자 | 2022년 01월 15일 15:03</span>]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/hand-thumb-0115.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[윈도 원격 접근 및 제어 서비스인 RDS에서 새 취약점 발견돼]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104127&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
@@ -272,20 +286,6 @@
 					</a><br>
 					<a href="/media/view.asp?idx=104060&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">어도비가 2022년 첫 정기 패치를 발표했다. 총 26개의 취약점이 이번 패치를 통해 다뤄졌다. 	이 중 16개가 치명적인 위험도를 가진 것으로 분석됐는데, CV...</a> <span class="news_writer">문가용 기자 | 2022년 01월 12일 11:24</span>]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/pat-thumb-0112.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[나이트스카이 랜섬웨어, VM웨어 호라이즌의 로그4셸 공략]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104059&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104059&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
-            <pubDate>Wed, 12 Jan 2022 20:16:36 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/view.asp?idx=104059&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
-					
-					<img src="/media/upFiles2/2022/01/ns-thumb-0112.jpg" alt="" class="news_img" height="70">
-					
-					<span class="news_txt">나이트스카이 랜섬웨어, VM웨어 호라이즌의 로그4셸 공략</span>
-					</a><br>
-					<a href="/media/view.asp?idx=104059&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">최근 새롭게 등장한 랜섬웨어 갱단인 나이트스카이(Night Sky)가 로그4셸(Log4Shell) 취약점을 공략하기 시작했다. VM웨어 호라이즌(Horizon)에...</a> <span class="news_writer">문가용 기자 | 2022년 01월 12일 11:23</span>]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/ns-thumb-0112.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
