@@ -4,9 +4,17 @@
         <title>보안뉴스 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 16 Jan 2022 13:24:55 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Jan 2022 14:16:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022년의 시작 1월 첫째주, 우리나라에 가장 많이 유포된 악성코드는?]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104139&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104139&amp;page=1&amp;kind=1</guid>
+            <pubDate>Sun, 16 Jan 2022 14:14:02 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 새해를 시작하면서 우리나라에 가장 많이 유포된 악성코드 유형은 지난해에도 가장 높을 비율을 차지했던 개인정보 및 계정정보 탈취 목적의 인포스틸러...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/20220116mal-s.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[주말판] 인공지능이 가야할 길, 평탄치 않다]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104138&amp;page=1&amp;kind=1</link>
@@ -80,14 +88,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/wall-thumb-0114.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[우크라이나, 랜섬웨어 그룹 일망타진해 공격 인프라 폐쇄시켜]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104120&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104120&amp;page=1&amp;kind=1</guid>
-            <pubDate>Fri, 14 Jan 2022 03:18:05 GMT</pubDate>
-            <content:encoded><![CDATA[우크라이나 경찰은 최근 영국과 미국 경찰과의 공조로 랜섬웨어 운영에 일조한 범인들을 체포하는 데 성공했다고 발표했다. 미국과 유럽에서 50개가 넘는 기업들...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/arre-thumb-0114.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[TTA, 정보통신망연결기기 등 정보보호인증 시험기관으로 지정]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104136&amp;page=1&amp;kind=2</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104136&amp;page=1&amp;kind=2</guid>
@@ -153,6 +153,14 @@
             <guid>https://www.boannews.com/media/view.asp?idx=104124&amp;page=1&amp;kind=2</guid>
             <pubDate>Fri, 14 Jan 2022 05:16:47 GMT</pubDate>
             <content:encoded><![CDATA[개인정보보호위원회(위원장 윤종인, 이하 ‘개인정보위’)는 1월 14일(금) 정부서울청사에서, 2022년 새해를 맞아 개인정보 전망과 과제에 대해 논의하기 ...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[우크라이나, 랜섬웨어 그룹 일망타진해 공격 인프라 폐쇄시켜]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104120&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104120&amp;page=1&amp;kind=1</guid>
+            <pubDate>Fri, 14 Jan 2022 03:18:05 GMT</pubDate>
+            <content:encoded><![CDATA[우크라이나 경찰은 최근 영국과 미국 경찰과의 공조로 랜섬웨어 운영에 일조한 범인들을 체포하는 데 성공했다고 발표했다. 미국과 유럽에서 50개가 넘는 기업들...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/arre-thumb-0114.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[굿로더 해커들, 법 및 회계 사무소 직원들 노려]]></title>
@@ -228,14 +236,6 @@
             <pubDate>Fri, 14 Jan 2022 00:55:30 GMT</pubDate>
             <content:encoded><![CDATA[한국폴리텍대학 서울정수캠퍼스는 지난 13일 인공지능(AI) 기반 평생직업능력개발 플랫폼을 구축하고 기술교육의 고도화를 위한 ‘AI+x 러닝팩토리·서울폴리스...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/1-144(295).jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[로그프레소, 공공기관 대상 로그4j 취약점 대응 프로모션 진행]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104115&amp;page=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104115&amp;page=1&amp;kind=3</guid>
-            <pubDate>Fri, 14 Jan 2022 00:55:30 GMT</pubDate>
-            <content:encoded><![CDATA[SecOps 플랫폼 전문기업 로그프레소(대표 양봉열)는 조달 총판사인 아이티윈과 공공기관을 대상으로 로그4j 취약점 대응 프로모션을 진행한다고 14일 밝혔...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/log_011401_main.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

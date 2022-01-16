@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 16 Jan 2022 13:24:55 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Jan 2022 14:16:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022년의 시작 1월 첫째주, 우리나라에 가장 많이 유포된 악성코드는? (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104139&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104139&amp;page=1&amp;kind=1</guid>
+            <pubDate>Sun, 16 Jan 2022 14:14:02 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 새해를 시작하면서 우리나라에 가장 많이 유포된 악성코드 유형은 지난해에도 가장 높을 비율을 차지했던 개인정보 및 계정정보 탈취 목적의 인포스틸러...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/20220116mal-s.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[주말판] 인공지능이 가야할 길, 평탄치 않다 (보안뉴스 ─ 전체기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104138&amp;page=1&amp;kind=1</link>
@@ -80,14 +88,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/wall-thumb-0114.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[우크라이나, 랜섬웨어 그룹 일망타진해 공격 인프라 폐쇄시켜 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104120&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104120&amp;page=1&amp;kind=1</guid>
-            <pubDate>Fri, 14 Jan 2022 03:18:05 GMT</pubDate>
-            <content:encoded><![CDATA[우크라이나 경찰은 최근 영국과 미국 경찰과의 공조로 랜섬웨어 운영에 일조한 범인들을 체포하는 데 성공했다고 발표했다. 미국과 유럽에서 50개가 넘는 기업들...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/arre-thumb-0114.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[TTA, 정보통신망연결기기 등 정보보호인증 시험기관으로 지정 (보안뉴스 ─ 전체기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104136&amp;page=1&amp;kind=2</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104136&amp;page=1&amp;kind=2</guid>
@@ -153,6 +153,14 @@
             <guid>https://www.boannews.com/media/view.asp?idx=104124&amp;page=1&amp;kind=2</guid>
             <pubDate>Fri, 14 Jan 2022 05:16:47 GMT</pubDate>
             <content:encoded><![CDATA[개인정보보호위원회(위원장 윤종인, 이하 ‘개인정보위’)는 1월 14일(금) 정부서울청사에서, 2022년 새해를 맞아 개인정보 전망과 과제에 대해 논의하기 ...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[우크라이나, 랜섬웨어 그룹 일망타진해 공격 인프라 폐쇄시켜 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104120&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104120&amp;page=1&amp;kind=1</guid>
+            <pubDate>Fri, 14 Jan 2022 03:18:05 GMT</pubDate>
+            <content:encoded><![CDATA[우크라이나 경찰은 최근 영국과 미국 경찰과의 공조로 랜섬웨어 운영에 일조한 범인들을 체포하는 데 성공했다고 발표했다. 미국과 유럽에서 50개가 넘는 기업들...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/arre-thumb-0114.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[굿로더 해커들, 법 및 회계 사무소 직원들 노려 (보안뉴스 ─ 전체기사)]]></title>
@@ -230,14 +238,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/1-144(295).jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[로그프레소, 공공기관 대상 로그4j 취약점 대응 프로모션 진행 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104115&amp;page=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104115&amp;page=1&amp;kind=3</guid>
-            <pubDate>Fri, 14 Jan 2022 00:55:30 GMT</pubDate>
-            <content:encoded><![CDATA[SecOps 플랫폼 전문기업 로그프레소(대표 양봉열)는 조달 총판사인 아이티윈과 공공기관을 대상으로 로그4j 취약점 대응 프로모션을 진행한다고 14일 밝혔...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/log_011401_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[유출된 카카오톡 계정 악용한 대규모 로그인 시도 공격 발생했다 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=103990&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=103990&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
@@ -294,20 +294,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/law-thumb-0111.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[카카오로부터 온 ‘선물하기’ 메일? 피싱 통한 계정정보 탈취 공격 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104055&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104055&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Thu, 13 Jan 2022 06:19:43 GMT</pubDate>
-            <content:encoded><![CDATA[최근 카카오 선물하기로 위장한 피싱 메일을 통해 카카오톡 친구추가를 유도함으로써 계정정보 유출을 시도하는 공격이 지속적으로 발생하고 있어 사용자들의 각별한 주의가...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/20220113KAKAO-S.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
             <title><![CDATA[자동차 열관리 시스템 기업 한온시스템, 랜섬웨어 ‘SNACH’에 당했나 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104116&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104116&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Sat, 15 Jan 2022 02:06:19 GMT</pubDate>
             <content:encoded><![CDATA[자동차 열관리 시스템 전문기업인 한온시스템이 랜섬웨어 공격그룹 ‘스내치(SNACH)’의 공격을 받아 내부 자료가 유출된 것으로 보인다. 스내치는 다크웹에서 지난 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/snach_011401_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[카카오로부터 온 ‘선물하기’ 메일? 피싱 통한 계정정보 탈취 공격 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104055&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104055&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Thu, 13 Jan 2022 06:19:43 GMT</pubDate>
+            <content:encoded><![CDATA[최근 카카오 선물하기로 위장한 피싱 메일을 통해 카카오톡 친구추가를 유도함으로써 계정정보 유출을 시도하는 공격이 지속적으로 발생하고 있어 사용자들의 각별한 주의가...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/20220113KAKAO-S.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[악명 높은 블랙매터 랜섬웨어에서 논리 오류가 하나 발견됐다 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
@@ -334,20 +334,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/rat-thumb-0113.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[최정식 발행인 칼럼] 2022년도 사이버보안 예상 키워드, ‘홈네트워크 위협’ (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104004&amp;page=1&amp;kind=6&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104004&amp;page=1&amp;kind=6&amp;search=title&amp;find=</guid>
-            <pubDate>Wed, 12 Jan 2022 20:15:13 GMT</pubDate>
-            <content:encoded><![CDATA[2021년도의 사이버보안 핵심 키워드는 ‘공급망에 대한 사이버보안 위협’이었다. 그리고 2022년에는 ‘홈네트워크(Home Network)와 관련된 위협’이 우리...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/20220110home-s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[한국정보보호학회, 27대 회장으로 이옥연 국민대 교수 추대 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104126&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104126&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
             <pubDate>Sat, 15 Jan 2022 16:23:31 GMT</pubDate>
             <content:encoded><![CDATA[한국정보보호학회가 27대 회장으로 이옥연 국민대학교 교수를 추대했다. 14일 개최된 신년인사회 및 제1차 이사회에서 이옥연 신임회장과 원유재 수석부회장(충남대 교...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/coll_011402_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[최정식 발행인 칼럼] 2022년도 사이버보안 예상 키워드, ‘홈네트워크 위협’ (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104004&amp;page=1&amp;kind=6&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104004&amp;page=1&amp;kind=6&amp;search=title&amp;find=</guid>
+            <pubDate>Wed, 12 Jan 2022 20:15:13 GMT</pubDate>
+            <content:encoded><![CDATA[2021년도의 사이버보안 핵심 키워드는 ‘공급망에 대한 사이버보안 위협’이었다. 그리고 2022년에는 ‘홈네트워크(Home Network)와 관련된 위협’이 우리...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/20220110home-s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[사이버 공격자들, 이제 클라우드 서비스 사용해 멀웨어 유포한다 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
@@ -366,20 +366,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/20220114esrc-s.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
-            <title><![CDATA[신용카드사와 은행, 북한 내부정보 등 위장한 北 해킹 공격 연이어 발견 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104085&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104085&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Fri, 14 Jan 2022 08:19:53 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 새해 들어 북한 배후 소행으로 분류된 사이버 위협 활동이 증가 추세에 있어 각별한 주의와 대비가 요구된다고 보안 전문 기업 이스트시큐리티(대표 정상원)...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/est_011301_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[보안 교육, 원래 최고 임원진들부터 시작해 내려오는 게 맞다 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104096&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104096&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Fri, 14 Jan 2022 12:26:10 GMT</pubDate>
             <content:encoded><![CDATA[사이버 범죄자들은 회사의 직원들만 골라서 노리지 않는다. 오히려 C레벨 임원들이라면 더 ‘땡큐’다. 데이터 침해 사건은 해마다 크게 증가하고 있는데, 이 사건 중...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/ce-thumb-0113.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[신용카드사와 은행, 북한 내부정보 등 위장한 北 해킹 공격 연이어 발견 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104085&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104085&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Fri, 14 Jan 2022 08:19:53 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 새해 들어 북한 배후 소행으로 분류된 사이버 위협 활동이 증가 추세에 있어 각별한 주의와 대비가 요구된다고 보안 전문 기업 이스트시큐리티(대표 정상원)...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/est_011301_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[에너지 및 사회 인프라 분야의 사이버 보안을 7가지로 예측한다 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
@@ -396,6 +396,13 @@
             <pubDate>Fri, 14 Jan 2022 16:22:03 GMT</pubDate>
             <content:encoded><![CDATA[정부가 산업기술을 보호하기 위해 국가핵심기술 및 핵심인력 유출 방지체계를 강화하고 범부처 기술보호 협업으로 기술보호 실효성 제고를 위한 종합 계획을 수립했다.]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/RESIZEgisul20220104.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[KTC, 정보통신망연결기기 등 정보보호인증 시험대행기관 지정 (보안뉴스 ─ SECURITY)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104135&amp;page=1&amp;mkind=1&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104135&amp;page=1&amp;mkind=1&amp;kind=2</guid>
+            <pubDate>Sun, 16 Jan 2022 14:14:22 GMT</pubDate>
+            <content:encoded><![CDATA[한국기계전기전자시험연구원(KTC)은 지난 13일 과학기술정보통신부로부터 ‘정보통신망연결기기 등 정보보호인증 시험대행기관’으로 지정받았다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[양산시, 개인정보보호 관리 최고등급 우수기관 선정 (보안뉴스 ─ SECURITY)]]></title>
@@ -508,13 +515,6 @@
             <guid>https://www.boannews.com/media/view.asp?idx=104115&amp;page=1&amp;mkind=1&amp;kind=3</guid>
             <pubDate>Fri, 14 Jan 2022 03:18:24 GMT</pubDate>
             <content:encoded><![CDATA[SecOps 플랫폼 전문기업 로그프레소(대표 양봉열)는 조달 총판사인 아이티윈과 공공기관을 대상으로 로그4j 취약점 대응 프로모션을 진행한다고 14일 밝혔다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[인사] 과학기술정보통신부 (보안뉴스 ─ SECURITY)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104114&amp;page=1&amp;mkind=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104114&amp;page=1&amp;mkind=1&amp;kind=2</guid>
-            <pubDate>Fri, 14 Jan 2022 03:18:24 GMT</pubDate>
-            <content:encoded><![CDATA[◇국장급 전보 △국립과천과학관 전시연구단장 한형주(韓亨周, 과학기술정보통신부) (2022. 1. 14.자) △미래인재정책국장 황판식(黃判植, 과학기술정보통신부) (2022. 1. 17.자)]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[하나손해보험, 업계 최초 인공인간 AI 휴먼 기술 도입 (보안뉴스 ─ IT)]]></title>
@@ -769,6 +769,20 @@
             <pubDate>Fri, 14 Jan 2022 00:56:20 GMT</pubDate>
             <content:encoded><![CDATA[서울시가 코로나 이후에 대비한 ‘디지털 대전환’에 박차를 가한다. 올해 1,067건의 정보화 사업에 총 3,459억원의 예산을 집중 투자한다. 핵심적으로 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/20210114seoul-s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022년의 시작 1월 첫째주, 우리나라에 가장 많이 유포된 악성코드는? (보안뉴스 ─ 취약점 경고 및 버그리포트)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104139&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104139&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=</guid>
+            <pubDate>Sun, 16 Jan 2022 14:15:02 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/view.asp?idx=104139&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=">
+					
+					<img src="/media/upFiles2/2022/01/20220116mal-s.jpg" alt="" class="news_img" height="70">
+					
+					<span class="news_txt">2022년의 시작 1월 첫째주, 우리나라에 가장 많이 유포된 악성코드는?</span>
+					</a><br>
+					<a href="/media/view.asp?idx=104139&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=">2022년 새해를 시작하면서 우리나라에 가장 많이 유포된 악성코드 유형은 지난해에도 가장 높을 비율을 차지했던 개인정보 및 계정정보 탈취 목적의 인포스틸러 악성코...</a> <span class="news_writer">권준  기자 | 2022년 01월 16일 22:32</span>]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/20220116mal-s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[자동차 열관리 시스템 기업 한온시스템, 랜섬웨어 ‘SNACH’에 당했나 (보안뉴스 ─ 취약점 경고 및 버그리포트)]]></title>
@@ -1035,20 +1049,6 @@
 					</a><br>
 					<a href="/media/view.asp?idx=103880&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=">아이폰의 OS에서 새로운 취약점이 발견됐다. iOS 14.7~15.2 버전까지 영향을 준다고 한다. 이 취약점의 이름은 도어락(doorLock)이라고 하며 지속적...</a> <span class="news_writer">문가용 기자 | 2022년 01월 04일 11:09</span>]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/door-thumb-0104.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[MS, 신년인사 대신 긴급 익스체인지 패치 배포 (보안뉴스 ─ 취약점 경고 및 버그리포트)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=103840&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=103840&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=</guid>
-            <pubDate>Wed, 12 Jan 2022 20:15:57 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/view.asp?idx=103840&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=">
-					
-					<img src="/media/upFiles2/2022/01/mail-thumb-0103.jpg" alt="" class="news_img" height="70">
-					
-					<span class="news_txt">MS, 신년인사 대신 긴급 익스체인지 패치 배포</span>
-					</a><br>
-					<a href="/media/view.asp?idx=103840&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=">MS가 이른 2022년 패치를 배포하기 시작했다. 온프레미스에 설치되는 마이크로소프트 익스체인지 서버들에서 발견된 취약점을 해결하는 픽스들이다. 2022년으로 시...</a> <span class="news_writer">문가용 기자 | 2022년 01월 03일 11:50</span>]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/mail-thumb-0103.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[최정식 발행인 칼럼] <시큐리티월드> 통권 300호를 맞아 드리는 감사의 말씀 (보안뉴스 ─ 오피니언)]]></title>
