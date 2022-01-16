@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 16 Jan 2022 04:22:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Jan 2022 05:17:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,6 +48,14 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/out_011101_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[윈도 원격 접근 및 제어 서비스인 RDS에서 새 취약점 발견돼]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104127&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104127&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Sat, 15 Jan 2022 06:19:37 GMT</pubDate>
+            <content:encoded><![CDATA[마이크로소프트 윈도 시스템들 중 최소 윈도 서버 2012 R2 이후에 나온 것들의 원격 데스크톱 서비스(RDS) 서비스에서 취약점이 발견됐다. 이 취약점을 익스플...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/rem-thumb-0114.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[보안 사고 대처의 새로운 트렌드, “법 전문가부터 찾아라!”]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104038&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104038&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
@@ -62,14 +70,6 @@
             <pubDate>Thu, 13 Jan 2022 06:19:43 GMT</pubDate>
             <content:encoded><![CDATA[최근 카카오 선물하기로 위장한 피싱 메일을 통해 카카오톡 친구추가를 유도함으로써 계정정보 유출을 시도하는 공격이 지속적으로 발생하고 있어 사용자들의 각별한 주의가...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/20220113KAKAO-S.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[윈도 원격 접근 및 제어 서비스인 RDS에서 새 취약점 발견돼]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104127&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104127&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Sat, 15 Jan 2022 06:19:37 GMT</pubDate>
-            <content:encoded><![CDATA[마이크로소프트 윈도 시스템들 중 최소 윈도 서버 2012 R2 이후에 나온 것들의 원격 데스크톱 서비스(RDS) 서비스에서 취약점이 발견됐다. 이 취약점을 익스플...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/rem-thumb-0114.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[악명 높은 블랙매터 랜섬웨어에서 논리 오류가 하나 발견됐다]]></title>
@@ -144,20 +144,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/est_011301_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[기술 유출 범죄 “요놈 잡았다”... 제4차 산업기술보호 종합계획 수립]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=103933&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=103933&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
-            <pubDate>Fri, 14 Jan 2022 16:22:03 GMT</pubDate>
-            <content:encoded><![CDATA[정부가 산업기술을 보호하기 위해 국가핵심기술 및 핵심인력 유출 방지체계를 강화하고 범부처 기술보호 협업으로 기술보호 실효성 제고를 위한 종합 계획을 수립했다.]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/RESIZEgisul20220104.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[한국정보보호학회, 27대 회장으로 이옥연 국민대 교수 추대]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104126&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104126&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
             <pubDate>Sat, 15 Jan 2022 16:23:31 GMT</pubDate>
             <content:encoded><![CDATA[한국정보보호학회가 27대 회장으로 이옥연 국민대학교 교수를 추대했다. 14일 개최된 신년인사회 및 제1차 이사회에서 이옥연 신임회장과 원유재 수석부회장(충남대 교...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/coll_011402_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[기술 유출 범죄 “요놈 잡았다”... 제4차 산업기술보호 종합계획 수립]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=103933&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=103933&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
+            <pubDate>Fri, 14 Jan 2022 16:22:03 GMT</pubDate>
+            <content:encoded><![CDATA[정부가 산업기술을 보호하기 위해 국가핵심기술 및 핵심인력 유출 방지체계를 강화하고 범부처 기술보호 협업으로 기술보호 실효성 제고를 위한 종합 계획을 수립했다.]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/RESIZEgisul20220104.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[코로나19에 따른 사이버위협,  AI 기반 보안기술로 대응하라]]></title>
