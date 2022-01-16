@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-01-16T14:16:15.682Z</updated>
+    <updated>2022-01-16T15:17:43.826Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[TTA, 정보통신망연결기기 등 정보보호인증 시험기관으로 지정]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104136&amp;page=1&amp;mkind=1&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104136&amp;page=1&amp;mkind=1&amp;kind=2"/>
+        <updated>2022-01-16T15:16:08.750Z</updated>
+        <content type="html"><![CDATA[한국정보통신기술협회(TTA)는 과학기술정보통신부로부터 ‘정보통신망법’ 제48조의6에 따라 시험환경, 시험 역량 등을 종합적으로 평가받아 지난 13일 ‘정보통신망연결기기 등 정보보호인증 시험대행기관’으로 지정받았다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[KTC, 정보통신망연결기기 등 정보보호인증 시험대행기관 지정]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=104135&amp;page=1&amp;mkind=1&amp;kind=2</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=104116&amp;page=1&amp;mkind=1&amp;kind=1"/>
         <updated>2022-01-14T03:18:24.969Z</updated>
         <content type="html"><![CDATA[자동차 열관리 시스템 전문기업인 한온시스템이 랜섬웨어 공격그룹 ‘스내치(SNACH)’의 공격을 받아 내부 자료가 유출된 것으로 보인다. 스내치는 다크웹에서 지난 1월 13일 새롭게 공격에 성공한 기업 리스트에 한온시스템(HANON Systems)을 올리고 4장의 기업 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[로그프레소, 공공기관 대상 로그4j 취약점 대응 프로모션 진행]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104115&amp;page=1&amp;mkind=1&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104115&amp;page=1&amp;mkind=1&amp;kind=3"/>
-        <updated>2022-01-14T03:18:24.973Z</updated>
-        <content type="html"><![CDATA[SecOps 플랫폼 전문기업 로그프레소(대표 양봉열)는 조달 총판사인 아이티윈과 공공기관을 대상으로 로그4j 취약점 대응 프로모션을 진행한다고 14일 밝혔다.]]></content>
     </entry>
 </feed>
