@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 16 Jan 2022 02:13:43 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Jan 2022 03:21:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -302,20 +302,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/bm-thumb-0110.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[2022년 공공부문 정보보호 제품·서비스 구매 예산 분석 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=103844&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=103844&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
-            <pubDate>Wed, 12 Jan 2022 20:15:13 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 공공부문 SW·ICT장비 사업 중 정보보호관련 예산이 포함된 예산은 1조 3,094억원으로 이중 정보보호관련 제품·서비스 구매 예산은 6,064억원이다...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/20733811_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[윈도 원격 접근 및 제어 서비스인 RDS에서 새 취약점 발견돼 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104127&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104127&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Sat, 15 Jan 2022 06:19:37 GMT</pubDate>
             <content:encoded><![CDATA[마이크로소프트 윈도 시스템들 중 최소 윈도 서버 2012 R2 이후에 나온 것들의 원격 데스크톱 서비스(RDS) 서비스에서 취약점이 발견됐다. 이 취약점을 익스플...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/rem-thumb-0114.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022년 공공부문 정보보호 제품·서비스 구매 예산 분석 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=103844&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=103844&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
+            <pubDate>Wed, 12 Jan 2022 20:15:13 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 공공부문 SW·ICT장비 사업 중 정보보호관련 예산이 포함된 예산은 1조 3,094억원으로 이중 정보보호관련 제품·서비스 구매 예산은 6,064억원이다...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/20733811_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[구름에 숨은 생쥐 3마리, 현대 기업을 위협하는 종합 선물 세트 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
