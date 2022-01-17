@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-01-17T00:57:08.367Z</updated>
+    <updated>2022-01-17T02:10:31.468Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[주말판] 인공지능이 가야할 길, 평탄치 않다]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104138&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104138&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-01-17T02:08:54.967Z</updated>
+        <content type="html"><![CDATA[인공지능이 드디어 조금씩 그 가치를 증명하기 시작했는데, 산업 자동화(스마트 팩토리 등), 의료 진찰, 신약 개발(코로나 백신 등), 사업 프로세스의 자동화(사기 탐지 등)에서 특히 약진을 보이고 있다. 이런 분야에서 인공지능이 가진 사업적 가치들이 보다 가시적으로 드...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TTA, 정보통신망연결기기 등 정보보호인증 시험기관으로 지정]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=104136&amp;page=1&amp;mkind=1&amp;kind=2</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=104117&amp;page=1&amp;mkind=1&amp;kind=3"/>
         <updated>2022-01-14T03:18:24.968Z</updated>
         <content type="html"><![CDATA[안랩(대표 강석균)이 13일(목), 디지털 직무 교육 사회공헌 프로그램 ‘안랩샘(AhnLab SEM(Software Education Manager)아카데미, 이하 안랩샘)’ 13기의 수료식을 온라인으로 실시했다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[자동차 열관리 시스템 기업 한온시스템, 랜섬웨어 ‘SNACH’에 당했나]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104116&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104116&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-01-14T03:18:24.969Z</updated>
-        <content type="html"><![CDATA[자동차 열관리 시스템 전문기업인 한온시스템이 랜섬웨어 공격그룹 ‘스내치(SNACH)’의 공격을 받아 내부 자료가 유출된 것으로 보인다. 스내치는 다크웹에서 지난 1월 13일 새롭게 공격에 성공한 기업 리스트에 한온시스템(HANON Systems)을 올리고 4장의 기업 ...]]></content>
     </entry>
 </feed>
