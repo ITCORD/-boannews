@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Jan 2022 08:22:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Jan 2022 09:19:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -371,14 +371,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/ce-thumb-0113.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[에너지 및 사회 인프라 분야의 사이버 보안을 7가지로 예측한다 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104001&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104001&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Thu, 13 Jan 2022 08:20:06 GMT</pubDate>
-            <content:encoded><![CDATA[사이버 공격으로 사회 기능을 마비시킬 수 있는 시대다. 세계 경제의 메가 트렌드인 디지털 융합과 에너지 변환과 같은 흐름을 면밀히 파악해왔던 사람들이라면 아마 ‘...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/ene-thumb-0110.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[클라우드 보안 따라잡기-2] 클라우드 보안의 공유 책임 모델 이해하기 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104062&amp;page=1&amp;kind=5&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104062&amp;page=1&amp;kind=5&amp;search=title&amp;find=</guid>
@@ -400,6 +392,14 @@
             <guid>https://www.boannews.com/media/view.asp?idx=104129&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
             <pubDate>Mon, 17 Jan 2022 07:16:21 GMT</pubDate>
             <content:encoded><![CDATA[안산시는 개별공시지가 토지특성조사의 정확성과 효율성을 높이기 위해 드론(무인비행장치)을 활용한다고 밝혔다. 대상은 대부도 내 건축 및 개발행위·인허가사업 밀집지역...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[너무나 위협적인 해킹 ‘공급망 공격’, 2022년에도 가장 두려운 이름 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104140&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104140&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Mon, 17 Jan 2022 09:17:24 GMT</pubDate>
+            <content:encoded><![CDATA[IT 환경과 인프라가 점점 복잡하게 얽히고, 각 요소들이 서로에 대한 의존도가 높아질수록 공급망 공격의 효율은 더 높아질 것이고 방어는 더 힘든 일이 될 것으로 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/20220116supply-s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[우크라이나, “모든 증거가 러시아를 가리키고 있다” (보안뉴스 ─ SECURITY)]]></title>
@@ -775,6 +775,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/RESIZENRF20220117.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[사파리 취약점, 사이트 넘나드는 사용자 추적 가능케 해 (보안뉴스 ─ 취약점 경고 및 버그리포트)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104144&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104144&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=</guid>
+            <pubDate>Mon, 17 Jan 2022 09:18:12 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/view.asp?idx=104144&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=">
+					
+					<img src="/media/upFiles2/2022/01/saf-thumb-0117.jpg" alt="" class="news_img" height="70">
+					
+					<span class="news_txt">사파리 취약점, 사이트 넘나드는 사용자 추적 가능케 해</span>
+					</a><br>
+					<a href="/media/view.asp?idx=104144&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=">애플의 브라우저 사파리 15에서 취약점이 발견됐다. 인덱스드DB(IndexedDB)라는 API와 관련된 것이라고 하며 아직 패치가 되지 않았다. 이 취약점은 11...</a> <span class="news_writer">문가용 기자 | 2022년 01월 17일 12:05</span>]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/saf-thumb-0117.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[너무나 위협적인 해킹 ‘공급망 공격’, 2022년에도 가장 두려운 이름 (보안뉴스 ─ 취약점 경고 및 버그리포트)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104140&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104140&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=</guid>
@@ -1039,20 +1053,6 @@
 					</a><br>
 					<a href="/media/view.asp?idx=103911&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=">마이크로소프트가 로그4j(Log4j)에 대한 새로운 경고를 발표했다. 현재 로그4j에서 발견된 각종 취약점들에 대한 익스플로잇 시도가 넘쳐나고 있다는 것이다. 또...</a> <span class="news_writer">문가용 기자 | 2022년 01월 05일 11:41</span>]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/over-thumb-0105.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2021년 하반기 국내외 사이버 위협 동향은? 랜섬웨어부터 로그4j까지 (보안뉴스 ─ 취약점 경고 및 버그리포트)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=103887&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=103887&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=</guid>
-            <pubDate>Wed, 12 Jan 2022 20:15:57 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/view.asp?idx=103887&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=">
-					
-					<img src="/media/upFiles2/2022/01/RESIZEkisa20220104-2.jpg" alt="" class="news_img" height="70">
-					
-					<span class="news_txt">2021년 하반기 국내외 사이버 위협 동향은? 랜섬웨어부터 로그4j까지</span>
-					</a><br>
-					<a href="/media/view.asp?idx=103887&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=">아파트 월패드 해킹, Log4j 취약점 등 2021년 하반기 사이버 위협 동향을 정리한 보고서가 나왔다. 한국인터넷진흥원(KISA)이 발간한 ‘2021년 하반기 ...</a> <span class="news_writer">위아람 기자 | 2022년 01월 04일 17:15</span>]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/RESIZEkisa20220104-2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[최정식 발행인 칼럼] <시큐리티월드> 통권 300호를 맞아 드리는 감사의 말씀 (보안뉴스 ─ 오피니언)]]></title>

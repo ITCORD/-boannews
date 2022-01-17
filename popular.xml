@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Jan 2022 08:22:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Jan 2022 09:19:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -136,14 +136,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/ce-thumb-0113.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[에너지 및 사회 인프라 분야의 사이버 보안을 7가지로 예측한다]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104001&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104001&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Thu, 13 Jan 2022 08:20:06 GMT</pubDate>
-            <content:encoded><![CDATA[사이버 공격으로 사회 기능을 마비시킬 수 있는 시대다. 세계 경제의 메가 트렌드인 디지털 융합과 에너지 변환과 같은 흐름을 면밀히 파악해왔던 사람들이라면 아마 ‘...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/ene-thumb-0110.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[클라우드 보안 따라잡기-2] 클라우드 보안의 공유 책임 모델 이해하기]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104062&amp;page=1&amp;kind=5&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104062&amp;page=1&amp;kind=5&amp;search=title&amp;find=</guid>
@@ -165,6 +157,14 @@
             <guid>https://www.boannews.com/media/view.asp?idx=104129&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
             <pubDate>Mon, 17 Jan 2022 07:16:21 GMT</pubDate>
             <content:encoded><![CDATA[안산시는 개별공시지가 토지특성조사의 정확성과 효율성을 높이기 위해 드론(무인비행장치)을 활용한다고 밝혔다. 대상은 대부도 내 건축 및 개발행위·인허가사업 밀집지역...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[너무나 위협적인 해킹 ‘공급망 공격’, 2022년에도 가장 두려운 이름]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104140&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104140&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Mon, 17 Jan 2022 09:17:24 GMT</pubDate>
+            <content:encoded><![CDATA[IT 환경과 인프라가 점점 복잡하게 얽히고, 각 요소들이 서로에 대한 의존도가 높아질수록 공급망 공격의 효율은 더 높아질 것이고 방어는 더 힘든 일이 될 것으로 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/20220116supply-s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
