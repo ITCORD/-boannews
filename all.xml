@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Jan 2022 13:27:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Jan 2022 14:17:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -331,14 +331,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/rat-thumb-0113.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[최정식 발행인 칼럼] 2022년도 사이버보안 예상 키워드, ‘홈네트워크 위협’ (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104004&amp;page=1&amp;kind=6&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104004&amp;page=1&amp;kind=6&amp;search=title&amp;find=</guid>
-            <pubDate>Wed, 12 Jan 2022 20:15:13 GMT</pubDate>
-            <content:encoded><![CDATA[2021년도의 사이버보안 핵심 키워드는 ‘공급망에 대한 사이버보안 위협’이었다. 그리고 2022년에는 ‘홈네트워크(Home Network)와 관련된 위협’이 우리...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/20220110home-s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[영천시 스마트도시통합센터, 24시간 영천시민 지킨다 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104131&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104131&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
@@ -400,6 +392,14 @@
             <guid>https://www.boannews.com/media/view.asp?idx=104129&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
             <pubDate>Mon, 17 Jan 2022 07:16:21 GMT</pubDate>
             <content:encoded><![CDATA[안산시는 개별공시지가 토지특성조사의 정확성과 효율성을 높이기 위해 드론(무인비행장치)을 활용한다고 밝혔다. 대상은 대부도 내 건축 및 개발행위·인허가사업 밀집지역...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[‘Weekly Security Premium Report’ 제34호 발간! 한 호흡으로 읽는 2022년 보안 전망 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104095&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104095&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
+            <pubDate>Mon, 17 Jan 2022 14:15:26 GMT</pubDate>
+            <content:encoded><![CDATA[1월 13일 발간된 ‘Weekly Security Premium Report’ 제34호에는 &lt;보안 심층 리포트&gt; 코너에서 2021년 주요 보안이슈와 사...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/20220113report-sm.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[최고 규모의 다크웹 시장 UniCC, “운영 중단한다” 선언 (보안뉴스 ─ SECURITY)]]></title>
