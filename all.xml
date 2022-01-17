@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Jan 2022 11:15:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Jan 2022 12:28:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -291,20 +291,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/20220113KAKAO-S.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
-            <title><![CDATA[보안 사고 대처의 새로운 트렌드, “법 전문가부터 찾아라!” (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104038&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104038&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Wed, 12 Jan 2022 20:15:13 GMT</pubDate>
-            <content:encoded><![CDATA[데이터 침해 사고에 대처하는 기업들의 방식이 조금씩 바뀌는 중이다. 사건 대응 팀 혹은 보안 전문 기업들에 먼저 전화를 하는 게 아니라 외부 법률 자문이나 변호사...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/law-thumb-0111.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[주말판] 인공지능이 가야할 길, 평탄치 않다 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104138&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104138&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Sun, 16 Jan 2022 16:23:47 GMT</pubDate>
             <content:encoded><![CDATA[인공지능이 드디어 조금씩 그 가치를 증명하기 시작했는데, 산업 자동화(스마트 팩토리 등), 의료 진찰, 신약 개발(코로나 백신 등), 사업 프로세스의 자동화(사기...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/hand-thumb-0115.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[보안 사고 대처의 새로운 트렌드, “법 전문가부터 찾아라!” (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104038&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104038&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Wed, 12 Jan 2022 20:15:13 GMT</pubDate>
+            <content:encoded><![CDATA[데이터 침해 사고에 대처하는 기업들의 방식이 조금씩 바뀌는 중이다. 사건 대응 팀 혹은 보안 전문 기업들에 먼저 전화를 하는 게 아니라 외부 법률 자문이나 변호사...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/law-thumb-0111.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한국정보보호학회, 27대 회장으로 이옥연 국민대 교수 추대 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
