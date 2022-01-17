@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-01-17T07:18:16.541Z</updated>
+    <updated>2022-01-17T08:22:22.166Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[우크라이나, “모든 증거가 러시아를 가리키고 있다”]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104147&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104147&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-01-17T08:20:44.545Z</updated>
+        <content type="html"><![CDATA[우크라이나와 러시아의 긴장 관계가 현재 사이버 공간으로도 확대되는 분위기다. 현재 우크라이나 정부 웹사이트들이 사이버 공격을 받고 있는데, 우크라이나 정부는 “모든 증거가 러시아를 가리키고 있다”고 발표했다. 미국과 NATO, 러시아의 평화 회담이 사실상 성과 없이 끝...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[러시아의 사법부, 레빌 랜섬웨어 갱단 와해 및 체포]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=104146&amp;page=1&amp;mkind=1&amp;kind=1</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=104124&amp;page=1&amp;mkind=1&amp;kind=2"/>
         <updated>2022-01-14T10:18:14.118Z</updated>
         <content type="html"><![CDATA[개인정보보호위원회(위원장 윤종인, 이하 ‘개인정보위’)는 1월 14일(금) 정부서울청사에서, 2022년 새해를 맞아 개인정보 전망과 과제에 대해 논의하기 위해 ‘신년 개인정보 정책 간담회’를 개최했다. 이날 간담회에는 한국정보법학회 이규호 회장, 개인정보보호법학회 최경...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[북한의 해킹 그룹, 2021년 암호화폐 4억 달러 훔쳤다]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104123&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104123&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-01-14T09:17:02.630Z</updated>
-        <content type="html"><![CDATA[블록체인 생태계 분석 전문 업체인 체이널리시스(Chainalysis)가 북한 해킹 그룹에 대한 새로운 내용을 발표했다. 2021년 한 해 동안 이들이 암호화폐 생태계로부터 훔쳐낸 돈이 4억 달러라는 것이다. 이는 2020년에 비해 40% 증가한 액수로, 북한 해커들은 ...]]></content>
     </entry>
 </feed>
