@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-01-17T02:10:31.468Z</updated>
+    <updated>2022-01-17T03:20:59.123Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[MS, 우크라이나 겨냥한 사이버 공격에서 파괴형 멀웨어 발견해]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104145&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104145&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-01-17T03:19:04.470Z</updated>
+        <content type="html"><![CDATA[마이크로소프트가 우크라이나 정부를 겨냥한 사이버 공격 캠페인에서 새로운 멀웨어를 발견했다. 이름은 위스퍼게이트(WhisperGate)라고 하며, 마스터 부트 레코드(MBR)를 파괴하는 기능을 가지고 있다고 한다. 랜섬웨어인 것처럼 위장되어 있지만 복구 메커니즘은 하나도...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[사파리 취약점, 사이트 넘나드는 사용자 추적 가능케 해]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104144&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104144&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-01-17T03:19:04.475Z</updated>
+        <content type="html"><![CDATA[애플의 브라우저 사파리 15에서 취약점이 발견됐다. 인덱스드DB(IndexedDB)라는 API와 관련된 것이라고 하며 아직 패치가 되지 않았다. 이 취약점은 11월 28일 핑거프린트JS(FingerprintJS)라는 업체에서 발견해 보고했다고 한다. 익스플로잇에 성공할...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[액스게이트, 이와이엘과 양자 보안 기술 협력 MOU]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104143&amp;page=1&amp;mkind=1&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104143&amp;page=1&amp;mkind=1&amp;kind=3"/>
+        <updated>2022-01-17T03:19:04.478Z</updated>
+        <content type="html"><![CDATA[액스게이트(대표 주갑수)가 이와이엘과 ‘양자난수 보안/인증 기술을 접목한 방화벽인증 시스템 및 VPN 공동 개발’을 MOU를 체결했다고 밝혔다. 1월 10일 서울 삼성동 액스게이트 본사에서 열린 업무협약식에는 주갑수 대표와 이와이엘 정부석 대표 외 양사 주요 관계자들이...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[너무나 위협적인 해킹 ‘공급망 공격’, 2022년에도 가장 두려운 이름]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104140&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104140&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-01-17T03:19:04.483Z</updated>
+        <content type="html"><![CDATA[IT 환경과 인프라가 점점 복잡하게 얽히고, 각 요소들이 서로에 대한 의존도가 높아질수록 공급망 공격의 효율은 더 높아질 것이고 방어는 더 힘든 일이 될 것으로 전망된다. 따라서 공급망 공격은 한 동안 꾸준한 연구 대상이자 공격 전략으로 남아 있을 것으로 예상된다. 지...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022년의 시작 1월 첫째주, 우리나라에 가장 많이 유포된 악성코드는?]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104139&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104139&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-01-17T03:19:04.486Z</updated>
+        <content type="html"><![CDATA[2022년 새해를 시작하면서 우리나라에 가장 많이 유포된 악성코드 유형은 지난해에도 가장 높을 비율을 차지했던 개인정보 및 계정정보 탈취 목적의 인포스틸러 악성코드였던 것으로 분석됐다. 보안전문 업체 안랩의 ASEC 분석팀이 ASEC 자동 분석 시스템 ‘RAPIT’를 ...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[주말판] 인공지능이 가야할 길, 평탄치 않다]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=104138&amp;page=1&amp;mkind=1&amp;kind=1</id>
@@ -88,40 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=104122&amp;page=1&amp;mkind=1&amp;kind=1"/>
         <updated>2022-01-14T08:20:01.316Z</updated>
         <content type="html"><![CDATA[북한의 해킹 그룹인 블루노로프(Bluenoroff)가 암호화폐 스타트업들을 노리는 정황이 발견됐다. 메타마스크(MetaMask)라는 인터넷 브라우저 확장 프로그램을 흉내 낸 가짜 플러그인과 악성 문서들이 활용되고 있다고 한다. 블루노로프의 이번 공격이 발견되고 있는 나...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NFT 플랫폼 림포, 핫월렛 해킹 공격으로 1870만 달러 잃어]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104121&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104121&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-01-14T05:17:08.074Z</updated>
-        <content type="html"><![CDATA[NFT라는 기술이 블록체인 분야에서 큰 주목을 받으면서 해커들의 표적이 되고 있다. 최근 NFT 기술을 제공하는 플랫폼 중 하나인 림포(Lympo)가 사이버 공격을 받았고, 1870만 달러에 해당하는 자산을 잃었다. 해커들이 림포의 핫월렛에 접근하는 데 성공한 것으로 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우크라이나, 랜섬웨어 그룹 일망타진해 공격 인프라 폐쇄시켜]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104120&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104120&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-01-14T03:18:24.965Z</updated>
-        <content type="html"><![CDATA[우크라이나 경찰은 최근 영국과 미국 경찰과의 공조로 랜섬웨어 운영에 일조한 범인들을 체포하는 데 성공했다고 발표했다. 미국과 유럽에서 50개가 넘는 기업들을 공격한 자들이라고 한다. 이들이 사용했던 랜섬웨어의 이름은 공개되지 않고 있지만, 스핌 이메일을 통해 퍼졌다는 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[굿로더 해커들, 법 및 회계 사무소 직원들 노려]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104119&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104119&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-01-14T03:18:24.966Z</updated>
-        <content type="html"><![CDATA[굿로더(GootLoader)라는 멀웨어를 퍼트리는 공격자들이 최근부터 로펌과 회계 사무소에서 근무하는 자들을 노리고 공격을 시작했다. 공격자들의 표적이 좀 더 ‘중요 인물’쪽으로 확대된 것으로 보인다. 하지만 이번 캠페인의 피해 규모와 피해 조직은 아직 구체적으로 공개...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[구글, 미국 정부에 “오픈소스 소프트웨어 감독 철저히 해야 한다”]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104118&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104118&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-01-14T03:18:24.967Z</updated>
-        <content type="html"><![CDATA[구글은 백악관 요원들과의 만남에서 오픈소스 생태계를 관리하기 위해 정부가 보다 능동적인 역할을 해야 한다고 촉구했다. 오픈소스 생태계를 보호하기 위해서 민과 관이 더 끈끈하게 협조해야 한다는 것이 구글의 주장이다. 구글은 오픈소스 소프트웨어 보안의 표준을 제도적으로 규...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[안랩, 디지털 직무교육 사회공헌 프로그램 ‘안랩샘(SEM)’ 13기 수료식 개최]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104117&amp;page=1&amp;mkind=1&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104117&amp;page=1&amp;mkind=1&amp;kind=3"/>
-        <updated>2022-01-14T03:18:24.968Z</updated>
-        <content type="html"><![CDATA[안랩(대표 강석균)이 13일(목), 디지털 직무 교육 사회공헌 프로그램 ‘안랩샘(AhnLab SEM(Software Education Manager)아카데미, 이하 안랩샘)’ 13기의 수료식을 온라인으로 실시했다.]]></content>
     </entry>
 </feed>
