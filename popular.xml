@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Jan 2022 06:21:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Jan 2022 07:18:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -120,14 +120,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/1-153(295).jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[보안 교육, 원래 최고 임원진들부터 시작해 내려오는 게 맞다]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104096&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104096&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Fri, 14 Jan 2022 12:26:10 GMT</pubDate>
-            <content:encoded><![CDATA[사이버 범죄자들은 회사의 직원들만 골라서 노리지 않는다. 오히려 C레벨 임원들이라면 더 ‘땡큐’다. 데이터 침해 사건은 해마다 크게 증가하고 있는데, 이 사건 중...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/ce-thumb-0113.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[신용카드사와 은행, 북한 내부정보 등 위장한 北 해킹 공격 연이어 발견]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104085&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104085&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
@@ -136,20 +128,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/est_011301_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[보안 교육, 원래 최고 임원진들부터 시작해 내려오는 게 맞다]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104096&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104096&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Fri, 14 Jan 2022 12:26:10 GMT</pubDate>
+            <content:encoded><![CDATA[사이버 범죄자들은 회사의 직원들만 골라서 노리지 않는다. 오히려 C레벨 임원들이라면 더 ‘땡큐’다. 데이터 침해 사건은 해마다 크게 증가하고 있는데, 이 사건 중...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/ce-thumb-0113.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[에너지 및 사회 인프라 분야의 사이버 보안을 7가지로 예측한다]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104001&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104001&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Thu, 13 Jan 2022 08:20:06 GMT</pubDate>
             <content:encoded><![CDATA[사이버 공격으로 사회 기능을 마비시킬 수 있는 시대다. 세계 경제의 메가 트렌드인 디지털 융합과 에너지 변환과 같은 흐름을 면밀히 파악해왔던 사람들이라면 아마 ‘...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/ene-thumb-0110.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[기술 유출 범죄 “요놈 잡았다”... 제4차 산업기술보호 종합계획 수립]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=103933&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=103933&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
-            <pubDate>Fri, 14 Jan 2022 16:22:03 GMT</pubDate>
-            <content:encoded><![CDATA[정부가 산업기술을 보호하기 위해 국가핵심기술 및 핵심인력 유출 방지체계를 강화하고 범부처 기술보호 협업으로 기술보호 실효성 제고를 위한 종합 계획을 수립했다.]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/RESIZEgisul20220104.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[클라우드 보안 따라잡기-2] 클라우드 보안의 공유 책임 모델 이해하기]]></title>
@@ -166,6 +158,13 @@
             <pubDate>Mon, 17 Jan 2022 04:21:18 GMT</pubDate>
             <content:encoded><![CDATA[코로나19가 전 세계에 창궐한 지 2년이 지난 지금, 비대면 업무환경이 증가함에 따라 사이버 위협도 점차 커지고 있다. 이에 &lt;보안뉴스&gt;에서는 정보보호...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/RESIZEcyber20220104.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[안산시, 개별공시지가 토지특성조사에 드론 투입한다]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104129&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104129&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
+            <pubDate>Mon, 17 Jan 2022 07:16:21 GMT</pubDate>
+            <content:encoded><![CDATA[안산시는 개별공시지가 토지특성조사의 정확성과 효율성을 높이기 위해 드론(무인비행장치)을 활용한다고 밝혔다. 대상은 대부도 내 건축 및 개발행위·인허가사업 밀집지역...]]></content:encoded>
         </item>
     </channel>
 </rss>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-01-17T06:21:44.990Z</updated>
+    <updated>2022-01-17T07:18:16.541Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[러시아의 사법부, 레빌 랜섬웨어 갱단 와해 및 체포]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104146&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104146&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-01-17T07:16:30.683Z</updated>
+        <content type="html"><![CDATA[러시아의 연방안보서비스(FSB)가 레빌(REvil)이라는 악명 높은 랜섬웨어 갱단의 은신처를 덮쳤다. 4개 도시에서 25군데에서 동시다발적인 작전 수행이 이뤄졌다. 이 과정에서 560만 달러에 해당하는 범죄 자금을 압수하는 데 성공했는데, 대부분은 암호화폐였다고 한다....]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MS, 우크라이나 겨냥한 사이버 공격에서 파괴형 멀웨어 발견해]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=104145&amp;page=1&amp;mkind=1&amp;kind=1</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=104123&amp;page=1&amp;mkind=1&amp;kind=1"/>
         <updated>2022-01-14T09:17:02.630Z</updated>
         <content type="html"><![CDATA[블록체인 생태계 분석 전문 업체인 체이널리시스(Chainalysis)가 북한 해킹 그룹에 대한 새로운 내용을 발표했다. 2021년 한 해 동안 이들이 암호화폐 생태계로부터 훔쳐낸 돈이 4억 달러라는 것이다. 이는 2020년에 비해 40% 증가한 액수로, 북한 해커들은 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[북한 블루노로프 해커들, 가짜 메타마스크 사용해 암호화폐 훔쳐]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104122&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104122&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-01-14T08:20:01.316Z</updated>
-        <content type="html"><![CDATA[북한의 해킹 그룹인 블루노로프(Bluenoroff)가 암호화폐 스타트업들을 노리는 정황이 발견됐다. 메타마스크(MetaMask)라는 인터넷 브라우저 확장 프로그램을 흉내 낸 가짜 플러그인과 악성 문서들이 활용되고 있다고 한다. 블루노로프의 이번 공격이 발견되고 있는 나...]]></content>
     </entry>
 </feed>

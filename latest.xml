@@ -4,9 +4,17 @@
         <title>보안뉴스 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Jan 2022 06:21:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Jan 2022 07:18:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[러시아, “레빌은 더 이상 존재하지 않는다”고 자신 있게 발표]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104149&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104149&amp;page=1&amp;kind=1</guid>
+            <pubDate>Mon, 17 Jan 2022 07:16:12 GMT</pubDate>
+            <content:encoded><![CDATA[러시아의 연방안보국(FSB)이 악명 높은 랜섬웨어 공격 단체인 레빌(REvil)의 주요 멤버들을 체포하고 공격 인프라를 폐쇄시켰다. 러시아에 숨어서 활동하...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/revil-thumb-0117.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[최고 규모의 다크웹 시장 UniCC, “운영 중단한다” 선언]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104148&amp;page=1&amp;kind=1</link>
@@ -78,14 +86,6 @@
             <pubDate>Sat, 15 Jan 2022 04:20:34 GMT</pubDate>
             <content:encoded><![CDATA[영천시는 스마트도시통합센터(구 CCTV통합관제센터) 2021년도 운영 성과를 지난 12일 보고했다. 2021년 1년 동안 스마트도시통합센터는 1,768대의...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/1-153(295).jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윈도 원격 접근 및 제어 서비스인 RDS에서 새 취약점 발견돼]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104127&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104127&amp;page=1&amp;kind=1</guid>
-            <pubDate>Fri, 14 Jan 2022 10:17:57 GMT</pubDate>
-            <content:encoded><![CDATA[마이크로소프트 윈도 시스템들 중 최소 윈도 서버 2012 R2 이후에 나온 것들의 원격 데스크톱 서비스(RDS) 서비스에서 취약점이 발견됐다. 이 취약점을...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/rem-thumb-0114.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[SK쉴더스, ‘개인정보보호 가이드’ 발간]]></title>
@@ -172,6 +172,14 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/1-150(295).jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[윈도 원격 접근 및 제어 서비스인 RDS에서 새 취약점 발견돼]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104127&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104127&amp;page=1&amp;kind=1</guid>
+            <pubDate>Fri, 14 Jan 2022 10:17:57 GMT</pubDate>
+            <content:encoded><![CDATA[마이크로소프트 윈도 시스템들 중 최소 윈도 서버 2012 R2 이후에 나온 것들의 원격 데스크톱 서비스(RDS) 서비스에서 취약점이 발견됐다. 이 취약점을...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/rem-thumb-0114.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[한국정보보호학회, 27대 회장으로 이옥연 국민대 교수 추대]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104126&amp;page=1&amp;kind=2</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104126&amp;page=1&amp;kind=2</guid>
@@ -233,14 +241,6 @@
             <pubDate>Fri, 14 Jan 2022 03:18:05 GMT</pubDate>
             <content:encoded><![CDATA[우크라이나 경찰은 최근 영국과 미국 경찰과의 공조로 랜섬웨어 운영에 일조한 범인들을 체포하는 데 성공했다고 발표했다. 미국과 유럽에서 50개가 넘는 기업들...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/arre-thumb-0114.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[굿로더 해커들, 법 및 회계 사무소 직원들 노려]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104119&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104119&amp;page=1&amp;kind=1</guid>
-            <pubDate>Fri, 14 Jan 2022 03:18:05 GMT</pubDate>
-            <content:encoded><![CDATA[굿로더(GootLoader)라는 멀웨어를 퍼트리는 공격자들이 최근부터 로펌과 회계 사무소에서 근무하는 자들을 노리고 공격을 시작했다. 공격자들의 표적이 좀...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/info-thumb-0114.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

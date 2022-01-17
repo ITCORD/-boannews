@@ -4,9 +4,23 @@
         <title>보안뉴스 ─ 국제</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Jan 2022 06:21:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Jan 2022 07:18:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[러시아, “레빌은 더 이상 존재하지 않는다”고 자신 있게 발표]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104149&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104149&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
+            <pubDate>Mon, 17 Jan 2022 07:17:47 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/view.asp?idx=104149&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
+					
+					<img src="/media/upFiles2/2022/01/revil-thumb-0117.jpg" alt="" class="news_img" height="70">
+					
+					<span class="news_txt">러시아, “레빌은 더 이상 존재하지 않는다”고 자신 있게 발표</span>
+					</a><br>
+					<a href="/media/view.asp?idx=104149&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">러시아의 연방안보국(FSB)이 악명 높은 랜섬웨어 공격 단체인 레빌(REvil)의 주요 멤버들을 체포하고 공격 인프라를 폐쇄시켰다. 러시아에 숨어서 활동하는 사이...</a> <span class="news_writer">문가용 기자 | 2022년 01월 17일 15:31</span>]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/revil-thumb-0117.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[최고 규모의 다크웹 시장 UniCC, “운영 중단한다” 선언]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104148&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
@@ -272,20 +286,6 @@
 					</a><br>
 					<a href="/media/view.asp?idx=104089&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">새로운 다중 플랫폼 백도어가 발견됐다. 이름은 시스조커(SysJoker)로, 윈도, 리눅스, 맥OS를 전부 노리는 멀웨어다. 2021년 하반기부터 진행된 정보 탈...</a> <span class="news_writer">문가용 기자 | 2022년 01월 13일 11:15</span>]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/jok-thumb-0113.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[AWS와 애저를 통해 진행된 대규모 정보 탈취 캠페인]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104088&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104088&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
-            <pubDate>Thu, 13 Jan 2022 03:20:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/view.asp?idx=104088&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
-					
-					<img src="/media/upFiles2/2022/01/cloud-thumb-0113.jpg" alt="" class="news_img" height="70">
-					
-					<span class="news_txt">AWS와 애저를 통해 진행된 대규모 정보 탈취 캠페인</span>
-					</a><br>
-					<a href="/media/view.asp?idx=104088&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">사이버 공격자들이 대형 클라우드 서비스에 자신들의 멀웨어를 호스팅 해놓은 상태에서 대형 캠페인을 진행했다는 사실이 밝혀졌다. 연루된 클라우드 서비스는 AWS와 애...</a> <span class="news_writer">문가용 기자 | 2022년 01월 13일 11:14</span>]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/cloud-thumb-0113.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
