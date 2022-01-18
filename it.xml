@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=2</id>
     <title>보안뉴스 ─ IT</title>
-    <updated>2022-01-18T00:57:48.190Z</updated>
+    <updated>2022-01-18T02:12:36.039Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[LG U+, CDO로 美 AT&T 데이터 전문가 영입]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104171&amp;page=1&amp;mkind=2&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104171&amp;page=1&amp;mkind=2&amp;kind=2"/>
+        <updated>2022-01-18T02:11:08.642Z</updated>
+        <content type="html"><![CDATA[LG유플러스가 올해 디지털트랜스포메이션(DX)과 함께 중점 추진 신사업으로 데이터 사업을 육성하기로 하고 본격적인 사업 추진을 위해 이 분야 최고 전문가를 영입했다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LG전자, 인공지능으로 더 쾌적한 ‘가정용 환기시스템’ 출시]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104137&amp;page=1&amp;mkind=2&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104137&amp;page=1&amp;mkind=2&amp;kind=3"/>
+        <updated>2022-01-18T02:11:08.645Z</updated>
+        <content type="html"><![CDATA[LG전자가 인공지능이 실내외 환경을 분석하고 최적 운전 조건을 찾아 알아서 집안 공기를 쾌적하게 관리해 주는 가정용 환기시스템을 출시했다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NIA, 디지털뉴딜 성과 망라한 ‘디지털뉴딜 브리프’ 발간]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=104130&amp;page=1&amp;mkind=2&amp;kind=2</id>
@@ -109,19 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=104081&amp;page=1&amp;mkind=2&amp;kind=2"/>
         <updated>2022-01-14T00:56:01.405Z</updated>
         <content type="html"><![CDATA[중소벤처기업부는 인공지능(AI), 빅데이터, 디지털복제물(디지털트윈)을 기반으로 첨단 지능형공장(스마트공장) 구축을 지원하는 ‘케이(K)-스마트등대공장’ 육성 사업에 참여를 희망하는 중소·중견기업의 신청을 오는 2월 21일까지 받는다고 밝혔다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[과기정통부, 청년 인공지능·소프트웨어 교육 기회 대폭 확대]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104080&amp;page=1&amp;mkind=2&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104080&amp;page=1&amp;mkind=2&amp;kind=2"/>
-        <updated>2022-01-13T02:10:44.139Z</updated>
-        <content type="html"><![CDATA[과학기술정보통신부는 2022년 인공지능·소프트웨어 분야 인재 양성에 지난해보다 660억원이 늘어난 3,285억을 투자해 총 2만1,500명을 양성한다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[디지털산업혁신펀드 2호 800억원 결성, 본격 투자 시작한다]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104079&amp;page=1&amp;mkind=2&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104079&amp;page=1&amp;mkind=2&amp;kind=2"/>
-        <updated>2022-01-13T02:10:44.143Z</updated>
-        <content type="html"><![CDATA[산업통상자원부는 디지털 기술(D.N.A 및 AICBM)을 접목해 공정·제품·서비스를 혁신하고 새로운 비즈니스 모델을 창출하는 디지털혁신기업에 투자하는 ‘디지털산업혁신펀드 2호’(800억원)를 결성해 본격적으로 투자를 시작한다고 밝혔다.]]></content>
     </entry>
 </feed>
