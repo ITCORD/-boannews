@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-01-18T12:28:55.186Z</updated>
+    <updated>2022-01-18T13:27:44.593Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한국CISO협의회, 제13차 정기총회 및 신년 하례회 개최]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104185&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104185&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-01-18T13:25:46.991Z</updated>
+        <content type="html"><![CDATA[한국CISO협의회(회장 이기주)가 제13차 정기총회 및 신년 하례회를 진행했다. 이기주 회장은 “새해를 맞아 회원 모두 건강하고 행복하시기를 바란다”면서, “올해 대선 등 큰 이벤트가 있어 보안상 큰 이슈가 있을 것으로 예상되지만, 우리 CISO 분들은 슬기롭게 이겨낼...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[구글 크롬, 엔드포인트의 직접 접근 제한한다]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104182&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104182&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-01-18T13:25:46.998Z</updated>
+        <content type="html"><![CDATA[구글 크롬 팀은 공공 웹사이트들이 사설 망에 접속한 사용자들의 엔드포인트를 직접 접근하지 못하도록 한다는 방침을 적용할 것이라고 발표했다. 이러한 규정은 크롬 98부터 크롬 101버전에까지 단계적으로 도입될 전망이다. 즉 101버전부터는 인터넷을 통해 아무나 접속할 수...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DHL, 4사분기에 마이크로소프트를 넘어선 인기 구가해]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=104181&amp;page=1&amp;mkind=1&amp;kind=1</id>
@@ -109,19 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=104145&amp;page=1&amp;mkind=1&amp;kind=1"/>
         <updated>2022-01-17T03:19:04.470Z</updated>
         <content type="html"><![CDATA[마이크로소프트가 우크라이나 정부를 겨냥한 사이버 공격 캠페인에서 새로운 멀웨어를 발견했다. 이름은 위스퍼게이트(WhisperGate)라고 하며, 마스터 부트 레코드(MBR)를 파괴하는 기능을 가지고 있다고 한다. 랜섬웨어인 것처럼 위장되어 있지만 복구 메커니즘은 하나도...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사파리 취약점, 사이트 넘나드는 사용자 추적 가능케 해]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104144&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104144&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-01-17T03:19:04.475Z</updated>
-        <content type="html"><![CDATA[애플의 브라우저 사파리 15에서 취약점이 발견됐다. 인덱스드DB(IndexedDB)라는 API와 관련된 것이라고 하며 아직 패치가 되지 않았다. 이 취약점은 11월 28일 핑거프린트JS(FingerprintJS)라는 업체에서 발견해 보고했다고 한다. 익스플로잇에 성공할...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[액스게이트, 이와이엘과 양자 보안 기술 협력 MOU]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104143&amp;page=1&amp;mkind=1&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104143&amp;page=1&amp;mkind=1&amp;kind=3"/>
-        <updated>2022-01-17T03:19:04.478Z</updated>
-        <content type="html"><![CDATA[액스게이트(대표 주갑수)가 이와이엘과 ‘양자난수 보안/인증 기술을 접목한 방화벽인증 시스템 및 VPN 공동 개발’을 MOU를 체결했다고 밝혔다. 1월 10일 서울 삼성동 액스게이트 본사에서 열린 업무협약식에는 주갑수 대표와 이와이엘 정부석 대표 외 양사 주요 관계자들이...]]></content>
     </entry>
 </feed>
