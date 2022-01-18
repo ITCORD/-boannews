@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=2</id>
     <title>보안뉴스 ─ IT</title>
-    <updated>2022-01-18T03:20:02.202Z</updated>
+    <updated>2022-01-18T04:23:18.704Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[삼성전자, 6G 시대 선도할 통신 인재 육성 나섰다]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104170&amp;page=1&amp;mkind=2&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104170&amp;page=1&amp;mkind=2&amp;kind=2"/>
+        <updated>2022-01-18T04:21:44.862Z</updated>
+        <content type="html"><![CDATA[삼성전자가 국내 대학과 계약학과·연합전공 등 활발한 산학협력을 통해 차세대 통신 기술 인재 양성에 나선다. 삼성전자와 고려대는 6G를 포함해 차세대 통신 기술을 다루는 ‘차세대통신학과’를 전기전자공학부에 채용연계형 계약학과로 신설한다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[LG U+, CDO로 美 AT&T 데이터 전문가 영입]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=104171&amp;page=1&amp;mkind=2&amp;kind=2</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=104083&amp;page=1&amp;mkind=2&amp;kind=2"/>
         <updated>2022-01-14T00:56:01.405Z</updated>
         <content type="html"><![CDATA[중소벤처기업부는 산학연 협력을 통한 중소기업의 혁신역량 강화와 효율적인 연구 기반 조성을 위해 ‘산학연 플랫폼(체제) 협력기술개발 사업’과 ‘연구 기반 활용 플러스 사업’ 시행계획을 13일에 공고했다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[중기부, ‘K-스마트등대공장’ 최대 12억원 지원]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104081&amp;page=1&amp;mkind=2&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104081&amp;page=1&amp;mkind=2&amp;kind=2"/>
-        <updated>2022-01-14T00:56:01.405Z</updated>
-        <content type="html"><![CDATA[중소벤처기업부는 인공지능(AI), 빅데이터, 디지털복제물(디지털트윈)을 기반으로 첨단 지능형공장(스마트공장) 구축을 지원하는 ‘케이(K)-스마트등대공장’ 육성 사업에 참여를 희망하는 중소·중견기업의 신청을 오는 2월 21일까지 받는다고 밝혔다.]]></content>
     </entry>
 </feed>
