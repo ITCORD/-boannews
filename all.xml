@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Jan 2022 09:19:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Jan 2022 10:20:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[한국CISO협의회, 제13차 정기총회 및 신년 하례회 개최 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104185&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104185&amp;page=1&amp;kind=1</guid>
+            <pubDate>Tue, 18 Jan 2022 10:18:05 GMT</pubDate>
+            <content:encoded><![CDATA[한국CISO협의회(회장 이기주)가 제13차 정기총회 및 신년 하례회를 진행했다. 이기주 회장은 “새해를 맞아 회원 모두 건강하고 행복하시기를 바란다”면서,...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/ciso_0118_main.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[구글 크롬, 엔드포인트의 직접 접근 제한한다 (보안뉴스 ─ 전체기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104182&amp;page=1&amp;kind=1</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 17 Jan 2022 10:17:47 GMT</pubDate>
             <content:encoded><![CDATA[미국 정부가 ‘백악관 소프트웨어 보안 서밋(White House Software Security Summit)’을 주최해 오픈소스 커뮤니티와 주요 소프트웨...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/code-thumb-0117.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[취임 인터뷰] 한국정보보호학회 이옥연 회장 “급변하는 미래환경, 보안 연구로 대응할 것” (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104150&amp;page=1&amp;kind=6</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104150&amp;page=1&amp;kind=6</guid>
-            <pubDate>Mon, 17 Jan 2022 08:20:26 GMT</pubDate>
-            <content:encoded><![CDATA[국내를 대표하는 정보보호 분야 학회인 한국정보보호학회가 지난 1월 14일 신년인사회 및 이·취임식을 열고 이옥연 국민대학교 교수를 제27대 회장으로 추대했...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/lee_011701_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[인사] 스카이데일리 (보안뉴스 ─ 전체기사)]]></title>
@@ -227,12 +227,12 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/1-178(295).jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[러시아, “레빌은 더 이상 존재하지 않는다”고 자신 있게 발표 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104149&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104149&amp;page=1&amp;kind=1</guid>
-            <pubDate>Mon, 17 Jan 2022 07:16:12 GMT</pubDate>
-            <content:encoded><![CDATA[러시아의 연방안보국(FSB)이 악명 높은 랜섬웨어 공격 단체인 레빌(REvil)의 주요 멤버들을 체포하고 공격 인프라를 폐쇄시켰다. 러시아에 숨어서 활동하...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/revil-thumb-0117.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[취임 인터뷰] 한국정보보호학회 이옥연 회장 “급변하는 미래환경, 보안 연구로 대응할 것” (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104150&amp;page=1&amp;kind=6</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104150&amp;page=1&amp;kind=6</guid>
+            <pubDate>Mon, 17 Jan 2022 08:20:26 GMT</pubDate>
+            <content:encoded><![CDATA[국내를 대표하는 정보보호 분야 학회인 한국정보보호학회가 지난 1월 14일 신년인사회 및 이·취임식을 열고 이옥연 국민대학교 교수를 제27대 회장으로 추대했...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/lee_011701_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[단독] 국내 심스와핑 의심 피해자 또 나와... KT 사용자 2천여만원 피해 입어 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
@@ -299,20 +299,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/20220114esrc-s.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
-            <title><![CDATA[구름에 숨은 생쥐 3마리, 현대 기업을 위협하는 종합 선물 세트 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104093&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104093&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Fri, 14 Jan 2022 03:18:15 GMT</pubDate>
-            <content:encoded><![CDATA[유명 ‘원격 접근 트로이목마(RAT)’ 세 가지를 한꺼번에 활용한 대형 정보 탈취 캠페인이 적발됐다. 이 캠페인이 독특한 건, 나노코어(Nanocore), 넷와이...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/rat-thumb-0113.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[너무나 위협적인 해킹 ‘공급망 공격’, 2022년에도 가장 두려운 이름 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104140&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104140&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Mon, 17 Jan 2022 09:17:24 GMT</pubDate>
             <content:encoded><![CDATA[IT 환경과 인프라가 점점 복잡하게 얽히고, 각 요소들이 서로에 대한 의존도가 높아질수록 공급망 공격의 효율은 더 높아질 것이고 방어는 더 힘든 일이 될 것으로 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/20220116supply-s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[구름에 숨은 생쥐 3마리, 현대 기업을 위협하는 종합 선물 세트 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104093&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104093&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Fri, 14 Jan 2022 03:18:15 GMT</pubDate>
+            <content:encoded><![CDATA[유명 ‘원격 접근 트로이목마(RAT)’ 세 가지를 한꺼번에 활용한 대형 정보 탈취 캠페인이 적발됐다. 이 캠페인이 독특한 건, 나노코어(Nanocore), 넷와이...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/rat-thumb-0113.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[영천시 스마트도시통합센터, 24시간 영천시민 지킨다 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
@@ -392,6 +392,13 @@
             <pubDate>Tue, 18 Jan 2022 09:17:29 GMT</pubDate>
             <content:encoded><![CDATA[미국 정부가 ‘백악관 소프트웨어 보안 서밋(White House Software Security Summit)’을 주최해 오픈소스 커뮤니티와 주요 소프트웨어 개발...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/code-thumb-0117.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[액셀리온, 재작년 데이터 침해 사고 합의로 810만 달러 지출 예정 (보안뉴스 ─ SECURITY)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104180&amp;page=1&amp;mkind=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104180&amp;page=1&amp;mkind=1&amp;kind=1</guid>
+            <pubDate>Tue, 18 Jan 2022 10:18:23 GMT</pubDate>
+            <content:encoded><![CDATA[IT 서비스 업체인 액셀리온이 2020년 12월에 발생한 데이터 침해 사고에 대한 합의금으로 810만 달러를 내기로 했다. 액셀리온의 FTA에서 발견된 제로데이 취약점을 해커들이 익스플로잇 함으로써 금융 정보를 잃은 피해자들이 집단 소송을 건 결과이다. 이후 FTA 플...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[새로운 리눅스 기반 랜섬웨어, 에스칼 나타나 (보안뉴스 ─ SECURITY)]]></title>
@@ -504,13 +511,6 @@
             <guid>https://www.boannews.com/media/view.asp?idx=104140&amp;page=1&amp;mkind=1&amp;kind=1</guid>
             <pubDate>Mon, 17 Jan 2022 03:19:04 GMT</pubDate>
             <content:encoded><![CDATA[IT 환경과 인프라가 점점 복잡하게 얽히고, 각 요소들이 서로에 대한 의존도가 높아질수록 공급망 공격의 효율은 더 높아질 것이고 방어는 더 힘든 일이 될 것으로 전망된다. 따라서 공급망 공격은 한 동안 꾸준한 연구 대상이자 공격 전략으로 남아 있을 것으로 예상된다. 지...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2022년의 시작 1월 첫째주, 우리나라에 가장 많이 유포된 악성코드는? (보안뉴스 ─ SECURITY)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104139&amp;page=1&amp;mkind=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104139&amp;page=1&amp;mkind=1&amp;kind=1</guid>
-            <pubDate>Mon, 17 Jan 2022 03:19:04 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 새해를 시작하면서 우리나라에 가장 많이 유포된 악성코드 유형은 지난해에도 가장 높을 비율을 차지했던 개인정보 및 계정정보 탈취 목적의 인포스틸러 악성코드였던 것으로 분석됐다. 보안전문 업체 안랩의 ASEC 분석팀이 ASEC 자동 분석 시스템 ‘RAPIT’를 ...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[중기부, 로봇 도입으로 제조경쟁력 높일 참여 기업 모집 (보안뉴스 ─ IT)]]></title>

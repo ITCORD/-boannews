@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-01-18T09:19:17.453Z</updated>
+    <updated>2022-01-18T10:20:05.643Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[액셀리온, 재작년 데이터 침해 사고 합의로 810만 달러 지출 예정]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104180&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104180&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-01-18T10:18:23.138Z</updated>
+        <content type="html"><![CDATA[IT 서비스 업체인 액셀리온이 2020년 12월에 발생한 데이터 침해 사고에 대한 합의금으로 810만 달러를 내기로 했다. 액셀리온의 FTA에서 발견된 제로데이 취약점을 해커들이 익스플로잇 함으로써 금융 정보를 잃은 피해자들이 집단 소송을 건 결과이다. 이후 FTA 플...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[새로운 리눅스 기반 랜섬웨어, 에스칼 나타나]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=104179&amp;page=1&amp;mkind=1&amp;kind=1</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=104140&amp;page=1&amp;mkind=1&amp;kind=1"/>
         <updated>2022-01-17T03:19:04.483Z</updated>
         <content type="html"><![CDATA[IT 환경과 인프라가 점점 복잡하게 얽히고, 각 요소들이 서로에 대한 의존도가 높아질수록 공급망 공격의 효율은 더 높아질 것이고 방어는 더 힘든 일이 될 것으로 전망된다. 따라서 공급망 공격은 한 동안 꾸준한 연구 대상이자 공격 전략으로 남아 있을 것으로 예상된다. 지...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022년의 시작 1월 첫째주, 우리나라에 가장 많이 유포된 악성코드는?]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104139&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104139&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-01-17T03:19:04.486Z</updated>
-        <content type="html"><![CDATA[2022년 새해를 시작하면서 우리나라에 가장 많이 유포된 악성코드 유형은 지난해에도 가장 높을 비율을 차지했던 개인정보 및 계정정보 탈취 목적의 인포스틸러 악성코드였던 것으로 분석됐다. 보안전문 업체 안랩의 ASEC 분석팀이 ASEC 자동 분석 시스템 ‘RAPIT’를 ...]]></content>
     </entry>
 </feed>
