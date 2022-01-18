@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-01-18T04:23:18.707Z</updated>
+    <updated>2022-01-18T05:20:04.752Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오픈소스 소프트웨어 보호하기 위해 백악관과 주요 IT 기업들 만나]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104151&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104151&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-01-18T05:18:18.973Z</updated>
+        <content type="html"><![CDATA[미국 정부가 ‘백악관 소프트웨어 보안 서밋(White House Software Security Summit)’을 주최해 오픈소스 커뮤니티와 주요 소프트웨어 개발사들을 1월 13일에 직접 만났다. 자꾸만 위험해지는 소프트웨어 보안에 대해 이야기하고 대책을 마련하기 위해...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[취임 인터뷰] 한국정보보호학회 이옥연 회장 “급변하는 미래환경, 보안 연구로 대응할 것”]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104150&amp;page=1&amp;mkind=1&amp;kind=6</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104150&amp;page=1&amp;mkind=1&amp;kind=6"/>
+        <updated>2022-01-18T05:18:18.978Z</updated>
+        <content type="html"><![CDATA[국내를 대표하는 정보보호 분야 학회인 한국정보보호학회가 지난 1월 14일 신년인사회 및 이·취임식을 열고 이옥연 국민대학교 교수를 제27대 회장으로 추대했다. 한국암호포럼 의장과 국가암호공모전 심사위원장, BK21+ 미래 금융정보보안 전문인력양성사업단 단장을 역임한 이...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[러시아, “레빌은 더 이상 존재하지 않는다”고 자신 있게 발표]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=104149&amp;page=1&amp;mkind=1&amp;kind=1</id>
@@ -109,19 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=104127&amp;page=1&amp;mkind=1&amp;kind=1"/>
         <updated>2022-01-15T04:20:54.401Z</updated>
         <content type="html"><![CDATA[마이크로소프트 윈도 시스템들 중 최소 윈도 서버 2012 R2 이후에 나온 것들의 원격 데스크톱 서비스(RDS) 서비스에서 취약점이 발견됐다. 이 취약점을 익스플로잇 할 경우 RDP로 연결된 공격자가 피해자 컴퓨터에 로그인 하는 다른 사용자들의 파일 시스템에 접근할 수...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국정보보호학회, 27대 회장으로 이옥연 국민대 교수 추대]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104126&amp;page=1&amp;mkind=1&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104126&amp;page=1&amp;mkind=1&amp;kind=2"/>
-        <updated>2022-01-15T04:20:54.402Z</updated>
-        <content type="html"><![CDATA[한국정보보호학회가 27대 회장으로 이옥연 국민대학교 교수를 추대했다. 14일 개최된 신년인사회 및 제1차 이사회에서 이옥연 신임회장과 원유재 수석부회장(충남대 교수), 그리고 주요 임원 등을 임명하고 이·취임식을 진행했다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[주말에 해외 직구 쇼핑하려다? 피싱 앱에 계정정보 털릴라]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104125&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104125&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-01-15T04:20:54.403Z</updated>
-        <content type="html"><![CDATA[최근 해외 직구 쇼핑몰을 위장한 피싱 앱이 지속적으로 유포 중에 있는 것으로 드러났다. 이번에 발견된 피싱 앱은 스미싱을 통해 유포되는 것으로 추정된다는 게 이스트시큐리티 시큐리티대응센터(ESRC) 측의 설명이다.]]></content>
     </entry>
 </feed>
