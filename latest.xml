@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Jan 2022 23:18:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Jan 2022 00:57:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -86,6 +86,22 @@
             <pubDate>Sun, 16 Jan 2022 14:14:02 GMT</pubDate>
             <content:encoded><![CDATA[2022년 새해를 시작하면서 우리나라에 가장 많이 유포된 악성코드 유형은 지난해에도 가장 높을 비율을 차지했던 개인정보 및 계정정보 탈취 목적의 인포스틸러...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/20220116mal-s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[삼성전자, 6G 시대 선도할 통신 인재 육성 나섰다]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104170&amp;page=1&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104170&amp;page=1&amp;kind=2</guid>
+            <pubDate>Tue, 18 Jan 2022 00:55:39 GMT</pubDate>
+            <content:encoded><![CDATA[삼성전자가 국내 대학과 계약학과·연합전공 등 활발한 산학협력을 통해 차세대 통신 기술 인재 양성에 나선다. 삼성전자와 고려대는 6G를 포함해 차세대 통신 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/1-177(295).jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[LG U+, CDO로 美 AT&T 데이터 전문가 영입]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104171&amp;page=1&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104171&amp;page=1&amp;kind=2</guid>
+            <pubDate>Tue, 18 Jan 2022 00:55:39 GMT</pubDate>
+            <content:encoded><![CDATA[LG유플러스가 올해 디지털트랜스포메이션(DX)과 함께 중점 추진 신사업으로 데이터 사업을 육성하기로 하고 본격적인 사업 추진을 위해 이 분야 최고 전문가를...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/1-178(295).jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[SK쉴더스, ‘개인정보보호 가이드’ 발간]]></title>
@@ -225,22 +241,6 @@
             <guid>https://www.boannews.com/media/view.asp?idx=104124&amp;page=1&amp;kind=2</guid>
             <pubDate>Fri, 14 Jan 2022 05:16:47 GMT</pubDate>
             <content:encoded><![CDATA[개인정보보호위원회(위원장 윤종인, 이하 ‘개인정보위’)는 1월 14일(금) 정부서울청사에서, 2022년 새해를 맞아 개인정보 전망과 과제에 대해 논의하기 ...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[북한의 해킹 그룹, 2021년 암호화폐 4억 달러 훔쳤다]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104123&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104123&amp;page=1&amp;kind=1</guid>
-            <pubDate>Fri, 14 Jan 2022 03:18:05 GMT</pubDate>
-            <content:encoded><![CDATA[블록체인 생태계 분석 전문 업체인 체이널리시스(Chainalysis)가 북한 해킹 그룹에 대한 새로운 내용을 발표했다. 2021년 한 해 동안 이들이 암호...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/coin-thumb-0114.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[북한 블루노로프 해커들, 가짜 메타마스크 사용해 암호화폐 훔쳐]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104122&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104122&amp;page=1&amp;kind=1</guid>
-            <pubDate>Fri, 14 Jan 2022 03:18:05 GMT</pubDate>
-            <content:encoded><![CDATA[북한의 해킹 그룹인 블루노로프(Bluenoroff)가 암호화폐 스타트업들을 노리는 정황이 발견됐다. 메타마스크(MetaMask)라는 인터넷 브라우저 확장 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/bit-thumb-0114.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

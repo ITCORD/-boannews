@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Jan 2022 23:18:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Jan 2022 00:57:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,6 +104,14 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/1-153(295).jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[너무나 위협적인 해킹 ‘공급망 공격’, 2022년에도 가장 두려운 이름]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104140&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104140&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Mon, 17 Jan 2022 09:17:24 GMT</pubDate>
+            <content:encoded><![CDATA[IT 환경과 인프라가 점점 복잡하게 얽히고, 각 요소들이 서로에 대한 의존도가 높아질수록 공급망 공격의 효율은 더 높아질 것이고 방어는 더 힘든 일이 될 것으로 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/20220116supply-s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[신용카드사와 은행, 북한 내부정보 등 위장한 北 해킹 공격 연이어 발견]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104085&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104085&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
@@ -120,14 +128,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/cloud-humb-0112.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[보안 교육, 원래 최고 임원진들부터 시작해 내려오는 게 맞다]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104096&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104096&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Fri, 14 Jan 2022 12:26:10 GMT</pubDate>
-            <content:encoded><![CDATA[사이버 범죄자들은 회사의 직원들만 골라서 노리지 않는다. 오히려 C레벨 임원들이라면 더 ‘땡큐’다. 데이터 침해 사건은 해마다 크게 증가하고 있는데, 이 사건 중...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/ce-thumb-0113.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[클라우드 보안 따라잡기-2] 클라우드 보안의 공유 책임 모델 이해하기]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104062&amp;page=1&amp;kind=5&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104062&amp;page=1&amp;kind=5&amp;search=title&amp;find=</guid>
@@ -136,12 +136,12 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/RESIZEcloud20220104.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[너무나 위협적인 해킹 ‘공급망 공격’, 2022년에도 가장 두려운 이름]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104140&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104140&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Mon, 17 Jan 2022 09:17:24 GMT</pubDate>
-            <content:encoded><![CDATA[IT 환경과 인프라가 점점 복잡하게 얽히고, 각 요소들이 서로에 대한 의존도가 높아질수록 공급망 공격의 효율은 더 높아질 것이고 방어는 더 힘든 일이 될 것으로 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/20220116supply-s.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[보안 교육, 원래 최고 임원진들부터 시작해 내려오는 게 맞다]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104096&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104096&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Fri, 14 Jan 2022 12:26:10 GMT</pubDate>
+            <content:encoded><![CDATA[사이버 범죄자들은 회사의 직원들만 골라서 노리지 않는다. 오히려 C레벨 임원들이라면 더 ‘땡큐’다. 데이터 침해 사건은 해마다 크게 증가하고 있는데, 이 사건 중...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/ce-thumb-0113.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[안산시, 개별공시지가 토지특성조사에 드론 투입한다]]></title>
