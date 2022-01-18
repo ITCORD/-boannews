@@ -4,9 +4,17 @@
         <title>보안뉴스 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Jan 2022 11:16:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Jan 2022 12:28:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[북한에서 배웠나...정치적 목적과 금전적 목적 모두 이루려는 어스루스카]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104186&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104186&amp;page=1&amp;kind=1</guid>
+            <pubDate>Tue, 18 Jan 2022 12:27:06 GMT</pubDate>
+            <content:encoded><![CDATA[어스루스카(Earth Lusca)라는 공격 단체가 전 세계 여러 나라의 조직들을 대상으로 광범위한 규모의 에스피오나지 캠페인을 벌이고 있는 것이 드러났다....]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/luc-thumb-0118.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한국CISO협의회, 제13차 정기총회 및 신년 하례회 개최]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104185&amp;page=1&amp;kind=1</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 18 Jan 2022 02:10:43 GMT</pubDate>
             <content:encoded><![CDATA[과학기술정보통신부는 한국인터넷진흥원(KISA)과 함께 최근 사이버침해 위기가 고조됨에 따라 민간기업 대상으로 실제 사이버 공격과 동일한 방식으로 지난 20...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/19919746_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오픈소스 소프트웨어 보호하기 위해 백악관과 주요 IT 기업들 만나]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104151&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104151&amp;page=1&amp;kind=1</guid>
-            <pubDate>Mon, 17 Jan 2022 10:17:47 GMT</pubDate>
-            <content:encoded><![CDATA[미국 정부가 ‘백악관 소프트웨어 보안 서밋(White House Software Security Summit)’을 주최해 오픈소스 커뮤니티와 주요 소프트웨...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/code-thumb-0117.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[인사] 스카이데일리]]></title>
@@ -227,12 +227,12 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/1-178(295).jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[취임 인터뷰] 한국정보보호학회 이옥연 회장 “급변하는 미래환경, 보안 연구로 대응할 것”]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104150&amp;page=1&amp;kind=6</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104150&amp;page=1&amp;kind=6</guid>
-            <pubDate>Mon, 17 Jan 2022 08:20:26 GMT</pubDate>
-            <content:encoded><![CDATA[국내를 대표하는 정보보호 분야 학회인 한국정보보호학회가 지난 1월 14일 신년인사회 및 이·취임식을 열고 이옥연 국민대학교 교수를 제27대 회장으로 추대했...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/lee_011701_main.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[오픈소스 소프트웨어 보호하기 위해 백악관과 주요 IT 기업들 만나]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104151&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104151&amp;page=1&amp;kind=1</guid>
+            <pubDate>Mon, 17 Jan 2022 10:17:47 GMT</pubDate>
+            <content:encoded><![CDATA[미국 정부가 ‘백악관 소프트웨어 보안 서밋(White House Software Security Summit)’을 주최해 오픈소스 커뮤니티와 주요 소프트웨...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/code-thumb-0117.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

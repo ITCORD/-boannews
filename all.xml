@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Jan 2022 11:16:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Jan 2022 12:28:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[북한에서 배웠나...정치적 목적과 금전적 목적 모두 이루려는 어스루스카 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104186&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104186&amp;page=1&amp;kind=1</guid>
+            <pubDate>Tue, 18 Jan 2022 12:27:06 GMT</pubDate>
+            <content:encoded><![CDATA[어스루스카(Earth Lusca)라는 공격 단체가 전 세계 여러 나라의 조직들을 대상으로 광범위한 규모의 에스피오나지 캠페인을 벌이고 있는 것이 드러났다....]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/luc-thumb-0118.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[한국CISO협의회, 제13차 정기총회 및 신년 하례회 개최 (보안뉴스 ─ 전체기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104185&amp;page=1&amp;kind=1</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 18 Jan 2022 02:10:43 GMT</pubDate>
             <content:encoded><![CDATA[과학기술정보통신부는 한국인터넷진흥원(KISA)과 함께 최근 사이버침해 위기가 고조됨에 따라 민간기업 대상으로 실제 사이버 공격과 동일한 방식으로 지난 20...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/19919746_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오픈소스 소프트웨어 보호하기 위해 백악관과 주요 IT 기업들 만나 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104151&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104151&amp;page=1&amp;kind=1</guid>
-            <pubDate>Mon, 17 Jan 2022 10:17:47 GMT</pubDate>
-            <content:encoded><![CDATA[미국 정부가 ‘백악관 소프트웨어 보안 서밋(White House Software Security Summit)’을 주최해 오픈소스 커뮤니티와 주요 소프트웨...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/code-thumb-0117.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[인사] 스카이데일리 (보안뉴스 ─ 전체기사)]]></title>
@@ -227,12 +227,12 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/1-178(295).jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[취임 인터뷰] 한국정보보호학회 이옥연 회장 “급변하는 미래환경, 보안 연구로 대응할 것” (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104150&amp;page=1&amp;kind=6</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104150&amp;page=1&amp;kind=6</guid>
-            <pubDate>Mon, 17 Jan 2022 08:20:26 GMT</pubDate>
-            <content:encoded><![CDATA[국내를 대표하는 정보보호 분야 학회인 한국정보보호학회가 지난 1월 14일 신년인사회 및 이·취임식을 열고 이옥연 국민대학교 교수를 제27대 회장으로 추대했...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/lee_011701_main.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[오픈소스 소프트웨어 보호하기 위해 백악관과 주요 IT 기업들 만나 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104151&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104151&amp;page=1&amp;kind=1</guid>
+            <pubDate>Mon, 17 Jan 2022 10:17:47 GMT</pubDate>
+            <content:encoded><![CDATA[미국 정부가 ‘백악관 소프트웨어 보안 서밋(White House Software Security Summit)’을 주최해 오픈소스 커뮤니티와 주요 소프트웨...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/code-thumb-0117.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[단독] 국내 심스와핑 의심 피해자 또 나와... KT 사용자 2천여만원 피해 입어 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
@@ -378,6 +378,14 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/20220113report-sm.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
+            <title><![CDATA[오픈소스 소프트웨어 보호하기 위해 백악관과 주요 IT 기업들 만나 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104151&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104151&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Tue, 18 Jan 2022 09:17:29 GMT</pubDate>
+            <content:encoded><![CDATA[미국 정부가 ‘백악관 소프트웨어 보안 서밋(White House Software Security Summit)’을 주최해 오픈소스 커뮤니티와 주요 소프트웨어 개발...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/code-thumb-0117.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[러시아, “레빌은 더 이상 존재하지 않는다”고 자신 있게 발표 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104149&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104149&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
@@ -386,12 +394,11 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/revil-thumb-0117.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[오픈소스 소프트웨어 보호하기 위해 백악관과 주요 IT 기업들 만나 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104151&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104151&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Tue, 18 Jan 2022 09:17:29 GMT</pubDate>
-            <content:encoded><![CDATA[미국 정부가 ‘백악관 소프트웨어 보안 서밋(White House Software Security Summit)’을 주최해 오픈소스 커뮤니티와 주요 소프트웨어 개발...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/code-thumb-0117.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[DHL, 4사분기에 마이크로소프트를 넘어선 인기 구가해 (보안뉴스 ─ SECURITY)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104181&amp;page=1&amp;mkind=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104181&amp;page=1&amp;mkind=1&amp;kind=1</guid>
+            <pubDate>Tue, 18 Jan 2022 12:27:23 GMT</pubDate>
+            <content:encoded><![CDATA[2021년 4사분기 동안 피싱 공격에 가장 많이 활용된 브랜드는 DHL인 것으로 분석됐다. 한 동안 1위 자리를 내놓지 않았던 MS가 2위로 뒤쳐졌고, 구글은 4위로 밀려났다. 사실 연말은 블랙프라이데이 등과 같은 쇼핑 시즌이 시작되는 때라 배송에 대한 요구가 엄청나고...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[액셀리온, 재작년 데이터 침해 사고 합의로 810만 달러 지출 예정 (보안뉴스 ─ SECURITY)]]></title>
@@ -504,13 +511,6 @@
             <guid>https://www.boannews.com/media/view.asp?idx=104143&amp;page=1&amp;mkind=1&amp;kind=3</guid>
             <pubDate>Mon, 17 Jan 2022 03:19:04 GMT</pubDate>
             <content:encoded><![CDATA[액스게이트(대표 주갑수)가 이와이엘과 ‘양자난수 보안/인증 기술을 접목한 방화벽인증 시스템 및 VPN 공동 개발’을 MOU를 체결했다고 밝혔다. 1월 10일 서울 삼성동 액스게이트 본사에서 열린 업무협약식에는 주갑수 대표와 이와이엘 정부석 대표 외 양사 주요 관계자들이...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[너무나 위협적인 해킹 ‘공급망 공격’, 2022년에도 가장 두려운 이름 (보안뉴스 ─ SECURITY)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104140&amp;page=1&amp;mkind=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104140&amp;page=1&amp;mkind=1&amp;kind=1</guid>
-            <pubDate>Mon, 17 Jan 2022 03:19:04 GMT</pubDate>
-            <content:encoded><![CDATA[IT 환경과 인프라가 점점 복잡하게 얽히고, 각 요소들이 서로에 대한 의존도가 높아질수록 공급망 공격의 효율은 더 높아질 것이고 방어는 더 힘든 일이 될 것으로 전망된다. 따라서 공급망 공격은 한 동안 꾸준한 연구 대상이자 공격 전략으로 남아 있을 것으로 예상된다. 지...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[중기부, 로봇 도입으로 제조경쟁력 높일 참여 기업 모집 (보안뉴스 ─ IT)]]></title>
@@ -1887,6 +1887,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2021/12/20443052_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[북한에서 배웠나...정치적 목적과 금전적 목적 모두 이루려는 어스루스카 (보안뉴스 ─ 국제)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104186&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104186&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
+            <pubDate>Tue, 18 Jan 2022 12:28:29 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/view.asp?idx=104186&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
+					
+					<img src="/media/upFiles2/2022/01/luc-thumb-0118.jpg" alt="" class="news_img" height="70">
+					
+					<span class="news_txt">북한에서 배웠나...정치적 목적과 금전적 목적 모두 이루려는 어스루스카</span>
+					</a><br>
+					<a href="/media/view.asp?idx=104186&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">어스루스카(Earth Lusca)라는 공격 단체가 전 세계 여러 나라의 조직들을 대상으로 광범위한 규모의 에스피오나지 캠페인을 벌이고 있는 것이 드러났다. 정보를...</a> <span class="news_writer">문가용 기자 | 2022년 01월 18일 20:36</span>]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/luc-thumb-0118.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[구글 크롬, 엔드포인트의 직접 접근 제한한다 (보안뉴스 ─ 국제)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104182&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104182&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
@@ -2151,20 +2165,6 @@
 					</a><br>
 					<a href="/media/view.asp?idx=104119&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">굿로더(GootLoader)라는 멀웨어를 퍼트리는 공격자들이 최근부터 로펌과 회계 사무소에서 근무하는 자들을 노리고 공격을 시작했다. 공격자들의 표적이 좀 더 ‘...</a> <span class="news_writer">문가용 기자 | 2022년 01월 14일 12:08</span>]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/info-thumb-0114.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[구글, 미국 정부에 “오픈소스 소프트웨어 감독 철저히 해야 한다” (보안뉴스 ─ 국제)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104118&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104118&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
-            <pubDate>Fri, 14 Jan 2022 03:19:40 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/view.asp?idx=104118&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
-					
-					<img src="/media/upFiles2/2022/01/open-thumb-0114.jpg" alt="" class="news_img" height="70">
-					
-					<span class="news_txt">구글, 미국 정부에 “오픈소스 소프트웨어 감독 철저히 해야 한다”</span>
-					</a><br>
-					<a href="/media/view.asp?idx=104118&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">구글은 백악관 요원들과의 만남에서 오픈소스 생태계를 관리하기 위해 정부가 보다 능동적인 역할을 해야 한다고 촉구했다. 오픈소스 생태계를 보호하기 위해서 민과 관이...</a> <span class="news_writer">문가용 기자 | 2022년 01월 14일 12:07</span>]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/open-thumb-0114.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2022년 공공부문 정보보호 제품·서비스 구매 예산 분석 (보안뉴스 ─ 기획특집)]]></title>
