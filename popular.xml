@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Jan 2022 07:13:47 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jan 2022 08:19:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -96,6 +96,14 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/est_011301_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[사이버 모의훈련 했더니... 45개사 중 40개가 홈페이지 취약점 발견돼]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104160&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104160&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
+            <pubDate>Wed, 19 Jan 2022 00:49:04 GMT</pubDate>
+            <content:encoded><![CDATA[과학기술정보통신부는 한국인터넷진흥원(KISA)과 함께 최근 사이버침해 위기가 고조됨에 따라 민간기업 대상으로 실제 사이버 공격과 동일한 방식으로 지난 2021년 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/19919746_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[영천시 스마트도시통합센터, 24시간 영천시민 지킨다]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104131&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104131&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
@@ -104,12 +112,12 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/1-153(295).jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[사이버 모의훈련 했더니... 45개사 중 40개가 홈페이지 취약점 발견돼]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104160&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104160&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
-            <pubDate>Wed, 19 Jan 2022 00:49:04 GMT</pubDate>
-            <content:encoded><![CDATA[과학기술정보통신부는 한국인터넷진흥원(KISA)과 함께 최근 사이버침해 위기가 고조됨에 따라 민간기업 대상으로 실제 사이버 공격과 동일한 방식으로 지난 2021년 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/19919746_main.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[크롬 기반 웹 브라우저들의 반란, “웹사이트들은 허락부터 받아라”]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104187&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104187&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Wed, 19 Jan 2022 05:13:52 GMT</pubDate>
+            <content:encoded><![CDATA[구글 크롬 팀이 새로운 보안 향상 방안을 발표했다. 사설망에 연결된 엔드포인트 장비들에 공공 웹사이트가 직접 접속하는 걸 금지시킨다는 내용이다. 이로써 브라우저를...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/ok-thumb-0118.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[보안 교육, 원래 최고 임원진들부터 시작해 내려오는 게 맞다]]></title>
@@ -120,28 +128,12 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/ce-thumb-0113.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[사이버 공격자들, 이제 클라우드 서비스 사용해 멀웨어 유포한다]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104066&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104066&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Fri, 14 Jan 2022 03:18:15 GMT</pubDate>
-            <content:encoded><![CDATA[최근 조사를 통해 기업들의 멀웨어 다운로드 출처가 클라우드 애플리케이션임이 밝혀졌다. 보안 업체 넷스코프(Netskope)가 조사한 바에 따르면 2020년 1월 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/cloud-humb-0112.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[클라우드 보안 따라잡기-2] 클라우드 보안의 공유 책임 모델 이해하기]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104062&amp;page=1&amp;kind=5&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104062&amp;page=1&amp;kind=5&amp;search=title&amp;find=</guid>
             <pubDate>Mon, 17 Jan 2022 02:08:46 GMT</pubDate>
             <content:encoded><![CDATA[본지가 마련한 [클라우드 보안 따라잡기] 코너는 클라우드로의 전환이 급속도로 진행되는 상황에서 꼭 알아야 할 보안이슈를 다룬다. 이번 시간은 클라우드 보안의 본질...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/RESIZEcloud20220104.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[크롬 기반 웹 브라우저들의 반란, “웹사이트들은 허락부터 받아라”]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104187&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104187&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Wed, 19 Jan 2022 05:13:52 GMT</pubDate>
-            <content:encoded><![CDATA[구글 크롬 팀이 새로운 보안 향상 방안을 발표했다. 사설망에 연결된 엔드포인트 장비들에 공공 웹사이트가 직접 접속하는 걸 금지시킨다는 내용이다. 이로써 브라우저를...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/ok-thumb-0118.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2022년의 시작 1월 첫째주, 우리나라에 가장 많이 유포된 악성코드는?]]></title>
@@ -165,6 +157,14 @@
             <pubDate>Tue, 18 Jan 2022 05:18:10 GMT</pubDate>
             <content:encoded><![CDATA[1월 13일 발간된 ‘Weekly Security Premium Report’ 제34호에는 &lt;보안 심층 리포트&gt; 코너에서 2021년 주요 보안이슈와 사...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/20220113report-sm.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[오픈소스 소프트웨어 보호하기 위해 백악관과 주요 IT 기업들 만나]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104151&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104151&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Wed, 19 Jan 2022 08:17:39 GMT</pubDate>
+            <content:encoded><![CDATA[미국 정부가 ‘백악관 소프트웨어 보안 서밋(White House Software Security Summit)’을 주최해 오픈소스 커뮤니티와 주요 소프트웨어 개발...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/code-thumb-0117.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
