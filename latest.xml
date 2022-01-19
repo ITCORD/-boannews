@@ -4,9 +4,17 @@
         <title>보안뉴스 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Jan 2022 02:29:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jan 2022 03:16:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[성인용 게임 파일로 위장한 디도스 악성코드 주의!]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104216&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104216&amp;page=1&amp;kind=1</guid>
+            <pubDate>Wed, 19 Jan 2022 03:14:41 GMT</pubDate>
+            <content:encoded><![CDATA[특정 파일공유 사이트에 성인용 게임으로 위장한 악성 파일을 올려 디도스 공격용 악성코드를 유포하는 사례가 발견돼 사용자의 주의가 당부된다.]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/ahn_011901_main.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[전 세계 IoT 장비 1만 2,000여 대, ‘Mozi 봇넷’ 감염됐다]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104215&amp;page=1&amp;kind=2</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 18 Jan 2022 13:25:26 GMT</pubDate>
             <content:encoded><![CDATA[&lt;보안뉴스&gt;가 지난 1월 5일 첫 단독 보도한 ‘[단독] KT 고객 유심 복사로 암호화폐 탈취? 국내 첫 심스와핑 의심 피해 발생’ 기사 이후 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/sim_011801_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[크롬 기반 웹 브라우저들의 반란, “웹사이트들은 허락부터 받아라”]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104187&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104187&amp;page=1&amp;kind=1</guid>
-            <pubDate>Tue, 18 Jan 2022 13:25:26 GMT</pubDate>
-            <content:encoded><![CDATA[구글 크롬 팀이 새로운 보안 향상 방안을 발표했다. 사설망에 연결된 엔드포인트 장비들에 공공 웹사이트가 직접 접속하는 걸 금지시킨다는 내용이다. 이로써 브...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/ok-thumb-0118.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[경기도, 중대재해 예방 위해 도지사 총괄책임 전담조직 구성·매뉴얼 제작]]></title>
@@ -227,20 +227,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/RESIZE2Khomecam20220118.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[크롬 기반 웹 브라우저들의 반란, “웹사이트들은 허락부터 받아라”]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104187&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104187&amp;page=1&amp;kind=1</guid>
+            <pubDate>Tue, 18 Jan 2022 13:25:26 GMT</pubDate>
+            <content:encoded><![CDATA[구글 크롬 팀이 새로운 보안 향상 방안을 발표했다. 사설망에 연결된 엔드포인트 장비들에 공공 웹사이트가 직접 접속하는 걸 금지시킨다는 내용이다. 이로써 브...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/ok-thumb-0118.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[북한에서 배웠나...정치적 목적과 금전적 목적 모두 이루려는 어스루스카]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104186&amp;page=1&amp;kind=1</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104186&amp;page=1&amp;kind=1</guid>
             <pubDate>Tue, 18 Jan 2022 12:27:06 GMT</pubDate>
             <content:encoded><![CDATA[어스루스카(Earth Lusca)라는 공격 단체가 전 세계 여러 나라의 조직들을 대상으로 광범위한 규모의 에스피오나지 캠페인을 벌이고 있는 것이 드러났다....]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/luc-thumb-0118.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한국CISO협의회, 제13차 정기총회 및 신년 하례회 개최]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104185&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104185&amp;page=1&amp;kind=1</guid>
-            <pubDate>Tue, 18 Jan 2022 10:18:05 GMT</pubDate>
-            <content:encoded><![CDATA[한국CISO협의회(회장 이기주)가 제13차 정기총회 및 신년 하례회를 진행했다. 이기주 회장은 “새해를 맞아 회원 모두 건강하고 행복하시기를 바란다”면서,...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/ciso_0118_main.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-01-19T02:29:27.560Z</updated>
+    <updated>2022-01-19T03:16:53.107Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[블랙캣 랜섬웨어, 패션 거물 업체 몽클레르 정보 유출]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104213&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104213&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-01-19T03:15:02.206Z</updated>
+        <content type="html"><![CDATA[블랙캣(BlackCat) 혹은 알프파이브(AlphV)라고 불리는 랜섬웨어 공격자들이 패션 업계의 거물 업체인 몽클레르를 공격했다. 그리고 데이터를 빼돌리고 암호화시켰다. 양자 간 협상이 어떻게 흘러갔는지, 오늘 블랙캣은 몽클레르의 데이터를 공개하기에 이르렀다. 공격이 ...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[텔레그램, 도난당한 금융 정보의 활발한 거래 플랫폼]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=104212&amp;page=1&amp;mkind=1&amp;kind=1</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=104178&amp;page=1&amp;mkind=1&amp;kind=1"/>
         <updated>2022-01-18T06:17:43.020Z</updated>
         <content type="html"><![CDATA[오라클이 2022년 1월에 발표할 패치를 한창 준비 중에 있다. 이번 발표에는 500개가 넘는 취약점 픽스가 포함될 예정이라고 한다. 정확히 말하면 총 483개이며, 1월 18일(미국 시간 기준)에 발표될 것으로 보인다. 고위험군 이상으로 분석된 원격 코드 실행 취약점...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[공동주택에서 발생하는 개인정보 문제, 이렇게 해결하세요!]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104176&amp;page=1&amp;mkind=1&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104176&amp;page=1&amp;mkind=1&amp;kind=2"/>
-        <updated>2022-01-18T06:17:43.028Z</updated>
-        <content type="html"><![CDATA[개인정보보호위원회(위원장 윤종인, 이하 ‘개인정보위’) 소속 ‘개인정보 법령해석 지원센터’는 공동주택의 개인정보 관련 갈등을 예방하기 위해 ‘공동주택 개인정보보호 상담사례집’을 발간했다.]]></content>
     </entry>
 </feed>

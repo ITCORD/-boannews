@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Jan 2022 02:29:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jan 2022 03:16:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[성인용 게임 파일로 위장한 디도스 악성코드 주의! (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104216&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104216&amp;page=1&amp;kind=1</guid>
+            <pubDate>Wed, 19 Jan 2022 03:14:41 GMT</pubDate>
+            <content:encoded><![CDATA[특정 파일공유 사이트에 성인용 게임으로 위장한 악성 파일을 올려 디도스 공격용 악성코드를 유포하는 사례가 발견돼 사용자의 주의가 당부된다.]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/ahn_011901_main.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[전 세계 IoT 장비 1만 2,000여 대, ‘Mozi 봇넷’ 감염됐다 (보안뉴스 ─ 전체기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104215&amp;page=1&amp;kind=2</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 18 Jan 2022 13:25:26 GMT</pubDate>
             <content:encoded><![CDATA[&lt;보안뉴스&gt;가 지난 1월 5일 첫 단독 보도한 ‘[단독] KT 고객 유심 복사로 암호화폐 탈취? 국내 첫 심스와핑 의심 피해 발생’ 기사 이후 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/sim_011801_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[크롬 기반 웹 브라우저들의 반란, “웹사이트들은 허락부터 받아라” (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104187&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104187&amp;page=1&amp;kind=1</guid>
-            <pubDate>Tue, 18 Jan 2022 13:25:26 GMT</pubDate>
-            <content:encoded><![CDATA[구글 크롬 팀이 새로운 보안 향상 방안을 발표했다. 사설망에 연결된 엔드포인트 장비들에 공공 웹사이트가 직접 접속하는 걸 금지시킨다는 내용이다. 이로써 브...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/ok-thumb-0118.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[경기도, 중대재해 예방 위해 도지사 총괄책임 전담조직 구성·매뉴얼 제작 (보안뉴스 ─ 전체기사)]]></title>
@@ -227,20 +227,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/RESIZE2Khomecam20220118.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[크롬 기반 웹 브라우저들의 반란, “웹사이트들은 허락부터 받아라” (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104187&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104187&amp;page=1&amp;kind=1</guid>
+            <pubDate>Tue, 18 Jan 2022 13:25:26 GMT</pubDate>
+            <content:encoded><![CDATA[구글 크롬 팀이 새로운 보안 향상 방안을 발표했다. 사설망에 연결된 엔드포인트 장비들에 공공 웹사이트가 직접 접속하는 걸 금지시킨다는 내용이다. 이로써 브...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/ok-thumb-0118.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[북한에서 배웠나...정치적 목적과 금전적 목적 모두 이루려는 어스루스카 (보안뉴스 ─ 전체기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104186&amp;page=1&amp;kind=1</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104186&amp;page=1&amp;kind=1</guid>
             <pubDate>Tue, 18 Jan 2022 12:27:06 GMT</pubDate>
             <content:encoded><![CDATA[어스루스카(Earth Lusca)라는 공격 단체가 전 세계 여러 나라의 조직들을 대상으로 광범위한 규모의 에스피오나지 캠페인을 벌이고 있는 것이 드러났다....]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/luc-thumb-0118.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한국CISO협의회, 제13차 정기총회 및 신년 하례회 개최 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104185&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104185&amp;page=1&amp;kind=1</guid>
-            <pubDate>Tue, 18 Jan 2022 10:18:05 GMT</pubDate>
-            <content:encoded><![CDATA[한국CISO협의회(회장 이기주)가 제13차 정기총회 및 신년 하례회를 진행했다. 이기주 회장은 “새해를 맞아 회원 모두 건강하고 행복하시기를 바란다”면서,...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/ciso_0118_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[단독] 국내 심스와핑 의심 피해자 또 나와... KT 사용자 2천여만원 피해 입어 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
@@ -402,6 +402,13 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/code-thumb-0117.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[블랙캣 랜섬웨어, 패션 거물 업체 몽클레르 정보 유출 (보안뉴스 ─ SECURITY)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104213&amp;page=1&amp;mkind=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104213&amp;page=1&amp;mkind=1&amp;kind=1</guid>
+            <pubDate>Wed, 19 Jan 2022 03:15:02 GMT</pubDate>
+            <content:encoded><![CDATA[블랙캣(BlackCat) 혹은 알프파이브(AlphV)라고 불리는 랜섬웨어 공격자들이 패션 업계의 거물 업체인 몽클레르를 공격했다. 그리고 데이터를 빼돌리고 암호화시켰다. 양자 간 협상이 어떻게 흘러갔는지, 오늘 블랙캣은 몽클레르의 데이터를 공개하기에 이르렀다. 공격이 ...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[텔레그램, 도난당한 금융 정보의 활발한 거래 플랫폼 (보안뉴스 ─ SECURITY)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104212&amp;page=1&amp;mkind=1&amp;kind=1</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104212&amp;page=1&amp;mkind=1&amp;kind=1</guid>
@@ -512,13 +519,6 @@
             <guid>https://www.boannews.com/media/view.asp?idx=104178&amp;page=1&amp;mkind=1&amp;kind=1</guid>
             <pubDate>Tue, 18 Jan 2022 06:17:43 GMT</pubDate>
             <content:encoded><![CDATA[오라클이 2022년 1월에 발표할 패치를 한창 준비 중에 있다. 이번 발표에는 500개가 넘는 취약점 픽스가 포함될 예정이라고 한다. 정확히 말하면 총 483개이며, 1월 18일(미국 시간 기준)에 발표될 것으로 보인다. 고위험군 이상으로 분석된 원격 코드 실행 취약점...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[공동주택에서 발생하는 개인정보 문제, 이렇게 해결하세요! (보안뉴스 ─ SECURITY)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104176&amp;page=1&amp;mkind=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104176&amp;page=1&amp;mkind=1&amp;kind=2</guid>
-            <pubDate>Tue, 18 Jan 2022 06:17:43 GMT</pubDate>
-            <content:encoded><![CDATA[개인정보보호위원회(위원장 윤종인, 이하 ‘개인정보위’) 소속 ‘개인정보 법령해석 지원센터’는 공동주택의 개인정보 관련 갈등을 예방하기 위해 ‘공동주택 개인정보보호 상담사례집’을 발간했다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[중기부와 함께 스마트공장을 지원할 기업을 찾습니다 (보안뉴스 ─ IT)]]></title>
@@ -773,6 +773,20 @@
             <pubDate>Wed, 19 Jan 2022 00:49:36 GMT</pubDate>
             <content:encoded><![CDATA[SK쉴더스(대표 박진효)는 ADT캡스 대전지사의 심기훈 출동대원이 다수의 전과와 성범죄 및 절도, 사기 혐의로 수배중인 지명수배범을 격투 끝에 검거한 공로...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/RESIZESKSHIELD20220119.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[성인용 게임 파일로 위장한 디도스 악성코드 주의! (보안뉴스 ─ 취약점 경고 및 버그리포트)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104216&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104216&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=</guid>
+            <pubDate>Wed, 19 Jan 2022 03:15:40 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/view.asp?idx=104216&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=">
+					
+					<img src="/media/upFiles2/2022/01/ahn_011901_main.jpg" alt="" class="news_img" height="70">
+					
+					<span class="news_txt">성인용 게임 파일로 위장한 디도스 악성코드 주의!</span>
+					</a><br>
+					<a href="/media/view.asp?idx=104216&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=">특정 파일공유 사이트에 성인용 게임으로 위장한 악성 파일을 올려 디도스 공격용 악성코드를 유포하는 사례가 발견돼 사용자의 주의가 당부된다.</a> <span class="news_writer">원병철 기자 | 2022년 01월 19일 11:39</span>]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/ahn_011901_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[전 세계 IoT 장비 1만 2,000여 대, ‘Mozi 봇넷’ 감염됐다 (보안뉴스 ─ 취약점 경고 및 버그리포트)]]></title>
@@ -1039,20 +1053,6 @@
 					</a><br>
 					<a href="/media/view.asp?idx=103973&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=">최근 카카오 계정 이용자 보호 상태로 변경됐다는 내용으로 피싱 메일이 유포돼 카카오 이용자들의 각별한 주의가 요구된다. 보안업체 이스트시큐리티 시큐리티대응센터(E...</a> <span class="news_writer">권준  기자 | 2022년 01월 07일 13:43</span>]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/20220107kakao-S.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[17개 유명 기업의 고객 110만 명의 계정, 도난당해 (보안뉴스 ─ 취약점 경고 및 버그리포트)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=103939&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=103939&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=</guid>
-            <pubDate>Wed, 12 Jan 2022 20:15:57 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/view.asp?idx=103939&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=">
-					
-					<img src="/media/upFiles2/2022/01/cred-thumb-0106.jpg" alt="" class="news_img" height="70">
-					
-					<span class="news_txt">17개 유명 기업의 고객 110만 명의 계정, 도난당해</span>
-					</a><br>
-					<a href="/media/view.asp?idx=103939&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=">대규모 크리덴셜 스터핑 공격 캠페인이 적발됐다. 공격자들이 유명한 회사 17개의 로그인 시스템에 각종 크리덴셜을 빠르게 대입한 것이다. 이들은 110만 계정에 접...</a> <span class="news_writer">문가용 기자 | 2022년 01월 06일 12:39</span>]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/cred-thumb-0106.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[최정식 발행인 칼럼] <시큐리티월드> 통권 300호를 맞아 드리는 감사의 말씀 (보안뉴스 ─ 오피니언)]]></title>
