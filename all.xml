@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Jan 2022 06:19:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jan 2022 07:13:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -86,6 +86,14 @@
             <pubDate>Tue, 18 Jan 2022 13:25:26 GMT</pubDate>
             <content:encoded><![CDATA[&lt;보안뉴스&gt;가 지난 1월 5일 첫 단독 보도한 ‘[단독] KT 고객 유심 복사로 암호화폐 탈취? 국내 첫 심스와핑 의심 피해 발생’ 기사 이후 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/sim_011801_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[유니온커뮤니티, 중동 최대 보안 전시회 ‘인터섹(Intersec) 2022’ 성황리 참가 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104218&amp;page=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104218&amp;page=1&amp;kind=3</guid>
+            <pubDate>Wed, 19 Jan 2022 07:11:35 GMT</pubDate>
+            <content:encoded><![CDATA[멀티모달 생체인식 보안 솔루션기업 유니온커뮤니티(대표 신요식)가 지난 1월 16일부터 18일까지 두바이에서 열린 중동 국제 보안 전시회 두바이 ‘인터섹 2...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/22011901ss.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[개인정보위, ‘개인정보 보호 강화기술 연구개발’ 설명회 개최 (보안뉴스 ─ 전체기사)]]></title>
@@ -235,14 +243,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/RESIZE2Khomecam20220118.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[크롬 기반 웹 브라우저들의 반란, “웹사이트들은 허락부터 받아라” (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104187&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104187&amp;page=1&amp;kind=1</guid>
-            <pubDate>Tue, 18 Jan 2022 13:25:26 GMT</pubDate>
-            <content:encoded><![CDATA[구글 크롬 팀이 새로운 보안 향상 방안을 발표했다. 사설망에 연결된 엔드포인트 장비들에 공공 웹사이트가 직접 접속하는 걸 금지시킨다는 내용이다. 이로써 브...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/ok-thumb-0118.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[단독] 국내 심스와핑 의심 피해자 또 나와... KT 사용자 2천여만원 피해 입어 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104097&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104097&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
@@ -371,6 +371,14 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/RESIZEcloud20220104.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[크롬 기반 웹 브라우저들의 반란, “웹사이트들은 허락부터 받아라” (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104187&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104187&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Wed, 19 Jan 2022 05:13:52 GMT</pubDate>
+            <content:encoded><![CDATA[구글 크롬 팀이 새로운 보안 향상 방안을 발표했다. 사설망에 연결된 엔드포인트 장비들에 공공 웹사이트가 직접 접속하는 걸 금지시킨다는 내용이다. 이로써 브라우저를...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/ok-thumb-0118.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[2022년의 시작 1월 첫째주, 우리나라에 가장 많이 유포된 악성코드는? (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104139&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104139&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
@@ -384,14 +392,6 @@
             <guid>https://www.boannews.com/media/view.asp?idx=104129&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
             <pubDate>Mon, 17 Jan 2022 07:16:21 GMT</pubDate>
             <content:encoded><![CDATA[안산시는 개별공시지가 토지특성조사의 정확성과 효율성을 높이기 위해 드론(무인비행장치)을 활용한다고 밝혔다. 대상은 대부도 내 건축 및 개발행위·인허가사업 밀집지역...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[크롬 기반 웹 브라우저들의 반란, “웹사이트들은 허락부터 받아라” (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104187&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104187&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Wed, 19 Jan 2022 05:13:52 GMT</pubDate>
-            <content:encoded><![CDATA[구글 크롬 팀이 새로운 보안 향상 방안을 발표했다. 사설망에 연결된 엔드포인트 장비들에 공공 웹사이트가 직접 접속하는 걸 금지시킨다는 내용이다. 이로써 브라우저를...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/ok-thumb-0118.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘Weekly Security Premium Report’ 제34호 발간! 한 호흡으로 읽는 2022년 보안 전망 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
@@ -759,20 +759,20 @@
             <content:encoded><![CDATA[어린이집 영유아 건강 관리도 이제는 스마트하게 한다. 서울 강서구는 어린이집 163개소에 실시간 건강 관리 모니터링 기기 312대를 지원했다고 밝혔다.]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[유니온커뮤니티, 중동 최대 보안 전시회 ‘인터섹(I... (보안뉴스 ─ Security World)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104218&amp;mkind=5</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104218&amp;mkind=5</guid>
+            <pubDate>Wed, 19 Jan 2022 07:12:23 GMT</pubDate>
+            <content:encoded><![CDATA[멀티모달 생체인식 보안 솔루션기업 유니온커뮤니티(대표 신요식)가 지난 1월 16일부터 18일까지 두바이에서 열린 중동 국제 보안 전시회 두바이 ‘인터섹 2...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/22011901ss.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[아산시, 우범지역 CCTV 확대 설치로 안전사각지대... (보안뉴스 ─ Security World)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104194&amp;mkind=5</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104194&amp;mkind=5</guid>
             <pubDate>Wed, 19 Jan 2022 01:56:30 GMT</pubDate>
             <content:encoded><![CDATA[아산시가 지역사회 안전망 보완을 위해 2022년 상반기 내에 관내 우범지역 123개소에 신규 설치 145대, 성능 개선(교체) 60대 총 205대의 CCT...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/1-182(295).jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SK쉴더스 출동대원, 지명수배범 검거 공로... 대... (보안뉴스 ─ Security World)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104207&amp;mkind=5</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104207&amp;mkind=5</guid>
-            <pubDate>Wed, 19 Jan 2022 00:49:36 GMT</pubDate>
-            <content:encoded><![CDATA[SK쉴더스(대표 박진효)는 ADT캡스 대전지사의 심기훈 출동대원이 다수의 전과와 성범죄 및 절도, 사기 혐의로 수배중인 지명수배범을 격투 끝에 검거한 공로...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/RESIZESKSHIELD20220119.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[성인용 게임 파일로 위장한 디도스 악성코드 주의! (보안뉴스 ─ 취약점 경고 및 버그리포트)]]></title>

@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Jan 2022 06:19:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jan 2022 07:13:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -86,6 +86,14 @@
             <pubDate>Tue, 18 Jan 2022 13:25:26 GMT</pubDate>
             <content:encoded><![CDATA[&lt;보안뉴스&gt;가 지난 1월 5일 첫 단독 보도한 ‘[단독] KT 고객 유심 복사로 암호화폐 탈취? 국내 첫 심스와핑 의심 피해 발생’ 기사 이후 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/sim_011801_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[유니온커뮤니티, 중동 최대 보안 전시회 ‘인터섹(Intersec) 2022’ 성황리 참가]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104218&amp;page=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104218&amp;page=1&amp;kind=3</guid>
+            <pubDate>Wed, 19 Jan 2022 07:11:35 GMT</pubDate>
+            <content:encoded><![CDATA[멀티모달 생체인식 보안 솔루션기업 유니온커뮤니티(대표 신요식)가 지난 1월 16일부터 18일까지 두바이에서 열린 중동 국제 보안 전시회 두바이 ‘인터섹 2...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/22011901ss.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[개인정보위, ‘개인정보 보호 강화기술 연구개발’ 설명회 개최]]></title>
@@ -233,14 +241,6 @@
             <pubDate>Tue, 18 Jan 2022 13:25:26 GMT</pubDate>
             <content:encoded><![CDATA[사물인터넷(IoT) 플랫폼으로 연결된 스마트폰과 스마트 하드웨어를 공급하는 글로벌 인터넷 선두 기업 샤오미(小米)가 ‘샤오미 공기청정기 4 시리즈’와 함께...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/RESIZE2Khomecam20220118.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[크롬 기반 웹 브라우저들의 반란, “웹사이트들은 허락부터 받아라”]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104187&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104187&amp;page=1&amp;kind=1</guid>
-            <pubDate>Tue, 18 Jan 2022 13:25:26 GMT</pubDate>
-            <content:encoded><![CDATA[구글 크롬 팀이 새로운 보안 향상 방안을 발표했다. 사설망에 연결된 엔드포인트 장비들에 공공 웹사이트가 직접 접속하는 걸 금지시킨다는 내용이다. 이로써 브...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/ok-thumb-0118.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
