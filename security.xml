@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-01-19T14:15:59.847Z</updated>
+    <updated>2022-01-19T15:17:21.784Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[개인정보위, ‘개인정보 보호 강화기술 연구개발’ 설명회 개최]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104217&amp;page=1&amp;mkind=1&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104217&amp;page=1&amp;mkind=1&amp;kind=2"/>
+        <updated>2022-01-19T15:15:39.556Z</updated>
+        <content type="html"><![CDATA[개인정보보호위원회(위원장 윤종인, 이하 ‘개인정보위’)와 한국인터넷진흥원(원장 이원태, 이하 ‘KISA’)은 1월 24일(월) 16시에 ‘2022년도 개인정보 보호 강화기술 연구개발(R&amp;D)’ 사업설명회를 개최한다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[성인용 게임 파일로 위장한 디도스 악성코드 주의!]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=104216&amp;page=1&amp;mkind=1&amp;kind=1</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=104182&amp;page=1&amp;mkind=1&amp;kind=1"/>
         <updated>2022-01-18T13:25:46.998Z</updated>
         <content type="html"><![CDATA[구글 크롬 팀은 공공 웹사이트들이 사설 망에 접속한 사용자들의 엔드포인트를 직접 접근하지 못하도록 한다는 방침을 적용할 것이라고 발표했다. 이러한 규정은 크롬 98부터 크롬 101버전에까지 단계적으로 도입될 전망이다. 즉 101버전부터는 인터넷을 통해 아무나 접속할 수...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DHL, 4사분기에 마이크로소프트를 넘어선 인기 구가해]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104181&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104181&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-01-18T12:27:23.159Z</updated>
-        <content type="html"><![CDATA[2021년 4사분기 동안 피싱 공격에 가장 많이 활용된 브랜드는 DHL인 것으로 분석됐다. 한 동안 1위 자리를 내놓지 않았던 MS가 2위로 뒤쳐졌고, 구글은 4위로 밀려났다. 사실 연말은 블랙프라이데이 등과 같은 쇼핑 시즌이 시작되는 때라 배송에 대한 요구가 엄청나고...]]></content>
     </entry>
 </feed>

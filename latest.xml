@@ -4,9 +4,17 @@
         <title>보안뉴스 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Jan 2022 14:15:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jan 2022 15:17:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우크라이나 정부 기관 겨냥한 ‘파괴형 멀웨어’, 혹시 러시아?]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104223&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104223&amp;page=1&amp;kind=1</guid>
+            <pubDate>Wed, 19 Jan 2022 15:15:21 GMT</pubDate>
+            <content:encoded><![CDATA[지난 주 우크라이나의 정부 기관 다수가 멀웨어 공격에 당했다. 표적이 된 시스템을 운영 불가능하게 만드는 것이 목적인 것으로 보이며, 배후에 정부 지원을 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/rus-thumb-0120.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[CES 2022를 통해 본 핀테크의 미래]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104222&amp;page=1&amp;kind=1</link>
@@ -80,14 +88,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/box-thumb-0119.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[위험한 매니지엔진 데스크톱 서버 오류, 멀웨어 공격으로 이어져]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104210&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104210&amp;page=1&amp;kind=1</guid>
-            <pubDate>Wed, 19 Jan 2022 01:55:47 GMT</pubDate>
-            <content:encoded><![CDATA[조호(Zoho)의 엔드포인트 관리 플랫폼인 매니지엔진 데스크톱 센트럴(ManageEngine Desktop Central)과 데스크톱 센트럴 MSP(Des...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/manage-thumb-0119.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[유니온커뮤니티, 중동 최대 보안 전시회 ‘인터섹(Intersec) 2022’ 성황리 참가]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104218&amp;page=1&amp;kind=3</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104218&amp;page=1&amp;kind=3</guid>
@@ -102,6 +102,14 @@
             <pubDate>Wed, 19 Jan 2022 04:18:53 GMT</pubDate>
             <content:encoded><![CDATA[개인정보보호위원회(위원장 윤종인, 이하 ‘개인정보위’)와 한국인터넷진흥원(원장 이원태, 이하 ‘KISA’)은 1월 24일(월) 16시에 ‘2022년도 개인...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/free_011901_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[위험한 매니지엔진 데스크톱 서버 오류, 멀웨어 공격으로 이어져]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104210&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104210&amp;page=1&amp;kind=1</guid>
+            <pubDate>Wed, 19 Jan 2022 01:55:47 GMT</pubDate>
+            <content:encoded><![CDATA[조호(Zoho)의 엔드포인트 관리 플랫폼인 매니지엔진 데스크톱 센트럴(ManageEngine Desktop Central)과 데스크톱 센트럴 MSP(Des...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/manage-thumb-0119.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[중국의 동계 올림픽 앱에서 치명적 결함 발견돼]]></title>
@@ -233,14 +241,6 @@
             <pubDate>Wed, 19 Jan 2022 00:48:54 GMT</pubDate>
             <content:encoded><![CDATA[산림청은 최근 기후변화로 겨울철 건조한 날씨가 지속되고 산불이 예년 수준을 넘어 발생하는 등 산불재난 위기감이 높아지고 있어, 지난 18일 국가위기관리센터...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/1-194(295).jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전남도, 광양·고흥에 어린이 스마트 교통안전 안내판 설치]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104188&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104188&amp;page=1&amp;kind=2</guid>
-            <pubDate>Wed, 19 Jan 2022 00:48:54 GMT</pubDate>
-            <content:encoded><![CDATA[전남도는 스마트 교통안전 솔루션 기업 ‘한테크’로부터 초록우산어린이재단을 통해 기부받은 교통안전 안내판 ‘스마트 아이(Smart Eye)’를 광양 중마초등...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/1-176(295)(0).jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
