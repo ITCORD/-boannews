@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Jan 2022 03:16:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jan 2022 04:20:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,20 +24,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/19695308_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[윈도 원격 접근 및 제어 서비스인 RDS에서 새 취약점 발견돼]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104127&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104127&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Sat, 15 Jan 2022 06:19:37 GMT</pubDate>
-            <content:encoded><![CDATA[마이크로소프트 윈도 시스템들 중 최소 윈도 서버 2012 R2 이후에 나온 것들의 원격 데스크톱 서비스(RDS) 서비스에서 취약점이 발견됐다. 이 취약점을 익스플...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/rem-thumb-0114.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[단독] 국내 심스와핑 3번째 피해자 발생... KT 사용자 또 ‘스마트폰 먹통’]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104183&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104183&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Tue, 18 Jan 2022 23:13:16 GMT</pubDate>
             <content:encoded><![CDATA[&lt;보안뉴스&gt;가 지난 1월 5일 첫 단독 보도한 ‘[단독] KT 고객 유심 복사로 암호화폐 탈취? 국내 첫 심스와핑 의심 피해 발생’ 기사 이후 불과 1...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/sim_011801_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[윈도 원격 접근 및 제어 서비스인 RDS에서 새 취약점 발견돼]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104127&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104127&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Sat, 15 Jan 2022 06:19:37 GMT</pubDate>
+            <content:encoded><![CDATA[마이크로소프트 윈도 시스템들 중 최소 윈도 서버 2012 R2 이후에 나온 것들의 원격 데스크톱 서비스(RDS) 서비스에서 취약점이 발견됐다. 이 취약점을 익스플...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/rem-thumb-0114.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[자동차 열관리 시스템 기업 한온시스템, 랜섬웨어 ‘SNACH’에 당했나]]></title>

@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Jan 2022 03:16:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jan 2022 04:20:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -86,6 +86,14 @@
             <pubDate>Tue, 18 Jan 2022 13:25:26 GMT</pubDate>
             <content:encoded><![CDATA[&lt;보안뉴스&gt;가 지난 1월 5일 첫 단독 보도한 ‘[단독] KT 고객 유심 복사로 암호화폐 탈취? 국내 첫 심스와핑 의심 피해 발생’ 기사 이후 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/sim_011801_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[개인정보위, ‘개인정보 보호 강화기술 연구개발’ 설명회 개최 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104217&amp;page=1&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104217&amp;page=1&amp;kind=2</guid>
+            <pubDate>Wed, 19 Jan 2022 04:18:53 GMT</pubDate>
+            <content:encoded><![CDATA[개인정보보호위원회(위원장 윤종인, 이하 ‘개인정보위’)와 한국인터넷진흥원(원장 이원태, 이하 ‘KISA’)은 1월 24일(월) 16시에 ‘2022년도 개인...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/free_011901_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[경기도, 중대재해 예방 위해 도지사 총괄책임 전담조직 구성·매뉴얼 제작 (보안뉴스 ─ 전체기사)]]></title>
@@ -235,14 +243,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/ok-thumb-0118.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[북한에서 배웠나...정치적 목적과 금전적 목적 모두 이루려는 어스루스카 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104186&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104186&amp;page=1&amp;kind=1</guid>
-            <pubDate>Tue, 18 Jan 2022 12:27:06 GMT</pubDate>
-            <content:encoded><![CDATA[어스루스카(Earth Lusca)라는 공격 단체가 전 세계 여러 나라의 조직들을 대상으로 광범위한 규모의 에스피오나지 캠페인을 벌이고 있는 것이 드러났다....]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/luc-thumb-0118.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[단독] 국내 심스와핑 의심 피해자 또 나와... KT 사용자 2천여만원 피해 입어 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104097&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104097&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
@@ -259,20 +259,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/19695308_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[윈도 원격 접근 및 제어 서비스인 RDS에서 새 취약점 발견돼 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104127&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104127&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Sat, 15 Jan 2022 06:19:37 GMT</pubDate>
-            <content:encoded><![CDATA[마이크로소프트 윈도 시스템들 중 최소 윈도 서버 2012 R2 이후에 나온 것들의 원격 데스크톱 서비스(RDS) 서비스에서 취약점이 발견됐다. 이 취약점을 익스플...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/rem-thumb-0114.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[단독] 국내 심스와핑 3번째 피해자 발생... KT 사용자 또 ‘스마트폰 먹통’ (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104183&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104183&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Tue, 18 Jan 2022 23:13:16 GMT</pubDate>
             <content:encoded><![CDATA[&lt;보안뉴스&gt;가 지난 1월 5일 첫 단독 보도한 ‘[단독] KT 고객 유심 복사로 암호화폐 탈취? 국내 첫 심스와핑 의심 피해 발생’ 기사 이후 불과 1...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/sim_011801_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[윈도 원격 접근 및 제어 서비스인 RDS에서 새 취약점 발견돼 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104127&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104127&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Sat, 15 Jan 2022 06:19:37 GMT</pubDate>
+            <content:encoded><![CDATA[마이크로소프트 윈도 시스템들 중 최소 윈도 서버 2012 R2 이후에 나온 것들의 원격 데스크톱 서비스(RDS) 서비스에서 취약점이 발견됐다. 이 취약점을 익스플...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/rem-thumb-0114.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[자동차 열관리 시스템 기업 한온시스템, 랜섬웨어 ‘SNACH’에 당했나 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
@@ -402,6 +402,13 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/code-thumb-0117.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[유로폴, 범죄자들의 최고 VPN 서비스 폐쇄시켜 (보안뉴스 ─ SECURITY)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104214&amp;page=1&amp;mkind=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104214&amp;page=1&amp;mkind=1&amp;kind=1</guid>
+            <pubDate>Wed, 19 Jan 2022 04:19:09 GMT</pubDate>
+            <content:encoded><![CDATA[유로폴이 사이버 범죄자들이 가장 좋아하는 VPN 서비스인 VPN랩(VPNLab)을 폐쇄시켰다. 사이버 공격자들은 멀웨어를 퍼트릴 때 VPN랩을 주로 사용해 왔다. 그렇게 함으로써 추적을 쉽지 않게 한 것이다. 유로폴은 1월 17일부로 VPN랩의 서버 15개를 압수해 무...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[블랙캣 랜섬웨어, 패션 거물 업체 몽클레르 정보 유출 (보안뉴스 ─ SECURITY)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104213&amp;page=1&amp;mkind=1&amp;kind=1</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104213&amp;page=1&amp;mkind=1&amp;kind=1</guid>
@@ -512,13 +519,6 @@
             <guid>https://www.boannews.com/media/view.asp?idx=104179&amp;page=1&amp;mkind=1&amp;kind=1</guid>
             <pubDate>Tue, 18 Jan 2022 06:17:43 GMT</pubDate>
             <content:encoded><![CDATA[에스파일(SFile) 혹은 에스칼(Escal)이라고 불리는 랜섬웨어 운영자들이, 자신들의 랜섬웨어의 리눅스 버전을 개발해 사용하기 시작했다. 에스칼은 2020년부터 활동을 시작했던 랜섬웨어 단체로, RSA와 AES를 결합한 암호화 알고리즘을 사용해 피해자의 파일을 암호...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[오라클, 500개가 넘는 보안 패치 발표해 (보안뉴스 ─ SECURITY)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104178&amp;page=1&amp;mkind=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104178&amp;page=1&amp;mkind=1&amp;kind=1</guid>
-            <pubDate>Tue, 18 Jan 2022 06:17:43 GMT</pubDate>
-            <content:encoded><![CDATA[오라클이 2022년 1월에 발표할 패치를 한창 준비 중에 있다. 이번 발표에는 500개가 넘는 취약점 픽스가 포함될 예정이라고 한다. 정확히 말하면 총 483개이며, 1월 18일(미국 시간 기준)에 발표될 것으로 보인다. 고위험군 이상으로 분석된 원격 코드 실행 취약점...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[중기부와 함께 스마트공장을 지원할 기업을 찾습니다 (보안뉴스 ─ IT)]]></title>
