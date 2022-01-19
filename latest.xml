@@ -4,9 +4,25 @@
         <title>보안뉴스 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Jan 2022 01:57:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jan 2022 02:29:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[전 세계 IoT 장비 1만 2,000여 대, ‘Mozi 봇넷’ 감염됐다]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104215&amp;page=1&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104215&amp;page=1&amp;kind=2</guid>
+            <pubDate>Wed, 19 Jan 2022 02:27:13 GMT</pubDate>
+            <content:encoded><![CDATA[국가정보원은 최근 러시아와 정보 공유를 통해 전 세계 72개국 사물인터넷(IoT) 장비 1만 1,700여대가 ‘Mozi 봇넷’이라는 악성코드에 감염된 사실...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/20531043_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[유로폴, 범죄자들의 최고 VPN 서비스 폐쇄시켜]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104214&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104214&amp;page=1&amp;kind=1</guid>
+            <pubDate>Wed, 19 Jan 2022 02:27:13 GMT</pubDate>
+            <content:encoded><![CDATA[유로폴이 사이버 범죄자들이 가장 좋아하는 VPN 서비스인 VPN랩(VPNLab)을 폐쇄시켰다. 사이버 공격자들은 멀웨어를 퍼트릴 때 VPN랩을 주로 사용해...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/shut-thumb-0119.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[블랙캣 랜섬웨어, 패션 거물 업체 몽클레르 정보 유출]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104213&amp;page=1&amp;kind=1</link>
@@ -70,22 +86,6 @@
             <pubDate>Tue, 18 Jan 2022 13:25:26 GMT</pubDate>
             <content:encoded><![CDATA[구글 크롬 팀이 새로운 보안 향상 방안을 발표했다. 사설망에 연결된 엔드포인트 장비들에 공공 웹사이트가 직접 접속하는 걸 금지시킨다는 내용이다. 이로써 브...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/ok-thumb-0118.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[북한에서 배웠나...정치적 목적과 금전적 목적 모두 이루려는 어스루스카]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104186&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104186&amp;page=1&amp;kind=1</guid>
-            <pubDate>Tue, 18 Jan 2022 12:27:06 GMT</pubDate>
-            <content:encoded><![CDATA[어스루스카(Earth Lusca)라는 공격 단체가 전 세계 여러 나라의 조직들을 대상으로 광범위한 규모의 에스피오나지 캠페인을 벌이고 있는 것이 드러났다....]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/luc-thumb-0118.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한국CISO협의회, 제13차 정기총회 및 신년 하례회 개최]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104185&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104185&amp;page=1&amp;kind=1</guid>
-            <pubDate>Tue, 18 Jan 2022 10:18:05 GMT</pubDate>
-            <content:encoded><![CDATA[한국CISO협의회(회장 이기주)가 제13차 정기총회 및 신년 하례회를 진행했다. 이기주 회장은 “새해를 맞아 회원 모두 건강하고 행복하시기를 바란다”면서,...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/ciso_0118_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[경기도, 중대재해 예방 위해 도지사 총괄책임 전담조직 구성·매뉴얼 제작]]></title>
@@ -227,20 +227,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/RESIZE2Khomecam20220118.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[구글 크롬, 엔드포인트의 직접 접근 제한한다]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104182&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104182&amp;page=1&amp;kind=1</guid>
-            <pubDate>Tue, 18 Jan 2022 06:17:23 GMT</pubDate>
-            <content:encoded><![CDATA[구글 크롬 팀은 공공 웹사이트들이 사설 망에 접속한 사용자들의 엔드포인트를 직접 접근하지 못하도록 한다는 방침을 적용할 것이라고 발표했다. 이러한 규정은 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/block-thumb-0118.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[북한에서 배웠나...정치적 목적과 금전적 목적 모두 이루려는 어스루스카]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104186&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104186&amp;page=1&amp;kind=1</guid>
+            <pubDate>Tue, 18 Jan 2022 12:27:06 GMT</pubDate>
+            <content:encoded><![CDATA[어스루스카(Earth Lusca)라는 공격 단체가 전 세계 여러 나라의 조직들을 대상으로 광범위한 규모의 에스피오나지 캠페인을 벌이고 있는 것이 드러났다....]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/luc-thumb-0118.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[DHL, 4사분기에 마이크로소프트를 넘어선 인기 구가해]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104181&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104181&amp;page=1&amp;kind=1</guid>
-            <pubDate>Tue, 18 Jan 2022 06:17:23 GMT</pubDate>
-            <content:encoded><![CDATA[2021년 4사분기 동안 피싱 공격에 가장 많이 활용된 브랜드는 DHL인 것으로 분석됐다. 한 동안 1위 자리를 내놓지 않았던 MS가 2위로 뒤쳐졌고, 구...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/dhl-thumb-0118.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[한국CISO협의회, 제13차 정기총회 및 신년 하례회 개최]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104185&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104185&amp;page=1&amp;kind=1</guid>
+            <pubDate>Tue, 18 Jan 2022 10:18:05 GMT</pubDate>
+            <content:encoded><![CDATA[한국CISO협의회(회장 이기주)가 제13차 정기총회 및 신년 하례회를 진행했다. 이기주 회장은 “새해를 맞아 회원 모두 건강하고 행복하시기를 바란다”면서,...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/ciso_0118_main.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
