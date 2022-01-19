@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Jan 2022 08:19:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jan 2022 09:17:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,14 +22,6 @@
             <pubDate>Tue, 18 Jan 2022 23:13:16 GMT</pubDate>
             <content:encoded><![CDATA[&lt;보안뉴스&gt;가 지난 1월 5일 첫 단독 보도한 ‘[단독] KT 고객 유심 복사로 암호화폐 탈취? 국내 첫 심스와핑 의심 피해 발생’ 기사 이후 불과 1...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/sim_011801_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[단독 인터뷰] 한국 심스와핑 의심 피해자 “유심 복사로 가상자산 털렸다”]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104063&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104063&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Thu, 13 Jan 2022 02:10:27 GMT</pubDate>
-            <content:encoded><![CDATA[새해 첫 주, &lt;보안뉴스&gt;에 전 세계적으로도 매우 드문 유형의 가상자산(암호화폐) 탈취 사건에 대한 제보가 접수됐다. 이른바 ‘심스와핑(SIM Swap...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/19695308_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[윈도 원격 접근 및 제어 서비스인 RDS에서 새 취약점 발견돼]]></title>
@@ -88,12 +80,12 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/rat-thumb-0113.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[신용카드사와 은행, 북한 내부정보 등 위장한 北 해킹 공격 연이어 발견]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104085&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104085&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Fri, 14 Jan 2022 08:19:53 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 새해 들어 북한 배후 소행으로 분류된 사이버 위협 활동이 증가 추세에 있어 각별한 주의와 대비가 요구된다고 보안 전문 기업 이스트시큐리티(대표 정상원)...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/est_011301_main.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[크롬 기반 웹 브라우저들의 반란, “웹사이트들은 허락부터 받아라”]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104187&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104187&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Wed, 19 Jan 2022 05:13:52 GMT</pubDate>
+            <content:encoded><![CDATA[구글 크롬 팀이 새로운 보안 향상 방안을 발표했다. 사설망에 연결된 엔드포인트 장비들에 공공 웹사이트가 직접 접속하는 걸 금지시킨다는 내용이다. 이로써 브라우저를...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/ok-thumb-0118.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[사이버 모의훈련 했더니... 45개사 중 40개가 홈페이지 취약점 발견돼]]></title>
@@ -104,20 +96,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/19919746_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[신용카드사와 은행, 북한 내부정보 등 위장한 北 해킹 공격 연이어 발견]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104085&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104085&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Fri, 14 Jan 2022 08:19:53 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 새해 들어 북한 배후 소행으로 분류된 사이버 위협 활동이 증가 추세에 있어 각별한 주의와 대비가 요구된다고 보안 전문 기업 이스트시큐리티(대표 정상원)...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/est_011301_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[영천시 스마트도시통합센터, 24시간 영천시민 지킨다]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104131&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104131&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
             <pubDate>Sun, 16 Jan 2022 16:23:47 GMT</pubDate>
             <content:encoded><![CDATA[영천시는 스마트도시통합센터(구 CCTV통합관제센터) 2021년도 운영 성과를 지난 12일 보고했다. 2021년 1년 동안 스마트도시통합센터는 1,768대의 CCT...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/1-153(295).jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[크롬 기반 웹 브라우저들의 반란, “웹사이트들은 허락부터 받아라”]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104187&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104187&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Wed, 19 Jan 2022 05:13:52 GMT</pubDate>
-            <content:encoded><![CDATA[구글 크롬 팀이 새로운 보안 향상 방안을 발표했다. 사설망에 연결된 엔드포인트 장비들에 공공 웹사이트가 직접 접속하는 걸 금지시킨다는 내용이다. 이로써 브라우저를...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/ok-thumb-0118.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[보안 교육, 원래 최고 임원진들부터 시작해 내려오는 게 맞다]]></title>
@@ -165,6 +157,14 @@
             <pubDate>Wed, 19 Jan 2022 08:17:39 GMT</pubDate>
             <content:encoded><![CDATA[미국 정부가 ‘백악관 소프트웨어 보안 서밋(White House Software Security Summit)’을 주최해 오픈소스 커뮤니티와 주요 소프트웨어 개발...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/code-thumb-0117.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[러시아, “레빌은 더 이상 존재하지 않는다”고 자신 있게 발표]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104149&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104149&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Wed, 19 Jan 2022 09:15:22 GMT</pubDate>
+            <content:encoded><![CDATA[러시아의 연방안보국(FSB)이 악명 높은 랜섬웨어 공격 단체인 레빌(REvil)의 주요 멤버들을 체포하고 공격 인프라를 폐쇄시켰다. 러시아에 숨어서 활동하는 사이...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/revil-thumb-0117.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

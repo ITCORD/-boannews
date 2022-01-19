@@ -4,9 +4,17 @@
         <title>보안뉴스 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Jan 2022 08:19:56 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jan 2022 09:17:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘기술 유출 사각지대’  중소기업 보호 위한 정부 지원계획 총정리]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104172&amp;page=1&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104172&amp;page=1&amp;kind=2</guid>
+            <pubDate>Wed, 19 Jan 2022 09:15:11 GMT</pubDate>
+            <content:encoded><![CDATA[정부가 중소기업 기술보호로 상생협력의 개방형 혁신 생태계 조성에 나선다. 법·제도 보완, 분쟁해결 프로세스, 중소기업 역량강화를 통해 중소기업기술의 정당한...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/RESIZEjoong20220114.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[성인용 게임 파일로 위장한 디도스 악성코드 주의!]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104216&amp;page=1&amp;kind=1</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 19 Jan 2022 01:55:47 GMT</pubDate>
             <content:encoded><![CDATA[이스라엘의 스파이웨어 개발사인 NSO그룹(NSO Group)이 다시 한 번 여론의 도마 위에 올랐다. 이스라엘 경찰이 전 총리였던 네타냐후의 적대적인 세력...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/peg-thumb-0119.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[단독] 국내 심스와핑 3번째 피해자 발생... KT 사용자 또 ‘스마트폰 먹통’]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104183&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104183&amp;page=1&amp;kind=1</guid>
-            <pubDate>Tue, 18 Jan 2022 13:25:26 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;보안뉴스&gt;가 지난 1월 5일 첫 단독 보도한 ‘[단독] KT 고객 유심 복사로 암호화폐 탈취? 국내 첫 심스와핑 의심 피해 발생’ 기사 이후 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/sim_011801_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[유니온커뮤니티, 중동 최대 보안 전시회 ‘인터섹(Intersec) 2022’ 성황리 참가]]></title>
@@ -235,12 +235,12 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/RESIZESKSHIELD20220119.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[샤오미, 보안 기능성 CCTV 3종 국내 출시]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104184&amp;page=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104184&amp;page=1&amp;kind=3</guid>
+            <title><![CDATA[[단독] 국내 심스와핑 3번째 피해자 발생... KT 사용자 또 ‘스마트폰 먹통’]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104183&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104183&amp;page=1&amp;kind=1</guid>
             <pubDate>Tue, 18 Jan 2022 13:25:26 GMT</pubDate>
-            <content:encoded><![CDATA[사물인터넷(IoT) 플랫폼으로 연결된 스마트폰과 스마트 하드웨어를 공급하는 글로벌 인터넷 선두 기업 샤오미(小米)가 ‘샤오미 공기청정기 4 시리즈’와 함께...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/RESIZE2Khomecam20220118.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[&lt;보안뉴스&gt;가 지난 1월 5일 첫 단독 보도한 ‘[단독] KT 고객 유심 복사로 암호화폐 탈취? 국내 첫 심스와핑 의심 피해 발생’ 기사 이후 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/sim_011801_main.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
