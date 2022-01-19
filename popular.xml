@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 18 Jan 2022 23:15:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jan 2022 00:50:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,6 +38,14 @@
             <pubDate>Sat, 15 Jan 2022 02:06:19 GMT</pubDate>
             <content:encoded><![CDATA[자동차 열관리 시스템 전문기업인 한온시스템이 랜섬웨어 공격그룹 ‘스내치(SNACH)’의 공격을 받아 내부 자료가 유출된 것으로 보인다. 스내치는 다크웹에서 지난 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/snach_011401_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[단독] 국내 심스와핑 3번째 피해자 발생... KT 사용자 또 ‘스마트폰 먹통’]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104183&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104183&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Tue, 18 Jan 2022 23:13:16 GMT</pubDate>
+            <content:encoded><![CDATA[&lt;보안뉴스&gt;가 지난 1월 5일 첫 단독 보도한 ‘[단독] KT 고객 유심 복사로 암호화폐 탈취? 국내 첫 심스와핑 의심 피해 발생’ 기사 이후 불과 1...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/sim_011801_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[카카오로부터 온 ‘선물하기’ 메일? 피싱 통한 계정정보 탈취 공격]]></title>
@@ -151,20 +159,12 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/20220113report-sm.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
-            <title><![CDATA[[단독] 국내 심스와핑 3번째 피해자 발생... KT 사용자 또 ‘스마트폰 먹통’]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104183&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104183&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Tue, 18 Jan 2022 23:13:16 GMT</pubDate>
-            <content:encoded><![CDATA[&lt;보안뉴스&gt;가 지난 1월 5일 첫 단독 보도한 ‘[단독] KT 고객 유심 복사로 암호화폐 탈취? 국내 첫 심스와핑 의심 피해 발생’ 기사 이후 불과 1...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/sim_011801_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오픈소스 소프트웨어 보호하기 위해 백악관과 주요 IT 기업들 만나]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104151&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104151&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Tue, 18 Jan 2022 09:17:29 GMT</pubDate>
-            <content:encoded><![CDATA[미국 정부가 ‘백악관 소프트웨어 보안 서밋(White House Software Security Summit)’을 주최해 오픈소스 커뮤니티와 주요 소프트웨어 개발...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/code-thumb-0117.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[사이버 모의훈련 했더니... 45개사 중 40개가 홈페이지 취약점 발견돼]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104160&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104160&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
+            <pubDate>Wed, 19 Jan 2022 00:49:04 GMT</pubDate>
+            <content:encoded><![CDATA[과학기술정보통신부는 한국인터넷진흥원(KISA)과 함께 최근 사이버침해 위기가 고조됨에 따라 민간기업 대상으로 실제 사이버 공격과 동일한 방식으로 지난 2021년 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/19919746_main.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

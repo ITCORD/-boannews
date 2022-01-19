@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=4</id>
     <title>보안뉴스 ─ SAFETY</title>
-    <updated>2022-01-18T23:15:21.470Z</updated>
+    <updated>2022-01-19T00:50:47.365Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[행안부, 재난안전 연구개발 투자 1,000억원 시대를 열다]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104161&amp;page=1&amp;mkind=4&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104161&amp;page=1&amp;mkind=4&amp;kind=2"/>
+        <updated>2022-01-19T00:49:28.590Z</updated>
+        <content type="html"><![CDATA[행정안전부가 2022년에 1,034억원 규모로 재난안전 연구개발사업에 투자할 계획이라고 밝혔다. 행안부의 재난안전 연구개발사업 투자액은 최근 5년간 연평균 24%의 증가율을 보였으며, 올해 투자예산은 지난해 880억원에 비해 154억원이 증가한 1,034억원이다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[고용부, 산업 현장 안전인증제품 개발 최대 5000만원까지 지원]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104162&amp;page=1&amp;mkind=4&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104162&amp;page=1&amp;mkind=4&amp;kind=2"/>
+        <updated>2022-01-19T00:49:28.592Z</updated>
+        <content type="html"><![CDATA[안전보건공단 산업안전보건인증원은 산업 현장의 유해·위험기계 및 방호장치·보호구의 연구개발 및 시험장비 구매 자금을 지원한다. 이 제도는 우수한 안전인증제품의 개발 및 유통을 장려하기 위해 마련된 것으로, 지원 대상은 공단에 등록된 유해·위험 기계 및 방호장치·보호구 제...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[해양경찰청, 설 명절 해양안전 특별 대책 추진]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=104157&amp;page=1&amp;mkind=4&amp;kind=2</id>
@@ -109,19 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=104041&amp;page=1&amp;mkind=4&amp;kind=2"/>
         <updated>2022-01-13T00:57:36.661Z</updated>
         <content type="html"><![CDATA[서울시 소방재난본부는 경기도 평택시 물류센터 신축 공사장 화재 관련 서울시내 모든 창고시설 등에 대한 긴급 소방특별점검을 실시한다고 밝혔다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서울시, 연중 화재 가장 빈번한 달은 1월]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104040&amp;page=1&amp;mkind=4&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104040&amp;page=1&amp;mkind=4&amp;kind=2"/>
-        <updated>2022-01-12T20:15:39.814Z</updated>
-        <content type="html"><![CDATA[서울시 소방재난본부는 과거 5년(2016~2020년)간 발생한 화재, 재난 및 안전사고 분석을 바탕으로 화재 예방 및 안전수칙 준수를 당부했다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[안전한 보행을 위한 ‘보행자우선도로’ 도입한다]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104017&amp;page=1&amp;mkind=4&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104017&amp;page=1&amp;mkind=4&amp;kind=2"/>
-        <updated>2022-01-12T20:15:39.826Z</updated>
-        <content type="html"><![CDATA[행정안전부와 경찰청은 ‘보행자우선도로’를 도입하는 ‘보행안전 및 편의증진에 관한 법률(보행안전법)’과 ‘도로교통법’ 개정안이 11일 공포된다고 밝혔다.(2022.7.12. 시행)]]></content>
     </entry>
 </feed>
