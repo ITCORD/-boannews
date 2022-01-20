@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 19 Jan 2022 23:16:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jan 2022 01:01:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -32,20 +32,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/rem-thumb-0114.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[자동차 열관리 시스템 기업 한온시스템, 랜섬웨어 ‘SNACH’에 당했나]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104116&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104116&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Sat, 15 Jan 2022 02:06:19 GMT</pubDate>
-            <content:encoded><![CDATA[자동차 열관리 시스템 전문기업인 한온시스템이 랜섬웨어 공격그룹 ‘스내치(SNACH)’의 공격을 받아 내부 자료가 유출된 것으로 보인다. 스내치는 다크웹에서 지난 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/snach_011401_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[크롬 기반 웹 브라우저들의 반란, “웹사이트들은 허락부터 받아라”]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104187&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104187&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Wed, 19 Jan 2022 05:13:52 GMT</pubDate>
             <content:encoded><![CDATA[구글 크롬 팀이 새로운 보안 향상 방안을 발표했다. 사설망에 연결된 엔드포인트 장비들에 공공 웹사이트가 직접 접속하는 걸 금지시킨다는 내용이다. 이로써 브라우저를...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/ok-thumb-0118.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[자동차 열관리 시스템 기업 한온시스템, 랜섬웨어 ‘SNACH’에 당했나]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104116&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104116&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Sat, 15 Jan 2022 02:06:19 GMT</pubDate>
+            <content:encoded><![CDATA[자동차 열관리 시스템 전문기업인 한온시스템이 랜섬웨어 공격그룹 ‘스내치(SNACH)’의 공격을 받아 내부 자료가 유출된 것으로 보인다. 스내치는 다크웹에서 지난 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/snach_011401_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[주말판] 인공지능이 가야할 길, 평탄치 않다]]></title>
@@ -112,14 +112,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/1-153(295).jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[보안 교육, 원래 최고 임원진들부터 시작해 내려오는 게 맞다]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104096&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104096&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Fri, 14 Jan 2022 12:26:10 GMT</pubDate>
-            <content:encoded><![CDATA[사이버 범죄자들은 회사의 직원들만 골라서 노리지 않는다. 오히려 C레벨 임원들이라면 더 ‘땡큐’다. 데이터 침해 사건은 해마다 크게 증가하고 있는데, 이 사건 중...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/ce-thumb-0113.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[클라우드 보안 따라잡기-2] 클라우드 보안의 공유 책임 모델 이해하기]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104062&amp;page=1&amp;kind=5&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104062&amp;page=1&amp;kind=5&amp;search=title&amp;find=</guid>
@@ -134,6 +126,14 @@
             <pubDate>Tue, 18 Jan 2022 03:18:00 GMT</pubDate>
             <content:encoded><![CDATA[2022년 새해를 시작하면서 우리나라에 가장 많이 유포된 악성코드 유형은 지난해에도 가장 높을 비율을 차지했던 개인정보 및 계정정보 탈취 목적의 인포스틸러 악성코...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/20220116mal-s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[보안 교육, 원래 최고 임원진들부터 시작해 내려오는 게 맞다]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104096&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104096&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Fri, 14 Jan 2022 12:26:10 GMT</pubDate>
+            <content:encoded><![CDATA[사이버 범죄자들은 회사의 직원들만 골라서 노리지 않는다. 오히려 C레벨 임원들이라면 더 ‘땡큐’다. 데이터 침해 사건은 해마다 크게 증가하고 있는데, 이 사건 중...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/ce-thumb-0113.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[안산시, 개별공시지가 토지특성조사에 드론 투입한다]]></title>
