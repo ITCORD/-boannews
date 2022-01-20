@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jan 2022 13:20:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jan 2022 14:16:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[통가의 거대 화산 폭발 사태, 세계 통신망의 취약점 드러내다 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104257&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104257&amp;page=1&amp;kind=1</guid>
+            <pubDate>Thu, 20 Jan 2022 14:13:41 GMT</pubDate>
+            <content:encoded><![CDATA[만약 해저 화산 폭발로 인한 해저 케이블 손상에 대한 재난 복구 대처 방안을 미리 마련했다면, 당신은 리스크 관리 분야의 신이다. 그 정도의 예지력이라면 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/cable-thumb-0120.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[사이버 보안 분야에 M&A가 끊임없이 일어나는 이유 (보안뉴스 ─ 전체기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104256&amp;page=1&amp;kind=1</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 20 Jan 2022 00:59:25 GMT</pubDate>
             <content:encoded><![CDATA[제주도는 도민 안전체감도 향상과 범죄로부터 안전한 제주 조성을 위해 올해 69억원을 투입하고 폐쇄회로(CC)TV 안전망 확대와 기능 강화에 총력을 기울인다...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/20220120jeju-s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우크라이나 정부 기관 겨냥한 ‘파괴형 멀웨어’, 혹시 러시아? (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104223&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104223&amp;page=1&amp;kind=1</guid>
-            <pubDate>Wed, 19 Jan 2022 15:15:21 GMT</pubDate>
-            <content:encoded><![CDATA[지난 주 우크라이나의 정부 기관 다수가 멀웨어 공격에 당했다. 표적이 된 시스템을 운영 불가능하게 만드는 것이 목적인 것으로 보이며, 배후에 정부 지원을 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/rus-thumb-0120.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[디지탈센스, 현대아산병원에 출입관리 시스템 구축 (보안뉴스 ─ 전체기사)]]></title>
@@ -399,6 +399,13 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/1-157(295).jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[소프트웨어 취약점 패치, 속도보다 정확도가 중요하다 (보안뉴스 ─ SECURITY)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104254&amp;page=1&amp;mkind=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104254&amp;page=1&amp;mkind=1&amp;kind=1</guid>
+            <pubDate>Thu, 20 Jan 2022 14:14:07 GMT</pubDate>
+            <content:encoded><![CDATA[CVSS 점수를 기준으로 패치 전략을 만드는 조직들이 상당히 많다. CVSS를 기준으로 점수가 높은 취약점들을 먼저 패치한다는 식이다. 아무 취약점이나 닥치는 대로, 혹은 상황이 허락하는 대로 패치하는 것보다 나은 전략이지만, 그렇다고 엄청나게 효과적이라고 보기는 힘들...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[한국트렌드마이크로, 2022년 비즈니스 전략 발표 기자 간담회 개최 (보안뉴스 ─ SECURITY)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104251&amp;page=1&amp;mkind=1&amp;kind=3</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104251&amp;page=1&amp;mkind=1&amp;kind=3</guid>
@@ -509,13 +516,6 @@
             <guid>https://www.boannews.com/media/view.asp?idx=104210&amp;page=1&amp;mkind=1&amp;kind=1</guid>
             <pubDate>Wed, 19 Jan 2022 01:56:05 GMT</pubDate>
             <content:encoded><![CDATA[조호(Zoho)의 엔드포인트 관리 플랫폼인 매니지엔진 데스크톱 센트럴(ManageEngine Desktop Central)과 데스크톱 센트럴 MSP(Desktop Central MSP)에서 치명적인 인증 우회 취약점인 CVE-2021-44757이 발견됐다. 원격에서 접...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[중국의 동계 올림픽 앱에서 치명적 결함 발견돼 (보안뉴스 ─ SECURITY)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104209&amp;page=1&amp;mkind=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104209&amp;page=1&amp;mkind=1&amp;kind=1</guid>
-            <pubDate>Wed, 19 Jan 2022 01:56:05 GMT</pubDate>
-            <content:encoded><![CDATA[중국에서 곧 열리는 동계 올림픽에 출전하는 선수들은 반드시 설치해야 하는 스마트폰 앱이 있다. 이름은 MY2022이며 코로나 바이러스를 추적하기 위한 것으로, 선수 개개인의 건강 상태와 이동 경로가 이 앱을 통해 기록 및 보고된다. 그런데 이 앱의 암호화 알고리즘에서 ...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[대전시·한국국토정보공사, 디지털 트윈대전 구축 업무협약 체결 (보안뉴스 ─ IT)]]></title>
@@ -1892,6 +1892,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2021/12/modal_120301_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[통가의 거대 화산 폭발 사태, 세계 통신망의 취약점 드러내다 (보안뉴스 ─ 국제)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104257&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104257&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
+            <pubDate>Thu, 20 Jan 2022 14:15:57 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/view.asp?idx=104257&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
+					
+					<img src="/media/upFiles2/2022/01/cable-thumb-0120.jpg" alt="" class="news_img" height="70">
+					
+					<span class="news_txt">통가의 거대 화산 폭발 사태, 세계 통신망의 취약점 드러내다</span>
+					</a><br>
+					<a href="/media/view.asp?idx=104257&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">만약 해저 화산 폭발로 인한 해저 케이블 손상에 대한 재난 복구 대처 방안을 미리 마련했다면, 당신은 리스크 관리 분야의 신이다. 그 정도의 예지력이라면 복권을 ...</a> <span class="news_writer">문가용 기자 | 2022년 01월 20일 22:35</span>]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/cable-thumb-0120.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[사이버 보안 분야에 M&A가 끊임없이 일어나는 이유 (보안뉴스 ─ 국제)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104256&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104256&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
@@ -2156,20 +2170,6 @@
 					</a><br>
 					<a href="/media/view.asp?idx=104178&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">오라클이 2022년 1월에 발표할 패치를 한창 준비 중에 있다. 이번 발표에는 500개가 넘는 취약점 픽스가 포함될 예정이라고 한다. 정확히 말하면 총 483개이...</a> <span class="news_writer">문가용 기자 | 2022년 01월 18일 14:17</span>]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/ora-thumb-0118.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오픈소스 소프트웨어 보호하기 위해 백악관과 주요 IT 기업들 만나 (보안뉴스 ─ 국제)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104151&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104151&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
-            <pubDate>Mon, 17 Jan 2022 10:19:33 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/view.asp?idx=104151&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
-					
-					<img src="/media/upFiles2/2022/01/code-thumb-0117.jpg" alt="" class="news_img" height="70">
-					
-					<span class="news_txt">오픈소스 소프트웨어 보호하기 위해 백악관과 주요 IT 기업들 만나</span>
-					</a><br>
-					<a href="/media/view.asp?idx=104151&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">미국 정부가 ‘백악관 소프트웨어 보안 서밋(White House Software Security Summit)’을 주최해 오픈소스 커뮤니티와 주요 소프트웨어 개발...</a> <span class="news_writer">문가용 기자 | 2022년 01월 17일 18:27</span>]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/code-thumb-0117.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2022년 공공부문 정보보호 제품·서비스 구매 예산 분석 (보안뉴스 ─ 기획특집)]]></title>
