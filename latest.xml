@@ -4,9 +4,17 @@
         <title>보안뉴스 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jan 2022 04:20:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jan 2022 05:16:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[STG가 사들였던 맥아피와 파이어아이 사업부, 합쳐서 트렐릭스]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104249&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104249&amp;page=1&amp;kind=1</guid>
+            <pubDate>Thu, 20 Jan 2022 05:14:16 GMT</pubDate>
+            <content:encoded><![CDATA[맥아피 엔터프라이즈(McAfee Enterprise)와 파이어아이(FireEye)가 합쳐서 트렐릭스(Trellix)라는 새로운 보안 업체가 탄생했다. 확장...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/vine-thumb-0120.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[설 연휴 맞아 택배 및 정부 지원금 사칭한 스미싱·보이스피싱 판친다]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104248&amp;page=1&amp;kind=1</link>
@@ -80,12 +88,12 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/RESIZEjoong20220114.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[성인용 게임 파일로 위장한 디도스 악성코드 주의!]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104216&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104216&amp;page=1&amp;kind=1</guid>
-            <pubDate>Wed, 19 Jan 2022 03:14:41 GMT</pubDate>
-            <content:encoded><![CDATA[특정 파일공유 사이트에 성인용 게임으로 위장한 악성 파일을 올려 디도스 공격용 악성코드를 유포하는 사례가 발견돼 사용자의 주의가 당부된다.]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/ahn_011901_main.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[한국트렌드마이크로, 2022년 비즈니스 전략 발표 기자 간담회 개최]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104251&amp;page=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104251&amp;page=1&amp;kind=3</guid>
+            <pubDate>Thu, 20 Jan 2022 05:14:16 GMT</pubDate>
+            <content:encoded><![CDATA[글로벌 사이버 보안 기업 트렌드마이크로(한국 지사장 김진광)는 COVID-19 이후 더욱 광범위해진 보안 공격 접점 및 보안 위협 증가에 대응하기 위해서는...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/trend_0120_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[넥스지, 진네트웍스와 차세대 보안 솔루션 조달 총판 계약 체결]]></title>
@@ -228,13 +236,6 @@
             <guid>https://www.boannews.com/media/view.asp?idx=104241&amp;page=1&amp;kind=2</guid>
             <pubDate>Thu, 20 Jan 2022 00:59:25 GMT</pubDate>
             <content:encoded><![CDATA[중소벤처기업부는 20일 ‘2022년 중소기업 지능형(스마트) 서비스 지원 사업 추진 계획’을 확정하고, 참여기업 모집 및 현장평가·점검 등을 담당할 수행기...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[중기부, 제조 창업 지원 공간 ‘메이커 스페이스’ 28곳 추가 조성]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104242&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104242&amp;page=1&amp;kind=2</guid>
-            <pubDate>Thu, 20 Jan 2022 00:59:25 GMT</pubDate>
-            <content:encoded><![CDATA[중소벤처기업부는 오는 2월 17일까지 ‘메이커 스페이스 구축·운영’ 사업에 참여할 신규 주관기관을 모집한다고 밝혔다. 올해는 제조 창업을 촉진하기 위해 시...]]></content:encoded>
         </item>
     </channel>
 </rss>

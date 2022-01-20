@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-01-20T04:20:42.332Z</updated>
+    <updated>2022-01-20T05:16:12.585Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2022년 기업들이 꼽은 IT기술 최우선 투자분야는 ‘IT보안’]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104247&amp;page=1&amp;mkind=1&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104247&amp;page=1&amp;mkind=1&amp;kind=3"/>
+        <updated>2022-01-20T05:14:33.976Z</updated>
+        <content type="html"><![CDATA[글로벌 기업들이 꼽은 2022년 IT기술의 최우선 투자분야로 IT보안이 꼽혔다. 글로벌 오픈소스 솔루션 선도기업 레드햇은 이와 같은 내용이 담긴 ‘2022 글로벌 기술 전망 보고서’를 발표했다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[넥스지, 진네트웍스와 차세대 보안 솔루션 조달 총판 계약 체결]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104246&amp;page=1&amp;mkind=1&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104246&amp;page=1&amp;mkind=1&amp;kind=3"/>
+        <updated>2022-01-20T05:14:33.976Z</updated>
+        <content type="html"><![CDATA[KMH그룹(회장 최상주)이 운영하는 VPN 보안제품 및 네트워크 보안전문기업 넥스지(대표 김익수)가 진네트웍스와 차세대 보안 솔루션에 대한 조달 총판 계약을 체결했다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[우크라이나 정부 기관 겨냥한 ‘파괴형 멀웨어’, 혹시 러시아?]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=104223&amp;page=1&amp;mkind=1&amp;kind=1</id>
@@ -109,19 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=104198&amp;page=1&amp;mkind=1&amp;kind=2"/>
         <updated>2022-01-19T01:56:05.202Z</updated>
         <content type="html"><![CDATA[KT가 신한은행과 AI, 메타버스, NTF, 로봇, 빅데이터 등 디지털 플랫폼 기술을 기반으로 본격적인 미래금융DX 사업협력을 추진하고 나아가 함께 글로벌 시장 공략에 나선다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독] 국내 심스와핑 3번째 피해자 발생... KT 사용자 또 ‘스마트폰 먹통’]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104183&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104183&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-01-19T01:56:05.203Z</updated>
-        <content type="html"><![CDATA[&lt;보안뉴스&gt;가 지난 1월 5일 첫 단독 보도한 ‘[단독] KT 고객 유심 복사로 암호화폐 탈취? 국내 첫 심스와핑 의심 피해 발생’ 기사 이후 불과 10일 만에 두 번째 피해자와 세 번째 피해자가 연이어 발생했다. 공교롭게도 피해자 3명 모두 KT 사용자이며...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[크롬 기반 웹 브라우저들의 반란, “웹사이트들은 허락부터 받아라”]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104187&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104187&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-01-19T01:56:05.203Z</updated>
-        <content type="html"><![CDATA[구글 크롬 팀이 새로운 보안 향상 방안을 발표했다. 사설망에 연결된 엔드포인트 장비들에 공공 웹사이트가 직접 접속하는 걸 금지시킨다는 내용이다. 이로써 브라우저를 통해 침투하는 방식의 해킹 공격을 보다 어렵게 만들겠다는 게 앞으로 구글 크롬 보완의 가장 큰 방향이라고 ...]]></content>
     </entry>
 </feed>
