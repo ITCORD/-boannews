@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=4</id>
     <title>보안뉴스 ─ SAFETY</title>
-    <updated>2022-01-20T01:01:23.920Z</updated>
+    <updated>2022-01-20T02:17:59.122Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[고용부, 안전 UP·생산 UP 2022년 ‘안전 투자 혁신 사업’ 본격 추진]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104243&amp;page=1&amp;mkind=4&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104243&amp;page=1&amp;mkind=4&amp;kind=2"/>
+        <updated>2022-01-20T02:16:24.107Z</updated>
+        <content type="html"><![CDATA[고용노동부와 한국산업안전보건공단은 산업 현장의 근원적 안전성 확보를 목적으로 중소사업장의 위험 기계·기구 교체 및 노후 위험 공정 개선을 지원하는 ‘2022년 안전 투자 혁신 사업’의 지원 신청을 20일부터 접수한다고 밝혔다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[경기도, 중대재해 예방 위해 도지사 총괄책임 전담조직 구성·매뉴얼 제작]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=104192&amp;page=1&amp;mkind=4&amp;kind=2</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=104073&amp;page=1&amp;mkind=4&amp;kind=2"/>
         <updated>2022-01-14T00:56:10.911Z</updated>
         <content type="html"><![CDATA[광주광역시는 갑자기 쏟아붓는 폭우에 대비해 인공지능 기술을 활용, 하수도를 관리하는 스마트 도심 침수 대응 체계 구축 사업을 본격적으로 추진하기 위해 기본 및 실시설계 용역을 다음 달 초 착수한다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[광주소방, 2021년 소방활동 통계 분석]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104071&amp;page=1&amp;mkind=4&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104071&amp;page=1&amp;mkind=4&amp;kind=2"/>
-        <updated>2022-01-14T00:56:10.911Z</updated>
-        <content type="html"><![CDATA[광주광역시 소방안전본부는 2021년 119신고 30만5,249건이 접수됐고 화재 743건, 구조 5,237건, 구급 7만142건 등 8만9,132건을 현장 출동했다고 밝혔다.]]></content>
     </entry>
 </feed>
