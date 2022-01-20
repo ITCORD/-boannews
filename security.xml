@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-01-20T08:19:46.579Z</updated>
+    <updated>2022-01-20T09:17:53.801Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한국트렌드마이크로, 2022년 비즈니스 전략 발표 기자 간담회 개최]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104251&amp;page=1&amp;mkind=1&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104251&amp;page=1&amp;mkind=1&amp;kind=3"/>
+        <updated>2022-01-20T09:16:17.336Z</updated>
+        <content type="html"><![CDATA[글로벌 사이버 보안 기업 트렌드마이크로(한국 지사장 김진광)는 COVID-19 이후 더욱 광범위해진 보안 공격 접점 및 보안 위협 증가에 대응하기 위해서는 XDR에 연계된 통합적인 보안 플랫폼이 필수적이라고 2022년 전략 발표 기자간담회에서 밝혔다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[STG가 사들였던 맥아피와 파이어아이 사업부, 합쳐서 트렐릭스]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104249&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104249&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-01-20T09:16:17.338Z</updated>
+        <content type="html"><![CDATA[맥아피 엔터프라이즈(McAfee Enterprise)와 파이어아이(FireEye)가 합쳐서 트렐릭스(Trellix)라는 새로운 보안 업체가 탄생했다. 확장된 탐지 대응(XDR) 시장에 주력할 것이라고 한다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[설 연휴 맞아 택배 및 정부 지원금 사칭한 스미싱·보이스피싱 판친다]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=104248&amp;page=1&amp;mkind=1&amp;kind=1</id>
@@ -109,19 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=104209&amp;page=1&amp;mkind=1&amp;kind=1"/>
         <updated>2022-01-19T01:56:05.186Z</updated>
         <content type="html"><![CDATA[중국에서 곧 열리는 동계 올림픽에 출전하는 선수들은 반드시 설치해야 하는 스마트폰 앱이 있다. 이름은 MY2022이며 코로나 바이러스를 추적하기 위한 것으로, 선수 개개인의 건강 상태와 이동 경로가 이 앱을 통해 기록 및 보고된다. 그런데 이 앱의 암호화 알고리즘에서 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NSO그룹의 페가수스, 자국민도 공격했다]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104208&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104208&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-01-19T01:56:05.187Z</updated>
-        <content type="html"><![CDATA[이스라엘의 스파이웨어 개발사인 NSO그룹(NSO Group)이 다시 한 번 여론의 도마 위에 올랐다. 이스라엘 경찰이 전 총리였던 네타냐후의 적대적인 세력을 추적 및 수사하기 위해 NSO그룹의 페가수스(Pegasus)를 사용했다는 보도가 나왔기 때문이다. 이미 페가수스...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SKT, 차세대 통신 보안기술로 국가공식인증 획득]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104197&amp;page=1&amp;mkind=1&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104197&amp;page=1&amp;mkind=1&amp;kind=3"/>
-        <updated>2022-01-19T01:56:05.190Z</updated>
-        <content type="html"><![CDATA[SK텔레콤이 자사 양자암호 기반 전송암호화장비에 대한 국가정보원 인증을 획득, 국가기관 납품에 요구되는 높은 보안 수준을 충족한 국내 첫 사업자가 됐다.]]></content>
     </entry>
 </feed>

@@ -4,9 +4,25 @@
         <title>보안뉴스 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 20 Jan 2022 08:19:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jan 2022 09:17:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[사이버 보안 분야에 M&A가 끊임없이 일어나는 이유]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104256&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104256&amp;page=1&amp;kind=1</guid>
+            <pubDate>Thu, 20 Jan 2022 09:16:00 GMT</pubDate>
+            <content:encoded><![CDATA[2020년부터 2021년까지, 코로나로 인해 세계 경제는 큰 위기에 빠졌고, 지금도 그 위기는 진행되는 중이다. 그러나 정보 보안 분야는 이 기간 동안 큰...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/ma-thumb-0120.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘Weekly Security Premium Report’ 제35호 발간! 보안담당자가 알아야 할 IT 기술]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104253&amp;page=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104253&amp;page=1&amp;kind=3</guid>
+            <pubDate>Thu, 20 Jan 2022 09:16:00 GMT</pubDate>
+            <content:encoded><![CDATA[1월 20일 발간된 ‘Weekly Security Premium Report’ 제35호에는 &lt;보안 심층 리포트&gt; 코너에서 IT·보안종사자라면 2...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/20220120REPORT-SM.JPG" length="0" type="image/JPG"/>
+        </item>
         <item>
             <title><![CDATA[소프트웨어 취약점 패치, 속도보다 정확도가 중요하다]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104254&amp;page=1&amp;kind=1</link>
@@ -72,20 +88,12 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/rus-thumb-0120.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[CES 2022를 통해 본 핀테크의 미래]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104222&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104222&amp;page=1&amp;kind=1</guid>
-            <pubDate>Wed, 19 Jan 2022 12:23:17 GMT</pubDate>
-            <content:encoded><![CDATA[금융 분야의 변화 속도가 갈수록 높아지고 있다. 이른 바 핀테크라는 것이 앞에 서서 이 흐름을 주도하고 있다. 올해 열린 CES에서도 핀테크의 힘은 여실히...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/fin-thumb-0119.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[의료 업체 애봇의 CEO가 2022년 CES에서 한 말]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104221&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104221&amp;page=1&amp;kind=1</guid>
-            <pubDate>Wed, 19 Jan 2022 12:23:17 GMT</pubDate>
-            <content:encoded><![CDATA[라스베이거스에서 열린 전 세계 전자 기기 업계 최대 전시회 CES에서, 사상 처음 의료 기술 업체인 애봇(Abbot)의 CEO 로버트 포드(Robert F...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/med-thumb-0119.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[디지탈센스, 현대아산병원에 출입관리 시스템 구축]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104255&amp;page=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104255&amp;page=1&amp;kind=3</guid>
+            <pubDate>Thu, 20 Jan 2022 09:16:00 GMT</pubDate>
+            <content:encoded><![CDATA[디지탈센스(대표 최주호)는 현대아산병원의 감염병 대응을 위한 ‘스마트관리 시스템’ 구축 프로젝트의 환자와 보호자, 방문객의 무인 출입관리를 위한 키오스크 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/22012002ss.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[하이크비전(Hikvision), 2022년 보안 업계 8대 동향 발표]]></title>
@@ -230,13 +238,6 @@
             <pubDate>Thu, 20 Jan 2022 00:59:25 GMT</pubDate>
             <content:encoded><![CDATA[과학기술정보통신부는 디지털 서비스에 익숙하지 않은 고령층이 방역패스 활용이나 비대면 설 보내기에 어려움을 겪지 않고 손쉽게 디지털을 활용할 수 있도록 짧은...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/1-208(295).jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한국판 뉴딜 성과 ‘닥터앤서’, 사우디 진출 눈앞]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104240&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104240&amp;page=1&amp;kind=2</guid>
-            <pubDate>Thu, 20 Jan 2022 00:59:25 GMT</pubDate>
-            <content:encoded><![CDATA[과학기술정보통신부(이하 과기정통부)는 지난 18일 사우디아라비아 리야드에서 개최된 ‘한국-사우디 스마트 혁신성장 포럼’에서 사우디 MNG-HA(Minist...]]></content:encoded>
         </item>
     </channel>
 </rss>
