@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-01-21T02:35:22.893Z</updated>
+    <updated>2022-01-21T03:16:58.807Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[인공지능으로 사이버위협을 실시간 판별한다]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104263&amp;page=1&amp;mkind=1&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104263&amp;page=1&amp;mkind=1&amp;kind=2"/>
+        <updated>2022-01-21T03:15:18.101Z</updated>
+        <content type="html"><![CDATA[한국교육학술정보원(KERIS)은 2022년 1월 ‘인공지능 사이버위협 자동판별시스템’에 대한 개발 및 특허출원을 완료하고 서비스를 실시한다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[기묘한 스파이웨어 캠페인, 여러 공업 업체들 공격해]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=104286&amp;page=1&amp;mkind=1&amp;kind=1</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=104223&amp;page=1&amp;mkind=1&amp;kind=1"/>
         <updated>2022-01-20T04:19:02.145Z</updated>
         <content type="html"><![CDATA[지난 주 우크라이나의 정부 기관 다수가 멀웨어 공격에 당했다. 표적이 된 시스템을 운영 불가능하게 만드는 것이 목적인 것으로 보이며, 배후에 정부 지원을 받는 해커가 있을 가능성이 높은 것으로 분석되고 있다. 여기서 정부는 ‘러시아’로 대부분 의견이 모인다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CES 2022를 통해 본 핀테크의 미래]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104222&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104222&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-01-20T02:16:05.659Z</updated>
-        <content type="html"><![CDATA[금융 분야의 변화 속도가 갈수록 높아지고 있다. 이른 바 핀테크라는 것이 앞에 서서 이 흐름을 주도하고 있다. 올해 열린 CES에서도 핀테크의 힘은 여실히 드러났다. 소비자기술연합(Consumer Technology Association)이 주최한 패널 토론회의 중심 ...]]></content>
     </entry>
 </feed>
