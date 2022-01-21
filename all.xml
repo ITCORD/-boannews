@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Jan 2022 04:22:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Jan 2022 05:16:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[보.알.남] 내 사생활이 인터넷에? 하드디스크와 휴대폰, 안전한 폐기 방법 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104220&amp;page=1&amp;kind=5</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104220&amp;page=1&amp;kind=5</guid>
+            <pubDate>Fri, 21 Jan 2022 05:13:46 GMT</pubDate>
+            <content:encoded><![CDATA[우리가 일상적으로 사용하고 폐기하는 하드디스크와 휴대폰에는 중요한 데이터나 금융정보, 그리고 사생활 관련 내용이 들어있는 경우가 많다. 이러한 정보를 제대...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/RESIZEHARD20220114.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[소프트웨어로 정의된 네트워크에 맞는 소프트웨어 정의 보안의 장점 (보안뉴스 ─ 전체기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104273&amp;page=1&amp;kind=1</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 20 Jan 2022 14:13:41 GMT</pubDate>
             <content:encoded><![CDATA[만약 해저 화산 폭발로 인한 해저 케이블 손상에 대한 재난 복구 대처 방안을 미리 마련했다면, 당신은 리스크 관리 분야의 신이다. 그 정도의 예지력이라면 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/cable-thumb-0120.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사이버 보안 분야에 M&A가 끊임없이 일어나는 이유 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104256&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104256&amp;page=1&amp;kind=1</guid>
-            <pubDate>Thu, 20 Jan 2022 09:16:00 GMT</pubDate>
-            <content:encoded><![CDATA[2020년부터 2021년까지, 코로나로 인해 세계 경제는 큰 위기에 빠졌고, 지금도 그 위기는 진행되는 중이다. 그러나 정보 보안 분야는 이 기간 동안 큰...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/ma-thumb-0120.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[포스코ICT-신세계아이앤씨, RPA 확산 위해 ‘맞손’ (보안뉴스 ─ 전체기사)]]></title>
@@ -213,6 +213,14 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/RESIZEMOU20220121.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[사이버 보안 분야에 M&A가 끊임없이 일어나는 이유 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104256&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104256&amp;page=1&amp;kind=1</guid>
+            <pubDate>Thu, 20 Jan 2022 09:16:00 GMT</pubDate>
+            <content:encoded><![CDATA[2020년부터 2021년까지, 코로나로 인해 세계 경제는 큰 위기에 빠졌고, 지금도 그 위기는 진행되는 중이다. 그러나 정보 보안 분야는 이 기간 동안 큰...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/ma-thumb-0120.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘Weekly Security Premium Report’ 제35호 발간! 보안담당자가 알아야 할 IT 기술 (보안뉴스 ─ 전체기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104253&amp;page=1&amp;kind=3</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104253&amp;page=1&amp;kind=3</guid>
@@ -227,14 +235,6 @@
             <pubDate>Thu, 20 Jan 2022 09:16:00 GMT</pubDate>
             <content:encoded><![CDATA[디지탈센스(대표 최주호)는 현대아산병원의 감염병 대응을 위한 ‘스마트관리 시스템’ 구축 프로젝트의 환자와 보호자, 방문객의 무인 출입관리를 위한 키오스크 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/22012002ss.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[소프트웨어 취약점 패치, 속도보다 정확도가 중요하다 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104254&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104254&amp;page=1&amp;kind=1</guid>
-            <pubDate>Thu, 20 Jan 2022 08:17:50 GMT</pubDate>
-            <content:encoded><![CDATA[CVSS 점수를 기준으로 패치 전략을 만드는 조직들이 상당히 많다. CVSS를 기준으로 점수가 높은 취약점들을 먼저 패치한다는 식이다. 아무 취약점이나 닥...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/strat-thumb-0120.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[단독] 국내 심스와핑 3번째 피해자 발생... KT 사용자 또 ‘스마트폰 먹통’ (보안뉴스 ─ 가장 많이 본 기사)]]></title>
@@ -309,20 +309,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/20220116mal-s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[영천시 스마트도시통합센터, 24시간 영천시민 지킨다 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104131&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104131&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
-            <pubDate>Sun, 16 Jan 2022 16:23:47 GMT</pubDate>
-            <content:encoded><![CDATA[영천시는 스마트도시통합센터(구 CCTV통합관제센터) 2021년도 운영 성과를 지난 12일 보고했다. 2021년 1년 동안 스마트도시통합센터는 1,768대의 CCT...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/1-153(295).jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[전 세계 IoT 장비 1만 2,000여 대, ‘Mozi 봇넷’ 감염됐다 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104215&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104215&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
             <pubDate>Thu, 20 Jan 2022 02:15:56 GMT</pubDate>
             <content:encoded><![CDATA[국가정보원은 최근 러시아와 정보 공유를 통해 전 세계 72개국 사물인터넷(IoT) 장비 1만 1,700여대가 ‘Mozi 봇넷’이라는 악성코드에 감염된 사실을 확인...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/20531043_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[영천시 스마트도시통합센터, 24시간 영천시민 지킨다 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104131&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104131&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
+            <pubDate>Sun, 16 Jan 2022 16:23:47 GMT</pubDate>
+            <content:encoded><![CDATA[영천시는 스마트도시통합센터(구 CCTV통합관제센터) 2021년도 운영 성과를 지난 12일 보고했다. 2021년 1년 동안 스마트도시통합센터는 1,768대의 CCT...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/1-153(295).jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[클라우드 보안 따라잡기-2] 클라우드 보안의 공유 책임 모델 이해하기 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
@@ -394,6 +394,13 @@
             <pubDate>Fri, 21 Jan 2022 02:33:35 GMT</pubDate>
             <content:encoded><![CDATA[한국정보통신기술협회(TTA)는 과학기술정보통신부로부터 ‘정보통신망법’ 제48조의6에 따라 시험환경, 시험 역량 등을 종합적으로 평가받아 지난 13일 ‘정보통신망연...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/1-157(295).jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[보령시, 개인정보보호 관리자 교육 개최 (보안뉴스 ─ SECURITY)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104262&amp;page=1&amp;mkind=1&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104262&amp;page=1&amp;mkind=1&amp;kind=2</guid>
+            <pubDate>Fri, 21 Jan 2022 05:14:08 GMT</pubDate>
+            <content:encoded><![CDATA[보령시는 지난 20일 김동일 시장과 본청 및 직속기관 실과장, 읍면동장 등 간부 공무원을 대상으로 개인정보보호 관리자 교육을 가졌다고 밝혔다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[인공지능으로 사이버위협을 실시간 판별한다 (보안뉴스 ─ SECURITY)]]></title>
@@ -506,13 +513,6 @@
             <guid>https://www.boannews.com/media/view.asp?idx=104246&amp;page=1&amp;mkind=1&amp;kind=3</guid>
             <pubDate>Thu, 20 Jan 2022 05:14:33 GMT</pubDate>
             <content:encoded><![CDATA[KMH그룹(회장 최상주)이 운영하는 VPN 보안제품 및 네트워크 보안전문기업 넥스지(대표 김익수)가 진네트웍스와 차세대 보안 솔루션에 대한 조달 총판 계약을 체결했다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[우크라이나 정부 기관 겨냥한 ‘파괴형 멀웨어’, 혹시 러시아? (보안뉴스 ─ SECURITY)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104223&amp;page=1&amp;mkind=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104223&amp;page=1&amp;mkind=1&amp;kind=1</guid>
-            <pubDate>Thu, 20 Jan 2022 04:19:02 GMT</pubDate>
-            <content:encoded><![CDATA[지난 주 우크라이나의 정부 기관 다수가 멀웨어 공격에 당했다. 표적이 된 시스템을 운영 불가능하게 만드는 것이 목적인 것으로 보이며, 배후에 정부 지원을 받는 해커가 있을 가능성이 높은 것으로 분석되고 있다. 여기서 정부는 ‘러시아’로 대부분 의견이 모인다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[과기정통부, 2022년 인공지능 학습용 데이터 구축 사업 공모 (보안뉴스 ─ IT)]]></title>
