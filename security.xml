@@ -2,9 +2,72 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-01-21T02:00:42.562Z</updated>
+    <updated>2022-01-21T02:35:22.893Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[기묘한 스파이웨어 캠페인, 여러 공업 업체들 공격해]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104286&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104286&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-01-21T02:33:44.674Z</updated>
+        <content type="html"><![CDATA[여러 가지 스파이웨어를 동원한 해킹 공격이 탐지됐다. 보통 스파이웨어는 정보를 수집하기 위해 사용되고, 정보를 수집하려면 오랜 기간 피해자의 네트워크나 장비에 머물러 있어야 하기 때문에 공격 기간이 긴 것이 보통이다. 그런데 이 캠페인은 공격 시간이 짧다고 한다. 일반...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[줌 클라이언트와 MMR 서버의 제로데이 취약점, 상세히 공개돼]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104285&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104285&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-01-21T02:33:44.675Z</updated>
+        <content type="html"><![CDATA[지난 11월, 구글의 보안 전문가가 줌(Zoom)이라는 인기 높은 화상 회의 앱에서 제로데이, 제로클릭 취약점을 발견한 바 있다. 디도스, 악성 코드 실행, 임의 메모리 영역 유출과 같은 공격을 가능케 하는 것으로, 석 달이 지난 오늘 취약점 세부 내용이 공개됐다. 취...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[시스코의 스타OS의 취약점, 공격자들에 루트 액세스 제공]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104284&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104284&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-01-21T02:33:44.690Z</updated>
+        <content type="html"><![CDATA[시스코가 이번 주 시스코 스타OS 소프트웨어(Cisco StarOS Software)에서 발견된 오류를 해결하기 위해 픽스를 발표했다. 이 취약점은 CVE-2022-20649이며 스타OS 내 중복 설정 관리자(Redundancy Configuration Manager)...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[중국의 APT 단체, UEFI 펌웨어 임플란트인 문바운스 사용]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104283&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104283&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-01-21T02:33:44.691Z</updated>
+        <content type="html"><![CDATA[유명 중국 APT 단체가 UEFI 펌웨어 임플란트를 활용하고 있다는 사실이 공개됐다. 문제의 그룹은 APT41 혹은 윈티(Winnti)라고 불리며, 이들이 사용한 임플란트는 문바운스(MoonBounce)라고 한다. 공격자들은 펌웨어를 침해한 후 새로운 섹션을 생성하고 ...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FBI, 디아볼 랜섬웨어를 트릭봇 갱단과 연결 짓다]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104282&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104282&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-01-21T02:33:44.693Z</updated>
+        <content type="html"><![CDATA[미국의 FBI가 다이볼(Diavol)이라는 랜섬웨어가 트릭봇(TrickBot)이라는 멀웨어를 운영하는 자들의 작품이라고 공식 발표했다. 디아볼은 RSA 알고리즘만으로 파일을 암호화시키며, 범인들은 피해자들에게 최소 1만 달러에서 최대 50만 달러를 요구하고 있다. 비교...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[바이든 대통령, 국가 사이버 보안 강화 위한 메모에 서명]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104281&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104281&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-01-21T02:33:44.694Z</updated>
+        <content type="html"><![CDATA[바이든 대통령이 “국가 안보 시스템들에 네트워크 보안 장치들을 반드시 구축하라”는 내용의 국가 안보 각서(National Security Memorandum, NSM)에 서명했다. “연방 공무원들이 사용하는 네트워크들에 적용되는 수준의 보안 장치들이어야 한다”는 내용도...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[통가의 거대 화산 폭발 사태, 세계 통신망의 취약점 드러내다]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104257&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104257&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-01-21T02:33:44.699Z</updated>
+        <content type="html"><![CDATA[만약 해저 화산 폭발로 인한 해저 케이블 손상에 대한 재난 복구 대처 방안을 미리 마련했다면, 당신은 리스크 관리 분야의 신이다. 그 정도의 예지력이라면 복권을 사는 대신 회사 생활을 하는 이유가 궁금할 정도다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[사이버 보안 분야에 M&A가 끊임없이 일어나는 이유]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104256&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104256&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-01-21T02:33:44.699Z</updated>
+        <content type="html"><![CDATA[2020년부터 2021년까지, 코로나로 인해 세계 경제는 큰 위기에 빠졌고, 지금도 그 위기는 진행되는 중이다. 그러나 정보 보안 분야는 이 기간 동안 큰 호황을 누렸다. 2020년 한 해 동안 보안 분야에서는 총 178건의 전략적 M&amp;A가 진행됐고, 2021년 1~3...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘Weekly Security Premium Report’ 제35호 발간! 보안담당자가 알아야 할 IT 기술]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104253&amp;page=1&amp;mkind=1&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104253&amp;page=1&amp;mkind=1&amp;kind=3"/>
+        <updated>2022-01-21T02:33:44.699Z</updated>
+        <content type="html"><![CDATA[1월 20일 발간된 ‘Weekly Security Premium Report’ 제35호에는 &lt;보안 심층 리포트&gt; 코너에서 IT·보안종사자라면 2022년 꼭 짚고 넘어가야 할 최신 IT 기술 트렌드를 공유하는 시간을 마련했다. 또한, &lt;꼭 알아야 할 한 ...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[소프트웨어 취약점 패치, 속도보다 정확도가 중요하다]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=104254&amp;page=1&amp;mkind=1&amp;kind=1</id>
@@ -60,68 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=104222&amp;page=1&amp;mkind=1&amp;kind=1"/>
         <updated>2022-01-20T02:16:05.659Z</updated>
         <content type="html"><![CDATA[금융 분야의 변화 속도가 갈수록 높아지고 있다. 이른 바 핀테크라는 것이 앞에 서서 이 흐름을 주도하고 있다. 올해 열린 CES에서도 핀테크의 힘은 여실히 드러났다. 소비자기술연합(Consumer Technology Association)이 주최한 패널 토론회의 중심 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[의료 업체 애봇의 CEO가 2022년 CES에서 한 말]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104221&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104221&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-01-20T02:16:05.664Z</updated>
-        <content type="html"><![CDATA[라스베이거스에서 열린 전 세계 전자 기기 업계 최대 전시회 CES에서, 사상 처음 의료 기술 업체인 애봇(Abbot)의 CEO 로버트 포드(Robert Ford)가 기조 연설자로 나섰다. 팬데믹 때문에 가상으로만 열리던 전시회가 2년여 만에 처음으로 물리 공간에서 진행...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[개인정보위, ‘개인정보 보호 강화기술 연구개발’ 설명회 개최]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104217&amp;page=1&amp;mkind=1&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104217&amp;page=1&amp;mkind=1&amp;kind=2"/>
-        <updated>2022-01-19T15:15:39.556Z</updated>
-        <content type="html"><![CDATA[개인정보보호위원회(위원장 윤종인, 이하 ‘개인정보위’)와 한국인터넷진흥원(원장 이원태, 이하 ‘KISA’)은 1월 24일(월) 16시에 ‘2022년도 개인정보 보호 강화기술 연구개발(R&amp;D)’ 사업설명회를 개최한다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[성인용 게임 파일로 위장한 디도스 악성코드 주의!]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104216&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104216&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-01-19T12:23:35.630Z</updated>
-        <content type="html"><![CDATA[특정 파일공유 사이트에 성인용 게임으로 위장한 악성 파일을 올려 디도스 공격용 악성코드를 유포하는 사례가 발견돼 사용자의 주의가 당부된다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전 세계 IoT 장비 1만 2,000여 대, ‘Mozi 봇넷’ 감염됐다]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104215&amp;page=1&amp;mkind=1&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104215&amp;page=1&amp;mkind=1&amp;kind=2"/>
-        <updated>2022-01-19T12:23:35.631Z</updated>
-        <content type="html"><![CDATA[국가정보원은 최근 러시아와 정보 공유를 통해 전 세계 72개국 사물인터넷(IoT) 장비 1만 1,700여대가 ‘Mozi 봇넷’이라는 악성코드에 감염된 사실을 확인하고 국내외 유관기관 및 해외 협력 기관과 대응 조치를 진행 중이라고 밝혔다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유로폴, 범죄자들의 최고 VPN 서비스 폐쇄시켜]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104214&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104214&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-01-19T04:19:09.704Z</updated>
-        <content type="html"><![CDATA[유로폴이 사이버 범죄자들이 가장 좋아하는 VPN 서비스인 VPN랩(VPNLab)을 폐쇄시켰다. 사이버 공격자들은 멀웨어를 퍼트릴 때 VPN랩을 주로 사용해 왔다. 그렇게 함으로써 추적을 쉽지 않게 한 것이다. 유로폴은 1월 17일부로 VPN랩의 서버 15개를 압수해 무...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[블랙캣 랜섬웨어, 패션 거물 업체 몽클레르 정보 유출]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104213&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104213&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-01-19T03:15:02.206Z</updated>
-        <content type="html"><![CDATA[블랙캣(BlackCat) 혹은 알프파이브(AlphV)라고 불리는 랜섬웨어 공격자들이 패션 업계의 거물 업체인 몽클레르를 공격했다. 그리고 데이터를 빼돌리고 암호화시켰다. 양자 간 협상이 어떻게 흘러갔는지, 오늘 블랙캣은 몽클레르의 데이터를 공개하기에 이르렀다. 공격이 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[텔레그램, 도난당한 금융 정보의 활발한 거래 플랫폼]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104212&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104212&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-01-19T02:27:33.958Z</updated>
-        <content type="html"><![CDATA[텔레그램에서 활동하는 사이버 범죄자들의 비율이 점점 높아지고 있다. 특히 해킹 공격으로 훔친 금융 정보가 텔레그램에서 활발히 거래되고 있다고 한다. 공격자들 입장에서는 다크웹에 웹사이트를 하나 개설해서 알리는 것보다, 텔레그램 채널을 만들어 운영하는 게 훨씬 편리하다고...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[다중인증 우회 취약점, 박스 계정 탈취로 이어져]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104211&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104211&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-01-19T02:27:33.958Z</updated>
-        <content type="html"><![CDATA[박스(Box)라는 유명 클라우드 서비스가 다중인증 시스템을 잘못 구축하는 바람에 계정 탈취 공격이 발생했다. 이러한 사건은 2021년 11월의 패치로 해결이 되었으며, 공격자들은 로그인 크리덴셜 하나만 있으면 다중인증을 뚫어낼 수 있었다고 한다. 다만 이는 문자 메시지...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[위험한 매니지엔진 데스크톱 서버 오류, 멀웨어 공격으로 이어져]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104210&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104210&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-01-19T01:56:05.184Z</updated>
-        <content type="html"><![CDATA[조호(Zoho)의 엔드포인트 관리 플랫폼인 매니지엔진 데스크톱 센트럴(ManageEngine Desktop Central)과 데스크톱 센트럴 MSP(Desktop Central MSP)에서 치명적인 인증 우회 취약점인 CVE-2021-44757이 발견됐다. 원격에서 접...]]></content>
     </entry>
 </feed>

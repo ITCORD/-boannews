@@ -4,9 +4,57 @@
         <title>보안뉴스 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Jan 2022 02:00:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Jan 2022 02:35:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[기묘한 스파이웨어 캠페인, 여러 공업 업체들 공격해]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104286&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104286&amp;page=1&amp;kind=1</guid>
+            <pubDate>Fri, 21 Jan 2022 02:33:26 GMT</pubDate>
+            <content:encoded><![CDATA[여러 가지 스파이웨어를 동원한 해킹 공격이 탐지됐다. 보통 스파이웨어는 정보를 수집하기 위해 사용되고, 정보를 수집하려면 오랜 기간 피해자의 네트워크나 장...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/ind-thumb-0121.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[줌 클라이언트와 MMR 서버의 제로데이 취약점, 상세히 공개돼]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104285&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104285&amp;page=1&amp;kind=1</guid>
+            <pubDate>Fri, 21 Jan 2022 02:33:26 GMT</pubDate>
+            <content:encoded><![CDATA[지난 11월, 구글의 보안 전문가가 줌(Zoom)이라는 인기 높은 화상 회의 앱에서 제로데이, 제로클릭 취약점을 발견한 바 있다. 디도스, 악성 코드 실행...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/zoom-thumb-0121.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[시스코의 스타OS의 취약점, 공격자들에 루트 액세스 제공]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104284&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104284&amp;page=1&amp;kind=1</guid>
+            <pubDate>Fri, 21 Jan 2022 02:33:26 GMT</pubDate>
+            <content:encoded><![CDATA[시스코가 이번 주 시스코 스타OS 소프트웨어(Cisco StarOS Software)에서 발견된 오류를 해결하기 위해 픽스를 발표했다. 이 취약점은 CVE...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/root-thumb-0121.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[중국의 APT 단체, UEFI 펌웨어 임플란트인 문바운스 사용]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104283&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104283&amp;page=1&amp;kind=1</guid>
+            <pubDate>Fri, 21 Jan 2022 02:33:26 GMT</pubDate>
+            <content:encoded><![CDATA[유명 중국 APT 단체가 UEFI 펌웨어 임플란트를 활용하고 있다는 사실이 공개됐다. 문제의 그룹은 APT41 혹은 윈티(Winnti)라고 불리며, 이들이...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/moon-thumb-0121.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[FBI, 디아볼 랜섬웨어를 트릭봇 갱단과 연결 짓다]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104282&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104282&amp;page=1&amp;kind=1</guid>
+            <pubDate>Fri, 21 Jan 2022 02:33:26 GMT</pubDate>
+            <content:encoded><![CDATA[미국의 FBI가 다이볼(Diavol)이라는 랜섬웨어가 트릭봇(TrickBot)이라는 멀웨어를 운영하는 자들의 작품이라고 공식 발표했다. 디아볼은 RSA 알...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/fbi-thumb-0121.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[바이든 대통령, 국가 사이버 보안 강화 위한 메모에 서명]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104281&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104281&amp;page=1&amp;kind=1</guid>
+            <pubDate>Fri, 21 Jan 2022 02:33:26 GMT</pubDate>
+            <content:encoded><![CDATA[바이든 대통령이 “국가 안보 시스템들에 네트워크 보안 장치들을 반드시 구축하라”는 내용의 국가 안보 각서(National Security Memorandu...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/sign-thumb-0121.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[디지털 신대륙, 메타버스로 도약하는 대한민국]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104277&amp;page=1&amp;kind=2</link>
@@ -40,52 +88,72 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/20220120REPORT-SM.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
-            <title><![CDATA[소프트웨어 취약점 패치, 속도보다 정확도가 중요하다]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104254&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104254&amp;page=1&amp;kind=1</guid>
-            <pubDate>Thu, 20 Jan 2022 08:17:50 GMT</pubDate>
-            <content:encoded><![CDATA[CVSS 점수를 기준으로 패치 전략을 만드는 조직들이 상당히 많다. CVSS를 기준으로 점수가 높은 취약점들을 먼저 패치한다는 식이다. 아무 취약점이나 닥...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/strat-thumb-0120.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[포스코ICT-신세계아이앤씨, RPA 확산 위해 ‘맞손’]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104258&amp;page=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104258&amp;page=1&amp;kind=3</guid>
+            <pubDate>Fri, 21 Jan 2022 02:33:26 GMT</pubDate>
+            <content:encoded><![CDATA[포스코ICT와 신세계아이앤씨가 사무 업무 자동화를 위한 소프트웨어 로봇인 RPA 확산을 위해 전략적 파트너 관계를 맺고 협력한다. 양사는 포스코ICT의 R...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/1-213(295).jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[STG가 사들였던 맥아피와 파이어아이 사업부, 합쳐서 트렐릭스]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104249&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104249&amp;page=1&amp;kind=1</guid>
-            <pubDate>Thu, 20 Jan 2022 05:14:16 GMT</pubDate>
-            <content:encoded><![CDATA[맥아피 엔터프라이즈(McAfee Enterprise)와 파이어아이(FireEye)가 합쳐서 트렐릭스(Trellix)라는 새로운 보안 업체가 탄생했다. 확장...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/vine-thumb-0120.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[사람과 한 공간 방역 작업도 척척, AI 기반 스마트 방역로봇 개발]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104260&amp;page=1&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104260&amp;page=1&amp;kind=2</guid>
+            <pubDate>Fri, 21 Jan 2022 02:33:26 GMT</pubDate>
+            <content:encoded><![CDATA[한국기계연구원 인공지능기계연구실 김창현 AI를 활용한 실시간 바이러스 분석 알고리즘을 탑재한 AI 기반 스마트 방역로봇을 개발했다. 카페, 식당 같은 많은...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/1-215(295).jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[설 연휴 맞아 택배 및 정부 지원금 사칭한 스미싱·보이스피싱 판친다]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104248&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104248&amp;page=1&amp;kind=1</guid>
-            <pubDate>Thu, 20 Jan 2022 04:18:44 GMT</pubDate>
-            <content:encoded><![CDATA[과학기술정보통신부(장관 임혜숙, 이하 ’과기정통부‘), 금융위원회(위원장 고승범), 경찰청(청장 김창룡), 금융감독원(원장 정은보), 한국인터넷진흥원(원장...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/msit_0120001_main.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[인천 동구, 개인정보 관리수준 진단 결과 4년 연속 최고등급 ‘양호’]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104261&amp;page=1&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104261&amp;page=1&amp;kind=2</guid>
+            <pubDate>Fri, 21 Jan 2022 02:33:26 GMT</pubDate>
+            <content:encoded><![CDATA[인천 동구가 개인정보보호위원회에서 실시한 ‘2021년 개인정보보호 관리수준 진단’ 결과 4년 연속 ‘양호’ 등급을 달성했다. 인천 동구는 개인정보의 수집·...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2022년 기업들이 꼽은 IT기술 최우선 투자분야는 ‘IT보안’]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104247&amp;page=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104247&amp;page=1&amp;kind=3</guid>
-            <pubDate>Thu, 20 Jan 2022 02:15:45 GMT</pubDate>
-            <content:encoded><![CDATA[글로벌 기업들이 꼽은 2022년 IT기술의 최우선 투자분야로 IT보안이 꼽혔다. 글로벌 오픈소스 솔루션 선도기업 레드햇은 이와 같은 내용이 담긴 ‘2022...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/radhat_012001_main.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[보령시, 개인정보보호 관리자 교육 개최]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104262&amp;page=1&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104262&amp;page=1&amp;kind=2</guid>
+            <pubDate>Fri, 21 Jan 2022 02:33:26 GMT</pubDate>
+            <content:encoded><![CDATA[보령시는 지난 20일 김동일 시장과 본청 및 직속기관 실과장, 읍면동장 등 간부 공무원을 대상으로 개인정보보호 관리자 교육을 가졌다고 밝혔다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[정재동의 창업에세이] 대학 창업활동의 필요성]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104219&amp;page=1&amp;kind=6</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104219&amp;page=1&amp;kind=6</guid>
-            <pubDate>Thu, 20 Jan 2022 02:15:45 GMT</pubDate>
-            <content:encoded><![CDATA[대부분의 대학에서 창업활동을 강조하고 있다. 정규과정 및 비정규과정의 창업교육 뿐만 아니라 실제 창업도 장려하고 있다. 정부도 학생창업을 포함해서 창업활동...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/20220119start-s.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[인공지능으로 사이버위협을 실시간 판별한다]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104263&amp;page=1&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104263&amp;page=1&amp;kind=2</guid>
+            <pubDate>Fri, 21 Jan 2022 02:33:26 GMT</pubDate>
+            <content:encoded><![CDATA[한국교육학술정보원(KERIS)은 2022년 1월 ‘인공지능 사이버위협 자동판별시스템’에 대한 개발 및 특허출원을 완료하고 서비스를 실시한다.]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/20210121keris-s.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
-            <title><![CDATA[서초구, 전국 최초 ‘예측범죄지도’로 핀셋 예방에 나서다]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104224&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104224&amp;page=1&amp;kind=2</guid>
-            <pubDate>Thu, 20 Jan 2022 02:15:45 GMT</pubDate>
-            <content:encoded><![CDATA[서초구가 범죄사각지대 없는 촘촘한 스마트 그물망 행정에 나섰다. 서울 서초구는 전국 최초로 CCTV 사건·사고 데이터를 분석해 범죄 발생 가능성이 높은 지...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/1-193(295).jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[DGIST, ETRI와 로봇 및 센서 분야 연구를 위한 업무협약 체결]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104265&amp;page=1&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104265&amp;page=1&amp;kind=2</guid>
+            <pubDate>Fri, 21 Jan 2022 02:33:26 GMT</pubDate>
+            <content:encoded><![CDATA[DGIST는 ETRI와 로봇 및 센서 분야 등의 연구 강화를 위한 업무협약을 체결했다고 밝혔다.  이번 협약을 통해 양 기관은 △로봇 및 센서 산업 분야 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/1-220(295).jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SKT, 클라우드 솔루션으로 금융권 마이데이터 서비스 지원한다]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104266&amp;page=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104266&amp;page=1&amp;kind=3</guid>
+            <pubDate>Fri, 21 Jan 2022 02:33:26 GMT</pubDate>
+            <content:encoded><![CDATA[SK텔레콤이 자체 개발한 클라우드 솔루션을 하나카드 마이데이터 서비스에 적용해 고객 편의성을 높였다고 밝혔다. 하나카드 마이데이터 서비스에 적용된 TACO...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/1-221(295).jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[과기정통부, 2022년 인공지능 학습용 데이터 구축 사업 공모]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104267&amp;page=1&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104267&amp;page=1&amp;kind=2</guid>
+            <pubDate>Fri, 21 Jan 2022 02:33:26 GMT</pubDate>
+            <content:encoded><![CDATA[과학기술정보통신부는 인공지능(AI) 개발에 필수적인 양질의 인공지능 학습용 데이터를 대규모로 구축·개방하는 ‘인공지능 학습용 데이터 구축 사업’의 2022...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[디지털 대전환 시대, 산업 맞춤형 단기 직무능력인증과정 개발·운영 확대]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104268&amp;page=1&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104268&amp;page=1&amp;kind=2</guid>
+            <pubDate>Fri, 21 Jan 2022 02:33:26 GMT</pubDate>
+            <content:encoded><![CDATA[교육부와 국가평생교육진흥원은 ‘산업 맞춤 단기 직무능력인증과정(이하 매치업)’ 사업 기본계획을 21일 발표했다. ‘매치업(Match業)’은 신산업 분야 대...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[이음5G 대표주자들 모여 성공적 확산 방안 모색한다]]></title>
@@ -153,90 +221,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/22012002ss.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[소프트웨어 취약점 패치, 속도보다 정확도가 중요하다]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104254&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104254&amp;page=1&amp;kind=1</guid>
+            <pubDate>Thu, 20 Jan 2022 08:17:50 GMT</pubDate>
+            <content:encoded><![CDATA[CVSS 점수를 기준으로 패치 전략을 만드는 조직들이 상당히 많다. CVSS를 기준으로 점수가 높은 취약점들을 먼저 패치한다는 식이다. 아무 취약점이나 닥...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/strat-thumb-0120.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[하이크비전(Hikvision), 2022년 보안 업계 8대 동향 발표]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104250&amp;page=1&amp;kind=3</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104250&amp;page=1&amp;kind=3</guid>
             <pubDate>Thu, 20 Jan 2022 06:17:47 GMT</pubDate>
             <content:encoded><![CDATA[영상분야를 핵심 역량으로 보유한 IoT 솔루션 공급업체 하이크비전(Hikvision)이 2022년 보안 업계 8대 동향을 발표했다.]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/22012001ss.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한국트렌드마이크로, 2022년 비즈니스 전략 발표 기자 간담회 개최]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104251&amp;page=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104251&amp;page=1&amp;kind=3</guid>
-            <pubDate>Thu, 20 Jan 2022 05:14:16 GMT</pubDate>
-            <content:encoded><![CDATA[글로벌 사이버 보안 기업 트렌드마이크로(한국 지사장 김진광)는 COVID-19 이후 더욱 광범위해진 보안 공격 접점 및 보안 위협 증가에 대응하기 위해서는...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/trend_0120_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[넥스지, 진네트웍스와 차세대 보안 솔루션 조달 총판 계약 체결]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104246&amp;page=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104246&amp;page=1&amp;kind=3</guid>
-            <pubDate>Thu, 20 Jan 2022 02:15:45 GMT</pubDate>
-            <content:encoded><![CDATA[KMH그룹(회장 최상주)이 운영하는 VPN 보안제품 및 네트워크 보안전문기업 넥스지(대표 김익수)가 진네트웍스와 차세대 보안 솔루션에 대한 조달 총판 계약...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/nexg_012001_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[델 테크놀로지스, 에이펙스 포트폴리오에 멀티 클라우드 연계 서비스 추가]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104245&amp;page=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104245&amp;page=1&amp;kind=3</guid>
-            <pubDate>Thu, 20 Jan 2022 02:15:45 GMT</pubDate>
-            <content:encoded><![CDATA[델 테크놀로지스(Dell Technologies)가 자사의 서비스형(as-a-service) IT 모델인 ‘에이펙스(APEX)’ 포트폴리오에 애플리케이션 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/RESIZEDELL20221020.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제주도, 제주형 어린이 통학로 조성 사업 ‘순항’…교통사고 예방효과 톡톡]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104225&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104225&amp;page=1&amp;kind=2</guid>
-            <pubDate>Thu, 20 Jan 2022 02:15:45 GMT</pubDate>
-            <content:encoded><![CDATA[자치경찰단이 지난해부터 역점 추진해 온 제주형 어린이 통학로 조성 사업을 올해도 지속해 나간다. 등·하굣길 통학로 안전을 위한 제주형 어린이 통학로 조성 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/1-194(295)(0).jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제주도, 더 촘촘한 CCTV 안전망... 골목길 안전까지 책임진다]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104226&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104226&amp;page=1&amp;kind=2</guid>
-            <pubDate>Thu, 20 Jan 2022 00:59:25 GMT</pubDate>
-            <content:encoded><![CDATA[제주도는 도민 안전체감도 향상과 범죄로부터 안전한 제주 조성을 위해 올해 69억원을 투입하고 폐쇄회로(CC)TV 안전망 확대와 기능 강화에 총력을 기울인다...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/20220120jeju-s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서울디지털재단, 스마트 로봇으로 지난해 어르신·어린이 5만5,000여명 디지털 교육]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104227&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104227&amp;page=1&amp;kind=2</guid>
-            <pubDate>Thu, 20 Jan 2022 00:59:25 GMT</pubDate>
-            <content:encoded><![CDATA[서울디지털재단이 휴머노이드형 스마트 로봇 ‘리쿠(LIKU)’를 활용해 작년 한 해 5개 자치구(강남구, 강동구, 관악구, 중랑구, 양천구) 400개소의 어...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/1-196(295).jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[재난 현장의 눈 ‘소방드론’, 5년 새 현장출동 10배 넘게 증가]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104228&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104228&amp;page=1&amp;kind=2</guid>
-            <pubDate>Thu, 20 Jan 2022 00:59:25 GMT</pubDate>
-            <content:encoded><![CDATA[서울시 소방재난본부는 소방드론을 재난‧사고 현장에 본격적으로 투입한 이후 최근 6년간의 운용실적을 분석해 지난 20일 발표했다. 시 소방재난본부...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[대전시·한국국토정보공사, 디지털 트윈대전 구축 업무협약 체결]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104229&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104229&amp;page=1&amp;kind=2</guid>
-            <pubDate>Thu, 20 Jan 2022 00:59:25 GMT</pubDate>
-            <content:encoded><![CDATA[대전시는 지난 18일 한국국토정보공사(LX)와 ‘상생협력과 디지털 트윈대전 구축’을 위한 업무협약을 체결하고 디지털 트윈 기술을 기반으로 하는 공간정보체계...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/1-198(295).jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[KISTI, 위크시그널 통해 미래 기술 발견한다]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104230&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104230&amp;page=1&amp;kind=2</guid>
-            <pubDate>Thu, 20 Jan 2022 00:59:25 GMT</pubDate>
-            <content:encoded><![CDATA[한국과학기술정보연구원(KISTI)은 최근 논문 빅데이터와 인공지능기술을 이용해 과학기술 전 분야에 걸친 위크시그널을 탐지하고 이를 통해 미래 기술을 발견해...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/1-199(295).jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[KISTI-경북도, 데이터 기반 혁신 위한 업무협약 체결]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104231&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104231&amp;page=1&amp;kind=2</guid>
-            <pubDate>Thu, 20 Jan 2022 00:59:25 GMT</pubDate>
-            <content:encoded><![CDATA[한국과학기술정보연구원(KISTI)과 경북도는 데이터 기반 행정서비스 혁신과 지역기업 R&amp;D 역량 강화를 위한 업무협약(MOU)을 체결했다고 밝혔다.]]></content:encoded>
         </item>
     </channel>
 </rss>
