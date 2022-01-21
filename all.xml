@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Jan 2022 22:16:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Jan 2022 23:16:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -380,20 +380,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/luc-thumb-0118.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[우크라이나 정부 기관 겨냥한 ‘파괴형 멀웨어’, 혹시 러시아? (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104223&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104223&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Fri, 21 Jan 2022 10:16:54 GMT</pubDate>
-            <content:encoded><![CDATA[지난 주 우크라이나의 정부 기관 다수가 멀웨어 공격에 당했다. 표적이 된 시스템을 운영 불가능하게 만드는 것이 목적인 것으로 보이며, 배후에 정부 지원을 받는 해...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/rus-thumb-0120.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[2022년 기업들이 꼽은 IT기술 최우선 투자분야는 ‘IT보안’ (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104247&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104247&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
             <pubDate>Fri, 21 Jan 2022 21:11:22 GMT</pubDate>
             <content:encoded><![CDATA[글로벌 기업들이 꼽은 2022년 IT기술의 최우선 투자분야로 IT보안이 꼽혔다. 글로벌 오픈소스 솔루션 선도기업 레드햇은 이와 같은 내용이 담긴 ‘2022 글로벌...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/radhat_012001_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[우크라이나 정부 기관 겨냥한 ‘파괴형 멀웨어’, 혹시 러시아? (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104223&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104223&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Fri, 21 Jan 2022 10:16:54 GMT</pubDate>
+            <content:encoded><![CDATA[지난 주 우크라이나의 정부 기관 다수가 멀웨어 공격에 당했다. 표적이 된 시스템을 운영 불가능하게 만드는 것이 목적인 것으로 보이며, 배후에 정부 지원을 받는 해...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/rus-thumb-0120.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[인천 동구, 개인정보 관리수준 진단 결과 4년 연속 최고등급 ‘양호’ (보안뉴스 ─ SECURITY)]]></title>
