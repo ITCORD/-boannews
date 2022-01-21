@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-01-21T07:16:42.236Z</updated>
+    <updated>2022-01-21T08:20:25.996Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[인천 동구, 개인정보 관리수준 진단 결과 4년 연속 최고등급 ‘양호’]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104261&amp;page=1&amp;mkind=1&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104261&amp;page=1&amp;mkind=1&amp;kind=2"/>
+        <updated>2022-01-21T08:18:31.099Z</updated>
+        <content type="html"><![CDATA[인천 동구가 개인정보보호위원회에서 실시한 ‘2021년 개인정보보호 관리수준 진단’ 결과 4년 연속 ‘양호’ 등급을 달성했다. 인천 동구는 개인정보의 수집·이용·보관 등의 절차를 수시로 점검하고 내부 개인정보보호 교육을 지속적으로 실시하는 등 안전한 개인정보 관리를 위해...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[보령시, 개인정보보호 관리자 교육 개최]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=104262&amp;page=1&amp;mkind=1&amp;kind=2</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=104247&amp;page=1&amp;mkind=1&amp;kind=3"/>
         <updated>2022-01-20T05:14:33.976Z</updated>
         <content type="html"><![CDATA[글로벌 기업들이 꼽은 2022년 IT기술의 최우선 투자분야로 IT보안이 꼽혔다. 글로벌 오픈소스 솔루션 선도기업 레드햇은 이와 같은 내용이 담긴 ‘2022 글로벌 기술 전망 보고서’를 발표했다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[넥스지, 진네트웍스와 차세대 보안 솔루션 조달 총판 계약 체결]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104246&amp;page=1&amp;mkind=1&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104246&amp;page=1&amp;mkind=1&amp;kind=3"/>
-        <updated>2022-01-20T05:14:33.976Z</updated>
-        <content type="html"><![CDATA[KMH그룹(회장 최상주)이 운영하는 VPN 보안제품 및 네트워크 보안전문기업 넥스지(대표 김익수)가 진네트웍스와 차세대 보안 솔루션에 대한 조달 총판 계약을 체결했다.]]></content>
     </entry>
 </feed>

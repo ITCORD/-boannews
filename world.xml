@@ -4,9 +4,23 @@
         <title>보안뉴스 ─ 국제</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Jan 2022 07:16:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Jan 2022 08:20:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[UEFI 펌웨어에 숨어 있는 새 멀웨어, 문바운스 발견돼]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104288&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104288&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
+            <pubDate>Fri, 21 Jan 2022 08:19:49 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/view.asp?idx=104288&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
+					
+					<img src="/media/upFiles2/2022/01/hard-thumb-0121.jpg" alt="" class="news_img" height="70">
+					
+					<span class="news_txt">UEFI 펌웨어에 숨어 있는 새 멀웨어, 문바운스 발견돼</span>
+					</a><br>
+					<a href="/media/view.asp?idx=104288&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">펌웨어 기반의 룻키트는 해킹 도구로서 그리 보편화 되어 있지는 않다. 하지만 인기가 분명히 오르고는 있다. 피해자 입장에서 탐지가 쉽지 않고, 지우는 것도 쉽지 ...</a> <span class="news_writer">문가용 기자 | 2022년 01월 21일 16:17</span>]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/hard-thumb-0121.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[소프트웨어로 정의된 네트워크에 맞는 소프트웨어 정의 보안의 장점]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104273&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
@@ -272,20 +286,6 @@
 					</a><br>
 					<a href="/media/view.asp?idx=104209&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">중국에서 곧 열리는 동계 올림픽에 출전하는 선수들은 반드시 설치해야 하는 스마트폰 앱이 있다. 이름은 MY2022이며 코로나 바이러스를 추적하기 위한 것으로, 선...</a> <span class="news_writer">문가용 기자 | 2022년 01월 19일 10:50</span>]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/winol-thumb-0119.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NSO그룹의 페가수스, 자국민도 공격했다]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104208&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104208&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
-            <pubDate>Wed, 19 Jan 2022 01:57:18 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/view.asp?idx=104208&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
-					
-					<img src="/media/upFiles2/2022/01/peg-thumb-0119.jpg" alt="" class="news_img" height="70">
-					
-					<span class="news_txt">NSO그룹의 페가수스, 자국민도 공격했다</span>
-					</a><br>
-					<a href="/media/view.asp?idx=104208&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">이스라엘의 스파이웨어 개발사인 NSO그룹(NSO Group)이 다시 한 번 여론의 도마 위에 올랐다. 이스라엘 경찰이 전 총리였던 네타냐후의 적대적인 세력을 추적...</a> <span class="news_writer">문가용 기자 | 2022년 01월 19일 10:49</span>]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/peg-thumb-0119.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
