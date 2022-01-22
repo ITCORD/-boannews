@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 22 Jan 2022 03:17:21 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Jan 2022 04:20:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -64,21 +64,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/20220116mal-s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[영천시 스마트도시통합센터, 24시간 영천시민 지킨다]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104131&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104131&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
-            <pubDate>Sun, 16 Jan 2022 16:23:47 GMT</pubDate>
-            <content:encoded><![CDATA[영천시는 스마트도시통합센터(구 CCTV통합관제센터) 2021년도 운영 성과를 지난 12일 보고했다. 2021년 1년 동안 스마트도시통합센터는 1,768대의 CCT...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/1-153(295).jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[안산시, 개별공시지가 토지특성조사에 드론 투입한다]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104129&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104129&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
-            <pubDate>Mon, 17 Jan 2022 07:16:21 GMT</pubDate>
-            <content:encoded><![CDATA[안산시는 개별공시지가 토지특성조사의 정확성과 효율성을 높이기 위해 드론(무인비행장치)을 활용한다고 밝혔다. 대상은 대부도 내 건축 및 개발행위·인허가사업 밀집지역...]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[오픈소스 소프트웨어 보호하기 위해 백악관과 주요 IT 기업들 만나]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104151&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104151&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
@@ -127,14 +112,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/lee_011701_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[TTA, 정보통신망연결기기 등 정보보호인증 시험기관으로 지정]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104136&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104136&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
-            <pubDate>Fri, 21 Jan 2022 02:33:35 GMT</pubDate>
-            <content:encoded><![CDATA[한국정보통신기술협회(TTA)는 과학기술정보통신부로부터 ‘정보통신망법’ 제48조의6에 따라 시험환경, 시험 역량 등을 종합적으로 평가받아 지난 13일 ‘정보통신망연...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/1-157(295).jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[2022년 기업들이 꼽은 IT기술 최우선 투자분야는 ‘IT보안’]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104247&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104247&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
@@ -165,6 +142,30 @@
             <pubDate>Fri, 21 Jan 2022 10:16:54 GMT</pubDate>
             <content:encoded><![CDATA[지난 주 우크라이나의 정부 기관 다수가 멀웨어 공격에 당했다. 표적이 된 시스템을 운영 불가능하게 만드는 것이 목적인 것으로 보이며, 배후에 정부 지원을 받는 해...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/rus-thumb-0120.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[UEFI 펌웨어에 숨어 있는 새 멀웨어, 문바운스 발견돼]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104288&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104288&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Sat, 22 Jan 2022 04:18:51 GMT</pubDate>
+            <content:encoded><![CDATA[펌웨어 기반의 룻키트는 해킹 도구로서 그리 보편화 되어 있지는 않다. 하지만 인기가 분명히 오르고는 있다. 피해자 입장에서 탐지가 쉽지 않고, 지우는 것도 쉽지 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/hard-thumb-0121.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[통가의 거대 화산 폭발 사태, 세계 통신망의 취약점 드러내다]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104257&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104257&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Sat, 22 Jan 2022 04:18:51 GMT</pubDate>
+            <content:encoded><![CDATA[만약 해저 화산 폭발로 인한 해저 케이블 손상에 대한 재난 복구 대처 방안을 미리 마련했다면, 당신은 리스크 관리 분야의 신이다. 그 정도의 예지력이라면 복권을 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/cable-thumb-0120.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[사이버 보안 분야에 M&A가 끊임없이 일어나는 이유]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104256&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104256&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Sat, 22 Jan 2022 04:18:51 GMT</pubDate>
+            <content:encoded><![CDATA[2020년부터 2021년까지, 코로나로 인해 세계 경제는 큰 위기에 빠졌고, 지금도 그 위기는 진행되는 중이다. 그러나 정보 보안 분야는 이 기간 동안 큰 호황을...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/ma-thumb-0120.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
