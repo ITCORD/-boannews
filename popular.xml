@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 22 Jan 2022 19:14:41 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Jan 2022 20:17:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,20 +48,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/20531043_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[2022년의 시작 1월 첫째주, 우리나라에 가장 많이 유포된 악성코드는?]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104139&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104139&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Tue, 18 Jan 2022 03:18:00 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 새해를 시작하면서 우리나라에 가장 많이 유포된 악성코드 유형은 지난해에도 가장 높을 비율을 차지했던 개인정보 및 계정정보 탈취 목적의 인포스틸러 악성코...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/20220116mal-s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[UEFI 펌웨어에 숨어 있는 새 멀웨어, 문바운스 발견돼]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104288&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104288&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Sat, 22 Jan 2022 04:18:51 GMT</pubDate>
             <content:encoded><![CDATA[펌웨어 기반의 룻키트는 해킹 도구로서 그리 보편화 되어 있지는 않다. 하지만 인기가 분명히 오르고는 있다. 피해자 입장에서 탐지가 쉽지 않고, 지우는 것도 쉽지 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/hard-thumb-0121.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022년의 시작 1월 첫째주, 우리나라에 가장 많이 유포된 악성코드는?]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104139&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104139&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Tue, 18 Jan 2022 03:18:00 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 새해를 시작하면서 우리나라에 가장 많이 유포된 악성코드 유형은 지난해에도 가장 높을 비율을 차지했던 개인정보 및 계정정보 탈취 목적의 인포스틸러 악성코...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/20220116mal-s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[오픈소스 소프트웨어 보호하기 위해 백악관과 주요 IT 기업들 만나]]></title>
