@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 22 Jan 2022 12:24:24 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Jan 2022 13:18:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -288,20 +288,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/20220116mal-s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[오픈소스 소프트웨어 보호하기 위해 백악관과 주요 IT 기업들 만나 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104151&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104151&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Wed, 19 Jan 2022 08:17:39 GMT</pubDate>
-            <content:encoded><![CDATA[미국 정부가 ‘백악관 소프트웨어 보안 서밋(White House Software Security Summit)’을 주최해 오픈소스 커뮤니티와 주요 소프트웨어 개발...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/code-thumb-0117.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[UEFI 펌웨어에 숨어 있는 새 멀웨어, 문바운스 발견돼 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104288&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104288&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Sat, 22 Jan 2022 04:18:51 GMT</pubDate>
             <content:encoded><![CDATA[펌웨어 기반의 룻키트는 해킹 도구로서 그리 보편화 되어 있지는 않다. 하지만 인기가 분명히 오르고는 있다. 피해자 입장에서 탐지가 쉽지 않고, 지우는 것도 쉽지 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/hard-thumb-0121.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[오픈소스 소프트웨어 보호하기 위해 백악관과 주요 IT 기업들 만나 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104151&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104151&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Wed, 19 Jan 2022 08:17:39 GMT</pubDate>
+            <content:encoded><![CDATA[미국 정부가 ‘백악관 소프트웨어 보안 서밋(White House Software Security Summit)’을 주최해 오픈소스 커뮤니티와 주요 소프트웨어 개발...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/code-thumb-0117.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[러시아, “레빌은 더 이상 존재하지 않는다”고 자신 있게 발표 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
