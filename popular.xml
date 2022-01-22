@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 22 Jan 2022 09:15:51 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Jan 2022 10:17:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -88,20 +88,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/RESIZEjoong20220114.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[성인용 게임 파일로 위장한 디도스 악성코드 주의!]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104216&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104216&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Thu, 20 Jan 2022 19:12:00 GMT</pubDate>
-            <content:encoded><![CDATA[특정 파일공유 사이트에 성인용 게임으로 위장한 악성 파일을 올려 디도스 공격용 악성코드를 유포하는 사례가 발견돼 사용자의 주의가 당부된다.]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/ahn_011901_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[UEFI 펌웨어에 숨어 있는 새 멀웨어, 문바운스 발견돼]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104288&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104288&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Sat, 22 Jan 2022 04:18:51 GMT</pubDate>
             <content:encoded><![CDATA[펌웨어 기반의 룻키트는 해킹 도구로서 그리 보편화 되어 있지는 않다. 하지만 인기가 분명히 오르고는 있다. 피해자 입장에서 탐지가 쉽지 않고, 지우는 것도 쉽지 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/hard-thumb-0121.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[성인용 게임 파일로 위장한 디도스 악성코드 주의!]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104216&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104216&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Thu, 20 Jan 2022 19:12:00 GMT</pubDate>
+            <content:encoded><![CDATA[특정 파일공유 사이트에 성인용 게임으로 위장한 악성 파일을 올려 디도스 공격용 악성코드를 유포하는 사례가 발견돼 사용자의 주의가 당부된다.]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/ahn_011901_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[취임 인터뷰] 한국정보보호학회 이옥연 회장 “급변하는 미래환경, 보안 연구로 대응할 것”]]></title>
@@ -112,14 +112,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/lee_011701_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[2022년 기업들이 꼽은 IT기술 최우선 투자분야는 ‘IT보안’]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104247&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104247&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
-            <pubDate>Fri, 21 Jan 2022 21:11:22 GMT</pubDate>
-            <content:encoded><![CDATA[글로벌 기업들이 꼽은 2022년 IT기술의 최우선 투자분야로 IT보안이 꼽혔다. 글로벌 오픈소스 솔루션 선도기업 레드햇은 이와 같은 내용이 담긴 ‘2022 글로벌...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/radhat_012001_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[보.알.남] 내 사생활이 인터넷에? 하드디스크와 휴대폰, 안전한 폐기 방법]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104220&amp;page=1&amp;kind=5&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104220&amp;page=1&amp;kind=5&amp;search=title&amp;find=</guid>
@@ -128,12 +120,12 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/RESIZEHARD20220114.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[구글 크롬, 엔드포인트의 직접 접근 제한한다]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104182&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104182&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Fri, 21 Jan 2022 08:18:22 GMT</pubDate>
-            <content:encoded><![CDATA[구글 크롬 팀은 공공 웹사이트들이 사설 망에 접속한 사용자들의 엔드포인트를 직접 접근하지 못하도록 한다는 방침을 적용할 것이라고 발표했다. 이러한 규정은 크롬 9...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/block-thumb-0118.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[2022년 기업들이 꼽은 IT기술 최우선 투자분야는 ‘IT보안’]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104247&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104247&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
+            <pubDate>Fri, 21 Jan 2022 21:11:22 GMT</pubDate>
+            <content:encoded><![CDATA[글로벌 기업들이 꼽은 2022년 IT기술의 최우선 투자분야로 IT보안이 꼽혔다. 글로벌 오픈소스 솔루션 선도기업 레드햇은 이와 같은 내용이 담긴 ‘2022 글로벌...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/radhat_012001_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[통가의 거대 화산 폭발 사태, 세계 통신망의 취약점 드러내다]]></title>
@@ -144,12 +136,12 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/cable-thumb-0120.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[북한에서 배웠나...정치적 목적과 금전적 목적 모두 이루려는 어스루스카]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104186&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104186&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Fri, 21 Jan 2022 09:14:59 GMT</pubDate>
-            <content:encoded><![CDATA[어스루스카(Earth Lusca)라는 공격 단체가 전 세계 여러 나라의 조직들을 대상으로 광범위한 규모의 에스피오나지 캠페인을 벌이고 있는 것이 드러났다. 정보를...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/luc-thumb-0118.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[구글 크롬, 엔드포인트의 직접 접근 제한한다]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104182&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104182&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Fri, 21 Jan 2022 08:18:22 GMT</pubDate>
+            <content:encoded><![CDATA[구글 크롬 팀은 공공 웹사이트들이 사설 망에 접속한 사용자들의 엔드포인트를 직접 접근하지 못하도록 한다는 방침을 적용할 것이라고 발표했다. 이러한 규정은 크롬 9...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/block-thumb-0118.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[사이버 보안 분야에 M&A가 끊임없이 일어나는 이유]]></title>
@@ -158,6 +150,14 @@
             <pubDate>Sat, 22 Jan 2022 06:17:04 GMT</pubDate>
             <content:encoded><![CDATA[2020년부터 2021년까지, 코로나로 인해 세계 경제는 큰 위기에 빠졌고, 지금도 그 위기는 진행되는 중이다. 그러나 정보 보안 분야는 이 기간 동안 큰 호황을...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/ma-thumb-0120.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[북한에서 배웠나...정치적 목적과 금전적 목적 모두 이루려는 어스루스카]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104186&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104186&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Fri, 21 Jan 2022 09:14:59 GMT</pubDate>
+            <content:encoded><![CDATA[어스루스카(Earth Lusca)라는 공격 단체가 전 세계 여러 나라의 조직들을 대상으로 광범위한 규모의 에스피오나지 캠페인을 벌이고 있는 것이 드러났다. 정보를...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/luc-thumb-0118.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[우크라이나 정부 기관 겨냥한 ‘파괴형 멀웨어’, 혹시 러시아?]]></title>
