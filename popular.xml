@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 23 Jan 2022 13:18:23 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Jan 2022 14:15:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -62,14 +62,6 @@
             <pubDate>Sat, 22 Jan 2022 05:13:20 GMT</pubDate>
             <content:encoded><![CDATA[우리가 일상적으로 사용하고 폐기하는 하드디스크와 휴대폰에는 중요한 데이터나 금융정보, 그리고 사생활 관련 내용이 들어있는 경우가 많다. 이러한 정보를 제대로 삭제...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/RESIZEHARD20220114.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022년의 시작 1월 첫째주, 우리나라에 가장 많이 유포된 악성코드는?]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104139&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104139&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Tue, 18 Jan 2022 03:18:00 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 새해를 시작하면서 우리나라에 가장 많이 유포된 악성코드 유형은 지난해에도 가장 높을 비율을 차지했던 개인정보 및 계정정보 탈취 목적의 인포스틸러 악성코...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/20220116mal-s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘기술 유출 사각지대’  중소기업 보호 위한 정부 지원계획 총정리]]></title>
@@ -166,6 +158,14 @@
             <pubDate>Fri, 21 Jan 2022 21:11:22 GMT</pubDate>
             <content:encoded><![CDATA[글로벌 기업들이 꼽은 2022년 IT기술의 최우선 투자분야로 IT보안이 꼽혔다. 글로벌 오픈소스 솔루션 선도기업 레드햇은 이와 같은 내용이 담긴 ‘2022 글로벌...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/radhat_012001_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘Weekly Security Premium Report’ 제35호 발간! 보안담당자가 알아야 할 IT 기술]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104253&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104253&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
+            <pubDate>Sun, 23 Jan 2022 14:13:32 GMT</pubDate>
+            <content:encoded><![CDATA[1월 20일 발간된 ‘Weekly Security Premium Report’ 제35호에는 &lt;보안 심층 리포트&gt; 코너에서 IT·보안종사자라면 2022년...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/20220120REPORT-SM.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
