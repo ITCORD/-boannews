@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 23 Jan 2022 15:18:34 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Jan 2022 16:23:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -320,20 +320,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/lin-thumb-0118.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[러시아, “레빌은 더 이상 존재하지 않는다”고 자신 있게 발표 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104149&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104149&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Wed, 19 Jan 2022 09:15:22 GMT</pubDate>
-            <content:encoded><![CDATA[러시아의 연방안보국(FSB)이 악명 높은 랜섬웨어 공격 단체인 레빌(REvil)의 주요 멤버들을 체포하고 공격 인프라를 폐쇄시켰다. 러시아에 숨어서 활동하는 사이...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/revil-thumb-0117.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[‘의료기기 사이버보안 허가·심사 기준’ 개정... 보안 적용 대상 확대 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104292&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104292&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
             <pubDate>Sun, 23 Jan 2022 01:57:12 GMT</pubDate>
             <content:encoded><![CDATA[식약처는 최근 디지털헬스케어 의료기기나 통신 기술을 이용한 의료기기의 개발이 활성화됨에 따라 해킹 등 보안 사고를 예방하기 위해 ‘의료기기 사이버보안 허가·심사 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/1-233(295).jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[러시아, “레빌은 더 이상 존재하지 않는다”고 자신 있게 발표 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104149&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104149&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Wed, 19 Jan 2022 09:15:22 GMT</pubDate>
+            <content:encoded><![CDATA[러시아의 연방안보국(FSB)이 악명 높은 랜섬웨어 공격 단체인 레빌(REvil)의 주요 멤버들을 체포하고 공격 인프라를 폐쇄시켰다. 러시아에 숨어서 활동하는 사이...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/revil-thumb-0117.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[성인용 게임 파일로 위장한 디도스 악성코드 주의! (보안뉴스 ─ 가장 많이 본 기사)]]></title>
