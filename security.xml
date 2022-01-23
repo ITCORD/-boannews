@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-01-23T14:15:24.660Z</updated>
+    <updated>2022-01-23T15:18:34.035Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[울산시, ‘정보보안 업무규정’ 일부 개정 시행]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104295&amp;page=1&amp;mkind=1&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104295&amp;page=1&amp;mkind=1&amp;kind=2"/>
+        <updated>2022-01-23T15:16:51.991Z</updated>
+        <content type="html"><![CDATA[울산시는 재택근무 활성화와 비대면 업무 서비스의 효율적 추진 지원 등의 내용을 담은 ‘울산시 정보보안 업무규정’ 일부 개정안을 마련해 본격 시행에 들어간다고 밝혔다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘의료기기 사이버보안 허가·심사 기준’ 개정... 보안 적용 대상 확대]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=104292&amp;page=1&amp;mkind=1&amp;kind=2</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=104253&amp;page=1&amp;mkind=1&amp;kind=3"/>
         <updated>2022-01-21T02:33:44.699Z</updated>
         <content type="html"><![CDATA[1월 20일 발간된 ‘Weekly Security Premium Report’ 제35호에는 &lt;보안 심층 리포트&gt; 코너에서 IT·보안종사자라면 2022년 꼭 짚고 넘어가야 할 최신 IT 기술 트렌드를 공유하는 시간을 마련했다. 또한, &lt;꼭 알아야 할 한 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[소프트웨어 취약점 패치, 속도보다 정확도가 중요하다]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104254&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104254&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-01-20T14:14:07.733Z</updated>
-        <content type="html"><![CDATA[CVSS 점수를 기준으로 패치 전략을 만드는 조직들이 상당히 많다. CVSS를 기준으로 점수가 높은 취약점들을 먼저 패치한다는 식이다. 아무 취약점이나 닥치는 대로, 혹은 상황이 허락하는 대로 패치하는 것보다 나은 전략이지만, 그렇다고 엄청나게 효과적이라고 보기는 힘들...]]></content>
     </entry>
 </feed>
