@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-01-24T13:21:03.202Z</updated>
+    <updated>2022-01-24T14:15:56.626Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[오픈서브타이틀즈 데이터 침해 사고, 700만 명 영향 줘]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104311&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104311&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-01-24T14:14:17.896Z</updated>
+        <content type="html"><![CDATA[영화 자막을 제공하는 유명 웹사이트인 오픈서브타이틀즈(OpenSubtitles)라는 곳에서 대형 정보 침해 사고가 발생했다. 이 때문에 해당 사이트를 이용하는 구독자 700만 명의 정보가 유출됐다. 이메일 주소, IP 주소, 사용자 이름, MD5 해시 등의 정보가 새나...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FBI, 악성 큐알코드 이용한 금융 사고에 대해 경고]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=104310&amp;page=1&amp;mkind=1&amp;kind=1</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=104263&amp;page=1&amp;mkind=1&amp;kind=2"/>
         <updated>2022-01-21T03:15:18.101Z</updated>
         <content type="html"><![CDATA[한국교육학술정보원(KERIS)은 2022년 1월 ‘인공지능 사이버위협 자동판별시스템’에 대한 개발 및 특허출원을 완료하고 서비스를 실시한다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[기묘한 스파이웨어 캠페인, 여러 공업 업체들 공격해]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104286&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104286&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-01-21T02:33:44.674Z</updated>
-        <content type="html"><![CDATA[여러 가지 스파이웨어를 동원한 해킹 공격이 탐지됐다. 보통 스파이웨어는 정보를 수집하기 위해 사용되고, 정보를 수집하려면 오랜 기간 피해자의 네트워크나 장비에 머물러 있어야 하기 때문에 공격 기간이 긴 것이 보통이다. 그런데 이 캠페인은 공격 시간이 짧다고 한다. 일반...]]></content>
     </entry>
 </feed>
