@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Jan 2022 07:21:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Jan 2022 08:20:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -56,6 +56,14 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/20531043_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[2022년에도 계속되는 로그4j 사태... 3가지 취약점 추가 공개]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104304&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104304&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Mon, 24 Jan 2022 03:18:35 GMT</pubDate>
+            <content:encoded><![CDATA[아파치재단이 로그4j(Log4j)에 대한 보안공지를 발표했다. 이번 공지는 CVE-2022-23302, CVE-2022-23305, CVE-2022-23307 취...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/apache_012301_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘의료기기 사이버보안 허가·심사 기준’ 개정... 보안 적용 대상 확대]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104292&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104292&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
@@ -70,14 +78,6 @@
             <pubDate>Sat, 22 Jan 2022 23:14:12 GMT</pubDate>
             <content:encoded><![CDATA[구로구가 국토교통부 주관 ‘2021년 지적전산자료 공동 이용 실태 평가’에서 국토교통부장관 표창을 수상했다. 서울시 자치구 중에서는 구로구가 유일하게 우수기관으로...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/1-244(295).jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022년에도 계속되는 로그4j 사태... 3가지 취약점 추가 공개]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104304&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104304&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Mon, 24 Jan 2022 03:18:35 GMT</pubDate>
-            <content:encoded><![CDATA[아파치재단이 로그4j(Log4j)에 대한 보안공지를 발표했다. 이번 공지는 CVE-2022-23302, CVE-2022-23305, CVE-2022-23307 취...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/apache_012301_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[구로구, 지역별 맞춤형 ‘구로형 스마트폴’ 116개소 설치]]></title>
@@ -120,14 +120,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/ahn_011901_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[취임 인터뷰] 한국정보보호학회 이옥연 회장 “급변하는 미래환경, 보안 연구로 대응할 것”]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104150&amp;page=1&amp;kind=6&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104150&amp;page=1&amp;kind=6&amp;search=title&amp;find=</guid>
-            <pubDate>Thu, 20 Jan 2022 08:18:00 GMT</pubDate>
-            <content:encoded><![CDATA[국내를 대표하는 정보보호 분야 학회인 한국정보보호학회가 지난 1월 14일 신년인사회 및 이·취임식을 열고 이옥연 국민대학교 교수를 제27대 회장으로 추대했다. 한...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/lee_011701_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[통가의 거대 화산 폭발 사태, 세계 통신망의 취약점 드러내다]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104257&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104257&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
@@ -166,6 +158,14 @@
             <pubDate>Mon, 24 Jan 2022 07:19:45 GMT</pubDate>
             <content:encoded><![CDATA[1월 20일 발간된 ‘Weekly Security Premium Report’ 제35호에는 &lt;보안 심층 리포트&gt; 코너에서 IT·보안종사자라면 2022년...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/20220120REPORT-SM.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[줌 클라이언트와 MMR 서버의 제로데이 취약점, 상세히 공개돼]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104285&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104285&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Mon, 24 Jan 2022 08:18:37 GMT</pubDate>
+            <content:encoded><![CDATA[지난 11월, 구글의 보안 전문가가 줌(Zoom)이라는 인기 높은 화상 회의 앱에서 제로데이, 제로클릭 취약점을 발견한 바 있다. 디도스, 악성 코드 실행, 임의...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/zoom-thumb-0121.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
