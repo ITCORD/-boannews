@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Jan 2022 04:21:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Jan 2022 05:15:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -96,6 +96,14 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/lin-thumb-0118.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[2022년에도 계속되는 로그4j 사태... 3가지 취약점 추가 공개]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104304&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104304&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Mon, 24 Jan 2022 03:18:35 GMT</pubDate>
+            <content:encoded><![CDATA[아파치재단이 로그4j(Log4j)에 대한 보안공지를 발표했다. 이번 공지는 CVE-2022-23302, CVE-2022-23305, CVE-2022-23307 취...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/apache_012301_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[오픈소스 소프트웨어 보호하기 위해 백악관과 주요 IT 기업들 만나]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104151&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104151&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
@@ -118,14 +126,6 @@
             <pubDate>Thu, 20 Jan 2022 19:12:00 GMT</pubDate>
             <content:encoded><![CDATA[특정 파일공유 사이트에 성인용 게임으로 위장한 악성 파일을 올려 디도스 공격용 악성코드를 유포하는 사례가 발견돼 사용자의 주의가 당부된다.]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/ahn_011901_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022년에도 계속되는 로그4j 사태... 3가지 취약점 추가 공개]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104304&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104304&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Mon, 24 Jan 2022 03:18:35 GMT</pubDate>
-            <content:encoded><![CDATA[아파치재단이 로그4j(Log4j)에 대한 보안공지를 발표했다. 이번 공지는 CVE-2022-23302, CVE-2022-23305, CVE-2022-23307 취...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/apache_012301_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[취임 인터뷰] 한국정보보호학회 이옥연 회장 “급변하는 미래환경, 보안 연구로 대응할 것”]]></title>
