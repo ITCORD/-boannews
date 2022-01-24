@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Jan 2022 02:05:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Jan 2022 03:20:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -88,20 +88,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/RESIZEjoong20220114.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[오픈소스 소프트웨어 보호하기 위해 백악관과 주요 IT 기업들 만나]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104151&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104151&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Wed, 19 Jan 2022 08:17:39 GMT</pubDate>
-            <content:encoded><![CDATA[미국 정부가 ‘백악관 소프트웨어 보안 서밋(White House Software Security Summit)’을 주최해 오픈소스 커뮤니티와 주요 소프트웨어 개발...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/code-thumb-0117.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[새로운 리눅스 기반 랜섬웨어, 에스칼 나타나]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104179&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104179&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Thu, 20 Jan 2022 06:17:58 GMT</pubDate>
             <content:encoded><![CDATA[에스파일(SFile) 혹은 에스칼(Escal)이라고 불리는 랜섬웨어 운영자들이, 자신들의 랜섬웨어의 리눅스 버전을 개발해 사용하기 시작했다. 에스칼은 2020년부...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/lin-thumb-0118.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[오픈소스 소프트웨어 보호하기 위해 백악관과 주요 IT 기업들 만나]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104151&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104151&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Wed, 19 Jan 2022 08:17:39 GMT</pubDate>
+            <content:encoded><![CDATA[미국 정부가 ‘백악관 소프트웨어 보안 서밋(White House Software Security Summit)’을 주최해 오픈소스 커뮤니티와 주요 소프트웨어 개발...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/code-thumb-0117.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[러시아, “레빌은 더 이상 존재하지 않는다”고 자신 있게 발표]]></title>
@@ -144,6 +144,14 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/ma-thumb-0120.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[2022년에도 계속되는 로그4j 사태... 3가지 취약점 추가 공개]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104304&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104304&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Mon, 24 Jan 2022 03:18:35 GMT</pubDate>
+            <content:encoded><![CDATA[아파치재단이 로그4j(Log4j)에 대한 보안공지를 발표했다. 이번 공지는 CVE-2022-23302, CVE-2022-23305, CVE-2022-23307 취...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/apache_012301_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[2022년 기업들이 꼽은 IT기술 최우선 투자분야는 ‘IT보안’]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104247&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104247&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
@@ -158,14 +166,6 @@
             <pubDate>Sun, 23 Jan 2022 14:13:32 GMT</pubDate>
             <content:encoded><![CDATA[1월 20일 발간된 ‘Weekly Security Premium Report’ 제35호에는 &lt;보안 심층 리포트&gt; 코너에서 IT·보안종사자라면 2022년...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/20220120REPORT-SM.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[ETRI, ‘2022년 10대 기술 전망’ 발표]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104296&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104296&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
-            <pubDate>Sun, 23 Jan 2022 23:14:21 GMT</pubDate>
-            <content:encoded><![CDATA[한국전자통신연구원(ETRI)은 ‘ETRI가 바라본 2022년 10대 기술 전망’ 보고서를 발간했다. 10대 기술은 ETRI 연구진의 분석과 국내외 기술동향 보고서...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/1-237(295).jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
