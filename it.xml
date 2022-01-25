@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=2</id>
     <title>보안뉴스 ─ IT</title>
-    <updated>2022-01-25T04:21:06.135Z</updated>
+    <updated>2022-01-25T05:15:43.123Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[건설연, 에너지 취약계층을 위한 노후 건축물 데이터 플랫폼 개발]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104317&amp;page=1&amp;mkind=2&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104317&amp;page=1&amp;mkind=2&amp;kind=3"/>
+        <updated>2022-01-25T05:14:11.841Z</updated>
+        <content type="html"><![CDATA[한국건설기술연구원은 에너지 취약계층을 위해 건축물의 노후화를 진단할 수 있는 데이터 플랫폼을 개발했다고 밝혔다. 건설연이 개발한 ‘에너지 취약계층을 위한 건축물 노후화 진단 데이터 플랫폼(이하 노후 건축물’은 크게 3단계로 진행된다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[경남도, 스마트공장 고도화 지원 강화로 산업구조 고도화 추진]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=104318&amp;page=1&amp;mkind=2&amp;kind=2</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=104291&amp;page=1&amp;mkind=2&amp;kind=2"/>
         <updated>2022-01-22T00:49:33.120Z</updated>
         <content type="html"><![CDATA[과학기술정보통신부는 지난 21일 ‘소재·부품·장비 국가연구인프라(3N)’ 51개 지정기관, 유관기업 및 산학연 전문가와 함께 성과교류회를 개최한다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전기차 충전 기반시설 특허 창출 전 세계 1위 위해 산업계와 머리 맞댄다]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104290&amp;page=1&amp;mkind=2&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104290&amp;page=1&amp;mkind=2&amp;kind=2"/>
-        <updated>2022-01-22T00:49:33.120Z</updated>
-        <content type="html"><![CDATA[특허청은 ‘전기차 충전 기반시설(Infra) 분야 지식재산(IP) 협의체 간담회’를 오는 24일 오후 2시 특허청 서울사무소(강남구 역삼동)에서 개최한다. 간담회는 탄소중립 핵심 분야인 ‘전기차’ 보급 확대를 위한 ‘전기차 충전 기반시설 분야’의 주요 기술, 산업 및 ...]]></content>
     </entry>
 </feed>
