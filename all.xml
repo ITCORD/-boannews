@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Jan 2022 03:18:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jan 2022 04:21:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -319,20 +319,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/RESIZEjoong20220114.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[새로운 리눅스 기반 랜섬웨어, 에스칼 나타나 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104179&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104179&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Thu, 20 Jan 2022 06:17:58 GMT</pubDate>
-            <content:encoded><![CDATA[에스파일(SFile) 혹은 에스칼(Escal)이라고 불리는 랜섬웨어 운영자들이, 자신들의 랜섬웨어의 리눅스 버전을 개발해 사용하기 시작했다. 에스칼은 2020년부...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/lin-thumb-0118.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[털린 내 개인정보, 다크웹·인터넷에 유출됐나 확인했더니 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104279&amp;page=1&amp;kind=5&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104279&amp;page=1&amp;kind=5&amp;search=title&amp;find=</guid>
             <pubDate>Tue, 25 Jan 2022 00:57:12 GMT</pubDate>
             <content:encoded><![CDATA[스팸성 전화와 문자, 메일을 매일같이 받아보는 것이 어느새 한국인의 일상이 됐다. 이쯤 되면 도대체 내 정보는 언제 어떻게 털린 걸까라는 의문이 들 법도 하다. ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/RESIZEinfo20220117).jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[새로운 리눅스 기반 랜섬웨어, 에스칼 나타나 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104179&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104179&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Thu, 20 Jan 2022 06:17:58 GMT</pubDate>
+            <content:encoded><![CDATA[에스파일(SFile) 혹은 에스칼(Escal)이라고 불리는 랜섬웨어 운영자들이, 자신들의 랜섬웨어의 리눅스 버전을 개발해 사용하기 시작했다. 에스칼은 2020년부...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/lin-thumb-0118.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[성인용 게임 파일로 위장한 디도스 악성코드 주의! (보안뉴스 ─ 가장 많이 본 기사)]]></title>
