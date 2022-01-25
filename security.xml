@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-01-25T11:14:51.203Z</updated>
+    <updated>2022-01-25T13:20:21.070Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[비욘드트러스트, 아이리스인포테크와 함께 2022년 한국시장 공략 나선다]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104342&amp;page=1&amp;mkind=1&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104342&amp;page=1&amp;mkind=1&amp;kind=3"/>
+        <updated>2022-01-25T13:18:44.415Z</updated>
+        <content type="html"><![CDATA[PAM(Privileged Access Management) 분야의 글로벌 기업인 비욘드트러스트(BeyondTrust)가 새 수장으로 장해성 지사장을 맞이하고 파트너인 아이리스인포테크(대표 조광희)와 함께 2022년 한국시장 공략에 나섰다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CWP에서 발견된 취약점, 리눅스 서버들을 위험하게 만든다]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=104340&amp;page=1&amp;mkind=1&amp;kind=1</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=104310&amp;page=1&amp;mkind=1&amp;kind=1"/>
         <updated>2022-01-24T08:18:46.533Z</updated>
         <content type="html"><![CDATA[FBI가 악성 큐알코드를 활용한 사이버 범죄가 기승을 부리고 있다고 경고했다. 큐알코드를 통해 크리덴셜과 각종 금융 정보를 훔치고 있다고 한다. 각종 기업들이 고객의 편리한 결제를 위해 사용하는 큐알코드를 공격자들이 자기들의 것으로 대체함으로써 피해자들이 엉뚱한 사이트...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사이버 공격 단체 몰랫츠, 공공 클라우드 서비스 이용해 공격]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104309&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104309&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-01-24T03:18:43.592Z</updated>
-        <content type="html"><![CDATA[몰랫츠(Molerats)라는 사이버 공격 단체가 대형 클라우드 서비스를 공격 인프라로 활용하는 것이 적발됐다. 구글 드라이브와 드롭박스가 공격에 이용되고 있다고 보안 업체 지스케일러(Zscaler)가 발표했다. 클라우드에 자신들이 사용할 악성 코드를 호스팅한 후 공격자...]]></content>
     </entry>
 </feed>
