@@ -4,9 +4,17 @@
         <title>보안뉴스 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Jan 2022 08:20:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jan 2022 09:17:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[긴급] 국방 관련 전문가 좌담회로 위장한 악성메일 유포중]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104344&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104344&amp;page=1&amp;kind=1</guid>
+            <pubDate>Tue, 25 Jan 2022 09:15:12 GMT</pubDate>
+            <content:encoded><![CDATA[최근 국방 관련 전문가 좌담회 토론자 초청으로 위장한 악성메일이 유포되고 있어 국내 사용자들의 각별한 주의가 필요하다고 보안전문기업 하우리가 밝혔다.]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/hauri_012501_main.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[비욘드트러스트, 아이리스인포테크와 함께 2022년 한국시장 공략 나선다]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104342&amp;page=1&amp;kind=3</link>
@@ -78,6 +86,13 @@
             <pubDate>Tue, 25 Jan 2022 02:04:45 GMT</pubDate>
             <content:encoded><![CDATA[최근 ‘Don’t forget to pay the tax within 2 days!’라는 제목으로 혹스(Hoax) 메일이 유포 중에 있어 사용자들의 주의가...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/20220127report-S.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[개인정보위, ‘신년 시민단체 개인정보 정책 간담회’ 개최]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104343&amp;page=1&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104343&amp;page=1&amp;kind=2</guid>
+            <pubDate>Tue, 25 Jan 2022 09:15:12 GMT</pubDate>
+            <content:encoded><![CDATA[개인정보보호위원회(위원장 윤종인, 이하‘개인정보위’)는 1월 25일(화) 정부서울청사에서, 2022년 새해를 맞아 개인정보 전망과 과제에 대해 논의하기 위...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[가상자산 범죄 중 가장 큰 비중 차지한 스캠, 지난해 피해액만 9조원]]></title>
@@ -221,22 +236,6 @@
             <pubDate>Mon, 24 Jan 2022 14:14:00 GMT</pubDate>
             <content:encoded><![CDATA[클라우드 환경에서 발생하는 거의 모든 데이터 침해 사고는 환경 설정 오류와 이래저래 관련되어 있다. 한 때는 이런 실수가 쉴 새 없이 일어났고, 트위치, ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/clo-0thumb-0124.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[러시아의 레빌 체포 작전, 다크웹에 커다란 공포심 심었다]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104313&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104313&amp;page=1&amp;kind=1</guid>
-            <pubDate>Mon, 24 Jan 2022 08:18:28 GMT</pubDate>
-            <content:encoded><![CDATA[사이버 범죄 활동을 억제하기 위한 사법 기관의 노력은 사이버 범죄자들 사이에 그리 큰 파장을 일으키지 않는 것이 보통이다. 하지만 지난 주 러시아에서 있었...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/fear-thumb-0124.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[인터뷰] 정태웅 에스카 대표 “탄탄한 기술력으로 저시정 영상개선 솔루션 시장 선도”]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104252&amp;page=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104252&amp;page=1&amp;kind=3</guid>
-            <pubDate>Mon, 24 Jan 2022 08:18:28 GMT</pubDate>
-            <content:encoded><![CDATA[에스카는 저시정 영상개선 솔루션 분야에 있어서 탄탄한 기술력을 갖춘 업체다. 이러한 기술력을 인정받아 지난해 대한민국 안전기술대상 국무총리상과 중소벤처기업...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/RESIZEJUNG20220120(0).jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
