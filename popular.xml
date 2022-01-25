@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Jan 2022 05:15:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jan 2022 06:19:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -96,14 +96,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/RESIZEinfo20220117).jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[새로운 리눅스 기반 랜섬웨어, 에스칼 나타나]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104179&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104179&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Thu, 20 Jan 2022 06:17:58 GMT</pubDate>
-            <content:encoded><![CDATA[에스파일(SFile) 혹은 에스칼(Escal)이라고 불리는 랜섬웨어 운영자들이, 자신들의 랜섬웨어의 리눅스 버전을 개발해 사용하기 시작했다. 에스칼은 2020년부...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/lin-thumb-0118.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[성인용 게임 파일로 위장한 디도스 악성코드 주의!]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104216&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104216&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
@@ -160,12 +152,19 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/zoom-thumb-0121.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[구글 크롬, 엔드포인트의 직접 접근 제한한다]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104182&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104182&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Mon, 24 Jan 2022 10:16:12 GMT</pubDate>
-            <content:encoded><![CDATA[구글 크롬 팀은 공공 웹사이트들이 사설 망에 접속한 사용자들의 엔드포인트를 직접 접근하지 못하도록 한다는 방침을 적용할 것이라고 발표했다. 이러한 규정은 크롬 9...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/block-thumb-0118.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[부산시, 전국 최초 ‘여성친화형 1인 가구 안전복합타운’ 조성 추진]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104302&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104302&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
+            <pubDate>Tue, 25 Jan 2022 06:17:53 GMT</pubDate>
+            <content:encoded><![CDATA[부산시는 혼자 사는 여성의 생활안전을 보장하기 위해 원룸 밀집 지역인 금정구 장전동, 남구 대연동에 ‘여성친화형 1인 가구 복합타운’을 조성한다고 밝혔다.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[북한에서 배웠나...정치적 목적과 금전적 목적 모두 이루려는 어스루스카]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104186&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104186&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Tue, 25 Jan 2022 06:17:53 GMT</pubDate>
+            <content:encoded><![CDATA[어스루스카(Earth Lusca)라는 공격 단체가 전 세계 여러 나라의 조직들을 대상으로 광범위한 규모의 에스피오나지 캠페인을 벌이고 있는 것이 드러났다. 정보를...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/luc-thumb-0118.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

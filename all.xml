@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 25 Jan 2022 05:15:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jan 2022 06:19:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[비욘드트러스트, 아이리스인포테크와 함께 2022년 한국시장 공략 나선다 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104342&amp;page=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104342&amp;page=1&amp;kind=3</guid>
+            <pubDate>Tue, 25 Jan 2022 06:17:45 GMT</pubDate>
+            <content:encoded><![CDATA[PAM(Privileged Access Management) 분야의 글로벌 기업인 비욘드트러스트(BeyondTrust)가 새 수장으로 장해성 지사장을 맞이...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/beyond_012501_main.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[IT 기술의 관점에서 2021년 되돌아보기 (보안뉴스 ─ 전체기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104341&amp;page=1&amp;kind=3</link>
@@ -231,14 +239,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/RESIZEJUNG20220120(0).jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[털린 내 개인정보, 다크웹·인터넷에 유출됐나 확인했더니 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104279&amp;page=1&amp;kind=5</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104279&amp;page=1&amp;kind=5</guid>
-            <pubDate>Mon, 24 Jan 2022 03:18:25 GMT</pubDate>
-            <content:encoded><![CDATA[스팸성 전화와 문자, 메일을 매일같이 받아보는 것이 어느새 한국인의 일상이 됐다. 이쯤 되면 도대체 내 정보는 언제 어떻게 털린 걸까라는 의문이 들 법도 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/RESIZEinfo20220117).jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[단독] 국내 심스와핑 3번째 피해자 발생... KT 사용자 또 ‘스마트폰 먹통’ (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104183&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104183&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
@@ -327,14 +327,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/RESIZEinfo20220117).jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[새로운 리눅스 기반 랜섬웨어, 에스칼 나타나 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104179&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104179&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Thu, 20 Jan 2022 06:17:58 GMT</pubDate>
-            <content:encoded><![CDATA[에스파일(SFile) 혹은 에스칼(Escal)이라고 불리는 랜섬웨어 운영자들이, 자신들의 랜섬웨어의 리눅스 버전을 개발해 사용하기 시작했다. 에스칼은 2020년부...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/lin-thumb-0118.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[성인용 게임 파일로 위장한 디도스 악성코드 주의! (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104216&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104216&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
@@ -391,12 +383,26 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/zoom-thumb-0121.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[구글 크롬, 엔드포인트의 직접 접근 제한한다 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104182&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104182&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Mon, 24 Jan 2022 10:16:12 GMT</pubDate>
-            <content:encoded><![CDATA[구글 크롬 팀은 공공 웹사이트들이 사설 망에 접속한 사용자들의 엔드포인트를 직접 접근하지 못하도록 한다는 방침을 적용할 것이라고 발표했다. 이러한 규정은 크롬 9...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/block-thumb-0118.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[부산시, 전국 최초 ‘여성친화형 1인 가구 안전복합타운’ 조성 추진 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104302&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104302&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
+            <pubDate>Tue, 25 Jan 2022 06:17:53 GMT</pubDate>
+            <content:encoded><![CDATA[부산시는 혼자 사는 여성의 생활안전을 보장하기 위해 원룸 밀집 지역인 금정구 장전동, 남구 대연동에 ‘여성친화형 1인 가구 복합타운’을 조성한다고 밝혔다.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[북한에서 배웠나...정치적 목적과 금전적 목적 모두 이루려는 어스루스카 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104186&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104186&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Tue, 25 Jan 2022 06:17:53 GMT</pubDate>
+            <content:encoded><![CDATA[어스루스카(Earth Lusca)라는 공격 단체가 전 세계 여러 나라의 조직들을 대상으로 광범위한 규모의 에스피오나지 캠페인을 벌이고 있는 것이 드러났다. 정보를...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/luc-thumb-0118.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[마이크로소프트, 엑셀 4.0 매크로 기능을 제한한다 (보안뉴스 ─ SECURITY)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104338&amp;page=1&amp;mkind=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104338&amp;page=1&amp;mkind=1&amp;kind=1</guid>
+            <pubDate>Tue, 25 Jan 2022 06:18:02 GMT</pubDate>
+            <content:encoded><![CDATA[마이크로소프트가 자사 제품인 엑셀 4.0 버전의 매크로를 기본적으로 금지시킨다고 발표했다. 즉 디폴트 상태 그대로인 엑셀 4.0은 매크로 기능을 활용하지 못한다는 것이다. 매크로는 단순 반복 작업을 자동으로 수행함으로써 사용자의 편의성을 극대화한 기능이지만, 최근 몇 ...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[이모텟 운영자들, 기묘한 IP 주소 사용하기 시작 (보안뉴스 ─ SECURITY)]]></title>
@@ -509,13 +515,6 @@
             <guid>https://www.boannews.com/media/view.asp?idx=104307&amp;page=1&amp;mkind=1&amp;kind=1</guid>
             <pubDate>Mon, 24 Jan 2022 03:18:43 GMT</pubDate>
             <content:encoded><![CDATA[안티스팸 연구를 진행하는 단체인 스팸하우스(Spamhaus)가 DNS-over-HTTPS라는 기술 때문에 봇넷의 추적이 어려워진다고 발표했다. DoH는 DNS 정보를 암호화해서 프라이버시를 강화하는 기술로, 주요 웹 브라우저 제조사들은 이 기술을 보편적으로 도입하고 있...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[안랩, 임직원 자녀 대상 온라인 코딩 교육 ‘미래상상 코딩캠프’ 개최 (보안뉴스 ─ SECURITY)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104306&amp;page=1&amp;mkind=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104306&amp;page=1&amp;mkind=1&amp;kind=3</guid>
-            <pubDate>Mon, 24 Jan 2022 03:18:43 GMT</pubDate>
-            <content:encoded><![CDATA[안랩(대표 강석균)이 1월 24일부터 26일까지 3일간 임직원의 초·중등학생 자녀를 대상으로 온라인 코딩 교육 ‘2022 겨울방학 미래상상 코딩캠프(이하 ‘미래상상 코딩캠프’)를 개최한다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[건설연, 에너지 취약계층을 위한 노후 건축물 데이터 플랫폼 개발 (보안뉴스 ─ IT)]]></title>
@@ -2452,6 +2451,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2021/11/20211201cctv-s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[비욘드트러스트, 아이리스인포테크와 함께 2022년 한국시장 공략 나선다 (보안뉴스 ─ 기업뉴스)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104342&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104342&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=</guid>
+            <pubDate>Tue, 25 Jan 2022 06:19:29 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/view.asp?idx=104342&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=">
+					
+					<img src="/media/upFiles2/2022/01/beyond_012501_main.jpg" alt="" class="news_img" height="70">
+					
+					<span class="news_txt">비욘드트러스트, 아이리스인포테크와 함께 2022년 한국시장 공략 나선다</span>
+					</a><br>
+					<a href="/media/view.asp?idx=104342&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=">PAM(Privileged Access Management) 분야의 글로벌 기업인 비욘드트러스트(BeyondTrust)가 새 수장으로 장해성 지사장을 맞이하고 파...</a> <span class="news_writer">원병철 기자 | 2022년 01월 25일 14:23</span>]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/beyond_012501_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[화웨이, ‘글로벌 테크포굿 경연 대회’ 우승 팀 발표 (보안뉴스 ─ 기업뉴스)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104331&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104331&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=</guid>
@@ -2716,20 +2729,6 @@
 					</a><br>
 					<a href="/media/view.asp?idx=104033&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=">SecOps 플랫폼 전문 기업 로그프레소(대표 양봉열)는 자체 기술로 만든 빅데이터 엔진이 TTA 소프트웨어시험인증연구소의 V&amp;V(확인 및 검증) 시험에서 최고 ...</a> <span class="news_writer">원병철 기자 | 2022년 01월 11일 11:21</span>]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/log_011101_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아이브스, 공간정보기술·KCS와 해운대구 공동구 스마트관리 시스템 구축 완료 (보안뉴스 ─ 기업뉴스)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=103999&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=103999&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=</guid>
-            <pubDate>Wed, 12 Jan 2022 20:16:55 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/view.asp?idx=103999&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=">
-					
-					<img src="/media/upFiles2/2022/01/22011001ss.jpg" alt="" class="news_img" height="70">
-					
-					<span class="news_txt">아이브스, 공간정보기술·KCS와 해운대구 공동구 스마트관리 시스템 구축 완료</span>
-					</a><br>
-					<a href="/media/view.asp?idx=103999&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=">아이브스(대표 배영훈)가 부산광역시 해운대구 지하공동구에 전력, 통신, 상수도를 관리하는 스마트 관리 시스템 구축을 완료했다고 밝혔다. 해운대구 지하공동구 스마트...</a> <span class="news_writer">엄호식 기자 | 2022년 01월 10일 13:51</span>]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/22011001ss.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[인사] 한국인터넷진흥원 (보안뉴스 ─ 인사 부고)]]></title>

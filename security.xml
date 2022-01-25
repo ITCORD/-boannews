@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-01-25T05:15:43.126Z</updated>
+    <updated>2022-01-25T06:19:38.958Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[마이크로소프트, 엑셀 4.0 매크로 기능을 제한한다]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104338&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104338&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-01-25T06:18:02.116Z</updated>
+        <content type="html"><![CDATA[마이크로소프트가 자사 제품인 엑셀 4.0 버전의 매크로를 기본적으로 금지시킨다고 발표했다. 즉 디폴트 상태 그대로인 엑셀 4.0은 매크로 기능을 활용하지 못한다는 것이다. 매크로는 단순 반복 작업을 자동으로 수행함으로써 사용자의 편의성을 극대화한 기능이지만, 최근 몇 ...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이모텟 운영자들, 기묘한 IP 주소 사용하기 시작]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=104337&amp;page=1&amp;mkind=1&amp;kind=1</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=104307&amp;page=1&amp;mkind=1&amp;kind=1"/>
         <updated>2022-01-24T03:18:43.595Z</updated>
         <content type="html"><![CDATA[안티스팸 연구를 진행하는 단체인 스팸하우스(Spamhaus)가 DNS-over-HTTPS라는 기술 때문에 봇넷의 추적이 어려워진다고 발표했다. DoH는 DNS 정보를 암호화해서 프라이버시를 강화하는 기술로, 주요 웹 브라우저 제조사들은 이 기술을 보편적으로 도입하고 있...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[안랩, 임직원 자녀 대상 온라인 코딩 교육 ‘미래상상 코딩캠프’ 개최]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104306&amp;page=1&amp;mkind=1&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104306&amp;page=1&amp;mkind=1&amp;kind=3"/>
-        <updated>2022-01-24T03:18:43.597Z</updated>
-        <content type="html"><![CDATA[안랩(대표 강석균)이 1월 24일부터 26일까지 3일간 임직원의 초·중등학생 자녀를 대상으로 온라인 코딩 교육 ‘2022 겨울방학 미래상상 코딩캠프(이하 ‘미래상상 코딩캠프’)를 개최한다.]]></content>
     </entry>
 </feed>
