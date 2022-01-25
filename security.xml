@@ -2,9 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-01-25T02:06:37.397Z</updated>
+    <updated>2022-01-25T03:18:06.051Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이모텟 운영자들, 기묘한 IP 주소 사용하기 시작]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104337&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104337&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-01-25T03:16:14.517Z</updated>
+        <content type="html"><![CDATA[이모텟(Emotet)이라는 악명 높은 멀웨어를 운영하는 자들이 기묘한 포맷의 IP 주소를 사용하기 시작했다. 16진법(h^tt^p^:/^/0xc12a24f5/cc.html)과 8진법(h^tt^p^:/^/0056.0151.0121.0114/c.html)의 숫자를 사용함으...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[프로그래밍 언어 러스트에서 파일 삭제 오류 발견돼]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104336&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104336&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-01-25T03:16:14.521Z</updated>
+        <content type="html"><![CDATA[최근 각광받고 있는 프로그래밍 언어인 러스트(Rust)에서 위험한 취약점이 발견됐다. 익스플로잇 할 경우 파일과 디렉토리를 공격자가 임의로 삭제할 수 있게 해 주는 취약점이라고 한다. CVE-2022-21658로, 표준 라이브러리 함수 중 하나인 std::fs::rem...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[미 국토안보부, 러시아의 사이버 공격 가능성 높게 보고 있어]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104335&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104335&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-01-25T03:16:14.530Z</updated>
+        <content type="html"><![CDATA[미국 국토안보부가 러시아의 사이버 공격 가능성을 높게 보고 있다는 내부 문건이 발견됐다. 현재 우크라이나의 침공 가능성을 높게 보고 있는 미국의 움직임이 러시아의 국가 안보를 위협한다고 러시아 정부가 판단할 경우, 사이버 공격이 반드시 있을 거라고 국토안보부는 예상하고...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[당신 메일 해킹해 음란행위 동영상 확보했다? 혹스 메일 또 유포]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104334&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104334&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-01-25T03:16:14.531Z</updated>
+        <content type="html"><![CDATA[최근 ‘Don’t forget to pay the tax within 2 days!’라는 제목으로 혹스(Hoax) 메일이 유포 중에 있어 사용자들의 주의가 필요하다. 이번 혹스 메일은 영문으로 발송된 것으로 드러났다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[가상자산 범죄 중 가장 큰 비중 차지한 스캠, 지난해 피해액만 9조원]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104333&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104333&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-01-25T03:16:14.534Z</updated>
+        <content type="html"><![CDATA[최근 가상자산을 노리는 범죄가 늘어가고 있는 가운데, 가장 큰 비중을 차지하는 범죄 유형은 스캠(scam)으로, 특히 스캠의 새로운 형태인 러그풀(Rug Pull)이 가상자산을 위협하고 있다는 보고서가 나왔다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[취임 인터뷰] 한국인터넷정보학회 한명묵 회장 “소통하는 학회 만들 것”]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104312&amp;page=1&amp;mkind=1&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104312&amp;page=1&amp;mkind=1&amp;kind=2"/>
+        <updated>2022-01-25T03:16:14.535Z</updated>
+        <content type="html"><![CDATA[올해 22주년을 맞이한 한국인터넷정보학회는 인터넷 강국으로 불리는 우리나라의 인터넷 환경이 구축되는데 일조한 국내 대표 인터넷 관련 학술모임이다. 특히, 한국인터넷정보학회는 SCI급 논문인 SCIE에 등재된 영문 학술지 ‘TIIS 국제저널’을 발간해 국내외 학술계에서 ...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[인사] 한국인터넷진흥원]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=104332&amp;page=1&amp;mkind=1&amp;kind=2</id>
@@ -81,47 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=104306&amp;page=1&amp;mkind=1&amp;kind=3"/>
         <updated>2022-01-24T03:18:43.597Z</updated>
         <content type="html"><![CDATA[안랩(대표 강석균)이 1월 24일부터 26일까지 3일간 임직원의 초·중등학생 자녀를 대상으로 온라인 코딩 교육 ‘2022 겨울방학 미래상상 코딩캠프(이하 ‘미래상상 코딩캠프’)를 개최한다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022년에도 계속되는 로그4j 사태... 3가지 취약점 추가 공개]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104304&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104304&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-01-24T03:18:43.597Z</updated>
-        <content type="html"><![CDATA[아파치재단이 로그4j(Log4j)에 대한 보안공지를 발표했다. 이번 공지는 CVE-2022-23302, CVE-2022-23305, CVE-2022-23307 취약점에 대한 내용이며, 취약점은 각각 JMSSink, JDBCAppender, Chainsaw 모듈에 존재한...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마스토돈 SNS를 악용하는 Vidar 악성코드 유포중]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104305&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104305&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-01-24T03:18:43.601Z</updated>
-        <content type="html"><![CDATA[최근 Vidar 인포스틸러 악성코드가 마스토돈(Mastodon)이라는 SNS 플랫폼을 악용하는 정황이 확인됐다고 안랩 ASEC 분석팀이 밝혔다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[테크칼럼] 한층 강화된 접근통제 위한 ‘Just-In-Time 최소 권한 관리’]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104280&amp;page=1&amp;mkind=1&amp;kind=6</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104280&amp;page=1&amp;mkind=1&amp;kind=6"/>
-        <updated>2022-01-24T03:18:43.601Z</updated>
-        <content type="html"><![CDATA[접근통제는 이미 IT 인프라 보안관리에 있어 필수 기술로 자리 잡았다. 접근통제, 접근권한 관리 등이 ‘개인정보의 안전성 확보조치 기준’에 포함돼 법적으로 의무화됐기 때문이다. 이에 현재 대다수 기업 및 기관들은 사용자별로 각각 계정과 권한을 별도 부여하고, 인가된 사...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[울산시, ‘정보보안 업무규정’ 일부 개정 시행]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104295&amp;page=1&amp;mkind=1&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104295&amp;page=1&amp;mkind=1&amp;kind=2"/>
-        <updated>2022-01-23T15:16:51.991Z</updated>
-        <content type="html"><![CDATA[울산시는 재택근무 활성화와 비대면 업무 서비스의 효율적 추진 지원 등의 내용을 담은 ‘울산시 정보보안 업무규정’ 일부 개정안을 마련해 본격 시행에 들어간다고 밝혔다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘의료기기 사이버보안 허가·심사 기준’ 개정... 보안 적용 대상 확대]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104292&amp;page=1&amp;mkind=1&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104292&amp;page=1&amp;mkind=1&amp;kind=2"/>
-        <updated>2022-01-23T14:13:41.585Z</updated>
-        <content type="html"><![CDATA[식약처는 최근 디지털헬스케어 의료기기나 통신 기술을 이용한 의료기기의 개발이 활성화됨에 따라 해킹 등 보안 사고를 예방하기 위해 ‘의료기기 사이버보안 허가·심사 기준’을 지난 21일 개정·발간했다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UEFI 펌웨어에 숨어 있는 새 멀웨어, 문바운스 발견돼]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104288&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104288&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-01-23T14:13:41.587Z</updated>
-        <content type="html"><![CDATA[펌웨어 기반의 룻키트는 해킹 도구로서 그리 보편화 되어 있지는 않다. 하지만 인기가 분명히 오르고는 있다. 피해자 입장에서 탐지가 쉽지 않고, 지우는 것도 쉽지 않으며, 따라서 공격자가 공격을 상당 기간 지속할 수 있기 때문이다. 공격의 난이도가 높은 만큼 얻는 것 또...]]></content>
     </entry>
 </feed>
