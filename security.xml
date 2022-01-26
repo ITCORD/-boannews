@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-01-26T06:20:39.571Z</updated>
+    <updated>2022-01-26T07:16:25.132Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[새로운 맥OS 멀웨어 대즐스파이, 홍콩에서 발견돼]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104385&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104385&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-01-26T07:14:49.774Z</updated>
+        <content type="html"><![CDATA[홍콩인들을 노리는 공격 캠페인이 적발됐다. 맥OS 멀웨어가 활용되는 캠페인이었다. 보안 업체 이셋(ESET)에 의하면 민주주의 성향의 라디오 방송국 웹사이트에서 맥OS용 멀웨어인 대즐스파이(DazzleSpy)가 유포되고 있다고 한다. 주로 시스템 정보를 수집하고, 파일...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[브라타 뱅킹 트로이목마, 새로운 ‘와이퍼’ 기능 탑재]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104384&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104384&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-01-26T07:14:49.775Z</updated>
+        <content type="html"><![CDATA[안드로이드 뱅킹 멀웨어인 브라타(BRATA)의 새 버전이 등장했다. 기존 버전들에 비해 여러 가지 기능들이 추가됐다. GPS 추적, 새로운 난독화 기술, 그리고 데이터 삭제 기능이다. 때문에 브라타로 위치를 추적하고, 표적의 장비를 못 쓰게 만드는 게 가능하며, 탐지와...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[리눅스 배포판 다수에서 권한 상승 취약점 발견돼]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=104383&amp;page=1&amp;mkind=1&amp;kind=1</id>
@@ -109,19 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=104340&amp;page=1&amp;mkind=1&amp;kind=1"/>
         <updated>2022-01-25T09:15:31.038Z</updated>
         <content type="html"><![CDATA[리눅스 서버의 CWP라는 제어판 요소에서 두 개의 취약점이 발견됐다. 하나는 CVE-2021-45467이라는 파일 인클루젼(file inclusion) 취약점이고, 다른 하나는 CVE-2021-45466이라는 파일 라이트(file write) 취약점이다. 이 두 가지를...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[새로운 ‘러그풀’ 사기, 암호화폐 거래자들 눈에서 피눈물 뽑는다]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104339&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104339&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-01-25T09:15:31.038Z</updated>
-        <content type="html"><![CDATA[새로운 러그풀(Rug Pull) 사기 기법이 발견됐다. 스마트 계약서의 설정 오류와 취약점을 익스플로잇 하는 사기 기법인데, 이번 캠페인의 경우 공격자들은 가짜 암호화폐 코인을 만들어 여러 피해자들로부터 돈을 긁어모았다고 한다. 스마트 계약서를 조작함으로써 일정 거래가...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마이크로소프트, 엑셀 4.0 매크로 기능을 제한한다]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104338&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104338&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-01-25T06:18:02.116Z</updated>
-        <content type="html"><![CDATA[마이크로소프트가 자사 제품인 엑셀 4.0 버전의 매크로를 기본적으로 금지시킨다고 발표했다. 즉 디폴트 상태 그대로인 엑셀 4.0은 매크로 기능을 활용하지 못한다는 것이다. 매크로는 단순 반복 작업을 자동으로 수행함으로써 사용자의 편의성을 극대화한 기능이지만, 최근 몇 ...]]></content>
     </entry>
 </feed>

@@ -4,9 +4,23 @@
         <title>보안뉴스 ─ 국제</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Jan 2022 06:20:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jan 2022 07:16:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[MS 원드라이브가 공격자들의 C&C? 새로운 전략 선보인 APT 단체]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104408&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104408&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
+            <pubDate>Wed, 26 Jan 2022 07:15:58 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/view.asp?idx=104408&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
+					
+					<img src="/media/upFiles2/2022/01/clo-thumb-0126.jpg" alt="" class="news_img" height="70">
+					
+					<span class="news_txt">MS 원드라이브가 공격자들의 C&amp;C? 새로운 전략 선보인 APT 단체</span>
+					</a><br>
+					<a href="/media/view.asp?idx=104408&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">마이크로소프트의 원드라이브 서비스를 C&amp;C로 활용하는 전략이 등장했다. 그것도 고위급 정부 요원 및 국방 요원들을 겨냥한 캠페인에서 이 새로운 전략이 활용되는 것...</a> <span class="news_writer">문가용 기자 | 2022년 01월 26일 16:07</span>]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/clo-thumb-0126.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[트위터에 콘텐츠 삭제 요청한 정부들, 최다 기록 갱신]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104386&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
@@ -272,20 +286,6 @@
 					</a><br>
 					<a href="/media/view.asp?idx=104308&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">워드프레스 생태계에서 꽤나 높은 인기를 가지고 있는 플러그인인 WP HTML Mail에서 취약점이 발견됐다. 이 플러그인은 사용자들이 커스텀 이메일을 디자인할 수...</a> <span class="news_writer">문가용 기자 | 2022년 01월 24일 11:37</span>]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/w-thumb-0124.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스팸하우스, “DNS-over-HTTPS가 봇넷 추적을 어렵게 만든다]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104307&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104307&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
-            <pubDate>Mon, 24 Jan 2022 03:19:54 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/view.asp?idx=104307&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
-					
-					<img src="/media/upFiles2/2022/01/trace-thumb-0124.jpg" alt="" class="news_img" height="70">
-					
-					<span class="news_txt">스팸하우스, “DNS-over-HTTPS가 봇넷 추적을 어렵게 만든다</span>
-					</a><br>
-					<a href="/media/view.asp?idx=104307&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">안티스팸 연구를 진행하는 단체인 스팸하우스(Spamhaus)가 DNS-over-HTTPS라는 기술 때문에 봇넷의 추적이 어려워진다고 발표했다. DoH는 DNS 정...</a> <span class="news_writer">문가용 기자 | 2022년 01월 24일 11:36</span>]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/trace-thumb-0124.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
