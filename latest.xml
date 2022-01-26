@@ -4,9 +4,57 @@
         <title>보안뉴스 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Jan 2022 02:07:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jan 2022 03:16:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[트위터에 콘텐츠 삭제 요청한 정부들, 최다 기록 갱신]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104386&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104386&amp;page=1&amp;kind=1</guid>
+            <pubDate>Wed, 26 Jan 2022 03:15:02 GMT</pubDate>
+            <content:encoded><![CDATA[트위터가 역대 최다 규모의 ‘콘텐츠 삭제 요청’을 정부 기관들로부터 받았다고 발표했다. 작년 1월부터 6월 사이에 19만 6878개의 계정들로부터 생성된 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/twit-thumb-0126.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[새로운 맥OS 멀웨어 대즐스파이, 홍콩에서 발견돼]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104385&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104385&amp;page=1&amp;kind=1</guid>
+            <pubDate>Wed, 26 Jan 2022 03:15:02 GMT</pubDate>
+            <content:encoded><![CDATA[홍콩인들을 노리는 공격 캠페인이 적발됐다. 맥OS 멀웨어가 활용되는 캠페인이었다. 보안 업체 이셋(ESET)에 의하면 민주주의 성향의 라디오 방송국 웹사이...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/hong-thumb-0126.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[브라타 뱅킹 트로이목마, 새로운 ‘와이퍼’ 기능 탑재]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104384&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104384&amp;page=1&amp;kind=1</guid>
+            <pubDate>Wed, 26 Jan 2022 03:15:02 GMT</pubDate>
+            <content:encoded><![CDATA[안드로이드 뱅킹 멀웨어인 브라타(BRATA)의 새 버전이 등장했다. 기존 버전들에 비해 여러 가지 기능들이 추가됐다. GPS 추적, 새로운 난독화 기술, ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/wiper-thumb-0126.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[리눅스 배포판 다수에서 권한 상승 취약점 발견돼]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104383&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104383&amp;page=1&amp;kind=1</guid>
+            <pubDate>Wed, 26 Jan 2022 03:15:02 GMT</pubDate>
+            <content:encoded><![CDATA[리눅스의 배포판 다수에 존재하는 폴킷(Polkit)이라는 요소에서 취약점이 발견됐다. CVE-2021-4034로, 이름은 폰킷(PwnKit)이다. 이 취약...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/lin-thumb--0126.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[영국 NCSC, 패치 안 된 취약점 찾아주는 스크립트 공개할 예정]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104382&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104382&amp;page=1&amp;kind=1</guid>
+            <pubDate>Wed, 26 Jan 2022 03:15:02 GMT</pubDate>
+            <content:encoded><![CDATA[영국의 정보 기관인 NCSC가 엔맵(NMAP) 스크립트를 배포하기로 결정했다. 아직 패치가 되지 않은 취약점들을 찾아주는 기능을 가진 스크립트들로, 보안 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/find-thumb-0126.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[벨라루스의 핵티비스트들, 벨라루스 철도 시스템 공격]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104381&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104381&amp;page=1&amp;kind=1</guid>
+            <pubDate>Wed, 26 Jan 2022 03:15:02 GMT</pubDate>
+            <content:encoded><![CDATA[벨라루시안 사이버파티산즈(Belarusian Cyber-Partisans)라는 핵티비스트 단체가 자국의 철도청을 랜섬웨어로 마비시켰다. 벨라루스 정부가 철...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/bel-thumb-0126.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[국제 행사 동시 통역사 노린 ‘北 연계 해킹’ 시도 있었다]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104369&amp;page=1&amp;kind=1</link>
@@ -38,54 +86,6 @@
             <pubDate>Tue, 25 Jan 2022 06:17:45 GMT</pubDate>
             <content:encoded><![CDATA[PAM(Privileged Access Management) 분야의 글로벌 기업인 비욘드트러스트(BeyondTrust)가 새 수장으로 장해성 지사장을 맞이...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/beyond_012501_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[IT 기술의 관점에서 2021년 되돌아보기]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104341&amp;page=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104341&amp;page=1&amp;kind=3</guid>
-            <pubDate>Tue, 25 Jan 2022 05:13:43 GMT</pubDate>
-            <content:encoded><![CDATA[코로나 델타 변이 덕분에 오랜 재택 생활을 마치고 사무실로 복귀하려던 사람들의 계획은 무산됐다. 오미크론은 상황을 더 심각하게 만들었다. 그래서 반강제적으...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/it-thumb-0125.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[CWP에서 발견된 취약점, 리눅스 서버들을 위험하게 만든다]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104340&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104340&amp;page=1&amp;kind=1</guid>
-            <pubDate>Tue, 25 Jan 2022 03:15:55 GMT</pubDate>
-            <content:encoded><![CDATA[리눅스 서버의 CWP라는 제어판 요소에서 두 개의 취약점이 발견됐다. 하나는 CVE-2021-45467이라는 파일 인클루젼(file inclusion) 취...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/lin-thumb-0125.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[새로운 ‘러그풀’ 사기, 암호화폐 거래자들 눈에서 피눈물 뽑는다]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104339&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104339&amp;page=1&amp;kind=1</guid>
-            <pubDate>Tue, 25 Jan 2022 03:15:55 GMT</pubDate>
-            <content:encoded><![CDATA[새로운 러그풀(Rug Pull) 사기 기법이 발견됐다. 스마트 계약서의 설정 오류와 취약점을 익스플로잇 하는 사기 기법인데, 이번 캠페인의 경우 공격자들은...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/rug-thumb-0125.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마이크로소프트, 엑셀 4.0 매크로 기능을 제한한다]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104338&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104338&amp;page=1&amp;kind=1</guid>
-            <pubDate>Tue, 25 Jan 2022 03:15:55 GMT</pubDate>
-            <content:encoded><![CDATA[마이크로소프트가 자사 제품인 엑셀 4.0 버전의 매크로를 기본적으로 금지시킨다고 발표했다. 즉 디폴트 상태 그대로인 엑셀 4.0은 매크로 기능을 활용하지 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/exc-thumb-0125.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이모텟 운영자들, 기묘한 IP 주소 사용하기 시작]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104337&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104337&amp;page=1&amp;kind=1</guid>
-            <pubDate>Tue, 25 Jan 2022 03:15:55 GMT</pubDate>
-            <content:encoded><![CDATA[이모텟(Emotet)이라는 악명 높은 멀웨어를 운영하는 자들이 기묘한 포맷의 IP 주소를 사용하기 시작했다. 16진법(h^tt^p^:/^/0xc12a24f...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/ip-thumb-0125.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[프로그래밍 언어 러스트에서 파일 삭제 오류 발견돼]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104336&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104336&amp;page=1&amp;kind=1</guid>
-            <pubDate>Tue, 25 Jan 2022 03:15:55 GMT</pubDate>
-            <content:encoded><![CDATA[최근 각광받고 있는 프로그래밍 언어인 러스트(Rust)에서 위험한 취약점이 발견됐다. 익스플로잇 할 경우 파일과 디렉토리를 공격자가 임의로 삭제할 수 있게...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/rust-thumb-0125.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[식약처, 2022년부터 식·의약 데이터 융합·분석 플랫폼 구축 추진]]></title>
@@ -233,12 +233,12 @@
             <content:encoded><![CDATA[개인정보보호위원회(위원장 윤종인, 이하‘개인정보위’)는 1월 25일(화) 정부서울청사에서, 2022년 새해를 맞아 개인정보 전망과 과제에 대해 논의하기 위...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[미 국토안보부, 러시아의 사이버 공격 가능성 높게 보고 있어]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104335&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104335&amp;page=1&amp;kind=1</guid>
-            <pubDate>Tue, 25 Jan 2022 03:15:55 GMT</pubDate>
-            <content:encoded><![CDATA[미국 국토안보부가 러시아의 사이버 공격 가능성을 높게 보고 있다는 내부 문건이 발견됐다. 현재 우크라이나의 침공 가능성을 높게 보고 있는 미국의 움직임이 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/usrus-thumb-0125.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[IT 기술의 관점에서 2021년 되돌아보기]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104341&amp;page=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104341&amp;page=1&amp;kind=3</guid>
+            <pubDate>Tue, 25 Jan 2022 05:13:43 GMT</pubDate>
+            <content:encoded><![CDATA[코로나 델타 변이 덕분에 오랜 재택 생활을 마치고 사무실로 복귀하려던 사람들의 계획은 무산됐다. 오미크론은 상황을 더 심각하게 만들었다. 그래서 반강제적으...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/it-thumb-0125.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
