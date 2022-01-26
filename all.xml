@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 26 Jan 2022 21:16:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jan 2022 22:16:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -338,20 +338,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/radhat_012001_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[사이버 보안 분야에 M&A가 끊임없이 일어나는 이유 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104256&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104256&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Sat, 22 Jan 2022 06:17:04 GMT</pubDate>
-            <content:encoded><![CDATA[2020년부터 2021년까지, 코로나로 인해 세계 경제는 큰 위기에 빠졌고, 지금도 그 위기는 진행되는 중이다. 그러나 정보 보안 분야는 이 기간 동안 큰 호황을...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/ma-thumb-0120.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[러시아의 레빌 체포 작전, 다크웹에 커다란 공포심 심었다 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104313&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104313&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Tue, 25 Jan 2022 13:18:36 GMT</pubDate>
             <content:encoded><![CDATA[사이버 범죄 활동을 억제하기 위한 사법 기관의 노력은 사이버 범죄자들 사이에 그리 큰 파장을 일으키지 않는 것이 보통이다. 하지만 지난 주 러시아에서 있었던 레빌...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/fear-thumb-0124.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[사이버 보안 분야에 M&A가 끊임없이 일어나는 이유 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104256&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104256&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Sat, 22 Jan 2022 06:17:04 GMT</pubDate>
+            <content:encoded><![CDATA[2020년부터 2021년까지, 코로나로 인해 세계 경제는 큰 위기에 빠졌고, 지금도 그 위기는 진행되는 중이다. 그러나 정보 보안 분야는 이 기간 동안 큰 호황을...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/ma-thumb-0120.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[줌 클라이언트와 MMR 서버의 제로데이 취약점, 상세히 공개돼 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
