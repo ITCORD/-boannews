@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jan 2022 13:23:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jan 2022 14:16:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -112,14 +112,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/fear-thumb-0124.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[통가의 거대 화산 폭발 사태, 세계 통신망의 취약점 드러내다]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104257&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104257&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Sat, 22 Jan 2022 04:18:51 GMT</pubDate>
-            <content:encoded><![CDATA[만약 해저 화산 폭발로 인한 해저 케이블 손상에 대한 재난 복구 대처 방안을 미리 마련했다면, 당신은 리스크 관리 분야의 신이다. 그 정도의 예지력이라면 복권을 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/cable-thumb-0120.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[당신 메일 해킹해 음란행위 동영상 확보했다? 혹스 메일 또 유포]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104334&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104334&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
@@ -164,6 +156,14 @@
             <guid>https://www.boannews.com/media/view.asp?idx=104299&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
             <pubDate>Thu, 27 Jan 2022 09:16:24 GMT</pubDate>
             <content:encoded><![CDATA[SRT 운영사 SR은 지난 한 해 동안 추진한 뉴딜 과제에 대해 성과 평가를 하고, 집행 실적과 파급성이 높은 10대 우수 과제를 선정해 지난 21일 발표했다.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[분석과 탐지를 최대한 어렵게 만든 트릭봇 최신 버전]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104345&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104345&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Thu, 27 Jan 2022 14:14:21 GMT</pubDate>
+            <content:encoded><![CDATA[트릭봇(TrickBot) 트로이목마의 운영자들이 탐지와 분석을 피하기 위해 더 까다로운 방어 장치를 사용하기 시작했다. 때마침 트릭봇이 뱅킹 트로이목마로서 많이 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/analytiss-thumb-0125.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
