@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=4</id>
     <title>보안뉴스 ─ SAFETY</title>
-    <updated>2022-01-26T23:17:29.132Z</updated>
+    <updated>2022-01-27T00:53:53.785Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[행안부, 현장에 강한 실전형 ‘지역 재난안전관리자’ 양성한다]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104353&amp;page=1&amp;mkind=4&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104353&amp;page=1&amp;mkind=4&amp;kind=2"/>
+        <updated>2022-01-27T00:52:34.217Z</updated>
+        <content type="html"><![CDATA[행정안전부는 지난 26일부터 8월 9일까지 6개월간 전국 17개 시·도의 5급 공무원을 대상으로 ‘제1기 재난안전 중견리더 과정’을 운영한다고 밝혔다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[정부청사, 중대재해처벌법 시행 앞두고 맞춤형 산업안전 강화 조치 시행]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=104352&amp;page=1&amp;mkind=4&amp;kind=2</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=104228&amp;page=1&amp;mkind=4&amp;kind=2"/>
         <updated>2022-01-21T02:34:01.370Z</updated>
         <content type="html"><![CDATA[서울시 소방재난본부는 소방드론을 재난‧사고 현장에 본격적으로 투입한 이후 최근 6년간의 운용실적을 분석해 지난 20일 발표했다. 시 소방재난본부에 따르면 드론을 사고 현장에 본격적으로 투입한 2016년 이후 지난해까지 6년간 소방드론 운용실적은 총 1,680...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[법무부 ‘중대 안전사고 대응 TF’, ‘주요 중대 안전사고 사례 분석집’ 발간]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104233&amp;page=1&amp;mkind=4&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104233&amp;page=1&amp;mkind=4&amp;kind=2"/>
-        <updated>2022-01-21T01:59:15.787Z</updated>
-        <content type="html"><![CDATA[법무부 ‘중대 안전사고 대응 TF’는 오는 27일 중대재해처벌법 시행에 앞서 지난 19일 동종 유형의 안전사고를 예방하기 위해 최근 5년간 발생했던 주요 안전사고 16건을 분석한 ‘주요 중대 안전사고 사례 분석집’을 발간했다.]]></content>
     </entry>
 </feed>
