@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jan 2022 02:34:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jan 2022 03:17:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -86,6 +86,14 @@
             <pubDate>Wed, 26 Jan 2022 10:16:34 GMT</pubDate>
             <content:encoded><![CDATA[사물인터넷 장비들을 겨냥한 사이버 공격이 증가하면서 보안 전문가들의 보안 경고가 계속해서 나오고 있다. 보안 업체 인텔471(Intel 471)의 경우 1...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/iot-thumb-0126.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[설 연휴 노리는 빈집털이범, 주택 대신 무인매장 노린다]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104464&amp;page=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104464&amp;page=1&amp;kind=3</guid>
+            <pubDate>Thu, 27 Jan 2022 03:15:25 GMT</pubDate>
+            <content:encoded><![CDATA[명절 연휴에 늘어나는 침입범죄가 올해는 주택보다 무인매장을 노릴 것으로 우려되고 있다. 코로나19 장기화가 불러온 변화다. 종합 안심솔루션 기업 에스원의 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/21012705ss.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[과기정통부, 2022년 석박사급 과학기술 혁신인재 양성에 413억원 지원]]></title>
@@ -228,13 +236,6 @@
             <pubDate>Wed, 26 Jan 2022 10:16:34 GMT</pubDate>
             <content:encoded><![CDATA[한국영상정보연구조합(이사장 서병일)이 제15차 정기총회를 진행했다. 26일 한국과학기술회관 아이리스홀에서 열린 이날 행사는 산업발전 유공자 표창과 신임 임...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/21012604ss.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가명정보 제도 활용성과 한눈에 본다]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104422&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104422&amp;page=1&amp;kind=2</guid>
-            <pubDate>Wed, 26 Jan 2022 10:16:34 GMT</pubDate>
-            <content:encoded><![CDATA[개인정보보호위원회(위원장, 윤종인, 이하 개인정보위)는 지난 ‘20년 8월 ‘개인정보 보호법’을 개정해 도입한 가명정보 제도를 통해 가명정보를 결합해 안전...]]></content:encoded>
         </item>
     </channel>
 </rss>
