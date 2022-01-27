@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-01-27T04:20:46.044Z</updated>
+    <updated>2022-01-27T05:16:12.631Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[다크허링 멀웨어, 1억 500만 대 안드로이드 장비 감염시켜]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104465&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104465&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-01-27T05:14:36.429Z</updated>
+        <content type="html"><![CDATA[구글 플레이에 무려 470개의 가짜 앱이 등록됐고, 이 앱들을 통해 다크허링(Dark Herring)이라는 멀웨어가 퍼져나갔다. 1억 대가 넘는 장비들에 이 멀웨어가 심기고, 수억 달러의 피해가 발생했다. 다크허링은 통신비 청구서를 살짝 조작함으로써 피해자의 돈을 한 ...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[애플, 활발히 익스플로잇 되고 있는 제로데이 패치해]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104463&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104463&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-01-27T05:14:36.431Z</updated>
+        <content type="html"><![CDATA[애플이 긴급 iOS 업데이트를 발표했다. 11개의 보안 취약점들이 이번 패치를 통해 해결됐다. 이 중 하나는 이미 공격자들이 발견해 활발히 익스플로잇 하고 있을 가능성이 높다는 경고도 같이 나왔다. 즉 제로데이 취약점이 하나 섞여 있다는 것으로, 애플의 경고에 의하면 ...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[록빗의 리눅스 버전, VM웨어 ESXi 서버 노려]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=104462&amp;page=1&amp;mkind=1&amp;kind=1</id>
@@ -109,19 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=104374&amp;page=1&amp;mkind=1&amp;kind=2"/>
         <updated>2022-01-26T09:15:37.674Z</updated>
         <content type="html"><![CDATA[한국과학기술원(KAIST. 이하 카이스트)이 국가 공공 정보보호 인프라 강화를 위해 정보보호 핵심원천 기술개발 사업의 3차년도 연구개발에 나선다. 과학기술정보통신부의 과제로 시작된 이번 연구의 과제명은 ‘기계학습 모델 보안 역기능 취약점 자동 탐지 및 방어 기술 개발’...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[트위터에 콘텐츠 삭제 요청한 정부들, 최다 기록 갱신]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104386&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104386&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-01-26T09:15:37.674Z</updated>
-        <content type="html"><![CDATA[트위터가 역대 최다 규모의 ‘콘텐츠 삭제 요청’을 정부 기관들로부터 받았다고 발표했다. 작년 1월부터 6월 사이에 19만 6878개의 계정들로부터 생성된 콘텐츠 4만 3387개에 대한 삭제 요청이 있었다고 하며, 이는 트위터가 2012년부터 투명성 보고서를 발표한 이후...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[새로운 맥OS 멀웨어 대즐스파이, 홍콩에서 발견돼]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104385&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104385&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-01-26T07:14:49.774Z</updated>
-        <content type="html"><![CDATA[홍콩인들을 노리는 공격 캠페인이 적발됐다. 맥OS 멀웨어가 활용되는 캠페인이었다. 보안 업체 이셋(ESET)에 의하면 민주주의 성향의 라디오 방송국 웹사이트에서 맥OS용 멀웨어인 대즐스파이(DazzleSpy)가 유포되고 있다고 한다. 주로 시스템 정보를 수집하고, 파일...]]></content>
     </entry>
 </feed>
