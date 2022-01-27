@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jan 2022 07:16:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jan 2022 08:20:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -294,20 +294,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/1-235(295).jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[MS 원드라이브가 공격자들의 C&C? 새로운 전략 선보인 APT 단체 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104408&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104408&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Thu, 27 Jan 2022 02:32:33 GMT</pubDate>
+            <content:encoded><![CDATA[마이크로소프트의 원드라이브 서비스를 C&amp;C로 활용하는 전략이 등장했다. 그것도 고위급 정부 요원 및 국방 요원들을 겨냥한 캠페인에서 이 새로운 전략이 활용되는 것...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/clo-thumb-0126.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[클라우드 보안 전략을 수립할 때 반드시 기억해야 하는 것 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104314&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104314&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Tue, 25 Jan 2022 13:18:36 GMT</pubDate>
             <content:encoded><![CDATA[클라우드 환경에서 발생하는 거의 모든 데이터 침해 사고는 환경 설정 오류와 이래저래 관련되어 있다. 한 때는 이런 실수가 쉴 새 없이 일어났고, 트위치, 우버, ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/clo-0thumb-0124.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘Weekly Security Premium Report’ 제35호 발간! 보안담당자가 알아야 할 IT 기술 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104253&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104253&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
-            <pubDate>Mon, 24 Jan 2022 07:19:45 GMT</pubDate>
-            <content:encoded><![CDATA[1월 20일 발간된 ‘Weekly Security Premium Report’ 제35호에는 &lt;보안 심층 리포트&gt; 코너에서 IT·보안종사자라면 2022년...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/20220120REPORT-SM.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[[긴급] 국방 관련 전문가 좌담회로 위장한 악성메일 유포중 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
@@ -318,12 +318,12 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/hauri_012501_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[MS 원드라이브가 공격자들의 C&C? 새로운 전략 선보인 APT 단체 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104408&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104408&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Thu, 27 Jan 2022 02:32:33 GMT</pubDate>
-            <content:encoded><![CDATA[마이크로소프트의 원드라이브 서비스를 C&amp;C로 활용하는 전략이 등장했다. 그것도 고위급 정부 요원 및 국방 요원들을 겨냥한 캠페인에서 이 새로운 전략이 활용되는 것...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/clo-thumb-0126.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[‘Weekly Security Premium Report’ 제35호 발간! 보안담당자가 알아야 할 IT 기술 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104253&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104253&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
+            <pubDate>Mon, 24 Jan 2022 07:19:45 GMT</pubDate>
+            <content:encoded><![CDATA[1월 20일 발간된 ‘Weekly Security Premium Report’ 제35호에는 &lt;보안 심층 리포트&gt; 코너에서 IT·보안종사자라면 2022년...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/20220120REPORT-SM.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[ETRI, ‘2022년 10대 기술 전망’ 발표 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
@@ -366,20 +366,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/20220127report-S.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
-            <title><![CDATA[줌 클라이언트와 MMR 서버의 제로데이 취약점, 상세히 공개돼 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104285&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104285&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Mon, 24 Jan 2022 08:18:37 GMT</pubDate>
-            <content:encoded><![CDATA[지난 11월, 구글의 보안 전문가가 줌(Zoom)이라는 인기 높은 화상 회의 앱에서 제로데이, 제로클릭 취약점을 발견한 바 있다. 디도스, 악성 코드 실행, 임의...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/zoom-thumb-0121.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[사물인터넷 장비를 겨냥한 사이버 공격, 어디까지 심해지려나 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104423&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104423&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Thu, 27 Jan 2022 06:18:12 GMT</pubDate>
             <content:encoded><![CDATA[사물인터넷 장비들을 겨냥한 사이버 공격이 증가하면서 보안 전문가들의 보안 경고가 계속해서 나오고 있다. 보안 업체 인텔471(Intel 471)의 경우 1월 25...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/iot-thumb-0126.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[줌 클라이언트와 MMR 서버의 제로데이 취약점, 상세히 공개돼 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104285&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104285&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Mon, 24 Jan 2022 08:18:37 GMT</pubDate>
+            <content:encoded><![CDATA[지난 11월, 구글의 보안 전문가가 줌(Zoom)이라는 인기 높은 화상 회의 앱에서 제로데이, 제로클릭 취약점을 발견한 바 있다. 디도스, 악성 코드 실행, 임의...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/zoom-thumb-0121.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[부산시, 전국 최초 ‘여성친화형 1인 가구 안전복합타운’ 조성 추진 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
