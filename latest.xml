@@ -4,9 +4,17 @@
         <title>보안뉴스 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jan 2022 06:19:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jan 2022 07:16:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[사이버 보안은 망가져 있고, 근본부터 뜯어고쳐야 한다]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104472&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104472&amp;page=1&amp;kind=1</guid>
+            <pubDate>Thu, 27 Jan 2022 07:14:34 GMT</pubDate>
+            <content:encoded><![CDATA[요 몇 년 간 보안 업계가 누적시켜 온 숫자들과, 앞으로 보안 업계를 꾸준하게 괴롭힐 로그4셸 취약점 사태까지 보면 뭔가 잘못됐다는 느낌을 지우기가 힘들다...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/shaky-thumb-0127.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[거의 모든 리눅스 배포판에서 발견된 폰킷 취약점, 공격 난이도 낮아]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104468&amp;page=1&amp;kind=1</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 27 Jan 2022 01:58:25 GMT</pubDate>
             <content:encoded><![CDATA[LG유플러스는 양자컴퓨터의 해킹 공격도 방어할 수 있는 ‘양자내성암호 서비스’의 공공·민간 분야 검증을 마쳤다고 밝혔다. 이는 2021년 정부의 뉴딜 2차...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/1-305(295).jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[설 연휴 안전하게 보내기 위한 보안수칙 5가지]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104456&amp;page=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104456&amp;page=1&amp;kind=3</guid>
-            <pubDate>Thu, 27 Jan 2022 01:58:25 GMT</pubDate>
-            <content:encoded><![CDATA[보안 전문 기업 이스트시큐리티(대표 정상원)는 코로나19로 인해 작년에 이어 올해도 비대면 설날이 될 것으로 예상됨에 따라, 사이버 보안 피해를 예방하고 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/RESIZEEAST20220127.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[플랜티넷, 무인 스낵·주류자판기에 ‘모바일 운전면허 인증 서비스’ 도입]]></title>

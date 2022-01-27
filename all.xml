@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jan 2022 06:19:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jan 2022 07:16:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[사이버 보안은 망가져 있고, 근본부터 뜯어고쳐야 한다 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104472&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104472&amp;page=1&amp;kind=1</guid>
+            <pubDate>Thu, 27 Jan 2022 07:14:34 GMT</pubDate>
+            <content:encoded><![CDATA[요 몇 년 간 보안 업계가 누적시켜 온 숫자들과, 앞으로 보안 업계를 꾸준하게 괴롭힐 로그4셸 취약점 사태까지 보면 뭔가 잘못됐다는 느낌을 지우기가 힘들다...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/shaky-thumb-0127.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[거의 모든 리눅스 배포판에서 발견된 폰킷 취약점, 공격 난이도 낮아 (보안뉴스 ─ 전체기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104468&amp;page=1&amp;kind=1</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 27 Jan 2022 01:58:25 GMT</pubDate>
             <content:encoded><![CDATA[LG유플러스는 양자컴퓨터의 해킹 공격도 방어할 수 있는 ‘양자내성암호 서비스’의 공공·민간 분야 검증을 마쳤다고 밝혔다. 이는 2021년 정부의 뉴딜 2차...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/1-305(295).jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[설 연휴 안전하게 보내기 위한 보안수칙 5가지 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104456&amp;page=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104456&amp;page=1&amp;kind=3</guid>
-            <pubDate>Thu, 27 Jan 2022 01:58:25 GMT</pubDate>
-            <content:encoded><![CDATA[보안 전문 기업 이스트시큐리티(대표 정상원)는 코로나19로 인해 작년에 이어 올해도 비대면 설날이 될 것으로 예상됨에 따라, 사이버 보안 피해를 예방하고 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/RESIZEEAST20220127.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[플랜티넷, 무인 스낵·주류자판기에 ‘모바일 운전면허 인증 서비스’ 도입 (보안뉴스 ─ 전체기사)]]></title>
@@ -318,20 +318,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/hauri_012501_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[ETRI, ‘2022년 10대 기술 전망’ 발표 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104296&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104296&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
-            <pubDate>Mon, 24 Jan 2022 04:19:14 GMT</pubDate>
-            <content:encoded><![CDATA[한국전자통신연구원(ETRI)은 ‘ETRI가 바라본 2022년 10대 기술 전망’ 보고서를 발간했다. 10대 기술은 ETRI 연구진의 분석과 국내외 기술동향 보고서...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/1-237(295).jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[MS 원드라이브가 공격자들의 C&C? 새로운 전략 선보인 APT 단체 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104408&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104408&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Thu, 27 Jan 2022 02:32:33 GMT</pubDate>
             <content:encoded><![CDATA[마이크로소프트의 원드라이브 서비스를 C&amp;C로 활용하는 전략이 등장했다. 그것도 고위급 정부 요원 및 국방 요원들을 겨냥한 캠페인에서 이 새로운 전략이 활용되는 것...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/clo-thumb-0126.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ETRI, ‘2022년 10대 기술 전망’ 발표 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104296&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104296&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
+            <pubDate>Mon, 24 Jan 2022 04:19:14 GMT</pubDate>
+            <content:encoded><![CDATA[한국전자통신연구원(ETRI)은 ‘ETRI가 바라본 2022년 10대 기술 전망’ 보고서를 발간했다. 10대 기술은 ETRI 연구진의 분석과 국내외 기술동향 보고서...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/1-237(295).jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[러시아의 레빌 체포 작전, 다크웹에 커다란 공포심 심었다 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
@@ -395,6 +395,13 @@
             <pubDate>Wed, 26 Jan 2022 09:15:27 GMT</pubDate>
             <content:encoded><![CDATA[송파구는 지난해 재난안전 관련 3개 분야에서 우수기관으로 선정돼 3관왕의 성과를 올렸다. 박성수 송파구청장은 “코로나19 위기 속에서도 구민의 안전을 최우선으로 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/1-241(295).jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[거의 모든 리눅스 배포판에서 발견된 폰킷 취약점, 공격 난이도 낮아 (보안뉴스 ─ SECURITY)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104468&amp;page=1&amp;mkind=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104468&amp;page=1&amp;mkind=1&amp;kind=1</guid>
+            <pubDate>Thu, 27 Jan 2022 07:14:56 GMT</pubDate>
+            <content:encoded><![CDATA[리눅스 배포판 거의 전부에 탑재되어 있는 인증 소프트웨어에서 로컬 권한 상승 취약점이 발견됐다. 익스플로잇이 매우 쉬우며, 오류에 대한 기술적 설명만 가지고도 해킹 공격을 시연한 사례가 벌써 등장했다고 한다. 문제의 취약점은 폴킷(polkit)이라고 하는 요소에서 발견...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[보이스피싱 용 악성 앱 92%, 상위 3개 범죄 조직이 유포 (보안뉴스 ─ SECURITY)]]></title>
@@ -507,13 +514,6 @@
             <guid>https://www.boannews.com/media/view.asp?idx=104423&amp;page=1&amp;mkind=1&amp;kind=1</guid>
             <pubDate>Thu, 27 Jan 2022 00:52:16 GMT</pubDate>
             <content:encoded><![CDATA[사물인터넷 장비들을 겨냥한 사이버 공격이 증가하면서 보안 전문가들의 보안 경고가 계속해서 나오고 있다. 보안 업체 인텔471(Intel 471)의 경우 1월 25일자 블로그 게시글을 통해 “사물인터넷 장비 해킹을 통해 비밀 정보가 새나가거나 공격자들을 위한 거대 봇넷이...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[가명정보 제도 활용성과 한눈에 본다 (보안뉴스 ─ SECURITY)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104422&amp;page=1&amp;mkind=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104422&amp;page=1&amp;mkind=1&amp;kind=2</guid>
-            <pubDate>Thu, 27 Jan 2022 00:52:16 GMT</pubDate>
-            <content:encoded><![CDATA[개인정보보호위원회(위원장, 윤종인, 이하 개인정보위)는 지난 ‘20년 8월 ‘개인정보 보호법’을 개정해 도입한 가명정보 제도를 통해 가명정보를 결합해 안전한 활용을 선도한 우수사례들을 선정, ‘2021 가명정보 활용 우수사례집’을 발간한다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[과기정통부 조경식 2차관, 인공지능 솔루션 공급기업 현장 방문 (보안뉴스 ─ IT)]]></title>
@@ -1890,6 +1890,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2021/12/20211208CHUNG-S.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
+            <title><![CDATA[사이버 보안은 망가져 있고, 근본부터 뜯어고쳐야 한다 (보안뉴스 ─ 국제)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104472&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104472&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
+            <pubDate>Thu, 27 Jan 2022 07:16:19 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/view.asp?idx=104472&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
+					
+					<img src="/media/upFiles2/2022/01/shaky-thumb-0127.jpg" alt="" class="news_img" height="70">
+					
+					<span class="news_txt"> 사이버 보안은 망가져 있고, 근본부터 뜯어고쳐야 한다</span>
+					</a><br>
+					<a href="/media/view.asp?idx=104472&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">요 몇 년 간 보안 업계가 누적시켜 온 숫자들과, 앞으로 보안 업계를 꾸준하게 괴롭힐 로그4셸 취약점 사태까지 보면 뭔가 잘못됐다는 느낌을 지우기가 힘들다. 보안...</a> <span class="news_writer">문가용 기자 | 2022년 01월 27일 15:57</span>]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/shaky-thumb-0127.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[거의 모든 리눅스 배포판에서 발견된 폰킷 취약점, 공격 난이도 낮아 (보안뉴스 ─ 국제)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104468&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104468&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
@@ -2154,20 +2168,6 @@
 					</a><br>
 					<a href="/media/view.asp?idx=104339&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">새로운 러그풀(Rug Pull) 사기 기법이 발견됐다. 스마트 계약서의 설정 오류와 취약점을 익스플로잇 하는 사기 기법인데, 이번 캠페인의 경우 공격자들은 가짜 ...</a> <span class="news_writer">문가용 기자 | 2022년 01월 25일 11:39</span>]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/rug-thumb-0125.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마이크로소프트, 엑셀 4.0 매크로 기능을 제한한다 (보안뉴스 ─ 국제)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104338&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104338&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
-            <pubDate>Tue, 25 Jan 2022 03:17:35 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/view.asp?idx=104338&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
-					
-					<img src="/media/upFiles2/2022/01/exc-thumb-0125.jpg" alt="" class="news_img" height="70">
-					
-					<span class="news_txt">마이크로소프트, 엑셀 4.0 매크로 기능을 제한한다</span>
-					</a><br>
-					<a href="/media/view.asp?idx=104338&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">마이크로소프트가 자사 제품인 엑셀 4.0 버전의 매크로를 기본적으로 금지시킨다고 발표했다. 즉 디폴트 상태 그대로인 엑셀 4.0은 매크로 기능을 활용하지 못한다는...</a> <span class="news_writer">문가용 기자 | 2022년 01월 25일 11:38</span>]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/exc-thumb-0125.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2022년 공공부문 정보보호 제품·서비스 구매 예산 분석 (보안뉴스 ─ 기획특집)]]></title>

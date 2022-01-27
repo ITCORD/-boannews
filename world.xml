@@ -4,9 +4,23 @@
         <title>보안뉴스 ─ 국제</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jan 2022 06:19:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jan 2022 07:16:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[사이버 보안은 망가져 있고, 근본부터 뜯어고쳐야 한다]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104472&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104472&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
+            <pubDate>Thu, 27 Jan 2022 07:16:19 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/view.asp?idx=104472&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
+					
+					<img src="/media/upFiles2/2022/01/shaky-thumb-0127.jpg" alt="" class="news_img" height="70">
+					
+					<span class="news_txt"> 사이버 보안은 망가져 있고, 근본부터 뜯어고쳐야 한다</span>
+					</a><br>
+					<a href="/media/view.asp?idx=104472&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">요 몇 년 간 보안 업계가 누적시켜 온 숫자들과, 앞으로 보안 업계를 꾸준하게 괴롭힐 로그4셸 취약점 사태까지 보면 뭔가 잘못됐다는 느낌을 지우기가 힘들다. 보안...</a> <span class="news_writer">문가용 기자 | 2022년 01월 27일 15:57</span>]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/shaky-thumb-0127.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[거의 모든 리눅스 배포판에서 발견된 폰킷 취약점, 공격 난이도 낮아]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104468&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
@@ -272,20 +286,6 @@
 					</a><br>
 					<a href="/media/view.asp?idx=104339&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">새로운 러그풀(Rug Pull) 사기 기법이 발견됐다. 스마트 계약서의 설정 오류와 취약점을 익스플로잇 하는 사기 기법인데, 이번 캠페인의 경우 공격자들은 가짜 ...</a> <span class="news_writer">문가용 기자 | 2022년 01월 25일 11:39</span>]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/rug-thumb-0125.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마이크로소프트, 엑셀 4.0 매크로 기능을 제한한다]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104338&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104338&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
-            <pubDate>Tue, 25 Jan 2022 03:17:35 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/view.asp?idx=104338&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
-					
-					<img src="/media/upFiles2/2022/01/exc-thumb-0125.jpg" alt="" class="news_img" height="70">
-					
-					<span class="news_txt">마이크로소프트, 엑셀 4.0 매크로 기능을 제한한다</span>
-					</a><br>
-					<a href="/media/view.asp?idx=104338&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">마이크로소프트가 자사 제품인 엑셀 4.0 버전의 매크로를 기본적으로 금지시킨다고 발표했다. 즉 디폴트 상태 그대로인 엑셀 4.0은 매크로 기능을 활용하지 못한다는...</a> <span class="news_writer">문가용 기자 | 2022년 01월 25일 11:38</span>]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/exc-thumb-0125.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
