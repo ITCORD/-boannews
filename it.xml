@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=2</id>
     <title>보안뉴스 ─ IT</title>
-    <updated>2022-01-27T03:17:22.233Z</updated>
+    <updated>2022-01-27T04:20:46.039Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[AI 반도체·응용 프로그램 호환성 높이고 개발비·시간 줄였다]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104449&amp;page=1&amp;mkind=2&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104449&amp;page=1&amp;mkind=2&amp;kind=2"/>
+        <updated>2022-01-27T04:19:17.580Z</updated>
+        <content type="html"><![CDATA[한국전자통신연구원(ETRI)은 AI 핵심 시스템 소프트웨어인 딥러닝 컴파일러 ‘네스트(NEST-C)’를 개발했다고 밝혔다. 개발자가 쉽게 활용할 수 있도록 자체 개발한 AI 반도체 하드웨어와 함께 웹(Github)에 공개했다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[임혜숙 과기정통부 장관, 2022년도 소프트웨어인 신년인사회 참석]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=104451&amp;page=1&amp;mkind=2&amp;kind=2</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=104362&amp;page=1&amp;mkind=2&amp;kind=2"/>
         <updated>2022-01-26T06:19:09.160Z</updated>
         <content type="html"><![CDATA[삼성디스플레이와 KAIST가 손잡고 ‘K디스플레이’를 이끌어 갈 핵심 인재 육성에 나선다. 삼성디스플레이와 KAIST는 지난 24일 채용 연계형 인재 양성 과정(Educational Program for Samsung Display, EPSD) 신설을 추진하는 데 합의...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대구시, 인공지능 스마트교통체계 구축 착착]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104365&amp;page=1&amp;mkind=2&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104365&amp;page=1&amp;mkind=2&amp;kind=2"/>
-        <updated>2022-01-26T02:05:46.569Z</updated>
-        <content type="html"><![CDATA[대구시는 지난 24일 국토부 스마트시티 챌린지 사업으로 추진하고 있는 인공지능 기반의 스마트교통체계 중간보고회를 갖고, 도심 전역을 대상으로 도심교통 혁신에 나선다.]]></content>
     </entry>
 </feed>
