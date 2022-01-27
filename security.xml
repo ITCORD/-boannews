@@ -2,9 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-01-27T02:00:20.150Z</updated>
+    <updated>2022-01-27T02:34:17.290Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[록빗의 리눅스 버전, VM웨어 ESXi 서버 노려]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104462&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104462&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-01-27T02:32:41.201Z</updated>
+        <content type="html"><![CDATA[악명 높은 랜섬웨어인 록빗(LockBit)도 리눅스를 공격하기 시작했다. 리눅스 환경에서 작동하는 버전이 새롭게 등장한 것이다. 이 버전은 특히 VM웨어의 ESXi 가상기계들을 노리기 위해 제작된 것으로 분석되고 있다. 최근 기업들은 사업의 원활한 운영을 위해 가상기계...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NSO그룹의 페가수스, 국제인권감시기구도 노렸다]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104461&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104461&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-01-27T02:32:41.202Z</updated>
+        <content type="html"><![CDATA[국제인권감시기구(HRW)가 이스라엘의 스파이웨어 개발사인 NSO그룹(NSO Group)의 공격을 받았다고 주장했다. NSO그룹이 개발한 페가수스(Pegasus)가 국제인권감시기구 내 주요 인사 한 명의 핸드폰에서 발견됐다는 것이다. 문제의 피해자는 라마 파키(Lama ...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[중국의 APT27, 독일부터 시작해 서방 국가 겨냥하기 시작]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104460&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104460&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-01-27T02:32:41.206Z</updated>
+        <content type="html"><![CDATA[중국의 해킹 단체인 APT27이 서양 국가들을 겨냥한 사이버전 행위에 다시 시동을 거는 것으로 보인다. 시작은 독일의 의약 및 기술 산업 내 다양한 조직들이라고 한다. 해커들이 노린 것은 지적재산과 각종 영업 비밀이었다. 하지만 이러한 정보를 직접 활용한다기보다, 제약...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LG U+ ‘양자내성암호’ 서비스, 공공·민간 분야에 검증 완료]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104448&amp;page=1&amp;mkind=1&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104448&amp;page=1&amp;mkind=1&amp;kind=3"/>
+        <updated>2022-01-27T02:32:41.206Z</updated>
+        <content type="html"><![CDATA[LG유플러스는 양자컴퓨터의 해킹 공격도 방어할 수 있는 ‘양자내성암호 서비스’의 공공·민간 분야 검증을 마쳤다고 밝혔다. 이는 2021년 정부의 뉴딜 2차 과제 중 양자암호통신 시범 인프라 구축·운영 사업 참여를 통해 거둔 성과다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[LG CNS, 구독형 OT 보안 서비스 출시]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104450&amp;page=1&amp;mkind=1&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104450&amp;page=1&amp;mkind=1&amp;kind=3"/>
+        <updated>2022-01-27T02:32:41.206Z</updated>
+        <content type="html"><![CDATA[DX 전문기업 LG CNS가 지난 26일 온라인 개최한 ‘OT시큐리티 테크데이 2022’ 웨비나에서 구독형 OT(Operational Technology) 보안 서비스를 선보였다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[설 연휴 안전하게 보내기 위한 보안수칙 5가지]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104456&amp;page=1&amp;mkind=1&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104456&amp;page=1&amp;mkind=1&amp;kind=3"/>
+        <updated>2022-01-27T02:32:41.213Z</updated>
+        <content type="html"><![CDATA[보안 전문 기업 이스트시큐리티(대표 정상원)는 코로나19로 인해 작년에 이어 올해도 비대면 설날이 될 것으로 예상됨에 따라, 사이버 보안 피해를 예방하고 안전한 설 연휴를 보내기 위해 필요한 5가지 보안수칙을 27일 발표했다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[개인정보보호 전문강사협회, 황선호 신임 회장 선출]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=104454&amp;page=1&amp;mkind=1&amp;kind=2</id>
@@ -81,47 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=104385&amp;page=1&amp;mkind=1&amp;kind=1"/>
         <updated>2022-01-26T07:14:49.774Z</updated>
         <content type="html"><![CDATA[홍콩인들을 노리는 공격 캠페인이 적발됐다. 맥OS 멀웨어가 활용되는 캠페인이었다. 보안 업체 이셋(ESET)에 의하면 민주주의 성향의 라디오 방송국 웹사이트에서 맥OS용 멀웨어인 대즐스파이(DazzleSpy)가 유포되고 있다고 한다. 주로 시스템 정보를 수집하고, 파일...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[브라타 뱅킹 트로이목마, 새로운 ‘와이퍼’ 기능 탑재]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104384&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104384&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-01-26T07:14:49.775Z</updated>
-        <content type="html"><![CDATA[안드로이드 뱅킹 멀웨어인 브라타(BRATA)의 새 버전이 등장했다. 기존 버전들에 비해 여러 가지 기능들이 추가됐다. GPS 추적, 새로운 난독화 기술, 그리고 데이터 삭제 기능이다. 때문에 브라타로 위치를 추적하고, 표적의 장비를 못 쓰게 만드는 게 가능하며, 탐지와...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[리눅스 배포판 다수에서 권한 상승 취약점 발견돼]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104383&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104383&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-01-26T03:15:20.415Z</updated>
-        <content type="html"><![CDATA[리눅스의 배포판 다수에 존재하는 폴킷(Polkit)이라는 요소에서 취약점이 발견됐다. CVE-2021-4034로, 이름은 폰킷(PwnKit)이다. 이 취약점을 익스플로잇 하는 데 성공할 경우 공격자가 루트 권한을 가져갈 수 있게 된다고 한다. 즉 낮은 권한으로 침투에 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영국 NCSC, 패치 안 된 취약점 찾아주는 스크립트 공개할 예정]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104382&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104382&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-01-26T03:15:20.415Z</updated>
-        <content type="html"><![CDATA[영국의 정보 기관인 NCSC가 엔맵(NMAP) 스크립트를 배포하기로 결정했다. 아직 패치가 되지 않은 취약점들을 찾아주는 기능을 가진 스크립트들로, 보안 담당자들은 이를 활용해 인프라를 점검할 수 있다고 한다. NCSC와 100명의 산업 내 전문가들이 협업하여 만든 결...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[벨라루스의 핵티비스트들, 벨라루스 철도 시스템 공격]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104381&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104381&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-01-26T03:15:20.417Z</updated>
-        <content type="html"><![CDATA[벨라루시안 사이버파티산즈(Belarusian Cyber-Partisans)라는 핵티비스트 단체가 자국의 철도청을 랜섬웨어로 마비시켰다. 벨라루스 정부가 철도를 이용해 러시아 군의 이동을 돕고 있기 때문이라고 한다. 벨라루시안 사이버파티산즈는 벨라루스의 독재자와 같은 루...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국방부 사이버사, 정보보안산업기사 과정평가형 자격제도 운영]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104358&amp;page=1&amp;mkind=1&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104358&amp;page=1&amp;mkind=1&amp;kind=2"/>
-        <updated>2022-01-26T03:15:20.420Z</updated>
-        <content type="html"><![CDATA[사이버작전사령부는 2022년부터 정보보안산업기사 과정평가형 자격제도를 운영한다. 과정평가형 자격제도는 국가직무능력 표준의 교육훈련과정 이수 후 평가를 거쳐 합격기준을 충족하는 경우 국가기술자격을 부여하는 제도로, 암기 위주의 기존 검정형 자격과는 다른 현장 중심의 자격...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지란지교시큐리티-에어코드, 제로 트러스트 보안 구현 위한 MOU 체결]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104376&amp;page=1&amp;mkind=1&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104376&amp;page=1&amp;mkind=1&amp;kind=3"/>
-        <updated>2022-01-26T03:15:20.421Z</updated>
-        <content type="html"><![CDATA[보안SW 전문기업 지란지교시큐리티(대표 윤두식)는 클라우드 가상화 플랫폼 솔루션 전문기업 에어코드(대표 정연철, 정진우)와 전략적 업무협약(MOU)을 체결하고 웹격리(RBI) 기술과 콘텐츠 악성코드 무해화(CDR) 기술을 결합한 최적의 제로 트러스트 보안 구현을 위해 ...]]></content>
     </entry>
 </feed>
