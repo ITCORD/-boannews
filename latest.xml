@@ -4,9 +4,17 @@
         <title>보안뉴스 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jan 2022 09:18:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jan 2022 10:18:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022년 시행되는 보안·안전 주요 법령, 어떤 게 있나]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104457&amp;page=1&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104457&amp;page=1&amp;kind=2</guid>
+            <pubDate>Thu, 27 Jan 2022 10:16:04 GMT</pubDate>
+            <content:encoded><![CDATA[2022년도 어느새 한 달이 훌쩍 지나갔다. 그리고 1월에만 453개의 법령이 새롭게 시행됐다. 2022년에 시행될 법령은 933개에 달한다. 대부분 상반...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/RESIZERESIZEinsight20220127-1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Weekly Security Premium Report 제36호 발간! 인공지능 선결과제와 보안 활용사례]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104475&amp;page=1&amp;kind=3</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 27 Jan 2022 02:32:24 GMT</pubDate>
             <content:encoded><![CDATA[국제인권감시기구(HRW)가 이스라엘의 스파이웨어 개발사인 NSO그룹(NSO Group)의 공격을 받았다고 주장했다. NSO그룹이 개발한 페가수스(Pegas...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/peg-thumb-0127.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[중국의 APT27, 독일부터 시작해 서방 국가 겨냥하기 시작]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104460&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104460&amp;page=1&amp;kind=1</guid>
-            <pubDate>Thu, 27 Jan 2022 02:32:24 GMT</pubDate>
-            <content:encoded><![CDATA[중국의 해킹 단체인 APT27이 서양 국가들을 겨냥한 사이버전 행위에 다시 시동을 거는 것으로 보인다. 시작은 독일의 의약 및 기술 산업 내 다양한 조직들...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/germ-thumb-0127.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[개인정보위, 자율주행차 업계와 개인정보 보호 해법 찾는다]]></title>
@@ -202,6 +202,14 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/21012705ss.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[중국의 APT27, 독일부터 시작해 서방 국가 겨냥하기 시작]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104460&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104460&amp;page=1&amp;kind=1</guid>
+            <pubDate>Thu, 27 Jan 2022 02:32:24 GMT</pubDate>
+            <content:encoded><![CDATA[중국의 해킹 단체인 APT27이 서양 국가들을 겨냥한 사이버전 행위에 다시 시동을 거는 것으로 보인다. 시작은 독일의 의약 및 기술 산업 내 다양한 조직들...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/germ-thumb-0127.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[과기정통부, 2022년 석박사급 과학기술 혁신인재 양성에 413억원 지원]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104436&amp;page=1&amp;kind=2</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104436&amp;page=1&amp;kind=2</guid>
@@ -230,14 +238,6 @@
             <pubDate>Thu, 27 Jan 2022 01:58:25 GMT</pubDate>
             <content:encoded><![CDATA[한국전자통신연구원(ETRI)은 AI 핵심 시스템 소프트웨어인 딥러닝 컴파일러 ‘네스트(NEST-C)’를 개발했다고 밝혔다. 개발자가 쉽게 활용할 수 있도록...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/1-306(295).jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LG CNS, 구독형 OT 보안 서비스 출시]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104450&amp;page=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104450&amp;page=1&amp;kind=3</guid>
-            <pubDate>Thu, 27 Jan 2022 01:58:25 GMT</pubDate>
-            <content:encoded><![CDATA[DX 전문기업 LG CNS가 지난 26일 온라인 개최한 ‘OT시큐리티 테크데이 2022’ 웨비나에서 구독형 OT(Operational Technology)...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/1-307(295).jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

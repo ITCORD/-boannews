@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jan 2022 09:18:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jan 2022 10:18:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022년 시행되는 보안·안전 주요 법령, 어떤 게 있나 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104457&amp;page=1&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104457&amp;page=1&amp;kind=2</guid>
+            <pubDate>Thu, 27 Jan 2022 10:16:04 GMT</pubDate>
+            <content:encoded><![CDATA[2022년도 어느새 한 달이 훌쩍 지나갔다. 그리고 1월에만 453개의 법령이 새롭게 시행됐다. 2022년에 시행될 법령은 933개에 달한다. 대부분 상반...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/RESIZERESIZEinsight20220127-1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Weekly Security Premium Report 제36호 발간! 인공지능 선결과제와 보안 활용사례 (보안뉴스 ─ 전체기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104475&amp;page=1&amp;kind=3</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 27 Jan 2022 02:32:24 GMT</pubDate>
             <content:encoded><![CDATA[국제인권감시기구(HRW)가 이스라엘의 스파이웨어 개발사인 NSO그룹(NSO Group)의 공격을 받았다고 주장했다. NSO그룹이 개발한 페가수스(Pegas...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/peg-thumb-0127.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[중국의 APT27, 독일부터 시작해 서방 국가 겨냥하기 시작 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104460&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104460&amp;page=1&amp;kind=1</guid>
-            <pubDate>Thu, 27 Jan 2022 02:32:24 GMT</pubDate>
-            <content:encoded><![CDATA[중국의 해킹 단체인 APT27이 서양 국가들을 겨냥한 사이버전 행위에 다시 시동을 거는 것으로 보인다. 시작은 독일의 의약 및 기술 산업 내 다양한 조직들...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/germ-thumb-0127.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[개인정보위, 자율주행차 업계와 개인정보 보호 해법 찾는다 (보안뉴스 ─ 전체기사)]]></title>
@@ -202,6 +202,14 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/21012705ss.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[중국의 APT27, 독일부터 시작해 서방 국가 겨냥하기 시작 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104460&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104460&amp;page=1&amp;kind=1</guid>
+            <pubDate>Thu, 27 Jan 2022 02:32:24 GMT</pubDate>
+            <content:encoded><![CDATA[중국의 해킹 단체인 APT27이 서양 국가들을 겨냥한 사이버전 행위에 다시 시동을 거는 것으로 보인다. 시작은 독일의 의약 및 기술 산업 내 다양한 조직들...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/germ-thumb-0127.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[과기정통부, 2022년 석박사급 과학기술 혁신인재 양성에 413억원 지원 (보안뉴스 ─ 전체기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104436&amp;page=1&amp;kind=2</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104436&amp;page=1&amp;kind=2</guid>
@@ -230,14 +238,6 @@
             <pubDate>Thu, 27 Jan 2022 01:58:25 GMT</pubDate>
             <content:encoded><![CDATA[한국전자통신연구원(ETRI)은 AI 핵심 시스템 소프트웨어인 딥러닝 컴파일러 ‘네스트(NEST-C)’를 개발했다고 밝혔다. 개발자가 쉽게 활용할 수 있도록...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/1-306(295).jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LG CNS, 구독형 OT 보안 서비스 출시 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104450&amp;page=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104450&amp;page=1&amp;kind=3</guid>
-            <pubDate>Thu, 27 Jan 2022 01:58:25 GMT</pubDate>
-            <content:encoded><![CDATA[DX 전문기업 LG CNS가 지난 26일 온라인 개최한 ‘OT시큐리티 테크데이 2022’ 웨비나에서 구독형 OT(Operational Technology)...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/1-307(295).jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2022년에도 계속되는 로그4j 사태... 3가지 취약점 추가 공개 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
@@ -328,6 +328,14 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/1-237(295).jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[사물인터넷 장비를 겨냥한 사이버 공격, 어디까지 심해지려나 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104423&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104423&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Thu, 27 Jan 2022 06:18:12 GMT</pubDate>
+            <content:encoded><![CDATA[사물인터넷 장비들을 겨냥한 사이버 공격이 증가하면서 보안 전문가들의 보안 경고가 계속해서 나오고 있다. 보안 업체 인텔471(Intel 471)의 경우 1월 25...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/iot-thumb-0126.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[러시아의 레빌 체포 작전, 다크웹에 커다란 공포심 심었다 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104313&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104313&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
@@ -342,14 +350,6 @@
             <pubDate>Sat, 22 Jan 2022 04:18:51 GMT</pubDate>
             <content:encoded><![CDATA[만약 해저 화산 폭발로 인한 해저 케이블 손상에 대한 재난 복구 대처 방안을 미리 마련했다면, 당신은 리스크 관리 분야의 신이다. 그 정도의 예지력이라면 복권을 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/cable-thumb-0120.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사물인터넷 장비를 겨냥한 사이버 공격, 어디까지 심해지려나 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104423&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104423&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Thu, 27 Jan 2022 06:18:12 GMT</pubDate>
-            <content:encoded><![CDATA[사물인터넷 장비들을 겨냥한 사이버 공격이 증가하면서 보안 전문가들의 보안 경고가 계속해서 나오고 있다. 보안 업체 인텔471(Intel 471)의 경우 1월 25...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/iot-thumb-0126.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[당신 메일 해킹해 음란행위 동영상 확보했다? 혹스 메일 또 유포 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
@@ -755,6 +755,14 @@
             <content:encoded><![CDATA[한국기계연구원 인공지능기계연구실 김창현 AI를 활용한 실시간 바이러스 분석 알고리즘을 탑재한 AI 기반 스마트 방역로봇을 개발했다. 카페, 식당 같은 많은 사람이 이용하는 상업시설에 적용이 용이해 감염병 확산의 위험을 낮추면서도 일상생활을 유지하는 데 도움이 될 것으로...]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[2022년 시행되는 보안·안전 주요 법령, 어떤 게... (보안뉴스 ─ Security World)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104457&amp;mkind=5</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104457&amp;mkind=5</guid>
+            <pubDate>Thu, 27 Jan 2022 10:16:56 GMT</pubDate>
+            <content:encoded><![CDATA[2022년도 어느새 한 달이 훌쩍 지나갔다. 그리고 1월에만 453개의 법령이 새롭게 시행됐다. 2022년에 시행될 법령은 933개에 달한다. 대부분 상반...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/RESIZERESIZEinsight20220127-1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[씨게이트, 2022년 2분기 실적 발표 (보안뉴스 ─ Security World)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104469&amp;mkind=5</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104469&amp;mkind=5</guid>
@@ -763,12 +771,18 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/RESIZESEE20220127.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[설 연휴 노리는 빈집털이범, 주택 대신 무인매장 노... (보안뉴스 ─ Security World)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104464&amp;mkind=5</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104464&amp;mkind=5</guid>
-            <pubDate>Thu, 27 Jan 2022 03:16:09 GMT</pubDate>
-            <content:encoded><![CDATA[명절 연휴에 늘어나는 침입범죄가 올해는 주택보다 무인매장을 노릴 것으로 우려되고 있다. 코로나19 장기화가 불러온 변화다. 종합 안심솔루션 기업 에스원의 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/21012705ss.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[다크허링 멀웨어, 1억 500만 대 안드로이드 장비 감염시켜 (보안뉴스 ─ 취약점 경고 및 버그리포트)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104465&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104465&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=</guid>
+            <pubDate>Thu, 27 Jan 2022 10:17:06 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/view.asp?idx=104465&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=">
+					
+					<img src="/media/upFiles2/2022/01/herring-thumb-0127.jpg" alt="" class="news_img" height="70">
+					
+					<span class="news_txt">다크허링 멀웨어, 1억 500만 대 안드로이드 장비 감염시켜</span>
+					</a><br>
+					<a href="/media/view.asp?idx=104465&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=">구글 플레이에 무려 470개의 가짜 앱이 등록됐고, 이 앱들을 통해 다크허링(Dark Herring)이라는 멀웨어가 퍼져나갔다. 1억 대가 넘는 장비들에 이 멀웨...</a> <span class="news_writer">문가용 기자 | 2022년 01월 27일 11:18</span>]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/herring-thumb-0127.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[LG U+ ‘양자내성암호’ 서비스, 공공·민간 분야에 검증 완료 (보안뉴스 ─ 취약점 경고 및 버그리포트)]]></title>
@@ -1035,20 +1049,6 @@
 					</a><br>
 					<a href="/media/view.asp?idx=104063&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=">새해 첫 주, &lt;보안뉴스&gt;에 전 세계적으로도 매우 드문 유형의 가상자산(암호화폐) 탈취 사건에 대한 제보가 접수됐다. 이른바 ‘심스와핑(SIM Swap...</a> <span class="news_writer">원병철 기자 | 2022년 01월 12일 17:49</span>]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/19695308_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[어도비, 15만 달러짜리 리더 취약점 패치해 (보안뉴스 ─ 취약점 경고 및 버그리포트)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104060&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104060&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=</guid>
-            <pubDate>Wed, 12 Jan 2022 20:15:57 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/view.asp?idx=104060&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=">
-					
-					<img src="/media/upFiles2/2022/01/pat-thumb-0112.jpg" alt="" class="news_img" height="70">
-					
-					<span class="news_txt">어도비, 15만 달러짜리 리더 취약점 패치해</span>
-					</a><br>
-					<a href="/media/view.asp?idx=104060&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=">어도비가 2022년 첫 정기 패치를 발표했다. 총 26개의 취약점이 이번 패치를 통해 다뤄졌다. 	이 중 16개가 치명적인 위험도를 가진 것으로 분석됐는데, CV...</a> <span class="news_writer">문가용 기자 | 2022년 01월 12일 11:24</span>]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/pat-thumb-0112.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[최정식 발행인 칼럼] <시큐리티월드> 통권 300호를 맞아 드리는 감사의 말씀 (보안뉴스 ─ 오피니언)]]></title>
