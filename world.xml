@@ -4,9 +4,23 @@
         <title>보안뉴스 ─ 국제</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jan 2022 05:16:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jan 2022 06:19:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[거의 모든 리눅스 배포판에서 발견된 폰킷 취약점, 공격 난이도 낮아]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104468&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104468&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
+            <pubDate>Thu, 27 Jan 2022 06:19:29 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/view.asp?idx=104468&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
+					
+					<img src="/media/upFiles2/2022/01/pen-thumb-0127.jpg" alt="" class="news_img" height="70">
+					
+					<span class="news_txt">거의 모든 리눅스 배포판에서 발견된 폰킷 취약점, 공격 난이도 낮아</span>
+					</a><br>
+					<a href="/media/view.asp?idx=104468&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">리눅스 배포판 거의 전부에 탑재되어 있는 인증 소프트웨어에서 로컬 권한 상승 취약점이 발견됐다. 익스플로잇이 매우 쉬우며, 오류에 대한 기술적 설명만 가지고도 해...</a> <span class="news_writer">문가용 기자 | 2022년 01월 27일 14:20</span>]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/pen-thumb-0127.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[접근 권한 브로커, 로그4셸 공격에 적극적으로 관여해]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104466&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
@@ -272,20 +286,6 @@
 					</a><br>
 					<a href="/media/view.asp?idx=104338&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">마이크로소프트가 자사 제품인 엑셀 4.0 버전의 매크로를 기본적으로 금지시킨다고 발표했다. 즉 디폴트 상태 그대로인 엑셀 4.0은 매크로 기능을 활용하지 못한다는...</a> <span class="news_writer">문가용 기자 | 2022년 01월 25일 11:38</span>]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/exc-thumb-0125.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이모텟 운영자들, 기묘한 IP 주소 사용하기 시작]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104337&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104337&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
-            <pubDate>Tue, 25 Jan 2022 03:17:35 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/view.asp?idx=104337&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
-					
-					<img src="/media/upFiles2/2022/01/ip-thumb-0125.jpg" alt="" class="news_img" height="70">
-					
-					<span class="news_txt">이모텟 운영자들, 기묘한 IP 주소 사용하기 시작</span>
-					</a><br>
-					<a href="/media/view.asp?idx=104337&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">이모텟(Emotet)이라는 악명 높은 멀웨어를 운영하는 자들이 기묘한 포맷의 IP 주소를 사용하기 시작했다. 16진법(h^tt^p^:/^/0xc12a24f5/cc...</a> <span class="news_writer">문가용 기자 | 2022년 01월 25일 11:37</span>]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/ip-thumb-0125.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
