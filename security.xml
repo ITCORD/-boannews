@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-01-28T08:19:34.596Z</updated>
+    <updated>2022-01-28T09:17:50.227Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[록빗 랜섬웨어, 프랑스 사법부와 유럽 회사들 공격]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104502&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104502&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-01-28T09:16:05.266Z</updated>
+        <content type="html"><![CDATA[록빗(LockBit) 랜섬웨어가 최근 들어 기승을 부리고 있다. 얼마 전에는 프랑스 사법부까지도 록빗에 혼이 났다고 한다. 상세한 내용은 아직 발표되지 않고 있는데, 공격자들의 정보 유출용 웹사이트에는 “13일 안에 요구 조건을 들어주어야 할 것”이라는 경고문이 적혀 ...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[북한의 라자루스, 윈도 업데이트 클라이언트와 깃허브 악용]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=104501&amp;page=1&amp;mkind=1&amp;kind=1</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=104467&amp;page=1&amp;mkind=1&amp;kind=1"/>
         <updated>2022-01-27T06:18:20.109Z</updated>
         <content type="html"><![CDATA[금융보안원(원장 김철웅)은 최근 자체 탐지·수집한 보이스피싱 악성 앱 5천여 개를 분석하여 악성 앱의 92%가 상위 3개 조직에 의해 유포되는 것을 확인했다고 밝혔다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[공공기관에서 병원, 산업현장까지 ‘철통보안’ SK 양자암호가 곳곳에 구축]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104447&amp;page=1&amp;mkind=1&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104447&amp;page=1&amp;mkind=1&amp;kind=2"/>
-        <updated>2022-01-27T06:18:20.112Z</updated>
-        <content type="html"><![CDATA[SK텔레콤은 지난 26일 과학기술정보통신부가 판교 기업지원허브에서 개최한 ‘양자기술 성과보고 대회’에 참석해 ‘양자암호통신 시범 인프라’ 구축 성과 및 향후 계획을 발표했다.]]></content>
     </entry>
 </feed>
