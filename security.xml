@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-01-27T23:18:58.943Z</updated>
+    <updated>2022-01-28T00:53:22.851Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[개인정보위, 자율주행차 업계와 개인정보 보호 해법 찾는다]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104473&amp;page=1&amp;mkind=1&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104473&amp;page=1&amp;mkind=1&amp;kind=2"/>
+        <updated>2022-01-28T00:51:47.811Z</updated>
+        <content type="html"><![CDATA[인정보보호위원회(위원장 윤종인, 이하‘개인정보위’)는 1월 27일(목) 현대자동차·기아 남양기술연구소(경기 화성시 소재) 연구개발 현장을 방문해 개인정보 처리 기술 현황과 보호 대책 등에 대한 간담회를 가지고, ‘이용자 신뢰 기반의 자율주행 활성화 방안’에 대해 종합적...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[사이버 보안은 망가져 있고, 근본부터 뜯어고쳐야 한다]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104472&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104472&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-01-28T00:51:47.821Z</updated>
+        <content type="html"><![CDATA[요 몇 년 간 보안 업계가 누적시켜 온 숫자들과, 앞으로 보안 업계를 꾸준하게 괴롭힐 로그4셸 취약점 사태까지 보면 뭔가 잘못됐다는 느낌을 지우기가 힘들다. 보안 업계에 종사하고 있다고 해서 너그러이 봐주지 말고, 한 번 객관적으로 우리 업계를 바라보자. 우리는 지금 ...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[플랜티넷, 무인 스낵·주류자판기에 ‘모바일 운전면허 인증 서비스’ 도입]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=104471&amp;page=1&amp;mkind=1&amp;kind=3</id>
@@ -109,19 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=104456&amp;page=1&amp;mkind=1&amp;kind=3"/>
         <updated>2022-01-27T02:32:41.213Z</updated>
         <content type="html"><![CDATA[보안 전문 기업 이스트시큐리티(대표 정상원)는 코로나19로 인해 작년에 이어 올해도 비대면 설날이 될 것으로 예상됨에 따라, 사이버 보안 피해를 예방하고 안전한 설 연휴를 보내기 위해 필요한 5가지 보안수칙을 27일 발표했다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[개인정보보호 전문강사협회, 황선호 신임 회장 선출]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104454&amp;page=1&amp;mkind=1&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104454&amp;page=1&amp;mkind=1&amp;kind=2"/>
-        <updated>2022-01-27T01:58:42.645Z</updated>
-        <content type="html"><![CDATA[개인정보보호 전문강사협회는 지난 22일 신년회 및 정기총회가 강남구에 위치한 협회교육장에서 개최됐다고 27일 밝혔다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[과기정통부, 10대 필수전략기술인 양자기술 육성 본격 추진한다]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104432&amp;page=1&amp;mkind=1&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104432&amp;page=1&amp;mkind=1&amp;kind=2"/>
-        <updated>2022-01-27T01:58:42.645Z</updated>
-        <content type="html"><![CDATA[과학기술정보통신부는 지난 26일 10대 필수전략기술인 양자기술을 집중 육성하기 위해 그간의 양자암호통신·양자센서 등 양자 분야 기술개발 및 상용화 성과를 확인하고 양자기술·산업 간 선순환 구조 구축을 지원하는 ‘양자산업생태계지원센터’를 판교 기업지원허브에 개소했다고 밝...]]></content>
     </entry>
 </feed>

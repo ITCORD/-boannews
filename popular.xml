@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 27 Jan 2022 23:18:58 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jan 2022 00:53:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -128,6 +128,14 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/zoom-thumb-0121.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[거의 모든 리눅스 배포판에서 발견된 폰킷 취약점, 공격 난이도 낮아]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104468&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104468&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Fri, 28 Jan 2022 00:51:39 GMT</pubDate>
+            <content:encoded><![CDATA[리눅스 배포판 거의 전부에 탑재되어 있는 인증 소프트웨어에서 로컬 권한 상승 취약점이 발견됐다. 익스플로잇이 매우 쉬우며, 오류에 대한 기술적 설명만 가지고도 해...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/pen-thumb-0127.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[부산시, 전국 최초 ‘여성친화형 1인 가구 안전복합타운’ 조성 추진]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104302&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104302&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
@@ -157,13 +165,6 @@
             <pubDate>Wed, 26 Jan 2022 09:15:27 GMT</pubDate>
             <content:encoded><![CDATA[송파구는 지난해 재난안전 관련 3개 분야에서 우수기관으로 선정돼 3관왕의 성과를 올렸다. 박성수 송파구청장은 “코로나19 위기 속에서도 구민의 안전을 최우선으로 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/1-241(295).jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SR, 2021년 ‘뉴딜 10대 우수 과제’ 성과 발표]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104299&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104299&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
-            <pubDate>Thu, 27 Jan 2022 09:16:24 GMT</pubDate>
-            <content:encoded><![CDATA[SRT 운영사 SR은 지난 한 해 동안 추진한 뉴딜 과제에 대해 성과 평가를 하고, 집행 실적과 파급성이 높은 10대 우수 과제를 선정해 지난 21일 발표했다.]]></content:encoded>
         </item>
     </channel>
 </rss>
