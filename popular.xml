@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Jan 2022 09:17:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jan 2022 10:19:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -56,20 +56,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/1-235(295).jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[사물인터넷 장비를 겨냥한 사이버 공격, 어디까지 심해지려나]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104423&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104423&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Thu, 27 Jan 2022 06:18:12 GMT</pubDate>
-            <content:encoded><![CDATA[사물인터넷 장비들을 겨냥한 사이버 공격이 증가하면서 보안 전문가들의 보안 경고가 계속해서 나오고 있다. 보안 업체 인텔471(Intel 471)의 경우 1월 25...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/iot-thumb-0126.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[거의 모든 리눅스 배포판에서 발견된 폰킷 취약점, 공격 난이도 낮아]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104468&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104468&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Fri, 28 Jan 2022 00:51:39 GMT</pubDate>
             <content:encoded><![CDATA[리눅스 배포판 거의 전부에 탑재되어 있는 인증 소프트웨어에서 로컬 권한 상승 취약점이 발견됐다. 익스플로잇이 매우 쉬우며, 오류에 대한 기술적 설명만 가지고도 해...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/pen-thumb-0127.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[사물인터넷 장비를 겨냥한 사이버 공격, 어디까지 심해지려나]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104423&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104423&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Thu, 27 Jan 2022 06:18:12 GMT</pubDate>
+            <content:encoded><![CDATA[사물인터넷 장비들을 겨냥한 사이버 공격이 증가하면서 보안 전문가들의 보안 경고가 계속해서 나오고 있다. 보안 업체 인텔471(Intel 471)의 경우 1월 25...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/iot-thumb-0126.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[긴급] 국방 관련 전문가 좌담회로 위장한 악성메일 유포중]]></title>
