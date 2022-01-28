@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Jan 2022 04:21:12 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jan 2022 05:15:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,14 +30,6 @@
             <pubDate>Tue, 25 Jan 2022 00:57:12 GMT</pubDate>
             <content:encoded><![CDATA[스팸성 전화와 문자, 메일을 매일같이 받아보는 것이 어느새 한국인의 일상이 됐다. 이쯤 되면 도대체 내 정보는 언제 어떻게 털린 걸까라는 의문이 들 법도 하다. ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/RESIZEinfo20220117).jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[보.알.남] 내 사생활이 인터넷에? 하드디스크와 휴대폰, 안전한 폐기 방법]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104220&amp;page=1&amp;kind=5&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104220&amp;page=1&amp;kind=5&amp;search=title&amp;find=</guid>
-            <pubDate>Sat, 22 Jan 2022 05:13:20 GMT</pubDate>
-            <content:encoded><![CDATA[우리가 일상적으로 사용하고 폐기하는 하드디스크와 휴대폰에는 중요한 데이터나 금융정보, 그리고 사생활 관련 내용이 들어있는 경우가 많다. 이러한 정보를 제대로 삭제...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/RESIZEHARD20220114.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[MS 원드라이브가 공격자들의 C&C? 새로운 전략 선보인 APT 단체]]></title>
@@ -149,6 +141,14 @@
             <pubDate>Thu, 27 Jan 2022 09:16:24 GMT</pubDate>
             <content:encoded><![CDATA[리눅스 서버의 CWP라는 제어판 요소에서 두 개의 취약점이 발견됐다. 하나는 CVE-2021-45467이라는 파일 인클루젼(file inclusion) 취약점이고...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/lin-thumb-0125.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022년 시행되는 보안·안전 주요 법령, 어떤 게 있나]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104457&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104457&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
+            <pubDate>Fri, 28 Jan 2022 05:13:39 GMT</pubDate>
+            <content:encoded><![CDATA[2022년도 어느새 한 달이 훌쩍 지나갔다. 그리고 1월에만 453개의 법령이 새롭게 시행됐다. 2022년에 시행될 법령은 933개에 달한다. 대부분 상반기, 그...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/RESIZERESIZEinsight20220127-1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[송파구, 2021년 재난안전 분야 기관 표창 3관왕]]></title>
