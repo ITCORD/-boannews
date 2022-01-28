@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Jan 2022 05:15:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jan 2022 06:20:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[윤석열 국민의힘 대통령 후보 “국가차원의 사이버대응체계 일원화” (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104504&amp;page=1&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104504&amp;page=1&amp;kind=2</guid>
+            <pubDate>Fri, 28 Jan 2022 06:18:14 GMT</pubDate>
+            <content:encoded><![CDATA[윤석열 국민의힘 대통령 후보가 디지털 경제 비전을 위한 6가지 실천사항을 발표하면서 국가차원의 사이버대응체계 일원화를 내걸었다. 1월 28일 열린 ‘디지털...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/yoon_012801_main.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[대 퇴직의 시대, 사라지는 지식들을 어떻게 되살려야 할까 (보안뉴스 ─ 전체기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104474&amp;page=1&amp;kind=4</link>
@@ -80,12 +88,12 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/RESIZEsuprema20220125.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[영상보안 대표기업 2022년 출사표-1] 한화테크윈 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104377&amp;page=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104377&amp;page=1&amp;kind=3</guid>
-            <pubDate>Fri, 28 Jan 2022 01:58:14 GMT</pubDate>
-            <content:encoded><![CDATA[한화테크윈은 단순히 CCTV를 만들고 판매하는 것에 그치지 않고, ‘솔루션 프로바이더’로 고객이 직면한 문제점을 해결할 수 있는 기업으로 입지를 넓혀가고 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/RESIZEKakaoTalk_20220126_102721212.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[라인, 사용자 정보 보호 대책 담은 특별 웹사이트 공개 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104505&amp;page=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104505&amp;page=1&amp;kind=3</guid>
+            <pubDate>Fri, 28 Jan 2022 06:18:14 GMT</pubDate>
+            <content:encoded><![CDATA[라인(LINE Corporation, 대표이사 사장 이데자와 다케시)는 ‘라인 프라이버시 데이(LINE Privacy Day)’를 기념해 라인의 사용자 정...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/RESIZERESIZELINE.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[부울경 정보보호산업협회 정기총회 개최, 정재원 신임 회장 선출 (보안뉴스 ─ 전체기사)]]></title>
@@ -94,6 +102,14 @@
             <pubDate>Fri, 28 Jan 2022 01:58:14 GMT</pubDate>
             <content:encoded><![CDATA[부울경 정보보호산업협회는 지난 1월 16일, 부산시 동래구에 위치한 협회교육장에서 정기총회를 개최하고, 정재원 신임 회장을 선출했다. 정기총회는 라이브방송...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/busan_012801_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[영상보안 대표기업 2022년 출사표-1] 한화테크윈 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104377&amp;page=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104377&amp;page=1&amp;kind=3</guid>
+            <pubDate>Fri, 28 Jan 2022 01:58:14 GMT</pubDate>
+            <content:encoded><![CDATA[한화테크윈은 단순히 CCTV를 만들고 판매하는 것에 그치지 않고, ‘솔루션 프로바이더’로 고객이 직면한 문제점을 해결할 수 있는 기업으로 입지를 넓혀가고 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/RESIZEKakaoTalk_20220126_102721212.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[파이오링크-틸론, VDI 원격접속 게이트웨이 고도화 사업 위해 맞손 (보안뉴스 ─ 전체기사)]]></title>
@@ -221,21 +237,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/1-313(295).jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[서울시, 기초생활수급자 등 화재취약 2만8,500가구에 주택용 소방시설 보급 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104477&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104477&amp;page=1&amp;kind=2</guid>
-            <pubDate>Fri, 28 Jan 2022 00:51:30 GMT</pubDate>
-            <content:encoded><![CDATA[서울시는 경제적 여력이 부족한 기초생활수급자와 차상위계층, 중증 청각장애인 등 화재취약계층 2만8,500세대에 주택용 소방시설을 무상으로 보급한다고 밝혔다...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[서울디지털재단, 어르신도 키오스크 사용 쉽도록 표준가이드 만든다 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104478&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104478&amp;page=1&amp;kind=2</guid>
-            <pubDate>Fri, 28 Jan 2022 00:51:30 GMT</pubDate>
-            <content:encoded><![CDATA[서울디지털재단은 고령자들의 디지털 소외 문제를 해결하기 위해 키오스크에 적용 가능한 ‘고령층 친화 디지털 접근성 표준’을 개발했다. 구체적인 내용은 서울디...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/1-312(295).jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[2022년에도 계속되는 로그4j 사태... 3가지 취약점 추가 공개 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104304&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104304&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
@@ -316,20 +317,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/clo-0thumb-0124.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[ETRI, ‘2022년 10대 기술 전망’ 발표 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104296&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104296&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
-            <pubDate>Mon, 24 Jan 2022 04:19:14 GMT</pubDate>
-            <content:encoded><![CDATA[한국전자통신연구원(ETRI)은 ‘ETRI가 바라본 2022년 10대 기술 전망’ 보고서를 발간했다. 10대 기술은 ETRI 연구진의 분석과 국내외 기술동향 보고서...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/1-237(295).jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[거의 모든 리눅스 배포판에서 발견된 폰킷 취약점, 공격 난이도 낮아 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104468&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104468&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Fri, 28 Jan 2022 00:51:39 GMT</pubDate>
             <content:encoded><![CDATA[리눅스 배포판 거의 전부에 탑재되어 있는 인증 소프트웨어에서 로컬 권한 상승 취약점이 발견됐다. 익스플로잇이 매우 쉬우며, 오류에 대한 기술적 설명만 가지고도 해...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/pen-thumb-0127.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ETRI, ‘2022년 10대 기술 전망’ 발표 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104296&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104296&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
+            <pubDate>Mon, 24 Jan 2022 04:19:14 GMT</pubDate>
+            <content:encoded><![CDATA[한국전자통신연구원(ETRI)은 ‘ETRI가 바라본 2022년 10대 기술 전망’ 보고서를 발간했다. 10대 기술은 ETRI 연구진의 분석과 국내외 기술동향 보고서...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/1-237(295).jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[러시아의 레빌 체포 작전, 다크웹에 커다란 공포심 심었다 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
@@ -392,6 +393,20 @@
             <guid>https://www.boannews.com/media/view.asp?idx=104299&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
             <pubDate>Fri, 28 Jan 2022 02:34:41 GMT</pubDate>
             <content:encoded><![CDATA[SRT 운영사 SR은 지난 한 해 동안 추진한 뉴딜 과제에 대해 성과 평가를 하고, 집행 실적과 파급성이 높은 10대 우수 과제를 선정해 지난 21일 발표했다.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[북한의 라자루스, 윈도 업데이트 클라이언트와 깃허브 악용 (보안뉴스 ─ SECURITY)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104501&amp;page=1&amp;mkind=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104501&amp;page=1&amp;mkind=1&amp;kind=1</guid>
+            <pubDate>Fri, 28 Jan 2022 06:18:33 GMT</pubDate>
+            <content:encoded><![CDATA[북한의 라자루스가 최근 윈도 업데이트 클라이언트와 코드 리포지터리인 깃허브를 악용해 멀웨어를 유포하고 있다는 사실이 드러났다. 이들은 구인을 테마로 한 메일에 악성 파일을 첨부하여 피해자들에게 전송하고 있다. 피해자들이 이를 열 경우 악성 매크로가 실시되면서 윈도 업데...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[딥닷웹 운영자, 불법 다크웹 시장 광고한 죄로 투옥돼 (보안뉴스 ─ SECURITY)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104500&amp;page=1&amp;mkind=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104500&amp;page=1&amp;mkind=1&amp;kind=1</guid>
+            <pubDate>Fri, 28 Jan 2022 06:18:33 GMT</pubDate>
+            <content:encoded><![CDATA[딥닷웹(DeepDotWeb)이라는 다크웹 뉴스 및 리뷰 사이트를 운영하던 이스라엘 국적자 한 명이 미국 재판정에서 97개월 징역형을 선고받았다. 다크웹 소식을 전한 것만이 아니라 불법 서비스를 광고하고, 심지어 스스로 자금 세탁에 적극 가담했기 때문이다. 이 인물은 2...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[보테나고 봇넷의 코드, 깃허브 통해 유출돼 (보안뉴스 ─ SECURITY)]]></title>
@@ -497,20 +512,6 @@
             <guid>https://www.boannews.com/media/view.asp?idx=104447&amp;page=1&amp;mkind=1&amp;kind=2</guid>
             <pubDate>Thu, 27 Jan 2022 06:18:20 GMT</pubDate>
             <content:encoded><![CDATA[SK텔레콤은 지난 26일 과학기술정보통신부가 판교 기업지원허브에서 개최한 ‘양자기술 성과보고 대회’에 참석해 ‘양자암호통신 시범 인프라’ 구축 성과 및 향후 계획을 발표했다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[KT, 양자암호통신 글로벌 표준·기술 등 핵심 영역 경쟁력 강화 (보안뉴스 ─ SECURITY)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104446&amp;page=1&amp;mkind=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104446&amp;page=1&amp;mkind=1&amp;kind=3</guid>
-            <pubDate>Thu, 27 Jan 2022 06:18:20 GMT</pubDate>
-            <content:encoded><![CDATA[KT가 대한민국 양자암호통신의 글로벌 경쟁력을 높이기 위해 표준과 기술 등 핵심 영역에서 지속적인 연구개발과 상용화를 하고 있다고 밝혔다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[접근 권한 브로커, 로그4셸 공격에 적극적으로 관여해 (보안뉴스 ─ SECURITY)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104466&amp;page=1&amp;mkind=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104466&amp;page=1&amp;mkind=1&amp;kind=1</guid>
-            <pubDate>Thu, 27 Jan 2022 06:18:20 GMT</pubDate>
-            <content:encoded><![CDATA[해킹 그룹들 중에는 ‘최초 접근 권한’만을 판매하는 자들도 있다. 공격 경로를 뚫어놓고 이를 판매하는 건데, 이런 조직들 중 프로펫 스파이더(Prophet Spider)라는 그룹이 있다. 최근 로그4셸(Log4Shell) 취약점에 대한 패치가 되지 않은 VM웨어 호라이...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[중기부, 디지털 전환·탄소중립 등 중소기업 기술개발 유망 품목 발표 (보안뉴스 ─ IT)]]></title>
@@ -1607,6 +1608,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2021/08/tthh(2).jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[윤석열 국민의힘 대통령 후보 “국가차원의 사이버대응체계 일원화” (보안뉴스 ─ 정책)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104504&amp;page=1&amp;mkind=&amp;kind=2&amp;skind=6&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104504&amp;page=1&amp;mkind=&amp;kind=2&amp;skind=6&amp;search=title&amp;find=</guid>
+            <pubDate>Fri, 28 Jan 2022 06:19:40 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/view.asp?idx=104504&amp;page=1&amp;mkind=&amp;kind=2&amp;skind=6&amp;search=title&amp;find=">
+					
+					<img src="/media/upFiles2/2022/01/yoon_012801_main.jpg" alt="" class="news_img" height="70">
+					
+					<span class="news_txt">윤석열 국민의힘 대통령 후보 “국가차원의 사이버대응체계 일원화”</span>
+					</a><br>
+					<a href="/media/view.asp?idx=104504&amp;page=1&amp;mkind=&amp;kind=2&amp;skind=6&amp;search=title&amp;find=">윤석열 국민의힘 대통령 후보가 디지털 경제 비전을 위한 6가지 실천사항을 발표하면서 국가차원의 사이버대응체계 일원화를 내걸었다. 1월 28일 열린 ‘디지털 지구 ...</a> <span class="news_writer">원병철 기자 | 2022년 01월 28일 14:28</span>]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/yoon_012801_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[운전면허증이 스마트폰 속으로... 모바일 신분증 시대 열린다 (보안뉴스 ─ 정책)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104488&amp;page=1&amp;mkind=&amp;kind=2&amp;skind=6&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104488&amp;page=1&amp;mkind=&amp;kind=2&amp;skind=6&amp;search=title&amp;find=</guid>
@@ -1871,20 +1886,6 @@
 					</a><br>
 					<a href="/media/view.asp?idx=103256&amp;page=1&amp;mkind=&amp;kind=2&amp;skind=6&amp;search=title&amp;find=">김부겸 국무총리는 지난 9일 제138회 국정현안점검조정회의(서울↔세종 영상회의)를 주재했다. 이날 회의에서 정부는 ‘사이버수사 역량 강화 방안’을 논의했다.</a> <span class="news_writer">박미영 기자 | 2021년 12월 11일 15:20</span>]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2021/12/20211211cyber-s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[대한민국, 국제민간항공기구(ICAO) 항공보안 허백용 전문위원 진출 (보안뉴스 ─ 정책)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=103204&amp;page=1&amp;mkind=&amp;kind=2&amp;skind=6&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=103204&amp;page=1&amp;mkind=&amp;kind=2&amp;skind=6&amp;search=title&amp;find=</guid>
-            <pubDate>Wed, 12 Jan 2022 20:16:26 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/view.asp?idx=103204&amp;page=1&amp;mkind=&amp;kind=2&amp;skind=6&amp;search=title&amp;find=">
-					
-					<img src="/media/upFiles2/2021/12/20211210Kook-sm.jpg" alt="" class="news_img" height="70">
-					
-					<span class="news_txt">대한민국, 국제민간항공기구(ICAO) 항공보안 허백용 전문위원 진출</span>
-					</a><br>
-					<a href="/media/view.asp?idx=103204&amp;page=1&amp;mkind=&amp;kind=2&amp;skind=6&amp;search=title&amp;find=">국토교통부는 국제민간항공기구(ICAO) 항공보안 전문위원(Aviation Security Panel)으로 국토교통부 허백용 주무관이 지난 11월 말 선출됐다고 밝...</a> <span class="news_writer">박미영 기자 | 2021년 12월 10일 10:16</span>]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2021/12/20211210Kook-sm.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[대 퇴직의 시대, 사라지는 지식들을 어떻게 되살려야 할까 (보안뉴스 ─ 국제)]]></title>
@@ -2447,6 +2448,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2021/11/20211201cctv-s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[라인, 사용자 정보 보호 대책 담은 특별 웹사이트 공개 (보안뉴스 ─ 기업뉴스)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104505&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104505&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=</guid>
+            <pubDate>Fri, 28 Jan 2022 06:20:12 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/view.asp?idx=104505&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=">
+					
+					<img src="/media/upFiles2/2022/01/RESIZERESIZELINE.png" alt="" class="news_img" height="70">
+					
+					<span class="news_txt">라인, 사용자 정보 보호 대책 담은 특별 웹사이트 공개</span>
+					</a><br>
+					<a href="/media/view.asp?idx=104505&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=">라인(LINE Corporation, 대표이사 사장 이데자와 다케시)는 ‘라인 프라이버시 데이(LINE Privacy Day)’를 기념해 라인의 사용자 정보 보호...</a> <span class="news_writer">위아람 기자 | 2022년 01월 28일 14:51</span>]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/RESIZERESIZELINE.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[[사이버 보안 대표기업 2022년 출사표 -1] 안랩 (보안뉴스 ─ 기업뉴스)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104412&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104412&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=</guid>
@@ -2711,20 +2726,6 @@
 					</a><br>
 					<a href="/media/view.asp?idx=104331&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=">화웨이가 ‘글로벌 테크포굿(Tech4Good) 경연 대회’의 우승 팀을 발표했다. 이번 대회에서 태국의 ‘알유오케이(Are u OK?)’ 팀이 태국 내 환자들의 ...</a> <span class="news_writer">원병철 기자 | 2022년 01월 25일 10:08</span>]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/huawei_012501_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[안랩, 임직원 자녀 대상 온라인 코딩 교육 ‘미래상상 코딩캠프’ 개최 (보안뉴스 ─ 기업뉴스)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104306&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104306&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=</guid>
-            <pubDate>Mon, 24 Jan 2022 03:20:12 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/view.asp?idx=104306&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=">
-					
-					<img src="/media/upFiles2/2022/01/ahn_012401_main.jpg" alt="" class="news_img" height="70">
-					
-					<span class="news_txt">안랩, 임직원 자녀 대상 온라인 코딩 교육 ‘미래상상 코딩캠프’ 개최</span>
-					</a><br>
-					<a href="/media/view.asp?idx=104306&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=">안랩(대표 강석균)이 1월 24일부터 26일까지 3일간 임직원의 초·중등학생 자녀를 대상으로 온라인 코딩 교육 ‘2022 겨울방학 미래상상 코딩캠프(이하 ‘미래상...</a> <span class="news_writer">원병철 기자 | 2022년 01월 24일 11:31</span>]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/ahn_012401_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[개인정보보호 전문강사협회, 황선호 신임 회장 선출 (보안뉴스 ─ 인사 부고)]]></title>
