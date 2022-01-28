@@ -4,9 +4,49 @@
         <title>보안뉴스 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 28 Jan 2022 02:00:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jan 2022 02:36:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[록빗 랜섬웨어, 프랑스 사법부와 유럽 회사들 공격]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104502&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104502&amp;page=1&amp;kind=1</guid>
+            <pubDate>Fri, 28 Jan 2022 02:34:32 GMT</pubDate>
+            <content:encoded><![CDATA[록빗(LockBit) 랜섬웨어가 최근 들어 기승을 부리고 있다. 얼마 전에는 프랑스 사법부까지도 록빗에 혼이 났다고 한다. 상세한 내용은 아직 발표되지 않...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/fra-thumb-0128.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[북한의 라자루스, 윈도 업데이트 클라이언트와 깃허브 악용]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104501&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104501&amp;page=1&amp;kind=1</guid>
+            <pubDate>Fri, 28 Jan 2022 02:34:32 GMT</pubDate>
+            <content:encoded><![CDATA[북한의 라자루스가 최근 윈도 업데이트 클라이언트와 코드 리포지터리인 깃허브를 악용해 멀웨어를 유포하고 있다는 사실이 드러났다. 이들은 구인을 테마로 한 메...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/up-thumb-0128.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[딥닷웹 운영자, 불법 다크웹 시장 광고한 죄로 투옥돼]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104500&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104500&amp;page=1&amp;kind=1</guid>
+            <pubDate>Fri, 28 Jan 2022 02:34:32 GMT</pubDate>
+            <content:encoded><![CDATA[딥닷웹(DeepDotWeb)이라는 다크웹 뉴스 및 리뷰 사이트를 운영하던 이스라엘 국적자 한 명이 미국 재판정에서 97개월 징역형을 선고받았다. 다크웹 소...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/ddw-tumb-0128.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[보테나고 봇넷의 코드, 깃허브 통해 유출돼]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104499&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104499&amp;page=1&amp;kind=1</guid>
+            <pubDate>Fri, 28 Jan 2022 02:34:32 GMT</pubDate>
+            <content:encoded><![CDATA[보테나고(BotenaGo)라는 봇넷 멀웨어의 소스코드가 깃허브를 통해 유출됐다. 이 때문에 조금의 개발 지식만 가지고 있어도 봇넷 멀웨어를 만들 수 있게 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/code-thumb-0128.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아웃룩의 보안 장치를 우회하게 해 주는 취약점 발견돼]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104498&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104498&amp;page=1&amp;kind=1</guid>
+            <pubDate>Fri, 28 Jan 2022 02:34:32 GMT</pubDate>
+            <content:encoded><![CDATA[보안 업체 트러스트웨이브(Trustwave)가 마이크로소프트 아웃룩의 보안 기능을 우회하는 방법을 발견했다. 이는 CVE-2020-0696이라는 취약점 때...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/mail-thumb-0128.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[사이버 보안 대표기업 2022년 출사표 -1] 안랩]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104412&amp;page=1&amp;kind=3</link>
@@ -46,46 +86,6 @@
             <pubDate>Fri, 28 Jan 2022 00:51:30 GMT</pubDate>
             <content:encoded><![CDATA[지갑 속에 넣어 지니고 다녀야 했던 운전면허증을 스마트폰에 저장하여 사용할 수 있게 됨으로써 본격적인 모바일 신분증 시대가 열린다. 행정안전부와 경찰청은 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/20220128MOBILE-S.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022년 시행되는 보안·안전 주요 법령, 어떤 게 있나]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104457&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104457&amp;page=1&amp;kind=2</guid>
-            <pubDate>Thu, 27 Jan 2022 10:16:04 GMT</pubDate>
-            <content:encoded><![CDATA[2022년도 어느새 한 달이 훌쩍 지나갔다. 그리고 1월에만 453개의 법령이 새롭게 시행됐다. 2022년에 시행될 법령은 933개에 달한다. 대부분 상반...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/RESIZERESIZEinsight20220127-1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Weekly Security Premium Report 제36호 발간! 인공지능 선결과제와 보안 활용사례]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104475&amp;page=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104475&amp;page=1&amp;kind=3</guid>
-            <pubDate>Thu, 27 Jan 2022 09:16:15 GMT</pubDate>
-            <content:encoded><![CDATA[1월 27일 발간된 ‘Weekly Security Premium Report’ 제36호에는 &lt;보안 심층 리포트&gt; 코너에서 인공지능 활용의 선결과...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/20220127report-sm.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[사이버 보안은 망가져 있고, 근본부터 뜯어고쳐야 한다]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104472&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104472&amp;page=1&amp;kind=1</guid>
-            <pubDate>Thu, 27 Jan 2022 07:14:34 GMT</pubDate>
-            <content:encoded><![CDATA[요 몇 년 간 보안 업계가 누적시켜 온 숫자들과, 앞으로 보안 업계를 꾸준하게 괴롭힐 로그4셸 취약점 사태까지 보면 뭔가 잘못됐다는 느낌을 지우기가 힘들다...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/shaky-thumb-0127.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[거의 모든 리눅스 배포판에서 발견된 폰킷 취약점, 공격 난이도 낮아]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104468&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104468&amp;page=1&amp;kind=1</guid>
-            <pubDate>Thu, 27 Jan 2022 06:18:02 GMT</pubDate>
-            <content:encoded><![CDATA[리눅스 배포판 거의 전부에 탑재되어 있는 인증 소프트웨어에서 로컬 권한 상승 취약점이 발견됐다. 익스플로잇이 매우 쉬우며, 오류에 대한 기술적 설명만 가지...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/pen-thumb-0127.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[보이스피싱 용 악성 앱 92%, 상위 3개 범죄 조직이 유포]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104467&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104467&amp;page=1&amp;kind=1</guid>
-            <pubDate>Thu, 27 Jan 2022 06:18:02 GMT</pubDate>
-            <content:encoded><![CDATA[금융보안원(원장 김철웅)은 최근 자체 탐지·수집한 보이스피싱 악성 앱 5천여 개를 분석하여 악성 앱의 92%가 상위 3개 조직에 의해 유포되는 것을 확인했...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/money_012701_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[부울경 정보보호산업협회 정기총회 개최, 정재원 신임 회장 선출]]></title>
