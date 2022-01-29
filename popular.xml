@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 29 Jan 2022 00:49:53 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Jan 2022 01:54:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -144,20 +144,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/yoon_012801_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[리눅스 배포판 다수에서 권한 상승 취약점 발견돼]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104383&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104383&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Sat, 29 Jan 2022 00:47:45 GMT</pubDate>
-            <content:encoded><![CDATA[리눅스의 배포판 다수에 존재하는 폴킷(Polkit)이라는 요소에서 취약점이 발견됐다. CVE-2021-4034로, 이름은 폰킷(PwnKit)이다. 이 취약점을 익...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/lin-thumb--0126.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[단독] 코로나 ‘3차 백신 접종 이상반응 모니터링’ 위장 해킹 발견]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104506&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104506&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Sat, 29 Jan 2022 00:47:45 GMT</pubDate>
             <content:encoded><![CDATA[코로나19 백신의 3차 접종이 전 세계적으로 이슈가 되고 있는 가운데, 최근 중앙방역대책본부로 위장해 3차 백신 접종 이상반응 모니터링을 한다며 접근한 후 사용자...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/ESRC%20(1)_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[리눅스 배포판 다수에서 권한 상승 취약점 발견돼]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104383&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104383&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Sat, 29 Jan 2022 00:47:45 GMT</pubDate>
+            <content:encoded><![CDATA[리눅스의 배포판 다수에 존재하는 폴킷(Polkit)이라는 요소에서 취약점이 발견됐다. CVE-2021-4034로, 이름은 폰킷(PwnKit)이다. 이 취약점을 익...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/lin-thumb--0126.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[트위터에 콘텐츠 삭제 요청한 정부들, 최다 기록 갱신]]></title>

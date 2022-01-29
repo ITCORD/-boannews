@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=2</id>
     <title>보안뉴스 ─ IT</title>
-    <updated>2022-01-29T00:49:53.370Z</updated>
+    <updated>2022-01-29T01:54:12.721Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[광주시, 2022 스마트공장 보급·확산 사업 추진]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104491&amp;page=1&amp;mkind=2&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104491&amp;page=1&amp;mkind=2&amp;kind=2"/>
+        <updated>2022-01-29T01:52:44.546Z</updated>
+        <content type="html"><![CDATA[광주광역시는 올해 지역기업의 생산성과 경쟁력 강화를 위해 ‘2022년 광주광역시 ICT 융합 스마트공장 보급·확산 지원 사업’을 추진한다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[중기부, 디지털 전환·탄소중립 등 중소기업 기술개발 유망 품목 발표]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=104489&amp;page=1&amp;mkind=2&amp;kind=2</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=104439&amp;page=1&amp;mkind=2&amp;kind=2"/>
         <updated>2022-01-27T05:14:45.651Z</updated>
         <content type="html"><![CDATA[산업통상자원부은 2022년도 자동차 분야 R&amp;D 신규 지원 대상 과제 통합공고를 실시한다고 밝혔다. 산업통상자원부는 미래차로의 패러다임 변화에 대응해 우리 자동차산업의 지속가능한 성장과 글로벌 시장 선도를 위해 2022년도에 전기·수소차 등 친환경 자동차와 자율주행차 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[과기정통부, 2022년 석박사급 과학기술 혁신인재 양성에 413억원 지원]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104436&amp;page=1&amp;mkind=2&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104436&amp;page=1&amp;mkind=2&amp;kind=2"/>
-        <updated>2022-01-27T05:14:45.652Z</updated>
-        <content type="html"><![CDATA[과학기술정보통신부는 주요 전략분야별 석·박사급 고급 연구개발 인재 육성을 위해 2022년도 ‘과학기술혁신인재양성사업’ 신규 과제 공모를 27일부터 시작한다고 밝혔다.]]></content>
     </entry>
 </feed>
