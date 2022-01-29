@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 29 Jan 2022 18:22:36 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Jan 2022 19:16:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -345,20 +345,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/20210126KAISTMAIN-S.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
-            <title><![CDATA[사이버 공격 단체 몰랫츠, 공공 클라우드 서비스 이용해 공격 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104309&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104309&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Fri, 28 Jan 2022 19:12:17 GMT</pubDate>
-            <content:encoded><![CDATA[몰랫츠(Molerats)라는 사이버 공격 단체가 대형 클라우드 서비스를 공격 인프라로 활용하는 것이 적발됐다. 구글 드라이브와 드롭박스가 공격에 이용되고 있다고 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/mole-tumb-0124.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[윤석열 국민의힘 대통령 후보 “국가차원의 사이버대응체계 일원화” (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104504&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104504&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
             <pubDate>Sat, 29 Jan 2022 00:47:45 GMT</pubDate>
             <content:encoded><![CDATA[윤석열 국민의힘 대통령 후보가 디지털 경제 비전을 위한 6가지 실천사항을 발표하면서 국가차원의 사이버대응체계 일원화를 내걸었다. 1월 28일 열린 ‘디지털 지구 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/yoon_012801_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[사이버 공격 단체 몰랫츠, 공공 클라우드 서비스 이용해 공격 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104309&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104309&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Fri, 28 Jan 2022 19:12:17 GMT</pubDate>
+            <content:encoded><![CDATA[몰랫츠(Molerats)라는 사이버 공격 단체가 대형 클라우드 서비스를 공격 인프라로 활용하는 것이 적발됐다. 구글 드라이브와 드롭박스가 공격에 이용되고 있다고 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/mole-tumb-0124.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[분석과 탐지를 최대한 어렵게 만든 트릭봇 최신 버전 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
