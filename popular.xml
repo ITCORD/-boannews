@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 29 Jan 2022 22:16:24 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Jan 2022 23:15:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -152,20 +152,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/est_0126_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[포티넷, 가트너 ‘2022 네트워크 방화벽 핵심 기능 보고서’ 최고 점수 획득]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104373&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104373&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
-            <pubDate>Sat, 29 Jan 2022 08:17:15 GMT</pubDate>
-            <content:encoded><![CDATA[광범위하고 자동화된 통합 사이버보안 분야의 글로벌 리더인 포티넷코리아(조원균 대표)는 자사의 핵심 보안 솔루션 포티게이트(FortiGate)가 가트너 ‘2022 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/RESIZEFORTY20220126.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[모든 분야에 메타버스가 대세라는데... 보안은 괜찮은거야?]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104503&amp;page=1&amp;kind=5&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104503&amp;page=1&amp;kind=5&amp;search=title&amp;find=</guid>
             <pubDate>Sat, 29 Jan 2022 21:11:59 GMT</pubDate>
             <content:encoded><![CDATA[마인크래프트, 로블록스, 제패토. 언뜻 게임이라는 카테고리로 묶을 수 있을 것 같은 이 3가지 플랫폼의 공통점은 전부 다 메타버스라고 지칭된다는 것이다. 메타버스...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/RESIZERESIZEmeta20220127.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[포티넷, 가트너 ‘2022 네트워크 방화벽 핵심 기능 보고서’ 최고 점수 획득]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104373&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104373&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
+            <pubDate>Sat, 29 Jan 2022 08:17:15 GMT</pubDate>
+            <content:encoded><![CDATA[광범위하고 자동화된 통합 사이버보안 분야의 글로벌 리더인 포티넷코리아(조원균 대표)는 자사의 핵심 보안 솔루션 포티게이트(FortiGate)가 가트너 ‘2022 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/RESIZEFORTY20220126.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
