@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 29 Jan 2022 12:24:55 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 29 Jan 2022 13:17:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -313,20 +313,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/RESIZERESIZEinsight20220127-1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[러시아의 레빌 체포 작전, 다크웹에 커다란 공포심 심었다 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104313&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104313&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Tue, 25 Jan 2022 13:18:36 GMT</pubDate>
-            <content:encoded><![CDATA[사이버 범죄 활동을 억제하기 위한 사법 기관의 노력은 사이버 범죄자들 사이에 그리 큰 파장을 일으키지 않는 것이 보통이다. 하지만 지난 주 러시아에서 있었던 레빌...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/fear-thumb-0124.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[CWP에서 발견된 취약점, 리눅스 서버들을 위험하게 만든다 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104340&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104340&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Thu, 27 Jan 2022 09:16:24 GMT</pubDate>
             <content:encoded><![CDATA[리눅스 서버의 CWP라는 제어판 요소에서 두 개의 취약점이 발견됐다. 하나는 CVE-2021-45467이라는 파일 인클루젼(file inclusion) 취약점이고...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/lin-thumb-0125.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[러시아의 레빌 체포 작전, 다크웹에 커다란 공포심 심었다 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104313&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104313&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Tue, 25 Jan 2022 13:18:36 GMT</pubDate>
+            <content:encoded><![CDATA[사이버 범죄 활동을 억제하기 위한 사법 기관의 노력은 사이버 범죄자들 사이에 그리 큰 파장을 일으키지 않는 것이 보통이다. 하지만 지난 주 러시아에서 있었던 레빌...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/fear-thumb-0124.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[단독] 코로나 ‘3차 백신 접종 이상반응 모니터링’ 위장 해킹 발견 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
