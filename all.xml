@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 30 Jan 2022 15:16:19 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Jan 2022 16:22:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -371,20 +371,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/1-332(295).jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[분석과 탐지를 최대한 어렵게 만든 트릭봇 최신 버전 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104345&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104345&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Sat, 29 Jan 2022 00:47:45 GMT</pubDate>
-            <content:encoded><![CDATA[트릭봇(TrickBot) 트로이목마의 운영자들이 탐지와 분석을 피하기 위해 더 까다로운 방어 장치를 사용하기 시작했다. 때마침 트릭봇이 뱅킹 트로이목마로서 많이 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/analytiss-thumb-0125.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[주말판] 생산성과 보안성 다잡는 신생 서비스, ‘서비스형 네트워크’ (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104517&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104517&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Sun, 30 Jan 2022 12:21:54 GMT</pubDate>
             <content:encoded><![CDATA[‘서비스형 네트워크’ 기술이 떠오르고 있다. NaaS(Network-as-a-Service)라고 하는데, 네트워크 구성에 필요한 하드웨어, 소프트웨어, 운영과 유...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/net-thumb-0129.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[분석과 탐지를 최대한 어렵게 만든 트릭봇 최신 버전 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104345&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104345&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Sat, 29 Jan 2022 00:47:45 GMT</pubDate>
+            <content:encoded><![CDATA[트릭봇(TrickBot) 트로이목마의 운영자들이 탐지와 분석을 피하기 위해 더 까다로운 방어 장치를 사용하기 시작했다. 때마침 트릭봇이 뱅킹 트로이목마로서 많이 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/analytiss-thumb-0125.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[국제 행사 동시 통역사 노린 ‘北 연계 해킹’ 시도 있었다 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
