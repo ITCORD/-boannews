@@ -4,17 +4,9 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 30 Jan 2022 14:15:10 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Jan 2022 15:16:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[2022년에도 계속되는 로그4j 사태... 3가지 취약점 추가 공개]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104304&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104304&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Mon, 24 Jan 2022 03:18:35 GMT</pubDate>
-            <content:encoded><![CDATA[아파치재단이 로그4j(Log4j)에 대한 보안공지를 발표했다. 이번 공지는 CVE-2022-23302, CVE-2022-23305, CVE-2022-23307 취...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/apache_012301_main.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[MS 원드라이브가 공격자들의 C&C? 새로운 전략 선보인 APT 단체]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104408&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
@@ -64,20 +56,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/hauri_012501_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[클라우드 보안 전략을 수립할 때 반드시 기억해야 하는 것]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104314&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104314&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Tue, 25 Jan 2022 13:18:36 GMT</pubDate>
-            <content:encoded><![CDATA[클라우드 환경에서 발생하는 거의 모든 데이터 침해 사고는 환경 설정 오류와 이래저래 관련되어 있다. 한 때는 이런 실수가 쉴 새 없이 일어났고, 트위치, 우버, ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/clo-0thumb-0124.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[윤석열 국민의힘 대통령 후보 “국가차원의 사이버대응체계 일원화”]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104504&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104504&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
             <pubDate>Sat, 29 Jan 2022 00:47:45 GMT</pubDate>
             <content:encoded><![CDATA[윤석열 국민의힘 대통령 후보가 디지털 경제 비전을 위한 6가지 실천사항을 발표하면서 국가차원의 사이버대응체계 일원화를 내걸었다. 1월 28일 열린 ‘디지털 지구 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/yoon_012801_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[클라우드 보안 전략을 수립할 때 반드시 기억해야 하는 것]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104314&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104314&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Tue, 25 Jan 2022 13:18:36 GMT</pubDate>
+            <content:encoded><![CDATA[클라우드 환경에서 발생하는 거의 모든 데이터 침해 사고는 환경 설정 오류와 이래저래 관련되어 있다. 한 때는 이런 실수가 쉴 새 없이 일어났고, 트위치, 우버, ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/clo-0thumb-0124.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[CWP에서 발견된 취약점, 리눅스 서버들을 위험하게 만든다]]></title>
@@ -96,20 +88,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/RESIZERESIZEinsight20220127-1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[당신 메일 해킹해 음란행위 동영상 확보했다? 혹스 메일 또 유포]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104334&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104334&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Wed, 26 Jan 2022 07:14:41 GMT</pubDate>
-            <content:encoded><![CDATA[최근 ‘Don’t forget to pay the tax within 2 days!’라는 제목으로 혹스(Hoax) 메일이 유포 중에 있어 사용자들의 주의가 필요하...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/20220127report-S.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
             <title><![CDATA[사이버 공격 단체 몰랫츠, 공공 클라우드 서비스 이용해 공격]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104309&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104309&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Fri, 28 Jan 2022 19:12:17 GMT</pubDate>
             <content:encoded><![CDATA[몰랫츠(Molerats)라는 사이버 공격 단체가 대형 클라우드 서비스를 공격 인프라로 활용하는 것이 적발됐다. 구글 드라이브와 드롭박스가 공격에 이용되고 있다고 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/mole-tumb-0124.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[당신 메일 해킹해 음란행위 동영상 확보했다? 혹스 메일 또 유포]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104334&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104334&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Wed, 26 Jan 2022 07:14:41 GMT</pubDate>
+            <content:encoded><![CDATA[최근 ‘Don’t forget to pay the tax within 2 days!’라는 제목으로 혹스(Hoax) 메일이 유포 중에 있어 사용자들의 주의가 필요하...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/20220127report-S.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[모든 분야에 메타버스가 대세라는데... 보안은 괜찮은거야?]]></title>
@@ -166,6 +158,14 @@
             <pubDate>Sun, 30 Jan 2022 14:13:26 GMT</pubDate>
             <content:encoded><![CDATA[최근 북한 연계 해킹 조직의 소행으로 분류된 새로운 사이버 위협 활동이 다수 포착돼 주의가 요구된다. 보안 전문 기업 이스트시큐리티(대표 정상원)는 민간 통역사들...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/est_0126_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[포티넷, 가트너 ‘2022 네트워크 방화벽 핵심 기능 보고서’ 최고 점수 획득]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104373&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104373&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
+            <pubDate>Sun, 30 Jan 2022 15:14:33 GMT</pubDate>
+            <content:encoded><![CDATA[광범위하고 자동화된 통합 사이버보안 분야의 글로벌 리더인 포티넷코리아(조원균 대표)는 자사의 핵심 보안 솔루션 포티게이트(FortiGate)가 가트너 ‘2022 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/RESIZEFORTY20220126.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

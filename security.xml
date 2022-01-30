@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-01-30T14:15:10.870Z</updated>
+    <updated>2022-01-30T15:16:19.858Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[모든 분야에 메타버스가 대세라는데... 보안은 괜찮은거야?]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104503&amp;page=1&amp;mkind=1&amp;kind=5</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104503&amp;page=1&amp;mkind=1&amp;kind=5"/>
+        <updated>2022-01-30T15:14:42.801Z</updated>
+        <content type="html"><![CDATA[마인크래프트, 로블록스, 제패토. 언뜻 게임이라는 카테고리로 묶을 수 있을 것 같은 이 3가지 플랫폼의 공통점은 전부 다 메타버스라고 지칭된다는 것이다. 메타버스(metaverse)란 가상, 초월을 의미하는 ‘메타(meta)’와 우주를 의미하는 ‘유니버스(univers...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[설 연휴 기간 스팸·스미싱·보이스피싱 피해, 어떻게 예방해야 하나]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=104512&amp;page=1&amp;mkind=1&amp;kind=2</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=104475&amp;page=1&amp;mkind=1&amp;kind=3"/>
         <updated>2022-01-28T01:58:32.910Z</updated>
         <content type="html"><![CDATA[1월 27일 발간된 ‘Weekly Security Premium Report’ 제36호에는 &lt;보안 심층 리포트&gt; 코너에서 인공지능 활용의 선결과제와 보안 분야 국내 활용사례를 살펴보는 시간을 마련했다. 또한, &lt;꼭 알아야 할 한 주간의 보안뉴스 TOP ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[개인정보위, 자율주행차 업계와 개인정보 보호 해법 찾는다]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104473&amp;page=1&amp;mkind=1&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104473&amp;page=1&amp;mkind=1&amp;kind=2"/>
-        <updated>2022-01-28T00:51:47.811Z</updated>
-        <content type="html"><![CDATA[인정보보호위원회(위원장 윤종인, 이하‘개인정보위’)는 1월 27일(목) 현대자동차·기아 남양기술연구소(경기 화성시 소재) 연구개발 현장을 방문해 개인정보 처리 기술 현황과 보호 대책 등에 대한 간담회를 가지고, ‘이용자 신뢰 기반의 자율주행 활성화 방안’에 대해 종합적...]]></content>
     </entry>
 </feed>
