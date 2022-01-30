@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-01-30T13:17:50.130Z</updated>
+    <updated>2022-01-30T14:15:10.870Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[설 연휴 기간 스팸·스미싱·보이스피싱 피해, 어떻게 예방해야 하나]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104512&amp;page=1&amp;mkind=1&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104512&amp;page=1&amp;mkind=1&amp;kind=2"/>
+        <updated>2022-01-30T14:13:36.483Z</updated>
+        <content type="html"><![CDATA[SK텔레콤은 스팸 및 스미싱, 보이스피싱 사기 피해가 늘어나는 설 연휴를 앞두고 고객의 주의를 당부했다. 통신사에서 2021년 스미싱 의심 URL이 포함된 문자를 차단한 건수가 1~3월에 연간 사례의 64%가 넘을 만큼 집중되는 현상을 보였다. 이는 2021년 월평균 ...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[춘천시, 전 직원 개인정보보호 배상책임보험 가입]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=104511&amp;page=1&amp;mkind=1&amp;kind=2</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=104473&amp;page=1&amp;mkind=1&amp;kind=2"/>
         <updated>2022-01-28T00:51:47.811Z</updated>
         <content type="html"><![CDATA[인정보보호위원회(위원장 윤종인, 이하‘개인정보위’)는 1월 27일(목) 현대자동차·기아 남양기술연구소(경기 화성시 소재) 연구개발 현장을 방문해 개인정보 처리 기술 현황과 보호 대책 등에 대한 간담회를 가지고, ‘이용자 신뢰 기반의 자율주행 활성화 방안’에 대해 종합적...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사이버 보안은 망가져 있고, 근본부터 뜯어고쳐야 한다]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104472&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104472&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-01-28T00:51:47.821Z</updated>
-        <content type="html"><![CDATA[요 몇 년 간 보안 업계가 누적시켜 온 숫자들과, 앞으로 보안 업계를 꾸준하게 괴롭힐 로그4셸 취약점 사태까지 보면 뭔가 잘못됐다는 느낌을 지우기가 힘들다. 보안 업계에 종사하고 있다고 해서 너그러이 봐주지 말고, 한 번 객관적으로 우리 업계를 바라보자. 우리는 지금 ...]]></content>
     </entry>
 </feed>

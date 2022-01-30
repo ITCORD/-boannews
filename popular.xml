@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 30 Jan 2022 13:17:50 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 30 Jan 2022 14:15:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -152,20 +152,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/analytiss-thumb-0125.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[마스토돈 SNS를 악용하는 Vidar 악성코드 유포중]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104305&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104305&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Sat, 29 Jan 2022 00:47:45 GMT</pubDate>
-            <content:encoded><![CDATA[최근 Vidar 인포스틸러 악성코드가 마스토돈(Mastodon)이라는 SNS 플랫폼을 악용하는 정황이 확인됐다고 안랩 ASEC 분석팀이 밝혔다.]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/asec_012301_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[주말판] 생산성과 보안성 다잡는 신생 서비스, ‘서비스형 네트워크’]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104517&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104517&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Sun, 30 Jan 2022 12:21:54 GMT</pubDate>
             <content:encoded><![CDATA[‘서비스형 네트워크’ 기술이 떠오르고 있다. NaaS(Network-as-a-Service)라고 하는데, 네트워크 구성에 필요한 하드웨어, 소프트웨어, 운영과 유...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/net-thumb-0129.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[국제 행사 동시 통역사 노린 ‘北 연계 해킹’ 시도 있었다]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104369&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104369&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Sun, 30 Jan 2022 14:13:26 GMT</pubDate>
+            <content:encoded><![CDATA[최근 북한 연계 해킹 조직의 소행으로 분류된 새로운 사이버 위협 활동이 다수 포착돼 주의가 요구된다. 보안 전문 기업 이스트시큐리티(대표 정상원)는 민간 통역사들...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/est_0126_main.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
