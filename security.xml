@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-01-31T07:17:13.494Z</updated>
+    <updated>2022-01-31T08:20:48.602Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[주말판] 생산성과 보안성 다잡는 신생 서비스, ‘서비스형 네트워크’]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104517&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104517&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-01-31T08:18:57.583Z</updated>
+        <content type="html"><![CDATA[‘서비스형 네트워크’ 기술이 떠오르고 있다. NaaS(Network-as-a-Service)라고 하는데, 네트워크 구성에 필요한 하드웨어, 소프트웨어, 운영과 유지 관리 서비스를 전부 운영비로 처리하는 것이 특징이다. 장비나 솔루션을 구매할 때 미리 돈을 내버리는 게 ...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[모든 분야에 메타버스가 대세라는데... 보안은 괜찮은거야?]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=104503&amp;page=1&amp;mkind=1&amp;kind=5</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=104488&amp;page=1&amp;mkind=1&amp;kind=2"/>
         <updated>2022-01-28T01:58:32.910Z</updated>
         <content type="html"><![CDATA[지갑 속에 넣어 지니고 다녀야 했던 운전면허증을 스마트폰에 저장하여 사용할 수 있게 됨으로써 본격적인 모바일 신분증 시대가 열린다. 행정안전부와 경찰청은 국민에게 제공하는 첫 번째 모바일 신분증으로 ‘모바일 운전면허증’을 지난 27일부터 시범 발급한다고 밝혔다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Weekly Security Premium Report 제36호 발간! 인공지능 선결과제와 보안 활용사례]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104475&amp;page=1&amp;mkind=1&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104475&amp;page=1&amp;mkind=1&amp;kind=3"/>
-        <updated>2022-01-28T01:58:32.910Z</updated>
-        <content type="html"><![CDATA[1월 27일 발간된 ‘Weekly Security Premium Report’ 제36호에는 &lt;보안 심층 리포트&gt; 코너에서 인공지능 활용의 선결과제와 보안 분야 국내 활용사례를 살펴보는 시간을 마련했다. 또한, &lt;꼭 알아야 할 한 주간의 보안뉴스 TOP ...]]></content>
     </entry>
 </feed>
