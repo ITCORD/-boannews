@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 31 Jan 2022 13:20:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Jan 2022 14:16:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,14 +54,6 @@
             <pubDate>Wed, 26 Jan 2022 04:19:02 GMT</pubDate>
             <content:encoded><![CDATA[최근 국방 관련 전문가 좌담회 토론자 초청으로 위장한 악성메일이 유포되고 있어 국내 사용자들의 각별한 주의가 필요하다고 보안전문기업 하우리가 밝혔다.]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/hauri_012501_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[클라우드 보안 전략을 수립할 때 반드시 기억해야 하는 것]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104314&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104314&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Tue, 25 Jan 2022 13:18:36 GMT</pubDate>
-            <content:encoded><![CDATA[클라우드 환경에서 발생하는 거의 모든 데이터 침해 사고는 환경 설정 오류와 이래저래 관련되어 있다. 한 때는 이런 실수가 쉴 새 없이 일어났고, 트위치, 우버, ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/clo-0thumb-0124.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[CWP에서 발견된 취약점, 리눅스 서버들을 위험하게 만든다]]></title>
@@ -128,20 +120,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/RESIZEFORTY20220126.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[분석과 탐지를 최대한 어렵게 만든 트릭봇 최신 버전]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104345&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104345&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Sat, 29 Jan 2022 00:47:45 GMT</pubDate>
-            <content:encoded><![CDATA[트릭봇(TrickBot) 트로이목마의 운영자들이 탐지와 분석을 피하기 위해 더 까다로운 방어 장치를 사용하기 시작했다. 때마침 트릭봇이 뱅킹 트로이목마로서 많이 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/analytiss-thumb-0125.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[지난해 주목 받은 국내 보안업계 ‘인수합병’ 7건... 2022년 파급효과는?]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104518&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104518&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
             <pubDate>Mon, 31 Jan 2022 07:15:30 GMT</pubDate>
             <content:encoded><![CDATA[코로나 팬데믹이 오미크론과 같은 수많은 변종들에 의해 지속되면서 여러 산업을 어렵게 만들고 있다. 하지만 이러한 어려움 속에서도 주요 보안기업들은 신제품 개발이나...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/20445960_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[분석과 탐지를 최대한 어렵게 만든 트릭봇 최신 버전]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104345&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104345&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Sat, 29 Jan 2022 00:47:45 GMT</pubDate>
+            <content:encoded><![CDATA[트릭봇(TrickBot) 트로이목마의 운영자들이 탐지와 분석을 피하기 위해 더 까다로운 방어 장치를 사용하기 시작했다. 때마침 트릭봇이 뱅킹 트로이목마로서 많이 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/analytiss-thumb-0125.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[국제 행사 동시 통역사 노린 ‘北 연계 해킹’ 시도 있었다]]></title>
@@ -164,6 +156,14 @@
             <guid>https://www.boannews.com/media/view.asp?idx=104507&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
             <pubDate>Mon, 31 Jan 2022 10:16:44 GMT</pubDate>
             <content:encoded><![CDATA[광주광역시는 2월 1일부터 CCTV 등 단속 장비를 통해 과태료 부과 및 견인을 시행한다. 도로교통법은 지난 2020년 10월 20일자로 개정됐으며, 지난해 10...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[Weekly Security Premium Report 제36호 발간! 인공지능 선결과제와 보안 활용사례]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104475&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104475&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
+            <pubDate>Mon, 31 Jan 2022 14:13:57 GMT</pubDate>
+            <content:encoded><![CDATA[1월 27일 발간된 ‘Weekly Security Premium Report’ 제36호에는 &lt;보안 심층 리포트&gt; 코너에서 인공지능 활용의 선결과제와 보...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/20220127report-sm.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
