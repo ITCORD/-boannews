@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-01-31T15:17:17.854Z</updated>
+    <updated>2022-01-31T16:22:43.367Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[지난해 주목 받은 국내 보안업계 ‘인수합병’ 7건... 2022년 파급효과는?]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104518&amp;page=1&amp;mkind=1&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104518&amp;page=1&amp;mkind=1&amp;kind=3"/>
+        <updated>2022-01-31T16:21:05.793Z</updated>
+        <content type="html"><![CDATA[코로나 팬데믹이 오미크론과 같은 수많은 변종들에 의해 지속되면서 여러 산업을 어렵게 만들고 있다. 하지만 이러한 어려움 속에서도 주요 보안기업들은 신제품 개발이나 인수합병을 통해 끊임없이 시장을 선도하기 위한 노력을 아끼지 않고 있다. 이에 &lt;보안뉴스&gt;는 지...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사이버 보안 대표기업 2022년 출사표-2] 시큐아이]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=104410&amp;page=1&amp;mkind=1&amp;kind=3</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=104497&amp;page=1&amp;mkind=1&amp;kind=3"/>
         <updated>2022-01-28T02:34:50.807Z</updated>
         <content type="html"><![CDATA[부울경 정보보호산업협회는 지난 1월 16일, 부산시 동래구에 위치한 협회교육장에서 정기총회를 개최하고, 정재원 신임 회장을 선출했다. 정기총회는 라이브방송을 통해 회원들에게 온라인으로 생중계됐다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[파이오링크-틸론, VDI 원격접속 게이트웨이 고도화 사업 위해 맞손]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104495&amp;page=1&amp;mkind=1&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104495&amp;page=1&amp;mkind=1&amp;kind=3"/>
-        <updated>2022-01-28T01:58:32.901Z</updated>
-        <content type="html"><![CDATA[파이오링크(대표 조영철)는 틸론(대표 최백준)과 함께 가상 데스크톱 인프라(VDI) 원격접속 게이트웨이 장비 개발과 구축 사업을 위한 전략적 업무 협약을 27일 체결했다고 밝혔다.]]></content>
     </entry>
 </feed>

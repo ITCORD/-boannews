@@ -4,9 +4,17 @@
         <title>보안뉴스 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 31 Jan 2022 15:17:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Jan 2022 16:22:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[북한, 26일 이어 31일 또 사이버공격 당했나? 외무성 사이트 등 접속장애]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104521&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104521&amp;page=1&amp;kind=1</guid>
+            <pubDate>Mon, 31 Jan 2022 16:20:48 GMT</pubDate>
+            <content:encoded><![CDATA[북한이 연이어 동해상으로 미사일을 발사하는 등 남북 간의 긴장감이 고조되고 있는 가운데 설 명절 기간인 31일 외무성 사이트를 비롯한 북한의 주요 기관 사...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/20220201norh-s.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[스마트 매핑 통한 디지털 트윈, 스키장 문을 열다]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104510&amp;page=1&amp;kind=1</link>
@@ -233,14 +241,6 @@
             <pubDate>Fri, 28 Jan 2022 02:34:32 GMT</pubDate>
             <content:encoded><![CDATA[보안 업체 트러스트웨이브(Trustwave)가 마이크로소프트 아웃룩의 보안 기능을 우회하는 방법을 발견했다. 이는 CVE-2020-0696이라는 취약점 때...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/mail-thumb-0128.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[사이버 보안 대표기업 2022년 출사표 -1] 안랩]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104412&amp;page=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104412&amp;page=1&amp;kind=3</guid>
-            <pubDate>Fri, 28 Jan 2022 01:58:14 GMT</pubDate>
-            <content:encoded><![CDATA[안랩은 2020년 말 출시한 차세대 위협 인텔리전스 플랫폼 ‘AhnLab TIP’과 2021년 출시한 보안 특화 클라우드 관리 서비스 ‘AhnLab Clo...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/RESIZE_AhnLab%20MDSSUM.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
