@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-01-31T14:16:06.881Z</updated>
+    <updated>2022-01-31T15:17:17.854Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[사이버 보안 대표기업 2022년 출사표-2] 시큐아이]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104410&amp;page=1&amp;mkind=1&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104410&amp;page=1&amp;mkind=1&amp;kind=3"/>
+        <updated>2022-01-31T15:15:39.490Z</updated>
+        <content type="html"><![CDATA[전 세계적 화두인 디지털 트랜스포메이션의 흐름 속에서 빠르게 발전하는 기술과 함께 보안 영역에서도 고객의 요구가 다양해지고 있다. 시큐아이는 고객이 기대하는 높은 수준의 보안정책을 만족할 수 있도록 기존 네트워크 보안 제품의 지속적인 업그레이드를 진행하고 있다. 또한,...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[주말판] 생산성과 보안성 다잡는 신생 서비스, ‘서비스형 네트워크’]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=104517&amp;page=1&amp;mkind=1&amp;kind=1</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=104495&amp;page=1&amp;mkind=1&amp;kind=3"/>
         <updated>2022-01-28T01:58:32.901Z</updated>
         <content type="html"><![CDATA[파이오링크(대표 조영철)는 틸론(대표 최백준)과 함께 가상 데스크톱 인프라(VDI) 원격접속 게이트웨이 장비 개발과 구축 사업을 위한 전략적 업무 협약을 27일 체결했다고 밝혔다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[운전면허증이 스마트폰 속으로... 모바일 신분증 시대 열린다]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104488&amp;page=1&amp;mkind=1&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104488&amp;page=1&amp;mkind=1&amp;kind=2"/>
-        <updated>2022-01-28T01:58:32.910Z</updated>
-        <content type="html"><![CDATA[지갑 속에 넣어 지니고 다녀야 했던 운전면허증을 스마트폰에 저장하여 사용할 수 있게 됨으로써 본격적인 모바일 신분증 시대가 열린다. 행정안전부와 경찰청은 국민에게 제공하는 첫 번째 모바일 신분증으로 ‘모바일 운전면허증’을 지난 27일부터 시범 발급한다고 밝혔다.]]></content>
     </entry>
 </feed>
