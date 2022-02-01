@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Feb 2022 22:16:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Feb 2022 23:17:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,20 +48,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/iot-thumb-0126.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[설 연휴 기간 스팸·스미싱·보이스피싱 피해, 어떻게 예방해야 하나]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104512&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104512&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
-            <pubDate>Sun, 30 Jan 2022 00:51:38 GMT</pubDate>
-            <content:encoded><![CDATA[SK텔레콤은 스팸 및 스미싱, 보이스피싱 사기 피해가 늘어나는 설 연휴를 앞두고 고객의 주의를 당부했다. 통신사에서 2021년 스미싱 의심 URL이 포함된 문자를...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/1-332(295).jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[북한, 26일 이어 31일 또 사이버공격 당했나? 외무성 사이트 등 접속장애]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104521&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104521&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Tue, 01 Feb 2022 05:14:26 GMT</pubDate>
             <content:encoded><![CDATA[북한이 연이어 동해상으로 미사일을 발사하는 등 남북 간의 긴장감이 고조되고 있는 가운데 설 명절 기간인 31일 외무성 사이트를 비롯한 북한의 주요 기관 사이트가 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/20220201norh-s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[설 연휴 기간 스팸·스미싱·보이스피싱 피해, 어떻게 예방해야 하나]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104512&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104512&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
+            <pubDate>Sun, 30 Jan 2022 00:51:38 GMT</pubDate>
+            <content:encoded><![CDATA[SK텔레콤은 스팸 및 스미싱, 보이스피싱 사기 피해가 늘어나는 설 연휴를 앞두고 고객의 주의를 당부했다. 통신사에서 2021년 스미싱 의심 URL이 포함된 문자를...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/1-332(295).jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[모든 분야에 메타버스가 대세라는데... 보안은 괜찮은거야?]]></title>
@@ -120,6 +120,14 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/20220131dark-s.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
+            <title><![CDATA[스마트 매핑 통한 디지털 트윈, 스키장 문을 열다]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104510&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104510&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Tue, 01 Feb 2022 13:18:09 GMT</pubDate>
+            <content:encoded><![CDATA[스키를 즐기는 사람들은 일 년 내내 겨울을 기다린다. 그들에게는 첫 눈 소식과, 가까운 지역에서 고드름이 열리기 시작했다는 뉴스가 남다른 설렘을 가져다 준다. 반...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/ski-thumb-0128.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[교차로 적색 신호에는 ‘반드시 정지 후 우회전’하세요]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104515&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104515&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
@@ -132,14 +140,6 @@
             <guid>https://www.boannews.com/media/view.asp?idx=104507&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
             <pubDate>Mon, 31 Jan 2022 10:16:44 GMT</pubDate>
             <content:encoded><![CDATA[광주광역시는 2월 1일부터 CCTV 등 단속 장비를 통해 과태료 부과 및 견인을 시행한다. 도로교통법은 지난 2020년 10월 20일자로 개정됐으며, 지난해 10...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[스마트 매핑 통한 디지털 트윈, 스키장 문을 열다]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104510&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104510&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Tue, 01 Feb 2022 13:18:09 GMT</pubDate>
-            <content:encoded><![CDATA[스키를 즐기는 사람들은 일 년 내내 겨울을 기다린다. 그들에게는 첫 눈 소식과, 가까운 지역에서 고드름이 열리기 시작했다는 뉴스가 남다른 설렘을 가져다 준다. 반...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/ski-thumb-0128.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[사이버 보안 대표기업 2022년 출사표-3] 이글루시큐리티]]></title>
@@ -158,12 +158,12 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/est_0126_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Weekly Security Premium Report 제36호 발간! 인공지능 선결과제와 보안 활용사례]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104475&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104475&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
-            <pubDate>Mon, 31 Jan 2022 14:13:57 GMT</pubDate>
-            <content:encoded><![CDATA[1월 27일 발간된 ‘Weekly Security Premium Report’ 제36호에는 &lt;보안 심층 리포트&gt; 코너에서 인공지능 활용의 선결과제와 보...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/20220127report-sm.JPG" length="0" type="image/JPG"/>
+            <title><![CDATA[[통합보안&스마트시티 대표기업 2022년 출사표-1] SK쉴더스]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104402&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104402&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
+            <pubDate>Tue, 01 Feb 2022 23:15:38 GMT</pubDate>
+            <content:encoded><![CDATA[SK쉴더스는 국내 사이버보안 1위 기업인 ‘SK인포섹’과 물리보안 대표 기업 ‘ADT캡스’의 통합법인으로, 지난해 10월 SK쉴더스로 사명을 바꾸고 보안(Secu...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/RESIZERESIZELIFE20220125.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
