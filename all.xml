@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Feb 2022 02:03:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Feb 2022 03:17:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -291,14 +291,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/hauri_012501_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[CWP에서 발견된 취약점, 리눅스 서버들을 위험하게 만든다 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104340&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104340&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Thu, 27 Jan 2022 09:16:24 GMT</pubDate>
-            <content:encoded><![CDATA[리눅스 서버의 CWP라는 제어판 요소에서 두 개의 취약점이 발견됐다. 하나는 CVE-2021-45467이라는 파일 인클루젼(file inclusion) 취약점이고...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/lin-thumb-0125.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[설 연휴 기간 스팸·스미싱·보이스피싱 피해, 어떻게 예방해야 하나 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104512&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104512&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
@@ -399,6 +391,14 @@
             <pubDate>Tue, 01 Feb 2022 02:01:29 GMT</pubDate>
             <content:encoded><![CDATA[국세청 홈택스 연말정산 간소화 서비스에서 821명의 개인정보가 다른 사람에게 노출되는 사고가 발생했다.]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/RESIZERESIZEtax20220128.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[통합보안&스마트시티 대표기업 2022년 출사표-1] SK쉴더스 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104402&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104402&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
+            <pubDate>Tue, 01 Feb 2022 03:15:20 GMT</pubDate>
+            <content:encoded><![CDATA[SK쉴더스는 국내 사이버보안 1위 기업인 ‘SK인포섹’과 물리보안 대표 기업 ‘ADT캡스’의 통합법인으로, 지난해 10월 SK쉴더스로 사명을 바꾸고 보안(Secu...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/RESIZERESIZELIFE20220125.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[지난해 주목 받은 국내 보안업계 ‘인수합병’ 7건... 2022년 파급효과는? (보안뉴스 ─ SECURITY)]]></title>
