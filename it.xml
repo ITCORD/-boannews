@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=2</id>
     <title>보안뉴스 ─ IT</title>
-    <updated>2022-02-01T15:17:29.251Z</updated>
+    <updated>2022-02-01T16:25:08.289Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[임혜숙 과기정통부 장관, 민관 협력으로 반도체 기술 경쟁에 대응한다]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104513&amp;page=1&amp;mkind=2&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104513&amp;page=1&amp;mkind=2&amp;kind=2"/>
+        <updated>2022-02-01T16:23:40.873Z</updated>
+        <content type="html"><![CDATA[임혜숙 과학기술정보통신부 장관은 글로벌 반도체 기술패권 경쟁 격화에 대응하고 미래 반도체 원천기술을 선점하기 위한 기반을 마련하기 위해 지난 28일 삼성전자 화성캠퍼스를 방문했다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[광주시, AI-SW 인재 양성 성과 인정받았다]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=104508&amp;page=1&amp;mkind=2&amp;kind=2</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=104445&amp;page=1&amp;mkind=2&amp;kind=2"/>
         <updated>2022-01-28T00:51:56.738Z</updated>
         <content type="html"><![CDATA[중소벤처기업부, 특허청, 보건복지부, 식품의약품안전처, 교육부, 산업통상자원부, 농림축산식품부, 국토교통부, 문화체육관광부, 과학기술정보통신부, 해양수산부, 환경부는 협업을 통해 2022년 ‘비대면 분야 유망 스타트업 육성 사업’을 추진한다고 밝혔다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[바다를 가상의 실험실로, 비용은 낮추고 예측력은 높인다]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104444&amp;page=1&amp;mkind=2&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104444&amp;page=1&amp;mkind=2&amp;kind=2"/>
-        <updated>2022-01-28T00:51:56.738Z</updated>
-        <content type="html"><![CDATA[해양수산부는 해양 개발·이용 계획을 사전에 과학적으로 진단하고 기후변화로 인한 연안재해 피해를 예측해 대응할 수 있도록 바다를 가상의 실험실로 구축하는 ‘해양공간 디지털트윈 적용 및 활용 기술개발’ 사업을 2022년부터 5년간 381억원의 예산을 투입해 추진한다고 밝혔...]]></content>
     </entry>
 </feed>

@@ -4,9 +4,41 @@
         <title>보안뉴스 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Feb 2022 15:17:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Feb 2022 16:25:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[팬데믹으로 어려워진 도소매 사업주들, IT 기술로 눈을 돌려]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104516&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104516&amp;page=1&amp;kind=1</guid>
+            <pubDate>Tue, 01 Feb 2022 16:23:15 GMT</pubDate>
+            <content:encoded><![CDATA[이른 바 ‘하이브리드 쇼핑’이라는 것이 점점 늘어나기 시작하면서 데이터를 분석하고, 그 결과를 바탕으로 사업을 운영하는 ‘속도’를 살리는 것이 사업 운영자...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/sale-thumb-0129.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[사이버 보안 대표기업 2022년 출사표-4] 위즈코리아]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104416&amp;page=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104416&amp;page=1&amp;kind=3</guid>
+            <pubDate>Tue, 01 Feb 2022 16:23:15 GMT</pubDate>
+            <content:encoded><![CDATA[위즈코리아가 올해로 20주년을 맞이했다. 사람의 나이로 치면 성인이 됐다. 최근 들어 솔루션 도입을 희망하는 고객사가 급증하면서 고객의 요구 역시 다양해지...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/RESIZE(WEEDS%20BlackBox%20Suite)SUM.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[통합보안&스마트시티 대표기업 2022년 출사표-2] 이노뎁]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104404&amp;page=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104404&amp;page=1&amp;kind=3</guid>
+            <pubDate>Tue, 01 Feb 2022 16:23:15 GMT</pubDate>
+            <content:encoded><![CDATA[이노뎁은 최근에 차세대 플랫폼 개발을 위해 연구 인력을 대폭 늘렸으며 더 나은 서비스를 위해 지역에 있는 사무소의 기술 인력을 추가로 채용해 전국의 서비스...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/RESIZERESIZE3INOSUM.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[영상보안 대표기업 2022년 출사표-4] 원우이엔지]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104391&amp;page=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104391&amp;page=1&amp;kind=3</guid>
+            <pubDate>Tue, 01 Feb 2022 16:23:15 GMT</pubDate>
+            <content:encoded><![CDATA[영상보안솔루션 전문 기업 원우이엔지는 지속적으로 영상 품질 개선을 위한 솔루션 구축에 집중하고 있다. 특히, AI 환경 구축에 적합한 카메라의 핵심 기술이...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/RESIZERESIZEwonwoo_productSUM.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[북한, 26일 이어 31일 또 사이버공격 당했나? 외무성 사이트 등 접속장애]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104521&amp;page=1&amp;kind=1</link>
@@ -209,38 +241,6 @@
             <pubDate>Fri, 28 Jan 2022 02:34:32 GMT</pubDate>
             <content:encoded><![CDATA[록빗(LockBit) 랜섬웨어가 최근 들어 기승을 부리고 있다. 얼마 전에는 프랑스 사법부까지도 록빗에 혼이 났다고 한다. 상세한 내용은 아직 발표되지 않...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/fra-thumb-0128.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[북한의 라자루스, 윈도 업데이트 클라이언트와 깃허브 악용]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104501&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104501&amp;page=1&amp;kind=1</guid>
-            <pubDate>Fri, 28 Jan 2022 02:34:32 GMT</pubDate>
-            <content:encoded><![CDATA[북한의 라자루스가 최근 윈도 업데이트 클라이언트와 코드 리포지터리인 깃허브를 악용해 멀웨어를 유포하고 있다는 사실이 드러났다. 이들은 구인을 테마로 한 메...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/up-thumb-0128.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[딥닷웹 운영자, 불법 다크웹 시장 광고한 죄로 투옥돼]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104500&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104500&amp;page=1&amp;kind=1</guid>
-            <pubDate>Fri, 28 Jan 2022 02:34:32 GMT</pubDate>
-            <content:encoded><![CDATA[딥닷웹(DeepDotWeb)이라는 다크웹 뉴스 및 리뷰 사이트를 운영하던 이스라엘 국적자 한 명이 미국 재판정에서 97개월 징역형을 선고받았다. 다크웹 소...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/ddw-tumb-0128.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[보테나고 봇넷의 코드, 깃허브 통해 유출돼]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104499&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104499&amp;page=1&amp;kind=1</guid>
-            <pubDate>Fri, 28 Jan 2022 02:34:32 GMT</pubDate>
-            <content:encoded><![CDATA[보테나고(BotenaGo)라는 봇넷 멀웨어의 소스코드가 깃허브를 통해 유출됐다. 이 때문에 조금의 개발 지식만 가지고 있어도 봇넷 멀웨어를 만들 수 있게 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/code-thumb-0128.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아웃룩의 보안 장치를 우회하게 해 주는 취약점 발견돼]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104498&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104498&amp;page=1&amp;kind=1</guid>
-            <pubDate>Fri, 28 Jan 2022 02:34:32 GMT</pubDate>
-            <content:encoded><![CDATA[보안 업체 트러스트웨이브(Trustwave)가 마이크로소프트 아웃룩의 보안 기능을 우회하는 방법을 발견했다. 이는 CVE-2020-0696이라는 취약점 때...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/mail-thumb-0128.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

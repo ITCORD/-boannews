@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-02-01T15:17:29.255Z</updated>
+    <updated>2022-02-01T16:25:08.287Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[bnTV] 설 연휴에도 해킹 비상! 다크웹내 랜섬웨어 조직들의 움직임은?]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104520&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104520&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-02-01T16:23:33.170Z</updated>
+        <content type="html"><![CDATA[명절이나 쉴 때 이슈가 발생하면 제일 피곤합니다. 그래서 이번 명절(연휴)도 긴 편인데, 일단 비상 대응체계가 잘 갖춰져 있어야겠죠. 기업 내부적으로 어떤 이슈가 발생했을 때, 누구에게 연락을 해야 되고 누구한테 보고를 해야 되는지 이런 대응체계 같은 게 잘 갖춰져 있...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[지난해 주목 받은 국내 보안업계 ‘인수합병’ 7건... 2022년 파급효과는?]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=104518&amp;page=1&amp;mkind=1&amp;kind=3</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=104496&amp;page=1&amp;mkind=1&amp;kind=1"/>
         <updated>2022-01-28T02:34:50.799Z</updated>
         <content type="html"><![CDATA[국세청 홈택스 연말정산 간소화 서비스에서 821명의 개인정보가 다른 사람에게 노출되는 사고가 발생했다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[부울경 정보보호산업협회 정기총회 개최, 정재원 신임 회장 선출]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104497&amp;page=1&amp;mkind=1&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104497&amp;page=1&amp;mkind=1&amp;kind=3"/>
-        <updated>2022-01-28T02:34:50.807Z</updated>
-        <content type="html"><![CDATA[부울경 정보보호산업협회는 지난 1월 16일, 부산시 동래구에 위치한 협회교육장에서 정기총회를 개최하고, 정재원 신임 회장을 선출했다. 정기총회는 라이브방송을 통해 회원들에게 온라인으로 생중계됐다.]]></content>
     </entry>
 </feed>
