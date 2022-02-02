@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-02-02T15:18:12.532Z</updated>
+    <updated>2022-02-02T16:23:40.335Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[사이버 보안 대표기업 2022년 출사표-4] 위즈코리아]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104416&amp;page=1&amp;mkind=1&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104416&amp;page=1&amp;mkind=1&amp;kind=3"/>
+        <updated>2022-02-02T16:22:06.190Z</updated>
+        <content type="html"><![CDATA[위즈코리아가 올해로 20주년을 맞이했다. 사람의 나이로 치면 성인이 됐다. 최근 들어 솔루션 도입을 희망하는 고객사가 급증하면서 고객의 요구 역시 다양해지고 있기에 고객이 만족할 수 있는 최선의 솔루션을 제공할 수 있도록 개발과 투자를 아끼지 않고 있다. 특히, 이상행...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[북한, 26일 이어 31일 또 사이버공격 당했나? 외무성 사이트 등 접속장애]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104521&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104521&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-02-02T16:22:06.192Z</updated>
+        <content type="html"><![CDATA[북한이 연이어 동해상으로 미사일을 발사하는 등 남북 간의 긴장감이 고조되고 있는 가운데 설 명절 기간인 31일 외무성 사이트를 비롯한 북한의 주요 기관 사이트가 접속장애를 일으킨 것으로 알려졌다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[사이버 보안 대표기업 2022년 출사표-3] 이글루시큐리티]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104418&amp;page=1&amp;mkind=1&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104418&amp;page=1&amp;mkind=1&amp;kind=3"/>
+        <updated>2022-02-02T16:22:06.193Z</updated>
+        <content type="html"><![CDATA[2021년 이글루시큐리티는 인공지능, 운영기술(OT), 클라우드 보안을 세 가지 축으로 삼고 전 세계적인 디지털 전환에 부합하는 솔루션과 서비스를 제공하는 데 집중했다. 활용도 높은 자동화 기능을 구현하는 보안 오케스트레이션·자동화 및 대응(SOAR) 솔루션과 IT와 ...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[bnTV] 설 연휴에도 해킹 비상! 다크웹내 랜섬웨어 조직들의 움직임은?]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=104520&amp;page=1&amp;mkind=1&amp;kind=1</id>
@@ -102,26 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=104499&amp;page=1&amp;mkind=1&amp;kind=1"/>
         <updated>2022-01-28T02:34:50.797Z</updated>
         <content type="html"><![CDATA[보테나고(BotenaGo)라는 봇넷 멀웨어의 소스코드가 깃허브를 통해 유출됐다. 이 때문에 조금의 개발 지식만 가지고 있어도 봇넷 멀웨어를 만들 수 있게 됐다. 보네타고는 각종 라우터와 사물인터넷 장비를 장악하여 봇넷에 편입시키는 멀웨어로, 이미 수백만 대의 장비들이 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아웃룩의 보안 장치를 우회하게 해 주는 취약점 발견돼]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104498&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104498&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-01-28T02:34:50.798Z</updated>
-        <content type="html"><![CDATA[보안 업체 트러스트웨이브(Trustwave)가 마이크로소프트 아웃룩의 보안 기능을 우회하는 방법을 발견했다. 이는 CVE-2020-0696이라는 취약점 때문에 가능한 건데, 취약점 번호에서 볼 수 있듯이 이미 2년 전에 발견돼 패치까지 된 것이다. 하지만 트러스트웨이브...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사이버 보안 대표기업 2022년 출사표 -1] 안랩]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104412&amp;page=1&amp;mkind=1&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104412&amp;page=1&amp;mkind=1&amp;kind=3"/>
-        <updated>2022-01-28T02:34:50.798Z</updated>
-        <content type="html"><![CDATA[안랩은 2020년 말 출시한 차세대 위협 인텔리전스 플랫폼 ‘AhnLab TIP’과 2021년 출시한 보안 특화 클라우드 관리 서비스 ‘AhnLab Cloud’가 여러 산업군의 고객 레퍼런스를 확보하며 순항하고 있다. 2022년에는 보안 플랫폼을 IT 통합보안에서 AI...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연말정산 간소화 서비스 821명 개인정보 노출... 국세청 재발 방지 다짐]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104496&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104496&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-01-28T02:34:50.799Z</updated>
-        <content type="html"><![CDATA[국세청 홈택스 연말정산 간소화 서비스에서 821명의 개인정보가 다른 사람에게 노출되는 사고가 발생했다.]]></content>
     </entry>
 </feed>
