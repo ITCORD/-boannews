@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Feb 2022 09:16:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Feb 2022 10:18:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,14 +38,6 @@
             <pubDate>Tue, 01 Feb 2022 05:14:26 GMT</pubDate>
             <content:encoded><![CDATA[북한이 연이어 동해상으로 미사일을 발사하는 등 남북 간의 긴장감이 고조되고 있는 가운데 설 명절 기간인 31일 외무성 사이트를 비롯한 북한의 주요 기관 사이트가 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/20220201norh-s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사물인터넷 장비를 겨냥한 사이버 공격, 어디까지 심해지려나]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104423&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104423&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Thu, 27 Jan 2022 06:18:12 GMT</pubDate>
-            <content:encoded><![CDATA[사물인터넷 장비들을 겨냥한 사이버 공격이 증가하면서 보안 전문가들의 보안 경고가 계속해서 나오고 있다. 보안 업체 인텔471(Intel 471)의 경우 1월 25...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/iot-thumb-0126.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[설 연휴 기간 스팸·스미싱·보이스피싱 피해, 어떻게 예방해야 하나]]></title>
@@ -163,6 +155,13 @@
             <guid>https://www.boannews.com/media/view.asp?idx=104511&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
             <pubDate>Wed, 02 Feb 2022 07:14:12 GMT</pubDate>
             <content:encoded><![CDATA[춘천시 전 직원이 개인정보보호 배상책임보험에 가입한다. 시는 전국적으로 고의나 과실로 인한 개인정보 유출 사고 다수 발생에 따라 개인정보보호 배상책임보험을 운영하...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[임혜숙 과기정통부 장관, 민관 협력으로 반도체 기술 경쟁에 대응한다]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104513&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104513&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
+            <pubDate>Wed, 02 Feb 2022 10:16:22 GMT</pubDate>
+            <content:encoded><![CDATA[임혜숙 과학기술정보통신부 장관은 글로벌 반도체 기술패권 경쟁 격화에 대응하고 미래 반도체 원천기술을 선점하기 위한 기반을 마련하기 위해 지난 28일 삼성전자 화성...]]></content:encoded>
         </item>
     </channel>
 </rss>
