@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=2</id>
     <title>보안뉴스 ─ IT</title>
-    <updated>2022-02-03T09:16:58.103Z</updated>
+    <updated>2022-02-03T10:17:54.281Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[외교부, 신기술과 인권 관련 국내 전문가 간담회 개최]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104514&amp;page=1&amp;mkind=2&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104514&amp;page=1&amp;mkind=2&amp;kind=2"/>
+        <updated>2022-02-03T10:16:01.626Z</updated>
+        <content type="html"><![CDATA[외교부는 지난 27일 박장호 국제기구협력관 주재로 ‘신기술과 인권 관련 국내 전문가 간담회’를 개최했다. 이번 간담회는 오는 3월 유엔인권최고대표사무소(OHCHR)가 개최할 예정인 신기술과 인권 관련 전문가 협의에 앞서 국내 다양한 이해관계자들의 의견을 수렴하기 위한 ...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[임혜숙 과기정통부 장관, 민관 협력으로 반도체 기술 경쟁에 대응한다]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=104513&amp;page=1&amp;mkind=2&amp;kind=2</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=104478&amp;page=1&amp;mkind=2&amp;kind=2"/>
         <updated>2022-01-28T00:51:56.736Z</updated>
         <content type="html"><![CDATA[서울디지털재단은 고령자들의 디지털 소외 문제를 해결하기 위해 키오스크에 적용 가능한 ‘고령층 친화 디지털 접근성 표준’을 개발했다. 구체적인 내용은 서울디지털재단 홈페이지 ‘지식정보’ 코너에서 확인 가능하다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[12개 정부 부처, 코로나 이후 시대 이끌 비대면 창업기업 찾아 나선다]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104445&amp;page=1&amp;mkind=2&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104445&amp;page=1&amp;mkind=2&amp;kind=2"/>
-        <updated>2022-01-28T00:51:56.738Z</updated>
-        <content type="html"><![CDATA[중소벤처기업부, 특허청, 보건복지부, 식품의약품안전처, 교육부, 산업통상자원부, 농림축산식품부, 국토교통부, 문화체육관광부, 과학기술정보통신부, 해양수산부, 환경부는 협업을 통해 2022년 ‘비대면 분야 유망 스타트업 육성 사업’을 추진한다고 밝혔다.]]></content>
     </entry>
 </feed>
