@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Feb 2022 06:20:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Feb 2022 07:16:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -125,6 +125,14 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/RESIZERESIZELIFE20220125.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[랜섬웨어 다음은 킬웨어? 목숨을 노리는 것들이 온다]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104519&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104519&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Thu, 03 Feb 2022 07:15:00 GMT</pubDate>
+            <content:encoded><![CDATA[2021년은 랜섬웨어로 얼룩진 해다. 온갖 산업에서 수많은 기업들이 막대한 피해를 입었다. 어떤 공격은 그 피해가 해당 업체에서만 끝나지 않고 산업 전체와 광범위...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/kill-thumb-0130.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Weekly Security Premium Report 제36호 발간! 인공지능 선결과제와 보안 활용사례]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104475&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104475&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
@@ -154,13 +162,6 @@
             <guid>https://www.boannews.com/media/view.asp?idx=104513&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
             <pubDate>Wed, 02 Feb 2022 10:16:22 GMT</pubDate>
             <content:encoded><![CDATA[임혜숙 과학기술정보통신부 장관은 글로벌 반도체 기술패권 경쟁 격화에 대응하고 미래 반도체 원천기술을 선점하기 위한 기반을 마련하기 위해 지난 28일 삼성전자 화성...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[외교부, 신기술과 인권 관련 국내 전문가 간담회 개최]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104514&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104514&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
-            <pubDate>Thu, 03 Feb 2022 06:18:21 GMT</pubDate>
-            <content:encoded><![CDATA[외교부는 지난 27일 박장호 국제기구협력관 주재로 ‘신기술과 인권 관련 국내 전문가 간담회’를 개최했다. 이번 간담회는 오는 3월 유엔인권최고대표사무소(OHCHR...]]></content:encoded>
         </item>
     </channel>
 </rss>
