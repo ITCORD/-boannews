@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-02-03T05:16:05.584Z</updated>
+    <updated>2022-02-03T06:20:32.584Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[새로운 랜섬웨어인 ‘슈가 랜섬웨어’, 월마트 공격]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104529&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104529&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-02-03T06:18:31.360Z</updated>
+        <content type="html"><![CDATA[슈가 랜섬웨어(Sugar Ransomware)라는 새 랜섬웨어가 다크웹에 나타났다. 역시나 RaaS 형태로 타 범죄자들에게 제공되고 있으며, 이미 대형 도소매 업체인 월마트를 공격하는 데 성공했다. 델파이로 작성된 것으로 보이며, 요즘 유행하는 랜섬웨어들이 기업 망 전...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[솔라윈즈 공격자들의 멀웨어, 수년 만에 처음 발견돼]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104528&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104528&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-02-03T06:18:31.360Z</updated>
+        <content type="html"><![CDATA[솔라윈즈(SolarWinds) 사태를 일으켰던 사이버 공격자들의 공격 도구들이 계속해서 발견되고 있는 가운데, 최소 2019년부터 현재까지 사용되어 온 것들도 섞여 나오고 있다. 즉 보안 업계의 눈을 피해 수년 동안 몰래 사용되어 온 도구들이 있다는 것이다. 최근에는 ...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[시장 조사 업체, 시비콤에서 8TB 정보 유출돼]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=104527&amp;page=1&amp;mkind=1&amp;kind=1</id>
@@ -109,19 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=104503&amp;page=1&amp;mkind=1&amp;kind=5"/>
         <updated>2022-01-30T15:14:42.801Z</updated>
         <content type="html"><![CDATA[마인크래프트, 로블록스, 제패토. 언뜻 게임이라는 카테고리로 묶을 수 있을 것 같은 이 3가지 플랫폼의 공통점은 전부 다 메타버스라고 지칭된다는 것이다. 메타버스(metaverse)란 가상, 초월을 의미하는 ‘메타(meta)’와 우주를 의미하는 ‘유니버스(univers...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[설 연휴 기간 스팸·스미싱·보이스피싱 피해, 어떻게 예방해야 하나]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104512&amp;page=1&amp;mkind=1&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104512&amp;page=1&amp;mkind=1&amp;kind=2"/>
-        <updated>2022-01-30T14:13:36.483Z</updated>
-        <content type="html"><![CDATA[SK텔레콤은 스팸 및 스미싱, 보이스피싱 사기 피해가 늘어나는 설 연휴를 앞두고 고객의 주의를 당부했다. 통신사에서 2021년 스미싱 의심 URL이 포함된 문자를 차단한 건수가 1~3월에 연간 사례의 64%가 넘을 만큼 집중되는 현상을 보였다. 이는 2021년 월평균 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[춘천시, 전 직원 개인정보보호 배상책임보험 가입]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104511&amp;page=1&amp;mkind=1&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104511&amp;page=1&amp;mkind=1&amp;kind=2"/>
-        <updated>2022-01-29T03:15:11.458Z</updated>
-        <content type="html"><![CDATA[춘천시 전 직원이 개인정보보호 배상책임보험에 가입한다. 시는 전국적으로 고의나 과실로 인한 개인정보 유출 사고 다수 발생에 따라 개인정보보호 배상책임보험을 운영하고 있다.]]></content>
     </entry>
 </feed>

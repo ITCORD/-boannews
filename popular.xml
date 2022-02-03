@@ -4,17 +4,9 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Feb 2022 05:16:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Feb 2022 06:20:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[거의 모든 리눅스 배포판에서 발견된 폰킷 취약점, 공격 난이도 낮아]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104468&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104468&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Fri, 28 Jan 2022 00:51:39 GMT</pubDate>
-            <content:encoded><![CDATA[리눅스 배포판 거의 전부에 탑재되어 있는 인증 소프트웨어에서 로컬 권한 상승 취약점이 발견됐다. 익스플로잇이 매우 쉬우며, 오류에 대한 기술적 설명만 가지고도 해...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/pen-thumb-0127.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[단독] 코로나 ‘3차 백신 접종 이상반응 모니터링’ 위장 해킹 발견]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104506&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
@@ -162,6 +154,13 @@
             <guid>https://www.boannews.com/media/view.asp?idx=104513&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
             <pubDate>Wed, 02 Feb 2022 10:16:22 GMT</pubDate>
             <content:encoded><![CDATA[임혜숙 과학기술정보통신부 장관은 글로벌 반도체 기술패권 경쟁 격화에 대응하고 미래 반도체 원천기술을 선점하기 위한 기반을 마련하기 위해 지난 28일 삼성전자 화성...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[외교부, 신기술과 인권 관련 국내 전문가 간담회 개최]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104514&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104514&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
+            <pubDate>Thu, 03 Feb 2022 06:18:21 GMT</pubDate>
+            <content:encoded><![CDATA[외교부는 지난 27일 박장호 국제기구협력관 주재로 ‘신기술과 인권 관련 국내 전문가 간담회’를 개최했다. 이번 간담회는 오는 3월 유엔인권최고대표사무소(OHCHR...]]></content:encoded>
         </item>
     </channel>
 </rss>
