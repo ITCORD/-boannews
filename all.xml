@@ -4,9 +4,65 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Feb 2022 01:57:06 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Feb 2022 02:29:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[데이터 프라이버시 주간 되자마자 구글은 소송에 휘말리고 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104530&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104530&amp;page=1&amp;kind=1</guid>
+            <pubDate>Thu, 03 Feb 2022 02:26:45 GMT</pubDate>
+            <content:encoded><![CDATA[데이터 프라이버시 주간, 워싱턴 주의 검사들은 구글에 대한 기소장을 작성해 법원에 제출했다. 사용자의 위치 이력을 불합리한 방법으로 추적했다는 것이 그 이...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/priv-thumb-0203.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[새로운 랜섬웨어인 ‘슈가 랜섬웨어’, 월마트 공격 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104529&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104529&amp;page=1&amp;kind=1</guid>
+            <pubDate>Thu, 03 Feb 2022 02:26:45 GMT</pubDate>
+            <content:encoded><![CDATA[슈가 랜섬웨어(Sugar Ransomware)라는 새 랜섬웨어가 다크웹에 나타났다. 역시나 RaaS 형태로 타 범죄자들에게 제공되고 있으며, 이미 대형 도...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/sug-thumb-0203.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[솔라윈즈 공격자들의 멀웨어, 수년 만에 처음 발견돼 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104528&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104528&amp;page=1&amp;kind=1</guid>
+            <pubDate>Thu, 03 Feb 2022 02:26:45 GMT</pubDate>
+            <content:encoded><![CDATA[솔라윈즈(SolarWinds) 사태를 일으켰던 사이버 공격자들의 공격 도구들이 계속해서 발견되고 있는 가운데, 최소 2019년부터 현재까지 사용되어 온 것...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/sol-thumb-0203.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[시장 조사 업체, 시비콤에서 8TB 정보 유출돼 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104527&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104527&amp;page=1&amp;kind=1</guid>
+            <pubDate>Thu, 03 Feb 2022 02:26:45 GMT</pubDate>
+            <content:encoded><![CDATA[대형 시장 조사 업체인 시비콤(Civicom)에서 다량의 정보가 유출됐다. 클라우드 서비스인 S3 버킷을 잘못 설정했기 때문이다. 고객들과 진행한 전화 통...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/mark-thumb-0203.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[자바스크립트 패키지 공유 플랫폼에서 악성 패키지 유통돼 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104526&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104526&amp;page=1&amp;kind=1</guid>
+            <pubDate>Thu, 03 Feb 2022 02:26:45 GMT</pubDate>
+            <content:encoded><![CDATA[개발자들끼리 자바스크립트 패키지를 공유하는 플랫폼인 NPM에서 악성 패키지 다수가 발견됐다. 지난 6개월 동안에만 무려 1300개의 악성 패키지들이 NPM...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/npm-thumb-0203.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[다운된 깃허브 때문에 웹사이트 접속과 프로젝트 개발 중단돼 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104525&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104525&amp;page=1&amp;kind=1</guid>
+            <pubDate>Thu, 03 Feb 2022 02:26:45 GMT</pubDate>
+            <content:encoded><![CDATA[코드 공유 사이트인 깃허브(GitHub)가 돌연 마비되는 상황이 발생했다. 이 때문에 일부 웹사이트들에 대한 접근이 거부되고, 프로젝트 개발이 중단됐으며,...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/off-thumb-0203.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[파워셸 백도어로 새롭게 무장한 차밍키튼 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104524&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104524&amp;page=1&amp;kind=1</guid>
+            <pubDate>Thu, 03 Feb 2022 02:26:45 GMT</pubDate>
+            <content:encoded><![CDATA[이란의 사이버 해킹 단체인 차밍키튼(Charming Kitten)이 새로운 해킹 도구와 전략으로 무장했다. 특히 눈에 띄는 건 새로운 파워셸 백도어다. 또...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/kit-htumb-0203.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[랜섬웨어 다음은 킬웨어? 목숨을 노리는 것들이 온다 (보안뉴스 ─ 전체기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104519&amp;page=1&amp;kind=1</link>
@@ -30,6 +86,14 @@
             <pubDate>Wed, 02 Feb 2022 16:21:49 GMT</pubDate>
             <content:encoded><![CDATA[세환엠에스는 펜데믹으로 최근 원재료 상승과 물류가 지연되는 상황에 대응해 펜데믹 이후의 시장을 준비하고 있다. 국내 기술로 개발되고 특허 등록된 ‘패스트 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/RESIZESECTOR%20GATE_1200.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[ETRI, 재난현장 인명구조용 레이더 센서 개발 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104523&amp;page=1&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104523&amp;page=1&amp;kind=2</guid>
+            <pubDate>Thu, 03 Feb 2022 00:50:01 GMT</pubDate>
+            <content:encoded><![CDATA[국내 연구진이 화재·폭발·붕괴 등 실내 재난현장에서 소방관을 도와 효과적으로 인명을 구할 수 있는 기술을 개발했다. 신속하고 안전한 인명구조를 지원해 효율...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/21020301ss.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[영상보안 대표기업 2022년 출사표-5] 다후아테크놀로지 (보안뉴스 ─ 전체기사)]]></title>
@@ -86,14 +150,6 @@
             <pubDate>Mon, 31 Jan 2022 16:20:48 GMT</pubDate>
             <content:encoded><![CDATA[북한이 연이어 동해상으로 미사일을 발사하는 등 남북 간의 긴장감이 고조되고 있는 가운데 설 명절 기간인 31일 외무성 사이트를 비롯한 북한의 주요 기관 사...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/20220201norh-s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[ETRI, 재난현장 인명구조용 레이더 센서 개발 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104523&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104523&amp;page=1&amp;kind=2</guid>
-            <pubDate>Thu, 03 Feb 2022 00:50:01 GMT</pubDate>
-            <content:encoded><![CDATA[국내 연구진이 화재·폭발·붕괴 등 실내 재난현장에서 소방관을 도와 효과적으로 인명을 구할 수 있는 기술을 개발했다. 신속하고 안전한 인명구조를 지원해 효율...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/21020301ss.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[스마트 매핑 통한 디지털 트윈, 스키장 문을 열다 (보안뉴스 ─ 전체기사)]]></title>
@@ -192,58 +248,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/RESIZERESIZEmeta20220127.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[교차로 적색 신호에는 ‘반드시 정지 후 우회전’하세요 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104515&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104515&amp;page=1&amp;kind=2</guid>
-            <pubDate>Sat, 29 Jan 2022 02:25:05 GMT</pubDate>
-            <content:encoded><![CDATA[경찰청은 교차로에서 차량 신호등이 적색일 때 우회전하는 경우 정지 의무를 명확히 하고, 우회전 신호등을 도입하는 내용의 ‘도로교통법 시행규칙’이 1월 21...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[외교부, 신기술과 인권 관련 국내 전문가 간담회 개최 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104514&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104514&amp;page=1&amp;kind=2</guid>
-            <pubDate>Sat, 29 Jan 2022 02:25:05 GMT</pubDate>
-            <content:encoded><![CDATA[외교부는 지난 27일 박장호 국제기구협력관 주재로 ‘신기술과 인권 관련 국내 전문가 간담회’를 개최했다. 이번 간담회는 오는 3월 유엔인권최고대표사무소(O...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[임혜숙 과기정통부 장관, 민관 협력으로 반도체 기술 경쟁에 대응한다 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104513&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104513&amp;page=1&amp;kind=2</guid>
-            <pubDate>Sat, 29 Jan 2022 02:25:05 GMT</pubDate>
-            <content:encoded><![CDATA[임혜숙 과학기술정보통신부 장관은 글로벌 반도체 기술패권 경쟁 격화에 대응하고 미래 반도체 원천기술을 선점하기 위한 기반을 마련하기 위해 지난 28일 삼성전...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[설 연휴 기간 스팸·스미싱·보이스피싱 피해, 어떻게 예방해야 하나 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104512&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104512&amp;page=1&amp;kind=2</guid>
-            <pubDate>Sat, 29 Jan 2022 02:25:05 GMT</pubDate>
-            <content:encoded><![CDATA[SK텔레콤은 스팸 및 스미싱, 보이스피싱 사기 피해가 늘어나는 설 연휴를 앞두고 고객의 주의를 당부했다. 통신사에서 2021년 스미싱 의심 URL이 포함된...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/1-332(295).jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[춘천시, 전 직원 개인정보보호 배상책임보험 가입 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104511&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104511&amp;page=1&amp;kind=2</guid>
-            <pubDate>Sat, 29 Jan 2022 02:25:05 GMT</pubDate>
-            <content:encoded><![CDATA[춘천시 전 직원이 개인정보보호 배상책임보험에 가입한다. 시는 전국적으로 고의나 과실로 인한 개인정보 유출 사고 다수 발생에 따라 개인정보보호 배상책임보험을...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[구로구, 스마트 측량기준점 정보 제공 서비스 실시 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104509&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104509&amp;page=1&amp;kind=2</guid>
-            <pubDate>Sat, 29 Jan 2022 02:25:05 GMT</pubDate>
-            <content:encoded><![CDATA[구로구가 스마트 측량기준점 서비스를 제공한다. 구로구는 “주민들이 측량기준점을 손쉽게 확인할 수 있도록 구청 홈페이지와 스마트서울맵을 통해 스마트 측량기준...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/1-330(295).jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[광주시, AI-SW 인재 양성 성과 인정받았다 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104508&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104508&amp;page=1&amp;kind=2</guid>
-            <pubDate>Sat, 29 Jan 2022 01:52:19 GMT</pubDate>
-            <content:encoded><![CDATA[광주광역시는 과학기술정보통신부 산하 정보통신산업진흥원이 주관하는 2021년 ICT이노베이션스퀘어 확산 사업 권역별 평가에서 전년에 이어 2년 연속 우수기관...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/1-329(295).jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[거의 모든 리눅스 배포판에서 발견된 폰킷 취약점, 공격 난이도 낮아 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104468&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104468&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
@@ -252,20 +256,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/pen-thumb-0127.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[북한, 26일 이어 31일 또 사이버공격 당했나? 외무성 사이트 등 접속장애 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104521&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104521&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Tue, 01 Feb 2022 05:14:26 GMT</pubDate>
-            <content:encoded><![CDATA[북한이 연이어 동해상으로 미사일을 발사하는 등 남북 간의 긴장감이 고조되고 있는 가운데 설 명절 기간인 31일 외무성 사이트를 비롯한 북한의 주요 기관 사이트가 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/20220201norh-s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[단독] 코로나 ‘3차 백신 접종 이상반응 모니터링’ 위장 해킹 발견 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104506&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104506&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Sat, 29 Jan 2022 00:47:45 GMT</pubDate>
             <content:encoded><![CDATA[코로나19 백신의 3차 접종이 전 세계적으로 이슈가 되고 있는 가운데, 최근 중앙방역대책본부로 위장해 3차 백신 접종 이상반응 모니터링을 한다며 접근한 후 사용자...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/ESRC%20(1)_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[북한, 26일 이어 31일 또 사이버공격 당했나? 외무성 사이트 등 접속장애 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104521&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104521&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Tue, 01 Feb 2022 05:14:26 GMT</pubDate>
+            <content:encoded><![CDATA[북한이 연이어 동해상으로 미사일을 발사하는 등 남북 간의 긴장감이 고조되고 있는 가운데 설 명절 기간인 31일 외무성 사이트를 비롯한 북한의 주요 기관 사이트가 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/20220201norh-s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[윤석열 국민의힘 대통령 후보 “국가차원의 사이버대응체계 일원화” (보안뉴스 ─ 가장 많이 본 기사)]]></title>
@@ -400,6 +404,55 @@
             <content:encoded><![CDATA[임혜숙 과학기술정보통신부 장관은 글로벌 반도체 기술패권 경쟁 격화에 대응하고 미래 반도체 원천기술을 선점하기 위한 기반을 마련하기 위해 지난 28일 삼성전자 화성...]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[시장 조사 업체, 시비콤에서 8TB 정보 유출돼 (보안뉴스 ─ SECURITY)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104527&amp;page=1&amp;mkind=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104527&amp;page=1&amp;mkind=1&amp;kind=1</guid>
+            <pubDate>Thu, 03 Feb 2022 02:27:07 GMT</pubDate>
+            <content:encoded><![CDATA[대형 시장 조사 업체인 시비콤(Civicom)에서 다량의 정보가 유출됐다. 클라우드 서비스인 S3 버킷을 잘못 설정했기 때문이다. 고객들과 진행한 전화 통화 내용은 물론 화상 회의 클립까지 전부 유출됐다고 하며, 여기에는 대단히 민감한 정보가 다량으로 포함되어 있다고 ...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[자바스크립트 패키지 공유 플랫폼에서 악성 패키지 유통돼 (보안뉴스 ─ SECURITY)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104526&amp;page=1&amp;mkind=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104526&amp;page=1&amp;mkind=1&amp;kind=1</guid>
+            <pubDate>Thu, 03 Feb 2022 02:27:07 GMT</pubDate>
+            <content:encoded><![CDATA[개발자들끼리 자바스크립트 패키지를 공유하는 플랫폼인 NPM에서 악성 패키지 다수가 발견됐다. 지난 6개월 동안에만 무려 1300개의 악성 패키지들이 NPM에서 유통되고 있었다고 한다. 2021년 한 해 내내 한 달 평균 3만 2천여 개의 악성 패키지가 NPM에 업로드 ...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[다운된 깃허브 때문에 웹사이트 접속과 프로젝트 개발 중단돼 (보안뉴스 ─ SECURITY)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104525&amp;page=1&amp;mkind=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104525&amp;page=1&amp;mkind=1&amp;kind=1</guid>
+            <pubDate>Thu, 03 Feb 2022 02:27:07 GMT</pubDate>
+            <content:encoded><![CDATA[코드 공유 사이트인 깃허브(GitHub)가 돌연 마비되는 상황이 발생했다. 이 때문에 일부 웹사이트들에 대한 접근이 거부되고, 프로젝트 개발이 중단됐으며, 풀(pull) 요청을 전송할 수가 없게 됐다. 한국 기준 새벽 4:15분 경부터 시작된 이 마비 현상의 근본적인 ...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[파워셸 백도어로 새롭게 무장한 차밍키튼 (보안뉴스 ─ SECURITY)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104524&amp;page=1&amp;mkind=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104524&amp;page=1&amp;mkind=1&amp;kind=1</guid>
+            <pubDate>Thu, 03 Feb 2022 02:27:07 GMT</pubDate>
+            <content:encoded><![CDATA[이란의 사이버 해킹 단체인 차밍키튼(Charming Kitten)이 새로운 해킹 도구와 전략으로 무장했다. 특히 눈에 띄는 건 새로운 파워셸 백도어다. 또한 기존에 사용하지 않았던 ‘스텔스 전략’까지도 활용하고 있는 것으로 나타났다. 보안 업체 사이버리즌(Cyberea...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[랜섬웨어 다음은 킬웨어? 목숨을 노리는 것들이 온다 (보안뉴스 ─ SECURITY)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104519&amp;page=1&amp;mkind=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104519&amp;page=1&amp;mkind=1&amp;kind=1</guid>
+            <pubDate>Thu, 03 Feb 2022 02:27:07 GMT</pubDate>
+            <content:encoded><![CDATA[2021년은 랜섬웨어로 얼룩진 해다. 온갖 산업에서 수많은 기업들이 막대한 피해를 입었다. 어떤 공격은 그 피해가 해당 업체에서만 끝나지 않고 산업 전체와 광범위한 지역 전체에도 퍼졌다. 주식 시장에도 그 파급력이 있었을 정도였다. 코로나에 준하는 팬데믹으로 불리는 랜...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[사이버 보안 대표기업 2022년 출사표-5] 이스트시큐리티 (보안뉴스 ─ SECURITY)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104419&amp;page=1&amp;mkind=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104419&amp;page=1&amp;mkind=1&amp;kind=3</guid>
+            <pubDate>Thu, 03 Feb 2022 02:27:07 GMT</pubDate>
+            <content:encoded><![CDATA[코로나19 팬데믹이 지속됨에 따라 위드 코로나와 관련된 키워드를 사용한 이메일 피싱, 스미싱 등 종합적인 공격이 다수 발생할 것으로 예상된다. 이스트시큐리티는 알약-알약 EDR -Threat Inside로 이어지는 ‘3단계 엔드포인트 위협 대응’ 체계를 갖춰, 알려지지...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[피싱 메일 통해 악명 높은 ‘이모텟’ 악성코드 대량 유포 (보안뉴스 ─ SECURITY)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104522&amp;page=1&amp;mkind=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104522&amp;page=1&amp;mkind=1&amp;kind=1</guid>
+            <pubDate>Thu, 03 Feb 2022 02:27:07 GMT</pubDate>
+            <content:encoded><![CDATA[2014년부터 활동을 시작한 악명 높은 악성코드 ‘이모텟(Emotet)’이 피싱 메일을 통해 최근 국내에 대량 유포되고 있는 것으로 드러났다. 이모텟 악성코도는 원래 뱅킹 트로이목마였는데, 계속 진화를 거듭하면서 최근에는 다른 악성코드를 심는 악성코드로 악명을 떨치고 ...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[사이버 보안 대표기업 2022년 출사표-4] 위즈코리아 (보안뉴스 ─ SECURITY)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104416&amp;page=1&amp;mkind=1&amp;kind=3</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104416&amp;page=1&amp;mkind=1&amp;kind=3</guid>
@@ -468,55 +521,6 @@
             <guid>https://www.boannews.com/media/view.asp?idx=104511&amp;page=1&amp;mkind=1&amp;kind=2</guid>
             <pubDate>Sat, 29 Jan 2022 03:15:11 GMT</pubDate>
             <content:encoded><![CDATA[춘천시 전 직원이 개인정보보호 배상책임보험에 가입한다. 시는 전국적으로 고의나 과실로 인한 개인정보 유출 사고 다수 발생에 따라 개인정보보호 배상책임보험을 운영하고 있다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[단독] 코로나 ‘3차 백신 접종 이상반응 모니터링’ 위장 해킹 발견 (보안뉴스 ─ SECURITY)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104506&amp;page=1&amp;mkind=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104506&amp;page=1&amp;mkind=1&amp;kind=1</guid>
-            <pubDate>Sat, 29 Jan 2022 03:15:11 GMT</pubDate>
-            <content:encoded><![CDATA[코로나19 백신의 3차 접종이 전 세계적으로 이슈가 되고 있는 가운데, 최근 중앙방역대책본부로 위장해 3차 백신 접종 이상반응 모니터링을 한다며 접근한 후 사용자의 이메일 계정정보를 가로채는 해킹이 국내에서 발견돼 주의가 요구된다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[라인, 사용자 정보 보호 대책 담은 특별 웹사이트 공개 (보안뉴스 ─ SECURITY)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104505&amp;page=1&amp;mkind=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104505&amp;page=1&amp;mkind=1&amp;kind=3</guid>
-            <pubDate>Sat, 29 Jan 2022 02:25:23 GMT</pubDate>
-            <content:encoded><![CDATA[라인(LINE Corporation, 대표이사 사장 이데자와 다케시)는 ‘라인 프라이버시 데이(LINE Privacy Day)’를 기념해 라인의 사용자 정보 보호책을 소개하는 특별 웹사이트를 공개했다고 28일 밝혔다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[윤석열 국민의힘 대통령 후보 “국가차원의 사이버대응체계 일원화” (보안뉴스 ─ SECURITY)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104504&amp;page=1&amp;mkind=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104504&amp;page=1&amp;mkind=1&amp;kind=2</guid>
-            <pubDate>Sat, 29 Jan 2022 02:25:23 GMT</pubDate>
-            <content:encoded><![CDATA[윤석열 국민의힘 대통령 후보가 디지털 경제 비전을 위한 6가지 실천사항을 발표하면서 국가차원의 사이버대응체계 일원화를 내걸었다. 1월 28일 열린 ‘디지털 지구 시대, 윤석열 대통령 후보 대한민국 디지털 경제 비전 발표’에서 윤석열 후보는 국가 사이버 안전망 구축을 공...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[록빗 랜섬웨어, 프랑스 사법부와 유럽 회사들 공격 (보안뉴스 ─ SECURITY)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104502&amp;page=1&amp;mkind=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104502&amp;page=1&amp;mkind=1&amp;kind=1</guid>
-            <pubDate>Fri, 28 Jan 2022 09:16:05 GMT</pubDate>
-            <content:encoded><![CDATA[록빗(LockBit) 랜섬웨어가 최근 들어 기승을 부리고 있다. 얼마 전에는 프랑스 사법부까지도 록빗에 혼이 났다고 한다. 상세한 내용은 아직 발표되지 않고 있는데, 공격자들의 정보 유출용 웹사이트에는 “13일 안에 요구 조건을 들어주어야 할 것”이라는 경고문이 적혀 ...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[북한의 라자루스, 윈도 업데이트 클라이언트와 깃허브 악용 (보안뉴스 ─ SECURITY)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104501&amp;page=1&amp;mkind=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104501&amp;page=1&amp;mkind=1&amp;kind=1</guid>
-            <pubDate>Fri, 28 Jan 2022 06:18:33 GMT</pubDate>
-            <content:encoded><![CDATA[북한의 라자루스가 최근 윈도 업데이트 클라이언트와 코드 리포지터리인 깃허브를 악용해 멀웨어를 유포하고 있다는 사실이 드러났다. 이들은 구인을 테마로 한 메일에 악성 파일을 첨부하여 피해자들에게 전송하고 있다. 피해자들이 이를 열 경우 악성 매크로가 실시되면서 윈도 업데...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[딥닷웹 운영자, 불법 다크웹 시장 광고한 죄로 투옥돼 (보안뉴스 ─ SECURITY)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104500&amp;page=1&amp;mkind=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104500&amp;page=1&amp;mkind=1&amp;kind=1</guid>
-            <pubDate>Fri, 28 Jan 2022 06:18:33 GMT</pubDate>
-            <content:encoded><![CDATA[딥닷웹(DeepDotWeb)이라는 다크웹 뉴스 및 리뷰 사이트를 운영하던 이스라엘 국적자 한 명이 미국 재판정에서 97개월 징역형을 선고받았다. 다크웹 소식을 전한 것만이 아니라 불법 서비스를 광고하고, 심지어 스스로 자금 세탁에 적극 가담했기 때문이다. 이 인물은 2...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[보테나고 봇넷의 코드, 깃허브 통해 유출돼 (보안뉴스 ─ SECURITY)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104499&amp;page=1&amp;mkind=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104499&amp;page=1&amp;mkind=1&amp;kind=1</guid>
-            <pubDate>Fri, 28 Jan 2022 02:34:50 GMT</pubDate>
-            <content:encoded><![CDATA[보테나고(BotenaGo)라는 봇넷 멀웨어의 소스코드가 깃허브를 통해 유출됐다. 이 때문에 조금의 개발 지식만 가지고 있어도 봇넷 멀웨어를 만들 수 있게 됐다. 보네타고는 각종 라우터와 사물인터넷 장비를 장악하여 봇넷에 편입시키는 멀웨어로, 이미 수백만 대의 장비들이 ...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[임혜숙 과기정통부 장관, 민관 협력으로 반도체 기술 경쟁에 대응한다 (보안뉴스 ─ IT)]]></title>
@@ -1893,6 +1897,104 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2021/12/20211211cyber-s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[데이터 프라이버시 주간 되자마자 구글은 소송에 휘말리고 (보안뉴스 ─ 국제)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104530&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104530&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
+            <pubDate>Thu, 03 Feb 2022 02:28:33 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/view.asp?idx=104530&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
+					
+					<img src="/media/upFiles2/2022/02/priv-thumb-0203.jpg" alt="" class="news_img" height="70">
+					
+					<span class="news_txt">데이터 프라이버시 주간 되자마자 구글은 소송에 휘말리고</span>
+					</a><br>
+					<a href="/media/view.asp?idx=104530&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">데이터 프라이버시 주간, 워싱턴 주의 검사들은 구글에 대한 기소장을 작성해 법원에 제출했다. 사용자의 위치 이력을 불합리한 방법으로 추적했다는 것이 그 이유다. ...</a> <span class="news_writer">문가용 기자 | 2022년 02월 03일 11:24</span>]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/priv-thumb-0203.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[새로운 랜섬웨어인 ‘슈가 랜섬웨어’, 월마트 공격 (보안뉴스 ─ 국제)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104529&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104529&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
+            <pubDate>Thu, 03 Feb 2022 02:28:33 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/view.asp?idx=104529&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
+					
+					<img src="/media/upFiles2/2022/02/sug-thumb-0203.jpg" alt="" class="news_img" height="70">
+					
+					<span class="news_txt">새로운 랜섬웨어인 ‘슈가 랜섬웨어’, 월마트 공격</span>
+					</a><br>
+					<a href="/media/view.asp?idx=104529&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">슈가 랜섬웨어(Sugar Ransomware)라는 새 랜섬웨어가 다크웹에 나타났다. 역시나 RaaS 형태로 타 범죄자들에게 제공되고 있으며, 이미 대형 도소매 업...</a> <span class="news_writer">문가용 기자 | 2022년 02월 03일 11:14</span>]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/sug-thumb-0203.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[솔라윈즈 공격자들의 멀웨어, 수년 만에 처음 발견돼 (보안뉴스 ─ 국제)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104528&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104528&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
+            <pubDate>Thu, 03 Feb 2022 02:28:33 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/view.asp?idx=104528&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
+					
+					<img src="/media/upFiles2/2022/02/sol-thumb-0203.jpg" alt="" class="news_img" height="70">
+					
+					<span class="news_txt">솔라윈즈 공격자들의 멀웨어, 수년 만에 처음 발견돼</span>
+					</a><br>
+					<a href="/media/view.asp?idx=104528&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">솔라윈즈(SolarWinds) 사태를 일으켰던 사이버 공격자들의 공격 도구들이 계속해서 발견되고 있는 가운데, 최소 2019년부터 현재까지 사용되어 온 것들도 섞...</a> <span class="news_writer">문가용 기자 | 2022년 02월 03일 11:13</span>]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/sol-thumb-0203.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[시장 조사 업체, 시비콤에서 8TB 정보 유출돼 (보안뉴스 ─ 국제)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104527&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104527&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
+            <pubDate>Thu, 03 Feb 2022 02:28:33 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/view.asp?idx=104527&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
+					
+					<img src="/media/upFiles2/2022/02/mark-thumb-0203.jpg" alt="" class="news_img" height="70">
+					
+					<span class="news_txt">시장 조사 업체, 시비콤에서 8TB 정보 유출돼</span>
+					</a><br>
+					<a href="/media/view.asp?idx=104527&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">대형 시장 조사 업체인 시비콤(Civicom)에서 다량의 정보가 유출됐다. 클라우드 서비스인 S3 버킷을 잘못 설정했기 때문이다. 고객들과 진행한 전화 통화 내용...</a> <span class="news_writer">문가용 기자 | 2022년 02월 03일 11:12</span>]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/mark-thumb-0203.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[자바스크립트 패키지 공유 플랫폼에서 악성 패키지 유통돼 (보안뉴스 ─ 국제)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104526&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104526&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
+            <pubDate>Thu, 03 Feb 2022 02:28:33 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/view.asp?idx=104526&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
+					
+					<img src="/media/upFiles2/2022/02/npm-thumb-0203.jpg" alt="" class="news_img" height="70">
+					
+					<span class="news_txt">자바스크립트 패키지 공유 플랫폼에서 악성 패키지 유통돼</span>
+					</a><br>
+					<a href="/media/view.asp?idx=104526&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">개발자들끼리 자바스크립트 패키지를 공유하는 플랫폼인 NPM에서 악성 패키지 다수가 발견됐다. 지난 6개월 동안에만 무려 1300개의 악성 패키지들이 NPM에서 유...</a> <span class="news_writer">문가용 기자 | 2022년 02월 03일 11:11</span>]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/npm-thumb-0203.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[다운된 깃허브 때문에 웹사이트 접속과 프로젝트 개발 중단돼 (보안뉴스 ─ 국제)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104525&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104525&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
+            <pubDate>Thu, 03 Feb 2022 02:28:33 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/view.asp?idx=104525&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
+					
+					<img src="/media/upFiles2/2022/02/off-thumb-0203.jpg" alt="" class="news_img" height="70">
+					
+					<span class="news_txt">다운된 깃허브 때문에 웹사이트 접속과 프로젝트 개발 중단돼</span>
+					</a><br>
+					<a href="/media/view.asp?idx=104525&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">코드 공유 사이트인 깃허브(GitHub)가 돌연 마비되는 상황이 발생했다. 이 때문에 일부 웹사이트들에 대한 접근이 거부되고, 프로젝트 개발이 중단됐으며, 풀(p...</a> <span class="news_writer">문가용 기자 | 2022년 02월 03일 11:10</span>]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/off-thumb-0203.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[파워셸 백도어로 새롭게 무장한 차밍키튼 (보안뉴스 ─ 국제)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104524&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104524&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
+            <pubDate>Thu, 03 Feb 2022 02:28:33 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/view.asp?idx=104524&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
+					
+					<img src="/media/upFiles2/2022/02/kit-htumb-0203.jpg" alt="" class="news_img" height="70">
+					
+					<span class="news_txt">파워셸 백도어로 새롭게 무장한 차밍키튼</span>
+					</a><br>
+					<a href="/media/view.asp?idx=104524&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">이란의 사이버 해킹 단체인 차밍키튼(Charming Kitten)이 새로운 해킹 도구와 전략으로 무장했다. 특히 눈에 띄는 건 새로운 파워셸 백도어다. 또한 기존...</a> <span class="news_writer">문가용 기자 | 2022년 02월 03일 11:09</span>]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/kit-htumb-0203.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[랜섬웨어 다음은 킬웨어? 목숨을 노리는 것들이 온다 (보안뉴스 ─ 국제)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104519&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104519&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
@@ -2073,104 +2175,6 @@
 					</a><br>
 					<a href="/media/view.asp?idx=104466&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">해킹 그룹들 중에는 ‘최초 접근 권한’만을 판매하는 자들도 있다. 공격 경로를 뚫어놓고 이를 판매하는 건데, 이런 조직들 중 프로펫 스파이더(Prophet Spi...</a> <span class="news_writer">문가용 기자 | 2022년 01월 27일 11:19</span>]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/pion-thumb-0127.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다크허링 멀웨어, 1억 500만 대 안드로이드 장비 감염시켜 (보안뉴스 ─ 국제)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104465&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104465&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
-            <pubDate>Thu, 27 Jan 2022 02:33:50 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/view.asp?idx=104465&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
-					
-					<img src="/media/upFiles2/2022/01/herring-thumb-0127.jpg" alt="" class="news_img" height="70">
-					
-					<span class="news_txt">다크허링 멀웨어, 1억 500만 대 안드로이드 장비 감염시켜</span>
-					</a><br>
-					<a href="/media/view.asp?idx=104465&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">구글 플레이에 무려 470개의 가짜 앱이 등록됐고, 이 앱들을 통해 다크허링(Dark Herring)이라는 멀웨어가 퍼져나갔다. 1억 대가 넘는 장비들에 이 멀웨...</a> <span class="news_writer">문가용 기자 | 2022년 01월 27일 11:18</span>]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/herring-thumb-0127.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[애플, 활발히 익스플로잇 되고 있는 제로데이 패치해 (보안뉴스 ─ 국제)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104463&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104463&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
-            <pubDate>Thu, 27 Jan 2022 02:33:50 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/view.asp?idx=104463&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
-					
-					<img src="/media/upFiles2/2022/01/appl-thumb-0127.jpg" alt="" class="news_img" height="70">
-					
-					<span class="news_txt">애플, 활발히 익스플로잇 되고 있는 제로데이 패치해</span>
-					</a><br>
-					<a href="/media/view.asp?idx=104463&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">애플이 긴급 iOS 업데이트를 발표했다. 11개의 보안 취약점들이 이번 패치를 통해 해결됐다. 이 중 하나는 이미 공격자들이 발견해 활발히 익스플로잇 하고 있을 ...</a> <span class="news_writer">문가용 기자 | 2022년 01월 27일 11:13</span>]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/appl-thumb-0127.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[록빗의 리눅스 버전, VM웨어 ESXi 서버 노려 (보안뉴스 ─ 국제)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104462&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104462&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
-            <pubDate>Thu, 27 Jan 2022 02:33:50 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/view.asp?idx=104462&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
-					
-					<img src="/media/upFiles2/2022/01/lin-thumb-0127.jpg" alt="" class="news_img" height="70">
-					
-					<span class="news_txt">록빗의 리눅스 버전, VM웨어 ESXi 서버 노려</span>
-					</a><br>
-					<a href="/media/view.asp?idx=104462&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">악명 높은 랜섬웨어인 록빗(LockBit)도 리눅스를 공격하기 시작했다. 리눅스 환경에서 작동하는 버전이 새롭게 등장한 것이다. 이 버전은 특히 VM웨어의 ESX...</a> <span class="news_writer">문가용 기자 | 2022년 01월 27일 11:10</span>]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/lin-thumb-0127.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NSO그룹의 페가수스, 국제인권감시기구도 노렸다 (보안뉴스 ─ 국제)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104461&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104461&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
-            <pubDate>Thu, 27 Jan 2022 02:33:50 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/view.asp?idx=104461&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
-					
-					<img src="/media/upFiles2/2022/01/peg-thumb-0127.jpg" alt="" class="news_img" height="70">
-					
-					<span class="news_txt">NSO그룹의 페가수스, 국제인권감시기구도 노렸다</span>
-					</a><br>
-					<a href="/media/view.asp?idx=104461&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">국제인권감시기구(HRW)가 이스라엘의 스파이웨어 개발사인 NSO그룹(NSO Group)의 공격을 받았다고 주장했다. NSO그룹이 개발한 페가수스(Pegasus)가...</a> <span class="news_writer">문가용 기자 | 2022년 01월 27일 11:08</span>]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/peg-thumb-0127.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[중국의 APT27, 독일부터 시작해 서방 국가 겨냥하기 시작 (보안뉴스 ─ 국제)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104460&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104460&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
-            <pubDate>Thu, 27 Jan 2022 02:33:50 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/view.asp?idx=104460&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
-					
-					<img src="/media/upFiles2/2022/01/germ-thumb-0127.jpg" alt="" class="news_img" height="70">
-					
-					<span class="news_txt">중국의 APT27, 독일부터 시작해 서방 국가 겨냥하기 시작</span>
-					</a><br>
-					<a href="/media/view.asp?idx=104460&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">중국의 해킹 단체인 APT27이 서양 국가들을 겨냥한 사이버전 행위에 다시 시동을 거는 것으로 보인다. 시작은 독일의 의약 및 기술 산업 내 다양한 조직들이라고 ...</a> <span class="news_writer">문가용 기자 | 2022년 01월 27일 11:07</span>]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/germ-thumb-0127.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사물인터넷 장비를 겨냥한 사이버 공격, 어디까지 심해지려나 (보안뉴스 ─ 국제)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104423&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104423&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
-            <pubDate>Wed, 26 Jan 2022 10:17:59 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/view.asp?idx=104423&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
-					
-					<img src="/media/upFiles2/2022/01/iot-thumb-0126.jpg" alt="" class="news_img" height="70">
-					
-					<span class="news_txt">사물인터넷 장비를 겨냥한 사이버 공격, 어디까지 심해지려나</span>
-					</a><br>
-					<a href="/media/view.asp?idx=104423&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">사물인터넷 장비들을 겨냥한 사이버 공격이 증가하면서 보안 전문가들의 보안 경고가 계속해서 나오고 있다. 보안 업체 인텔471(Intel 471)의 경우 1월 25...</a> <span class="news_writer">문가용 기자 | 2022년 01월 26일 18:40</span>]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/iot-thumb-0126.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[MS 원드라이브가 공격자들의 C&C? 새로운 전략 선보인 APT 단체 (보안뉴스 ─ 국제)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104408&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104408&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
-            <pubDate>Wed, 26 Jan 2022 07:15:58 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/view.asp?idx=104408&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
-					
-					<img src="/media/upFiles2/2022/01/clo-thumb-0126.jpg" alt="" class="news_img" height="70">
-					
-					<span class="news_txt">MS 원드라이브가 공격자들의 C&amp;C? 새로운 전략 선보인 APT 단체</span>
-					</a><br>
-					<a href="/media/view.asp?idx=104408&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">마이크로소프트의 원드라이브 서비스를 C&amp;C로 활용하는 전략이 등장했다. 그것도 고위급 정부 요원 및 국방 요원들을 겨냥한 캠페인에서 이 새로운 전략이 활용되는 것...</a> <span class="news_writer">문가용 기자 | 2022년 01월 26일 16:07</span>]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/clo-thumb-0126.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[지난해 주목 받은 국내 보안업계 ‘인수합병’ 7건... 2022년 파급효과는? (보안뉴스 ─ 기획특집)]]></title>

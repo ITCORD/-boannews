@@ -2,9 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-02-03T01:57:06.153Z</updated>
+    <updated>2022-02-03T02:29:08.352Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[시장 조사 업체, 시비콤에서 8TB 정보 유출돼]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104527&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104527&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-02-03T02:27:07.528Z</updated>
+        <content type="html"><![CDATA[대형 시장 조사 업체인 시비콤(Civicom)에서 다량의 정보가 유출됐다. 클라우드 서비스인 S3 버킷을 잘못 설정했기 때문이다. 고객들과 진행한 전화 통화 내용은 물론 화상 회의 클립까지 전부 유출됐다고 하며, 여기에는 대단히 민감한 정보가 다량으로 포함되어 있다고 ...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[자바스크립트 패키지 공유 플랫폼에서 악성 패키지 유통돼]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104526&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104526&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-02-03T02:27:07.531Z</updated>
+        <content type="html"><![CDATA[개발자들끼리 자바스크립트 패키지를 공유하는 플랫폼인 NPM에서 악성 패키지 다수가 발견됐다. 지난 6개월 동안에만 무려 1300개의 악성 패키지들이 NPM에서 유통되고 있었다고 한다. 2021년 한 해 내내 한 달 평균 3만 2천여 개의 악성 패키지가 NPM에 업로드 ...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[다운된 깃허브 때문에 웹사이트 접속과 프로젝트 개발 중단돼]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104525&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104525&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-02-03T02:27:07.534Z</updated>
+        <content type="html"><![CDATA[코드 공유 사이트인 깃허브(GitHub)가 돌연 마비되는 상황이 발생했다. 이 때문에 일부 웹사이트들에 대한 접근이 거부되고, 프로젝트 개발이 중단됐으며, 풀(pull) 요청을 전송할 수가 없게 됐다. 한국 기준 새벽 4:15분 경부터 시작된 이 마비 현상의 근본적인 ...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[파워셸 백도어로 새롭게 무장한 차밍키튼]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104524&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104524&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-02-03T02:27:07.535Z</updated>
+        <content type="html"><![CDATA[이란의 사이버 해킹 단체인 차밍키튼(Charming Kitten)이 새로운 해킹 도구와 전략으로 무장했다. 특히 눈에 띄는 건 새로운 파워셸 백도어다. 또한 기존에 사용하지 않았던 ‘스텔스 전략’까지도 활용하고 있는 것으로 나타났다. 보안 업체 사이버리즌(Cyberea...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[랜섬웨어 다음은 킬웨어? 목숨을 노리는 것들이 온다]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104519&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104519&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-02-03T02:27:07.547Z</updated>
+        <content type="html"><![CDATA[2021년은 랜섬웨어로 얼룩진 해다. 온갖 산업에서 수많은 기업들이 막대한 피해를 입었다. 어떤 공격은 그 피해가 해당 업체에서만 끝나지 않고 산업 전체와 광범위한 지역 전체에도 퍼졌다. 주식 시장에도 그 파급력이 있었을 정도였다. 코로나에 준하는 팬데믹으로 불리는 랜...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[사이버 보안 대표기업 2022년 출사표-5] 이스트시큐리티]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104419&amp;page=1&amp;mkind=1&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104419&amp;page=1&amp;mkind=1&amp;kind=3"/>
+        <updated>2022-02-03T02:27:07.550Z</updated>
+        <content type="html"><![CDATA[코로나19 팬데믹이 지속됨에 따라 위드 코로나와 관련된 키워드를 사용한 이메일 피싱, 스미싱 등 종합적인 공격이 다수 발생할 것으로 예상된다. 이스트시큐리티는 알약-알약 EDR -Threat Inside로 이어지는 ‘3단계 엔드포인트 위협 대응’ 체계를 갖춰, 알려지지...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[피싱 메일 통해 악명 높은 ‘이모텟’ 악성코드 대량 유포]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104522&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104522&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-02-03T02:27:07.552Z</updated>
+        <content type="html"><![CDATA[2014년부터 활동을 시작한 악명 높은 악성코드 ‘이모텟(Emotet)’이 피싱 메일을 통해 최근 국내에 대량 유포되고 있는 것으로 드러났다. 이모텟 악성코도는 원래 뱅킹 트로이목마였는데, 계속 진화를 거듭하면서 최근에는 다른 악성코드를 심는 악성코드로 악명을 떨치고 ...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사이버 보안 대표기업 2022년 출사표-4] 위즈코리아]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=104416&amp;page=1&amp;mkind=1&amp;kind=3</id>
@@ -74,54 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=104511&amp;page=1&amp;mkind=1&amp;kind=2"/>
         <updated>2022-01-29T03:15:11.458Z</updated>
         <content type="html"><![CDATA[춘천시 전 직원이 개인정보보호 배상책임보험에 가입한다. 시는 전국적으로 고의나 과실로 인한 개인정보 유출 사고 다수 발생에 따라 개인정보보호 배상책임보험을 운영하고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독] 코로나 ‘3차 백신 접종 이상반응 모니터링’ 위장 해킹 발견]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104506&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104506&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-01-29T03:15:11.461Z</updated>
-        <content type="html"><![CDATA[코로나19 백신의 3차 접종이 전 세계적으로 이슈가 되고 있는 가운데, 최근 중앙방역대책본부로 위장해 3차 백신 접종 이상반응 모니터링을 한다며 접근한 후 사용자의 이메일 계정정보를 가로채는 해킹이 국내에서 발견돼 주의가 요구된다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[라인, 사용자 정보 보호 대책 담은 특별 웹사이트 공개]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104505&amp;page=1&amp;mkind=1&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104505&amp;page=1&amp;mkind=1&amp;kind=3"/>
-        <updated>2022-01-29T02:25:23.454Z</updated>
-        <content type="html"><![CDATA[라인(LINE Corporation, 대표이사 사장 이데자와 다케시)는 ‘라인 프라이버시 데이(LINE Privacy Day)’를 기념해 라인의 사용자 정보 보호책을 소개하는 특별 웹사이트를 공개했다고 28일 밝혔다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤석열 국민의힘 대통령 후보 “국가차원의 사이버대응체계 일원화”]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104504&amp;page=1&amp;mkind=1&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104504&amp;page=1&amp;mkind=1&amp;kind=2"/>
-        <updated>2022-01-29T02:25:23.455Z</updated>
-        <content type="html"><![CDATA[윤석열 국민의힘 대통령 후보가 디지털 경제 비전을 위한 6가지 실천사항을 발표하면서 국가차원의 사이버대응체계 일원화를 내걸었다. 1월 28일 열린 ‘디지털 지구 시대, 윤석열 대통령 후보 대한민국 디지털 경제 비전 발표’에서 윤석열 후보는 국가 사이버 안전망 구축을 공...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[록빗 랜섬웨어, 프랑스 사법부와 유럽 회사들 공격]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104502&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104502&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-01-28T09:16:05.266Z</updated>
-        <content type="html"><![CDATA[록빗(LockBit) 랜섬웨어가 최근 들어 기승을 부리고 있다. 얼마 전에는 프랑스 사법부까지도 록빗에 혼이 났다고 한다. 상세한 내용은 아직 발표되지 않고 있는데, 공격자들의 정보 유출용 웹사이트에는 “13일 안에 요구 조건을 들어주어야 할 것”이라는 경고문이 적혀 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[북한의 라자루스, 윈도 업데이트 클라이언트와 깃허브 악용]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104501&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104501&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-01-28T06:18:33.635Z</updated>
-        <content type="html"><![CDATA[북한의 라자루스가 최근 윈도 업데이트 클라이언트와 코드 리포지터리인 깃허브를 악용해 멀웨어를 유포하고 있다는 사실이 드러났다. 이들은 구인을 테마로 한 메일에 악성 파일을 첨부하여 피해자들에게 전송하고 있다. 피해자들이 이를 열 경우 악성 매크로가 실시되면서 윈도 업데...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[딥닷웹 운영자, 불법 다크웹 시장 광고한 죄로 투옥돼]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104500&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104500&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-01-28T06:18:33.648Z</updated>
-        <content type="html"><![CDATA[딥닷웹(DeepDotWeb)이라는 다크웹 뉴스 및 리뷰 사이트를 운영하던 이스라엘 국적자 한 명이 미국 재판정에서 97개월 징역형을 선고받았다. 다크웹 소식을 전한 것만이 아니라 불법 서비스를 광고하고, 심지어 스스로 자금 세탁에 적극 가담했기 때문이다. 이 인물은 2...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[보테나고 봇넷의 코드, 깃허브 통해 유출돼]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104499&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104499&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-01-28T02:34:50.797Z</updated>
-        <content type="html"><![CDATA[보테나고(BotenaGo)라는 봇넷 멀웨어의 소스코드가 깃허브를 통해 유출됐다. 이 때문에 조금의 개발 지식만 가지고 있어도 봇넷 멀웨어를 만들 수 있게 됐다. 보네타고는 각종 라우터와 사물인터넷 장비를 장악하여 봇넷에 편입시키는 멀웨어로, 이미 수백만 대의 장비들이 ...]]></content>
     </entry>
 </feed>
