@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-02-03T08:20:29.156Z</updated>
+    <updated>2022-02-03T09:16:58.110Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[개인정보 분쟁조정, 스마트폰으로도 신청 가능해진다]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104532&amp;page=1&amp;mkind=1&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104532&amp;page=1&amp;mkind=1&amp;kind=2"/>
+        <updated>2022-02-03T09:15:01.885Z</updated>
+        <content type="html"><![CDATA[앞으로는 스마트폰을 이용해서도 개인정보 분쟁조정을 신청할 수 있게 된다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[카카오, QR체크인과 다음 등 서비스 오류로 먹통돼]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=104531&amp;page=1&amp;mkind=1&amp;kind=1</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=104518&amp;page=1&amp;mkind=1&amp;kind=3"/>
         <updated>2022-01-31T16:21:05.793Z</updated>
         <content type="html"><![CDATA[코로나 팬데믹이 오미크론과 같은 수많은 변종들에 의해 지속되면서 여러 산업을 어렵게 만들고 있다. 하지만 이러한 어려움 속에서도 주요 보안기업들은 신제품 개발이나 인수합병을 통해 끊임없이 시장을 선도하기 위한 노력을 아끼지 않고 있다. 이에 &lt;보안뉴스&gt;는 지...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사이버 보안 대표기업 2022년 출사표-2] 시큐아이]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104410&amp;page=1&amp;mkind=1&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104410&amp;page=1&amp;mkind=1&amp;kind=3"/>
-        <updated>2022-01-31T15:15:39.490Z</updated>
-        <content type="html"><![CDATA[전 세계적 화두인 디지털 트랜스포메이션의 흐름 속에서 빠르게 발전하는 기술과 함께 보안 영역에서도 고객의 요구가 다양해지고 있다. 시큐아이는 고객이 기대하는 높은 수준의 보안정책을 만족할 수 있도록 기존 네트워크 보안 제품의 지속적인 업그레이드를 진행하고 있다. 또한,...]]></content>
     </entry>
 </feed>
