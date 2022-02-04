@@ -4,17 +4,9 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 04 Feb 2022 22:16:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 04 Feb 2022 23:15:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[북한, 26일 이어 31일 또 사이버공격 당했나? 외무성 사이트 등 접속장애]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104521&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104521&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Tue, 01 Feb 2022 05:14:26 GMT</pubDate>
-            <content:encoded><![CDATA[북한이 연이어 동해상으로 미사일을 발사하는 등 남북 간의 긴장감이 고조되고 있는 가운데 설 명절 기간인 31일 외무성 사이트를 비롯한 북한의 주요 기관 사이트가 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/20220201norh-s.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[랜섬웨어 다음은 킬웨어? 목숨을 노리는 것들이 온다]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104519&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
@@ -22,6 +14,14 @@
             <pubDate>Thu, 03 Feb 2022 07:15:00 GMT</pubDate>
             <content:encoded><![CDATA[2021년은 랜섬웨어로 얼룩진 해다. 온갖 산업에서 수많은 기업들이 막대한 피해를 입었다. 어떤 공격은 그 피해가 해당 업체에서만 끝나지 않고 산업 전체와 광범위...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/kill-thumb-0130.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[북한, 26일 이어 31일 또 사이버공격 당했나? 외무성 사이트 등 접속장애]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104521&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104521&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Tue, 01 Feb 2022 05:14:26 GMT</pubDate>
+            <content:encoded><![CDATA[북한이 연이어 동해상으로 미사일을 발사하는 등 남북 간의 긴장감이 고조되고 있는 가운데 설 명절 기간인 31일 외무성 사이트를 비롯한 북한의 주요 기관 사이트가 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/20220201norh-s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[설 연휴 기간 스팸·스미싱·보이스피싱 피해, 어떻게 예방해야 하나]]></title>
@@ -102,19 +102,19 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/20220202esrc-s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[춘천시, 전 직원 개인정보보호 배상책임보험 가입]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104511&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104511&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
-            <pubDate>Wed, 02 Feb 2022 07:14:12 GMT</pubDate>
-            <content:encoded><![CDATA[춘천시 전 직원이 개인정보보호 배상책임보험에 가입한다. 시는 전국적으로 고의나 과실로 인한 개인정보 유출 사고 다수 발생에 따라 개인정보보호 배상책임보험을 운영하...]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[해킹으로 유출된 대한민국 카드 정보, 다크웹에서 약 8,630원에 판매중]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104536&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104536&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Fri, 04 Feb 2022 12:19:47 GMT</pubDate>
             <content:encoded><![CDATA[다크웹에서 판매된 12,500여 개의 대한민국 카드 정보를 분석한 사이버 보안 업체 NordVPN의 리서치에 따르면 대한민국 카드의 평균 가격은 8,630.37원...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/20220203card-s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[춘천시, 전 직원 개인정보보호 배상책임보험 가입]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104511&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104511&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
+            <pubDate>Wed, 02 Feb 2022 07:14:12 GMT</pubDate>
+            <content:encoded><![CDATA[춘천시 전 직원이 개인정보보호 배상책임보험에 가입한다. 시는 전국적으로 고의나 과실로 인한 개인정보 유출 사고 다수 발생에 따라 개인정보보호 배상책임보험을 운영하...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[임혜숙 과기정통부 장관, 민관 협력으로 반도체 기술 경쟁에 대응한다]]></title>
