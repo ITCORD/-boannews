@@ -2,9 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-02-04T02:18:27.589Z</updated>
+    <updated>2022-02-04T03:15:35.471Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[중국의 앤트라이언, 맞춤형 백도어 사용해 수개월 동안 은신해]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104564&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104564&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-02-04T03:13:53.242Z</updated>
+        <content type="html"><![CDATA[앤트라이언(Antlion)이라고 이름 붙여진 중국의 APT 단체가 수개월 동안 들키지 않은 상태로 공격을 진행했다는 사실이 발견됐다. 그 비결은 자신들이 직접 만든 ‘커스텀 백도어’라고 한다. 이 백도어의 이름은 엑스팩(xPack)이라고 하며, 주로 금융 기관들과 제조...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[짐브라의 제로데이 취약점, 활발하게 익스플로잇 되는 중]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104563&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104563&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-02-04T03:13:53.243Z</updated>
+        <content type="html"><![CDATA[이메일 및 협업 플랫폼인 짐브라에서 제로데이 취약점이 발견됐다. 일종의 XSS 취약점으로, 유럽의 언론 매체들과 정부 기관들을 겨냥한 실제 공격에 활발히 악용되고 있다고 한다. 아직 CVE 번호와 패치 모두 나오지 않은 상황이다. 최신 버전의 짐브라까지도 전부 이 취약...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[웜홀 해킹 공격으로 3억 달러어치 암호화폐 사라져]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104562&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104562&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-02-04T03:13:53.252Z</updated>
+        <content type="html"><![CDATA[블록체인 브리지 서비스인 웜홀(Wormhole)이 해킹 공격에 당했다. 이 공격으로 3억 2천만 달러에 해당하는 암호화폐가 도난당했다고 웜홀 측은 발표했다. 공격자들은 솔라나(Solana)라는 블록체인에 존재하는 랩트이더리움 코인 생태계에서 발견된 취약점을 익스플로잇한...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2021년 해외 사이버 보안 업계에 어떤 M&A가 성사됐나]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104535&amp;page=1&amp;mkind=1&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104535&amp;page=1&amp;mkind=1&amp;kind=3"/>
+        <updated>2022-02-04T03:13:53.252Z</updated>
+        <content type="html"><![CDATA[전 세계 거의 모든 산업이 코로나라는 전례 없는 사태 때문에 허덕이고 있을 때, 유독 사이버 보안 업계만은 활발히 성장했다. 그 증거 중 하나가 끝없는 M&amp;A 소식인데, 사모펀드에서부터 빅테크, 회계 법인 등 타 산업 조직들의 ‘보안 사들이기’가 한 해 동안 대량으로 ...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[알파비트, 한국자산관리공사에 비정형데이터 암호화 솔루션 공급]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104560&amp;page=1&amp;mkind=1&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104560&amp;page=1&amp;mkind=1&amp;kind=3"/>
+        <updated>2022-02-04T03:13:53.273Z</updated>
+        <content type="html"><![CDATA[알파비트는 과학기술정보통신부가 선정한 2020 우수 정보보호 솔루션인 Alpha SmartGuard V3.1을 한국자산관리공사 차세대 국유시스템에 수주했다고 밝혔다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SKT, ‘이니셜’로 무인매장 방역 강화한다]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104554&amp;page=1&amp;mkind=1&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104554&amp;page=1&amp;mkind=1&amp;kind=3"/>
+        <updated>2022-02-04T03:13:53.273Z</updated>
+        <content type="html"><![CDATA[SK텔레콤은 자사의 ‘이니셜(initial)’ 앱을 통해 국내 최초 블록체인·DID(Decentralized Identifiers, 탈중앙 식별자) 기반 ‘무인 안심존 출입인증’ 서비스를 출시했다고 밝혔다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사이버 보안 대표기업 2022년 출사표-6] 시큐레터]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=104409&amp;page=1&amp;mkind=1&amp;kind=3</id>
@@ -81,47 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=104526&amp;page=1&amp;mkind=1&amp;kind=1"/>
         <updated>2022-02-03T02:27:07.531Z</updated>
         <content type="html"><![CDATA[개발자들끼리 자바스크립트 패키지를 공유하는 플랫폼인 NPM에서 악성 패키지 다수가 발견됐다. 지난 6개월 동안에만 무려 1300개의 악성 패키지들이 NPM에서 유통되고 있었다고 한다. 2021년 한 해 내내 한 달 평균 3만 2천여 개의 악성 패키지가 NPM에 업로드 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[다운된 깃허브 때문에 웹사이트 접속과 프로젝트 개발 중단돼]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104525&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104525&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-02-03T02:27:07.534Z</updated>
-        <content type="html"><![CDATA[코드 공유 사이트인 깃허브(GitHub)가 돌연 마비되는 상황이 발생했다. 이 때문에 일부 웹사이트들에 대한 접근이 거부되고, 프로젝트 개발이 중단됐으며, 풀(pull) 요청을 전송할 수가 없게 됐다. 한국 기준 새벽 4:15분 경부터 시작된 이 마비 현상의 근본적인 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[파워셸 백도어로 새롭게 무장한 차밍키튼]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104524&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104524&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-02-03T02:27:07.535Z</updated>
-        <content type="html"><![CDATA[이란의 사이버 해킹 단체인 차밍키튼(Charming Kitten)이 새로운 해킹 도구와 전략으로 무장했다. 특히 눈에 띄는 건 새로운 파워셸 백도어다. 또한 기존에 사용하지 않았던 ‘스텔스 전략’까지도 활용하고 있는 것으로 나타났다. 보안 업체 사이버리즌(Cyberea...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[랜섬웨어 다음은 킬웨어? 목숨을 노리는 것들이 온다]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104519&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104519&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-02-03T02:27:07.547Z</updated>
-        <content type="html"><![CDATA[2021년은 랜섬웨어로 얼룩진 해다. 온갖 산업에서 수많은 기업들이 막대한 피해를 입었다. 어떤 공격은 그 피해가 해당 업체에서만 끝나지 않고 산업 전체와 광범위한 지역 전체에도 퍼졌다. 주식 시장에도 그 파급력이 있었을 정도였다. 코로나에 준하는 팬데믹으로 불리는 랜...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사이버 보안 대표기업 2022년 출사표-5] 이스트시큐리티]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104419&amp;page=1&amp;mkind=1&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104419&amp;page=1&amp;mkind=1&amp;kind=3"/>
-        <updated>2022-02-03T02:27:07.550Z</updated>
-        <content type="html"><![CDATA[코로나19 팬데믹이 지속됨에 따라 위드 코로나와 관련된 키워드를 사용한 이메일 피싱, 스미싱 등 종합적인 공격이 다수 발생할 것으로 예상된다. 이스트시큐리티는 알약-알약 EDR -Threat Inside로 이어지는 ‘3단계 엔드포인트 위협 대응’ 체계를 갖춰, 알려지지...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[피싱 메일 통해 악명 높은 ‘이모텟’ 악성코드 대량 유포]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104522&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104522&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-02-03T02:27:07.552Z</updated>
-        <content type="html"><![CDATA[2014년부터 활동을 시작한 악명 높은 악성코드 ‘이모텟(Emotet)’이 피싱 메일을 통해 최근 국내에 대량 유포되고 있는 것으로 드러났다. 이모텟 악성코도는 원래 뱅킹 트로이목마였는데, 계속 진화를 거듭하면서 최근에는 다른 악성코드를 심는 악성코드로 악명을 떨치고 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사이버 보안 대표기업 2022년 출사표-4] 위즈코리아]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104416&amp;page=1&amp;mkind=1&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104416&amp;page=1&amp;mkind=1&amp;kind=3"/>
-        <updated>2022-02-02T16:22:06.190Z</updated>
-        <content type="html"><![CDATA[위즈코리아가 올해로 20주년을 맞이했다. 사람의 나이로 치면 성인이 됐다. 최근 들어 솔루션 도입을 희망하는 고객사가 급증하면서 고객의 요구 역시 다양해지고 있기에 고객이 만족할 수 있는 최선의 솔루션을 제공할 수 있도록 개발과 투자를 아끼지 않고 있다. 특히, 이상행...]]></content>
     </entry>
 </feed>
