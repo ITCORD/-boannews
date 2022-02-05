@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=4</id>
     <title>보안뉴스 ─ SAFETY</title>
-    <updated>2022-02-05T00:46:50.073Z</updated>
+    <updated>2022-02-05T01:40:23.207Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[광주시, 교통문화지수 평가 결과 전국 광역지자체 중 2위]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104545&amp;page=1&amp;mkind=4&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104545&amp;page=1&amp;mkind=4&amp;kind=2"/>
+        <updated>2022-02-05T01:39:03.151Z</updated>
+        <content type="html"><![CDATA[광주광역시는 교통안전 의식 수준을 나타내는 ‘교통문화지수’ 평가 결과, 전국 17개 광역자치단체 중 2위를 차지했다고 밝혔다. 특히 이번 평가에서 교통안전 전문성 및 예산 확보·교통안전 정책 이행 정도·어린이교통사고 사망 제로화 등을 나타내는 ‘교통안전’지표에서 25점...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[전남도, 교통사고 사망자 줄이기 시책 효과 톡톡]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=104547&amp;page=1&amp;mkind=4&amp;kind=2</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=104426&amp;page=1&amp;mkind=4&amp;kind=2"/>
         <updated>2022-01-27T05:14:53.352Z</updated>
         <content type="html"><![CDATA[서울시가 올해 ‘안심마을보안관’ 및 ‘골목길 스마트보안등 설치’ 사업의 대상구역 선정에 시민의 신청을 받는다. 시민이 필요로 하는 곳에 설치해 1인가구와 일반 시민의 안전한 밤길 환경을 조성하기 위한 것으로, ‘서울시 1인가구 포털(1in.seoul.go.kr)’을 통...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[산림청, 2022년 K-산불방지 종합대책 발표]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104355&amp;page=1&amp;mkind=4&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104355&amp;page=1&amp;mkind=4&amp;kind=2"/>
-        <updated>2022-01-27T04:19:25.720Z</updated>
-        <content type="html"><![CDATA[산림청은 설 명절을 앞두고 최근 변화하는 산불 양상에 따라 산불 발생 원인별로 사전 예방 활동을 강화하고 과학기술에 기반한 산불 예방 및 대응을 골자로 하는 2022년도 전국 산불방지 종합대책을 발표했다.]]></content>
     </entry>
 </feed>

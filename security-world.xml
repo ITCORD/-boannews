@@ -1,27 +1,44 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
-    <channel>
-        <title>보안뉴스 ─ Security World</title>
-        <link>undefined</link>
-        <description>undefined</description>
-        <lastBuildDate>Sat, 05 Feb 2022 00:46:50 GMT</lastBuildDate>
-        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
-        <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[생체인식&출입통제 대표기업 2022년 출사표-4]...]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104398&amp;mkind=5</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104398&amp;mkind=5</guid>
-            <pubDate>Fri, 04 Feb 2022 08:15:23 GMT</pubDate>
-            <content:encoded><![CDATA[씨엠아이텍은 코로나19로 인한 반도체 수급불안으로 힘든 한해를 보낸 동종업계와 마찬가지로 부품 수급을 최우선 과제로 생각하며 부품 확보를 위해 노력하고 있...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/RESIZE_NovaFace2.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[영상보안 대표기업 2022년 출사표-7] 트루엔]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104394&amp;mkind=5</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104394&amp;mkind=5</guid>
-            <pubDate>Fri, 04 Feb 2022 08:15:23 GMT</pubDate>
-            <content:encoded><![CDATA[우리나라뿐만 아니라 전 세계 기업이 코로나19로 인해 어려움을 겪고 있는 가운데 트루엔 역시 쉽지 않은 시간을 보냈다. 이러한 상황에서도 트루엔은 시장을 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/RESIZERESIZETX-P7236N20RSUM.jpg" length="0" type="image/jpg"/>
-        </item>
-    </channel>
-</rss>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://www.boannews.com/securityworld/</id>
+    <title>보안뉴스 ─ Security World</title>
+    <updated>2022-02-05T01:40:23.200Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <icon>https://www.boannews.com/securityworld/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[익산시, 교통 소외 지역 없는 스마트시티 조성한다]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104575&amp;mkind=5</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104575&amp;mkind=5"/>
+        <updated>2022-02-05T01:39:11.065Z</updated>
+        <content type="html"><![CDATA[<div style="width:750px; height:45px; margin-top:15px;"><a href="/media/view.asp?idx=104575&amp;mkind=5" onfocus="this.blur();" style="font-size:28px; color:#282828; font-weight:600; float:left;">익산시, 교통 소외 지역 없는 스마트시티 조성한다</a></div>
+		
+		<div style="width:500px; float:left;font-size:15px;line-height:24px;text-align:justify;"><a href="/media/view.asp?idx=104575&amp;mkind=5"><font color="#5f5f5f">익산시가 스마트 솔루션 시스템 구축으로 교통 소외 지역 없는 도시 조성에 나선다. 시는 국토교통부에서 주관하는 ‘2022년 중·소도시 스마트시티 조성 사업...</font></a>
+		<hr style="margin:0;padding:0;border:0;height:10px;">
+
+		
+				<img src="/images/icon_a.gif" alt="" style="margin-top:2px;" width="12" height="12">
+				<a href="/media/view.asp?idx=104549&amp;mkind=5&amp;kind=2" style="font-size:15px;color:#353535;font-weight:500;line-height:26px;">전북도, 중소도시 스마트시티 조성 사업 선정 쾌거</a><br>
+		
+				<img src="/images/icon_a.gif" alt="" style="margin-top:2px;" width="12" height="12">
+				<a href="/media/view.asp?idx=104553&amp;mkind=5&amp;kind=2" style="font-size:15px;color:#353535;font-weight:500;line-height:26px;">경주시, 국토부 ‘스마트시티 조성 사업’ 대상지 선정돼 37억 확보</a><br>
+		</div>]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[복지부, 어린이집 CCTV 운영 지원 위한 자체 점...]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104573&amp;mkind=5</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104573&amp;mkind=5"/>
+        <updated>2022-02-05T01:39:11.068Z</updated>
+        <content type="html"><![CDATA[<div style="width:750px; height:45px;"><a href="/media/view.asp?idx=104573&amp;mkind=5" onfocus="this.blur();" style="font-size:28px; color:#282828; font-weight:600; float:left;">복지부, 어린이집 CCTV 운영 지원 위한 자체 점...</a></div>
+		
+		<div style="width:500px; float:left;font-size:15px;line-height:24px;text-align:justify;"><a href="/media/view.asp?idx=104573&amp;mkind=5"><font color="#5f5f5f">보건복지부와 한국보육진흥원은 어린이집 폐쇄회로 텔레비전(CCTV) 설치·관리 지원을 위한 ‘어린이집용 CCTV 자체 점검 체크리스트’(한국보육진흥원 누리집...</font></a>
+		<hr style="margin:0;padding:0;border:0;height:10px;">
+
+		
+				<img src="/images/icon_a.gif" alt="" style="margin-top:2px;" width="12" height="12">
+				<a href="/media/view.asp?idx=103498&amp;mkind=5&amp;kind=3" style="font-size:15px;color:#353535;font-weight:500;line-height:26px;">[2022 보안 핫키워드-8] 수술실·지하철·요양원까지... CCTV..</a><br>
+		
+				<img src="/images/icon_a.gif" alt="" style="margin-top:2px;" width="12" height="12">
+				<a href="/media/view.asp?idx=96514&amp;mkind=5&amp;kind=2" style="font-size:15px;color:#353535;font-weight:500;line-height:26px;">아동학대 의심된다면? 어린이집 CCTV 원본 열람 요청할 수 있다 </a><br>
+		</div>]]></content>
+    </entry>
+</feed>
