@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 05 Feb 2022 15:14:52 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Feb 2022 16:19:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -367,20 +367,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/20220203schoolm-s.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
-            <title><![CDATA[[영상보안 대표기업 2022년 출사표-2] 아이디스 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104378&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104378&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
-            <pubDate>Sat, 05 Feb 2022 02:15:20 GMT</pubDate>
-            <content:encoded><![CDATA[대한민국 대표 영상보안 기업 아이디스는 2019년 턴어라운드 이후 꾸준한 매출 증가를 계속 달성하고 있으며, 2021년에는 전년대비 25% 이상의 매출 상승으로 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/RESIZERESIZEIDIS20220125SUM.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[사이버 보안에 대한 투자, 사람이 언제나 먼저다 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104580&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104580&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Sat, 05 Feb 2022 10:13:31 GMT</pubDate>
             <content:encoded><![CDATA[사이버 보안 전문가들에 대한 수요는 계속해서 높아지고 있고, 아직도 공급은 따라가지 못하고 있다. 2021년 전 세계에서 70만 명 이상이 새롭게 사이버 보안 분...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/peop-thumb-0204.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[영상보안 대표기업 2022년 출사표-2] 아이디스 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104378&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104378&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
+            <pubDate>Sat, 05 Feb 2022 02:15:20 GMT</pubDate>
+            <content:encoded><![CDATA[대한민국 대표 영상보안 기업 아이디스는 2019년 턴어라운드 이후 꾸준한 매출 증가를 계속 달성하고 있으며, 2021년에는 전년대비 25% 이상의 매출 상승으로 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/RESIZERESIZEIDIS20220125SUM.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[오픈소스 삼바에 심각한 취약점 발견... 업데이트 시급 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
