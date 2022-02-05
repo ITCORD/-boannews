@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-02-05T09:15:24.852Z</updated>
+    <updated>2022-02-05T10:15:43.245Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[맥용 멀웨어인 업데이트에이전트, 지난 10월에 기능 업]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104569&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104569&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-02-05T10:13:41.177Z</updated>
+        <content type="html"><![CDATA[맥용 트로이목마인 업데이트에이전트(UpdateAgent)의 최신 버전이 발견됐다. 애플의 제품들을 노리는 공격자들의 노력이 계속해서 이뤄지고 있음이 다시 한 번 입증됐다. 업데이트에이전트는 위자드업데이트(WizardUpdate)라고 불리기도 한다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사이버 보안 대표기업 2022년 출사표-7] 넷앤드]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=104407&amp;page=1&amp;mkind=1&amp;kind=3</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=104531&amp;page=1&amp;mkind=1&amp;kind=1"/>
         <updated>2022-02-03T08:18:30.381Z</updated>
         <content type="html"><![CDATA[카카오의 서비스가 3일 오전 오류를 일으켰다. 문제가 된 것은 카카오 QR체크인과 카카오맵, 그리고 포털 서비스 ‘다음(daum)’ 일부 페이지 등이다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[데이터 프라이버시 주간 되자마자 구글은 소송에 휘말리고]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104530&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104530&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-02-03T08:18:30.383Z</updated>
-        <content type="html"><![CDATA[데이터 프라이버시 주간, 워싱턴 주의 검사들은 구글에 대한 기소장을 작성해 법원에 제출했다. 사용자의 위치 이력을 불합리한 방법으로 추적했다는 것이 그 이유다. 위치 이력 데이터와 관련된 설정 사항들이 사용자 프라이버시와 관련하여 실제로는 어떤 식으로 작동하는지, 데이...]]></content>
     </entry>
 </feed>
