@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 06 Feb 2022 14:15:45 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Feb 2022 15:16:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -32,28 +32,12 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/20220131dark-s.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
-            <title><![CDATA[지난해 주목 받은 국내 보안업계 ‘인수합병’ 7건... 2022년 파급효과는?]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104518&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104518&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
-            <pubDate>Mon, 31 Jan 2022 07:15:30 GMT</pubDate>
-            <content:encoded><![CDATA[코로나 팬데믹이 오미크론과 같은 수많은 변종들에 의해 지속되면서 여러 산업을 어렵게 만들고 있다. 하지만 이러한 어려움 속에서도 주요 보안기업들은 신제품 개발이나...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/20445960_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[스마트 매핑 통한 디지털 트윈, 스키장 문을 열다]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104510&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104510&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Tue, 01 Feb 2022 13:18:09 GMT</pubDate>
             <content:encoded><![CDATA[스키를 즐기는 사람들은 일 년 내내 겨울을 기다린다. 그들에게는 첫 눈 소식과, 가까운 지역에서 고드름이 열리기 시작했다는 뉴스가 남다른 설렘을 가져다 준다. 반...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/ski-thumb-0128.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[해킹으로 유출된 대한민국 카드 정보, 다크웹에서 약 8,630원에 판매중]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104536&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104536&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Fri, 04 Feb 2022 12:19:47 GMT</pubDate>
-            <content:encoded><![CDATA[다크웹에서 판매된 12,500여 개의 대한민국 카드 정보를 분석한 사이버 보안 업체 NordVPN의 리서치에 따르면 대한민국 카드의 평균 가격은 8,630.37원...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/20220203card-s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[주말판] 암호화폐와 NFT, 메타버스가 이끄는 새 디지털 시장 트렌드]]></title>
@@ -64,20 +48,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/nft-thumb-0204.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[해킹으로 유출된 대한민국 카드 정보, 다크웹에서 약 8,630원에 판매중]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104536&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104536&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Fri, 04 Feb 2022 12:19:47 GMT</pubDate>
+            <content:encoded><![CDATA[다크웹에서 판매된 12,500여 개의 대한민국 카드 정보를 분석한 사이버 보안 업체 NordVPN의 리서치에 따르면 대한민국 카드의 평균 가격은 8,630.37원...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/20220203card-s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[피싱 메일 통해 악명 높은 ‘이모텟’ 악성코드 대량 유포]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104522&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104522&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Fri, 04 Feb 2022 00:51:43 GMT</pubDate>
             <content:encoded><![CDATA[2014년부터 활동을 시작한 악명 높은 악성코드 ‘이모텟(Emotet)’이 피싱 메일을 통해 최근 국내에 대량 유포되고 있는 것으로 드러났다. 이모텟 악성코도는 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/20220202esrc-s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[사이버 보안 대표기업 2022년 출사표-3] 이글루시큐리티]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104418&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104418&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
-            <pubDate>Tue, 01 Feb 2022 19:13:14 GMT</pubDate>
-            <content:encoded><![CDATA[2021년 이글루시큐리티는 인공지능, 운영기술(OT), 클라우드 보안을 세 가지 축으로 삼고 전 세계적인 디지털 전환에 부합하는 솔루션과 서비스를 제공하는 데 집...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/RESIZE_SPiDER%20SOARSUM.PNG" length="0" type="image/PNG"/>
         </item>
         <item>
             <title><![CDATA[사이버 보안에 대한 투자, 사람이 언제나 먼저다]]></title>
@@ -88,20 +72,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/peop-thumb-0204.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[사이버 보안 대표기업 2022년 출사표-3] 이글루시큐리티]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104418&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104418&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
+            <pubDate>Tue, 01 Feb 2022 19:13:14 GMT</pubDate>
+            <content:encoded><![CDATA[2021년 이글루시큐리티는 인공지능, 운영기술(OT), 클라우드 보안을 세 가지 축으로 삼고 전 세계적인 디지털 전환에 부합하는 솔루션과 서비스를 제공하는 데 집...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/RESIZE_SPiDER%20SOARSUM.PNG" length="0" type="image/PNG"/>
+        </item>
+        <item>
             <title><![CDATA[[생체인식&출입통제 대표기업 2022년 출사표-2] 유니온커뮤니티]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104399&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104399&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
             <pubDate>Wed, 02 Feb 2022 01:59:02 GMT</pubDate>
             <content:encoded><![CDATA[유니온커뮤니티는 지문인식 솔루션 이외에, 얼굴인식과 홍채인식 등 비접촉 생체인식 기반의 출입통제 시스템의 매출 비중이 증가했다. 생체인식 기술을 기반으로 개발된 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/RESIZE(UBio-Xkey)%E2%80%99.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022년 2월 물리·정보 보안업계 인력 채용 계획 집계해보니]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104458&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104458&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
-            <pubDate>Fri, 04 Feb 2022 01:48:44 GMT</pubDate>
-            <content:encoded><![CDATA[설 명절과 함께 시작하는 2022년 2월은 새해 사업을 본격 스타트하는 달이기도 하다. 코로나19로 사업과 일상 모두 완전하진 못하지만 2년여의 시간을 보내며 나...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/21012701ss.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[팬데믹으로 어려워진 도소매 사업주들, IT 기술로 눈을 돌려]]></title>
@@ -166,6 +150,22 @@
             <pubDate>Sun, 06 Feb 2022 14:14:00 GMT</pubDate>
             <content:encoded><![CDATA[위즈코리아가 올해로 20주년을 맞이했다. 사람의 나이로 치면 성인이 됐다. 최근 들어 솔루션 도입을 희망하는 고객사가 급증하면서 고객의 요구 역시 다양해지고 있기...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/RESIZE(WEEDS%20BlackBox%20Suite)SUM.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[데이터 프라이버시 주간 되자마자 구글은 소송에 휘말리고]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104530&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104530&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Sun, 06 Feb 2022 15:14:14 GMT</pubDate>
+            <content:encoded><![CDATA[데이터 프라이버시 주간, 워싱턴 주의 검사들은 구글에 대한 기소장을 작성해 법원에 제출했다. 사용자의 위치 이력을 불합리한 방법으로 추적했다는 것이 그 이유다. ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/priv-thumb-0203.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[사이버 보안 대표기업 2022년 출사표-7] 넷앤드]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104407&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104407&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
+            <pubDate>Sun, 06 Feb 2022 15:14:14 GMT</pubDate>
+            <content:encoded><![CDATA[넷앤드는 코로나19 여파에도 2021년 매출이 전년대비 20% 증가하는 등 높은 성장세를 이어가고 있다. 2021년에만 GS인증 1등급과 EAL4 등급, 2개의 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/HIWAREsum.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
