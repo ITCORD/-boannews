@@ -1,16 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.boannews.com/securityworld/</id>
-    <title>보안뉴스 ─ Security World</title>
-    <updated>2022-02-07T02:01:28.404Z</updated>
-    <generator>https://github.com/jpmonette/feed</generator>
-    <icon>https://www.boannews.com/securityworld/favicon.ico</icon>
-    <entry>
-        <title type="html"><![CDATA[익산시, 교통 소외 지역 없는 스마트시티 조성한다]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104575&amp;mkind=5</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104575&amp;mkind=5"/>
-        <updated>2022-02-05T01:39:11.065Z</updated>
-        <content type="html"><![CDATA[<div style="width:750px; height:45px; margin-top:15px;"><a href="/media/view.asp?idx=104575&amp;mkind=5" onfocus="this.blur();" style="font-size:28px; color:#282828; font-weight:600; float:left;">익산시, 교통 소외 지역 없는 스마트시티 조성한다</a></div>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>보안뉴스 ─ Security World</title>
+        <link>undefined</link>
+        <description>undefined</description>
+        <lastBuildDate>Mon, 07 Feb 2022 02:34:27 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[알체라, ‘2022년 AI기업 톱100’ 선정]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104587&amp;mkind=5</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104587&amp;mkind=5</guid>
+            <pubDate>Mon, 07 Feb 2022 02:33:02 GMT</pubDate>
+            <content:encoded><![CDATA[영상인식 AI 기업 알체라(대표 황영규)가 지능정보산업협회(회장 장홍성)의 ‘2022년 AI기업 톱 100’에 선정됐다고 7일 밝혔다.]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/20220207AL-S.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[익산시, 교통 소외 지역 없는 스마트시티 조성한다]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104575&amp;mkind=5</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104575&amp;mkind=5</guid>
+            <pubDate>Sat, 05 Feb 2022 01:39:11 GMT</pubDate>
+            <content:encoded><![CDATA[<div style="width:750px; height:45px;"><a href="/media/view.asp?idx=104575&amp;mkind=5" onfocus="this.blur();" style="font-size:28px; color:#282828; font-weight:600; float:left;">익산시, 교통 소외 지역 없는 스마트시티 조성한다</a></div>
 		
 		<div style="width:500px; float:left;font-size:15px;line-height:24px;text-align:justify;"><a href="/media/view.asp?idx=104575&amp;mkind=5"><font color="#5f5f5f">익산시가 스마트 솔루션 시스템 구축으로 교통 소외 지역 없는 도시 조성에 나선다. 시는 국토교통부에서 주관하는 ‘2022년 중·소도시 스마트시티 조성 사업...</font></a>
 		<hr style="margin:0;padding:0;border:0;height:10px;">
@@ -21,24 +31,7 @@
 		
 				<img src="/images/icon_a.gif" alt="" style="margin-top:2px;" width="12" height="12">
 				<a href="/media/view.asp?idx=104553&amp;mkind=5&amp;kind=2" style="font-size:15px;color:#353535;font-weight:500;line-height:26px;">경주시, 국토부 ‘스마트시티 조성 사업’ 대상지 선정돼 37억 확보</a><br>
-		</div>]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[복지부, 어린이집 CCTV 운영 지원 위한 자체 점...]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104573&amp;mkind=5</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104573&amp;mkind=5"/>
-        <updated>2022-02-05T01:39:11.068Z</updated>
-        <content type="html"><![CDATA[<div style="width:750px; height:45px;"><a href="/media/view.asp?idx=104573&amp;mkind=5" onfocus="this.blur();" style="font-size:28px; color:#282828; font-weight:600; float:left;">복지부, 어린이집 CCTV 운영 지원 위한 자체 점...</a></div>
-		
-		<div style="width:500px; float:left;font-size:15px;line-height:24px;text-align:justify;"><a href="/media/view.asp?idx=104573&amp;mkind=5"><font color="#5f5f5f">보건복지부와 한국보육진흥원은 어린이집 폐쇄회로 텔레비전(CCTV) 설치·관리 지원을 위한 ‘어린이집용 CCTV 자체 점검 체크리스트’(한국보육진흥원 누리집...</font></a>
-		<hr style="margin:0;padding:0;border:0;height:10px;">
-
-		
-				<img src="/images/icon_a.gif" alt="" style="margin-top:2px;" width="12" height="12">
-				<a href="/media/view.asp?idx=103498&amp;mkind=5&amp;kind=3" style="font-size:15px;color:#353535;font-weight:500;line-height:26px;">[2022 보안 핫키워드-8] 수술실·지하철·요양원까지... CCTV..</a><br>
-		
-				<img src="/images/icon_a.gif" alt="" style="margin-top:2px;" width="12" height="12">
-				<a href="/media/view.asp?idx=96514&amp;mkind=5&amp;kind=2" style="font-size:15px;color:#353535;font-weight:500;line-height:26px;">아동학대 의심된다면? 어린이집 CCTV 원본 열람 요청할 수 있다 </a><br>
-		</div>]]></content>
-    </entry>
-</feed>
+		</div>]]></content:encoded>
+        </item>
+    </channel>
+</rss>
