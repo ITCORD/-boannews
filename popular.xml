@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Feb 2022 08:20:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Feb 2022 09:17:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -32,20 +32,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/gong_020301_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[ETRI, 재난현장 인명구조용 레이더 센서 개발]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104523&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104523&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
-            <pubDate>Mon, 07 Feb 2022 01:58:20 GMT</pubDate>
-            <content:encoded><![CDATA[국내 연구진이 화재·폭발·붕괴 등 실내 재난현장에서 소방관을 도와 효과적으로 인명을 구할 수 있는 기술을 개발했다. 신속하고 안전한 인명구조를 지원해 효율적인 재...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/21020301ss.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[광주시 국가 AI데이터센터, AI 핵심 거점으로 자리매김]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104542&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104542&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
             <pubDate>Mon, 07 Feb 2022 01:58:20 GMT</pubDate>
             <content:encoded><![CDATA[광주광역시가 인공지능 중심도시 건설을 위해 역점적으로 추진 중인 ‘인공지능 융복합 집적단지 조성 사업’의 핵심시설인 국가AI데이터센터가 지난해 다수의 인공지능(A...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/2-5(295).jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ETRI, 재난현장 인명구조용 레이더 센서 개발]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104523&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104523&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
+            <pubDate>Mon, 07 Feb 2022 01:58:20 GMT</pubDate>
+            <content:encoded><![CDATA[국내 연구진이 화재·폭발·붕괴 등 실내 재난현장에서 소방관을 도와 효과적으로 인명을 구할 수 있는 기술을 개발했다. 신속하고 안전한 인명구조를 지원해 효율적인 재...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/21020301ss.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[랜섬웨어 다음은 킬웨어? 목숨을 노리는 것들이 온다]]></title>
@@ -128,6 +128,14 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/sale-thumb-0129.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[클레이스왑, 22억 규모 가상자산 해킹 파장! 디파이 서비스 보안 위협 커지나]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104581&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104581&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Mon, 07 Feb 2022 06:18:14 GMT</pubDate>
+            <content:encoded><![CDATA[예치금액이 20억 달러(약 2조 4,000억원)에 달하는 국내 최대 규모 디파이(Defi, 탈중앙화 금융) 서비스 ‘클레이스왑(KLAYswap)’에서 22억 규모...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/20220206klay-s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[K-좀비 신드롬 ‘지금 우리 학교는’ 보안의 관점에서 보기]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104533&amp;page=1&amp;kind=6&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104533&amp;page=1&amp;kind=6&amp;search=title&amp;find=</guid>
@@ -142,14 +150,6 @@
             <pubDate>Sun, 06 Feb 2022 14:14:00 GMT</pubDate>
             <content:encoded><![CDATA[맥용 트로이목마인 업데이트에이전트(UpdateAgent)의 최신 버전이 발견됐다. 애플의 제품들을 노리는 공격자들의 노력이 계속해서 이뤄지고 있음이 다시 한 번 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/up-thumb-0204.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[클레이스왑, 22억 규모 가상자산 해킹 파장! 디파이 서비스 보안 위협 커지나]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104581&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104581&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Mon, 07 Feb 2022 06:18:14 GMT</pubDate>
-            <content:encoded><![CDATA[예치금액이 20억 달러(약 2조 4,000억원)에 달하는 국내 최대 규모 디파이(Defi, 탈중앙화 금융) 서비스 ‘클레이스왑(KLAYswap)’에서 22억 규모...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/20220206klay-s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[통합보안&스마트시티 대표기업 2022년 출사표-2] 이노뎁]]></title>
