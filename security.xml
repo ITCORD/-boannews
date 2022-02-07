@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-02-07T05:15:42.943Z</updated>
+    <updated>2022-02-07T06:19:59.596Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[백악관, “하이브리드 전의 러시아, 조만간 움직이기 시작할 것”]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104592&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104592&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-02-07T06:18:23.466Z</updated>
+        <content type="html"><![CDATA[미국 백악관의 안보 보좌관인 제이크 설리반(Jake Sullivan)은 “러시아의 침공이 임박했고, 언제 전투가 시작되도 이상하지 않은 상태”라고 경고했다. 러시아가 우크라이나에 대한 실질적인 위협 행위를 실시할 수 있는 시기에 접어들었다는 것으로, 2주 안에 러시아가...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[블랙캣 랜섬웨어, 블랙매터와 다크사이드의 후예]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104591&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104591&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-02-07T06:18:23.467Z</updated>
+        <content type="html"><![CDATA[블랙캣(BlackCat)이라는 랜섬웨어 갱단이, 블랙매터(BlackMatter)와 다크사이드(DarkSide)라는 유명 랜섬웨어 갱단의 멤버들로 구성되어 있다고 스스로 밝혔다. 다크사이드는 지난 해 콜로니얼 파이프라인 랜섬웨어 사건을 일으켜 미국 정부의 집중 감시 대상...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[록빗 랜섬웨어, 페이비토라는 암호화폐 거래소 공략하는 데 성공]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=104589&amp;page=1&amp;mkind=1&amp;kind=1</id>
@@ -109,19 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=104561&amp;page=1&amp;mkind=1&amp;kind=1"/>
         <updated>2022-02-04T15:13:40.034Z</updated>
         <content type="html"><![CDATA[리눅스와 유닉스 시스템 등에서 파일 공유 및 프린트 공유에 사용되는 오픈 소스인 삼바(Samba)에 심각한 취약점이 발견돼 주의가 요구된다. 트랜드마이크로에 따르면 지난 1월 31일, Samba의 업데이트 버전이 릴리즈되어 세 가지 취약점을 해결했다. 가장 심각한 취약...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[새 SEO 포이즈닝 캠페인, 악성 소프트웨어 퍼트려]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104566&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104566&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-02-04T09:13:42.543Z</updated>
-        <content type="html"><![CDATA[검색 결과를 조작함으로써 피해자들을 피싱 사이트로 이끄는 SEO 포이즈닝 공격이 발견됐다. 이번 캠페인에서 사용자들이 노리는 건 무료 생산성 앱을 찾는 사용자들이다. 무료 생산성 앱과 비슷한 키워드로 검색을 할 경우 공격자들이 손을 댄 악성 사이트가 결과에 노출되고, ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[탐지율 낮춘 피싱 키트, 다중인증도 높은 확률로 피해간다]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104565&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104565&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-02-04T08:14:59.259Z</updated>
-        <content type="html"><![CDATA[다중인증이 보안 필수 권고 사항으로 나오고 어느 정도 시간이 지났다. 그랬더니 공격자들의 다중인증 회피 확률이 점점 높아지고 있다. 최근에는 피싱 키트에 다중인증 우회 기능들이 빠르게 추가되고 있다고 한다. 주로 중간자 공격을 통해 인증 토큰을 훔치는 방식으로 작동한다...]]></content>
     </entry>
 </feed>
