@@ -4,9 +4,49 @@
         <title>보안뉴스 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Feb 2022 02:39:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Feb 2022 03:16:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[어베스트, 타깃컴파니 랜섬웨어 복호화 도구 공개]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104633&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104633&amp;page=1&amp;kind=1</guid>
+            <pubDate>Tue, 08 Feb 2022 03:15:08 GMT</pubDate>
+            <content:encoded><![CDATA[보안 업체 어베스트(Avast)가 타깃컴파니(TargetCompany)라는 랜섬웨어 피해자들을 위한 복호화 도구를 무료로 발표했다. 하지만 파일을 복호화 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/enc-thumb0-0208.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[코인스톰프 암호화폐 채굴 멀웨어, 클라우드 서비스 노려]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104632&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104632&amp;page=1&amp;kind=1</guid>
+            <pubDate>Tue, 08 Feb 2022 03:15:08 GMT</pubDate>
+            <content:encoded><![CDATA[새로운 멀웨어 패밀리가 등장했다. 코인스톰프(CoinStomp)라고 하며, 아시아 지역의 클라우드 서비스를 주로 감염시킨다고 한다. 감염의 목적은 암호화폐...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/coin-thumb-0208.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[또 다른 이스라엘 스파이웨어 업체 쿼드림, 아이폰 버그 악용]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104631&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104631&amp;page=1&amp;kind=1</guid>
+            <pubDate>Tue, 08 Feb 2022 03:15:08 GMT</pubDate>
+            <content:encoded><![CDATA[애플의 아이메시지(iMessage)에서 발견된 제로데이 취약점 포스드엔트리(ForcedEntry)를 악용한 건 NSO그룹(NSO Group)만이 아니었다는...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/isr-thumb-0208.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[러시아, 세 번째로 해킹 그룹 체포 작전 펼쳐]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104629&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104629&amp;page=1&amp;kind=1</guid>
+            <pubDate>Tue, 08 Feb 2022 03:15:08 GMT</pubDate>
+            <content:encoded><![CDATA[러시아 경찰 당국이 여섯 명의 해킹 범죄 용의자들을 체포했다. 신용카드 정보를 훔치고 거래하는 데에 앞장선 인물들이라고 한다. 즉 다크웹의 ‘카딩 시장’에...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/rus-thumb-0208.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아르고 CD에서 발견된 취약점, 정보 노출 위험성 배가시켜]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104628&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104628&amp;page=1&amp;kind=1</guid>
+            <pubDate>Tue, 08 Feb 2022 03:15:08 GMT</pubDate>
+            <content:encoded><![CDATA[아르고 CD(Argo CD)에서 고위험군 취약점이 발견됐다. 이 취약점을 익스플로잇 하는 데 성공할 경우 공격자는 민감한 정보에 접근할 수 있게 된다고 한...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/con-thumb-0208.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2022년 1월, IT/보안 분야에 파장을 일으킨 대표적인 사건들]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104603&amp;page=1&amp;kind=1</link>
@@ -46,46 +86,6 @@
             <pubDate>Mon, 07 Feb 2022 07:14:48 GMT</pubDate>
             <content:encoded><![CDATA[보안 SW 전문기업 지란지교시큐리티는 기업의 정보보안 및 관리를 위한 전방위적 사업 포트폴리오를 갖추고 첨부파일 악성코드 대응(CDR), 메일보안, 문서보...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/RESIZERESIZE[GIRAN20220125SUM.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[생체인식&출입통제 대표기업 2022년 출사표-5] 테크스피어]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104401&amp;page=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104401&amp;page=1&amp;kind=3</guid>
-            <pubDate>Mon, 07 Feb 2022 07:14:48 GMT</pubDate>
-            <content:encoded><![CDATA[코로나19의 영향으로 비접촉, 비대면 수요가 폭발적으로 늘어나고 출입통제 시장도 이러한 영 향을 받고 있다. 이에 테크스피어는 기존 정맥인식기의 비접촉화를...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/RESIZEEmbedded%20TS-UVscan_01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[영상보안 대표기업 2022년 출사표-8] 웹게이트]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104392&amp;page=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104392&amp;page=1&amp;kind=3</guid>
-            <pubDate>Mon, 07 Feb 2022 06:18:05 GMT</pubDate>
-            <content:encoded><![CDATA[서울교통공사 ‘3호선 통합모니터링 시스템 개량사업’에 선정된 웹게이트는 안전한 지하철 이용에 기여하기 위해 지하철 환경에 최적화된 지능형 통합 모니터링 시...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/RESIZERESIZEWEBGATE20220125SUM.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[긴급] 베스트 바이에서 759달러 결제? 해외 결제 사칭 스미싱 다시 기승!]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104597&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104597&amp;page=1&amp;kind=1</guid>
-            <pubDate>Mon, 07 Feb 2022 06:18:05 GMT</pubDate>
-            <content:encoded><![CDATA[최근 해외 결제를 사칭한 스미싱이 지속적으로 유포되고 있다. 7일 오전에는 미국 대형 유통업체인 베스트 바이(Best Buy)에서 759달러가 결제됐다는 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/20220207SMI-MS-M.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[UN, “북한은 핵 무기 개발 위해 사이버 공격 기술 발휘한다”]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104593&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104593&amp;page=1&amp;kind=1</guid>
-            <pubDate>Mon, 07 Feb 2022 03:15:31 GMT</pubDate>
-            <content:encoded><![CDATA[UN이 북한의 핵 무기 및 미사일 개발과 관련된 새로운 보고서를 발표했다. 북한이 UN안보리 협약을 위반해가며 계속해서 무기 개발 능력을 강화하고 있다는 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/nk-thumb-0207.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[백악관, “하이브리드 전의 러시아, 조만간 움직이기 시작할 것”]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104592&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104592&amp;page=1&amp;kind=1</guid>
-            <pubDate>Mon, 07 Feb 2022 02:32:01 GMT</pubDate>
-            <content:encoded><![CDATA[미국 백악관의 안보 보좌관인 제이크 설리반(Jake Sullivan)은 “러시아의 침공이 임박했고, 언제 전투가 시작되도 이상하지 않은 상태”라고 경고했다...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/rus-thumbm-0207.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이노티움 ‘개인정보보호 화면 워터마크’ 호평]]></title>

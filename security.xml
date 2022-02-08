@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-02-08T02:39:04.805Z</updated>
+    <updated>2022-02-08T03:16:59.945Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[러시아, 세 번째로 해킹 그룹 체포 작전 펼쳐]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104629&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104629&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-02-08T03:15:25.159Z</updated>
+        <content type="html"><![CDATA[러시아 경찰 당국이 여섯 명의 해킹 범죄 용의자들을 체포했다. 신용카드 정보를 훔치고 거래하는 데에 앞장선 인물들이라고 한다. 즉 다크웹의 ‘카딩 시장’에서 활동한 자들로 보이는데, 아직 어떤 해킹 단체와 관련이 있는지, 또 개개인의 신원이 어떻게 되는지에 대해서는 공...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아르고 CD에서 발견된 취약점, 정보 노출 위험성 배가시켜]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104628&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104628&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-02-08T03:15:25.160Z</updated>
+        <content type="html"><![CDATA[아르고 CD(Argo CD)에서 고위험군 취약점이 발견됐다. 이 취약점을 익스플로잇 하는 데 성공할 경우 공격자는 민감한 정보에 접근할 수 있게 된다고 한다. 취약점의 관리 번호는 CVE-2022-24348이며, CVSS 기준 7.7점을 받았다. 일종의 경로 조작 취약...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이노티움 ‘개인정보보호 화면 워터마크’ 호평]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104627&amp;page=1&amp;mkind=1&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104627&amp;page=1&amp;mkind=1&amp;kind=3"/>
+        <updated>2022-02-08T03:15:25.161Z</updated>
+        <content type="html"><![CDATA[정부기관, 공공기관, 지자체와 금융기관의 개인정보보호에 비상이 걸렸다. 기존 도입된 개인정보 관리 시스템 보완과 함께 신종 유출방식인 카메라 촬영에 의한 개인정보 유출방지를 위한 기술적 선제조치가 급선무다. 이노티움(대표 이형택)은 개인정보 서버 접근시 화면 워터마크,...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[파수와 스패로우, 청년친화강소기업 선정]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104626&amp;page=1&amp;mkind=1&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104626&amp;page=1&amp;mkind=1&amp;kind=3"/>
+        <updated>2022-02-08T03:15:25.161Z</updated>
+        <content type="html"><![CDATA[파수(대표 조규곤)와 파수의 자회사 스패로우(대표 장일수)가 고용노동부가 선정하는 ‘2022년 청년친화 강소기업’에 각각 선정됐다. 청년친화 강소기업은 고용노동부가 중소기업에 대한 인식개선 및 좋은 중소기업 일자리로의 취업을 유도하기 위해 2016년부터 매년 선정하고 ...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[지란지교시큐리티, 랜섬웨어 피해 93%가 중소기업.. ‘머드픽스’ 도입 2.5배 증가]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104625&amp;page=1&amp;mkind=1&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104625&amp;page=1&amp;mkind=1&amp;kind=3"/>
+        <updated>2022-02-08T03:15:25.171Z</updated>
+        <content type="html"><![CDATA[보안SW 전문기업 지란지교시큐리티(대표 윤두식)는 지난해 악성 이메일 모의훈련 솔루션 ‘머드픽스(MudFix)’를 도입한 중소·중견기업 수가 전년 대비 2.5배 증가했다고 8일 밝혔다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[체이널리시스, S2W와 MOU 체결]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=104624&amp;page=1&amp;mkind=1&amp;kind=3</id>
@@ -88,40 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=104592&amp;page=1&amp;mkind=1&amp;kind=1"/>
         <updated>2022-02-07T06:18:23.466Z</updated>
         <content type="html"><![CDATA[미국 백악관의 안보 보좌관인 제이크 설리반(Jake Sullivan)은 “러시아의 침공이 임박했고, 언제 전투가 시작되도 이상하지 않은 상태”라고 경고했다. 러시아가 우크라이나에 대한 실질적인 위협 행위를 실시할 수 있는 시기에 접어들었다는 것으로, 2주 안에 러시아가...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[블랙캣 랜섬웨어, 블랙매터와 다크사이드의 후예]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104591&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104591&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-02-07T06:18:23.467Z</updated>
-        <content type="html"><![CDATA[블랙캣(BlackCat)이라는 랜섬웨어 갱단이, 블랙매터(BlackMatter)와 다크사이드(DarkSide)라는 유명 랜섬웨어 갱단의 멤버들로 구성되어 있다고 스스로 밝혔다. 다크사이드는 지난 해 콜로니얼 파이프라인 랜섬웨어 사건을 일으켜 미국 정부의 집중 감시 대상...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[록빗 랜섬웨어, 페이비토라는 암호화폐 거래소 공략하는 데 성공]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104589&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104589&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-02-07T02:32:25.881Z</updated>
-        <content type="html"><![CDATA[록빗(LockBit) 랜섬웨어 갱단이 최근 페이비토(PayBito)라는 거래소를 해킹 공격하는 데 성공했다고 발표했다. 이 사건으로 10만 건 이상의 고객 정보가 새나갔다고 한다. 공격을 성공시킨 건 2월 3일이라고 하며, 현재 고객들의 계정 정보와 비밀번호를 보유하고...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[진앤현시큐리티, 주한 미국대사관 주최 보안 세미나에서 美 보안기업 대상으로 발표]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104590&amp;page=1&amp;mkind=1&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104590&amp;page=1&amp;mkind=1&amp;kind=3"/>
-        <updated>2022-02-07T02:32:25.888Z</updated>
-        <content type="html"><![CDATA[보안전문기업 진앤현시큐리티(대표이사 김병익)가 최근 미국 현지 보안기업들을 대상으로 한 보안세미나에서 대한민국 방산/공공시장의 사이버 보안현황에 대해 발표를 진행했다고 7일 밝혔다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[워싱턴 주 면허국 데이터 침해 사고로 개인정보 다수 유출돼]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104588&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104588&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-02-07T02:32:25.893Z</updated>
-        <content type="html"><![CDATA[미국 워싱턴 주의 면허국에서 데이터 침해 사고가 발생했다. 약 40개 전문 분야의 자격증을 제공하고 관리하는 곳이라 각종 사업 활동과 관련된 개인정보를 다수 간수하며, 따라서 워싱턴 주 내 여러 사업체들에 크고 작은 영향이 있을 것으로 예상된다. 하지만 아직까지 정확한...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022년 기업 ISMS 보안 전문가 채용소식↑... 기업별 요구 능력 달라]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104582&amp;page=1&amp;mkind=1&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104582&amp;page=1&amp;mkind=1&amp;kind=3"/>
-        <updated>2022-02-07T02:32:25.895Z</updated>
-        <content type="html"><![CDATA[2022년 임인년 새해가 시작된 지 벌써 한 달이 지났다. 2022년 역시 지난해와 마찬가지로 기업의 주요 업무형태로 자리 잡은 재택근무와 원격근무, 그에 따른 보안대책 마련을 위해 보안전문가를 채용하려는 기업들이 늘고 있다. 특히, 과기정통부를 중심으로 정부가 기업의...]]></content>
     </entry>
 </feed>
