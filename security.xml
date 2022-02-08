@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-02-08T04:20:09.077Z</updated>
+    <updated>2022-02-08T05:16:05.750Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[코인스톰프 암호화폐 채굴 멀웨어, 클라우드 서비스 노려]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104632&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104632&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-02-08T05:14:20.842Z</updated>
+        <content type="html"><![CDATA[새로운 멀웨어 패밀리가 등장했다. 코인스톰프(CoinStomp)라고 하며, 아시아 지역의 클라우드 서비스를 주로 감염시킨다고 한다. 감염의 목적은 암호화폐의 채굴이다. 공격자들은 주로 타임스톰핑(timestomping)이라는 기술로 파일의 타임스탬프를 조작함으로써 암호...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[또 다른 이스라엘 스파이웨어 업체 쿼드림, 아이폰 버그 악용]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104631&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104631&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-02-08T05:14:20.844Z</updated>
+        <content type="html"><![CDATA[애플의 아이메시지(iMessage)에서 발견된 제로데이 취약점 포스드엔트리(ForcedEntry)를 악용한 건 NSO그룹(NSO Group)만이 아니었다는 사실이 공개됐다. 이스라엘의 또 다른 스파이웨어 및 모바일 해킹 전문 기업인 쿼드림(QuaDream) 역시 이 취...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[러시아, 세 번째로 해킹 그룹 체포 작전 펼쳐]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=104629&amp;page=1&amp;mkind=1&amp;kind=1</id>
@@ -109,19 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=104597&amp;page=1&amp;mkind=1&amp;kind=1"/>
         <updated>2022-02-07T08:18:28.476Z</updated>
         <content type="html"><![CDATA[최근 해외 결제를 사칭한 스미싱이 지속적으로 유포되고 있다. 7일 오전에는 미국 대형 유통업체인 베스트 바이(Best Buy)에서 759달러가 결제됐다는 스미싱이 유포돼 각별한 주의가 요구된다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UN, “북한은 핵 무기 개발 위해 사이버 공격 기술 발휘한다”]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104593&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104593&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-02-07T07:15:08.398Z</updated>
-        <content type="html"><![CDATA[UN이 북한의 핵 무기 및 미사일 개발과 관련된 새로운 보고서를 발표했다. 북한이 UN안보리 협약을 위반해가며 계속해서 무기 개발 능력을 강화하고 있다는 내용이다. 1월 한 달 동안 단거리 및 중거리 미사일 개발 및 실험의 빈도가 크게 높아졌다는 내용도 담겨져 있다. ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[백악관, “하이브리드 전의 러시아, 조만간 움직이기 시작할 것”]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104592&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104592&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-02-07T06:18:23.466Z</updated>
-        <content type="html"><![CDATA[미국 백악관의 안보 보좌관인 제이크 설리반(Jake Sullivan)은 “러시아의 침공이 임박했고, 언제 전투가 시작되도 이상하지 않은 상태”라고 경고했다. 러시아가 우크라이나에 대한 실질적인 위협 행위를 실시할 수 있는 시기에 접어들었다는 것으로, 2주 안에 러시아가...]]></content>
     </entry>
 </feed>
