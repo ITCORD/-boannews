@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-02-07T23:17:22.280Z</updated>
+    <updated>2022-02-08T01:04:14.724Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[피앤피시큐어, 주 35시간 근무 시행 선언]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104601&amp;page=1&amp;mkind=1&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104601&amp;page=1&amp;mkind=1&amp;kind=3"/>
+        <updated>2022-02-08T01:02:32.697Z</updated>
+        <content type="html"><![CDATA[Unified-IAM(U-IAM, 통합 계정 및 접근 제어) 솔루션 전문 기업 피앤피시큐어의 박천오 대표이사가 지난 1월 21일 온라인 신년 워크숍에서 발표한 주 35시간 근무 제도인 (가칭) ‘애브리데이 패밀리데이(Everyday Family Day)’를 시행한다고 ...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[능동적 보안 전문가 혹은 윤리적 해커가 되고 싶은 사람이라면]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=104600&amp;page=1&amp;mkind=1&amp;kind=1</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=104581&amp;page=1&amp;mkind=1&amp;kind=1"/>
         <updated>2022-02-07T01:58:29.407Z</updated>
         <content type="html"><![CDATA[예치금액이 20억 달러(약 2조 4,000억원)에 달하는 국내 최대 규모 디파이(Defi, 탈중앙화 금융) 서비스 ‘클레이스왑(KLAYswap)’에서 22억 규모에 달하는 가상자산(암호화폐)이 탈취되는 해킹 사건이 발생하면서 디파이 서비스에 대한 보안 위협이 고조되고 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[시큐레터 임차성 대표 “세계진출 첫발, 최고의 인재들과 함께 하고파”]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104568&amp;page=1&amp;mkind=1&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104568&amp;page=1&amp;mkind=1&amp;kind=3"/>
-        <updated>2022-02-07T00:52:22.355Z</updated>
-        <content type="html"><![CDATA[국내외 기관 및 기업에게 기술력을 인정받은 시큐레터는 2022년 하반기 기술특례 상장을 준비하고 있다. 임차성 대표는 “시큐레터는 로켓과 같다”면서, “비즈니스를 확대해 성공하기 위해서는 강력한 추진체가 필요하고, 이를 위해 투자를 받으려고 한다”고 설명했다. 특히, ...]]></content>
     </entry>
 </feed>

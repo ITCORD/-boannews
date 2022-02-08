@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Feb 2022 23:17:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Feb 2022 01:04:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -72,20 +72,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/peop-thumb-0204.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[피싱 메일 통해 악명 높은 ‘이모텟’ 악성코드 대량 유포]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104522&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104522&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Fri, 04 Feb 2022 00:51:43 GMT</pubDate>
-            <content:encoded><![CDATA[2014년부터 활동을 시작한 악명 높은 악성코드 ‘이모텟(Emotet)’이 피싱 메일을 통해 최근 국내에 대량 유포되고 있는 것으로 드러났다. 이모텟 악성코도는 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/20220202esrc-s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[오픈소스 삼바에 심각한 취약점 발견... 업데이트 시급]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104561&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104561&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Sat, 05 Feb 2022 02:15:20 GMT</pubDate>
             <content:encoded><![CDATA[리눅스와 유닉스 시스템 등에서 파일 공유 및 프린트 공유에 사용되는 오픈 소스인 삼바(Samba)에 심각한 취약점이 발견돼 주의가 요구된다. 트랜드마이크로에 따르...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/samba_020401_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[피싱 메일 통해 악명 높은 ‘이모텟’ 악성코드 대량 유포]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104522&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104522&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Fri, 04 Feb 2022 00:51:43 GMT</pubDate>
+            <content:encoded><![CDATA[2014년부터 활동을 시작한 악명 높은 악성코드 ‘이모텟(Emotet)’이 피싱 메일을 통해 최근 국내에 대량 유포되고 있는 것으로 드러났다. 이모텟 악성코도는 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/20220202esrc-s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[클레이스왑, 22억 규모 가상자산 해킹 파장! 디파이 서비스 보안 위협 커지나]]></title>
@@ -120,14 +120,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/up-thumb-0204.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[통합보안&스마트시티 대표기업 2022년 출사표-2] 이노뎁]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104404&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104404&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
-            <pubDate>Sat, 05 Feb 2022 02:15:20 GMT</pubDate>
-            <content:encoded><![CDATA[이노뎁은 최근에 차세대 플랫폼 개발을 위해 연구 인력을 대폭 늘렸으며 더 나은 서비스를 위해 지역에 있는 사무소의 기술 인력을 추가로 채용해 전국의 서비스 관리 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/RESIZERESIZE3INOSUM.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[[사이버 보안 대표기업 2022년 출사표-6] 시큐레터]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104409&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104409&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
@@ -136,12 +128,28 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/RESIZElettersum.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[[통합보안&스마트시티 대표기업 2022년 출사표-2] 이노뎁]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104404&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104404&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
+            <pubDate>Sat, 05 Feb 2022 02:15:20 GMT</pubDate>
+            <content:encoded><![CDATA[이노뎁은 최근에 차세대 플랫폼 개발을 위해 연구 인력을 대폭 늘렸으며 더 나은 서비스를 위해 지역에 있는 사무소의 기술 인력을 추가로 채용해 전국의 서비스 관리 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/RESIZERESIZE3INOSUM.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[시큐레터 임차성 대표 “세계진출 첫발, 최고의 인재들과 함께 하고파”]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104568&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104568&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
             <pubDate>Mon, 07 Feb 2022 20:12:48 GMT</pubDate>
             <content:encoded><![CDATA[국내외 기관 및 기업에게 기술력을 인정받은 시큐레터는 2022년 하반기 기술특례 상장을 준비하고 있다. 임차성 대표는 “시큐레터는 로켓과 같다”면서, “비즈니스를...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/secul_020401_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[능동적 보안 전문가 혹은 윤리적 해커가 되고 싶은 사람이라면]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104600&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104600&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Tue, 08 Feb 2022 01:02:23 GMT</pubDate>
+            <content:encoded><![CDATA[사이버 보안 인재 부족 문제가 심각하다 못해 정점을 향해 치닫고 있다. 사이버 공격 사건은 계속해서 증가하고 있는데, 그런 일들에 대응해야 하는 사이버 보안 전문...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/hack-thumb-0207.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[익산시, 교통 소외 지역 없는 스마트시티 조성한다]]></title>
@@ -156,14 +164,6 @@
             <guid>https://www.boannews.com/media/view.asp?idx=104577&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
             <pubDate>Mon, 07 Feb 2022 15:15:33 GMT</pubDate>
             <content:encoded><![CDATA[제주도는 정보화 비전인 ‘지능정보로 실현되는 행복 제주, 글로벌 디지털 도시 제주’를 달성하기 위해 2022년 정보화 사업에 468억원을 투자한다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[사이버 보안 대표기업 2022년 출사표-7] 넷앤드]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104407&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104407&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
-            <pubDate>Mon, 07 Feb 2022 15:15:33 GMT</pubDate>
-            <content:encoded><![CDATA[넷앤드는 코로나19 여파에도 2021년 매출이 전년대비 20% 증가하는 등 높은 성장세를 이어가고 있다. 2021년에만 GS인증 1등급과 EAL4 등급, 2개의 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/HIWAREsum.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
