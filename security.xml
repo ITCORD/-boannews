@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-02-08T01:04:14.724Z</updated>
+    <updated>2022-02-08T02:01:55.484Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[가스공사, 국정원 합동 대국민 사이버 보안 캠페인 펼쳐]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104611&amp;page=1&amp;mkind=1&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104611&amp;page=1&amp;mkind=1&amp;kind=2"/>
+        <updated>2022-02-08T02:00:17.638Z</updated>
+        <content type="html"><![CDATA[한국가스공사는 국가정보원과 지난 1월 20일부터 3월 29일까지 두 달간 ‘정보보안 캠페인’을 진행하고 있다. 가스공사는 최근 불특정 다수의 국민을 표적으로 하는 보이스피싱, 해킹 등 정보보안 관련 범죄가 꾸준히 증가함에 따라 경각심을 고취하고 시민 스스로 보안 위협으...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[피앤피시큐어, 주 35시간 근무 시행 선언]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=104601&amp;page=1&amp;mkind=1&amp;kind=3</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=104583&amp;page=1&amp;mkind=1&amp;kind=3"/>
         <updated>2022-02-07T01:58:29.406Z</updated>
         <content type="html"><![CDATA[한국인터넷진흥원(KISA, 원장 이원태)은 한국무역협회(KITA, 회장 구자열)와 ‘EU 일반 개인정보보호법(GDPR) 대응방안 웨비나’를 4일 온라인으로 개최했다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[클레이스왑, 22억 규모 가상자산 해킹 파장! 디파이 서비스 보안 위협 커지나]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104581&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104581&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-02-07T01:58:29.407Z</updated>
-        <content type="html"><![CDATA[예치금액이 20억 달러(약 2조 4,000억원)에 달하는 국내 최대 규모 디파이(Defi, 탈중앙화 금융) 서비스 ‘클레이스왑(KLAYswap)’에서 22억 규모에 달하는 가상자산(암호화폐)이 탈취되는 해킹 사건이 발생하면서 디파이 서비스에 대한 보안 위협이 고조되고 ...]]></content>
     </entry>
 </feed>
