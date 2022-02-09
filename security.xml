@@ -2,9 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-02-09T02:07:24.507Z</updated>
+    <updated>2022-02-09T03:17:35.342Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[FBI, 2016년 비트피넥스 해킹 사건 당시 도난당한 36억 달러 회수]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104665&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104665&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-02-09T03:15:44.481Z</updated>
+        <content type="html"><![CDATA[FBI가 34세와 31세 부부를 2016년 비트피넥스(Bitfinex) 해킹 용의자로서 체포했다. 이 부부는 당시 45억 달러어치의 암호화폐를 훔친 것으로 알려져 있는데, 이번 수사를 통해 36억 달러를 FBI가 회수했다고 발표했다. 비트피넥스는 이번에 회수된 자금을 ...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[어도비도 2월 정기 패치 발표해 13개 취약점 해결]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104664&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104664&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-02-09T03:15:44.482Z</updated>
+        <content type="html"><![CDATA[어도비도 정기 패치일을 맞아 이번 달 패치를 발표했다. 이번 달에 공개되고 해결된 패치의 수는 13개다. 대부분 일러스트레이터라는 제품에서 발견됐다. 이 중 한 개는 치명적 위험도를 가지고 있는데, CVSS 점수를 기준으로 하면 고위험군으로 분류된다. 메모리를 유출시키...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022년 2월 정기 패치일, MS에서는 51개 취약점 픽스 발표]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104663&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104663&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-02-09T03:15:44.486Z</updated>
+        <content type="html"><![CDATA[2월 정기 패치일이고, MS는 총 51개의 취약점 패치를 발표했다. 이번 달에는 치명적으로 위험한 취약점은 하나도 없는 것으로 나타났으며 제로데이 취약점은 단 1개에 그쳤다. 작년이나 지난 달에 비하면 매우 가볍게 느껴질 수밖에 없다. 하지만 고위험군 취약점은 여전히 ...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[북한의 김수키 해킹 그룹, 새로운 멀웨어 사용하기 시작]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104662&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104662&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-02-09T03:15:44.488Z</updated>
+        <content type="html"><![CDATA[북한의 해킹 단체 김수키가 새로운 멀웨어를 사용하기 시작했다고 한국의 보안 업체 안랩이 발표했다. 최근 발견된 김수키의 새 멀웨어는 일종의 커스텀 백도어로, 이름은 골드 드래곤(Gold Dragon)이라고 한다. 여기에다가 다크웹에서 구매할 수 있는 엑스랫(xRAT) ...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[내가 과속운전 벌점을? 교통법규 위반 사칭 스미싱 유포]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104661&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104661&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-02-09T03:15:44.488Z</updated>
+        <content type="html"><![CDATA[최근 교통법규 위반, 과속운전 벌점 내용으로 스미싱이 대량으로 유포되고 있어 사용자들의 주의가 필요하다. 보안업체 이스트시큐리티 시큐리티대응센터(ESRC)에 따르면 최근 ‘[Web발신] [교통민원24] 법규위반과속원전자동차벌점보고서 http://******)’라는 스미...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[머신러닝 알고리즘은 태생적으로 데이터 노출이라는 리스크를 동반한다]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104637&amp;page=1&amp;mkind=1&amp;kind=4</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104637&amp;page=1&amp;mkind=1&amp;kind=4"/>
+        <updated>2022-02-09T03:15:44.490Z</updated>
+        <content type="html"><![CDATA[머신러닝을 실제로 활용하는 면에 있어서 가장 힘든 점 중 하나는 ‘데이터 관리’다. 우리가 흔히 말하는 머신러닝에서 ‘머신’은 수많은 데이터로 조직되고 구성되는 것을 말하니, 사실 데이터에 대한 고민은 당연히 수반되는 것이라고 볼 수 있다. 게다가 데이터는 수많은 보안...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[펜타시큐리티, 암호화 키 관리 시스템 ‘디아모 KMS V4’ 출시]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104659&amp;page=1&amp;mkind=1&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104659&amp;page=1&amp;mkind=1&amp;kind=3"/>
+        <updated>2022-02-09T03:15:44.499Z</updated>
+        <content type="html"><![CDATA[정보보안 전문기업 ‘펜타시큐리티시스템’은 고성능 하드웨어에 운영 안정성과 편의성을 대폭 강화한 암호화 키 관리 솔루션 ‘디아모(D'Amo) KMS V4’ 신규 버전을 출시했다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[안랩 V3, 2021년 AV-TEST 평가에서 글로벌 상위권 성적으로 전회 인증]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=104658&amp;page=1&amp;mkind=1&amp;kind=3</id>
@@ -74,54 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=104631&amp;page=1&amp;mkind=1&amp;kind=1"/>
         <updated>2022-02-08T05:14:20.844Z</updated>
         <content type="html"><![CDATA[애플의 아이메시지(iMessage)에서 발견된 제로데이 취약점 포스드엔트리(ForcedEntry)를 악용한 건 NSO그룹(NSO Group)만이 아니었다는 사실이 공개됐다. 이스라엘의 또 다른 스파이웨어 및 모바일 해킹 전문 기업인 쿼드림(QuaDream) 역시 이 취...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[러시아, 세 번째로 해킹 그룹 체포 작전 펼쳐]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104629&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104629&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-02-08T03:15:25.159Z</updated>
-        <content type="html"><![CDATA[러시아 경찰 당국이 여섯 명의 해킹 범죄 용의자들을 체포했다. 신용카드 정보를 훔치고 거래하는 데에 앞장선 인물들이라고 한다. 즉 다크웹의 ‘카딩 시장’에서 활동한 자들로 보이는데, 아직 어떤 해킹 단체와 관련이 있는지, 또 개개인의 신원이 어떻게 되는지에 대해서는 공...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아르고 CD에서 발견된 취약점, 정보 노출 위험성 배가시켜]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104628&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104628&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-02-08T03:15:25.160Z</updated>
-        <content type="html"><![CDATA[아르고 CD(Argo CD)에서 고위험군 취약점이 발견됐다. 이 취약점을 익스플로잇 하는 데 성공할 경우 공격자는 민감한 정보에 접근할 수 있게 된다고 한다. 취약점의 관리 번호는 CVE-2022-24348이며, CVSS 기준 7.7점을 받았다. 일종의 경로 조작 취약...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이노티움 ‘개인정보보호 화면 워터마크’ 호평]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104627&amp;page=1&amp;mkind=1&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104627&amp;page=1&amp;mkind=1&amp;kind=3"/>
-        <updated>2022-02-08T03:15:25.161Z</updated>
-        <content type="html"><![CDATA[정부기관, 공공기관, 지자체와 금융기관의 개인정보보호에 비상이 걸렸다. 기존 도입된 개인정보 관리 시스템 보완과 함께 신종 유출방식인 카메라 촬영에 의한 개인정보 유출방지를 위한 기술적 선제조치가 급선무다. 이노티움(대표 이형택)은 개인정보 서버 접근시 화면 워터마크,...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[파수와 스패로우, 청년친화강소기업 선정]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104626&amp;page=1&amp;mkind=1&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104626&amp;page=1&amp;mkind=1&amp;kind=3"/>
-        <updated>2022-02-08T03:15:25.161Z</updated>
-        <content type="html"><![CDATA[파수(대표 조규곤)와 파수의 자회사 스패로우(대표 장일수)가 고용노동부가 선정하는 ‘2022년 청년친화 강소기업’에 각각 선정됐다. 청년친화 강소기업은 고용노동부가 중소기업에 대한 인식개선 및 좋은 중소기업 일자리로의 취업을 유도하기 위해 2016년부터 매년 선정하고 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지란지교시큐리티, 랜섬웨어 피해 93%가 중소기업.. ‘머드픽스’ 도입 2.5배 증가]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104625&amp;page=1&amp;mkind=1&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104625&amp;page=1&amp;mkind=1&amp;kind=3"/>
-        <updated>2022-02-08T03:15:25.171Z</updated>
-        <content type="html"><![CDATA[보안SW 전문기업 지란지교시큐리티(대표 윤두식)는 지난해 악성 이메일 모의훈련 솔루션 ‘머드픽스(MudFix)’를 도입한 중소·중견기업 수가 전년 대비 2.5배 증가했다고 8일 밝혔다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[체이널리시스, S2W와 MOU 체결]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104624&amp;page=1&amp;mkind=1&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104624&amp;page=1&amp;mkind=1&amp;kind=3"/>
-        <updated>2022-02-08T02:37:22.482Z</updated>
-        <content type="html"><![CDATA[데이터 인텔리전스 기업인 S2W(대표 서상덕)는 8일, 글로벌 대표 블록체인 데이터 분석 플랫폼 기업인 ‘체이널리시스’와 협력해 가상자산의 의심거래, 불법 자금세탁과 사이버범죄에 대응할 수 있는 진일보한 인텔리전스를 확보해 국내 시장 공략을 위한 MOU를 체결했다고 밝...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022년 1월, IT/보안 분야에 파장을 일으킨 대표적인 사건들]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104603&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104603&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-02-08T02:37:22.492Z</updated>
-        <content type="html"><![CDATA[1월에도 IT 분야에는 여러 가지 일들이 일어났다. IT 분야 내부에서 일어난 일도 있지만, IT 분야에 커다란 충격을 줄 만한 사건들도 계속해서 발생하는 중이다. 그 중 가장 주목할 만한 사건들을 대략적으로 추려 보았다.]]></content>
     </entry>
 </feed>
