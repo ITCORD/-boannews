@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-02-09T08:20:34.359Z</updated>
+    <updated>2022-02-09T09:17:06.745Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
     <entry>
@@ -48,11 +48,11 @@
         <content type="html"><![CDATA[2월 정기 패치일이고, MS는 총 51개의 취약점 패치를 발표했다. 이번 달에는 치명적으로 위험한 취약점은 하나도 없는 것으로 나타났으며 제로데이 취약점은 단 1개에 그쳤다. 작년이나 지난 달에 비하면 매우 가볍게 느껴질 수밖에 없다. 하지만 고위험군 취약점은 여전히 ...]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[북한의 김수키 해킹 그룹, 새로운 멀웨어 사용하기 시작]]></title>
+        <title type="html"><![CDATA[김수키 해킹 그룹, 새로운 멀웨어 사용하기 시작]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=104662&amp;page=1&amp;mkind=1&amp;kind=1</id>
         <link href="https://www.boannews.com/media/view.asp?idx=104662&amp;page=1&amp;mkind=1&amp;kind=1"/>
         <updated>2022-02-09T03:15:44.488Z</updated>
-        <content type="html"><![CDATA[북한의 해킹 단체 김수키가 새로운 멀웨어를 사용하기 시작했다고 한국의 보안 업체 안랩이 발표했다. 최근 발견된 김수키의 새 멀웨어는 일종의 커스텀 백도어로, 이름은 골드 드래곤(Gold Dragon)이라고 한다. 여기에다가 다크웹에서 구매할 수 있는 엑스랫(xRAT) ...]]></content>
+        <content type="html"><![CDATA[해킹 단체 김수키가 새로운 멀웨어를 사용하기 시작했다고 한국의 보안 업체 안랩이 발표했다. 최근 발견된 김수키의 새 멀웨어는 일종의 커스텀 백도어로, 이름은 골드 드래곤(Gold Dragon)이라고 한다. 여기에다가 다크웹에서 구매할 수 있는 엑스랫(xRAT) 역시 사...]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[내가 과속운전 벌점을? 교통법규 위반 사칭 스미싱 유포]]></title>

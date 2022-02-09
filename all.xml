@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Feb 2022 08:20:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Feb 2022 09:17:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -96,11 +96,11 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/pat-thumb-0209.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[북한의 김수키 해킹 그룹, 새로운 멀웨어 사용하기 시작 (보안뉴스 ─ 전체기사)]]></title>
+            <title><![CDATA[김수키 해킹 그룹, 새로운 멀웨어 사용하기 시작 (보안뉴스 ─ 전체기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104662&amp;page=1&amp;kind=1</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104662&amp;page=1&amp;kind=1</guid>
             <pubDate>Wed, 09 Feb 2022 03:15:25 GMT</pubDate>
-            <content:encoded><![CDATA[북한의 해킹 단체 김수키가 새로운 멀웨어를 사용하기 시작했다고 한국의 보안 업체 안랩이 발표했다. 최근 발견된 김수키의 새 멀웨어는 일종의 커스텀 백도어로...]]></content:encoded>
+            <content:encoded><![CDATA[해킹 단체 김수키가 새로운 멀웨어를 사용하기 시작했다고 한국의 보안 업체 안랩이 발표했다. 최근 발견된 김수키의 새 멀웨어는 일종의 커스텀 백도어로, 이름...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/gd-thumb-0209.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -359,20 +359,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/up-thumb-0204.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[2022년 1월, IT/보안 분야에 파장을 일으킨 대표적인 사건들 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104603&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104603&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Tue, 08 Feb 2022 23:16:06 GMT</pubDate>
-            <content:encoded><![CDATA[1월에도 IT 분야에는 여러 가지 일들이 일어났다. IT 분야 내부에서 일어난 일도 있지만, IT 분야에 커다란 충격을 줄 만한 사건들도 계속해서 발생하는 중이다...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/it-thumb-0207.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[시큐레터 임차성 대표 “세계진출 첫발, 최고의 인재들과 함께 하고파” (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104568&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104568&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
             <pubDate>Mon, 07 Feb 2022 20:12:48 GMT</pubDate>
             <content:encoded><![CDATA[국내외 기관 및 기업에게 기술력을 인정받은 시큐레터는 2022년 하반기 기술특례 상장을 준비하고 있다. 임차성 대표는 “시큐레터는 로켓과 같다”면서, “비즈니스를...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/secul_020401_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022년 1월, IT/보안 분야에 파장을 일으킨 대표적인 사건들 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104603&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104603&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Tue, 08 Feb 2022 23:16:06 GMT</pubDate>
+            <content:encoded><![CDATA[1월에도 IT 분야에는 여러 가지 일들이 일어났다. IT 분야 내부에서 일어난 일도 있지만, IT 분야에 커다란 충격을 줄 만한 사건들도 계속해서 발생하는 중이다...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/it-thumb-0207.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[제주도, 지능정보기술로 스마트 아일랜드 구현한다 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
@@ -439,11 +439,11 @@
             <content:encoded><![CDATA[2월 정기 패치일이고, MS는 총 51개의 취약점 패치를 발표했다. 이번 달에는 치명적으로 위험한 취약점은 하나도 없는 것으로 나타났으며 제로데이 취약점은 단 1개에 그쳤다. 작년이나 지난 달에 비하면 매우 가볍게 느껴질 수밖에 없다. 하지만 고위험군 취약점은 여전히 ...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[북한의 김수키 해킹 그룹, 새로운 멀웨어 사용하기 시작 (보안뉴스 ─ SECURITY)]]></title>
+            <title><![CDATA[김수키 해킹 그룹, 새로운 멀웨어 사용하기 시작 (보안뉴스 ─ SECURITY)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104662&amp;page=1&amp;mkind=1&amp;kind=1</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104662&amp;page=1&amp;mkind=1&amp;kind=1</guid>
             <pubDate>Wed, 09 Feb 2022 03:15:44 GMT</pubDate>
-            <content:encoded><![CDATA[북한의 해킹 단체 김수키가 새로운 멀웨어를 사용하기 시작했다고 한국의 보안 업체 안랩이 발표했다. 최근 발견된 김수키의 새 멀웨어는 일종의 커스텀 백도어로, 이름은 골드 드래곤(Gold Dragon)이라고 한다. 여기에다가 다크웹에서 구매할 수 있는 엑스랫(xRAT) ...]]></content:encoded>
+            <content:encoded><![CDATA[해킹 단체 김수키가 새로운 멀웨어를 사용하기 시작했다고 한국의 보안 업체 안랩이 발표했다. 최근 발견된 김수키의 새 멀웨어는 일종의 커스텀 백도어로, 이름은 골드 드래곤(Gold Dragon)이라고 한다. 여기에다가 다크웹에서 구매할 수 있는 엑스랫(xRAT) 역시 사...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[내가 과속운전 벌점을? 교통법규 위반 사칭 스미싱 유포 (보안뉴스 ─ SECURITY)]]></title>
@@ -1974,7 +1974,7 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/pat-thumb-0209.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[북한의 김수키 해킹 그룹, 새로운 멀웨어 사용하기 시작 (보안뉴스 ─ 국제)]]></title>
+            <title><![CDATA[김수키 해킹 그룹, 새로운 멀웨어 사용하기 시작 (보안뉴스 ─ 국제)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104662&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104662&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
             <pubDate>Wed, 09 Feb 2022 02:06:54 GMT</pubDate>
@@ -1982,9 +1982,9 @@
 					
 					<img src="/media/upFiles2/2022/02/gd-thumb-0209.jpg" alt="" class="news_img" height="70">
 					
-					<span class="news_txt">북한의 김수키 해킹 그룹, 새로운 멀웨어 사용하기 시작</span>
+					<span class="news_txt">김수키 해킹 그룹, 새로운 멀웨어 사용하기 시작</span>
 					</a><br>
-					<a href="/media/view.asp?idx=104662&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">북한의 해킹 단체 김수키가 새로운 멀웨어를 사용하기 시작했다고 한국의 보안 업체 안랩이 발표했다. 최근 발견된 김수키의 새 멀웨어는 일종의 커스텀 백도어로, 이름...</a> <span class="news_writer">문가용 기자 | 2022년 02월 09일 11:05</span>]]></content:encoded>
+					<a href="/media/view.asp?idx=104662&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">해킹 단체 김수키가 새로운 멀웨어를 사용하기 시작했다고 한국의 보안 업체 안랩이 발표했다. 최근 발견된 김수키의 새 멀웨어는 일종의 커스텀 백도어로, 이름은 골드...</a> <span class="news_writer">문가용 기자 | 2022년 02월 09일 11:05</span>]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/gd-thumb-0209.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
