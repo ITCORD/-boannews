@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-02-09T04:20:56.640Z</updated>
+    <updated>2022-02-09T05:15:26.125Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[팔레스타인 해커들, 새로운 임플란트 님블맘바 사용하기 시작]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104666&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104666&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-02-09T05:13:46.583Z</updated>
+        <content type="html"><![CDATA[팔레스타인을 근거지로 한 채 활동하는 해킹 단체 몰랫츠(Molerats)가 새로운 멀웨어를 사용하기 시작했다. 이 멀웨어의 이름은 님블맘바(NimbleMamba)이며, 현재까지 한 번도 공개된 적이 없는 임플란트로, 라스트콘(LastConn)이라는 멀웨어의 대체재로 추...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FBI, 2016년 비트피넥스 해킹 사건 당시 도난당한 36억 달러 회수]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=104665&amp;page=1&amp;mkind=1&amp;kind=1</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=104632&amp;page=1&amp;mkind=1&amp;kind=1"/>
         <updated>2022-02-08T05:14:20.842Z</updated>
         <content type="html"><![CDATA[새로운 멀웨어 패밀리가 등장했다. 코인스톰프(CoinStomp)라고 하며, 아시아 지역의 클라우드 서비스를 주로 감염시킨다고 한다. 감염의 목적은 암호화폐의 채굴이다. 공격자들은 주로 타임스톰핑(timestomping)이라는 기술로 파일의 타임스탬프를 조작함으로써 암호...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[또 다른 이스라엘 스파이웨어 업체 쿼드림, 아이폰 버그 악용]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104631&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104631&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-02-08T05:14:20.844Z</updated>
-        <content type="html"><![CDATA[애플의 아이메시지(iMessage)에서 발견된 제로데이 취약점 포스드엔트리(ForcedEntry)를 악용한 건 NSO그룹(NSO Group)만이 아니었다는 사실이 공개됐다. 이스라엘의 또 다른 스파이웨어 및 모바일 해킹 전문 기업인 쿼드림(QuaDream) 역시 이 취...]]></content>
     </entry>
 </feed>
