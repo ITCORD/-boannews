@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-02-08T23:18:25.846Z</updated>
+    <updated>2022-02-09T01:01:03.679Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[우크라이나를 겨냥한 러시아의 사이버 공격 증가 중]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104636&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104636&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-02-09T00:59:12.478Z</updated>
+        <content type="html"><![CDATA[러시아의 APT 단체가 우크라이나를 겨냥한 악성 사이버 공격 행위의 수위를 높이고 있다. 최근 국제 정세의 가장 뜨거운 화젯거리인 러시아-우크라이나 사태와 관련이 있을 것으로 추정된다. 동유럽에 사업 행위를 위한 요소들을 마련한 조직들이라면 이 사태와 러시아 APT 단...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[신기술 환경에 맞게 개인정보 파기규정 개선 추진한다]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=104635&amp;page=1&amp;mkind=1&amp;kind=2</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=104600&amp;page=1&amp;mkind=1&amp;kind=1"/>
         <updated>2022-02-07T09:15:56.365Z</updated>
         <content type="html"><![CDATA[사이버 보안 인재 부족 문제가 심각하다 못해 정점을 향해 치닫고 있다. 사이버 공격 사건은 계속해서 증가하고 있는데, 그런 일들에 대응해야 하는 사이버 보안 전문가들은 (미국 내에서만) 50만 명이 부족한 상황이다. 기업과 기관들은 한 사람이라도 먼저 보안 전문가를 영...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[중국의 APT 앤트라이언, 대만 금융 기관들을 집중적으로 노려]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104599&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104599&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-02-07T08:18:28.470Z</updated>
-        <content type="html"><![CDATA[중국 정부의 지원을 받는 해커들 중 앤트라이언(Antlion)이 최소 지난 18개월 동안 대만의 금융 기관들을 공격해 왔다는 사실이 드러났다. 앤트라이언은 피해 조직에 침투하여 백도어를 심고 민감한 정보를 빼돌렸다고 한다.]]></content>
     </entry>
 </feed>
