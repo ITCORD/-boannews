@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-02-10T00:55:43.341Z</updated>
+    <updated>2022-02-10T02:01:08.142Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이스트소프트, MBC ‘방과후 설렘’ TOP7 버추얼 휴먼 만든다]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104688&amp;page=1&amp;mkind=1&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104688&amp;page=1&amp;mkind=1&amp;kind=3"/>
+        <updated>2022-02-10T01:59:07.186Z</updated>
+        <content type="html"><![CDATA[AI 서비스 전문 기업 이스트소프트(대표 정상원)는 MBC 서바이벌 오디션 프로그램 ‘방과후 설렘’ 제작사 펑키스튜디오의 매니지먼트 부문 총괄 운영사인 엠이오(대표 조이현)와 해당 프로그램에서 배출한 아이돌의 버추얼 휴먼 제작 및 IP(지식재산권)에 대한 계약을 체결했...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이중 인증 도입 비율 늘려가는 구글, 2022년에도 행보는 계속돼]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104669&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104669&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-02-10T01:59:07.196Z</updated>
+        <content type="html"><![CDATA[1억 5천만 명이 넘는 구글 사용자들의 계정 침해 가능성이 절반 수준으로 떨어졌으며, 이는 이중 인증을 도입했기 때문이라고 구글이 발표했다. 이 1억 5천만 사용자는 구글에 로그인 할 때 ID와 비밀번호를 입력한 후 사용자가 설정한 두 번째 장비로 들어온 알림 메시지에...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[사이버 보안 대표기업 2022년 출사표-10] 엘세븐시큐리티]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104415&amp;page=1&amp;mkind=1&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104415&amp;page=1&amp;mkind=1&amp;kind=3"/>
+        <updated>2022-02-10T01:59:07.200Z</updated>
+        <content type="html"><![CDATA[엘세븐시큐리티는 공공기관의 홈페이지 게시판을 통한 개인정보 유출뿐만 아니라 기존 서버 내에 저장된 개인정보에 대한 스캔 사업을 꾸준히 해왔다. 이제는 공공기관뿐만 아니라 일반 기업체에서도 내부 중요정보 유출에 큰 관심을 갖게 됐다. 이에 일반 기업체 대상으로 이미지 정...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[KISA·이스트시큐리티 ESRC 등 보안기관·기업 사칭 피싱 이메일 연이어 유포]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=104668&amp;page=1&amp;mkind=1&amp;kind=1</id>
@@ -102,26 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=104630&amp;page=1&amp;mkind=1&amp;kind=5"/>
         <updated>2022-02-09T02:05:40.420Z</updated>
         <content type="html"><![CDATA[마인크래프트, 로블록스, 제페토. 이 3가지의 플랫폼의 공통점은 무엇일까? 공통점은 전부 메타버스라고 지칭된다는 점이다. 메타버스란 가상을 의미하는 ‘메타’와 우주를 의미하는 ‘유니버스’의 합성어이다. 코로나 19로 인해 비대면 상황이 일반화된 지금 가상현실 플랫폼에서...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사이버 보안 대표기업 2022년 출사표-9] 이지서티]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104453&amp;page=1&amp;mkind=1&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104453&amp;page=1&amp;mkind=1&amp;kind=3"/>
-        <updated>2022-02-09T02:05:40.425Z</updated>
-        <content type="html"><![CDATA[대한민국 개인정보보호의 최전선에서 앞장서고 있는 이지서티는 코로나19 사태 이후 최대 국가 프로젝트인 한국판 뉴딜 종합 계획 속 디지털 뉴딜을 바탕으로 빅데이터 환경에서 새로운 서비스 개발 및 데이터 산업 활성화에 기여할 수 있도록 결합전문기관, 데이터 전문기관, 빅데...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우크라이나를 겨냥한 러시아의 사이버 공격 증가 중]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104636&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104636&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-02-09T00:59:12.478Z</updated>
-        <content type="html"><![CDATA[러시아의 APT 단체가 우크라이나를 겨냥한 악성 사이버 공격 행위의 수위를 높이고 있다. 최근 국제 정세의 가장 뜨거운 화젯거리인 러시아-우크라이나 사태와 관련이 있을 것으로 추정된다. 동유럽에 사업 행위를 위한 요소들을 마련한 조직들이라면 이 사태와 러시아 APT 단...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신기술 환경에 맞게 개인정보 파기규정 개선 추진한다]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104635&amp;page=1&amp;mkind=1&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104635&amp;page=1&amp;mkind=1&amp;kind=2"/>
-        <updated>2022-02-08T09:15:51.668Z</updated>
-        <content type="html"><![CDATA[앞으로 활용이 급격히 확대될 것으로 전망되는 블록체인 등 신기술 환경에 맞춰 개인정보 파기규정이 개선되고, 개인정보 보호법규 위반에 따른 과징금·과태료 감면규정도 정비된다.]]></content>
     </entry>
 </feed>

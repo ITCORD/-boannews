@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=4</id>
     <title>보안뉴스 ─ SAFETY</title>
-    <updated>2022-02-10T00:55:43.320Z</updated>
+    <updated>2022-02-10T02:01:08.145Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[강원도, 강원도형 ‘재난 예·경보 통합시스템’ 개발 착수]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104673&amp;page=1&amp;mkind=4&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104673&amp;page=1&amp;mkind=4&amp;kind=2"/>
+        <updated>2022-02-10T01:59:28.441Z</updated>
+        <content type="html"><![CDATA[강원도는 전국 최초로 산불·태풍·폭설·지진 등의 재난 유형에 따라 각기 운영하고 있는 재난 예·경보시설을 통합해 위험 상황을 조기 판단하고 도민에게 재난 상황을 신속히 알리기 위한 ‘GIS 기반 지능형 재난 예·경보 통합시스템 구축 사업’ 착수보고회를 최복수 행정부지사...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[동해시, 2022년 교통안전 시행계획 추진]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=104672&amp;page=1&amp;mkind=4&amp;kind=2</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=104509&amp;page=1&amp;mkind=4&amp;kind=2"/>
         <updated>2022-02-04T00:52:12.808Z</updated>
         <content type="html"><![CDATA[구로구가 스마트 측량기준점 서비스를 제공한다. 구로구는 “주민들이 측량기준점을 손쉽게 확인할 수 있도록 구청 홈페이지와 스마트서울맵을 통해 스마트 측량기준점 서비스를 제공한다”고 밝혔다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[광주시, 2월부터 어린이보호구역 불법 주·정차 단속]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104507&amp;page=1&amp;mkind=4&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104507&amp;page=1&amp;mkind=4&amp;kind=2"/>
-        <updated>2022-02-04T00:52:12.809Z</updated>
-        <content type="html"><![CDATA[광주광역시는 2월 1일부터 CCTV 등 단속 장비를 통해 과태료 부과 및 견인을 시행한다. 도로교통법은 지난 2020년 10월 20일자로 개정됐으며, 지난해 10월 21일자로 어린이보호구역 내 주·정차 금지가 전면 시행됐다.]]></content>
     </entry>
 </feed>
