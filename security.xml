@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-02-10T07:16:44.564Z</updated>
+    <updated>2022-02-10T08:19:54.508Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[그 어느 때보다 가벼웠던 MS 정기 패치이지만 안심은 금물]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104695&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104695&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-02-10T08:18:02.021Z</updated>
+        <content type="html"><![CDATA[이번 달 MS 정기 패치는 치명적 위험도의 취약점이 하나도 없다는 점에서 이례적이었다. 취약점의 절대적 수량도 꽤나 낮은 편이었다. 그럼에도 패치를 관리하는 보안 담당자들이 절대 안심해서는 안 된다는 경고가 나오기 시작했다. 일부 취약점들은 꽤나 시급한 패치를 요구하고...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[비대면 서비스 개발 단계부터 보안 강화 지원한다]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=104690&amp;page=1&amp;mkind=1&amp;kind=2</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=104664&amp;page=1&amp;mkind=1&amp;kind=1"/>
         <updated>2022-02-09T03:15:44.482Z</updated>
         <content type="html"><![CDATA[어도비도 정기 패치일을 맞아 이번 달 패치를 발표했다. 이번 달에 공개되고 해결된 패치의 수는 13개다. 대부분 일러스트레이터라는 제품에서 발견됐다. 이 중 한 개는 치명적 위험도를 가지고 있는데, CVSS 점수를 기준으로 하면 고위험군으로 분류된다. 메모리를 유출시키...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022년 2월 정기 패치일, MS에서는 51개 취약점 픽스 발표]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104663&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104663&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-02-09T03:15:44.486Z</updated>
-        <content type="html"><![CDATA[2월 정기 패치일이고, MS는 총 51개의 취약점 패치를 발표했다. 이번 달에는 치명적으로 위험한 취약점은 하나도 없는 것으로 나타났으며 제로데이 취약점은 단 1개에 그쳤다. 작년이나 지난 달에 비하면 매우 가볍게 느껴질 수밖에 없다. 하지만 고위험군 취약점은 여전히 ...]]></content>
     </entry>
 </feed>

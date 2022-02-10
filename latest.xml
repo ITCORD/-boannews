@@ -4,9 +4,17 @@
         <title>보안뉴스 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Feb 2022 07:16:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Feb 2022 08:19:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Weekly Security Premium Report 제37호 발간! IT/보안 기술 관점의 2021년 결산]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104696&amp;page=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104696&amp;page=1&amp;kind=3</guid>
+            <pubDate>Thu, 10 Feb 2022 08:17:43 GMT</pubDate>
+            <content:encoded><![CDATA[2월 10일 발간된 ‘Weekly Security Premium Report’ 제37호에는 &lt;보안 심층 리포트&gt; 코너에서 IT 및 보안 기술의 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/20220210REPORT-SM.JPG" length="0" type="image/JPG"/>
+        </item>
         <item>
             <title><![CDATA[[사이버 보안 대표기업 2022년 출사표-12] S2W]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104414&amp;page=1&amp;kind=3</link>
@@ -226,14 +234,6 @@
             <guid>https://www.boannews.com/media/view.asp?idx=104671&amp;page=1&amp;kind=2</guid>
             <pubDate>Thu, 10 Feb 2022 00:53:52 GMT</pubDate>
             <content:encoded><![CDATA[기술보증기금은 그동안 운용됐던 투자용평가모형에 인공지능(AI) 기반 투자시그널 모형이 결합된 새로운 투자용평가모형을 개발 완료하고 향후 투자를 위한 평가 ...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[이스트소프트, MBC ‘방과후 설렘’ TOP7 버추얼 휴먼 만든다]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104688&amp;page=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104688&amp;page=1&amp;kind=3</guid>
-            <pubDate>Thu, 10 Feb 2022 00:53:52 GMT</pubDate>
-            <content:encoded><![CDATA[AI 서비스 전문 기업 이스트소프트(대표 정상원)는 MBC 서바이벌 오디션 프로그램 ‘방과후 설렘’ 제작사 펑키스튜디오의 매니지먼트 부문 총괄 운영사인 엠...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/est_021001_main.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
