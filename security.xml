@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-02-09T23:17:03.711Z</updated>
+    <updated>2022-02-10T00:55:43.341Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[KISA·이스트시큐리티 ESRC 등 보안기관·기업 사칭 피싱 이메일 연이어 유포]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104668&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104668&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-02-10T00:54:09.180Z</updated>
+        <content type="html"><![CDATA[최근 한국인터넷진흥원(KISA)와 이스트시큐리티 시큐리티대응센터(ESRC) 등 우리나라의 보안전문 공공기관과 대표적인 보안전문기업의 보안대응센터를 사칭한 피싱 이메일이 연이어 유포된 것으로 알려졌다. 더욱이 동일한 형태의 피싱 이메일이어서 동일 해커조직의 대규모 공격 ...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[20년 전 유행했던 RLO 공격 기법, MS 365에서 다시 유행]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=104667&amp;page=1&amp;mkind=1&amp;kind=1</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=104635&amp;page=1&amp;mkind=1&amp;kind=2"/>
         <updated>2022-02-08T09:15:51.668Z</updated>
         <content type="html"><![CDATA[앞으로 활용이 급격히 확대될 것으로 전망되는 블록체인 등 신기술 환경에 맞춰 개인정보 파기규정이 개선되고, 개인정보 보호법규 위반에 따른 과징금·과태료 감면규정도 정비된다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[온라인 개인정보 불법 유통 ‘집중 단속’]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104634&amp;page=1&amp;mkind=1&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104634&amp;page=1&amp;mkind=1&amp;kind=2"/>
-        <updated>2022-02-08T08:17:49.060Z</updated>
-        <content type="html"><![CDATA[개인정보보호위원회(위원장 윤종인, 이하 ‘개인정보위’)와 한국인터넷진흥원(원장 이원태)은 개인정보 불법 유통을 근절하기 위해 1차로 2월 9일부터 3월 31일까지, 2차로 5~6월 중 ‘개인정보 불법 유통 집중 단속’을 실시한다. 주요 단속 대상은 온라인에서 포털 아이...]]></content>
     </entry>
 </feed>
