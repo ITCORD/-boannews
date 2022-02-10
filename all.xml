@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Feb 2022 02:34:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Feb 2022 03:17:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[비대면 서비스 개발 단계부터 보안 강화 지원한다 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104690&amp;page=1&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104690&amp;page=1&amp;kind=2</guid>
+            <pubDate>Thu, 10 Feb 2022 03:14:57 GMT</pubDate>
+            <content:encoded><![CDATA[한국인터넷진흥원(원장 이원태)과 과학기술정보통신부(장관 임혜숙)는 국민이 안심하고 이용할 수 있는 비대면 서비스 확산을 위해 ‘신기술 적용 비대면 서비스 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/20220210untact-s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[메이즈, 에그레고르, 세크멧 랜섬웨어 마스터 키 공개돼 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104694&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104694&amp;page=1&amp;kind=1</guid>
+            <pubDate>Thu, 10 Feb 2022 03:14:57 GMT</pubDate>
+            <content:encoded><![CDATA[악명 높은 랜섬웨어인 메이즈(Maze), 에그레고르(Egregor), 세크멧(Sekhmet)의 마스터 키가 온라인 공간에 공개됐다. 공개된 곳은 온라인 매...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/rankey-thumb-0210.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[러시아 APT 해커들, 코로나를 미끼로 유럽 외교관들 노려 (보안뉴스 ─ 전체기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104693&amp;page=1&amp;kind=1</link>
@@ -70,22 +86,6 @@
             <pubDate>Wed, 09 Feb 2022 08:18:22 GMT</pubDate>
             <content:encoded><![CDATA[엘세븐시큐리티는 공공기관의 홈페이지 게시판을 통한 개인정보 유출뿐만 아니라 기존 서버 내에 저장된 개인정보에 대한 스캔 사업을 꾸준히 해왔다. 이제는 공공...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/RESIZEOCRFilter_SUM.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[생체인식&출입통제 대표기업 2022년 출사표-7] 성현시스템 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104395&amp;page=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104395&amp;page=1&amp;kind=3</guid>
-            <pubDate>Wed, 09 Feb 2022 07:15:17 GMT</pubDate>
-            <content:encoded><![CDATA[올해부터 모바일 신분증은 공무원증, 운전면허증을 시작으로, 국가유공자증, 장애인등록증 등이 점진적으로 확대 시행된다. 모바일 신분증의 확대로 출입통제 부문...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/RESIZEsh20220125.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[영상보안 대표기업 2022년 출사표-10] 씨게이트 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104390&amp;page=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104390&amp;page=1&amp;kind=3</guid>
-            <pubDate>Wed, 09 Feb 2022 07:15:17 GMT</pubDate>
-            <content:encoded><![CDATA[대용량 데이터 스토리지 솔루션의 리더 씨게이트(Seagate)는 보안 감시 스토리지 솔루션 스카이호크 AI(Skyhawk AI)를 비롯해 나스 전용 아이언...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/RESIZERESIZESkyHawt_Hi-ResSUM.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[디지서트, IoT 사이버 보안업체 모카나 인수 (보안뉴스 ─ 전체기사)]]></title>
@@ -220,20 +220,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/est_021001_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[KISA·이스트시큐리티 ESRC 등 보안기관·기업 사칭 피싱 이메일 연이어 유포 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104668&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104668&amp;page=1&amp;kind=1</guid>
-            <pubDate>Wed, 09 Feb 2022 05:13:28 GMT</pubDate>
-            <content:encoded><![CDATA[최근 한국인터넷진흥원(KISA)와 이스트시큐리티 시큐리티대응센터(ESRC) 등 우리나라의 보안전문 공공기관과 대표적인 보안전문기업의 보안대응센터를 사칭한 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/20220209ESRC-SM.JPG" length="0" type="image/JPG"/>
+            <title><![CDATA[[생체인식&출입통제 대표기업 2022년 출사표-7] 성현시스템 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104395&amp;page=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104395&amp;page=1&amp;kind=3</guid>
+            <pubDate>Wed, 09 Feb 2022 07:15:17 GMT</pubDate>
+            <content:encoded><![CDATA[올해부터 모바일 신분증은 공무원증, 운전면허증을 시작으로, 국가유공자증, 장애인등록증 등이 점진적으로 확대 시행된다. 모바일 신분증의 확대로 출입통제 부문...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/RESIZEsh20220125.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[20년 전 유행했던 RLO 공격 기법, MS 365에서 다시 유행 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104667&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104667&amp;page=1&amp;kind=1</guid>
-            <pubDate>Wed, 09 Feb 2022 03:15:25 GMT</pubDate>
-            <content:encoded><![CDATA[사이버 공격자들이 20년 전에 사용했던 공격 기법이 부활했다. 보안 업체 베이드(Vade)에 의하면 지난 2주 동안 이 오래된 기법이 400건 이상의 피싱...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/arab-thumb-0209.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[영상보안 대표기업 2022년 출사표-10] 씨게이트 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104390&amp;page=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104390&amp;page=1&amp;kind=3</guid>
+            <pubDate>Wed, 09 Feb 2022 07:15:17 GMT</pubDate>
+            <content:encoded><![CDATA[대용량 데이터 스토리지 솔루션의 리더 씨게이트(Seagate)는 보안 감시 스토리지 솔루션 스카이호크 AI(Skyhawk AI)를 비롯해 나스 전용 아이언...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/RESIZERESIZESkyHawt_Hi-ResSUM.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[해킹으로 유출된 대한민국 카드 정보, 다크웹에서 약 8,630원에 판매중 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
@@ -394,6 +394,13 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/HIWAREsum.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
+            <title><![CDATA[윈도 유틸리티인 Regsvr32 악용해 멀웨어 퍼트리는 해커들 (보안뉴스 ─ SECURITY)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104692&amp;page=1&amp;mkind=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104692&amp;page=1&amp;mkind=1&amp;kind=1</guid>
+            <pubDate>Thu, 10 Feb 2022 03:15:16 GMT</pubDate>
+            <content:encoded><![CDATA[최근 해커들이 Regsvr32라는 바이너리를 적극 사용하기 시작했다는 경고가 나왔다. Regsvr32는 이른바 ‘리빙 오프더 랜드(living off the land)’ 전략을 구사하게 해 주는 바이너리로, 그 자체로 멀웨어는 아니고 오히려 정상적인 유틸리티로 분류된다...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[정부의 ‘정보보호 산업’ 전략적 육성방안, 어떤 내용 담겼나 (보안뉴스 ─ SECURITY)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104657&amp;page=1&amp;mkind=1&amp;kind=2</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104657&amp;page=1&amp;mkind=1&amp;kind=2</guid>
@@ -504,13 +511,6 @@
             <guid>https://www.boannews.com/media/view.asp?idx=104637&amp;page=1&amp;mkind=1&amp;kind=4</guid>
             <pubDate>Wed, 09 Feb 2022 03:15:44 GMT</pubDate>
             <content:encoded><![CDATA[머신러닝을 실제로 활용하는 면에 있어서 가장 힘든 점 중 하나는 ‘데이터 관리’다. 우리가 흔히 말하는 머신러닝에서 ‘머신’은 수많은 데이터로 조직되고 구성되는 것을 말하니, 사실 데이터에 대한 고민은 당연히 수반되는 것이라고 볼 수 있다. 게다가 데이터는 수많은 보안...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[펜타시큐리티, 암호화 키 관리 시스템 ‘디아모 KMS V4’ 출시 (보안뉴스 ─ SECURITY)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104659&amp;page=1&amp;mkind=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104659&amp;page=1&amp;mkind=1&amp;kind=3</guid>
-            <pubDate>Wed, 09 Feb 2022 03:15:44 GMT</pubDate>
-            <content:encoded><![CDATA[정보보안 전문기업 ‘펜타시큐리티시스템’은 고성능 하드웨어에 운영 안정성과 편의성을 대폭 강화한 암호화 키 관리 솔루션 ‘디아모(D'Amo) KMS V4’ 신규 버전을 출시했다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[디지털로 여는 좋은 세상을 실현할 IT 기업을 찾습니다 (보안뉴스 ─ IT)]]></title>

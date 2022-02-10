@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-02-10T02:34:01.906Z</updated>
+    <updated>2022-02-10T03:17:01.341Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[윈도 유틸리티인 Regsvr32 악용해 멀웨어 퍼트리는 해커들]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104692&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104692&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-02-10T03:15:16.718Z</updated>
+        <content type="html"><![CDATA[최근 해커들이 Regsvr32라는 바이너리를 적극 사용하기 시작했다는 경고가 나왔다. Regsvr32는 이른바 ‘리빙 오프더 랜드(living off the land)’ 전략을 구사하게 해 주는 바이너리로, 그 자체로 멀웨어는 아니고 오히려 정상적인 유틸리티로 분류된다...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[정부의 ‘정보보호 산업’ 전략적 육성방안, 어떤 내용 담겼나]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=104657&amp;page=1&amp;mkind=1&amp;kind=2</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=104637&amp;page=1&amp;mkind=1&amp;kind=4"/>
         <updated>2022-02-09T03:15:44.490Z</updated>
         <content type="html"><![CDATA[머신러닝을 실제로 활용하는 면에 있어서 가장 힘든 점 중 하나는 ‘데이터 관리’다. 우리가 흔히 말하는 머신러닝에서 ‘머신’은 수많은 데이터로 조직되고 구성되는 것을 말하니, 사실 데이터에 대한 고민은 당연히 수반되는 것이라고 볼 수 있다. 게다가 데이터는 수많은 보안...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[펜타시큐리티, 암호화 키 관리 시스템 ‘디아모 KMS V4’ 출시]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104659&amp;page=1&amp;mkind=1&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104659&amp;page=1&amp;mkind=1&amp;kind=3"/>
-        <updated>2022-02-09T03:15:44.499Z</updated>
-        <content type="html"><![CDATA[정보보안 전문기업 ‘펜타시큐리티시스템’은 고성능 하드웨어에 운영 안정성과 편의성을 대폭 강화한 암호화 키 관리 솔루션 ‘디아모(D'Amo) KMS V4’ 신규 버전을 출시했다.]]></content>
     </entry>
 </feed>
