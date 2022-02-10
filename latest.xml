@@ -4,9 +4,17 @@
         <title>보안뉴스 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Feb 2022 05:15:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Feb 2022 06:20:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[사이버 보안 대표기업 2022년 출사표-12] S2W]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104414&amp;page=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104414&amp;page=1&amp;kind=3</guid>
+            <pubDate>Thu, 10 Feb 2022 06:18:05 GMT</pubDate>
+            <content:encoded><![CDATA[데이터 인텔리전스 기업 에스투더블유(S2W)는 지난 2018년 카이스트 네트워크 보안 전문 연구진을 주축으로 설립한 이래 기술력을 바탕으로 괄목할 성장을 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/RESIZEProduct%20ImageSUM.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[사이버 보안 대표기업 2022년 출사표-11] 에이쓰리시큐리티]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104413&amp;page=1&amp;kind=3</link>
@@ -80,19 +88,19 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/cycl-thumb-0209.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[디지서트, IoT 사이버 보안업체 모카나 인수]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104691&amp;page=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104691&amp;page=1&amp;kind=3</guid>
+            <pubDate>Thu, 10 Feb 2022 01:58:46 GMT</pubDate>
+            <content:encoded><![CDATA[TLS/SSL, IoT 및 PKI(Public Key Infrastructure, 공개키 기반구조) 보안 솔루션 분야의 글로벌 기업 디지서트(DigiCer...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[소외 계층도 경제 활동에 참여시킨다는 핀테크, 그저 마케팅 문구?]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104670&amp;page=1&amp;kind=3</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104670&amp;page=1&amp;kind=3</guid>
             <pubDate>Thu, 10 Feb 2022 01:58:46 GMT</pubDate>
             <content:encoded><![CDATA[핀테크의 ‘셀링포인트’ 중 하나는 더 많은 사람들이 금융 서비스를 누릴 수 있도록 해 준다는 것이다. IT 기술과 금융이 결합하여, 여러 가지 사회적 혹은...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/fin-thumb-0209.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[디지서트, IoT 사이버 보안업체 모카나 인수]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104691&amp;page=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104691&amp;page=1&amp;kind=3</guid>
-            <pubDate>Thu, 10 Feb 2022 01:58:46 GMT</pubDate>
-            <content:encoded><![CDATA[TLS/SSL, IoT 및 PKI(Public Key Infrastructure, 공개키 기반구조) 보안 솔루션 분야의 글로벌 기업 디지서트(DigiCer...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[해수부, ‘해양수산 스마트화 추진전략 2.0’으로 디지털화에 박차]]></title>
@@ -226,14 +234,6 @@
             <pubDate>Thu, 10 Feb 2022 00:53:52 GMT</pubDate>
             <content:encoded><![CDATA[AI 서비스 전문 기업 이스트소프트(대표 정상원)는 MBC 서바이벌 오디션 프로그램 ‘방과후 설렘’ 제작사 펑키스튜디오의 매니지먼트 부문 총괄 운영사인 엠...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/est_021001_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이중 인증 도입 비율 늘려가는 구글, 2022년에도 행보는 계속돼]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104669&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104669&amp;page=1&amp;kind=1</guid>
-            <pubDate>Wed, 09 Feb 2022 08:18:22 GMT</pubDate>
-            <content:encoded><![CDATA[1억 5천만 명이 넘는 구글 사용자들의 계정 침해 가능성이 절반 수준으로 떨어졌으며, 이는 이중 인증을 도입했기 때문이라고 구글이 발표했다. 이 1억 5천...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/auth-thumb-0209.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

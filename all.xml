@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Feb 2022 05:15:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Feb 2022 06:20:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[사이버 보안 대표기업 2022년 출사표-12] S2W (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104414&amp;page=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104414&amp;page=1&amp;kind=3</guid>
+            <pubDate>Thu, 10 Feb 2022 06:18:05 GMT</pubDate>
+            <content:encoded><![CDATA[데이터 인텔리전스 기업 에스투더블유(S2W)는 지난 2018년 카이스트 네트워크 보안 전문 연구진을 주축으로 설립한 이래 기술력을 바탕으로 괄목할 성장을 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/RESIZEProduct%20ImageSUM.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[사이버 보안 대표기업 2022년 출사표-11] 에이쓰리시큐리티 (보안뉴스 ─ 전체기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104413&amp;page=1&amp;kind=3</link>
@@ -80,19 +88,19 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/cycl-thumb-0209.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[디지서트, IoT 사이버 보안업체 모카나 인수 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104691&amp;page=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104691&amp;page=1&amp;kind=3</guid>
+            <pubDate>Thu, 10 Feb 2022 01:58:46 GMT</pubDate>
+            <content:encoded><![CDATA[TLS/SSL, IoT 및 PKI(Public Key Infrastructure, 공개키 기반구조) 보안 솔루션 분야의 글로벌 기업 디지서트(DigiCer...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[소외 계층도 경제 활동에 참여시킨다는 핀테크, 그저 마케팅 문구? (보안뉴스 ─ 전체기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104670&amp;page=1&amp;kind=3</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104670&amp;page=1&amp;kind=3</guid>
             <pubDate>Thu, 10 Feb 2022 01:58:46 GMT</pubDate>
             <content:encoded><![CDATA[핀테크의 ‘셀링포인트’ 중 하나는 더 많은 사람들이 금융 서비스를 누릴 수 있도록 해 준다는 것이다. IT 기술과 금융이 결합하여, 여러 가지 사회적 혹은...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/fin-thumb-0209.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[디지서트, IoT 사이버 보안업체 모카나 인수 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104691&amp;page=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104691&amp;page=1&amp;kind=3</guid>
-            <pubDate>Thu, 10 Feb 2022 01:58:46 GMT</pubDate>
-            <content:encoded><![CDATA[TLS/SSL, IoT 및 PKI(Public Key Infrastructure, 공개키 기반구조) 보안 솔루션 분야의 글로벌 기업 디지서트(DigiCer...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[해수부, ‘해양수산 스마트화 추진전략 2.0’으로 디지털화에 박차 (보안뉴스 ─ 전체기사)]]></title>
@@ -226,14 +234,6 @@
             <pubDate>Thu, 10 Feb 2022 00:53:52 GMT</pubDate>
             <content:encoded><![CDATA[AI 서비스 전문 기업 이스트소프트(대표 정상원)는 MBC 서바이벌 오디션 프로그램 ‘방과후 설렘’ 제작사 펑키스튜디오의 매니지먼트 부문 총괄 운영사인 엠...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/est_021001_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이중 인증 도입 비율 늘려가는 구글, 2022년에도 행보는 계속돼 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104669&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104669&amp;page=1&amp;kind=1</guid>
-            <pubDate>Wed, 09 Feb 2022 08:18:22 GMT</pubDate>
-            <content:encoded><![CDATA[1억 5천만 명이 넘는 구글 사용자들의 계정 침해 가능성이 절반 수준으로 떨어졌으며, 이는 이중 인증을 도입했기 때문이라고 구글이 발표했다. 이 1억 5천...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/auth-thumb-0209.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[해킹으로 유출된 대한민국 카드 정보, 다크웹에서 약 8,630원에 판매중 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
@@ -379,6 +379,14 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/ma-thumb-0203.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[KISA·이스트시큐리티 ESRC 등 보안기관·기업 사칭 피싱 이메일 연이어 유포 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104668&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104668&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Thu, 10 Feb 2022 06:18:15 GMT</pubDate>
+            <content:encoded><![CDATA[최근 한국인터넷진흥원(KISA)와 이스트시큐리티 시큐리티대응센터(ESRC) 등 우리나라의 보안전문 공공기관과 대표적인 보안전문기업의 보안대응센터를 사칭한 피싱 이...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/20220209ESRC-SM.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
             <title><![CDATA[[사이버 보안 대표기업 2022년 출사표-7] 넷앤드 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104407&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104407&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
@@ -387,11 +395,11 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/HIWAREsum.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
-            <title><![CDATA[익산시, 교통 소외 지역 없는 스마트시티 조성한다 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104575&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104575&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
-            <pubDate>Mon, 07 Feb 2022 15:15:33 GMT</pubDate>
-            <content:encoded><![CDATA[익산시가 스마트 솔루션 시스템 구축으로 교통 소외 지역 없는 도시 조성에 나선다. 시는 국토교통부에서 주관하는 ‘2022년 중·소도시 스마트시티 조성 사업’ 공모...]]></content:encoded>
+            <title><![CDATA[비대면 서비스 개발 단계부터 보안 강화 지원한다 (보안뉴스 ─ SECURITY)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104690&amp;page=1&amp;mkind=1&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104690&amp;page=1&amp;mkind=1&amp;kind=2</guid>
+            <pubDate>Thu, 10 Feb 2022 06:18:25 GMT</pubDate>
+            <content:encoded><![CDATA[한국인터넷진흥원(원장 이원태)과 과학기술정보통신부(장관 임혜숙)는 국민이 안심하고 이용할 수 있는 비대면 서비스 확산을 위해 ‘신기술 적용 비대면 서비스 보안 강화 시범사업’ 공모를 진행한다고 2월 10일(목) 밝혔다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[메이즈, 에그레고르, 세크멧 랜섬웨어 마스터 키 공개돼 (보안뉴스 ─ SECURITY)]]></title>
@@ -504,13 +512,6 @@
             <guid>https://www.boannews.com/media/view.asp?idx=104663&amp;page=1&amp;mkind=1&amp;kind=1</guid>
             <pubDate>Wed, 09 Feb 2022 03:15:44 GMT</pubDate>
             <content:encoded><![CDATA[2월 정기 패치일이고, MS는 총 51개의 취약점 패치를 발표했다. 이번 달에는 치명적으로 위험한 취약점은 하나도 없는 것으로 나타났으며 제로데이 취약점은 단 1개에 그쳤다. 작년이나 지난 달에 비하면 매우 가볍게 느껴질 수밖에 없다. 하지만 고위험군 취약점은 여전히 ...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[김수키 해킹 그룹, 새로운 멀웨어 사용하기 시작 (보안뉴스 ─ SECURITY)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104662&amp;page=1&amp;mkind=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104662&amp;page=1&amp;mkind=1&amp;kind=1</guid>
-            <pubDate>Wed, 09 Feb 2022 03:15:44 GMT</pubDate>
-            <content:encoded><![CDATA[해킹 단체 김수키가 새로운 멀웨어를 사용하기 시작했다고 한국의 보안 업체 안랩이 발표했다. 최근 발견된 김수키의 새 멀웨어는 일종의 커스텀 백도어로, 이름은 골드 드래곤(Gold Dragon)이라고 한다. 여기에다가 다크웹에서 구매할 수 있는 엑스랫(xRAT) 역시 사...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[디지털로 여는 좋은 세상을 실현할 IT 기업을 찾습니다 (보안뉴스 ─ IT)]]></title>
@@ -2447,6 +2448,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2021/11/16657205_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[사이버 보안 대표기업 2022년 출사표-12] S2W (보안뉴스 ─ 기업뉴스)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104414&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104414&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=</guid>
+            <pubDate>Thu, 10 Feb 2022 06:20:04 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/view.asp?idx=104414&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=">
+					
+					<img src="/media/upFiles2/2022/01/RESIZEProduct ImageSUM.jpg" alt="" class="news_img" height="70">
+					
+					<span class="news_txt">[사이버 보안 대표기업 2022년 출사표-12] S2W</span>
+					</a><br>
+					<a href="/media/view.asp?idx=104414&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=">데이터 인텔리전스 기업 에스투더블유(S2W)는 지난 2018년 카이스트 네트워크 보안 전문 연구진을 주축으로 설립한 이래 기술력을 바탕으로 괄목할 성장을 해오고 ...</a> <span class="news_writer">원병철 기자 | 2022년 02월 10일 14:18</span>]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/RESIZEProduct%20ImageSUM.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[사이버 보안 대표기업 2022년 출사표-11] 에이쓰리시큐리티 (보안뉴스 ─ 기업뉴스)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104413&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104413&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=</guid>
@@ -2711,20 +2726,6 @@
 					</a><br>
 					<a href="/media/view.asp?idx=104401&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=">코로나19의 영향으로 비접촉, 비대면 수요가 폭발적으로 늘어나고 출입통제 시장도 이러한 영 향을 받고 있다. 이에 테크스피어는 기존 정맥인식기의 비접촉화를 추진하...</a> <span class="news_writer">엄호식 기자 | 2022년 02월 07일 15:22</span>]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/RESIZEEmbedded%20TS-UVscan_01.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[영상보안 대표기업 2022년 출사표-8] 웹게이트 (보안뉴스 ─ 기업뉴스)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104392&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104392&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=</guid>
-            <pubDate>Mon, 07 Feb 2022 06:19:50 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/view.asp?idx=104392&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=">
-					
-					<img src="/media/upFiles2/2022/01/RESIZERESIZEWEBGATE20220125SUM.png" alt="" class="news_img" height="70">
-					
-					<span class="news_txt">[영상보안 대표기업 2022년 출사표-8] 웹게이트</span>
-					</a><br>
-					<a href="/media/view.asp?idx=104392&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=">서울교통공사 ‘3호선 통합모니터링 시스템 개량사업’에 선정된 웹게이트는 안전한 지하철 이용에 기여하기 위해 지하철 환경에 최적화된 지능형 통합 모니터링 시스템 구...</a> <span class="news_writer">엄호식 기자 | 2022년 02월 07일 15:08</span>]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/RESIZERESIZEWEBGATE20220125SUM.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[인사] 투데이코리아 (보안뉴스 ─ 인사 부고)]]></title>
