@@ -4,9 +4,25 @@
         <title>보안뉴스 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Feb 2022 08:19:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Feb 2022 09:17:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[코발트 스트라이크 악성코드, 취약한 MS-SQL 서버 대상으로 유포]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104733&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104733&amp;page=1&amp;kind=1</guid>
+            <pubDate>Fri, 11 Feb 2022 09:15:07 GMT</pubDate>
+            <content:encoded><![CDATA[최근 코발트 스트라이크 악성코드가 취약한 MS-SQL 서버를 대상으로 유포 중인 것을 확인했다고 안랩 ASEC 분석팀이 밝혔다. MS-SQL 서버는 윈도우...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/20220211AHN-S.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[[긴급] 유명 손해보험사 위장 피싱 메일로 ‘Remcos’ 악성코드 유포]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104732&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104732&amp;page=1&amp;kind=1</guid>
+            <pubDate>Fri, 11 Feb 2022 09:15:07 GMT</pubDate>
+            <content:encoded><![CDATA[국내 유명 손해보험사를 위장한 피싱 메일이 유포되고 있어 사용자들의 주의가 필요하다. 피싱 메일에는 RAT(원격제어) 악성코드인 ‘Remcos’가 포함돼 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/20220211esrc-s.JPG" length="0" type="image/JPG"/>
+        </item>
         <item>
             <title><![CDATA[[사이버 보안 대표기업 2022년 출사표-15] 쏘마]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104405&amp;page=1&amp;kind=3</link>
@@ -72,20 +88,12 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/univ-thumb-211.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[IT 벤더와의 생산적인 관계를 유지하는 방법 8가지]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104700&amp;page=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104700&amp;page=1&amp;kind=3</guid>
-            <pubDate>Fri, 11 Feb 2022 02:03:43 GMT</pubDate>
-            <content:encoded><![CDATA[IT 제품과 서비스를 이용하기 위해 전문 기업들과 장기 파트너십을 가져가는 기업들이 점점 늘어나고 있다. 예전에는 컴퓨터 매장에 가서 물건을 사는 행위만 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/part-thumb-0210.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이제 스마트폰으로 주민등록증 확인 가능해진다]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104716&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104716&amp;page=1&amp;kind=2</guid>
-            <pubDate>Fri, 11 Feb 2022 00:58:21 GMT</pubDate>
-            <content:encoded><![CDATA[행정안전부는 지난 10일 SK텔레콤, 케이티, LG유플러스와 함께 ‘주민등록증 모바일 확인서비스’의 보안성 강화 및 이용 활성화를 위한 업무협약(MOU)을...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/2-95(295).jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[인텔리빅스, 비전 AI 기술 적용한 산업안전 솔루션으로 중대재해처벌법 넘는다]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104731&amp;page=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104731&amp;page=1&amp;kind=3</guid>
+            <pubDate>Fri, 11 Feb 2022 09:15:07 GMT</pubDate>
+            <content:encoded><![CDATA[인텔리빅스의 산업안전 솔루션은 현장 CCTV를 비전AI와 AI Edge Box로 분석해 다양한 산업 현장의 위험 요소를 실시간으로 확인하고 현장의 안전을 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/21021101ss.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[안랩, 2021년 결산 실적 발표... 매출액 2,073억 달성]]></title>
@@ -102,6 +110,14 @@
             <pubDate>Fri, 11 Feb 2022 03:14:57 GMT</pubDate>
             <content:encoded><![CDATA[글로벌 차세대 보안을 선도하며 네트워크 방화벽 부문 10년 연속 리더 기업으로 선정된 팔로알토 네트웍스(Palo Alto Networks®, 지사장 이희...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/Nebula_021101_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[IT 벤더와의 생산적인 관계를 유지하는 방법 8가지]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104700&amp;page=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104700&amp;page=1&amp;kind=3</guid>
+            <pubDate>Fri, 11 Feb 2022 02:03:43 GMT</pubDate>
+            <content:encoded><![CDATA[IT 제품과 서비스를 이용하기 위해 전문 기업들과 장기 파트너십을 가져가는 기업들이 점점 늘어나고 있다. 예전에는 컴퓨터 매장에 가서 물건을 사는 행위만 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/part-thumb-0210.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[부산시, 부산국제금융단지 핀테크 허브 지원 나서]]></title>
@@ -207,33 +223,19 @@
             <content:encoded><![CDATA[임혜숙 과학기술정보통신부(이하 과기정통부) 장관은 기술패권 경쟁 격화에 대응해 이차전지 분야의 기술주도권을 확보하고 탄소중립 실현의 기반을 마련하기 위해 ...]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[이제 스마트폰으로 주민등록증 확인 가능해진다]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104716&amp;page=1&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104716&amp;page=1&amp;kind=2</guid>
+            <pubDate>Fri, 11 Feb 2022 00:58:21 GMT</pubDate>
+            <content:encoded><![CDATA[행정안전부는 지난 10일 SK텔레콤, 케이티, LG유플러스와 함께 ‘주민등록증 모바일 확인서비스’의 보안성 강화 및 이용 활성화를 위한 업무협약(MOU)을...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/2-95(295).jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[데이터 기반 과학적 행정으로 디지털 대전환 시대 정부역량 강화]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104717&amp;page=1&amp;kind=2</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104717&amp;page=1&amp;kind=2</guid>
             <pubDate>Fri, 11 Feb 2022 00:58:21 GMT</pubDate>
             <content:encoded><![CDATA[행정안전부는 지난 10일 공공데이터전략위원회 영상회의를 개최했다고 밝혔다. 이날 회의에서는 데이터에 기반한 과학적 행정을 통해 디지털 대전환 시대 정부역량...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[소방청, 화재 현장의 소방시설 활용도 높인다]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104718&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104718&amp;page=1&amp;kind=2</guid>
-            <pubDate>Fri, 11 Feb 2022 00:58:21 GMT</pubDate>
-            <content:encoded><![CDATA[소방청은 화재 현장에서 소방대원들이 건물의 자체 소방시설을 적극 활용해 진압 활동을 할 수 있도록 하고, 화재 발생 건물의 자체 소방설비가 작동하지 않아 ...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[SKT-에퀴닉스, 양자암호(QKD)로 데이터센터 지킨다]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104720&amp;page=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104720&amp;page=1&amp;kind=3</guid>
-            <pubDate>Fri, 11 Feb 2022 00:58:21 GMT</pubDate>
-            <content:encoded><![CDATA[SK텔레콤과 전 세계에 디지털 인프라를 제공하는 기업인 에퀴닉스(Equinix)는 ‘QKD as a Service’ 등 양자(Quantum) 비즈니스의 국...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/2-99(295).jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한-미, 양국 간 반도체산업 투자 촉진을 위해 협력한다]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104719&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104719&amp;page=1&amp;kind=2</guid>
-            <pubDate>Fri, 11 Feb 2022 00:58:21 GMT</pubDate>
-            <content:encoded><![CDATA[산업통상자원부는 한·미 간 반도체 투자유치 촉진을 위해 ‘한-미 반도체 파트너십 투자설명회’를 지난 10~11일 양일간 개최했다. 금번 설명회는 지난 20...]]></content:encoded>
         </item>
     </channel>
 </rss>

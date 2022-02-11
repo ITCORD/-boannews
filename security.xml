@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-02-11T08:19:17.296Z</updated>
+    <updated>2022-02-11T09:17:15.572Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[사이버 보안 대표기업 2022년 출사표-14] 아스트론시큐리티]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104406&amp;page=1&amp;mkind=1&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104406&amp;page=1&amp;mkind=1&amp;kind=3"/>
+        <updated>2022-02-11T09:15:26.018Z</updated>
+        <content type="html"><![CDATA[아스트론시큐리티는 최근 6개 기업으로부터 63억원이라는 성공적인 투자를 받고, 적극적인 인재영입과 제품의 고도화 기획에 박차를 가하고 있다. 다양한 경험을 가진 팀원들과 앞으로 만들어가야 하는 미래와 비전에 대한 공감대를 형성해가면서 좀 더 조직적인 팀워크를 갖추기 위...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[사이버 보안 대표기업 2022년 출사표-13] ICTK홀딩스]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104411&amp;page=1&amp;mkind=1&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104411&amp;page=1&amp;mkind=1&amp;kind=3"/>
+        <updated>2022-02-11T09:15:26.020Z</updated>
+        <content type="html"><![CDATA[아이씨티케이홀딩스(ICTK홀딩스)는 올해 3분기를 목표로 기술특례상장을 추진 중이다. 작년 말 나이스D&amp;B가 진행한 예비기술평가 결과 최고등급에 해당하는 ‘A’를 받았다. 최근 통신사 유심과 건설사 아파트 월패드 해킹 등의 사태가 사회문제화되면서, 해당 업체들과의 다채...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MS, 디펜더에서 발견된 백신 우회 취약점 해결]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=104730&amp;page=1&amp;mkind=1&amp;kind=1</id>
@@ -109,19 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=104696&amp;page=1&amp;mkind=1&amp;kind=3"/>
         <updated>2022-02-10T10:17:10.024Z</updated>
         <content type="html"><![CDATA[2월 10일 발간된 ‘Weekly Security Premium Report’ 제37호에는 &lt;보안 심층 리포트&gt; 코너에서 IT 및 보안 기술의 관점에서 되돌아본 2021년의 주요 이슈와 올해 1월 발생한 주요 사건들에 대해 집중적으로 살펴보는 기회를 가졌다....]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사이버 보안 대표기업 2022년 출사표-12] S2W]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104414&amp;page=1&amp;mkind=1&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104414&amp;page=1&amp;mkind=1&amp;kind=3"/>
-        <updated>2022-02-10T09:15:43.345Z</updated>
-        <content type="html"><![CDATA[데이터 인텔리전스 기업 에스투더블유(S2W)는 지난 2018년 카이스트 네트워크 보안 전문 연구진을 주축으로 설립한 이래 기술력을 바탕으로 괄목할 성장을 해오고 있다. 2019년 당시 사이버보안의 사각지대나 다름없던 다크웹에 대한 모니터링 솔루션을 출시해 국내 주요 기...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[사이버 보안 대표기업 2022년 출사표-11] 에이쓰리시큐리티]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104413&amp;page=1&amp;mkind=1&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104413&amp;page=1&amp;mkind=1&amp;kind=3"/>
-        <updated>2022-02-10T09:15:43.345Z</updated>
-        <content type="html"><![CDATA[에이쓰리시큐리티는 코로나19로 인해 방역이 엄격해질 것을 예측하고, 출입통제·보안조치 강화 및 비접촉 출입관리를 위한 안면인식 기술에 대한 연구·개발에 나섰다. 안면인식 발열체크기인 ‘언택패스’와 ‘언택패스’를 통해 취합된 정보를 관리할 수 있는 소프트웨어, 출입관리...]]></content>
     </entry>
 </feed>
