@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Feb 2022 02:05:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Feb 2022 03:16:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,14 +30,6 @@
             <pubDate>Mon, 07 Feb 2022 06:18:14 GMT</pubDate>
             <content:encoded><![CDATA[예치금액이 20억 달러(약 2조 4,000억원)에 달하는 국내 최대 규모 디파이(Defi, 탈중앙화 금융) 서비스 ‘클레이스왑(KLAYswap)’에서 22억 규모...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/20220206klay-s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오픈소스 삼바에 심각한 취약점 발견... 업데이트 시급]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104561&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104561&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Sat, 05 Feb 2022 02:15:20 GMT</pubDate>
-            <content:encoded><![CDATA[리눅스와 유닉스 시스템 등에서 파일 공유 및 프린트 공유에 사용되는 오픈 소스인 삼바(Samba)에 심각한 취약점이 발견돼 주의가 요구된다. 트랜드마이크로에 따르...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/samba_020401_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[능동적 보안 전문가 혹은 윤리적 해커가 되고 싶은 사람이라면]]></title>
@@ -102,6 +94,14 @@
             <pubDate>Thu, 10 Feb 2022 11:12:46 GMT</pubDate>
             <content:encoded><![CDATA[사이버 공격자들이 20년 전에 사용했던 공격 기법이 부활했다. 보안 업체 베이드(Vade)에 의하면 지난 2주 동안 이 오래된 기법이 400건 이상의 피싱 공격에...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/arab-thumb-0209.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[리눅스 시스템과 서버 노리는 사이버 위협들, 크게 증가 중]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104699&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104699&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Fri, 11 Feb 2022 03:15:06 GMT</pubDate>
+            <content:encoded><![CDATA[클라우드 서비스, 가상기기 호스트, 컨테이너 기반 인프라가 늘어남에 따라 리눅스에 대한 인기와 관심도 덩달아 늘어나고 있다. 중요한 건 이 관심의 대부분이 사이버...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/lin-thumb-0210.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[UN, “북한은 핵 무기 개발 위해 사이버 공격 기술 발휘한다”]]></title>

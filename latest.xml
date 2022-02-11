@@ -4,9 +4,49 @@
         <title>보안뉴스 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Feb 2022 02:05:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Feb 2022 03:16:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[MS, 디펜더에서 발견된 백신 우회 취약점 해결]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104730&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104730&amp;page=1&amp;kind=1</guid>
+            <pubDate>Fri, 11 Feb 2022 03:14:57 GMT</pubDate>
+            <content:encoded><![CDATA[마이크로소프트가 자사 백신 솔루션인 디펜더 안티바이러스(Defender Antivirus)의 취약점을 패치했다. 원격의 공격자가 악성 페이로드를 주입할 수...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/shield-thumb-0211.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[PHP 에브리웨어 취약점, 3만 개의 워드프레스 사이트를 위험에 노출시켜]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104729&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104729&amp;page=1&amp;kind=1</guid>
+            <pubDate>Fri, 11 Feb 2022 03:14:57 GMT</pubDate>
+            <content:encoded><![CDATA[워드프레스의 유명 플러그인 중 PHP 에브리웨어(PHP Everywhere)에서 취약점들이 여러 개 발견됐다. 이 플러그인은 3만 개 이상의 워드프레스 사...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/php-thumb-0211(0).jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[애플의 iOS와 맥OS 웹키트에서 제로데이 취약점 발견돼]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104728&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104728&amp;page=1&amp;kind=1</guid>
+            <pubDate>Fri, 11 Feb 2022 03:14:57 GMT</pubDate>
+            <content:encoded><![CDATA[애플 iOS와 맥OS의 웹키트(WebKit) 요소에서 제로데이 취약점이 발견됐다. CVE-2022-22620으로 원격 코드 실행을 가능하게 하는 취약점이라...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/apple-thumb-0211.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[어도비 마젠토 기반 사이트들, 지불카드 스키밍 공격에 당해]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104727&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104727&amp;page=1&amp;kind=1</guid>
+            <pubDate>Fri, 11 Feb 2022 03:14:57 GMT</pubDate>
+            <content:encoded><![CDATA[마젠토 1(Magento 1)이라는 온라인 커머스 플랫폼을 기반으로 한 웹사이트들이 해킹 공격 세례를 받고 있다는 보고가 나왔다. 최근에는 웹 스키머를 활...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/mag-thumb-0211.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[캘리포니아의 대학 기관, 랜섬웨어 공격에 당해]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104726&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104726&amp;page=1&amp;kind=1</guid>
+            <pubDate>Fri, 11 Feb 2022 03:14:57 GMT</pubDate>
+            <content:encoded><![CDATA[캘리포니아의 한 대학 기관이 랜섬웨어 공격에 당해 마비됐다. 일부 교직원과 학생들의 개인정보와 학사 관련 정보들이 침해되기도 했다. 사회 보장 번호, 생년...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/univ-thumb-211.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[IT 벤더와의 생산적인 관계를 유지하는 방법 8가지]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104700&amp;page=1&amp;kind=3</link>
@@ -48,44 +88,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/RESIZEProduct%20ImageSUM.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[사이버 보안 대표기업 2022년 출사표-11] 에이쓰리시큐리티]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104413&amp;page=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104413&amp;page=1&amp;kind=3</guid>
-            <pubDate>Thu, 10 Feb 2022 05:14:05 GMT</pubDate>
-            <content:encoded><![CDATA[에이쓰리시큐리티는 코로나19로 인해 방역이 엄격해질 것을 예측하고, 출입통제·보안조치 강화 및 비접촉 출입관리를 위한 안면인식 기술에 대한 연구·개발에 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/RESIZEA3SUM.png" length="0" type="image/png"/>
+            <title><![CDATA[안랩, 2021년 결산 실적 발표... 매출액 2,073억 달성]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104725&amp;page=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104725&amp;page=1&amp;kind=3</guid>
+            <pubDate>Fri, 11 Feb 2022 03:14:57 GMT</pubDate>
+            <content:encoded><![CDATA[안랩(대표 강석균)은 연결재무제표 기준 2021년 매출액 2,073억, 영업이익 229억, 당기순이익 419억(별도기준 매출 1,994억, 영업이익 234...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/ahnlab_021101_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[영상보안 대표기업 2022년 출사표-11] 경인씨엔에스]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104380&amp;page=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104380&amp;page=1&amp;kind=3</guid>
-            <pubDate>Thu, 10 Feb 2022 05:14:05 GMT</pubDate>
-            <content:encoded><![CDATA[보안설비의 유지관리를 보다 편리하게 하기 위한 장애관리 솔루션을 개발·생산하고 있는 경인씨엔에스는 올해 스마트함체를 기본으로 한 혁신제품 심사를 준비 중이...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/RESIZERESIZECNSSUM.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[그 어느 때보다 가벼웠던 MS 정기 패치이지만 안심은 금물]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104695&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104695&amp;page=1&amp;kind=1</guid>
-            <pubDate>Thu, 10 Feb 2022 05:14:05 GMT</pubDate>
-            <content:encoded><![CDATA[이번 달 MS 정기 패치는 치명적 위험도의 취약점이 하나도 없다는 점에서 이례적이었다. 취약점의 절대적 수량도 꽤나 낮은 편이었다. 그럼에도 패치를 관리하...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/pat-thumb-0210.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[비대면 서비스 개발 단계부터 보안 강화 지원한다]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104690&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104690&amp;page=1&amp;kind=2</guid>
-            <pubDate>Thu, 10 Feb 2022 03:14:57 GMT</pubDate>
-            <content:encoded><![CDATA[한국인터넷진흥원(원장 이원태)과 과학기술정보통신부(장관 임혜숙)는 국민이 안심하고 이용할 수 있는 비대면 서비스 확산을 위해 ‘신기술 적용 비대면 서비스 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/20220210untact-s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[메이즈, 에그레고르, 세크멧 랜섬웨어 마스터 키 공개돼]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104694&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104694&amp;page=1&amp;kind=1</guid>
-            <pubDate>Thu, 10 Feb 2022 03:14:57 GMT</pubDate>
-            <content:encoded><![CDATA[악명 높은 랜섬웨어인 메이즈(Maze), 에그레고르(Egregor), 세크멧(Sekhmet)의 마스터 키가 온라인 공간에 공개됐다. 공개된 곳은 온라인 매...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/rankey-thumb-0210.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[팔로알토 네트웍스, 네트워크 보안에 인라인 딥러닝 적용한 PAN-OS 10.2 네뷸라 출시]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104724&amp;page=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104724&amp;page=1&amp;kind=3</guid>
+            <pubDate>Fri, 11 Feb 2022 03:14:57 GMT</pubDate>
+            <content:encoded><![CDATA[글로벌 차세대 보안을 선도하며 네트워크 방화벽 부문 10년 연속 리더 기업으로 선정된 팔로알토 네트웍스(Palo Alto Networks®, 지사장 이희...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/Nebula_021101_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[부산시, 부산국제금융단지 핀테크 허브 지원 나서]]></title>
@@ -218,22 +234,6 @@
             <guid>https://www.boannews.com/media/view.asp?idx=104719&amp;page=1&amp;kind=2</guid>
             <pubDate>Fri, 11 Feb 2022 00:58:21 GMT</pubDate>
             <content:encoded><![CDATA[산업통상자원부는 한·미 간 반도체 투자유치 촉진을 위해 ‘한-미 반도체 파트너십 투자설명회’를 지난 10~11일 양일간 개최했다. 금번 설명회는 지난 20...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[강원도-SK텔레콤, 대형 산불 대비 비상 통신체계 구축]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104721&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104721&amp;page=1&amp;kind=2</guid>
-            <pubDate>Fri, 11 Feb 2022 00:58:21 GMT</pubDate>
-            <content:encoded><![CDATA[SK텔레콤이 강원도와 대형 산불 발생에 대비한 비상 통신체계 구축 관련 업무협약을 체결했다. 지난 10일 열린 협약식에서 양측은 장거리 무선전송이 가능한 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/2-100(295).jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[경기도, 드론 등 활용한 ‘대기오염물질 배출 행위 즉각 대응팀’ 가동]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104702&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104702&amp;page=1&amp;kind=2</guid>
-            <pubDate>Fri, 11 Feb 2022 00:58:21 GMT</pubDate>
-            <content:encoded><![CDATA[경기도 광역환경관리사업소가 드론, 굴뚝 자동측정기기(TMS. Tele-Monitering System) 등을 활용한 ‘대기오염물질 배출 행위 즉각 대응팀’...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/2-81(295).jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -2,9 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-02-11T02:05:43.115Z</updated>
+    <updated>2022-02-11T03:16:50.226Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[어도비 마젠토 기반 사이트들, 지불카드 스키밍 공격에 당해]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104727&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104727&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-02-11T03:15:14.178Z</updated>
+        <content type="html"><![CDATA[마젠토 1(Magento 1)이라는 온라인 커머스 플랫폼을 기반으로 한 웹사이트들이 해킹 공격 세례를 받고 있다는 보고가 나왔다. 최근에는 웹 스키머를 활용한 공격이 거세게 발생하고 있다고 한다. 공격자들은 PHP 객체 주입 공격과 SQL 주입 공격 기법 모두를 활용하...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[캘리포니아의 대학 기관, 랜섬웨어 공격에 당해]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104726&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104726&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-02-11T03:15:14.181Z</updated>
+        <content type="html"><![CDATA[캘리포니아의 한 대학 기관이 랜섬웨어 공격에 당해 마비됐다. 일부 교직원과 학생들의 개인정보와 학사 관련 정보들이 침해되기도 했다. 사회 보장 번호, 생년월일, 운전자 면허 등록번호, 의료 정보, 은행 계정 정보 등에 공격자들이 접근한 것으로 보인다. 학생들이 사용하는...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[안랩, 2021년 결산 실적 발표... 매출액 2,073억 달성]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104725&amp;page=1&amp;mkind=1&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104725&amp;page=1&amp;mkind=1&amp;kind=3"/>
+        <updated>2022-02-11T03:15:14.183Z</updated>
+        <content type="html"><![CDATA[안랩(대표 강석균)은 연결재무제표 기준 2021년 매출액 2,073억, 영업이익 229억, 당기순이익 419억(별도기준 매출 1,994억, 영업이익 234억, 당기순이익 414억)을 기록했다고 잠정 실적을 공시했다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[팔로알토 네트웍스, 네트워크 보안에 인라인 딥러닝 적용한 PAN-OS 10.2 네뷸라 출시]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104724&amp;page=1&amp;mkind=1&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104724&amp;page=1&amp;mkind=1&amp;kind=3"/>
+        <updated>2022-02-11T03:15:14.184Z</updated>
+        <content type="html"><![CDATA[글로벌 차세대 보안을 선도하며 네트워크 방화벽 부문 10년 연속 리더 기업으로 선정된 팔로알토 네트웍스(Palo Alto Networks®, 지사장 이희만)는 PAN-OS 소프트웨어 최신 버전 네뷸라(Nebula)를 출시했다고 밝혔다. 이번 업데이트에는 고도의 회피형...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[포티넷코리아, 파트너사 대상 ‘2022 포티넷 채널데이’ 성공 개최]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104723&amp;page=1&amp;mkind=1&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104723&amp;page=1&amp;mkind=1&amp;kind=3"/>
+        <updated>2022-02-11T03:15:14.187Z</updated>
+        <content type="html"><![CDATA[광범위하고 자동화된 통합 사이버보안 분야의 글로벌 리더인 포티넷코리아(대표 조원균)는 2월 10일 온라인을 통해 ‘2022 포티넷 채널데이’ 행사를 성공적으로 개최했다고 밝혔다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[케이사인, 악성코드 분야 AI 데이터셋 4억 건 구축]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104722&amp;page=1&amp;mkind=1&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104722&amp;page=1&amp;mkind=1&amp;kind=3"/>
+        <updated>2022-02-11T03:15:14.189Z</updated>
+        <content type="html"><![CDATA[정보보안 전문업체 케이사인(대표 최승락)이 자회사 위협 인텔리전스 전문기업인 샌즈랩 및 안티바이러스 전문기업인 이스트시큐리티와 4억 건의 사이버보안 AI 학습용 데이터셋 구축을 완료했다고 11일 밝혔다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이제 스마트폰으로 주민등록증 확인 가능해진다]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104716&amp;page=1&amp;mkind=1&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104716&amp;page=1&amp;mkind=1&amp;kind=2"/>
+        <updated>2022-02-11T03:15:14.195Z</updated>
+        <content type="html"><![CDATA[행정안전부는 지난 10일 SK텔레콤, 케이티, LG유플러스와 함께 ‘주민등록증 모바일 확인서비스’의 보안성 강화 및 이용 활성화를 위한 업무협약(MOU)을 체결했다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SKT-에퀴닉스, 양자암호(QKD)로 데이터센터 지킨다]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=104720&amp;page=1&amp;mkind=1&amp;kind=3</id>
@@ -74,54 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=104694&amp;page=1&amp;mkind=1&amp;kind=1"/>
         <updated>2022-02-10T05:14:22.004Z</updated>
         <content type="html"><![CDATA[악명 높은 랜섬웨어인 메이즈(Maze), 에그레고르(Egregor), 세크멧(Sekhmet)의 마스터 키가 온라인 공간에 공개됐다. 공개된 곳은 온라인 매체인 블리핑컴퓨터의 포럼(https://www.bleepingcomputer.com/forums/t/768330/l...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[러시아 APT 해커들, 코로나를 미끼로 유럽 외교관들 노려]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104693&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104693&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-02-10T05:14:22.004Z</updated>
-        <content type="html"><![CDATA[러시아의 APT 단체인 APT29가 유럽의 국가들을 공격했다는 사실이 드러났다. 주로 외교 관련 기관들과, 그 기관에 소속된 직원들이 공격 대상이었다고 한다. 지난 10월과 11월 사이에 집중적으로 코로나 관련 소식들을 미끼로 피싱 공격을 퍼부었다고 보안 업체 이셋(E...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윈도 유틸리티인 Regsvr32 악용해 멀웨어 퍼트리는 해커들]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104692&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104692&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-02-10T03:15:16.718Z</updated>
-        <content type="html"><![CDATA[최근 해커들이 Regsvr32라는 바이너리를 적극 사용하기 시작했다는 경고가 나왔다. Regsvr32는 이른바 ‘리빙 오프더 랜드(living off the land)’ 전략을 구사하게 해 주는 바이너리로, 그 자체로 멀웨어는 아니고 오히려 정상적인 유틸리티로 분류된다...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정부의 ‘정보보호 산업’ 전략적 육성방안, 어떤 내용 담겼나]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104657&amp;page=1&amp;mkind=1&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104657&amp;page=1&amp;mkind=1&amp;kind=2"/>
-        <updated>2022-02-10T02:32:24.604Z</updated>
-        <content type="html"><![CDATA[정부가 융합보안 시장 성장 전망을 바탕으로 정보보호산업을 차세대 전략산업으로 육성하겠다고 밝혔다. 과학기술정보통신부(장관 임혜숙, 이하 과기정통부)는 디지털 경제시대 정보보호산업을 차세대 전략산업으로 육성하기 위한 ‘정보보호산업의 전략적 육성 방안’을 2월 10일 제5...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[디지서트, IoT 사이버 보안업체 모카나 인수]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104691&amp;page=1&amp;mkind=1&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104691&amp;page=1&amp;mkind=1&amp;kind=3"/>
-        <updated>2022-02-10T02:32:24.620Z</updated>
-        <content type="html"><![CDATA[TLS/SSL, IoT 및 PKI(Public Key Infrastructure, 공개키 기반구조) 보안 솔루션 분야의 글로벌 기업 디지서트(DigiCert)가 사물인터넷(IoT) 사이버 보안업체 모카나(Mocana)를 인수했다고 발표했다. 디지서트는 모카나와 기술을 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[넷앤드, 매크로 기반 어플리케이션 계정관리 특허 취득]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104689&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104689&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-02-10T02:32:24.621Z</updated>
-        <content type="html"><![CDATA[통합 접근 및 계정관리 대표기업 넷앤드가 관리 대상 서버 시스템의 종류에 상관없이 통합적으로 계정을 관리할 수 있는 ‘매크로 기반 어플리케이션 계정관리 시스템’에 대한 특허를 취득했다. 이번에 추가한 특허를 포함해 넷앤드는 총 22개의 기술특허를 보유하게 됐다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이스트소프트, MBC ‘방과후 설렘’ TOP7 버추얼 휴먼 만든다]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104688&amp;page=1&amp;mkind=1&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104688&amp;page=1&amp;mkind=1&amp;kind=3"/>
-        <updated>2022-02-10T01:59:07.186Z</updated>
-        <content type="html"><![CDATA[AI 서비스 전문 기업 이스트소프트(대표 정상원)는 MBC 서바이벌 오디션 프로그램 ‘방과후 설렘’ 제작사 펑키스튜디오의 매니지먼트 부문 총괄 운영사인 엠이오(대표 조이현)와 해당 프로그램에서 배출한 아이돌의 버추얼 휴먼 제작 및 IP(지식재산권)에 대한 계약을 체결했...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이중 인증 도입 비율 늘려가는 구글, 2022년에도 행보는 계속돼]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104669&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104669&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-02-11T02:04:00.249Z</updated>
-        <content type="html"><![CDATA[1억 5천만 명이 넘는 구글 사용자들의 계정 침해 가능성이 절반 수준으로 떨어졌으며, 이는 이중 인증을 도입했기 때문이라고 구글이 발표했다. 이 1억 5천만 사용자는 구글에 로그인 할 때 ID와 비밀번호를 입력한 후 사용자가 설정한 두 번째 장비로 들어온 알림 메시지에...]]></content>
     </entry>
 </feed>
