@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=4</id>
     <title>보안뉴스 ─ SAFETY</title>
-    <updated>2022-02-11T01:00:26.502Z</updated>
+    <updated>2022-02-11T02:05:43.133Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[교통안전공단, 보행자 생활권 안심도로 조성 추진]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104701&amp;page=1&amp;mkind=4&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104701&amp;page=1&amp;mkind=4&amp;kind=2"/>
+        <updated>2022-02-11T02:04:18.357Z</updated>
+        <content type="html"><![CDATA[한국교통안전공단은 “제한속도 준수율이 낮은 도로를 대상으로 생활권 도로의 안심도로화를 위한 집중 관리를 추진한다”고 밝혔다. ‘생활권 안심도로’는 국민의 직접 통행이 이뤄지는 생활권 도로 중 다양한 이동수단 간(보행자, 자동차, 이륜차, PM 등) 안전성과 공존성이 확...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[고용부 현장 점검의 날, 3대 안전 조치 이행 여부 일제 점검]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=104685&amp;page=1&amp;mkind=4&amp;kind=2</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=104551&amp;page=1&amp;mkind=4&amp;kind=2"/>
         <updated>2022-02-04T00:52:12.802Z</updated>
         <content type="html"><![CDATA[소방용수시설의 실시간 스마트한 관리로 화재 발생 시 신속하게 대응하고, 화재 진압 골든타임 확보를 통해 화재피해를 최소화할 수 있게 됐다. 대구시는 소방용수시설을 관리할 수 있는 소방용수시설 관리시스템을 구축하고, 동시에 사물인터넷을 활용한 지능형 소화전을 수성알파시티...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[행안부, 대규모 예산 투입으로 자연재난 위험요소 사전 차단한다]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104555&amp;page=1&amp;mkind=4&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104555&amp;page=1&amp;mkind=4&amp;kind=2"/>
-        <updated>2022-02-04T00:52:12.803Z</updated>
-        <content type="html"><![CDATA[행정안전부는 자연재난으로 인한 침수 등의 피해를 최소화하기 위해 재해예방사업에 지난해 대비 약 16.4% 증액된 1조3,746억원(국비 6,873억, 지방비 6,873억)을 투자한다고 밝혔다.]]></content>
     </entry>
 </feed>
