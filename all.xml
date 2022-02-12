@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 12 Feb 2022 22:16:06 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Feb 2022 23:16:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -271,20 +271,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/it-thumb-0207.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[리눅스 시스템과 서버 노리는 사이버 위협들, 크게 증가 중 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104699&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104699&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Fri, 11 Feb 2022 03:15:06 GMT</pubDate>
-            <content:encoded><![CDATA[클라우드 서비스, 가상기기 호스트, 컨테이너 기반 인프라가 늘어남에 따라 리눅스에 대한 인기와 관심도 덩달아 늘어나고 있다. 중요한 건 이 관심의 대부분이 사이버...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/lin-thumb-0210.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[긴급] 유명 손해보험사 위장 피싱 메일로 ‘Remcos’ 악성코드 유포 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104732&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104732&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Sat, 12 Feb 2022 02:04:14 GMT</pubDate>
             <content:encoded><![CDATA[국내 유명 손해보험사를 위장한 피싱 메일이 유포되고 있어 사용자들의 주의가 필요하다. 피싱 메일에는 RAT(원격제어) 악성코드인 ‘Remcos’가 포함돼 있는 것...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/20220211esrc-s.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[리눅스 시스템과 서버 노리는 사이버 위협들, 크게 증가 중 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104699&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104699&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Fri, 11 Feb 2022 03:15:06 GMT</pubDate>
+            <content:encoded><![CDATA[클라우드 서비스, 가상기기 호스트, 컨테이너 기반 인프라가 늘어남에 따라 리눅스에 대한 인기와 관심도 덩달아 늘어나고 있다. 중요한 건 이 관심의 대부분이 사이버...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/lin-thumb-0210.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2022년 1월 랜섬웨어 피해 3.8배 늘었다! 랜섬웨어 침해사고 주의보 발령 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
@@ -343,6 +343,14 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/20220207jin-s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[내가 과속운전 벌점을? 교통법규 위반 사칭 스미싱 유포 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104661&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104661&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Sat, 12 Feb 2022 02:04:14 GMT</pubDate>
+            <content:encoded><![CDATA[최근 교통법규 위반, 과속운전 벌점 내용으로 스미싱이 대량으로 유포되고 있어 사용자들의 주의가 필요하다. 보안업체 이스트시큐리티 시큐리티대응센터(ESRC)에 따르...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/20220210_mail1-S.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
             <title><![CDATA[UN, “북한은 핵 무기 개발 위해 사이버 공격 기술 발휘한다” (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104593&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104593&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
@@ -373,14 +381,6 @@
             <pubDate>Thu, 10 Feb 2022 08:17:52 GMT</pubDate>
             <content:encoded><![CDATA[중국 정부의 지원을 받는 해커들 중 앤트라이언(Antlion)이 최소 지난 18개월 동안 대만의 금융 기관들을 공격해 왔다는 사실이 드러났다. 앤트라이언은 피해 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/tai-thumb-0207.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[내가 과속운전 벌점을? 교통법규 위반 사칭 스미싱 유포 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104661&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104661&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Sat, 12 Feb 2022 02:04:14 GMT</pubDate>
-            <content:encoded><![CDATA[최근 교통법규 위반, 과속운전 벌점 내용으로 스미싱이 대량으로 유포되고 있어 사용자들의 주의가 필요하다. 보안업체 이스트시큐리티 시큐리티대응센터(ESRC)에 따르...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/20220210_mail1-S.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[Weekly Security Premium Report 제37호 발간! IT/보안 기술 관점의 2021년 결산 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
