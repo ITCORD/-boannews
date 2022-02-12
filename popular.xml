@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 12 Feb 2022 17:16:02 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Feb 2022 18:18:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -112,6 +112,14 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/20220207jin-s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[코발트 스트라이크 악성코드, 취약한 MS-SQL 서버 대상으로 유포]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104733&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104733&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Sat, 12 Feb 2022 03:14:46 GMT</pubDate>
+            <content:encoded><![CDATA[최근 코발트 스트라이크 악성코드가 취약한 MS-SQL 서버를 대상으로 유포 중인 것을 확인했다고 안랩 ASEC 분석팀이 밝혔다. MS-SQL 서버는 윈도우 환경의...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/20220211AHN-S.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
             <title><![CDATA[중국의 APT 앤트라이언, 대만 금융 기관들을 집중적으로 노려]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104599&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104599&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
@@ -134,14 +142,6 @@
             <pubDate>Fri, 11 Feb 2022 11:13:15 GMT</pubDate>
             <content:encoded><![CDATA[정부가 융합보안 시장 성장 전망을 바탕으로 정보보호산업을 차세대 전략산업으로 육성하겠다고 밝혔다. 과학기술정보통신부(장관 임혜숙, 이하 과기정통부)는 디지털 경제...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/12499913_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[코발트 스트라이크 악성코드, 취약한 MS-SQL 서버 대상으로 유포]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104733&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104733&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Sat, 12 Feb 2022 03:14:46 GMT</pubDate>
-            <content:encoded><![CDATA[최근 코발트 스트라이크 악성코드가 취약한 MS-SQL 서버를 대상으로 유포 중인 것을 확인했다고 안랩 ASEC 분석팀이 밝혔다. MS-SQL 서버는 윈도우 환경의...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/20220211AHN-S.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[내가 과속운전 벌점을? 교통법규 위반 사칭 스미싱 유포]]></title>

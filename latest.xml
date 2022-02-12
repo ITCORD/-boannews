@@ -4,9 +4,17 @@
         <title>보안뉴스 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 12 Feb 2022 17:16:02 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Feb 2022 18:18:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[클레이스왑 해킹으로 드러난 BGP Hijacking 공격기법, 도대체 뭐길래?]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104743&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104743&amp;page=1&amp;kind=1</guid>
+            <pubDate>Sat, 12 Feb 2022 18:17:06 GMT</pubDate>
+            <content:encoded><![CDATA[지난 2월 3일 국내 최대 규모 디파이(Defi, 탈중앙화 금융) 서비스 ‘클레이스왑(KLAYswap)’에서 22억 규모에 달하는 가상자산(암호화폐)이 탈...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/20220213claymain-s.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[주말판] 대화형 인공지능과 챗봇, 어디까지 와 있나]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104741&amp;page=1&amp;kind=4</link>
@@ -80,14 +88,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/apple-thumb-0211.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[어도비 마젠토 기반 사이트들, 지불카드 스키밍 공격에 당해]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104727&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104727&amp;page=1&amp;kind=1</guid>
-            <pubDate>Fri, 11 Feb 2022 03:14:57 GMT</pubDate>
-            <content:encoded><![CDATA[마젠토 1(Magento 1)이라는 온라인 커머스 플랫폼을 기반으로 한 웹사이트들이 해킹 공격 세례를 받고 있다는 보고가 나왔다. 최근에는 웹 스키머를 활...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/mag-thumb-0211.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[‘2022년 방위산업기술 보호체계 구축·운영 지원 사업’ 참여기업 모집]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104740&amp;page=1&amp;kind=2</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104740&amp;page=1&amp;kind=2</guid>
@@ -146,6 +146,14 @@
             <pubDate>Fri, 11 Feb 2022 09:15:07 GMT</pubDate>
             <content:encoded><![CDATA[인텔리빅스의 산업안전 솔루션은 현장 CCTV를 비전AI와 AI Edge Box로 분석해 다양한 산업 현장의 위험 요소를 실시간으로 확인하고 현장의 안전을 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/21021101ss.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[어도비 마젠토 기반 사이트들, 지불카드 스키밍 공격에 당해]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104727&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104727&amp;page=1&amp;kind=1</guid>
+            <pubDate>Fri, 11 Feb 2022 03:14:57 GMT</pubDate>
+            <content:encoded><![CDATA[마젠토 1(Magento 1)이라는 온라인 커머스 플랫폼을 기반으로 한 웹사이트들이 해킹 공격 세례를 받고 있다는 보고가 나왔다. 최근에는 웹 스키머를 활...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/mag-thumb-0211.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[캘리포니아의 대학 기관, 랜섬웨어 공격에 당해]]></title>
@@ -229,14 +237,6 @@
             <guid>https://www.boannews.com/media/view.asp?idx=104710&amp;page=1&amp;kind=2</guid>
             <pubDate>Fri, 11 Feb 2022 00:58:21 GMT</pubDate>
             <content:encoded><![CDATA[과학기술정보통신부 용홍택 제1차관이 지난 10일 나노종합기술원을 방문해 ‘반도체 소부장 테스트베드’ 운영 실태를 점검하고, 나노종기원 직원들을 격려했다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[LG CNS-애자일소다, ‘AI 강화학습 최적화 사업 공동 개발’ MOU]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104711&amp;page=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104711&amp;page=1&amp;kind=3</guid>
-            <pubDate>Fri, 11 Feb 2022 00:58:21 GMT</pubDate>
-            <content:encoded><![CDATA[LG CNS가 애자일소다(AgileSoDA)와 ‘AI 강화학습 최적화 사업 공동 개발 업무협약’을 체결했다. 양사는 이번 협약을 통해 금융·제조 분야 등의...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/2-90(295).jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

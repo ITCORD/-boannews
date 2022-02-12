@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-02-12T17:16:02.300Z</updated>
+    <updated>2022-02-12T18:18:59.415Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[사이버 보안 대표기업 2022년 출사표-15] 쏘마]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104405&amp;page=1&amp;mkind=1&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104405&amp;page=1&amp;mkind=1&amp;kind=3"/>
+        <updated>2022-02-12T18:17:23.595Z</updated>
+        <content type="html"><![CDATA[쏘마는 창업 6년 차에 접어들었다. 특히 지금까지 엔드포인트 위협 헌팅 플랫폼인 ‘몬스터’ 개발에 많은 노력을 기울여왔는데, 2021년에는 최근 글로벌 시장에서 가장 인정받는 보안제품 평가 중 하나인 MITRE ATT&amp;CK Evaluation에 참여해서 ‘몬스터’의 위...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사이버 보안 대표기업 2022년 출사표-14] 아스트론시큐리티]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=104406&amp;page=1&amp;mkind=1&amp;kind=3</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=104697&amp;page=1&amp;mkind=1&amp;kind=3"/>
         <updated>2022-02-11T00:58:41.564Z</updated>
         <content type="html"><![CDATA[파수(이하 파수, 대표 조규곤)는 10일 오후 공시를 통해 2021년 연간 실적을 발표했다. 파수는 연결 기준으로 지난해 역대 최대의 매출과 영업이익, 당기순이익을 기록하며 흑자 전환에 성공했다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Weekly Security Premium Report 제37호 발간! IT/보안 기술 관점의 2021년 결산]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104696&amp;page=1&amp;mkind=1&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104696&amp;page=1&amp;mkind=1&amp;kind=3"/>
-        <updated>2022-02-10T10:17:10.024Z</updated>
-        <content type="html"><![CDATA[2월 10일 발간된 ‘Weekly Security Premium Report’ 제37호에는 &lt;보안 심층 리포트&gt; 코너에서 IT 및 보안 기술의 관점에서 되돌아본 2021년의 주요 이슈와 올해 1월 발생한 주요 사건들에 대해 집중적으로 살펴보는 기회를 가졌다....]]></content>
     </entry>
 </feed>

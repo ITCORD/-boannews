@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 12 Feb 2022 17:16:02 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Feb 2022 18:18:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[클레이스왑 해킹으로 드러난 BGP Hijacking 공격기법, 도대체 뭐길래? (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104743&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104743&amp;page=1&amp;kind=1</guid>
+            <pubDate>Sat, 12 Feb 2022 18:17:06 GMT</pubDate>
+            <content:encoded><![CDATA[지난 2월 3일 국내 최대 규모 디파이(Defi, 탈중앙화 금융) 서비스 ‘클레이스왑(KLAYswap)’에서 22억 규모에 달하는 가상자산(암호화폐)이 탈...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/20220213claymain-s.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[주말판] 대화형 인공지능과 챗봇, 어디까지 와 있나 (보안뉴스 ─ 전체기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104741&amp;page=1&amp;kind=4</link>
@@ -80,14 +88,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/apple-thumb-0211.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[어도비 마젠토 기반 사이트들, 지불카드 스키밍 공격에 당해 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104727&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104727&amp;page=1&amp;kind=1</guid>
-            <pubDate>Fri, 11 Feb 2022 03:14:57 GMT</pubDate>
-            <content:encoded><![CDATA[마젠토 1(Magento 1)이라는 온라인 커머스 플랫폼을 기반으로 한 웹사이트들이 해킹 공격 세례를 받고 있다는 보고가 나왔다. 최근에는 웹 스키머를 활...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/mag-thumb-0211.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[‘2022년 방위산업기술 보호체계 구축·운영 지원 사업’ 참여기업 모집 (보안뉴스 ─ 전체기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104740&amp;page=1&amp;kind=2</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104740&amp;page=1&amp;kind=2</guid>
@@ -146,6 +146,14 @@
             <pubDate>Fri, 11 Feb 2022 09:15:07 GMT</pubDate>
             <content:encoded><![CDATA[인텔리빅스의 산업안전 솔루션은 현장 CCTV를 비전AI와 AI Edge Box로 분석해 다양한 산업 현장의 위험 요소를 실시간으로 확인하고 현장의 안전을 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/21021101ss.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[어도비 마젠토 기반 사이트들, 지불카드 스키밍 공격에 당해 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104727&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104727&amp;page=1&amp;kind=1</guid>
+            <pubDate>Fri, 11 Feb 2022 03:14:57 GMT</pubDate>
+            <content:encoded><![CDATA[마젠토 1(Magento 1)이라는 온라인 커머스 플랫폼을 기반으로 한 웹사이트들이 해킹 공격 세례를 받고 있다는 보고가 나왔다. 최근에는 웹 스키머를 활...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/mag-thumb-0211.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[캘리포니아의 대학 기관, 랜섬웨어 공격에 당해 (보안뉴스 ─ 전체기사)]]></title>
@@ -229,14 +237,6 @@
             <guid>https://www.boannews.com/media/view.asp?idx=104710&amp;page=1&amp;kind=2</guid>
             <pubDate>Fri, 11 Feb 2022 00:58:21 GMT</pubDate>
             <content:encoded><![CDATA[과학기술정보통신부 용홍택 제1차관이 지난 10일 나노종합기술원을 방문해 ‘반도체 소부장 테스트베드’ 운영 실태를 점검하고, 나노종기원 직원들을 격려했다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[LG CNS-애자일소다, ‘AI 강화학습 최적화 사업 공동 개발’ MOU (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104711&amp;page=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104711&amp;page=1&amp;kind=3</guid>
-            <pubDate>Fri, 11 Feb 2022 00:58:21 GMT</pubDate>
-            <content:encoded><![CDATA[LG CNS가 애자일소다(AgileSoDA)와 ‘AI 강화학습 최적화 사업 공동 개발 업무협약’을 체결했다. 양사는 이번 협약을 통해 금융·제조 분야 등의...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/2-90(295).jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[클레이스왑, 22억 규모 가상자산 해킹 파장! 디파이 서비스 보안 위협 커지나 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
@@ -343,6 +343,14 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/20220207jin-s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[코발트 스트라이크 악성코드, 취약한 MS-SQL 서버 대상으로 유포 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104733&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104733&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Sat, 12 Feb 2022 03:14:46 GMT</pubDate>
+            <content:encoded><![CDATA[최근 코발트 스트라이크 악성코드가 취약한 MS-SQL 서버를 대상으로 유포 중인 것을 확인했다고 안랩 ASEC 분석팀이 밝혔다. MS-SQL 서버는 윈도우 환경의...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/20220211AHN-S.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
             <title><![CDATA[중국의 APT 앤트라이언, 대만 금융 기관들을 집중적으로 노려 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104599&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104599&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
@@ -367,14 +375,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/12499913_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[코발트 스트라이크 악성코드, 취약한 MS-SQL 서버 대상으로 유포 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104733&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104733&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Sat, 12 Feb 2022 03:14:46 GMT</pubDate>
-            <content:encoded><![CDATA[최근 코발트 스트라이크 악성코드가 취약한 MS-SQL 서버를 대상으로 유포 중인 것을 확인했다고 안랩 ASEC 분석팀이 밝혔다. MS-SQL 서버는 윈도우 환경의...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/20220211AHN-S.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
             <title><![CDATA[내가 과속운전 벌점을? 교통법규 위반 사칭 스미싱 유포 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104661&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104661&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
@@ -397,6 +397,13 @@
             <pubDate>Sat, 12 Feb 2022 10:14:49 GMT</pubDate>
             <content:encoded><![CDATA[2월 10일 발간된 ‘Weekly Security Premium Report’ 제37호에는 &lt;보안 심층 리포트&gt; 코너에서 IT 및 보안 기술의 관점에서...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/20220210REPORT-SM.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[[사이버 보안 대표기업 2022년 출사표-15] 쏘마 (보안뉴스 ─ SECURITY)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104405&amp;page=1&amp;mkind=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104405&amp;page=1&amp;mkind=1&amp;kind=3</guid>
+            <pubDate>Sat, 12 Feb 2022 18:17:23 GMT</pubDate>
+            <content:encoded><![CDATA[쏘마는 창업 6년 차에 접어들었다. 특히 지금까지 엔드포인트 위협 헌팅 플랫폼인 ‘몬스터’ 개발에 많은 노력을 기울여왔는데, 2021년에는 최근 글로벌 시장에서 가장 인정받는 보안제품 평가 중 하나인 MITRE ATT&amp;CK Evaluation에 참여해서 ‘몬스터’의 위...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[사이버 보안 대표기업 2022년 출사표-14] 아스트론시큐리티 (보안뉴스 ─ SECURITY)]]></title>
@@ -509,13 +516,6 @@
             <guid>https://www.boannews.com/media/view.asp?idx=104697&amp;page=1&amp;mkind=1&amp;kind=3</guid>
             <pubDate>Fri, 11 Feb 2022 00:58:41 GMT</pubDate>
             <content:encoded><![CDATA[파수(이하 파수, 대표 조규곤)는 10일 오후 공시를 통해 2021년 연간 실적을 발표했다. 파수는 연결 기준으로 지난해 역대 최대의 매출과 영업이익, 당기순이익을 기록하며 흑자 전환에 성공했다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[Weekly Security Premium Report 제37호 발간! IT/보안 기술 관점의 2021년 결산 (보안뉴스 ─ SECURITY)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104696&amp;page=1&amp;mkind=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104696&amp;page=1&amp;mkind=1&amp;kind=3</guid>
-            <pubDate>Thu, 10 Feb 2022 10:17:10 GMT</pubDate>
-            <content:encoded><![CDATA[2월 10일 발간된 ‘Weekly Security Premium Report’ 제37호에는 &lt;보안 심층 리포트&gt; 코너에서 IT 및 보안 기술의 관점에서 되돌아본 2021년의 주요 이슈와 올해 1월 발생한 주요 사건들에 대해 집중적으로 살펴보는 기회를 가졌다....]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[과기정통부 용홍택 제1차관, 인공지능 활용 신약 개발 기업 현장 방문 (보안뉴스 ─ IT)]]></title>
