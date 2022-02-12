@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 12 Feb 2022 06:19:18 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Feb 2022 07:15:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -88,6 +88,14 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/arab-thumb-0209.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[긴급] 유명 손해보험사 위장 피싱 메일로 ‘Remcos’ 악성코드 유포]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104732&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104732&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Sat, 12 Feb 2022 02:04:14 GMT</pubDate>
+            <content:encoded><![CDATA[국내 유명 손해보험사를 위장한 피싱 메일이 유포되고 있어 사용자들의 주의가 필요하다. 피싱 메일에는 RAT(원격제어) 악성코드인 ‘Remcos’가 포함돼 있는 것...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/20220211esrc-s.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
             <title><![CDATA[우크라이나를 겨냥한 러시아의 사이버 공격 증가 중]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104636&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104636&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
@@ -102,14 +110,6 @@
             <pubDate>Wed, 09 Feb 2022 16:22:50 GMT</pubDate>
             <content:encoded><![CDATA[UN이 북한의 핵 무기 및 미사일 개발과 관련된 새로운 보고서를 발표했다. 북한이 UN안보리 협약을 위반해가며 계속해서 무기 개발 능력을 강화하고 있다는 내용이다...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/nk-thumb-0207.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[긴급] 유명 손해보험사 위장 피싱 메일로 ‘Remcos’ 악성코드 유포]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104732&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104732&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Sat, 12 Feb 2022 02:04:14 GMT</pubDate>
-            <content:encoded><![CDATA[국내 유명 손해보험사를 위장한 피싱 메일이 유포되고 있어 사용자들의 주의가 필요하다. 피싱 메일에는 RAT(원격제어) 악성코드인 ‘Remcos’가 포함돼 있는 것...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/20220211esrc-s.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[중국의 APT 앤트라이언, 대만 금융 기관들을 집중적으로 노려]]></title>
@@ -152,20 +152,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/20220210_mail1-S.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
-            <title><![CDATA[이중 인증 도입 비율 늘려가는 구글, 2022년에도 행보는 계속돼]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104669&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104669&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Sat, 12 Feb 2022 02:04:14 GMT</pubDate>
-            <content:encoded><![CDATA[1억 5천만 명이 넘는 구글 사용자들의 계정 침해 가능성이 절반 수준으로 떨어졌으며, 이는 이중 인증을 도입했기 때문이라고 구글이 발표했다. 이 1억 5천만 사용...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/auth-thumb-0209.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[코발트 스트라이크 악성코드, 취약한 MS-SQL 서버 대상으로 유포]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104733&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104733&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Sat, 12 Feb 2022 03:14:46 GMT</pubDate>
             <content:encoded><![CDATA[최근 코발트 스트라이크 악성코드가 취약한 MS-SQL 서버를 대상으로 유포 중인 것을 확인했다고 안랩 ASEC 분석팀이 밝혔다. MS-SQL 서버는 윈도우 환경의...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/20220211AHN-S.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[이중 인증 도입 비율 늘려가는 구글, 2022년에도 행보는 계속돼]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104669&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104669&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Sat, 12 Feb 2022 02:04:14 GMT</pubDate>
+            <content:encoded><![CDATA[1억 5천만 명이 넘는 구글 사용자들의 계정 침해 가능성이 절반 수준으로 떨어졌으며, 이는 이중 인증을 도입했기 때문이라고 구글이 발표했다. 이 1억 5천만 사용...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/auth-thumb-0209.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=2</id>
     <title>보안뉴스 ─ IT</title>
-    <updated>2022-02-12T06:19:18.519Z</updated>
+    <updated>2022-02-12T07:15:18.736Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[과기정통부 용홍택 제1차관, 인공지능 활용 신약 개발 기업 현장 방문]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104737&amp;page=1&amp;mkind=2&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104737&amp;page=1&amp;mkind=2&amp;kind=2"/>
+        <updated>2022-02-12T07:13:54.152Z</updated>
+        <content type="html"><![CDATA[과학기술정보통신부(이하 과기정통부) 용홍택 제1차관은 10대 국가필수전략기술로 선정된 첨단 바이오 분야의 기술공감 연구 현장 점검을 위해 지난 11일 스탠다임을 방문해 간담회를 가졌다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[교육부, ‘교육 분야 인공지능 윤리원칙’ 마련을 위한 공청회 개최]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=104736&amp;page=1&amp;mkind=2&amp;kind=2</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=104717&amp;page=1&amp;mkind=2&amp;kind=2"/>
         <updated>2022-02-11T00:58:51.246Z</updated>
         <content type="html"><![CDATA[행정안전부는 지난 10일 공공데이터전략위원회 영상회의를 개최했다고 밝혔다. 이날 회의에서는 데이터에 기반한 과학적 행정을 통해 디지털 대전환 시대 정부역량을 강화하기 위한 ‘공공데이터정책 발전 방향’ 등의 안건에 대해 심의·의결하고, 공공데이터 정책 추진과 관련한 다양...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한-미, 양국 간 반도체산업 투자 촉진을 위해 협력한다]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104719&amp;page=1&amp;mkind=2&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104719&amp;page=1&amp;mkind=2&amp;kind=2"/>
-        <updated>2022-02-11T00:58:51.250Z</updated>
-        <content type="html"><![CDATA[산업통상자원부는 한·미 간 반도체 투자유치 촉진을 위해 ‘한-미 반도체 파트너십 투자설명회’를 지난 10~11일 양일간 개최했다. 금번 설명회는 지난 2021년 12월 제1차 한미 반도체 파트너십 대화에서의 산업부와 미국 상무부 간 합의를 바탕으로 한국은 KOTRA의 ...]]></content>
     </entry>
 </feed>
