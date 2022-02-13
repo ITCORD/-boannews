@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 13 Feb 2022 00:58:59 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Feb 2022 02:05:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,6 +24,14 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/hack-thumb-0207.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[긴급] 유명 손해보험사 위장 피싱 메일로 ‘Remcos’ 악성코드 유포]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104732&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104732&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Sat, 12 Feb 2022 02:04:14 GMT</pubDate>
+            <content:encoded><![CDATA[국내 유명 손해보험사를 위장한 피싱 메일이 유포되고 있어 사용자들의 주의가 필요하다. 피싱 메일에는 RAT(원격제어) 악성코드인 ‘Remcos’가 포함돼 있는 것...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/20220211esrc-s.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
             <title><![CDATA[시큐레터 임차성 대표 “세계진출 첫발, 최고의 인재들과 함께 하고파”]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104568&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104568&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
@@ -38,14 +46,6 @@
             <pubDate>Tue, 08 Feb 2022 23:16:06 GMT</pubDate>
             <content:encoded><![CDATA[1월에도 IT 분야에는 여러 가지 일들이 일어났다. IT 분야 내부에서 일어난 일도 있지만, IT 분야에 커다란 충격을 줄 만한 사건들도 계속해서 발생하는 중이다...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/it-thumb-0207.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[긴급] 유명 손해보험사 위장 피싱 메일로 ‘Remcos’ 악성코드 유포]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104732&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104732&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Sat, 12 Feb 2022 02:04:14 GMT</pubDate>
-            <content:encoded><![CDATA[국내 유명 손해보험사를 위장한 피싱 메일이 유포되고 있어 사용자들의 주의가 필요하다. 피싱 메일에는 RAT(원격제어) 악성코드인 ‘Remcos’가 포함돼 있는 것...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/20220211esrc-s.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[리눅스 시스템과 서버 노리는 사이버 위협들, 크게 증가 중]]></title>
@@ -104,20 +104,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/20220210_mail1-S.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
-            <title><![CDATA[우크라이나를 겨냥한 러시아의 사이버 공격 증가 중]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104636&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104636&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Fri, 11 Feb 2022 00:58:32 GMT</pubDate>
-            <content:encoded><![CDATA[러시아의 APT 단체가 우크라이나를 겨냥한 악성 사이버 공격 행위의 수위를 높이고 있다. 최근 국제 정세의 가장 뜨거운 화젯거리인 러시아-우크라이나 사태와 관련이...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/uk-thumb-0208.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[진앤현시큐리티, 주한 미국대사관 주최 보안 세미나에서 美 보안기업 대상으로 발표]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104590&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104590&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
             <pubDate>Fri, 11 Feb 2022 21:13:23 GMT</pubDate>
             <content:encoded><![CDATA[보안전문기업 진앤현시큐리티(대표이사 김병익)가 최근 미국 현지 보안기업들을 대상으로 한 보안세미나에서 대한민국 방산/공공시장의 사이버 보안현황에 대해 발표를 진...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/20220207jin-s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[우크라이나를 겨냥한 러시아의 사이버 공격 증가 중]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104636&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104636&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Fri, 11 Feb 2022 00:58:32 GMT</pubDate>
+            <content:encoded><![CDATA[러시아의 APT 단체가 우크라이나를 겨냥한 악성 사이버 공격 행위의 수위를 높이고 있다. 최근 국제 정세의 가장 뜨거운 화젯거리인 러시아-우크라이나 사태와 관련이...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/uk-thumb-0208.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[UN, “북한은 핵 무기 개발 위해 사이버 공격 기술 발휘한다”]]></title>
@@ -152,20 +152,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/tai-thumb-0207.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[클레이스왑 해킹으로 드러난 BGP Hijacking 공격기법, 도대체 뭐길래?]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104743&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104743&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Sun, 13 Feb 2022 02:03:27 GMT</pubDate>
+            <content:encoded><![CDATA[지난 2월 3일 국내 최대 규모 디파이(Defi, 탈중앙화 금융) 서비스 ‘클레이스왑(KLAYswap)’에서 22억 규모에 달하는 가상자산(암호화폐)이 탈취되는 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/20220213claymain-s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Weekly Security Premium Report 제37호 발간! IT/보안 기술 관점의 2021년 결산]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104696&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104696&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
             <pubDate>Sat, 12 Feb 2022 10:14:49 GMT</pubDate>
             <content:encoded><![CDATA[2월 10일 발간된 ‘Weekly Security Premium Report’ 제37호에는 &lt;보안 심층 리포트&gt; 코너에서 IT 및 보안 기술의 관점에서...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/20220210REPORT-SM.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[이중 인증 도입 비율 늘려가는 구글, 2022년에도 행보는 계속돼]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104669&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104669&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Sat, 12 Feb 2022 02:04:14 GMT</pubDate>
-            <content:encoded><![CDATA[1억 5천만 명이 넘는 구글 사용자들의 계정 침해 가능성이 절반 수준으로 떨어졌으며, 이는 이중 인증을 도입했기 때문이라고 구글이 발표했다. 이 1억 5천만 사용...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/auth-thumb-0209.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
