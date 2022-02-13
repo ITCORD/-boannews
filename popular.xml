@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 13 Feb 2022 03:17:11 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Feb 2022 04:20:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -112,6 +112,14 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/20220207jin-s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[클레이스왑 해킹으로 드러난 BGP Hijacking 공격기법, 도대체 뭐길래?]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104743&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104743&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Sun, 13 Feb 2022 02:03:27 GMT</pubDate>
+            <content:encoded><![CDATA[지난 2월 3일 국내 최대 규모 디파이(Defi, 탈중앙화 금융) 서비스 ‘클레이스왑(KLAYswap)’에서 22억 규모에 달하는 가상자산(암호화폐)이 탈취되는 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/20220213claymain-s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[우크라이나를 겨냥한 러시아의 사이버 공격 증가 중]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104636&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104636&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
@@ -150,14 +158,6 @@
             <pubDate>Thu, 10 Feb 2022 08:17:52 GMT</pubDate>
             <content:encoded><![CDATA[중국 정부의 지원을 받는 해커들 중 앤트라이언(Antlion)이 최소 지난 18개월 동안 대만의 금융 기관들을 공격해 왔다는 사실이 드러났다. 앤트라이언은 피해 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/tai-thumb-0207.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[클레이스왑 해킹으로 드러난 BGP Hijacking 공격기법, 도대체 뭐길래?]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104743&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104743&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Sun, 13 Feb 2022 02:03:27 GMT</pubDate>
-            <content:encoded><![CDATA[지난 2월 3일 국내 최대 규모 디파이(Defi, 탈중앙화 금융) 서비스 ‘클레이스왑(KLAYswap)’에서 22억 규모에 달하는 가상자산(암호화폐)이 탈취되는 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/20220213claymain-s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Weekly Security Premium Report 제37호 발간! IT/보안 기술 관점의 2021년 결산]]></title>
