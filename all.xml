@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 13 Feb 2022 09:17:05 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Feb 2022 10:17:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -295,20 +295,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/msit_0209001_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[KISA·이스트시큐리티 ESRC 등 보안기관·기업 사칭 피싱 이메일 연이어 유포 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104668&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104668&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Thu, 10 Feb 2022 06:18:15 GMT</pubDate>
-            <content:encoded><![CDATA[최근 한국인터넷진흥원(KISA)와 이스트시큐리티 시큐리티대응센터(ESRC) 등 우리나라의 보안전문 공공기관과 대표적인 보안전문기업의 보안대응센터를 사칭한 피싱 이...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/20220209ESRC-SM.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
             <title><![CDATA[클레이스왑 해킹으로 드러난 BGP Hijacking 공격기법, 도대체 뭐길래? (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104743&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104743&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Sun, 13 Feb 2022 02:03:27 GMT</pubDate>
             <content:encoded><![CDATA[지난 2월 3일 국내 최대 규모 디파이(Defi, 탈중앙화 금융) 서비스 ‘클레이스왑(KLAYswap)’에서 22억 규모에 달하는 가상자산(암호화폐)이 탈취되는 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/20220213claymain-s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[KISA·이스트시큐리티 ESRC 등 보안기관·기업 사칭 피싱 이메일 연이어 유포 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104668&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104668&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Thu, 10 Feb 2022 06:18:15 GMT</pubDate>
+            <content:encoded><![CDATA[최근 한국인터넷진흥원(KISA)와 이스트시큐리티 시큐리티대응센터(ESRC) 등 우리나라의 보안전문 공공기관과 대표적인 보안전문기업의 보안대응센터를 사칭한 피싱 이...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/20220209ESRC-SM.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[코발트 스트라이크 악성코드, 취약한 MS-SQL 서버 대상으로 유포 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
