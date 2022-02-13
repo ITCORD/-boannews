@@ -4,9 +4,17 @@
         <title>보안뉴스 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 13 Feb 2022 14:15:50 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Feb 2022 15:17:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인공지능과 사이버 보안, 궁합이 좋긴 한 걸까?]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104742&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104742&amp;page=1&amp;kind=1</guid>
+            <pubDate>Sun, 13 Feb 2022 15:15:49 GMT</pubDate>
+            <content:encoded><![CDATA[사이버 보안 업계에서 한 때 인공지능의 바람이 거세게 몰아쳤던 적이 있지만 아직까지 ‘히트 상품’은 나온 적이 없다. 이제는 오히려 ‘왜 인공지능과 보안 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/aicy-thumb-0212.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[클레이스왑 해킹으로 드러난 BGP Hijacking 공격기법, 도대체 뭐길래?]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104743&amp;page=1&amp;kind=1</link>
@@ -80,14 +88,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/php-thumb-0211(0).jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[애플의 iOS와 맥OS 웹키트에서 제로데이 취약점 발견돼]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104728&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104728&amp;page=1&amp;kind=1</guid>
-            <pubDate>Fri, 11 Feb 2022 03:14:57 GMT</pubDate>
-            <content:encoded><![CDATA[애플 iOS와 맥OS의 웹키트(WebKit) 요소에서 제로데이 취약점이 발견됐다. CVE-2022-22620으로 원격 코드 실행을 가능하게 하는 취약점이라...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/apple-thumb-0211.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[‘2022년 방위산업기술 보호체계 구축·운영 지원 사업’ 참여기업 모집]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104740&amp;page=1&amp;kind=2</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104740&amp;page=1&amp;kind=2</guid>
@@ -146,6 +146,14 @@
             <pubDate>Fri, 11 Feb 2022 09:15:07 GMT</pubDate>
             <content:encoded><![CDATA[인텔리빅스의 산업안전 솔루션은 현장 CCTV를 비전AI와 AI Edge Box로 분석해 다양한 산업 현장의 위험 요소를 실시간으로 확인하고 현장의 안전을 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/21021101ss.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[애플의 iOS와 맥OS 웹키트에서 제로데이 취약점 발견돼]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104728&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104728&amp;page=1&amp;kind=1</guid>
+            <pubDate>Fri, 11 Feb 2022 03:14:57 GMT</pubDate>
+            <content:encoded><![CDATA[애플 iOS와 맥OS의 웹키트(WebKit) 요소에서 제로데이 취약점이 발견됐다. CVE-2022-22620으로 원격 코드 실행을 가능하게 하는 취약점이라...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/apple-thumb-0211.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[어도비 마젠토 기반 사이트들, 지불카드 스키밍 공격에 당해]]></title>
@@ -230,13 +238,6 @@
             <guid>https://www.boannews.com/media/view.asp?idx=104709&amp;page=1&amp;kind=3</guid>
             <pubDate>Fri, 11 Feb 2022 02:03:43 GMT</pubDate>
             <content:encoded><![CDATA[LG전자가 미래 성장동력의 핵심인 소프트웨어 분야에서 탁월한 능력을 갖춘 전문가를 적극 키우며 디지털 전환에 속도를 내고 있다. LG전자는 지난 9일 CT...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[과기정통부 용홍택 제1차관, 나노종합기술원 방문]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104710&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104710&amp;page=1&amp;kind=2</guid>
-            <pubDate>Fri, 11 Feb 2022 00:58:21 GMT</pubDate>
-            <content:encoded><![CDATA[과학기술정보통신부 용홍택 제1차관이 지난 10일 나노종합기술원을 방문해 ‘반도체 소부장 테스트베드’ 운영 실태를 점검하고, 나노종기원 직원들을 격려했다.]]></content:encoded>
         </item>
     </channel>
 </rss>

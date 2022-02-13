@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-02-13T14:15:50.327Z</updated>
+    <updated>2022-02-13T15:17:54.613Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[긴급] 유명 손해보험사 위장 피싱 메일로 ‘Remcos’ 악성코드 유포]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104732&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104732&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-02-13T15:16:08.331Z</updated>
+        <content type="html"><![CDATA[국내 유명 손해보험사를 위장한 피싱 메일이 유포되고 있어 사용자들의 주의가 필요하다. 피싱 메일에는 RAT(원격제어) 악성코드인 ‘Remcos’가 포함돼 있는 것으로 드러났다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사이버 보안 대표기업 2022년 출사표-15] 쏘마]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=104405&amp;page=1&amp;mkind=1&amp;kind=3</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=104698&amp;page=1&amp;mkind=1&amp;kind=2"/>
         <updated>2022-02-11T00:58:41.560Z</updated>
         <content type="html"><![CDATA[개인정보보호위원회(위원장 윤종인, 이하 ‘개인정보위’)는 2월 10일(목) 대한상공회의소(서울 중구)에서, 2022년 새해를 맞아 개인정보 전망과 과제에 대해 논의하기 위해 ‘신년 산업계 개인정보 정책 간담회’를 개최했다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[파수, 작년 역대 최대 매출로 흑자 전환]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104697&amp;page=1&amp;mkind=1&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104697&amp;page=1&amp;mkind=1&amp;kind=3"/>
-        <updated>2022-02-11T00:58:41.564Z</updated>
-        <content type="html"><![CDATA[파수(이하 파수, 대표 조규곤)는 10일 오후 공시를 통해 2021년 연간 실적을 발표했다. 파수는 연결 기준으로 지난해 역대 최대의 매출과 영업이익, 당기순이익을 기록하며 흑자 전환에 성공했다.]]></content>
     </entry>
 </feed>
