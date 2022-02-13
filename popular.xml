@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 13 Feb 2022 04:20:43 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Feb 2022 05:14:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -72,14 +72,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/20220209ESRC-SM.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
-            <title><![CDATA[[긴급] 베스트 바이에서 759달러 결제? 해외 결제 사칭 스미싱 다시 기승!]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104597&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104597&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Wed, 09 Feb 2022 11:13:03 GMT</pubDate>
-            <content:encoded><![CDATA[최근 해외 결제를 사칭한 스미싱이 지속적으로 유포되고 있다. 7일 오전에는 미국 대형 유통업체인 베스트 바이(Best Buy)에서 759달러가 결제됐다는 스미싱이...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/20220207SMI-MS-M.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
             <title><![CDATA[20년 전 유행했던 RLO 공격 기법, MS 365에서 다시 유행]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104667&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104667&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
@@ -88,12 +80,28 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/arab-thumb-0209.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[긴급] 베스트 바이에서 759달러 결제? 해외 결제 사칭 스미싱 다시 기승!]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104597&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104597&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Wed, 09 Feb 2022 11:13:03 GMT</pubDate>
+            <content:encoded><![CDATA[최근 해외 결제를 사칭한 스미싱이 지속적으로 유포되고 있다. 7일 오전에는 미국 대형 유통업체인 베스트 바이(Best Buy)에서 759달러가 결제됐다는 스미싱이...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/20220207SMI-MS-M.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
             <title><![CDATA[코발트 스트라이크 악성코드, 취약한 MS-SQL 서버 대상으로 유포]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104733&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104733&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Sat, 12 Feb 2022 03:14:46 GMT</pubDate>
             <content:encoded><![CDATA[최근 코발트 스트라이크 악성코드가 취약한 MS-SQL 서버를 대상으로 유포 중인 것을 확인했다고 안랩 ASEC 분석팀이 밝혔다. MS-SQL 서버는 윈도우 환경의...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/20220211AHN-S.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[클레이스왑 해킹으로 드러난 BGP Hijacking 공격기법, 도대체 뭐길래?]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104743&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104743&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Sun, 13 Feb 2022 02:03:27 GMT</pubDate>
+            <content:encoded><![CDATA[지난 2월 3일 국내 최대 규모 디파이(Defi, 탈중앙화 금융) 서비스 ‘클레이스왑(KLAYswap)’에서 22억 규모에 달하는 가상자산(암호화폐)이 탈취되는 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/20220213claymain-s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[내가 과속운전 벌점을? 교통법규 위반 사칭 스미싱 유포]]></title>
@@ -110,14 +118,6 @@
             <pubDate>Fri, 11 Feb 2022 21:13:23 GMT</pubDate>
             <content:encoded><![CDATA[보안전문기업 진앤현시큐리티(대표이사 김병익)가 최근 미국 현지 보안기업들을 대상으로 한 보안세미나에서 대한민국 방산/공공시장의 사이버 보안현황에 대해 발표를 진...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/20220207jin-s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[클레이스왑 해킹으로 드러난 BGP Hijacking 공격기법, 도대체 뭐길래?]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104743&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104743&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Sun, 13 Feb 2022 02:03:27 GMT</pubDate>
-            <content:encoded><![CDATA[지난 2월 3일 국내 최대 규모 디파이(Defi, 탈중앙화 금융) 서비스 ‘클레이스왑(KLAYswap)’에서 22억 규모에 달하는 가상자산(암호화폐)이 탈취되는 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/20220213claymain-s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[우크라이나를 겨냥한 러시아의 사이버 공격 증가 중]]></title>
@@ -160,12 +160,12 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/tai-thumb-0207.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Weekly Security Premium Report 제37호 발간! IT/보안 기술 관점의 2021년 결산]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104696&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104696&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
-            <pubDate>Sat, 12 Feb 2022 10:14:49 GMT</pubDate>
-            <content:encoded><![CDATA[2월 10일 발간된 ‘Weekly Security Premium Report’ 제37호에는 &lt;보안 심층 리포트&gt; 코너에서 IT 및 보안 기술의 관점에서...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/20220210REPORT-SM.JPG" length="0" type="image/JPG"/>
+            <title><![CDATA[[주말판] 대화형 인공지능과 챗봇, 어디까지 와 있나]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104741&amp;page=1&amp;kind=4&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104741&amp;page=1&amp;kind=4&amp;search=title&amp;find=</guid>
+            <pubDate>Sun, 13 Feb 2022 05:13:07 GMT</pubDate>
+            <content:encoded><![CDATA[현대의 챗봇들은 아직 사람과 대화한다는 느낌을 주지 못한다. 그리고 몇 마디 대화를 하면 더 이어가기가 힘들다. 광고에 대대적으로 나오는 것만큼 다양한 상황에서 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/ai-thumb-0211.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
