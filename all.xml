@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 13 Feb 2022 22:17:21 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Feb 2022 23:17:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,20 +248,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/20220211esrc-s.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
-            <title><![CDATA[능동적 보안 전문가 혹은 윤리적 해커가 되고 싶은 사람이라면 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104600&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104600&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Tue, 08 Feb 2022 01:02:23 GMT</pubDate>
-            <content:encoded><![CDATA[사이버 보안 인재 부족 문제가 심각하다 못해 정점을 향해 치닫고 있다. 사이버 공격 사건은 계속해서 증가하고 있는데, 그런 일들에 대응해야 하는 사이버 보안 전문...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/hack-thumb-0207.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[클레이스왑 해킹으로 드러난 BGP Hijacking 공격기법, 도대체 뭐길래? (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104743&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104743&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Sun, 13 Feb 2022 02:03:27 GMT</pubDate>
             <content:encoded><![CDATA[지난 2월 3일 국내 최대 규모 디파이(Defi, 탈중앙화 금융) 서비스 ‘클레이스왑(KLAYswap)’에서 22억 규모에 달하는 가상자산(암호화폐)이 탈취되는 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/20220213claymain-s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[능동적 보안 전문가 혹은 윤리적 해커가 되고 싶은 사람이라면 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104600&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104600&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Tue, 08 Feb 2022 01:02:23 GMT</pubDate>
+            <content:encoded><![CDATA[사이버 보안 인재 부족 문제가 심각하다 못해 정점을 향해 치닫고 있다. 사이버 공격 사건은 계속해서 증가하고 있는데, 그런 일들에 대응해야 하는 사이버 보안 전문...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/hack-thumb-0207.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[리눅스 시스템과 서버 노리는 사이버 위협들, 크게 증가 중 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
