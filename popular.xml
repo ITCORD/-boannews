@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Feb 2022 00:53:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Feb 2022 01:58:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -40,20 +40,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/lin-thumb-0210.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[2022년 1월, IT/보안 분야에 파장을 일으킨 대표적인 사건들]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104603&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104603&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Tue, 08 Feb 2022 23:16:06 GMT</pubDate>
-            <content:encoded><![CDATA[1월에도 IT 분야에는 여러 가지 일들이 일어났다. IT 분야 내부에서 일어난 일도 있지만, IT 분야에 커다란 충격을 줄 만한 사건들도 계속해서 발생하는 중이다...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/it-thumb-0207.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[코발트 스트라이크 악성코드, 취약한 MS-SQL 서버 대상으로 유포]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104733&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104733&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Sat, 12 Feb 2022 03:14:46 GMT</pubDate>
             <content:encoded><![CDATA[최근 코발트 스트라이크 악성코드가 취약한 MS-SQL 서버를 대상으로 유포 중인 것을 확인했다고 안랩 ASEC 분석팀이 밝혔다. MS-SQL 서버는 윈도우 환경의...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/20220211AHN-S.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[2022년 1월, IT/보안 분야에 파장을 일으킨 대표적인 사건들]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104603&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104603&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Tue, 08 Feb 2022 23:16:06 GMT</pubDate>
+            <content:encoded><![CDATA[1월에도 IT 분야에는 여러 가지 일들이 일어났다. IT 분야 내부에서 일어난 일도 있지만, IT 분야에 커다란 충격을 줄 만한 사건들도 계속해서 발생하는 중이다...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/it-thumb-0207.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2022년 1월 랜섬웨어 피해 3.8배 늘었다! 랜섬웨어 침해사고 주의보 발령]]></title>
@@ -136,14 +136,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/nk-thumb-0207.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[2022년 기업 ISMS 보안 전문가 채용소식↑... 기업별 요구 능력 달라]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104582&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104582&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
-            <pubDate>Fri, 11 Feb 2022 02:03:51 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 임인년 새해가 시작된 지 벌써 한 달이 지났다. 2022년 역시 지난해와 마찬가지로 기업의 주요 업무형태로 자리 잡은 재택근무와 원격근무, 그에 따른 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/19701779_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[중국의 APT 앤트라이언, 대만 금융 기관들을 집중적으로 노려]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104599&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104599&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
@@ -166,6 +158,14 @@
             <pubDate>Sun, 13 Feb 2022 16:20:47 GMT</pubDate>
             <content:encoded><![CDATA[2월 10일 발간된 ‘Weekly Security Premium Report’ 제37호에는 &lt;보안 심층 리포트&gt; 코너에서 IT 및 보안 기술의 관점에서...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/20220210REPORT-SM.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[메타버스서 국민이 정책 과정에 아바타로 직접 참여 가능해진다]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104739&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104739&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
+            <pubDate>Mon, 14 Feb 2022 01:56:11 GMT</pubDate>
+            <content:encoded><![CDATA[국민권익위원회는 메타버스 기반의 가상 원격근무시스템을 시범 운용해 재택근무 출장 중에도 시공간 제약 없이 업무처리가 가능하도록 시스템을 개선해 나갈 계획이다.]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/2-105(295).jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
