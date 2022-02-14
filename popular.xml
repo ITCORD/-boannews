@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Feb 2022 03:17:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Feb 2022 04:21:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -32,20 +32,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/hack-thumb-0207.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[리눅스 시스템과 서버 노리는 사이버 위협들, 크게 증가 중]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104699&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104699&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Fri, 11 Feb 2022 03:15:06 GMT</pubDate>
-            <content:encoded><![CDATA[클라우드 서비스, 가상기기 호스트, 컨테이너 기반 인프라가 늘어남에 따라 리눅스에 대한 인기와 관심도 덩달아 늘어나고 있다. 중요한 건 이 관심의 대부분이 사이버...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/lin-thumb-0210.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[코발트 스트라이크 악성코드, 취약한 MS-SQL 서버 대상으로 유포]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104733&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104733&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Sat, 12 Feb 2022 03:14:46 GMT</pubDate>
             <content:encoded><![CDATA[최근 코발트 스트라이크 악성코드가 취약한 MS-SQL 서버를 대상으로 유포 중인 것을 확인했다고 안랩 ASEC 분석팀이 밝혔다. MS-SQL 서버는 윈도우 환경의...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/20220211AHN-S.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[리눅스 시스템과 서버 노리는 사이버 위협들, 크게 증가 중]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104699&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104699&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Fri, 11 Feb 2022 03:15:06 GMT</pubDate>
+            <content:encoded><![CDATA[클라우드 서비스, 가상기기 호스트, 컨테이너 기반 인프라가 늘어남에 따라 리눅스에 대한 인기와 관심도 덩달아 늘어나고 있다. 중요한 건 이 관심의 대부분이 사이버...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/lin-thumb-0210.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2022년 1월, IT/보안 분야에 파장을 일으킨 대표적인 사건들]]></title>
