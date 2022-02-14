@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-02-14T01:58:01.844Z</updated>
+    <updated>2022-02-14T02:27:47.984Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[금융보안원, 금융 디지털 전환·데이터 혁신에 필요한 금융보안 전문인력 양성]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104746&amp;page=1&amp;mkind=1&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104746&amp;page=1&amp;mkind=1&amp;kind=2"/>
+        <updated>2022-02-14T02:26:10.074Z</updated>
+        <content type="html"><![CDATA[금융보안원(원장 김철웅)은 금융의 디지털 전환 가속화, 금융의 사이버 위협 지능화·고도화, 금융과 혁신 기술 융합 등에 따라 필요한 금융보안 전문인력을 양성하기 위해 2022년도 총 82개 교육과정을 운영해 연간 90만 명에 대해 교육을 실시할 계획이라고 밝혔다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[인공지능과 사이버 보안, 궁합이 좋긴 한 걸까?]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104742&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104742&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-02-14T02:26:10.075Z</updated>
+        <content type="html"><![CDATA[사이버 보안 업계에서 한 때 인공지능의 바람이 거세게 몰아쳤던 적이 있지만 아직까지 ‘히트 상품’은 나온 적이 없다. 이제는 오히려 ‘왜 인공지능과 보안 업계는 서로 어울리지 않는 걸까?’가 궁금해질 지경이다. 하지만 정말 보안 분야와 인공지능은 안 어울릴까? 아니면 ...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[클레이스왑 해킹으로 드러난 BGP Hijacking 공격기법, 도대체 뭐길래?]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=104743&amp;page=1&amp;mkind=1&amp;kind=1</id>
@@ -109,19 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=104722&amp;page=1&amp;mkind=1&amp;kind=3"/>
         <updated>2022-02-11T03:15:14.189Z</updated>
         <content type="html"><![CDATA[정보보안 전문업체 케이사인(대표 최승락)이 자회사 위협 인텔리전스 전문기업인 샌즈랩 및 안티바이러스 전문기업인 이스트시큐리티와 4억 건의 사이버보안 AI 학습용 데이터셋 구축을 완료했다고 11일 밝혔다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이제 스마트폰으로 주민등록증 확인 가능해진다]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104716&amp;page=1&amp;mkind=1&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104716&amp;page=1&amp;mkind=1&amp;kind=2"/>
-        <updated>2022-02-11T03:15:14.195Z</updated>
-        <content type="html"><![CDATA[행정안전부는 지난 10일 SK텔레콤, 케이티, LG유플러스와 함께 ‘주민등록증 모바일 확인서비스’의 보안성 강화 및 이용 활성화를 위한 업무협약(MOU)을 체결했다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SKT-에퀴닉스, 양자암호(QKD)로 데이터센터 지킨다]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104720&amp;page=1&amp;mkind=1&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104720&amp;page=1&amp;mkind=1&amp;kind=3"/>
-        <updated>2022-02-11T00:58:41.551Z</updated>
-        <content type="html"><![CDATA[SK텔레콤과 전 세계에 디지털 인프라를 제공하는 기업인 에퀴닉스(Equinix)는 ‘QKD as a Service’ 등 양자(Quantum) 비즈니스의 국내외 확대 등에 대한 사업 협력 MoU를 체결했다고 밝혔다.]]></content>
     </entry>
 </feed>
