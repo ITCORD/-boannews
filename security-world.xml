@@ -4,9 +4,17 @@
         <title>보안뉴스 ─ Security World</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Feb 2022 08:20:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Feb 2022 09:16:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[김정우 조달청장, 벤처기업 탄탄코어 방문]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104762&amp;mkind=5</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104762&amp;mkind=5</guid>
+            <pubDate>Mon, 14 Feb 2022 09:15:35 GMT</pubDate>
+            <content:encoded><![CDATA[김정우 조달청장이 2월 10일 경기조달지원센터 공공조달시장 진출 컨설팅 사업에 참여한 벤처기업 ‘탄탄코어’를 방문해 ‘헬로파킹’의 생산과정을 살펴보고 벤처...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/21021402ss.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[효성인포메이션시스템 ‘펜타호’, 퍼블릭 클라우드로 ...]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104749&amp;mkind=5</link>
@@ -14,14 +22,6 @@
             <pubDate>Mon, 14 Feb 2022 03:16:02 GMT</pubDate>
             <content:encoded><![CDATA[데이터 인프라 및 솔루션 전문기업 효성인포메이션시스템(대표이사 양정규)이 KT 클라우드 마켓플레이스에 ‘펜타호(Pentaho)’를 입점, 클라우드 환경에서...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/21021401ss.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[인텔리빅스, 비전 AI 기술 적용한 산업안전 솔루션...]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104731&amp;mkind=5</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104731&amp;mkind=5</guid>
-            <pubDate>Fri, 11 Feb 2022 09:15:56 GMT</pubDate>
-            <content:encoded><![CDATA[인텔리빅스의 산업안전 솔루션은 현장 CCTV를 비전AI와 AI Edge Box로 분석해 다양한 산업 현장의 위험 요소를 실시간으로 확인하고 현장의 안전을 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/21021101ss.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

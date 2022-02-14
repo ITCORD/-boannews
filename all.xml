@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Feb 2022 08:20:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Feb 2022 09:16:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[CISO들, 로그4j에 대해서 어떻게 설명할 것인가? (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104763&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104763&amp;page=1&amp;kind=1</guid>
+            <pubDate>Mon, 14 Feb 2022 09:14:47 GMT</pubDate>
+            <content:encoded><![CDATA[기업들을 겨냥한 사이버 공격은 이제 흔한 것이 되어버렸고 점점 더 심해지고 있다. 그러니 경영진들도 신경을 안 쓸 수가 없고, 보안에 대한 투자 규모를 늘...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/log-thmb-0214.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[외부 보안 전문가들과의 협력 체계 마련에 열 올리는 구글 (보안뉴스 ─ 전체기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104761&amp;page=1&amp;kind=1</link>
@@ -80,12 +88,12 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/goot-humb-0214.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[2021년 랜섬웨어 피해액은 6억 달러 이상 규모 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104753&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104753&amp;page=1&amp;kind=1</guid>
-            <pubDate>Mon, 14 Feb 2022 03:15:11 GMT</pubDate>
-            <content:encoded><![CDATA[미국, 영국, 호주의 사이버 보안 관련 정부 기관들이 합동 권고문을 발표했다. 2021년 동안 랜섬웨어 공격이 크게 증가했으니 주의하라는 내용이다. 이 권...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/loss-thumb-0214.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[김정우 조달청장, 벤처기업 탄탄코어 방문 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104762&amp;page=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104762&amp;page=1&amp;kind=3</guid>
+            <pubDate>Mon, 14 Feb 2022 09:14:47 GMT</pubDate>
+            <content:encoded><![CDATA[김정우 조달청장이 2월 10일 경기조달지원센터 공공조달시장 진출 컨설팅 사업에 참여한 벤처기업 ‘탄탄코어’를 방문해 ‘헬로파킹’의 생산과정을 살펴보고 벤처...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/21021402ss.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[삼오씨엔에스, 부산·제주관광공사 개인정보 접속기록 관리시스템 공급사로 선정 (보안뉴스 ─ 전체기사)]]></title>
@@ -101,6 +109,14 @@
             <pubDate>Mon, 14 Feb 2022 03:15:11 GMT</pubDate>
             <content:encoded><![CDATA[데이터 인프라 및 솔루션 전문기업 효성인포메이션시스템(대표이사 양정규)이 KT 클라우드 마켓플레이스에 ‘펜타호(Pentaho)’를 입점, 클라우드 환경에서...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/21021401ss.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2021년 랜섬웨어 피해액은 6억 달러 이상 규모 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104753&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104753&amp;page=1&amp;kind=1</guid>
+            <pubDate>Mon, 14 Feb 2022 03:15:11 GMT</pubDate>
+            <content:encoded><![CDATA[미국, 영국, 호주의 사이버 보안 관련 정부 기관들이 합동 권고문을 발표했다. 2021년 동안 랜섬웨어 공격이 크게 증가했으니 주의하라는 내용이다. 이 권...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/loss-thumb-0214.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[마이크로소프트, 윈도 비밀번호 훔치기 어렵게 만들어 (보안뉴스 ─ 전체기사)]]></title>
@@ -225,22 +241,6 @@
             <pubDate>Sat, 12 Feb 2022 00:56:43 GMT</pubDate>
             <content:encoded><![CDATA[성남시는 성남교육지원청과 데이터드리븐과 손잡고 ‘학생 역량분석 인공지능(AI) 시스템’을 개발한다. 개발된 시스템은 인공지능을 활용해 학생 역량을 분석한 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/2-100(295)(0).jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[코발트 스트라이크 악성코드, 취약한 MS-SQL 서버 대상으로 유포 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104733&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104733&amp;page=1&amp;kind=1</guid>
-            <pubDate>Fri, 11 Feb 2022 09:15:07 GMT</pubDate>
-            <content:encoded><![CDATA[최근 코발트 스트라이크 악성코드가 취약한 MS-SQL 서버를 대상으로 유포 중인 것을 확인했다고 안랩 ASEC 분석팀이 밝혔다. MS-SQL 서버는 윈도우...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/20220211AHN-S.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[[긴급] 유명 손해보험사 위장 피싱 메일로 ‘Remcos’ 악성코드 유포 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104732&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104732&amp;page=1&amp;kind=1</guid>
-            <pubDate>Fri, 11 Feb 2022 09:15:07 GMT</pubDate>
-            <content:encoded><![CDATA[국내 유명 손해보험사를 위장한 피싱 메일이 유포되고 있어 사용자들의 주의가 필요하다. 피싱 메일에는 RAT(원격제어) 악성코드인 ‘Remcos’가 포함돼 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/20220211esrc-s.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[클레이스왑 해킹으로 드러난 BGP Hijacking 공격기법, 도대체 뭐길래? (보안뉴스 ─ 가장 많이 본 기사)]]></title>
@@ -401,6 +401,13 @@
             <content:encoded><![CDATA[과학기술정보통신부(이하 과기정통부) 용홍택 제1차관은 10대 국가필수전략기술로 선정된 첨단 바이오 분야의 기술공감 연구 현장 점검을 위해 지난 11일 스탠다임을 ...]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[AI 보안 시제품 개발지원 2차 추진... 2년간 약 7억씩 지원한다 (보안뉴스 ─ SECURITY)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104759&amp;page=1&amp;mkind=1&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104759&amp;page=1&amp;mkind=1&amp;kind=2</guid>
+            <pubDate>Mon, 14 Feb 2022 09:15:07 GMT</pubDate>
+            <content:encoded><![CDATA[과학기술정보통신부(장관 임혜숙, 이하 ‘과기정통부’)와 한국인터넷진흥원(원장 이원태, 이하 ‘KISA’)은 AI기반 글로벌 일류 보안기업 60개사를 2025년까지 집중 육성하기 위해 ‘인공지능(AI) 보안 시제품 개발 지원’ 사업을 추진한다고 밝혔다.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[bnTV] 일촉즉발 우크라이나 사태! 러시아의 다크웹 랜섬웨어 소탕 배경은? (보안뉴스 ─ SECURITY)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104758&amp;page=1&amp;mkind=1&amp;kind=1</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104758&amp;page=1&amp;mkind=1&amp;kind=1</guid>
@@ -511,13 +518,6 @@
             <guid>https://www.boannews.com/media/view.asp?idx=104732&amp;page=1&amp;mkind=1&amp;kind=1</guid>
             <pubDate>Sun, 13 Feb 2022 15:16:08 GMT</pubDate>
             <content:encoded><![CDATA[국내 유명 손해보험사를 위장한 피싱 메일이 유포되고 있어 사용자들의 주의가 필요하다. 피싱 메일에는 RAT(원격제어) 악성코드인 ‘Remcos’가 포함돼 있는 것으로 드러났다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[사이버 보안 대표기업 2022년 출사표-15] 쏘마 (보안뉴스 ─ SECURITY)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104405&amp;page=1&amp;mkind=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104405&amp;page=1&amp;mkind=1&amp;kind=3</guid>
-            <pubDate>Sat, 12 Feb 2022 18:17:23 GMT</pubDate>
-            <content:encoded><![CDATA[쏘마는 창업 6년 차에 접어들었다. 특히 지금까지 엔드포인트 위협 헌팅 플랫폼인 ‘몬스터’ 개발에 많은 노력을 기울여왔는데, 2021년에는 최근 글로벌 시장에서 가장 인정받는 보안제품 평가 중 하나인 MITRE ATT&amp;CK Evaluation에 참여해서 ‘몬스터’의 위...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[주말판] 대화형 인공지능과 챗봇, 어디까지 와 있나 (보안뉴스 ─ IT)]]></title>
@@ -758,20 +758,20 @@
             <content:encoded><![CDATA[소방용수시설의 실시간 스마트한 관리로 화재 발생 시 신속하게 대응하고, 화재 진압 골든타임 확보를 통해 화재피해를 최소화할 수 있게 됐다. 대구시는 소방용수시설을 관리할 수 있는 소방용수시설 관리시스템을 구축하고, 동시에 사물인터넷을 활용한 지능형 소화전을 수성알파시티...]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[김정우 조달청장, 벤처기업 탄탄코어 방문 (보안뉴스 ─ Security World)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104762&amp;mkind=5</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104762&amp;mkind=5</guid>
+            <pubDate>Mon, 14 Feb 2022 09:15:35 GMT</pubDate>
+            <content:encoded><![CDATA[김정우 조달청장이 2월 10일 경기조달지원센터 공공조달시장 진출 컨설팅 사업에 참여한 벤처기업 ‘탄탄코어’를 방문해 ‘헬로파킹’의 생산과정을 살펴보고 벤처...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/21021402ss.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[효성인포메이션시스템 ‘펜타호’, 퍼블릭 클라우드로 ... (보안뉴스 ─ Security World)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104749&amp;mkind=5</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104749&amp;mkind=5</guid>
             <pubDate>Mon, 14 Feb 2022 03:16:02 GMT</pubDate>
             <content:encoded><![CDATA[데이터 인프라 및 솔루션 전문기업 효성인포메이션시스템(대표이사 양정규)이 KT 클라우드 마켓플레이스에 ‘펜타호(Pentaho)’를 입점, 클라우드 환경에서...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/21021401ss.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[인텔리빅스, 비전 AI 기술 적용한 산업안전 솔루션... (보안뉴스 ─ Security World)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104731&amp;mkind=5</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104731&amp;mkind=5</guid>
-            <pubDate>Fri, 11 Feb 2022 09:15:56 GMT</pubDate>
-            <content:encoded><![CDATA[인텔리빅스의 산업안전 솔루션은 현장 CCTV를 비전AI와 AI Edge Box로 분석해 다양한 산업 현장의 위험 요소를 실시간으로 확인하고 현장의 안전을 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/21021101ss.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[코발트 스트라이크 악성코드, 취약한 MS-SQL 서버 대상으로 유포 (보안뉴스 ─ 취약점 경고 및 버그리포트)]]></title>
@@ -1894,6 +1894,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2021/12/msit_1223001_MAIN.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[CISO들, 로그4j에 대해서 어떻게 설명할 것인가? (보안뉴스 ─ 국제)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104763&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104763&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
+            <pubDate>Mon, 14 Feb 2022 09:16:25 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/view.asp?idx=104763&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
+					
+					<img src="/media/upFiles2/2022/02/log-thmb-0214.jpg" alt="" class="news_img" height="70">
+					
+					<span class="news_txt">CISO들, 로그4j에 대해서 어떻게 설명할 것인가?</span>
+					</a><br>
+					<a href="/media/view.asp?idx=104763&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">기업들을 겨냥한 사이버 공격은 이제 흔한 것이 되어버렸고 점점 더 심해지고 있다. 그러니 경영진들도 신경을 안 쓸 수가 없고, 보안에 대한 투자 규모를 늘려가고 ...</a> <span class="news_writer">문가용 기자 | 2022년 02월 14일 17:51</span>]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/log-thmb-0214.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[외부 보안 전문가들과의 협력 체계 마련에 열 올리는 구글 (보안뉴스 ─ 국제)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104761&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104761&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
@@ -2158,20 +2172,6 @@
 					</a><br>
 					<a href="/media/view.asp?idx=104694&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">악명 높은 랜섬웨어인 메이즈(Maze), 에그레고르(Egregor), 세크멧(Sekhmet)의 마스터 키가 온라인 공간에 공개됐다. 공개된 곳은 온라인 매체인 블...</a> <span class="news_writer">문가용 기자 | 2022년 02월 10일 11:31</span>]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/rankey-thumb-0210.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[러시아 APT 해커들, 코로나를 미끼로 유럽 외교관들 노려 (보안뉴스 ─ 국제)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104693&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104693&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
-            <pubDate>Thu, 10 Feb 2022 02:33:33 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/view.asp?idx=104693&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
-					
-					<img src="/media/upFiles2/2022/02/rus-thumb-0210.jpg" alt="" class="news_img" height="70">
-					
-					<span class="news_txt">러시아 APT 해커들, 코로나를 미끼로 유럽 외교관들 노려</span>
-					</a><br>
-					<a href="/media/view.asp?idx=104693&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">러시아의 APT 단체인 APT29가 유럽의 국가들을 공격했다는 사실이 드러났다. 주로 외교 관련 기관들과, 그 기관에 소속된 직원들이 공격 대상이었다고 한다. 지...</a> <span class="news_writer">문가용 기자 | 2022년 02월 10일 11:30</span>]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/rus-thumb-0210.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2021년 해외 사이버 보안 업계에 어떤 M&A가 성사됐나 (보안뉴스 ─ 기획특집)]]></title>
