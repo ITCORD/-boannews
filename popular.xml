@@ -4,17 +4,9 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Feb 2022 05:16:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Feb 2022 06:20:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[긴급] 유명 손해보험사 위장 피싱 메일로 ‘Remcos’ 악성코드 유포]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104732&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104732&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Sat, 12 Feb 2022 02:04:14 GMT</pubDate>
-            <content:encoded><![CDATA[국내 유명 손해보험사를 위장한 피싱 메일이 유포되고 있어 사용자들의 주의가 필요하다. 피싱 메일에는 RAT(원격제어) 악성코드인 ‘Remcos’가 포함돼 있는 것...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/20220211esrc-s.JPG" length="0" type="image/JPG"/>
-        </item>
         <item>
             <title><![CDATA[클레이스왑 해킹으로 드러난 BGP Hijacking 공격기법, 도대체 뭐길래?]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104743&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
@@ -22,6 +14,14 @@
             <pubDate>Sun, 13 Feb 2022 02:03:27 GMT</pubDate>
             <content:encoded><![CDATA[지난 2월 3일 국내 최대 규모 디파이(Defi, 탈중앙화 금융) 서비스 ‘클레이스왑(KLAYswap)’에서 22억 규모에 달하는 가상자산(암호화폐)이 탈취되는 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/20220213claymain-s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[긴급] 유명 손해보험사 위장 피싱 메일로 ‘Remcos’ 악성코드 유포]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104732&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104732&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Sat, 12 Feb 2022 02:04:14 GMT</pubDate>
+            <content:encoded><![CDATA[국내 유명 손해보험사를 위장한 피싱 메일이 유포되고 있어 사용자들의 주의가 필요하다. 피싱 메일에는 RAT(원격제어) 악성코드인 ‘Remcos’가 포함돼 있는 것...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/20220211esrc-s.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[능동적 보안 전문가 혹은 윤리적 해커가 되고 싶은 사람이라면]]></title>
@@ -96,14 +96,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/ai-thumb-0211.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[긴급] 베스트 바이에서 759달러 결제? 해외 결제 사칭 스미싱 다시 기승!]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104597&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104597&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Wed, 09 Feb 2022 11:13:03 GMT</pubDate>
-            <content:encoded><![CDATA[최근 해외 결제를 사칭한 스미싱이 지속적으로 유포되고 있다. 7일 오전에는 미국 대형 유통업체인 베스트 바이(Best Buy)에서 759달러가 결제됐다는 스미싱이...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/20220207SMI-MS-M.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
             <title><![CDATA[정부의 ‘정보보호 산업’ 전략적 육성방안, 어떤 내용 담겼나]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104657&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104657&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
@@ -165,6 +157,14 @@
             <guid>https://www.boannews.com/media/view.asp?idx=104740&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
             <pubDate>Mon, 14 Feb 2022 05:14:30 GMT</pubDate>
             <content:encoded><![CDATA[방위사업청은 사이버 해킹 등 기술 탈취의 위협으로부터 방산 중소·중견기업의 기술보호 수준을 높이기 위해 ‘2022년 방위산업기술 보호체계 구축·운영 지원 사업’에...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[이중 인증 도입 비율 늘려가는 구글, 2022년에도 행보는 계속돼]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104669&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104669&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Mon, 14 Feb 2022 06:18:32 GMT</pubDate>
+            <content:encoded><![CDATA[1억 5천만 명이 넘는 구글 사용자들의 계정 침해 가능성이 절반 수준으로 떨어졌으며, 이는 이중 인증을 도입했기 때문이라고 구글이 발표했다. 이 1억 5천만 사용...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/auth-thumb-0209.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
