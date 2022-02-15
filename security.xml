@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-02-14T21:14:58.173Z</updated>
+    <updated>2022-02-15T01:02:36.166Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[삼오씨엔에스, 부산·제주관광공사 개인정보 접속기록 관리시스템 공급사로 선정]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104760&amp;page=1&amp;mkind=1&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104760&amp;page=1&amp;mkind=1&amp;kind=3"/>
+        <updated>2022-02-15T01:01:03.221Z</updated>
+        <content type="html"><![CDATA[개인정보보호 전문 솔루션 업체 삼오씨엔에스(대표 김현철)가 2022년 1월, 제주관광공사에 이어 부산관광공사의 개인정보 접속기록 관리시스템 공급사로 선정됐다고 밝혔다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AI 보안 시제품 개발지원 2차 추진... 2년간 약 7억씩 지원한다]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=104759&amp;page=1&amp;mkind=1&amp;kind=2</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=104733&amp;page=1&amp;mkind=1&amp;kind=1"/>
         <updated>2022-02-14T01:56:20.511Z</updated>
         <content type="html"><![CDATA[최근 코발트 스트라이크 악성코드가 취약한 MS-SQL 서버를 대상으로 유포 중인 것을 확인했다고 안랩 ASEC 분석팀이 밝혔다. MS-SQL 서버는 윈도우 환경의 대표적인 데이터베이스 서버로서 과거부터 꾸준히 공격자들의 공격 대상이 되고 있다. MS-SQL 서버를 대상...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[긴급] 유명 손해보험사 위장 피싱 메일로 ‘Remcos’ 악성코드 유포]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104732&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104732&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-02-13T15:16:08.331Z</updated>
-        <content type="html"><![CDATA[국내 유명 손해보험사를 위장한 피싱 메일이 유포되고 있어 사용자들의 주의가 필요하다. 피싱 메일에는 RAT(원격제어) 악성코드인 ‘Remcos’가 포함돼 있는 것으로 드러났다.]]></content>
     </entry>
 </feed>
