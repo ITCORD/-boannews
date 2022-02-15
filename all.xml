@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Feb 2022 20:18:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Feb 2022 21:15:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -339,20 +339,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/2-105(295).jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[CISO들, 로그4j에 대해서 어떻게 설명할 것인가? (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104763&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104763&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Tue, 15 Feb 2022 06:18:14 GMT</pubDate>
-            <content:encoded><![CDATA[기업들을 겨냥한 사이버 공격은 이제 흔한 것이 되어버렸고 점점 더 심해지고 있다. 그러니 경영진들도 신경을 안 쓸 수가 없고, 보안에 대한 투자 규모를 늘려가고 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/log-thmb-0214.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[클라우드로의 이전을 망설여지게 하는 대표적 이유 6 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104744&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104744&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
             <pubDate>Tue, 15 Feb 2022 11:13:47 GMT</pubDate>
             <content:encoded><![CDATA[그 어느 때보다 많은 조직들이 오래된 데이터를 클라우드로 옮겨 쉽게 접근하고 더 안전하게 보호받으려 하고 있다. 물론 데이터 관리가 더 쉬워지고 가시성이 높아진다...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/cloud-thumb-0213.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[CISO들, 로그4j에 대해서 어떻게 설명할 것인가? (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104763&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104763&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Tue, 15 Feb 2022 06:18:14 GMT</pubDate>
+            <content:encoded><![CDATA[기업들을 겨냥한 사이버 공격은 이제 흔한 것이 되어버렸고 점점 더 심해지고 있다. 그러니 경영진들도 신경을 안 쓸 수가 없고, 보안에 대한 투자 규모를 늘려가고 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/log-thmb-0214.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[인공지능과 사이버 보안, 궁합이 좋긴 한 걸까? (보안뉴스 ─ 가장 많이 본 기사)]]></title>
