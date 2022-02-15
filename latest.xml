@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Feb 2022 03:17:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Feb 2022 04:21:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -86,6 +86,14 @@
             <pubDate>Mon, 14 Feb 2022 09:14:47 GMT</pubDate>
             <content:encoded><![CDATA[기업들을 겨냥한 사이버 공격은 이제 흔한 것이 되어버렸고 점점 더 심해지고 있다. 그러니 경영진들도 신경을 안 쓸 수가 없고, 보안에 대한 투자 규모를 늘...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/log-thmb-0214.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이글루시큐리티, 데이터·SIEM 특허 3건 취득]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104792&amp;page=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104792&amp;page=1&amp;kind=3</guid>
+            <pubDate>Tue, 15 Feb 2022 04:18:57 GMT</pubDate>
+            <content:encoded><![CDATA[인공지능(AI) 기반 정보보호 선도 기업 이글루시큐리티(대표이사 이득춘)는 데이터와 통합보안관제(SIEM) 분야에 특화된 3건의 특허 등록을 완료했다고 밝...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/igloo_021501_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[슈프리마, 전년 대비 영업이익 52.6% 증가]]></title>
@@ -225,13 +233,6 @@
             <pubDate>Mon, 14 Feb 2022 08:18:27 GMT</pubDate>
             <content:encoded><![CDATA[버그바운티 프로그램은 기업이 자사 제품이나 서비스의 취약점을 찾아서 보강하는 데에 얼마나 진심을 쏟고 있는지를 나타내는 척도 중 하나로도 볼 수 있다. 그...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/bounty-thumb-0214.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[삼오씨엔에스, 부산·제주관광공사 개인정보 접속기록 관리시스템 공급사로 선정]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104760&amp;page=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104760&amp;page=1&amp;kind=3</guid>
-            <pubDate>Mon, 14 Feb 2022 08:18:27 GMT</pubDate>
-            <content:encoded><![CDATA[개인정보보호 전문 솔루션 업체 삼오씨엔에스(대표 김현철)가 2022년 1월, 제주관광공사에 이어 부산관광공사의 개인정보 접속기록 관리시스템 공급사로 선정됐...]]></content:encoded>
         </item>
     </channel>
 </rss>
