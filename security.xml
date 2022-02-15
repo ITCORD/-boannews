@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-02-15T01:02:36.166Z</updated>
+    <updated>2022-02-15T02:15:05.429Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[외부 보안 전문가들과의 협력 체계 마련에 열 올리는 구글]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104761&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104761&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-02-15T02:13:18.586Z</updated>
+        <content type="html"><![CDATA[버그바운티 프로그램은 기업이 자사 제품이나 서비스의 취약점을 찾아서 보강하는 데에 얼마나 진심을 쏟고 있는지를 나타내는 척도 중 하나로도 볼 수 있다. 그래서 버그바운티를 진행하는 기업들은 프로그램을 하나 시작할 때마다 대대적으로 광고하고, 연초면 지난 해의 상금 액수...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[삼오씨엔에스, 부산·제주관광공사 개인정보 접속기록 관리시스템 공급사로 선정]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=104760&amp;page=1&amp;mkind=1&amp;kind=3</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=104743&amp;page=1&amp;mkind=1&amp;kind=1"/>
         <updated>2022-02-14T01:56:20.511Z</updated>
         <content type="html"><![CDATA[지난 2월 3일 국내 최대 규모 디파이(Defi, 탈중앙화 금융) 서비스 ‘클레이스왑(KLAYswap)’에서 22억 규모에 달하는 가상자산(암호화폐)이 탈취되는 사건이 발생해 커다란 충격을 준 바 있다. 이러한 가운데 클레이스왑 해킹에 ‘BGP Hijacking’ 공격...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코발트 스트라이크 악성코드, 취약한 MS-SQL 서버 대상으로 유포]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104733&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104733&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-02-14T01:56:20.511Z</updated>
-        <content type="html"><![CDATA[최근 코발트 스트라이크 악성코드가 취약한 MS-SQL 서버를 대상으로 유포 중인 것을 확인했다고 안랩 ASEC 분석팀이 밝혔다. MS-SQL 서버는 윈도우 환경의 대표적인 데이터베이스 서버로서 과거부터 꾸준히 공격자들의 공격 대상이 되고 있다. MS-SQL 서버를 대상...]]></content>
     </entry>
 </feed>
