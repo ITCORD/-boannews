@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Feb 2022 04:21:12 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Feb 2022 05:16:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[제115차 CISO포럼, ‘메타버스’에서의 보안위협 및 대응방안 공유 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104791&amp;page=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104791&amp;page=1&amp;kind=3</guid>
+            <pubDate>Tue, 15 Feb 2022 05:14:17 GMT</pubDate>
+            <content:encoded><![CDATA[페이스북이 사명을 ‘메타(META)’로 바꿀 정도로 메가트렌드가 된 ‘메타버스(METAVERSE)’지만, 정작 이에 대한 보안은 아직 논의되지 않고 있다....]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/ciso_0215001_main.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[어나니머스 해커, “캐나다 트럭 시위 자금 출처가 수상하다” (보안뉴스 ─ 전체기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104790&amp;page=1&amp;kind=1</link>
@@ -80,18 +88,10 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/20220215phish-s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[CISO들, 로그4j에 대해서 어떻게 설명할 것인가? (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104763&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104763&amp;page=1&amp;kind=1</guid>
-            <pubDate>Mon, 14 Feb 2022 09:14:47 GMT</pubDate>
-            <content:encoded><![CDATA[기업들을 겨냥한 사이버 공격은 이제 흔한 것이 되어버렸고 점점 더 심해지고 있다. 그러니 경영진들도 신경을 안 쓸 수가 없고, 보안에 대한 투자 규모를 늘...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/log-thmb-0214.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[이글루시큐리티, 데이터·SIEM 특허 3건 취득 (보안뉴스 ─ 전체기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104792&amp;page=1&amp;kind=3</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104792&amp;page=1&amp;kind=3</guid>
-            <pubDate>Tue, 15 Feb 2022 04:18:57 GMT</pubDate>
+            <pubDate>Tue, 15 Feb 2022 05:14:17 GMT</pubDate>
             <content:encoded><![CDATA[인공지능(AI) 기반 정보보호 선도 기업 이글루시큐리티(대표이사 이득춘)는 데이터와 통합보안관제(SIEM) 분야에 특화된 3건의 특허 등록을 완료했다고 밝...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/igloo_021501_main.jpg" length="0" type="image/jpg"/>
         </item>
@@ -219,20 +219,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/2-109(295).jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[CISO들, 로그4j에 대해서 어떻게 설명할 것인가? (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104763&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104763&amp;page=1&amp;kind=1</guid>
+            <pubDate>Mon, 14 Feb 2022 09:14:47 GMT</pubDate>
+            <content:encoded><![CDATA[기업들을 겨냥한 사이버 공격은 이제 흔한 것이 되어버렸고 점점 더 심해지고 있다. 그러니 경영진들도 신경을 안 쓸 수가 없고, 보안에 대한 투자 규모를 늘...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/log-thmb-0214.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[김정우 조달청장, 벤처기업 탄탄코어 방문 (보안뉴스 ─ 전체기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104762&amp;page=1&amp;kind=3</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104762&amp;page=1&amp;kind=3</guid>
             <pubDate>Mon, 14 Feb 2022 09:14:47 GMT</pubDate>
             <content:encoded><![CDATA[김정우 조달청장이 2월 10일 경기조달지원센터 공공조달시장 진출 컨설팅 사업에 참여한 벤처기업 ‘탄탄코어’를 방문해 ‘헬로파킹’의 생산과정을 살펴보고 벤처...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/21021402ss.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[외부 보안 전문가들과의 협력 체계 마련에 열 올리는 구글 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104761&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104761&amp;page=1&amp;kind=1</guid>
-            <pubDate>Mon, 14 Feb 2022 08:18:27 GMT</pubDate>
-            <content:encoded><![CDATA[버그바운티 프로그램은 기업이 자사 제품이나 서비스의 취약점을 찾아서 보강하는 데에 얼마나 진심을 쏟고 있는지를 나타내는 척도 중 하나로도 볼 수 있다. 그...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/bounty-thumb-0214.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[클레이스왑 해킹으로 드러난 BGP Hijacking 공격기법, 도대체 뭐길래? (보안뉴스 ─ 가장 많이 본 기사)]]></title>
@@ -355,20 +355,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/2-95(295).jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[사이버 보안 대표기업 2022년 출사표-15] 쏘마 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104405&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104405&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
-            <pubDate>Sun, 13 Feb 2022 16:20:47 GMT</pubDate>
-            <content:encoded><![CDATA[쏘마는 창업 6년 차에 접어들었다. 특히 지금까지 엔드포인트 위협 헌팅 플랫폼인 ‘몬스터’ 개발에 많은 노력을 기울여왔는데, 2021년에는 최근 글로벌 시장에서 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/RESIZEMONSTER_sum.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[인공지능과 사이버 보안, 궁합이 좋긴 한 걸까? (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104742&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104742&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Mon, 14 Feb 2022 10:16:21 GMT</pubDate>
             <content:encoded><![CDATA[사이버 보안 업계에서 한 때 인공지능의 바람이 거세게 몰아쳤던 적이 있지만 아직까지 ‘히트 상품’은 나온 적이 없다. 이제는 오히려 ‘왜 인공지능과 보안 업계는 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/aicy-thumb-0212.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[사이버 보안 대표기업 2022년 출사표-15] 쏘마 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104405&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104405&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
+            <pubDate>Sun, 13 Feb 2022 16:20:47 GMT</pubDate>
+            <content:encoded><![CDATA[쏘마는 창업 6년 차에 접어들었다. 특히 지금까지 엔드포인트 위협 헌팅 플랫폼인 ‘몬스터’ 개발에 많은 노력을 기울여왔는데, 2021년에는 최근 글로벌 시장에서 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/RESIZEMONSTER_sum.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[‘2022년 방위산업기술 보호체계 구축·운영 지원 사업’ 참여기업 모집 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
@@ -393,10 +393,17 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/2-102(295).jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[인도 정부, 유명 게임 포함해 중국 앱 54개 금지시켜 (보안뉴스 ─ SECURITY)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104789&amp;page=1&amp;mkind=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104789&amp;page=1&amp;mkind=1&amp;kind=1</guid>
+            <pubDate>Tue, 15 Feb 2022 05:14:39 GMT</pubDate>
+            <content:encoded><![CDATA[인도 정부가 국가 안보와 정보 보안을 이유로 중국에서 개발한 모바일 앱 54개를 금지시켰다. 이 중에는 중국의 대형 IT 업체들과 게임사에서 개발한 유명 앱들도 포함되어 있다. 특히 구글 플레이에서 10억 회 이상 다운로드 된 대형 히트작인 ‘프리파이어(Free Fir...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[랜섬웨어 수익금 74%가 러시아로 흘러들어간다 (보안뉴스 ─ SECURITY)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104788&amp;page=1&amp;mkind=1&amp;kind=1</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104788&amp;page=1&amp;mkind=1&amp;kind=1</guid>
-            <pubDate>Tue, 15 Feb 2022 04:19:18 GMT</pubDate>
+            <pubDate>Tue, 15 Feb 2022 05:14:39 GMT</pubDate>
             <content:encoded><![CDATA[2021년은 랜섬웨어의 해였고, 그 랜섬웨어 때문에 발생한 피해액의 74%는 러시아로 흘러들어갔다는 연구 조사가 발표됐다. 이는 블록체인 분석 전문 기업 체이널리시스(Chainalysis)가 발표한 것으로, 74%라 함은 4억 달러 이상의 돈을 말한다. 피해자들의 돈을...]]></content:encoded>
         </item>
         <item>
@@ -503,13 +510,6 @@
             <guid>https://www.boannews.com/media/view.asp?idx=104753&amp;page=1&amp;mkind=1&amp;kind=1</guid>
             <pubDate>Mon, 14 Feb 2022 05:14:39 GMT</pubDate>
             <content:encoded><![CDATA[미국, 영국, 호주의 사이버 보안 관련 정부 기관들이 합동 권고문을 발표했다. 2021년 동안 랜섬웨어 공격이 크게 증가했으니 주의하라는 내용이다. 이 권고문에는 랜섬웨어 피해자들이 공격자들에게 암호화폐로 지불한 돈이 6억 2백만 달러라는 내용이 포함되어 있다. 이는 ...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[마이크로소프트, 윈도 비밀번호 훔치기 어렵게 만들어 (보안뉴스 ─ SECURITY)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104752&amp;page=1&amp;mkind=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104752&amp;page=1&amp;mkind=1&amp;kind=1</guid>
-            <pubDate>Mon, 14 Feb 2022 03:15:32 GMT</pubDate>
-            <content:encoded><![CDATA[마이크로소프트가 자사 보안 솔루션인 디펜더(Defender)의 공격 표면 감소(Attack Surface Reduction)라고 알려진 보안 규칙이 활성화 된 상태를 ‘디폴트’로 만들었다. 이를 통해 LSASS 프로세스로부터 윈도 크리덴셜이 도난당하는 것을 보다 어렵게...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[광주시, 라이다 신산업 육성 ‘가시적 효과’ (보안뉴스 ─ IT)]]></title>

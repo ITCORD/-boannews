@@ -2,14 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-02-15T04:21:12.508Z</updated>
+    <updated>2022-02-15T05:16:44.877Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[인도 정부, 유명 게임 포함해 중국 앱 54개 금지시켜]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104789&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104789&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-02-15T05:14:39.315Z</updated>
+        <content type="html"><![CDATA[인도 정부가 국가 안보와 정보 보안을 이유로 중국에서 개발한 모바일 앱 54개를 금지시켰다. 이 중에는 중국의 대형 IT 업체들과 게임사에서 개발한 유명 앱들도 포함되어 있다. 특히 구글 플레이에서 10억 회 이상 다운로드 된 대형 히트작인 ‘프리파이어(Free Fir...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[랜섬웨어 수익금 74%가 러시아로 흘러들어간다]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=104788&amp;page=1&amp;mkind=1&amp;kind=1</id>
         <link href="https://www.boannews.com/media/view.asp?idx=104788&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-02-15T04:19:18.053Z</updated>
+        <updated>2022-02-15T05:14:39.316Z</updated>
         <content type="html"><![CDATA[2021년은 랜섬웨어의 해였고, 그 랜섬웨어 때문에 발생한 피해액의 74%는 러시아로 흘러들어갔다는 연구 조사가 발표됐다. 이는 블록체인 분석 전문 기업 체이널리시스(Chainalysis)가 발표한 것으로, 74%라 함은 4억 달러 이상의 돈을 말한다. 피해자들의 돈을...]]></content>
     </entry>
     <entry>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=104753&amp;page=1&amp;mkind=1&amp;kind=1"/>
         <updated>2022-02-14T05:14:39.052Z</updated>
         <content type="html"><![CDATA[미국, 영국, 호주의 사이버 보안 관련 정부 기관들이 합동 권고문을 발표했다. 2021년 동안 랜섬웨어 공격이 크게 증가했으니 주의하라는 내용이다. 이 권고문에는 랜섬웨어 피해자들이 공격자들에게 암호화폐로 지불한 돈이 6억 2백만 달러라는 내용이 포함되어 있다. 이는 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마이크로소프트, 윈도 비밀번호 훔치기 어렵게 만들어]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104752&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104752&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-02-14T03:15:32.373Z</updated>
-        <content type="html"><![CDATA[마이크로소프트가 자사 보안 솔루션인 디펜더(Defender)의 공격 표면 감소(Attack Surface Reduction)라고 알려진 보안 규칙이 활성화 된 상태를 ‘디폴트’로 만들었다. 이를 통해 LSASS 프로세스로부터 윈도 크리덴셜이 도난당하는 것을 보다 어렵게...]]></content>
     </entry>
 </feed>
