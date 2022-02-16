@@ -4,9 +4,23 @@
         <title>보안뉴스 ─ 국제</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Feb 2022 00:58:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Feb 2022 02:09:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[사이버 보안, 생물학을 닮기 시작하다]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104793&amp;page=1&amp;mkind=&amp;kind=4&amp;skind=D&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104793&amp;page=1&amp;mkind=&amp;kind=4&amp;skind=D&amp;search=title&amp;find=</guid>
+            <pubDate>Wed, 16 Feb 2022 02:09:10 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/view.asp?idx=104793&amp;page=1&amp;mkind=&amp;kind=4&amp;skind=D&amp;search=title&amp;find=">
+					
+					<img src="/media/upFiles2/2022/02/bio-thumb-0215.jpg" alt="" class="news_img" height="70">
+					
+					<span class="news_txt">사이버 보안, 생물학을 닮기 시작하다</span>
+					</a><br>
+					<a href="/media/view.asp?idx=104793&amp;page=1&amp;mkind=&amp;kind=4&amp;skind=D&amp;search=title&amp;find=">사이버 보안 분야가 최근 몇 년 동안 눈부시게 발전하는 중이다. 그렇지만 그 어느 때보다 고통에 시달리고 있기도 하다. 해킹과 크래킹 등 각종 공격 기술들 역시 ...</a> <span class="news_writer">문가용 기자 | 2022년 02월 16일 10:36</span>]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/bio-thumb-0215.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[어나니머스 해커, “캐나다 트럭 시위 자금 출처가 수상하다”]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104790&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
@@ -272,20 +286,6 @@
 					</a><br>
 					<a href="/media/view.asp?idx=104741&amp;page=1&amp;mkind=&amp;kind=4&amp;skind=D&amp;search=title&amp;find=">현대의 챗봇들은 아직 사람과 대화한다는 느낌을 주지 못한다. 그리고 몇 마디 대화를 하면 더 이어가기가 힘들다. 광고에 대대적으로 나오는 것만큼 다양한 상황에서 ...</a> <span class="news_writer">문가용 기자 | 2022년 02월 12일 15:37</span>]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/ai-thumb-0211.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[MS, 디펜더에서 발견된 백신 우회 취약점 해결]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104730&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104730&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
-            <pubDate>Fri, 11 Feb 2022 03:16:21 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/view.asp?idx=104730&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
-					
-					<img src="/media/upFiles2/2022/02/shield-thumb-0211.jpg" alt="" class="news_img" height="70">
-					
-					<span class="news_txt">MS, 디펜더에서 발견된 백신 우회 취약점 해결</span>
-					</a><br>
-					<a href="/media/view.asp?idx=104730&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">마이크로소프트가 자사 백신 솔루션인 디펜더 안티바이러스(Defender Antivirus)의 취약점을 패치했다. 원격의 공격자가 악성 페이로드를 주입할 수 있게 ...</a> <span class="news_writer">문가용 기자 | 2022년 02월 11일 12:12</span>]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/shield-thumb-0211.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

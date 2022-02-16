@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Feb 2022 00:58:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Feb 2022 02:09:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[사이버 보안, 생물학을 닮기 시작하다 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104793&amp;page=1&amp;kind=4</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104793&amp;page=1&amp;kind=4</guid>
+            <pubDate>Wed, 16 Feb 2022 02:07:31 GMT</pubDate>
+            <content:encoded><![CDATA[사이버 보안 분야가 최근 몇 년 동안 눈부시게 발전하는 중이다. 그렇지만 그 어느 때보다 고통에 시달리고 있기도 하다. 해킹과 크래킹 등 각종 공격 기술들...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/bio-thumb-0215.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[제115차 CISO포럼, ‘메타버스’에서의 보안위협 및 대응방안 공유 (보안뉴스 ─ 전체기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104791&amp;page=1&amp;kind=3</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 15 Feb 2022 02:12:59 GMT</pubDate>
             <content:encoded><![CDATA[원격 근무가 본격적으로 자리를 잡으면서 사무실에서 얼굴을 마주하고 이야기를 나누던 사람들이 이제는 이메일이나 메신저, 채팅이나 댓글 등 각종 디지털 기법으...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/write-thumb-0215.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[설 명절 이후 보이스피싱 시도 급증 주의보 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104765&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104765&amp;page=1&amp;kind=2</guid>
-            <pubDate>Tue, 15 Feb 2022 01:00:45 GMT</pubDate>
-            <content:encoded><![CDATA[경찰청 국가수사본부는 설 명절 이후 전화금융사기 범행 시도가 크게 증가하고 있어 주의하지 않으면 큰 피해를 받을 수 있는 만큼 가족·친지·연인 등 지인 간...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/20220215phish-s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[LG전자 전장 삼각편대, 글로벌 정보보안 인증 ‘TISAX’ 획득 (보안뉴스 ─ 전체기사)]]></title>
@@ -274,14 +274,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/msit_0209001_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[내가 과속운전 벌점을? 교통법규 위반 사칭 스미싱 유포 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104661&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104661&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Sat, 12 Feb 2022 02:04:14 GMT</pubDate>
-            <content:encoded><![CDATA[최근 교통법규 위반, 과속운전 벌점 내용으로 스미싱이 대량으로 유포되고 있어 사용자들의 주의가 필요하다. 보안업체 이스트시큐리티 시큐리티대응센터(ESRC)에 따르...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/20220210_mail1-S.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
             <title><![CDATA[KISA·이스트시큐리티 ESRC 등 보안기관·기업 사칭 피싱 이메일 연이어 유포 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104668&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104668&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
@@ -290,20 +282,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/20220209ESRC-SM.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
-            <title><![CDATA[[주말판] 대화형 인공지능과 챗봇, 어디까지 와 있나 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104741&amp;page=1&amp;kind=4&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104741&amp;page=1&amp;kind=4&amp;search=title&amp;find=</guid>
-            <pubDate>Sun, 13 Feb 2022 05:13:07 GMT</pubDate>
-            <content:encoded><![CDATA[현대의 챗봇들은 아직 사람과 대화한다는 느낌을 주지 못한다. 그리고 몇 마디 대화를 하면 더 이어가기가 힘들다. 광고에 대대적으로 나오는 것만큼 다양한 상황에서 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/ai-thumb-0211.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[20년 전 유행했던 RLO 공격 기법, MS 365에서 다시 유행 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104667&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104667&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Thu, 10 Feb 2022 11:12:46 GMT</pubDate>
             <content:encoded><![CDATA[사이버 공격자들이 20년 전에 사용했던 공격 기법이 부활했다. 보안 업체 베이드(Vade)에 의하면 지난 2주 동안 이 오래된 기법이 400건 이상의 피싱 공격에...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/arab-thumb-0209.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[주말판] 대화형 인공지능과 챗봇, 어디까지 와 있나 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104741&amp;page=1&amp;kind=4&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104741&amp;page=1&amp;kind=4&amp;search=title&amp;find=</guid>
+            <pubDate>Sun, 13 Feb 2022 05:13:07 GMT</pubDate>
+            <content:encoded><![CDATA[현대의 챗봇들은 아직 사람과 대화한다는 느낌을 주지 못한다. 그리고 몇 마디 대화를 하면 더 이어가기가 힘들다. 광고에 대대적으로 나오는 것만큼 다양한 상황에서 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/ai-thumb-0211.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[bnTV] 일촉즉발 우크라이나 사태! 러시아의 다크웹 랜섬웨어 소탕 배경은? (보안뉴스 ─ 가장 많이 본 기사)]]></title>
@@ -322,20 +314,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/12499913_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[클라우드로의 이전을 망설여지게 하는 대표적 이유 6 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104744&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104744&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
-            <pubDate>Tue, 15 Feb 2022 11:13:47 GMT</pubDate>
-            <content:encoded><![CDATA[그 어느 때보다 많은 조직들이 오래된 데이터를 클라우드로 옮겨 쉽게 접근하고 더 안전하게 보호받으려 하고 있다. 물론 데이터 관리가 더 쉬워지고 가시성이 높아진다...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/cloud-thumb-0213.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[CISO들, 로그4j에 대해서 어떻게 설명할 것인가? (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104763&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104763&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Tue, 15 Feb 2022 06:18:14 GMT</pubDate>
             <content:encoded><![CDATA[기업들을 겨냥한 사이버 공격은 이제 흔한 것이 되어버렸고 점점 더 심해지고 있다. 그러니 경영진들도 신경을 안 쓸 수가 없고, 보안에 대한 투자 규모를 늘려가고 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/log-thmb-0214.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[클라우드로의 이전을 망설여지게 하는 대표적 이유 6 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104744&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104744&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
+            <pubDate>Tue, 15 Feb 2022 11:13:47 GMT</pubDate>
+            <content:encoded><![CDATA[그 어느 때보다 많은 조직들이 오래된 데이터를 클라우드로 옮겨 쉽게 접근하고 더 안전하게 보호받으려 하고 있다. 물론 데이터 관리가 더 쉬워지고 가시성이 높아진다...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/cloud-thumb-0213.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Weekly Security Premium Report 제37호 발간! IT/보안 기술 관점의 2021년 결산 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
@@ -390,6 +382,21 @@
             <guid>https://www.boannews.com/media/view.asp?idx=104737&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
             <pubDate>Mon, 14 Feb 2022 12:24:04 GMT</pubDate>
             <content:encoded><![CDATA[과학기술정보통신부(이하 과기정통부) 용홍택 제1차관은 10대 국가필수전략기술로 선정된 첨단 바이오 분야의 기술공감 연구 현장 점검을 위해 지난 11일 스탠다임을 ...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[교육부, ‘교육 분야 인공지능 윤리원칙’ 마련을 위한 공청회 개최 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104736&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104736&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
+            <pubDate>Wed, 16 Feb 2022 02:07:40 GMT</pubDate>
+            <content:encoded><![CDATA[교육부는 사람의 성장을 지원하는 ‘교육 분야 인공지능 윤리원칙’ 마련을 위한 공청회를 12일 온라인으로 개최했다. 이번 공청회는 교육부가 지난 1월 27일에 발표...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/2-102(295).jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[부고] 아이티로그인 김태현 대표이사 부친상 (보안뉴스 ─ SECURITY)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104807&amp;page=1&amp;mkind=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104807&amp;page=1&amp;mkind=1&amp;kind=3</guid>
+            <pubDate>Wed, 16 Feb 2022 02:07:51 GMT</pubDate>
+            <content:encoded><![CDATA[△내 용 : 아이티로그인 김태현 대표이사 부친상 △빈 소 : 고려대학교안암병원장례식장 301호 △발 인 : 2022년 2월 17일 △장 지 : 양주시 장흥면 선영]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[제115차 CISO포럼, ‘메타버스’에서의 보안위협 및 대응방안 공유 (보안뉴스 ─ SECURITY)]]></title>
@@ -502,13 +509,6 @@
             <guid>https://www.boannews.com/media/view.asp?idx=104757&amp;page=1&amp;mkind=1&amp;kind=3</guid>
             <pubDate>Mon, 14 Feb 2022 08:18:46 GMT</pubDate>
             <content:encoded><![CDATA[전 세계적으로 기업 비즈니스 운영에 있어 개인정보보호에 대한 중요성이 높아지고 있으며, 이를 위한 기업들의 투자가 꾸준히 증가하는 것으로 나타났다. 특히 한국 기업들은 개인정보보호 관련 예산이 평균 45% 증가했다는 보고서가 발표됐다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[클라우드로의 이전을 망설여지게 하는 대표적 이유 6 (보안뉴스 ─ SECURITY)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104744&amp;page=1&amp;mkind=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104744&amp;page=1&amp;mkind=1&amp;kind=3</guid>
-            <pubDate>Mon, 14 Feb 2022 08:18:46 GMT</pubDate>
-            <content:encoded><![CDATA[그 어느 때보다 많은 조직들이 오래된 데이터를 클라우드로 옮겨 쉽게 접근하고 더 안전하게 보호받으려 하고 있다. 물론 데이터 관리가 더 쉬워지고 가시성이 높아진다는 장점도 빼놓을 수 없다. 그런데 클라우드의 이런 장점을 알고도 잘 누리지 못해 안타까워만 하는 기업들도 ...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[사이버대학 성적·졸업증명서도 모바일 전자증명서로 발급한다 (보안뉴스 ─ IT)]]></title>
@@ -1895,6 +1895,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2021/12/msit_1223001_MAIN.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[사이버 보안, 생물학을 닮기 시작하다 (보안뉴스 ─ 국제)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104793&amp;page=1&amp;mkind=&amp;kind=4&amp;skind=D&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104793&amp;page=1&amp;mkind=&amp;kind=4&amp;skind=D&amp;search=title&amp;find=</guid>
+            <pubDate>Wed, 16 Feb 2022 02:09:10 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/view.asp?idx=104793&amp;page=1&amp;mkind=&amp;kind=4&amp;skind=D&amp;search=title&amp;find=">
+					
+					<img src="/media/upFiles2/2022/02/bio-thumb-0215.jpg" alt="" class="news_img" height="70">
+					
+					<span class="news_txt">사이버 보안, 생물학을 닮기 시작하다</span>
+					</a><br>
+					<a href="/media/view.asp?idx=104793&amp;page=1&amp;mkind=&amp;kind=4&amp;skind=D&amp;search=title&amp;find=">사이버 보안 분야가 최근 몇 년 동안 눈부시게 발전하는 중이다. 그렇지만 그 어느 때보다 고통에 시달리고 있기도 하다. 해킹과 크래킹 등 각종 공격 기술들 역시 ...</a> <span class="news_writer">문가용 기자 | 2022년 02월 16일 10:36</span>]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/bio-thumb-0215.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[어나니머스 해커, “캐나다 트럭 시위 자금 출처가 수상하다” (보안뉴스 ─ 국제)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104790&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104790&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
@@ -2159,20 +2173,6 @@
 					</a><br>
 					<a href="/media/view.asp?idx=104741&amp;page=1&amp;mkind=&amp;kind=4&amp;skind=D&amp;search=title&amp;find=">현대의 챗봇들은 아직 사람과 대화한다는 느낌을 주지 못한다. 그리고 몇 마디 대화를 하면 더 이어가기가 힘들다. 광고에 대대적으로 나오는 것만큼 다양한 상황에서 ...</a> <span class="news_writer">문가용 기자 | 2022년 02월 12일 15:37</span>]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/ai-thumb-0211.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[MS, 디펜더에서 발견된 백신 우회 취약점 해결 (보안뉴스 ─ 국제)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104730&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104730&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
-            <pubDate>Fri, 11 Feb 2022 03:16:21 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/view.asp?idx=104730&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
-					
-					<img src="/media/upFiles2/2022/02/shield-thumb-0211.jpg" alt="" class="news_img" height="70">
-					
-					<span class="news_txt">MS, 디펜더에서 발견된 백신 우회 취약점 해결</span>
-					</a><br>
-					<a href="/media/view.asp?idx=104730&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">마이크로소프트가 자사 백신 솔루션인 디펜더 안티바이러스(Defender Antivirus)의 취약점을 패치했다. 원격의 공격자가 악성 페이로드를 주입할 수 있게 ...</a> <span class="news_writer">문가용 기자 | 2022년 02월 11일 12:12</span>]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/shield-thumb-0211.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2021년 해외 사이버 보안 업계에 어떤 M&A가 성사됐나 (보안뉴스 ─ 기획특집)]]></title>
