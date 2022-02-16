@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Feb 2022 12:25:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Feb 2022 13:19:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[사이버 보안, 더 은밀하고 더 강력하게 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104825&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104825&amp;page=1&amp;kind=1</guid>
+            <pubDate>Wed, 16 Feb 2022 13:17:37 GMT</pubDate>
+            <content:encoded><![CDATA[10년 전만 해도 CIO들에게 있어 사이버 보안이란 중요도에 있어 순위가 꽤나 밀리는 것이었다. 오늘 날? 사정이 크게 달라졌다. 이제 보안은 CIO들을 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/pen-thyumb-0216.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[다가오는 메타버스, 지금 당장 우리 조직이 해야 할 일은? (보안뉴스 ─ 전체기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104806&amp;page=1&amp;kind=4</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 16 Feb 2022 02:07:31 GMT</pubDate>
             <content:encoded><![CDATA[사이버 보안 분야가 최근 몇 년 동안 눈부시게 발전하는 중이다. 그렇지만 그 어느 때보다 고통에 시달리고 있기도 하다. 해킹과 크래킹 등 각종 공격 기술들...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/bio-thumb-0215.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제115차 CISO포럼, ‘메타버스’에서의 보안위협 및 대응방안 공유 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104791&amp;page=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104791&amp;page=1&amp;kind=3</guid>
-            <pubDate>Tue, 15 Feb 2022 05:14:17 GMT</pubDate>
-            <content:encoded><![CDATA[페이스북이 사명을 ‘메타(META)’로 바꿀 정도로 메가트렌드가 된 ‘메타버스(METAVERSE)’지만, 정작 이에 대한 보안은 아직 논의되지 않고 있다....]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/ciso_0215001_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[두산 디지털이노베이션, NFT 상품 거래 가능한 마켓플레이스 오픈 (보안뉴스 ─ 전체기사)]]></title>
@@ -373,13 +373,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/2-102(295).jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[온라인 학점은행제로 지식재산학사 학위 무료 취득할 수 있어요 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104738&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104738&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
-            <pubDate>Wed, 16 Feb 2022 03:16:12 GMT</pubDate>
-            <content:encoded><![CDATA[특허청 국제지식재산연수원은 오는 14일부터 2주간 2022년 1학기 지식재산학 학점은행 온라인 수강생을 모집한다. ‘지식재산학’ 전공은 지식재산의 창출, 활용, ...]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[제115차 CISO포럼, ‘메타버스’에서의 보안위협 및 대응방안 공유 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104791&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104791&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
@@ -388,11 +381,25 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/ciso_0215001_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[온라인 학점은행제로 지식재산학사 학위 무료 취득할 수 있어요 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104738&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104738&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
+            <pubDate>Wed, 16 Feb 2022 03:16:12 GMT</pubDate>
+            <content:encoded><![CDATA[특허청 국제지식재산연수원은 오는 14일부터 2주간 2022년 1학기 지식재산학 학점은행 온라인 수강생을 모집한다. ‘지식재산학’ 전공은 지식재산의 창출, 활용, ...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[조경식 과기정통부 제2차관, 스마트경로당 사업 성과보고회 참석 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104735&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104735&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
             <pubDate>Wed, 16 Feb 2022 03:16:12 GMT</pubDate>
             <content:encoded><![CDATA[과학기술정보통신부 조경식 제2차관은 지난 11일 대전 유성구 소재 경로당에서 개최하는 2021년 스마트경로당 사업 성과보고회에 참석했다. ‘스마트경로당’은 스마트...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[두산 디지털이노베이션, NFT 상품 거래 가능한 마켓플레이스 오픈 (보안뉴스 ─ SECURITY)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104824&amp;page=1&amp;mkind=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104824&amp;page=1&amp;mkind=1&amp;kind=3</guid>
+            <pubDate>Wed, 16 Feb 2022 13:17:55 GMT</pubDate>
+            <content:encoded><![CDATA[두산 디지털이노베이션(대표 박석원, 이하 DDI)이 지난 15일, 두버스(Dooverse) 내에 NFT(Non-Fungible-Token, 대체 불가능한 토큰) 상품을 거래할 수 있는 마켓플레이스를 공식 오픈하고 서비스를 시작했다. 두버스는 DDI가 서비스하고 있는 N...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[아직은 조용한 비영리 단체들, 지금부터 보안 강화 시작해야 한다 (보안뉴스 ─ SECURITY)]]></title>
@@ -505,13 +512,6 @@
             <guid>https://www.boannews.com/media/view.asp?idx=104805&amp;page=1&amp;mkind=1&amp;kind=3</guid>
             <pubDate>Wed, 16 Feb 2022 03:16:24 GMT</pubDate>
             <content:encoded><![CDATA[LG전자가 글로벌 정보보안 인증인 ‘TISAX(티삭스)’를 전장사업 3가지 주요 부문에서 모두 획득하며 자동차 부품사업 경쟁력을 강화한다. TISAX는 자동차 제조사들마다 보유하고 있는 서로 다른 보안 평가기준을 표준화시키기 위해 독일자동차산업협회(VDA, Verbun...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[로그프레소, 로그4j 취약점 관리 서비스 오픈 (보안뉴스 ─ SECURITY)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104808&amp;page=1&amp;mkind=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104808&amp;page=1&amp;mkind=1&amp;kind=3</guid>
-            <pubDate>Wed, 16 Feb 2022 03:16:24 GMT</pubDate>
-            <content:encoded><![CDATA[SecOps 플랫폼 전문기업 로그프레소(대표 양봉열)는 로그4j 리스크 관리 전용 서비스 ‘로그프레소 워치(Logpresso Watch)’를 출시한다고 밝혔다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[사이버대학 성적·졸업증명서도 모바일 전자증명서로 발급한다 (보안뉴스 ─ IT)]]></title>
@@ -1888,6 +1888,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2021/12/msit_1223001_MAIN.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[사이버 보안, 더 은밀하고 더 강력하게 (보안뉴스 ─ 국제)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104825&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104825&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
+            <pubDate>Wed, 16 Feb 2022 13:19:05 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/view.asp?idx=104825&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
+					
+					<img src="/media/upFiles2/2022/02/pen-thyumb-0216.jpg" alt="" class="news_img" height="70">
+					
+					<span class="news_txt">사이버 보안, 더 은밀하고 더 강력하게</span>
+					</a><br>
+					<a href="/media/view.asp?idx=104825&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">10년 전만 해도 CIO들에게 있어 사이버 보안이란 중요도에 있어 순위가 꽤나 밀리는 것이었다. 오늘 날? 사정이 크게 달라졌다. 이제 보안은 CIO들을 항상 궁...</a> <span class="news_writer">문가용 기자 | 2022년 02월 16일 21:46</span>]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/pen-thyumb-0216.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[다가오는 메타버스, 지금 당장 우리 조직이 해야 할 일은? (보안뉴스 ─ 국제)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104806&amp;page=1&amp;mkind=&amp;kind=4&amp;skind=D&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104806&amp;page=1&amp;mkind=&amp;kind=4&amp;skind=D&amp;search=title&amp;find=</guid>
@@ -2152,20 +2166,6 @@
 					</a><br>
 					<a href="/media/view.asp?idx=104755&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">바로 얼마 전 정기 패치를 진행한 어도비가 주말 동안 긴급 패치를 발표 및 배포하기 시작했다. 커머스(Commerce)와 마젠토(Magento)라는 온라인 거래 ...</a> <span class="news_writer">문가용 기자 | 2022년 02월 14일 11:37</span>]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/comm-thumb-0214.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[구글, 2021년 한 해 동안 보안 전문가들에 870만 달러 지급 (보안뉴스 ─ 국제)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104754&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104754&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
-            <pubDate>Mon, 14 Feb 2022 03:17:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/view.asp?idx=104754&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
-					
-					<img src="/media/upFiles2/2022/02/goot-humb-0214.jpg" alt="" class="news_img" height="70">
-					
-					<span class="news_txt">구글, 2021년 한 해 동안 보안 전문가들에 870만 달러 지급</span>
-					</a><br>
-					<a href="/media/view.asp?idx=104754&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">구글이 작년 한 해 동안 버그바운티를 통해 외부 보안 전문가들에게 총 870만 달러를 지급한 것으로 조사됐다. 수혜를 받은 전문가들은 총 62개국 696명이라고 ...</a> <span class="news_writer">문가용 기자 | 2022년 02월 14일 11:36</span>]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/goot-humb-0214.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2022년 대한민국 보안시장 규모, 6조 4,453억원 전망 (보안뉴스 ─ 기획특집)]]></title>

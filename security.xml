@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-02-16T12:25:11.440Z</updated>
+    <updated>2022-02-16T13:19:33.474Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[두산 디지털이노베이션, NFT 상품 거래 가능한 마켓플레이스 오픈]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104824&amp;page=1&amp;mkind=1&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104824&amp;page=1&amp;mkind=1&amp;kind=3"/>
+        <updated>2022-02-16T13:17:55.843Z</updated>
+        <content type="html"><![CDATA[두산 디지털이노베이션(대표 박석원, 이하 DDI)이 지난 15일, 두버스(Dooverse) 내에 NFT(Non-Fungible-Token, 대체 불가능한 토큰) 상품을 거래할 수 있는 마켓플레이스를 공식 오픈하고 서비스를 시작했다. 두버스는 DDI가 서비스하고 있는 N...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아직은 조용한 비영리 단체들, 지금부터 보안 강화 시작해야 한다]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=104823&amp;page=1&amp;mkind=1&amp;kind=1</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=104805&amp;page=1&amp;mkind=1&amp;kind=3"/>
         <updated>2022-02-16T03:16:24.150Z</updated>
         <content type="html"><![CDATA[LG전자가 글로벌 정보보안 인증인 ‘TISAX(티삭스)’를 전장사업 3가지 주요 부문에서 모두 획득하며 자동차 부품사업 경쟁력을 강화한다. TISAX는 자동차 제조사들마다 보유하고 있는 서로 다른 보안 평가기준을 표준화시키기 위해 독일자동차산업협회(VDA, Verbun...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[로그프레소, 로그4j 취약점 관리 서비스 오픈]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104808&amp;page=1&amp;mkind=1&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104808&amp;page=1&amp;mkind=1&amp;kind=3"/>
-        <updated>2022-02-16T03:16:24.151Z</updated>
-        <content type="html"><![CDATA[SecOps 플랫폼 전문기업 로그프레소(대표 양봉열)는 로그4j 리스크 관리 전용 서비스 ‘로그프레소 워치(Logpresso Watch)’를 출시한다고 밝혔다.]]></content>
     </entry>
 </feed>
