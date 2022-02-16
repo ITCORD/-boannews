@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=4</id>
     <title>보안뉴스 ─ SAFETY</title>
-    <updated>2022-02-15T23:18:35.851Z</updated>
+    <updated>2022-02-16T00:58:42.286Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[해상 부유물 피해 안전 조업하세요]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104766&amp;page=1&amp;mkind=4&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104766&amp;page=1&amp;mkind=4&amp;kind=2"/>
+        <updated>2022-02-16T00:57:02.862Z</updated>
+        <content type="html"><![CDATA[한국해양교통안전공단(KOMSA)은 해양수산부와 함께 그동안 수치로만 제공되던 부유물 감김사고 정보를 어업 종사자 등이 쉽게 이해할 수 있도록 보완한 ‘어선 부유물감김 사고 현황도(2016~2020)’를 제공한다고 밝혔다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[소방청, 화재 현장의 소방시설 활용도 높인다]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104718&amp;page=1&amp;mkind=4&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104718&amp;page=1&amp;mkind=4&amp;kind=2"/>
+        <updated>2022-02-16T00:57:02.865Z</updated>
+        <content type="html"><![CDATA[소방청은 화재 현장에서 소방대원들이 건물의 자체 소방시설을 적극 활용해 진압 활동을 할 수 있도록 하고, 화재 발생 건물의 자체 소방설비가 작동하지 않아 화재가 확산되는 사례를 방지하기 위해 관련 대책을 추진한다고 밝혔다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[강원도-SK텔레콤, 대형 산불 대비 비상 통신체계 구축]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=104721&amp;page=1&amp;mkind=4&amp;kind=2</id>
@@ -109,19 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=104539&amp;page=1&amp;mkind=4&amp;kind=2"/>
         <updated>2022-02-09T00:59:32.007Z</updated>
         <content type="html"><![CDATA[전주시는 올해 총 7억2,600만원의 사업비를 투입해 서부신시가지 홍산중앙로 등 5곳을 대상으로 위험도로의 구조 개선해 교통사고 다발지역 및 교통혼잡지역을 정비하는 ‘2022년 교통사고 잦은 곳’ 개선 사업을 추진한다고 밝혔다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[광주소방안전본부, 아파트 옥상에 ‘비상문자동개폐장치’ 설치하세요]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104541&amp;page=1&amp;mkind=4&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104541&amp;page=1&amp;mkind=4&amp;kind=2"/>
-        <updated>2022-02-08T01:02:49.669Z</updated>
-        <content type="html"><![CDATA[광주시 소방안전본부는 전국 소방본부 중 처음으로 화재 등 재난 상황 발생 시 옥상 공간을 활용한 주민 안전대피로 확보를 위해 옥상출입 비상문자동개폐장치 설치를 지원한다고 밝혔다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[광주시, 교통문화지수 평가 결과 전국 광역지자체 중 2위]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104545&amp;page=1&amp;mkind=4&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104545&amp;page=1&amp;mkind=4&amp;kind=2"/>
-        <updated>2022-02-05T01:39:03.151Z</updated>
-        <content type="html"><![CDATA[광주광역시는 교통안전 의식 수준을 나타내는 ‘교통문화지수’ 평가 결과, 전국 17개 광역자치단체 중 2위를 차지했다고 밝혔다. 특히 이번 평가에서 교통안전 전문성 및 예산 확보·교통안전 정책 이행 정도·어린이교통사고 사망 제로화 등을 나타내는 ‘교통안전’지표에서 25점...]]></content>
     </entry>
 </feed>
