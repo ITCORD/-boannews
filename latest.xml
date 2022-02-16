@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Feb 2022 03:18:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Feb 2022 04:21:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -86,6 +86,13 @@
             <pubDate>Tue, 15 Feb 2022 03:15:39 GMT</pubDate>
             <content:encoded><![CDATA[2021년은 랜섬웨어의 해였고, 그 랜섬웨어 때문에 발생한 피해액의 74%는 러시아로 흘러들어갔다는 연구 조사가 발표됐다. 이는 블록체인 분석 전문 기업 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/ran-thumb-0215.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[부고] 대영하이테크 송화수 대표이사 장인상]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104819&amp;page=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104819&amp;page=1&amp;kind=3</guid>
+            <pubDate>Wed, 16 Feb 2022 04:19:18 GMT</pubDate>
+            <content:encoded><![CDATA[△내 용 : 대영하이테크 송화수 대표이사 장인상 △빈 소 : 성남시의료원장례식장 7호실 △발 인 : 2022년 2월 17일 11시]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[화웨이, 중동·아프리카 지역 최대 규모의 저탄소 태양광 데이터센터 설립]]></title>
@@ -229,14 +236,6 @@
             <pubDate>Tue, 15 Feb 2022 05:14:17 GMT</pubDate>
             <content:encoded><![CDATA[인공지능(AI) 기반 정보보호 선도 기업 이글루시큐리티(대표이사 이득춘)는 데이터와 통합보안관제(SIEM) 분야에 특화된 3건의 특허 등록을 완료했다고 밝...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/igloo_021501_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[구글 크롬, 긴급 업데이트로 제로데이 취약점 해결]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104787&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104787&amp;page=1&amp;kind=1</guid>
-            <pubDate>Tue, 15 Feb 2022 03:15:39 GMT</pubDate>
-            <content:encoded><![CDATA[구글 크롬에서 고위험군 취약점인 CVE-2022-0609가 발견됐다. 발견됐을 때는 이미 해커들이 악용하고 있는 ‘제로데이’ 상태였다. 이 취약점의 출처는...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/pat-thumb-0215.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
