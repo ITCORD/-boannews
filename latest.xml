@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Feb 2022 04:21:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Feb 2022 05:15:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -86,6 +86,14 @@
             <pubDate>Tue, 15 Feb 2022 03:15:39 GMT</pubDate>
             <content:encoded><![CDATA[2021년은 랜섬웨어의 해였고, 그 랜섬웨어 때문에 발생한 피해액의 74%는 러시아로 흘러들어갔다는 연구 조사가 발표됐다. 이는 블록체인 분석 전문 기업 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/ran-thumb-0215.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아이알에스소프트코리아, 한화/기계에 ‘영역 보안 및 암호화’ 솔루션 공급]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104820&amp;page=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104820&amp;page=1&amp;kind=3</guid>
+            <pubDate>Wed, 16 Feb 2022 05:13:53 GMT</pubDate>
+            <content:encoded><![CDATA[아이알에스소프트코리아(대표 김상욱)는 엑스소프트에서 수주한 한화/기계의 ‘전사 디지털 자산화 플랫폼 구축 사업’에서 ‘영역 보안 및 암호화’ 솔루션을 공급...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/20220216irsoft-s.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[[부고] 대영하이테크 송화수 대표이사 장인상]]></title>
@@ -228,14 +236,6 @@
             <guid>https://www.boannews.com/media/view.asp?idx=104807&amp;page=1&amp;kind=3</guid>
             <pubDate>Wed, 16 Feb 2022 00:56:19 GMT</pubDate>
             <content:encoded><![CDATA[△내 용 : 아이티로그인 김태현 대표이사 부친상 △빈 소 : 고려대학교안암병원장례식장 301호 △발 인 : 2022년 2월 17일 △장 지 : 양주시 장흥...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[이글루시큐리티, 데이터·SIEM 특허 3건 취득]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104792&amp;page=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104792&amp;page=1&amp;kind=3</guid>
-            <pubDate>Tue, 15 Feb 2022 05:14:17 GMT</pubDate>
-            <content:encoded><![CDATA[인공지능(AI) 기반 정보보호 선도 기업 이글루시큐리티(대표이사 이득춘)는 데이터와 통합보안관제(SIEM) 분야에 특화된 3건의 특허 등록을 완료했다고 밝...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/igloo_021501_main.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

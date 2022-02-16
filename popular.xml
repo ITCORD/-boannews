@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Feb 2022 04:21:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Feb 2022 05:15:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -40,14 +40,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/lin-thumb-0210.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[KISA·이스트시큐리티 ESRC 등 보안기관·기업 사칭 피싱 이메일 연이어 유포]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104668&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104668&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Thu, 10 Feb 2022 06:18:15 GMT</pubDate>
-            <content:encoded><![CDATA[최근 한국인터넷진흥원(KISA)와 이스트시큐리티 시큐리티대응센터(ESRC) 등 우리나라의 보안전문 공공기관과 대표적인 보안전문기업의 보안대응센터를 사칭한 피싱 이...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/20220209ESRC-SM.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
             <title><![CDATA[[주말판] 대화형 인공지능과 챗봇, 어디까지 와 있나]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104741&amp;page=1&amp;kind=4&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104741&amp;page=1&amp;kind=4&amp;search=title&amp;find=</guid>
@@ -64,20 +56,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/20220214dark-s.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
-            <title><![CDATA[정부의 ‘정보보호 산업’ 전략적 육성방안, 어떤 내용 담겼나]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104657&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104657&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
-            <pubDate>Fri, 11 Feb 2022 11:13:15 GMT</pubDate>
-            <content:encoded><![CDATA[정부가 융합보안 시장 성장 전망을 바탕으로 정보보호산업을 차세대 전략산업으로 육성하겠다고 밝혔다. 과학기술정보통신부(장관 임혜숙, 이하 과기정통부)는 디지털 경제...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/12499913_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[CISO들, 로그4j에 대해서 어떻게 설명할 것인가?]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104763&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104763&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Tue, 15 Feb 2022 06:18:14 GMT</pubDate>
             <content:encoded><![CDATA[기업들을 겨냥한 사이버 공격은 이제 흔한 것이 되어버렸고 점점 더 심해지고 있다. 그러니 경영진들도 신경을 안 쓸 수가 없고, 보안에 대한 투자 규모를 늘려가고 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/log-thmb-0214.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[정부의 ‘정보보호 산업’ 전략적 육성방안, 어떤 내용 담겼나]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104657&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104657&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
+            <pubDate>Fri, 11 Feb 2022 11:13:15 GMT</pubDate>
+            <content:encoded><![CDATA[정부가 융합보안 시장 성장 전망을 바탕으로 정보보호산업을 차세대 전략산업으로 육성하겠다고 밝혔다. 과학기술정보통신부(장관 임혜숙, 이하 과기정통부)는 디지털 경제...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/12499913_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[클라우드로의 이전을 망설여지게 하는 대표적 이유 6]]></title>
@@ -162,6 +154,14 @@
             <guid>https://www.boannews.com/media/view.asp?idx=104735&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
             <pubDate>Wed, 16 Feb 2022 03:16:12 GMT</pubDate>
             <content:encoded><![CDATA[과학기술정보통신부 조경식 제2차관은 지난 11일 대전 유성구 소재 경로당에서 개최하는 2021년 스마트경로당 사업 성과보고회에 참석했다. ‘스마트경로당’은 스마트...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[사이버 보안 대표기업 2022년 출사표-12] S2W]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104414&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104414&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
+            <pubDate>Wed, 16 Feb 2022 05:14:01 GMT</pubDate>
+            <content:encoded><![CDATA[데이터 인텔리전스 기업 에스투더블유(S2W)는 지난 2018년 카이스트 네트워크 보안 전문 연구진을 주축으로 설립한 이래 기술력을 바탕으로 괄목할 성장을 해오고 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/RESIZEProduct%20ImageSUM.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

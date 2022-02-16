@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-02-16T04:21:22.854Z</updated>
+    <updated>2022-02-16T05:15:47.473Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[화웨이, 중동·아프리카 지역 최대 규모의 저탄소 태양광 데이터센터 설립]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104817&amp;page=1&amp;mkind=1&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104817&amp;page=1&amp;mkind=1&amp;kind=3"/>
+        <updated>2022-02-16T05:14:10.280Z</updated>
+        <content type="html"><![CDATA[화웨이가 중동·아프리카 지역 최대 규모의 저탄소 태양광 전력 공급 데이터센터를 설립한다고 밝혔다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이지서티, 고용노동부 주관 근무 혁신 우수 기업 선정]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=104816&amp;page=1&amp;mkind=1&amp;kind=3</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=104789&amp;page=1&amp;mkind=1&amp;kind=1"/>
         <updated>2022-02-15T05:14:39.315Z</updated>
         <content type="html"><![CDATA[인도 정부가 국가 안보와 정보 보안을 이유로 중국에서 개발한 모바일 앱 54개를 금지시켰다. 이 중에는 중국의 대형 IT 업체들과 게임사에서 개발한 유명 앱들도 포함되어 있다. 특히 구글 플레이에서 10억 회 이상 다운로드 된 대형 히트작인 ‘프리파이어(Free Fir...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[랜섬웨어 수익금 74%가 러시아로 흘러들어간다]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104788&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104788&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-02-15T05:14:39.316Z</updated>
-        <content type="html"><![CDATA[2021년은 랜섬웨어의 해였고, 그 랜섬웨어 때문에 발생한 피해액의 74%는 러시아로 흘러들어갔다는 연구 조사가 발표됐다. 이는 블록체인 분석 전문 기업 체이널리시스(Chainalysis)가 발표한 것으로, 74%라 함은 4억 달러 이상의 돈을 말한다. 피해자들의 돈을...]]></content>
     </entry>
 </feed>
