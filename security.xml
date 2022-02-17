@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-02-17T09:18:12.331Z</updated>
+    <updated>2022-02-17T10:19:24.453Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[사이버보안 등 국가필수전략기술 확보를 위한 출연(연) 전략 발표회 개최]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104853&amp;page=1&amp;mkind=1&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104853&amp;page=1&amp;mkind=1&amp;kind=2"/>
+        <updated>2022-02-17T10:17:30.664Z</updated>
+        <content type="html"><![CDATA[과학기술정보통신부(장관 임혜숙, 이하 ‘과기정통부’)와 국가과학기술연구회(NST) 소속 12개 출연연은 지난해 말 발표한 ‘국가필수전략기술 선정 및 육성·보호 전략’의 신속한 추진을 위해 ‘국가필수전략기술 확보를 위한 출연(연) 전략 발표회’를 개최했다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2021년, 중소기업 노린 사이버 범죄 늘었다]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=104856&amp;page=1&amp;mkind=1&amp;kind=3</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=104822&amp;page=1&amp;mkind=1&amp;kind=3"/>
         <updated>2022-02-16T09:14:55.138Z</updated>
         <content type="html"><![CDATA[정보보안 솔루션 전문기업 위즈코리아(대표 김기배)가 2022년 창립 20주년의 해를 맞아 핵심이념 선포 및 대규모 인재 채용에 나선다고 16일 밝혔다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아이알에스소프트코리아, 한화/기계에 ‘영역 보안 및 암호화’ 솔루션 공급]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104820&amp;page=1&amp;mkind=1&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104820&amp;page=1&amp;mkind=1&amp;kind=3"/>
-        <updated>2022-02-16T09:14:55.139Z</updated>
-        <content type="html"><![CDATA[아이알에스소프트코리아(대표 김상욱)는 엑스소프트에서 수주한 한화/기계의 ‘전사 디지털 자산화 플랫폼 구축 사업’에서 ‘영역 보안 및 암호화’ 솔루션을 공급한다고 밝혔다.]]></content>
     </entry>
 </feed>

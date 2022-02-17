@@ -4,9 +4,17 @@
         <title>보안뉴스 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Feb 2022 09:18:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Feb 2022 10:19:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Weekly Security Premium Report 제38호 발간! 클레이스왑 해킹 사건 집중분석]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104860&amp;page=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104860&amp;page=1&amp;kind=3</guid>
+            <pubDate>Thu, 17 Feb 2022 10:17:11 GMT</pubDate>
+            <content:encoded><![CDATA[2월 10일 발간된 ‘Weekly Security Premium Report’ 제38호에는 &lt;보안 심층 리포트&gt; 코너에서 최근 IT 및 보안 분...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/20220217report-sm.JPG" length="0" type="image/JPG"/>
+        </item>
         <item>
             <title><![CDATA[글자의 민감한 부분을 가려주는 픽셀레이션, “강력 비추”]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104858&amp;page=1&amp;kind=1</link>
@@ -78,6 +86,14 @@
             <pubDate>Thu, 17 Feb 2022 02:24:58 GMT</pubDate>
             <content:encoded><![CDATA[아파치 카산드라(Apache Cassandra)에서 원격 코드 실행 취약점이 발견됐다. CVSS 기준 8.4점으로, 고위험군으로 분류됐으며 관리 번호는 C...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/ser-thumb-0217.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[오즈레이, 유니아이와 ‘가금류 질병 진단 및 생산관리 서비스’ 위해 업무협약 체결]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104859&amp;page=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104859&amp;page=1&amp;kind=3</guid>
+            <pubDate>Thu, 17 Feb 2022 10:17:11 GMT</pubDate>
+            <content:encoded><![CDATA[머신비전 및 적외선 카메라 전문 제조 기업 ‘오즈레이’와 인공지능 개발 업체 ‘유니아이’가 ‘가금류 질병 진단 및 생산관리 서비스’ 위해 업무협약을 체결했...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/21021704ss.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[우크라이나의 사이버 공간은 기능 마비와 변조로 혼란 정국]]></title>
@@ -220,22 +236,6 @@
             <pubDate>Thu, 17 Feb 2022 00:50:41 GMT</pubDate>
             <content:encoded><![CDATA[경남도는 뿌리기업 및 소부장기업의 생산설비 고도화 전환 지원과 서비스로봇 및 로봇부품기업 육성을 위한 실증 지원을 통한 경남 로봇산업 육성에 더욱 힘을 쏟...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/2-138(295).jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[인공지능(AI), 사람처럼 언어·시각 정보를 이해하고 판단한다]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104829&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104829&amp;page=1&amp;kind=2</guid>
-            <pubDate>Thu, 17 Feb 2022 00:50:41 GMT</pubDate>
-            <content:encoded><![CDATA[한국전자기술연구원(KETI)이 인공지능 연구에 활용 가능한 최첨단 사전학습 모델 ‘VL-KE-T5’를 무료 공개하고 배포했다고 밝혔다. ‘사전학습 모델’은...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/2-137(295).jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지스트, 학습하지 않은 물체도 인식할 수 있는 로봇 시각 인공지능 개발]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104828&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104828&amp;page=1&amp;kind=2</guid>
-            <pubDate>Thu, 17 Feb 2022 00:50:41 GMT</pubDate>
-            <content:encoded><![CDATA[지스트(광주과학기술원) 융합기술학제학부 이규빈 교수 연구팀은 계층적 가림 모델링을 통해 복잡한 로봇 환경에서도 미학습 물체의 가시 영역과 비가시 영역, 가...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/2-136(295).jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

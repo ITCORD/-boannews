@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Feb 2022 09:18:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Feb 2022 10:19:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,14 +30,6 @@
             <pubDate>Sat, 12 Feb 2022 03:14:46 GMT</pubDate>
             <content:encoded><![CDATA[최근 코발트 스트라이크 악성코드가 취약한 MS-SQL 서버를 대상으로 유포 중인 것을 확인했다고 안랩 ASEC 분석팀이 밝혔다. MS-SQL 서버는 윈도우 환경의...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/20220211AHN-S.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[리눅스 시스템과 서버 노리는 사이버 위협들, 크게 증가 중]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104699&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104699&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Fri, 11 Feb 2022 03:15:06 GMT</pubDate>
-            <content:encoded><![CDATA[클라우드 서비스, 가상기기 호스트, 컨테이너 기반 인프라가 늘어남에 따라 리눅스에 대한 인기와 관심도 덩달아 늘어나고 있다. 중요한 건 이 관심의 대부분이 사이버...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/lin-thumb-0210.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[주말판] 대화형 인공지능과 챗봇, 어디까지 와 있나]]></title>
@@ -104,20 +96,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/2-95(295).jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[사이버 보안 대표기업 2022년 출사표-15] 쏘마]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104405&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104405&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
-            <pubDate>Sun, 13 Feb 2022 16:20:47 GMT</pubDate>
-            <content:encoded><![CDATA[쏘마는 창업 6년 차에 접어들었다. 특히 지금까지 엔드포인트 위협 헌팅 플랫폼인 ‘몬스터’ 개발에 많은 노력을 기울여왔는데, 2021년에는 최근 글로벌 시장에서 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/RESIZEMONSTER_sum.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[구글 크롬, 긴급 업데이트로 제로데이 취약점 해결]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104787&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104787&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Wed, 16 Feb 2022 15:16:20 GMT</pubDate>
             <content:encoded><![CDATA[구글 크롬에서 고위험군 취약점인 CVE-2022-0609가 발견됐다. 발견됐을 때는 이미 해커들이 악용하고 있는 ‘제로데이’ 상태였다. 이 취약점의 출처는 애니메...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/pat-thumb-0215.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[사이버 보안 대표기업 2022년 출사표-15] 쏘마]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104405&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104405&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
+            <pubDate>Sun, 13 Feb 2022 16:20:47 GMT</pubDate>
+            <content:encoded><![CDATA[쏘마는 창업 6년 차에 접어들었다. 특히 지금까지 엔드포인트 위협 헌팅 플랫폼인 ‘몬스터’ 개발에 많은 노력을 기울여왔는데, 2021년에는 최근 글로벌 시장에서 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/RESIZEMONSTER_sum.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[제115차 CISO포럼, ‘메타버스’에서의 보안위협 및 대응방안 공유]]></title>
@@ -135,19 +127,19 @@
             <content:encoded><![CDATA[방위사업청은 사이버 해킹 등 기술 탈취의 위협으로부터 방산 중소·중견기업의 기술보호 수준을 높이기 위해 ‘2022년 방위산업기술 보호체계 구축·운영 지원 사업’에...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[과기정통부 용홍택 제1차관, 인공지능 활용 신약 개발 기업 현장 방문]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104737&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104737&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
-            <pubDate>Mon, 14 Feb 2022 12:24:04 GMT</pubDate>
-            <content:encoded><![CDATA[과학기술정보통신부(이하 과기정통부) 용홍택 제1차관은 10대 국가필수전략기술로 선정된 첨단 바이오 분야의 기술공감 연구 현장 점검을 위해 지난 11일 스탠다임을 ...]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[사이버 보안, 생물학을 닮기 시작하다]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104793&amp;page=1&amp;kind=4&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104793&amp;page=1&amp;kind=4&amp;search=title&amp;find=</guid>
             <pubDate>Thu, 17 Feb 2022 06:20:17 GMT</pubDate>
             <content:encoded><![CDATA[사이버 보안 분야가 최근 몇 년 동안 눈부시게 발전하는 중이다. 그렇지만 그 어느 때보다 고통에 시달리고 있기도 하다. 해킹과 크래킹 등 각종 공격 기술들 역시 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/bio-thumb-0215.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[과기정통부 용홍택 제1차관, 인공지능 활용 신약 개발 기업 현장 방문]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104737&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104737&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
+            <pubDate>Mon, 14 Feb 2022 12:24:04 GMT</pubDate>
+            <content:encoded><![CDATA[과학기술정보통신부(이하 과기정통부) 용홍택 제1차관은 10대 국가필수전략기술로 선정된 첨단 바이오 분야의 기술공감 연구 현장 점검을 위해 지난 11일 스탠다임을 ...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[랜섬웨어 수익금 74%가 러시아로 흘러들어간다]]></title>
@@ -164,6 +156,13 @@
             <pubDate>Thu, 17 Feb 2022 08:18:01 GMT</pubDate>
             <content:encoded><![CDATA[교육부는 사람의 성장을 지원하는 ‘교육 분야 인공지능 윤리원칙’ 마련을 위한 공청회를 12일 온라인으로 개최했다. 이번 공청회는 교육부가 지난 1월 27일에 발표...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/2-102(295).jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[온라인 학점은행제로 지식재산학사 학위 무료 취득할 수 있어요]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104738&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104738&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
+            <pubDate>Thu, 17 Feb 2022 10:17:21 GMT</pubDate>
+            <content:encoded><![CDATA[특허청 국제지식재산연수원은 오는 14일부터 2주간 2022년 1학기 지식재산학 학점은행 온라인 수강생을 모집한다. ‘지식재산학’ 전공은 지식재산의 창출, 활용, ...]]></content:encoded>
         </item>
     </channel>
 </rss>

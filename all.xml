@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Feb 2022 09:18:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Feb 2022 10:19:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Weekly Security Premium Report 제38호 발간! 클레이스왑 해킹 사건 집중분석 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104860&amp;page=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104860&amp;page=1&amp;kind=3</guid>
+            <pubDate>Thu, 17 Feb 2022 10:17:11 GMT</pubDate>
+            <content:encoded><![CDATA[2월 10일 발간된 ‘Weekly Security Premium Report’ 제38호에는 &lt;보안 심층 리포트&gt; 코너에서 최근 IT 및 보안 분...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/20220217report-sm.JPG" length="0" type="image/JPG"/>
+        </item>
         <item>
             <title><![CDATA[글자의 민감한 부분을 가려주는 픽셀레이션, “강력 비추” (보안뉴스 ─ 전체기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104858&amp;page=1&amp;kind=1</link>
@@ -78,6 +86,14 @@
             <pubDate>Thu, 17 Feb 2022 02:24:58 GMT</pubDate>
             <content:encoded><![CDATA[아파치 카산드라(Apache Cassandra)에서 원격 코드 실행 취약점이 발견됐다. CVSS 기준 8.4점으로, 고위험군으로 분류됐으며 관리 번호는 C...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/ser-thumb-0217.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[오즈레이, 유니아이와 ‘가금류 질병 진단 및 생산관리 서비스’ 위해 업무협약 체결 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104859&amp;page=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104859&amp;page=1&amp;kind=3</guid>
+            <pubDate>Thu, 17 Feb 2022 10:17:11 GMT</pubDate>
+            <content:encoded><![CDATA[머신비전 및 적외선 카메라 전문 제조 기업 ‘오즈레이’와 인공지능 개발 업체 ‘유니아이’가 ‘가금류 질병 진단 및 생산관리 서비스’ 위해 업무협약을 체결했...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/21021704ss.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[우크라이나의 사이버 공간은 기능 마비와 변조로 혼란 정국 (보안뉴스 ─ 전체기사)]]></title>
@@ -222,22 +238,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/2-138(295).jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[인공지능(AI), 사람처럼 언어·시각 정보를 이해하고 판단한다 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104829&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104829&amp;page=1&amp;kind=2</guid>
-            <pubDate>Thu, 17 Feb 2022 00:50:41 GMT</pubDate>
-            <content:encoded><![CDATA[한국전자기술연구원(KETI)이 인공지능 연구에 활용 가능한 최첨단 사전학습 모델 ‘VL-KE-T5’를 무료 공개하고 배포했다고 밝혔다. ‘사전학습 모델’은...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/2-137(295).jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지스트, 학습하지 않은 물체도 인식할 수 있는 로봇 시각 인공지능 개발 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104828&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104828&amp;page=1&amp;kind=2</guid>
-            <pubDate>Thu, 17 Feb 2022 00:50:41 GMT</pubDate>
-            <content:encoded><![CDATA[지스트(광주과학기술원) 융합기술학제학부 이규빈 교수 연구팀은 계층적 가림 모델링을 통해 복잡한 로봇 환경에서도 미학습 물체의 가시 영역과 비가시 영역, 가...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/2-136(295).jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[클레이스왑 해킹으로 드러난 BGP Hijacking 공격기법, 도대체 뭐길래? (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104743&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104743&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
@@ -260,14 +260,6 @@
             <pubDate>Sat, 12 Feb 2022 03:14:46 GMT</pubDate>
             <content:encoded><![CDATA[최근 코발트 스트라이크 악성코드가 취약한 MS-SQL 서버를 대상으로 유포 중인 것을 확인했다고 안랩 ASEC 분석팀이 밝혔다. MS-SQL 서버는 윈도우 환경의...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/20220211AHN-S.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[리눅스 시스템과 서버 노리는 사이버 위협들, 크게 증가 중 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104699&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104699&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Fri, 11 Feb 2022 03:15:06 GMT</pubDate>
-            <content:encoded><![CDATA[클라우드 서비스, 가상기기 호스트, 컨테이너 기반 인프라가 늘어남에 따라 리눅스에 대한 인기와 관심도 덩달아 늘어나고 있다. 중요한 건 이 관심의 대부분이 사이버...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/lin-thumb-0210.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[주말판] 대화형 인공지능과 챗봇, 어디까지 와 있나 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
@@ -334,20 +326,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/2-95(295).jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[사이버 보안 대표기업 2022년 출사표-15] 쏘마 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104405&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104405&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
-            <pubDate>Sun, 13 Feb 2022 16:20:47 GMT</pubDate>
-            <content:encoded><![CDATA[쏘마는 창업 6년 차에 접어들었다. 특히 지금까지 엔드포인트 위협 헌팅 플랫폼인 ‘몬스터’ 개발에 많은 노력을 기울여왔는데, 2021년에는 최근 글로벌 시장에서 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/RESIZEMONSTER_sum.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[구글 크롬, 긴급 업데이트로 제로데이 취약점 해결 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104787&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104787&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Wed, 16 Feb 2022 15:16:20 GMT</pubDate>
             <content:encoded><![CDATA[구글 크롬에서 고위험군 취약점인 CVE-2022-0609가 발견됐다. 발견됐을 때는 이미 해커들이 악용하고 있는 ‘제로데이’ 상태였다. 이 취약점의 출처는 애니메...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/pat-thumb-0215.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[사이버 보안 대표기업 2022년 출사표-15] 쏘마 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104405&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104405&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
+            <pubDate>Sun, 13 Feb 2022 16:20:47 GMT</pubDate>
+            <content:encoded><![CDATA[쏘마는 창업 6년 차에 접어들었다. 특히 지금까지 엔드포인트 위협 헌팅 플랫폼인 ‘몬스터’ 개발에 많은 노력을 기울여왔는데, 2021년에는 최근 글로벌 시장에서 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/RESIZEMONSTER_sum.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[제115차 CISO포럼, ‘메타버스’에서의 보안위협 및 대응방안 공유 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
@@ -365,19 +357,19 @@
             <content:encoded><![CDATA[방위사업청은 사이버 해킹 등 기술 탈취의 위협으로부터 방산 중소·중견기업의 기술보호 수준을 높이기 위해 ‘2022년 방위산업기술 보호체계 구축·운영 지원 사업’에...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[과기정통부 용홍택 제1차관, 인공지능 활용 신약 개발 기업 현장 방문 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104737&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104737&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
-            <pubDate>Mon, 14 Feb 2022 12:24:04 GMT</pubDate>
-            <content:encoded><![CDATA[과학기술정보통신부(이하 과기정통부) 용홍택 제1차관은 10대 국가필수전략기술로 선정된 첨단 바이오 분야의 기술공감 연구 현장 점검을 위해 지난 11일 스탠다임을 ...]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[사이버 보안, 생물학을 닮기 시작하다 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104793&amp;page=1&amp;kind=4&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104793&amp;page=1&amp;kind=4&amp;search=title&amp;find=</guid>
             <pubDate>Thu, 17 Feb 2022 06:20:17 GMT</pubDate>
             <content:encoded><![CDATA[사이버 보안 분야가 최근 몇 년 동안 눈부시게 발전하는 중이다. 그렇지만 그 어느 때보다 고통에 시달리고 있기도 하다. 해킹과 크래킹 등 각종 공격 기술들 역시 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/bio-thumb-0215.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[과기정통부 용홍택 제1차관, 인공지능 활용 신약 개발 기업 현장 방문 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104737&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104737&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
+            <pubDate>Mon, 14 Feb 2022 12:24:04 GMT</pubDate>
+            <content:encoded><![CDATA[과학기술정보통신부(이하 과기정통부) 용홍택 제1차관은 10대 국가필수전략기술로 선정된 첨단 바이오 분야의 기술공감 연구 현장 점검을 위해 지난 11일 스탠다임을 ...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[랜섬웨어 수익금 74%가 러시아로 흘러들어간다 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
@@ -394,6 +386,20 @@
             <pubDate>Thu, 17 Feb 2022 08:18:01 GMT</pubDate>
             <content:encoded><![CDATA[교육부는 사람의 성장을 지원하는 ‘교육 분야 인공지능 윤리원칙’ 마련을 위한 공청회를 12일 온라인으로 개최했다. 이번 공청회는 교육부가 지난 1월 27일에 발표...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/2-102(295).jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[온라인 학점은행제로 지식재산학사 학위 무료 취득할 수 있어요 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104738&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104738&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
+            <pubDate>Thu, 17 Feb 2022 10:17:21 GMT</pubDate>
+            <content:encoded><![CDATA[특허청 국제지식재산연수원은 오는 14일부터 2주간 2022년 1학기 지식재산학 학점은행 온라인 수강생을 모집한다. ‘지식재산학’ 전공은 지식재산의 창출, 활용, ...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[사이버보안 등 국가필수전략기술 확보를 위한 출연(연) 전략 발표회 개최 (보안뉴스 ─ SECURITY)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104853&amp;page=1&amp;mkind=1&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104853&amp;page=1&amp;mkind=1&amp;kind=2</guid>
+            <pubDate>Thu, 17 Feb 2022 10:17:30 GMT</pubDate>
+            <content:encoded><![CDATA[과학기술정보통신부(장관 임혜숙, 이하 ‘과기정통부’)와 국가과학기술연구회(NST) 소속 12개 출연연은 지난해 말 발표한 ‘국가필수전략기술 선정 및 육성·보호 전략’의 신속한 추진을 위해 ‘국가필수전략기술 확보를 위한 출연(연) 전략 발표회’를 개최했다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2021년, 중소기업 노린 사이버 범죄 늘었다 (보안뉴스 ─ SECURITY)]]></title>
@@ -506,13 +512,6 @@
             <guid>https://www.boannews.com/media/view.asp?idx=104822&amp;page=1&amp;mkind=1&amp;kind=3</guid>
             <pubDate>Wed, 16 Feb 2022 09:14:55 GMT</pubDate>
             <content:encoded><![CDATA[정보보안 솔루션 전문기업 위즈코리아(대표 김기배)가 2022년 창립 20주년의 해를 맞아 핵심이념 선포 및 대규모 인재 채용에 나선다고 16일 밝혔다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[아이알에스소프트코리아, 한화/기계에 ‘영역 보안 및 암호화’ 솔루션 공급 (보안뉴스 ─ SECURITY)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104820&amp;page=1&amp;mkind=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104820&amp;page=1&amp;mkind=1&amp;kind=3</guid>
-            <pubDate>Wed, 16 Feb 2022 09:14:55 GMT</pubDate>
-            <content:encoded><![CDATA[아이알에스소프트코리아(대표 김상욱)는 엑스소프트에서 수주한 한화/기계의 ‘전사 디지털 자산화 플랫폼 구축 사업’에서 ‘영역 보안 및 암호화’ 솔루션을 공급한다고 밝혔다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[통신3사, 지하철에서 5G 28㎓ 시대의 첫걸음을 내딛다 (보안뉴스 ─ IT)]]></title>
@@ -753,6 +752,14 @@
             <content:encoded><![CDATA[서울시는 2015년부터 추진해 온 ‘보이는 소화기’ 설치 사업에 대한 성과를 분석해 지난 3일 발표했다. 시 소방재난본부 통계에 따르면 2015년부터 2021년까지 설치한 보이는 소화기는 총 4만2,969대이며 지난해까지 시민들이 ‘보이는 소화기’로 직접 화재를 진화한...]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[오즈레이, 유니아이와 ‘가금류 질병 진단 및 생산관... (보안뉴스 ─ Security World)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104859&amp;mkind=5</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104859&amp;mkind=5</guid>
+            <pubDate>Thu, 17 Feb 2022 10:18:00 GMT</pubDate>
+            <content:encoded><![CDATA[머신비전 및 적외선 카메라 전문 제조 기업 ‘오즈레이’와 인공지능 개발 업체 ‘유니아이’가 ‘가금류 질병 진단 및 생산관리 서비스’ 위해 업무협약을 체결했...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/21021704ss.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[코로나19 확진자 폭증에 ‘에스원 얼굴인식 솔루션’... (보안뉴스 ─ Security World)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104843&amp;mkind=5</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104843&amp;mkind=5</guid>
@@ -761,12 +768,18 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/21021701ss.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[2022년 대한민국 보안시장 규모, 6조 4,453... (보안뉴스 ─ Security World)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104821&amp;mkind=5</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104821&amp;mkind=5</guid>
-            <pubDate>Wed, 16 Feb 2022 09:15:18 GMT</pubDate>
-            <content:encoded><![CDATA[국내 최대 보안전문 인터넷신문 &lt;보안뉴스&gt;와 보안종합 월간지 &lt;시큐리티월드&gt;가 발간한 ‘2022 국내외 보안시장 전망보고서’에 따르면, 2021년 국내 보...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/21021602ss.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[아파치 카산드라에서 고위험군 코드 실행 취약점 발견돼 (보안뉴스 ─ 취약점 경고 및 버그리포트)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104851&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104851&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=</guid>
+            <pubDate>Thu, 17 Feb 2022 10:18:09 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/view.asp?idx=104851&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=">
+					
+					<img src="/media/upFiles2/2022/02/ser-thumb-0217.jpg" alt="" class="news_img" height="70">
+					
+					<span class="news_txt">아파치 카산드라에서 고위험군 코드 실행 취약점 발견돼</span>
+					</a><br>
+					<a href="/media/view.asp?idx=104851&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=">아파치 카산드라(Apache Cassandra)에서 원격 코드 실행 취약점이 발견됐다. CVSS 기준 8.4점으로, 고위험군으로 분류됐으며 관리 번호는 CVE-2...</a> <span class="news_writer">문가용 기자 | 2022년 02월 17일 11:05</span>]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/ser-thumb-0217.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[랜섬웨어 수익금 74%가 러시아로 흘러들어간다 (보안뉴스 ─ 취약점 경고 및 버그리포트)]]></title>
@@ -1033,20 +1046,6 @@
 					</a><br>
 					<a href="/media/view.asp?idx=104506&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=">코로나19 백신의 3차 접종이 전 세계적으로 이슈가 되고 있는 가운데, 최근 중앙방역대책본부로 위장해 3차 백신 접종 이상반응 모니터링을 한다며 접근한 후 사용자...</a> <span class="news_writer">원병철 기자 | 2022년 01월 28일 17:53</span>]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/ESRC%20(1)_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[연말정산 간소화 서비스 821명 개인정보 노출... 국세청 재발 방지 다짐 (보안뉴스 ─ 취약점 경고 및 버그리포트)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104496&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104496&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=</guid>
-            <pubDate>Fri, 28 Jan 2022 01:59:05 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/view.asp?idx=104496&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=">
-					
-					<img src="/media/upFiles2/2022/01/RESIZERESIZEtax20220128.jpg" alt="" class="news_img" height="70">
-					
-					<span class="news_txt">연말정산 간소화 서비스 821명 개인정보 노출... 국세청 재발 방지 다짐</span>
-					</a><br>
-					<a href="/media/view.asp?idx=104496&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=">국세청 홈택스 연말정산 간소화 서비스에서 821명의 개인정보가 다른 사람에게 노출되는 사고가 발생했다.</a> <span class="news_writer">위아람 기자 | 2022년 01월 28일 10:14</span>]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/RESIZERESIZEtax20220128.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[최정식 발행인 칼럼] <시큐리티월드> 통권 300호를 맞아 드리는 감사의 말씀 (보안뉴스 ─ 오피니언)]]></title>
