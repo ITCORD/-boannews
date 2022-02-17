@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Feb 2022 12:26:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Feb 2022 13:20:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -342,20 +342,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/RESIZEMONSTER_sum.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[제115차 CISO포럼, ‘메타버스’에서의 보안위협 및 대응방안 공유 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104791&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104791&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
-            <pubDate>Wed, 16 Feb 2022 09:14:46 GMT</pubDate>
-            <content:encoded><![CDATA[페이스북이 사명을 ‘메타(META)’로 바꿀 정도로 메가트렌드가 된 ‘메타버스(METAVERSE)’지만, 정작 이에 대한 보안은 아직 논의되지 않고 있다. 이러한...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/ciso_0215001_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[사이버 보안, 생물학을 닮기 시작하다 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104793&amp;page=1&amp;kind=4&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104793&amp;page=1&amp;kind=4&amp;search=title&amp;find=</guid>
             <pubDate>Thu, 17 Feb 2022 06:20:17 GMT</pubDate>
             <content:encoded><![CDATA[사이버 보안 분야가 최근 몇 년 동안 눈부시게 발전하는 중이다. 그렇지만 그 어느 때보다 고통에 시달리고 있기도 하다. 해킹과 크래킹 등 각종 공격 기술들 역시 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/bio-thumb-0215.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[제115차 CISO포럼, ‘메타버스’에서의 보안위협 및 대응방안 공유 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104791&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104791&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
+            <pubDate>Wed, 16 Feb 2022 09:14:46 GMT</pubDate>
+            <content:encoded><![CDATA[페이스북이 사명을 ‘메타(META)’로 바꿀 정도로 메가트렌드가 된 ‘메타버스(METAVERSE)’지만, 정작 이에 대한 보안은 아직 논의되지 않고 있다. 이러한...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/ciso_0215001_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘2022년 방위산업기술 보호체계 구축·운영 지원 사업’ 참여기업 모집 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
