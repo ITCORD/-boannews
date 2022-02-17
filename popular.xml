@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Feb 2022 23:17:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Feb 2022 00:52:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -40,20 +40,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/lin-thumb-0210.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[주말판] 대화형 인공지능과 챗봇, 어디까지 와 있나]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104741&amp;page=1&amp;kind=4&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104741&amp;page=1&amp;kind=4&amp;search=title&amp;find=</guid>
-            <pubDate>Sun, 13 Feb 2022 05:13:07 GMT</pubDate>
-            <content:encoded><![CDATA[현대의 챗봇들은 아직 사람과 대화한다는 느낌을 주지 못한다. 그리고 몇 마디 대화를 하면 더 이어가기가 힘들다. 광고에 대대적으로 나오는 것만큼 다양한 상황에서 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/ai-thumb-0211.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[bnTV] 일촉즉발 우크라이나 사태! 러시아의 다크웹 랜섬웨어 소탕 배경은?]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104758&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104758&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Tue, 15 Feb 2022 01:00:54 GMT</pubDate>
             <content:encoded><![CDATA[우크라이나하고 러시아가 지금 일촉즉발의 위기잖아요. 여기에 사이버전도 계속 이슈가 많이 된다고 얘기를 들었거든요. 일단 지난해 크리스마스 시즌까지 거슬러 올라가야...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/20220214dark-s.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[[주말판] 대화형 인공지능과 챗봇, 어디까지 와 있나]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104741&amp;page=1&amp;kind=4&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104741&amp;page=1&amp;kind=4&amp;search=title&amp;find=</guid>
+            <pubDate>Sun, 13 Feb 2022 05:13:07 GMT</pubDate>
+            <content:encoded><![CDATA[현대의 챗봇들은 아직 사람과 대화한다는 느낌을 주지 못한다. 그리고 몇 마디 대화를 하면 더 이어가기가 힘들다. 광고에 대대적으로 나오는 것만큼 다양한 상황에서 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/ai-thumb-0211.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[CISO들, 로그4j에 대해서 어떻게 설명할 것인가?]]></title>
@@ -142,14 +142,6 @@
             <content:encoded><![CDATA[과학기술정보통신부(이하 과기정통부) 용홍택 제1차관은 10대 국가필수전략기술로 선정된 첨단 바이오 분야의 기술공감 연구 현장 점검을 위해 지난 11일 스탠다임을 ...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[교육부, ‘교육 분야 인공지능 윤리원칙’ 마련을 위한 공청회 개최]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104736&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104736&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
-            <pubDate>Wed, 16 Feb 2022 02:07:40 GMT</pubDate>
-            <content:encoded><![CDATA[교육부는 사람의 성장을 지원하는 ‘교육 분야 인공지능 윤리원칙’ 마련을 위한 공청회를 12일 온라인으로 개최했다. 이번 공청회는 교육부가 지난 1월 27일에 발표...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/2-102(295).jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[구글 크롬, 긴급 업데이트로 제로데이 취약점 해결]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104787&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104787&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
@@ -158,11 +150,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/pat-thumb-0215.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[온라인 학점은행제로 지식재산학사 학위 무료 취득할 수 있어요]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104738&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104738&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
-            <pubDate>Wed, 16 Feb 2022 03:16:12 GMT</pubDate>
-            <content:encoded><![CDATA[특허청 국제지식재산연수원은 오는 14일부터 2주간 2022년 1학기 지식재산학 학점은행 온라인 수강생을 모집한다. ‘지식재산학’ 전공은 지식재산의 창출, 활용, ...]]></content:encoded>
+            <title><![CDATA[2022년 대한민국 보안시장 규모, 6조 4,453억원 전망]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104821&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104821&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
+            <pubDate>Thu, 17 Feb 2022 00:50:51 GMT</pubDate>
+            <content:encoded><![CDATA[국내 최대 보안전문 인터넷신문 &lt;보안뉴스&gt;와 보안종합 월간지 &lt;시큐리티월드&gt;가 발간한 ‘2022 국내외 보안시장 전망보고서’에 따르면, 20...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/21021602ss.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[랜섬웨어 수익금 74%가 러시아로 흘러들어간다]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104788&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104788&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Thu, 17 Feb 2022 00:50:51 GMT</pubDate>
+            <content:encoded><![CDATA[2021년은 랜섬웨어의 해였고, 그 랜섬웨어 때문에 발생한 피해액의 74%는 러시아로 흘러들어갔다는 연구 조사가 발표됐다. 이는 블록체인 분석 전문 기업 체이널리...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/ran-thumb-0215.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
