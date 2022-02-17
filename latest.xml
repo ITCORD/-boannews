@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Feb 2022 06:22:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Feb 2022 07:17:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Thu, 17 Feb 2022 06:20:06 GMT</pubDate>
             <content:encoded><![CDATA[정보를 공유할 때, 민감한 부분만 골라서 흐릿하게 처리하는 기법은 꽤나 오래 전부터 사용되어 왔었다. 보안 전문가 댄 페트로(Dan Petro)는 이것이 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/text-thumb-0217.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[개인정보위, 2기 가명정보 결합 선도사례 중점 추진]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104857&amp;page=1&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104857&amp;page=1&amp;kind=2</guid>
+            <pubDate>Thu, 17 Feb 2022 07:14:43 GMT</pubDate>
+            <content:encoded><![CDATA[개인정보보호위원회(위원장 윤종인, 이하 개인정보위)와 관계부처는 안전한 데이터 활용을 위한 가명정보 제도를 확산시키기 위해, ’21년 시범사례에 이어, ’...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/free_021701_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[사이버보안 등 국가필수전략기술 확보를 위한 출연(연) 전략 발표회 개최]]></title>
@@ -228,13 +236,6 @@
             <pubDate>Thu, 17 Feb 2022 00:50:41 GMT</pubDate>
             <content:encoded><![CDATA[지스트(광주과학기술원) 융합기술학제학부 이규빈 교수 연구팀은 계층적 가림 모델링을 통해 복잡한 로봇 환경에서도 미학습 물체의 가시 영역과 비가시 영역, 가...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/2-136(295).jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[청주시, 시민교통안전 위한 시설 개선 96억원 투입한다]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104827&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104827&amp;page=1&amp;kind=2</guid>
-            <pubDate>Thu, 17 Feb 2022 00:50:41 GMT</pubDate>
-            <content:encoded><![CDATA[청주시가 2022년 시민교통안전을 위해 최신 정보통신기술을 도입, 사람 중심의 교통신호등 설치 등 도로 교통시설 개선 주요 사업 4개 분야 16개 세부 사...]]></content:encoded>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Feb 2022 06:22:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Feb 2022 07:17:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -120,6 +120,14 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/RESIZEMONSTER_sum.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[구글 크롬, 긴급 업데이트로 제로데이 취약점 해결]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104787&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104787&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Wed, 16 Feb 2022 15:16:20 GMT</pubDate>
+            <content:encoded><![CDATA[구글 크롬에서 고위험군 취약점인 CVE-2022-0609가 발견됐다. 발견됐을 때는 이미 해커들이 악용하고 있는 ‘제로데이’ 상태였다. 이 취약점의 출처는 애니메...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/pat-thumb-0215.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[제115차 CISO포럼, ‘메타버스’에서의 보안위협 및 대응방안 공유]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104791&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104791&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
@@ -133,14 +141,6 @@
             <guid>https://www.boannews.com/media/view.asp?idx=104740&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
             <pubDate>Mon, 14 Feb 2022 05:14:30 GMT</pubDate>
             <content:encoded><![CDATA[방위사업청은 사이버 해킹 등 기술 탈취의 위협으로부터 방산 중소·중견기업의 기술보호 수준을 높이기 위해 ‘2022년 방위산업기술 보호체계 구축·운영 지원 사업’에...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[구글 크롬, 긴급 업데이트로 제로데이 취약점 해결]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104787&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104787&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Wed, 16 Feb 2022 15:16:20 GMT</pubDate>
-            <content:encoded><![CDATA[구글 크롬에서 고위험군 취약점인 CVE-2022-0609가 발견됐다. 발견됐을 때는 이미 해커들이 악용하고 있는 ‘제로데이’ 상태였다. 이 취약점의 출처는 애니메...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/pat-thumb-0215.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[과기정통부 용홍택 제1차관, 인공지능 활용 신약 개발 기업 현장 방문]]></title>

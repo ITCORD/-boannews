@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Feb 2022 06:22:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Feb 2022 07:17:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,6 +14,14 @@
             <pubDate>Thu, 17 Feb 2022 06:20:06 GMT</pubDate>
             <content:encoded><![CDATA[정보를 공유할 때, 민감한 부분만 골라서 흐릿하게 처리하는 기법은 꽤나 오래 전부터 사용되어 왔었다. 보안 전문가 댄 페트로(Dan Petro)는 이것이 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/text-thumb-0217.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[개인정보위, 2기 가명정보 결합 선도사례 중점 추진 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104857&amp;page=1&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104857&amp;page=1&amp;kind=2</guid>
+            <pubDate>Thu, 17 Feb 2022 07:14:43 GMT</pubDate>
+            <content:encoded><![CDATA[개인정보보호위원회(위원장 윤종인, 이하 개인정보위)와 관계부처는 안전한 데이터 활용을 위한 가명정보 제도를 확산시키기 위해, ’21년 시범사례에 이어, ’...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/free_021701_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[사이버보안 등 국가필수전략기술 확보를 위한 출연(연) 전략 발표회 개최 (보안뉴스 ─ 전체기사)]]></title>
@@ -230,13 +238,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/2-136(295).jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[청주시, 시민교통안전 위한 시설 개선 96억원 투입한다 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104827&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104827&amp;page=1&amp;kind=2</guid>
-            <pubDate>Thu, 17 Feb 2022 00:50:41 GMT</pubDate>
-            <content:encoded><![CDATA[청주시가 2022년 시민교통안전을 위해 최신 정보통신기술을 도입, 사람 중심의 교통신호등 설치 등 도로 교통시설 개선 주요 사업 4개 분야 16개 세부 사...]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[클레이스왑 해킹으로 드러난 BGP Hijacking 공격기법, 도대체 뭐길래? (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104743&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104743&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
@@ -349,6 +350,14 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/RESIZEMONSTER_sum.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[구글 크롬, 긴급 업데이트로 제로데이 취약점 해결 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104787&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104787&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Wed, 16 Feb 2022 15:16:20 GMT</pubDate>
+            <content:encoded><![CDATA[구글 크롬에서 고위험군 취약점인 CVE-2022-0609가 발견됐다. 발견됐을 때는 이미 해커들이 악용하고 있는 ‘제로데이’ 상태였다. 이 취약점의 출처는 애니메...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/pat-thumb-0215.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[제115차 CISO포럼, ‘메타버스’에서의 보안위협 및 대응방안 공유 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104791&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104791&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
@@ -362,14 +371,6 @@
             <guid>https://www.boannews.com/media/view.asp?idx=104740&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
             <pubDate>Mon, 14 Feb 2022 05:14:30 GMT</pubDate>
             <content:encoded><![CDATA[방위사업청은 사이버 해킹 등 기술 탈취의 위협으로부터 방산 중소·중견기업의 기술보호 수준을 높이기 위해 ‘2022년 방위산업기술 보호체계 구축·운영 지원 사업’에...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[구글 크롬, 긴급 업데이트로 제로데이 취약점 해결 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104787&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104787&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Wed, 16 Feb 2022 15:16:20 GMT</pubDate>
-            <content:encoded><![CDATA[구글 크롬에서 고위험군 취약점인 CVE-2022-0609가 발견됐다. 발견됐을 때는 이미 해커들이 악용하고 있는 ‘제로데이’ 상태였다. 이 취약점의 출처는 애니메...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/pat-thumb-0215.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[과기정통부 용홍택 제1차관, 인공지능 활용 신약 개발 기업 현장 방문 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
@@ -393,6 +394,13 @@
             <pubDate>Thu, 17 Feb 2022 06:20:17 GMT</pubDate>
             <content:encoded><![CDATA[사이버 보안 분야가 최근 몇 년 동안 눈부시게 발전하는 중이다. 그렇지만 그 어느 때보다 고통에 시달리고 있기도 하다. 해킹과 크래킹 등 각종 공격 기술들 역시 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/bio-thumb-0215.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2021년, 중소기업 노린 사이버 범죄 늘었다 (보안뉴스 ─ SECURITY)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104856&amp;page=1&amp;mkind=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104856&amp;page=1&amp;mkind=1&amp;kind=3</guid>
+            <pubDate>Thu, 17 Feb 2022 07:15:03 GMT</pubDate>
+            <content:encoded><![CDATA[지난 2021년에는 중소기업을 대상으로 한 사이버범죄가 늘었으며, 이와 함께 아웃소싱된 범죄 또한 늘었다는 조사결과가 발표됐다. 블랙베리(BlackBerry Limited)가 발간한 ‘2022 블랙베리 연간 위협 보고서(2022 Annual Threat Report)’...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[FBI, “BEC 공격자들이 가상 회의에서 CEO를 사칭한다” (보안뉴스 ─ SECURITY)]]></title>
@@ -505,13 +513,6 @@
             <guid>https://www.boannews.com/media/view.asp?idx=104820&amp;page=1&amp;mkind=1&amp;kind=3</guid>
             <pubDate>Wed, 16 Feb 2022 09:14:55 GMT</pubDate>
             <content:encoded><![CDATA[아이알에스소프트코리아(대표 김상욱)는 엑스소프트에서 수주한 한화/기계의 ‘전사 디지털 자산화 플랫폼 구축 사업’에서 ‘영역 보안 및 암호화’ 솔루션을 공급한다고 밝혔다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[부고] 대영하이테크 송화수 대표이사 장인상 (보안뉴스 ─ SECURITY)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104819&amp;page=1&amp;mkind=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104819&amp;page=1&amp;mkind=1&amp;kind=3</guid>
-            <pubDate>Wed, 16 Feb 2022 09:14:55 GMT</pubDate>
-            <content:encoded><![CDATA[△내 용 : 대영하이테크 송화수 대표이사 장인상 △빈 소 : 성남시의료원장례식장 7호실 △발 인 : 2022년 2월 17일 11시]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[통신3사, 지하철에서 5G 28㎓ 시대의 첫걸음을 내딛다 (보안뉴스 ─ IT)]]></title>

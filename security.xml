@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-02-17T06:22:13.395Z</updated>
+    <updated>2022-02-17T07:17:02.549Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2021년, 중소기업 노린 사이버 범죄 늘었다]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104856&amp;page=1&amp;mkind=1&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104856&amp;page=1&amp;mkind=1&amp;kind=3"/>
+        <updated>2022-02-17T07:15:03.978Z</updated>
+        <content type="html"><![CDATA[지난 2021년에는 중소기업을 대상으로 한 사이버범죄가 늘었으며, 이와 함께 아웃소싱된 범죄 또한 늘었다는 조사결과가 발표됐다. 블랙베리(BlackBerry Limited)가 발간한 ‘2022 블랙베리 연간 위협 보고서(2022 Annual Threat Report)’...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FBI, “BEC 공격자들이 가상 회의에서 CEO를 사칭한다”]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=104855&amp;page=1&amp;mkind=1&amp;kind=1</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=104820&amp;page=1&amp;mkind=1&amp;kind=3"/>
         <updated>2022-02-16T09:14:55.139Z</updated>
         <content type="html"><![CDATA[아이알에스소프트코리아(대표 김상욱)는 엑스소프트에서 수주한 한화/기계의 ‘전사 디지털 자산화 플랫폼 구축 사업’에서 ‘영역 보안 및 암호화’ 솔루션을 공급한다고 밝혔다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[부고] 대영하이테크 송화수 대표이사 장인상]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104819&amp;page=1&amp;mkind=1&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104819&amp;page=1&amp;mkind=1&amp;kind=3"/>
-        <updated>2022-02-16T09:14:55.143Z</updated>
-        <content type="html"><![CDATA[△내 용 : 대영하이테크 송화수 대표이사 장인상 △빈 소 : 성남시의료원장례식장 7호실 △발 인 : 2022년 2월 17일 11시]]></content>
     </entry>
 </feed>
