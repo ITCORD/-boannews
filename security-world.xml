@@ -4,9 +4,17 @@
         <title>보안뉴스 ─ Security World</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Feb 2022 00:52:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Feb 2022 01:56:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[코로나19 확진자 폭증에 ‘에스원 얼굴인식 솔루션’...]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104843&amp;mkind=5</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104843&amp;mkind=5</guid>
+            <pubDate>Thu, 17 Feb 2022 01:54:57 GMT</pubDate>
+            <content:encoded><![CDATA[2월 16일 일일 신규 확진자가 9만명을 돌파할 정도로 오미크론 변이로 인한 코로나19 재확산세가 거세다. 오미크론 변이는 마스크를 쓴 상황에서도 확진자와...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/21021701ss.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2022년 대한민국 보안시장 규모, 6조 4,453...]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104821&amp;mkind=5</link>
@@ -14,14 +22,6 @@
             <pubDate>Wed, 16 Feb 2022 09:15:18 GMT</pubDate>
             <content:encoded><![CDATA[국내 최대 보안전문 인터넷신문 &lt;보안뉴스&gt;와 보안종합 월간지 &lt;시큐리티월드&gt;가 발간한 ‘2022 국내외 보안시장 전망보고서’에 따르면, 2021년 국내 보...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/21021602ss.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SK쉴더스 화이트 해커그룹 EQST, IoT 진단 ...]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104810&amp;mkind=5</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104810&amp;mkind=5</guid>
-            <pubDate>Wed, 16 Feb 2022 03:16:55 GMT</pubDate>
-            <content:encoded><![CDATA[SK쉴더스(대표이사 박진효)의 화이트 해커그룹 EQST(이큐스트)가 IoT 기기 및 서비스에 대한 보안 위협에 선제적으로 대응할 수 있는 ‘IoT 진단 가...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/21021601ss.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

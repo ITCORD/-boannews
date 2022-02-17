@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=2</id>
     <title>보안뉴스 ─ IT</title>
-    <updated>2022-02-17T00:52:49.747Z</updated>
+    <updated>2022-02-17T01:56:18.354Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[지능형 사물인터넷 기술로 더 안전하고 더 편리하게]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104837&amp;page=1&amp;mkind=2&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104837&amp;page=1&amp;mkind=2&amp;kind=2"/>
+        <updated>2022-02-17T01:54:39.901Z</updated>
+        <content type="html"><![CDATA[과학기술정보통신부는 국민안전과 편의를 지원하는 지능형 사물인터넷의 확산 계기를 마련하기 위해 ‘지능형 사물인터넷 기반의 국민안전 및 편의 지원 성과보고회’를 지난 16일 개최했다고 밝혔다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[부고] 이화여자대학교 양대헌 교수 빙모상]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=104845&amp;page=1&amp;mkind=2&amp;kind=1</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=104781&amp;page=1&amp;mkind=2&amp;kind=2"/>
         <updated>2022-02-16T00:56:51.789Z</updated>
         <content type="html"><![CDATA[대구시는 연결, 자율주행, 전동화 등 C.A.S.E로 대변되는 미래차 패러다임 전환에 적극 대응하기 위해 올해 총 1,749억원(국비 1,036, 시비 677, 기타 36) 규모의 예산을 투입해 미래차산업 육성에 힘을 쏟는다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[광주시, 라이다 신산업 육성 ‘가시적 효과’]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104780&amp;page=1&amp;mkind=2&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104780&amp;page=1&amp;mkind=2&amp;kind=2"/>
-        <updated>2022-02-15T02:13:30.391Z</updated>
-        <content type="html"><![CDATA[광주광역시가 미래 먹거리 사업의 일환으로 전자기술연구원과 공동으로 육성 중인 ‘라이다 융합 신산업’의 가시적인 효과가 나타나고 있다.]]></content>
     </entry>
 </feed>
