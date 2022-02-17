@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Feb 2022 04:21:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Feb 2022 05:15:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[올해 국내 위치정보 산업 시장 ‘3조 550억원’ 성장 전망 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104844&amp;page=1&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104844&amp;page=1&amp;kind=2</guid>
+            <pubDate>Thu, 17 Feb 2022 05:13:52 GMT</pubDate>
+            <content:encoded><![CDATA[한국인터넷진흥원(KISA, 원장 이원태)과 방송통신위원회(위원장 한상혁)는 데이터 경제 시대의 핵심자원인 위치정보를 활용하는 국내 위치정보 산업 현황을 파...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/kisa_021701_main.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[FBI, “BEC 공격자들이 가상 회의에서 CEO를 사칭한다” (보안뉴스 ─ 전체기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104855&amp;page=1&amp;kind=1</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 16 Feb 2022 09:14:37 GMT</pubDate>
             <content:encoded><![CDATA[불과 4년만 지나면 25%의 사람들이 하루에 최소 한 시간은 메타버스에서 시간을 보내게 될 것이라고 가트너는 예측한다. 쇼핑, 교육, 업무, 엔터테인먼트,...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/meta-thumb-0216.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022년 대한민국 보안시장 규모, 6조 4,453억원 전망 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104821&amp;page=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104821&amp;page=1&amp;kind=3</guid>
-            <pubDate>Wed, 16 Feb 2022 09:14:37 GMT</pubDate>
-            <content:encoded><![CDATA[국내 최대 보안전문 인터넷신문 &lt;보안뉴스&gt;와 보안종합 월간지 &lt;시큐리티월드&gt;가 발간한 ‘2022 국내외 보안시장 전망보고서’에 따르면...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/21021602ss.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[파수, 보안 솔루션 패키지로 중소기업 보안 지원 (보안뉴스 ─ 전체기사)]]></title>
@@ -229,12 +229,12 @@
             <content:encoded><![CDATA[청주시가 2022년 시민교통안전을 위해 최신 정보통신기술을 도입, 사람 중심의 교통신호등 설치 등 도로 교통시설 개선 주요 사업 4개 분야 16개 세부 사...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[두산 디지털이노베이션, NFT 상품 거래 가능한 마켓플레이스 오픈 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104824&amp;page=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104824&amp;page=1&amp;kind=3</guid>
+            <title><![CDATA[2022년 대한민국 보안시장 규모, 6조 4,453억원 전망 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104821&amp;page=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104821&amp;page=1&amp;kind=3</guid>
             <pubDate>Wed, 16 Feb 2022 09:14:37 GMT</pubDate>
-            <content:encoded><![CDATA[두산 디지털이노베이션(대표 박석원, 이하 DDI)이 지난 15일, 두버스(Dooverse) 내에 NFT(Non-Fungible-Token, 대체 불가능한 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/doosan_021601_main.jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[국내 최대 보안전문 인터넷신문 &lt;보안뉴스&gt;와 보안종합 월간지 &lt;시큐리티월드&gt;가 발간한 ‘2022 국내외 보안시장 전망보고서’에 따르면...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/21021602ss.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[클레이스왑 해킹으로 드러난 BGP Hijacking 공격기법, 도대체 뭐길래? (보안뉴스 ─ 가장 많이 본 기사)]]></title>
@@ -269,20 +269,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/lin-thumb-0210.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[bnTV] 일촉즉발 우크라이나 사태! 러시아의 다크웹 랜섬웨어 소탕 배경은? (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104758&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104758&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Tue, 15 Feb 2022 01:00:54 GMT</pubDate>
-            <content:encoded><![CDATA[우크라이나하고 러시아가 지금 일촉즉발의 위기잖아요. 여기에 사이버전도 계속 이슈가 많이 된다고 얘기를 들었거든요. 일단 지난해 크리스마스 시즌까지 거슬러 올라가야...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/20220214dark-s.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
             <title><![CDATA[[주말판] 대화형 인공지능과 챗봇, 어디까지 와 있나 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104741&amp;page=1&amp;kind=4&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104741&amp;page=1&amp;kind=4&amp;search=title&amp;find=</guid>
             <pubDate>Sun, 13 Feb 2022 05:13:07 GMT</pubDate>
             <content:encoded><![CDATA[현대의 챗봇들은 아직 사람과 대화한다는 느낌을 주지 못한다. 그리고 몇 마디 대화를 하면 더 이어가기가 힘들다. 광고에 대대적으로 나오는 것만큼 다양한 상황에서 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/ai-thumb-0211.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[bnTV] 일촉즉발 우크라이나 사태! 러시아의 다크웹 랜섬웨어 소탕 배경은? (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104758&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104758&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Tue, 15 Feb 2022 01:00:54 GMT</pubDate>
+            <content:encoded><![CDATA[우크라이나하고 러시아가 지금 일촉즉발의 위기잖아요. 여기에 사이버전도 계속 이슈가 많이 된다고 얘기를 들었거든요. 일단 지난해 크리스마스 시즌까지 거슬러 올라가야...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/20220214dark-s.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[CISO들, 로그4j에 대해서 어떻게 설명할 것인가? (보안뉴스 ─ 가장 많이 본 기사)]]></title>
@@ -333,20 +333,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/2-95(295).jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[사이버 보안 대표기업 2022년 출사표-15] 쏘마 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104405&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104405&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
-            <pubDate>Sun, 13 Feb 2022 16:20:47 GMT</pubDate>
-            <content:encoded><![CDATA[쏘마는 창업 6년 차에 접어들었다. 특히 지금까지 엔드포인트 위협 헌팅 플랫폼인 ‘몬스터’ 개발에 많은 노력을 기울여왔는데, 2021년에는 최근 글로벌 시장에서 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/RESIZEMONSTER_sum.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[2022년 대한민국 보안시장 규모, 6조 4,453억원 전망 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104821&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104821&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
             <pubDate>Thu, 17 Feb 2022 00:50:51 GMT</pubDate>
             <content:encoded><![CDATA[국내 최대 보안전문 인터넷신문 &lt;보안뉴스&gt;와 보안종합 월간지 &lt;시큐리티월드&gt;가 발간한 ‘2022 국내외 보안시장 전망보고서’에 따르면, 20...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/21021602ss.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[사이버 보안 대표기업 2022년 출사표-15] 쏘마 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104405&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104405&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
+            <pubDate>Sun, 13 Feb 2022 16:20:47 GMT</pubDate>
+            <content:encoded><![CDATA[쏘마는 창업 6년 차에 접어들었다. 특히 지금까지 엔드포인트 위협 헌팅 플랫폼인 ‘몬스터’ 개발에 많은 노력을 기울여왔는데, 2021년에는 최근 글로벌 시장에서 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/RESIZEMONSTER_sum.png" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[제115차 CISO포럼, ‘메타버스’에서의 보안위협 및 대응방안 공유 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
@@ -514,6 +514,13 @@
             <content:encoded><![CDATA[이지서티(대표 심기창)는 고용노동부(장관 안경덕) 주관의 근무 혁신 우수 기업으로 선정됐다고 밝혔다.]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[통신3사, 지하철에서 5G 28㎓ 시대의 첫걸음을 내딛다 (보안뉴스 ─ IT)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104841&amp;page=1&amp;mkind=2&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104841&amp;page=1&amp;mkind=2&amp;kind=2</guid>
+            <pubDate>Thu, 17 Feb 2022 05:14:18 GMT</pubDate>
+            <content:encoded><![CDATA[과학기술정보통신부 조경식 제2차관은 통신3사, 삼성전자, 서울교통공사 관계자가 참석한 가운데 지난 16일 5세대(5G) 28㎓ 기지국 구축 공사가 진행되고 있는 서울 지하철 6호선 한강진역을 방문해 안전 사항을 점검하고 현장 작업자들을 격려했다.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[공공 부문 클라우드 정책, 공공·민간이 함께 만든다 (보안뉴스 ─ IT)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104840&amp;page=1&amp;mkind=2&amp;kind=2</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104840&amp;page=1&amp;mkind=2&amp;kind=2</guid>
@@ -624,13 +631,6 @@
             <guid>https://www.boannews.com/media/view.asp?idx=104783&amp;page=1&amp;mkind=2&amp;kind=3</guid>
             <pubDate>Wed, 16 Feb 2022 00:56:51 GMT</pubDate>
             <content:encoded><![CDATA[원격 근무가 본격적으로 자리를 잡으면서 사무실에서 얼굴을 마주하고 이야기를 나누던 사람들이 이제는 이메일이나 메신저, 채팅이나 댓글 등 각종 디지털 기법으로 소통하게 되었다. ‘말하기’ 기술만큼이나 ‘쓰기’ 기술이 소통의 중요한 부분을 차지하게 된 것이다. 싫든 좋든 ...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[디지털 선도국가, 데이터 생태계 조성으로 실현한다 (보안뉴스 ─ IT)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104782&amp;page=1&amp;mkind=2&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104782&amp;page=1&amp;mkind=2&amp;kind=2</guid>
-            <pubDate>Wed, 16 Feb 2022 00:56:51 GMT</pubDate>
-            <content:encoded><![CDATA[과학기술정보통신부는 여러 분야에서 모인 데이터를 활용해 국민이 체감할 수 있는 혁신적 성과 창출을 지원하기 위해 지난 14일부터 데이터 이용권(바우처)과 플래그십 사업 등 2022년도 주요 데이터 활용 사업 공모를 추진한다고 밝혔다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[천안시, 알기 쉬운 ‘공동주택 재난안전 매뉴얼’ 배포 (보안뉴스 ─ SAFETY)]]></title>
