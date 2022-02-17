@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-02-17T05:15:47.350Z</updated>
+    <updated>2022-02-17T06:22:13.395Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[FBI, “BEC 공격자들이 가상 회의에서 CEO를 사칭한다”]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104855&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104855&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-02-17T06:20:27.792Z</updated>
+        <content type="html"><![CDATA[전화나 이메일로 CEO를 사칭해 직원들에게 돈을 송금하라고 요구했던 BEC 공격자들이 최근 가상 회의에까지 침투하고 있다는 경고가 나왔다. 전화나 메일 대신 재무 담당 직원들과 가상 회의 세션을 열고 송금을 요구하는 전략이다. 아직 이 전략이 대세라고 할 수준은 아니지...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[트릭봇, 새로운 분석 방해 기능 탑재 후 60개 주요 조직 노려]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104854&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104854&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-02-17T06:20:27.798Z</updated>
+        <content type="html"><![CDATA[악명 높은 멀웨어 트릭봇(TrickBot)이 업그레이드 됐다. 새로운 분석 방해 기능을 탑재한 것이다. 운영자들은 강력해진 트릭봇을 앞세워 주요 금융 및 기술 업체들 60곳을 집중해 공격하는 중이라고 한다. 대다수가 암호화폐 기술 개발 업체 혹은 암호화폐 거래소들인데,...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[VM웨어, 자사 제품에서 여러 개의 고위험군 취약점 패치해]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104852&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104852&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-02-17T06:20:27.804Z</updated>
+        <content type="html"><![CDATA[VM웨어가 ESXi, 워크스테이션(Workstation), 퓨전(Fusion), 클라우드파운데이션(Cloud Foundation), NSX데이터센터(NSX Data Center)에서 임의 코드 실행 및 디도스 취약점들을 다수 발견해 패치했다. 아직까지 이 취약점들이 실...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아파치 카산드라에서 고위험군 코드 실행 취약점 발견돼]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=104851&amp;page=1&amp;mkind=1&amp;kind=1</id>
@@ -102,26 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=104819&amp;page=1&amp;mkind=1&amp;kind=3"/>
         <updated>2022-02-16T09:14:55.143Z</updated>
         <content type="html"><![CDATA[△내 용 : 대영하이테크 송화수 대표이사 장인상 △빈 소 : 성남시의료원장례식장 7호실 △발 인 : 2022년 2월 17일 11시]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[과기정통부, 2022년도 디지털 뉴딜 사업 본격 시행]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104818&amp;page=1&amp;mkind=1&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104818&amp;page=1&amp;mkind=1&amp;kind=2"/>
-        <updated>2022-02-16T09:14:55.144Z</updated>
-        <content type="html"><![CDATA[과학기술정보통신부(장관 임혜숙, 이하 ‘과기정통부’)는 2월 17일 ‘2022년도 과기정통부 디지털 뉴딜 사업 설명회’를 개최한다고 밝혔다. 과기정통부는 지난 1월 범부처 합동 ‘제13차 디지털 뉴딜반’ 회의에서 관계부처와 함께 ‘2022년 디지털 뉴딜 실행계획’을 발...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[화웨이, 중동·아프리카 지역 최대 규모의 저탄소 태양광 데이터센터 설립]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104817&amp;page=1&amp;mkind=1&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104817&amp;page=1&amp;mkind=1&amp;kind=3"/>
-        <updated>2022-02-16T05:14:10.280Z</updated>
-        <content type="html"><![CDATA[화웨이가 중동·아프리카 지역 최대 규모의 저탄소 태양광 전력 공급 데이터센터를 설립한다고 밝혔다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이지서티, 고용노동부 주관 근무 혁신 우수 기업 선정]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104816&amp;page=1&amp;mkind=1&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104816&amp;page=1&amp;mkind=1&amp;kind=3"/>
-        <updated>2022-02-16T04:19:37.121Z</updated>
-        <content type="html"><![CDATA[이지서티(대표 심기창)는 고용노동부(장관 안경덕) 주관의 근무 혁신 우수 기업으로 선정됐다고 밝혔다.]]></content>
     </entry>
 </feed>
