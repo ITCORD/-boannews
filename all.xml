@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Feb 2022 11:16:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Feb 2022 12:26:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022년 보안 업계가 주목할 분야는 소프트웨어 공급망 보안 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104861&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104861&amp;page=1&amp;kind=1</guid>
+            <pubDate>Thu, 17 Feb 2022 12:23:45 GMT</pubDate>
+            <content:encoded><![CDATA[사이버 공간을 위협하는 것들이 매일 새롭게 등장하는 것만 같다. 그리고 그 여파도 점점 더 커지고 있다. 제로데이 취약점들이 등장하는 빈도도 높아지고 있고...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/log-thumb-00217.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Weekly Security Premium Report 제38호 발간! 클레이스왑 해킹 사건 집중분석 (보안뉴스 ─ 전체기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104860&amp;page=1&amp;kind=3</link>
@@ -80,20 +88,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/pat-thumb-0217.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[아파치 카산드라에서 고위험군 코드 실행 취약점 발견돼 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104851&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104851&amp;page=1&amp;kind=1</guid>
-            <pubDate>Thu, 17 Feb 2022 02:24:58 GMT</pubDate>
-            <content:encoded><![CDATA[아파치 카산드라(Apache Cassandra)에서 원격 코드 실행 취약점이 발견됐다. CVSS 기준 8.4점으로, 고위험군으로 분류됐으며 관리 번호는 C...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/ser-thumb-0217.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[오즈레이, 유니아이와 ‘가금류 질병 진단 및 생산관리 서비스’ 위해 업무협약 체결 (보안뉴스 ─ 전체기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104859&amp;page=1&amp;kind=3</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104859&amp;page=1&amp;kind=3</guid>
             <pubDate>Thu, 17 Feb 2022 10:17:11 GMT</pubDate>
             <content:encoded><![CDATA[머신비전 및 적외선 카메라 전문 제조 기업 ‘오즈레이’와 인공지능 개발 업체 ‘유니아이’가 ‘가금류 질병 진단 및 생산관리 서비스’ 위해 업무협약을 체결했...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/21021704ss.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아파치 카산드라에서 고위험군 코드 실행 취약점 발견돼 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104851&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104851&amp;page=1&amp;kind=1</guid>
+            <pubDate>Thu, 17 Feb 2022 02:24:58 GMT</pubDate>
+            <content:encoded><![CDATA[아파치 카산드라(Apache Cassandra)에서 원격 코드 실행 취약점이 발견됐다. CVSS 기준 8.4점으로, 고위험군으로 분류됐으며 관리 번호는 C...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/ser-thumb-0217.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[우크라이나의 사이버 공간은 기능 마비와 변조로 혼란 정국 (보안뉴스 ─ 전체기사)]]></title>
@@ -230,14 +238,6 @@
             <content:encoded><![CDATA[평택시가 개인정보보호위원회가 주관한 ‘2021년 공공기관 개인정보 관리수준 진단’에서 최고 등급을 달성했다고 밝혔다. 개인정보 관리수준 진단은 중앙부처와 ...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[경남도, 4차 산업혁명 선도 로봇산업 중심지 구축 ‘청신호’ (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104830&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104830&amp;page=1&amp;kind=2</guid>
-            <pubDate>Thu, 17 Feb 2022 00:50:41 GMT</pubDate>
-            <content:encoded><![CDATA[경남도는 뿌리기업 및 소부장기업의 생산설비 고도화 전환 지원과 서비스로봇 및 로봇부품기업 육성을 위한 실증 지원을 통한 경남 로봇산업 육성에 더욱 힘을 쏟...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/2-138(295).jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[클레이스왑 해킹으로 드러난 BGP Hijacking 공격기법, 도대체 뭐길래? (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104743&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104743&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
@@ -302,20 +302,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/2-105(295).jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[인공지능과 사이버 보안, 궁합이 좋긴 한 걸까? (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104742&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104742&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Mon, 14 Feb 2022 10:16:21 GMT</pubDate>
-            <content:encoded><![CDATA[사이버 보안 업계에서 한 때 인공지능의 바람이 거세게 몰아쳤던 적이 있지만 아직까지 ‘히트 상품’은 나온 적이 없다. 이제는 오히려 ‘왜 인공지능과 보안 업계는 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/aicy-thumb-0212.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[2022년 대한민국 보안시장 규모, 6조 4,453억원 전망 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104821&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104821&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
             <pubDate>Thu, 17 Feb 2022 00:50:51 GMT</pubDate>
             <content:encoded><![CDATA[국내 최대 보안전문 인터넷신문 &lt;보안뉴스&gt;와 보안종합 월간지 &lt;시큐리티월드&gt;가 발간한 ‘2022 국내외 보안시장 전망보고서’에 따르면, 20...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/21021602ss.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[인공지능과 사이버 보안, 궁합이 좋긴 한 걸까? (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104742&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104742&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Mon, 14 Feb 2022 10:16:21 GMT</pubDate>
+            <content:encoded><![CDATA[사이버 보안 업계에서 한 때 인공지능의 바람이 거세게 몰아쳤던 적이 있지만 아직까지 ‘히트 상품’은 나온 적이 없다. 이제는 오히려 ‘왜 인공지능과 보안 업계는 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/aicy-thumb-0212.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이제 스마트폰으로 주민등록증 확인 가능해진다 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
@@ -350,19 +350,19 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/ciso_0215001_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[‘2022년 방위산업기술 보호체계 구축·운영 지원 사업’ 참여기업 모집 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104740&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104740&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
-            <pubDate>Mon, 14 Feb 2022 05:14:30 GMT</pubDate>
-            <content:encoded><![CDATA[방위사업청은 사이버 해킹 등 기술 탈취의 위협으로부터 방산 중소·중견기업의 기술보호 수준을 높이기 위해 ‘2022년 방위산업기술 보호체계 구축·운영 지원 사업’에...]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[사이버 보안, 생물학을 닮기 시작하다 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104793&amp;page=1&amp;kind=4&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104793&amp;page=1&amp;kind=4&amp;search=title&amp;find=</guid>
             <pubDate>Thu, 17 Feb 2022 06:20:17 GMT</pubDate>
             <content:encoded><![CDATA[사이버 보안 분야가 최근 몇 년 동안 눈부시게 발전하는 중이다. 그렇지만 그 어느 때보다 고통에 시달리고 있기도 하다. 해킹과 크래킹 등 각종 공격 기술들 역시 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/bio-thumb-0215.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘2022년 방위산업기술 보호체계 구축·운영 지원 사업’ 참여기업 모집 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104740&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104740&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
+            <pubDate>Mon, 14 Feb 2022 05:14:30 GMT</pubDate>
+            <content:encoded><![CDATA[방위사업청은 사이버 해킹 등 기술 탈취의 위협으로부터 방산 중소·중견기업의 기술보호 수준을 높이기 위해 ‘2022년 방위산업기술 보호체계 구축·운영 지원 사업’에...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[과기정통부 용홍택 제1차관, 인공지능 활용 신약 개발 기업 현장 방문 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
@@ -393,6 +393,13 @@
             <guid>https://www.boannews.com/media/view.asp?idx=104738&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
             <pubDate>Thu, 17 Feb 2022 10:17:21 GMT</pubDate>
             <content:encoded><![CDATA[특허청 국제지식재산연수원은 오는 14일부터 2주간 2022년 1학기 지식재산학 학점은행 온라인 수강생을 모집한다. ‘지식재산학’ 전공은 지식재산의 창출, 활용, ...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[개인정보위, 2기 가명정보 결합 선도사례 중점 추진 (보안뉴스 ─ SECURITY)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104857&amp;page=1&amp;mkind=1&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104857&amp;page=1&amp;mkind=1&amp;kind=2</guid>
+            <pubDate>Thu, 17 Feb 2022 12:24:07 GMT</pubDate>
+            <content:encoded><![CDATA[개인정보보호위원회(위원장 윤종인, 이하 개인정보위)와 관계부처는 안전한 데이터 활용을 위한 가명정보 제도를 확산시키기 위해, ’21년 시범사례에 이어, ’22년 가명정보 결합 4대 중점 선도사례를 추진한다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[사이버보안 등 국가필수전략기술 확보를 위한 출연(연) 전략 발표회 개최 (보안뉴스 ─ SECURITY)]]></title>
@@ -505,13 +512,6 @@
             <guid>https://www.boannews.com/media/view.asp?idx=104823&amp;page=1&amp;mkind=1&amp;kind=1</guid>
             <pubDate>Wed, 16 Feb 2022 09:14:55 GMT</pubDate>
             <content:encoded><![CDATA[랜섬웨어 공격자들이 먹이를 찾아 헤맬 때, 비영리 단체는 보통 제외 대상이 되는 것 같은 분위기다. 비영리 단체가 랜섬웨어에 당해 마비됐다고 대대적으로 알리는 매체를 본 적이 있는가? 대단히 덩치가 크고 영향력이 지대한 곳이 아니라면 비영리 단체는 지금의 혼란스러운 사...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[위즈코리아, 창립 20주년 맞아 핵심이념 선포 및 대규모 인재 채용 (보안뉴스 ─ SECURITY)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104822&amp;page=1&amp;mkind=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104822&amp;page=1&amp;mkind=1&amp;kind=3</guid>
-            <pubDate>Wed, 16 Feb 2022 09:14:55 GMT</pubDate>
-            <content:encoded><![CDATA[정보보안 솔루션 전문기업 위즈코리아(대표 김기배)가 2022년 창립 20주년의 해를 맞아 핵심이념 선포 및 대규모 인재 채용에 나선다고 16일 밝혔다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[통신3사, 지하철에서 5G 28㎓ 시대의 첫걸음을 내딛다 (보안뉴스 ─ IT)]]></title>
@@ -1888,6 +1888,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2021/12/msit_1223001_MAIN.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[2022년 보안 업계가 주목할 분야는 소프트웨어 공급망 보안 (보안뉴스 ─ 국제)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104861&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104861&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
+            <pubDate>Thu, 17 Feb 2022 12:25:30 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/view.asp?idx=104861&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
+					
+					<img src="/media/upFiles2/2022/02/log-thumb-00217.jpg" alt="" class="news_img" height="70">
+					
+					<span class="news_txt">2022년 보안 업계가 주목할 분야는 소프트웨어 공급망 보안</span>
+					</a><br>
+					<a href="/media/view.asp?idx=104861&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">사이버 공간을 위협하는 것들이 매일 새롭게 등장하는 것만 같다. 그리고 그 여파도 점점 더 커지고 있다. 제로데이 취약점들이 등장하는 빈도도 높아지고 있고, 물리...</a> <span class="news_writer">문가용 기자 | 2022년 02월 17일 20:59</span>]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/log-thumb-00217.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[글자의 민감한 부분을 가려주는 픽셀레이션, “강력 비추” (보안뉴스 ─ 국제)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104858&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104858&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
@@ -2152,20 +2166,6 @@
 					</a><br>
 					<a href="/media/view.asp?idx=104785&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">스페인 경찰이 사이버 조직을 와해시켰다. 심스와핑 공격을 연쇄적으로 실시하던 단체로, 이번 작전을 통해 8명이 체포됐다고 한다. 이들은 소셜 엔지니어링 기법으로 ...</a> <span class="news_writer">문가용 기자 | 2022년 02월 15일 11:17</span>]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/sim-thumb-0215.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[메타버스와 크립토와 같은 미지의 세계, 개발자들은 어떻게 변모해야 하나 (보안뉴스 ─ 국제)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104764&amp;page=1&amp;mkind=&amp;kind=4&amp;skind=D&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104764&amp;page=1&amp;mkind=&amp;kind=4&amp;skind=D&amp;search=title&amp;find=</guid>
-            <pubDate>Tue, 15 Feb 2022 02:14:36 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/view.asp?idx=104764&amp;page=1&amp;mkind=&amp;kind=4&amp;skind=D&amp;search=title&amp;find=">
-					
-					<img src="/media/upFiles2/2022/02/meta-thumb-0214.jpg" alt="" class="news_img" height="70">
-					
-					<span class="news_txt">메타버스와 크립토와 같은 미지의 세계, 개발자들은 어떻게 변모해야 하나 </span>
-					</a><br>
-					<a href="/media/view.asp?idx=104764&amp;page=1&amp;mkind=&amp;kind=4&amp;skind=D&amp;search=title&amp;find=">2022년 디벨로퍼위크(DeveloperWeek 2022) 컨퍼런스에서도 메타버스와 암호화폐가 집중적으로 탐구됐다. 이러한 신기술들의 뒤, 보이지 않는 곳에서 개...</a> <span class="news_writer">문가용 기자 | 2022년 02월 15일 10:10</span>]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/meta-thumb-0214.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2022년 대한민국 보안시장 규모, 6조 4,453억원 전망 (보안뉴스 ─ 기획특집)]]></title>

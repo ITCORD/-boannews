@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-02-17T11:16:12.397Z</updated>
+    <updated>2022-02-17T12:26:04.530Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[개인정보위, 2기 가명정보 결합 선도사례 중점 추진]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104857&amp;page=1&amp;mkind=1&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104857&amp;page=1&amp;mkind=1&amp;kind=2"/>
+        <updated>2022-02-17T12:24:07.202Z</updated>
+        <content type="html"><![CDATA[개인정보보호위원회(위원장 윤종인, 이하 개인정보위)와 관계부처는 안전한 데이터 활용을 위한 가명정보 제도를 확산시키기 위해, ’21년 시범사례에 이어, ’22년 가명정보 결합 4대 중점 선도사례를 추진한다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[사이버보안 등 국가필수전략기술 확보를 위한 출연(연) 전략 발표회 개최]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=104853&amp;page=1&amp;mkind=1&amp;kind=2</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=104823&amp;page=1&amp;mkind=1&amp;kind=1"/>
         <updated>2022-02-16T09:14:55.136Z</updated>
         <content type="html"><![CDATA[랜섬웨어 공격자들이 먹이를 찾아 헤맬 때, 비영리 단체는 보통 제외 대상이 되는 것 같은 분위기다. 비영리 단체가 랜섬웨어에 당해 마비됐다고 대대적으로 알리는 매체를 본 적이 있는가? 대단히 덩치가 크고 영향력이 지대한 곳이 아니라면 비영리 단체는 지금의 혼란스러운 사...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[위즈코리아, 창립 20주년 맞아 핵심이념 선포 및 대규모 인재 채용]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104822&amp;page=1&amp;mkind=1&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104822&amp;page=1&amp;mkind=1&amp;kind=3"/>
-        <updated>2022-02-16T09:14:55.138Z</updated>
-        <content type="html"><![CDATA[정보보안 솔루션 전문기업 위즈코리아(대표 김기배)가 2022년 창립 20주년의 해를 맞아 핵심이념 선포 및 대규모 인재 채용에 나선다고 16일 밝혔다.]]></content>
     </entry>
 </feed>
