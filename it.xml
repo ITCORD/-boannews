@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=2</id>
     <title>보안뉴스 ─ IT</title>
-    <updated>2022-02-18T04:22:32.092Z</updated>
+    <updated>2022-02-18T05:16:30.125Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[부산시, ‘빅데이터 분석·활용 지원 사업’ 참여 기업 모집]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104874&amp;page=1&amp;mkind=2&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104874&amp;page=1&amp;mkind=2&amp;kind=2"/>
+        <updated>2022-02-18T05:14:35.478Z</updated>
+        <content type="html"><![CDATA[부산시는 지역 빅데이터 산업 활성화 및 기업의 데이터 활용 자생력 강화를 위해 ‘중소기업 빅데이터 분석·활용 지원 사업’을 추진하고, 사업에 참여할 기업을 3월 4일까지 모집한다고 밝혔다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[산·학·연·관, 지역 디지털전환에 힘 모은다]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=104872&amp;page=1&amp;mkind=2&amp;kind=2</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=104830&amp;page=1&amp;mkind=2&amp;kind=2"/>
         <updated>2022-02-17T00:51:08.688Z</updated>
         <content type="html"><![CDATA[경남도는 뿌리기업 및 소부장기업의 생산설비 고도화 전환 지원과 서비스로봇 및 로봇부품기업 육성을 위한 실증 지원을 통한 경남 로봇산업 육성에 더욱 힘을 쏟을 계획이라고 밝혔다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인공지능(AI), 사람처럼 언어·시각 정보를 이해하고 판단한다]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104829&amp;page=1&amp;mkind=2&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104829&amp;page=1&amp;mkind=2&amp;kind=2"/>
-        <updated>2022-02-17T00:51:08.690Z</updated>
-        <content type="html"><![CDATA[한국전자기술연구원(KETI)이 인공지능 연구에 활용 가능한 최첨단 사전학습 모델 ‘VL-KE-T5’를 무료 공개하고 배포했다고 밝혔다. ‘사전학습 모델’은 자기지도학습(Self-supervised Learning)을 통해 대용량 데이터로부터 범용적 의미를 미리 학습하는...]]></content>
     </entry>
 </feed>
