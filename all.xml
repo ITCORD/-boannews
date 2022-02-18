@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Feb 2022 10:19:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Feb 2022 11:15:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -86,6 +86,13 @@
             <pubDate>Thu, 17 Feb 2022 10:17:11 GMT</pubDate>
             <content:encoded><![CDATA[2월 10일 발간된 ‘Weekly Security Premium Report’ 제38호에는 &lt;보안 심층 리포트&gt; 코너에서 최근 IT 및 보안 분...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/20220217report-sm.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[[인사] 환경부 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104890&amp;page=1&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104890&amp;page=1&amp;kind=2</guid>
+            <pubDate>Fri, 18 Feb 2022 11:12:48 GMT</pubDate>
+            <content:encoded><![CDATA[◇개방형직위 임용 △국립환경인재개발원장 김효석(2022년 2월 21일자)]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[부고] 한국면세뉴스 박홍규 대표 빙부상 (보안뉴스 ─ 전체기사)]]></title>
@@ -231,14 +238,6 @@
             <pubDate>Fri, 18 Feb 2022 01:00:28 GMT</pubDate>
             <content:encoded><![CDATA[과천시가 장애인 기능강화지원사업의 일환으로 첨단보행재활로봇(워크봇)을 통한 재활서비스 사업을 선도적으로 추진한다고 밝혔다. 워크봇은 뇌경색, 뇌출혈, 파킨...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/2-151(295).jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서울교통공사-한국승강기안전공단, 인적 교류 및 기술 협력 업무협약 체결 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104863&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104863&amp;page=1&amp;kind=2</guid>
-            <pubDate>Fri, 18 Feb 2022 01:00:28 GMT</pubDate>
-            <content:encoded><![CDATA[서울교통공사가 국내 승강기 안전관리사업을 총괄하는 한국승강기안전공단과 업무협약을 체결, 서울 지하철 내 승강시설 안전을 확보하고 중대재해를 근절하기 위한 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/2-150(295).jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[클레이스왑 해킹으로 드러난 BGP Hijacking 공격기법, 도대체 뭐길래? (보안뉴스 ─ 가장 많이 본 기사)]]></title>
@@ -635,6 +634,13 @@
             <content:encoded><![CDATA[△내 용 : 이화여자대학교 양대헌 교수 빙모상 △빈 소 : 칠곡경북대병원 장례식장 109호 △발 인 : 2022년 02월 18일(금) 오전 10시]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[위급 상황, 소화기·완강기·자동심장충격기 사용은 이렇게! (보안뉴스 ─ SAFETY)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104866&amp;page=1&amp;mkind=4&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104866&amp;page=1&amp;mkind=4&amp;kind=2</guid>
+            <pubDate>Fri, 18 Feb 2022 11:13:30 GMT</pubDate>
+            <content:encoded><![CDATA[행정안전부는 생활 주변에서 흔히 볼 수 있는 소화기와 완강기, 자동심장충격기 등에 대한 사용법을 숙지해 위급 상황에서 활용할 수 있도록 사용법을 안내했다.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[서울교통공사-한국승강기안전공단, 인적 교류 및 기술 협력 업무협약 체결 (보안뉴스 ─ SAFETY)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104863&amp;page=1&amp;mkind=4&amp;kind=2</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104863&amp;page=1&amp;mkind=4&amp;kind=2</guid>
@@ -745,13 +751,6 @@
             <guid>https://www.boannews.com/media/view.asp?idx=104679&amp;page=1&amp;mkind=4&amp;kind=2</guid>
             <pubDate>Fri, 11 Feb 2022 00:59:00 GMT</pubDate>
             <content:encoded><![CDATA[포스코ICT가 제조, 건설 및 플랜트 현장의 안전을 통합 관리하는 ‘스마트 안전관제플랫폼’을 개발해 현장 적용에 본격 나선다. 포스코ICT의 스마트 안전관제플랫폼은 각종 센서를 통해 현장 곳곳의 데이터를 수집 및 분석해 위험요소를 모니터링하고, 현장 근무자에게 그 결과...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[부산시, 2021년 국가안전대진단 ‘대통령 기관표창’ 수상 (보안뉴스 ─ SAFETY)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104674&amp;page=1&amp;mkind=4&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104674&amp;page=1&amp;mkind=4&amp;kind=2</guid>
-            <pubDate>Fri, 11 Feb 2022 00:59:00 GMT</pubDate>
-            <content:encoded><![CDATA[부산시는 행정안전부 주관 ‘2021년 국가안전대진단 추진 실적 시·도 성과 평가’에서 부산시 최초로 우수기관에 선정돼 ‘대통령 기관표창’을 수상했다고 밝혔다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[조경식 과기정통부 2차관, 정보보호인증 모범사례로 ... (보안뉴스 ─ Security World)]]></title>
@@ -2730,6 +2729,17 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/RESIZEASTRON_CWS_ver2_CMYKsum.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[[인사] 환경부 (보안뉴스 ─ 인사 부고)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104890&amp;page=1&amp;mkind=&amp;kind=2&amp;skind=K&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104890&amp;page=1&amp;mkind=&amp;kind=2&amp;skind=K&amp;search=title&amp;find=</guid>
+            <pubDate>Fri, 18 Feb 2022 11:15:13 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/view.asp?idx=104890&amp;page=1&amp;mkind=&amp;kind=2&amp;skind=K&amp;search=title&amp;find=">
+					
+					<span class="news_txt">[인사] 환경부 </span>
+					</a><br>
+					<a href="/media/view.asp?idx=104890&amp;page=1&amp;mkind=&amp;kind=2&amp;skind=K&amp;search=title&amp;find=">◇개방형직위 임용 △국립환경인재개발원장 김효석(2022년 2월 21일자)</a> <span class="news_writer">권준  기자 | 2022년 02월 18일 19:22</span>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[부고] 한국면세뉴스 박홍규 대표 빙부상 (보안뉴스 ─ 인사 부고)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104888&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=K&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104888&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=K&amp;search=title&amp;find=</guid>
@@ -2949,17 +2959,6 @@
 					<span class="news_txt">[인사] 뉴스웨이 </span>
 					</a><br>
 					<a href="/media/view.asp?idx=103835&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=K&amp;search=title&amp;find=">◇ 임원 승진  △대표이사 회장 김종현 △대표이사 사장 강혁 △부사장 겸 경영지원본부장 민영동 </a> <span class="news_writer">권준  기자 | 2022년 01월 03일 11:00</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[인사] 과학기술정보통신부 (보안뉴스 ─ 인사 부고)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=103794&amp;page=1&amp;mkind=&amp;kind=2&amp;skind=K&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=103794&amp;page=1&amp;mkind=&amp;kind=2&amp;skind=K&amp;search=title&amp;find=</guid>
-            <pubDate>Wed, 12 Jan 2022 20:17:04 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/view.asp?idx=103794&amp;page=1&amp;mkind=&amp;kind=2&amp;skind=K&amp;search=title&amp;find=">
-					
-					<span class="news_txt">[인사] 과학기술정보통신부</span>
-					</a><br>
-					<a href="/media/view.asp?idx=103794&amp;page=1&amp;mkind=&amp;kind=2&amp;skind=K&amp;search=title&amp;find=">◇과장급 인사 △국립전파연구원 기술기준과장 배석희(裵錫熙, 국립전파연구원 정보운영과장) △국립전파연구원 정보운영과장 김희원(金熙元, 방송진흥기획과) (2022. ...</a> <span class="news_writer">위아람 기자 | 2021년 12월 30일 14:36</span>]]></content:encoded>
         </item>
     </channel>
 </rss>

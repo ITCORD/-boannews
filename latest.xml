@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Feb 2022 10:19:08 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Feb 2022 11:15:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -86,6 +86,13 @@
             <pubDate>Thu, 17 Feb 2022 10:17:11 GMT</pubDate>
             <content:encoded><![CDATA[2월 10일 발간된 ‘Weekly Security Premium Report’ 제38호에는 &lt;보안 심층 리포트&gt; 코너에서 최근 IT 및 보안 분...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/20220217report-sm.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[[인사] 환경부]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104890&amp;page=1&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104890&amp;page=1&amp;kind=2</guid>
+            <pubDate>Fri, 18 Feb 2022 11:12:48 GMT</pubDate>
+            <content:encoded><![CDATA[◇개방형직위 임용 △국립환경인재개발원장 김효석(2022년 2월 21일자)]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[부고] 한국면세뉴스 박홍규 대표 빙부상]]></title>
@@ -231,14 +238,6 @@
             <pubDate>Fri, 18 Feb 2022 01:00:28 GMT</pubDate>
             <content:encoded><![CDATA[과천시가 장애인 기능강화지원사업의 일환으로 첨단보행재활로봇(워크봇)을 통한 재활서비스 사업을 선도적으로 추진한다고 밝혔다. 워크봇은 뇌경색, 뇌출혈, 파킨...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/2-151(295).jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서울교통공사-한국승강기안전공단, 인적 교류 및 기술 협력 업무협약 체결]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104863&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104863&amp;page=1&amp;kind=2</guid>
-            <pubDate>Fri, 18 Feb 2022 01:00:28 GMT</pubDate>
-            <content:encoded><![CDATA[서울교통공사가 국내 승강기 안전관리사업을 총괄하는 한국승강기안전공단과 업무협약을 체결, 서울 지하철 내 승강시설 안전을 확보하고 중대재해를 근절하기 위한 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/2-150(295).jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
