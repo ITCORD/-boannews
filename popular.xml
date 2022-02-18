@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Feb 2022 01:02:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Feb 2022 02:10:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,6 +104,14 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/pen-thyumb-0216.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[글자의 민감한 부분을 가려주는 픽셀레이션, “강력 비추”]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104858&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104858&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Fri, 18 Feb 2022 01:00:38 GMT</pubDate>
+            <content:encoded><![CDATA[정보를 공유할 때, 민감한 부분만 골라서 흐릿하게 처리하는 기법은 꽤나 오래 전부터 사용되어 왔었다. 보안 전문가 댄 페트로(Dan Petro)는 이것이 늘 불편...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/text-thumb-0217.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[구글 크롬, 긴급 업데이트로 제로데이 취약점 해결]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104787&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104787&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
@@ -126,14 +134,6 @@
             <pubDate>Wed, 16 Feb 2022 09:14:46 GMT</pubDate>
             <content:encoded><![CDATA[페이스북이 사명을 ‘메타(META)’로 바꿀 정도로 메가트렌드가 된 ‘메타버스(METAVERSE)’지만, 정작 이에 대한 보안은 아직 논의되지 않고 있다. 이러한...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/ciso_0215001_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[글자의 민감한 부분을 가려주는 픽셀레이션, “강력 비추”]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104858&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104858&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Fri, 18 Feb 2022 01:00:38 GMT</pubDate>
-            <content:encoded><![CDATA[정보를 공유할 때, 민감한 부분만 골라서 흐릿하게 처리하는 기법은 꽤나 오래 전부터 사용되어 왔었다. 보안 전문가 댄 페트로(Dan Petro)는 이것이 늘 불편...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/text-thumb-0217.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘2022년 방위산업기술 보호체계 구축·운영 지원 사업’ 참여기업 모집]]></title>

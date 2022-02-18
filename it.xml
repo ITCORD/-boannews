@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=2</id>
     <title>보안뉴스 ─ IT</title>
-    <updated>2022-02-18T01:02:35.357Z</updated>
+    <updated>2022-02-18T02:10:35.513Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[삼성SDS, AWS 익스클루시브 글로벌 비즈니스 네트워크 참여]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104870&amp;page=1&amp;mkind=2&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104870&amp;page=1&amp;mkind=2&amp;kind=3"/>
+        <updated>2022-02-18T02:09:00.373Z</updated>
+        <content type="html"><![CDATA[삼성SDS는 아마존웹서비스(Amazon Web Services, AWS)와 전략적 상호 협력을 위한 협약 체결을 통해 고객의 클라우드 전환을 위한 MSP(Managed Service Provider) 사업을 강화하고 서비스형소프트웨어(SaaS) 사업을 글로벌 시장으로 ...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KISTI, 국립보건연과 보건의료연구데이터 활용 협력체계 구축]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104869&amp;page=1&amp;mkind=2&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104869&amp;page=1&amp;mkind=2&amp;kind=2"/>
+        <updated>2022-02-18T02:09:00.375Z</updated>
+        <content type="html"><![CDATA[한국과학기술정보연구원(KISTI)은 지난 17일 국립보건연구원과 협력의향서(LOI)를 체결하고 보건의료 분야 빅데이터 활용 촉진을 위해 상호 협력하기로 했다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[과기정통부, 통신3사와 5G 소비자 편익 증진을 위한 방안 논의]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=104868&amp;page=1&amp;mkind=2&amp;kind=2</id>
@@ -109,19 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=104828&amp;page=1&amp;mkind=2&amp;kind=2"/>
         <updated>2022-02-17T00:51:08.697Z</updated>
         <content type="html"><![CDATA[지스트(광주과학기술원) 융합기술학제학부 이규빈 교수 연구팀은 계층적 가림 모델링을 통해 복잡한 로봇 환경에서도 미학습 물체의 가시 영역과 비가시 영역, 가림 여부를 동시에 검출하는 딥러닝 기술을 개발했다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[더 똑똑하고 친환경적인 산업단지 확산한다]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104803&amp;page=1&amp;mkind=2&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104803&amp;page=1&amp;mkind=2&amp;kind=2"/>
-        <updated>2022-02-17T00:51:08.698Z</updated>
-        <content type="html"><![CDATA[산업통상자원부는 지난 15일 울산미포 국가 산단에서 ‘울산미포 스마트그린산단 사업단 출범식’을 개최했다. 이번 출범식은 작년에 지정된 ‘울산미포, 부산명지녹산, 전북군산’ 스마트그린산단 사업단의 첫 출범식으로, 16일에는 부산명지녹산 산단·23일에는 전북군산 산단에서 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[산업부 박진규 1차관, 현대차 남양기술연구소 현장 방문]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104801&amp;page=1&amp;mkind=2&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104801&amp;page=1&amp;mkind=2&amp;kind=2"/>
-        <updated>2022-02-17T00:51:08.698Z</updated>
-        <content type="html"><![CDATA[산업통상자원부 박진규 1차관은 지난 15일 국내 자동차 기술의 메카인 남양기술연구소를 방문해 미래차 개발·상용화 현장을 직접 살펴보고, 기술혁신을 선도하는 연구소 관계자를 격려했다.]]></content>
     </entry>
 </feed>
