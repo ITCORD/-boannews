@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Feb 2022 08:20:50 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Feb 2022 09:16:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -86,6 +86,14 @@
             <pubDate>Thu, 17 Feb 2022 06:20:06 GMT</pubDate>
             <content:encoded><![CDATA[정보를 공유할 때, 민감한 부분만 골라서 흐릿하게 처리하는 기법은 꽤나 오래 전부터 사용되어 왔었다. 보안 전문가 댄 페트로(Dan Petro)는 이것이 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/text-thumb-0217.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[조경식 과기정통부 2차관, 정보보호인증 모범사례로 ‘유니온커뮤니티’ 현장방문 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104879&amp;page=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104879&amp;page=1&amp;kind=3</guid>
+            <pubDate>Fri, 18 Feb 2022 09:15:03 GMT</pubDate>
+            <content:encoded><![CDATA[과학기술정보통신부(장관 임혜숙, 이하 ‘과기정통부’) 조경식 제2차관은 열화상 카메라의 정보보호인증 획득 노고를 격려하기 위해, 2월 18일(금) 송파구 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/20220218UNION-S.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[2022 지방자치단체 ESG Korea Awards & 포럼 개최 (보안뉴스 ─ 전체기사)]]></title>
@@ -234,36 +242,12 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/21021704ss.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[개인정보위, 2기 가명정보 결합 선도사례 중점 추진 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104857&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104857&amp;page=1&amp;kind=2</guid>
-            <pubDate>Thu, 17 Feb 2022 07:14:43 GMT</pubDate>
-            <content:encoded><![CDATA[개인정보보호위원회(위원장 윤종인, 이하 개인정보위)와 관계부처는 안전한 데이터 활용을 위한 가명정보 제도를 확산시키기 위해, ’21년 시범사례에 이어, ’...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/free_021701_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[클레이스왑 해킹으로 드러난 BGP Hijacking 공격기법, 도대체 뭐길래? (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104743&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104743&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Sun, 13 Feb 2022 02:03:27 GMT</pubDate>
             <content:encoded><![CDATA[지난 2월 3일 국내 최대 규모 디파이(Defi, 탈중앙화 금융) 서비스 ‘클레이스왑(KLAYswap)’에서 22억 규모에 달하는 가상자산(암호화폐)이 탈취되는 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/20220213claymain-s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[긴급] 유명 손해보험사 위장 피싱 메일로 ‘Remcos’ 악성코드 유포 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104732&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104732&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Sat, 12 Feb 2022 02:04:14 GMT</pubDate>
-            <content:encoded><![CDATA[국내 유명 손해보험사를 위장한 피싱 메일이 유포되고 있어 사용자들의 주의가 필요하다. 피싱 메일에는 RAT(원격제어) 악성코드인 ‘Remcos’가 포함돼 있는 것...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/20220211esrc-s.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[코발트 스트라이크 악성코드, 취약한 MS-SQL 서버 대상으로 유포 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104733&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104733&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Sat, 12 Feb 2022 03:14:46 GMT</pubDate>
-            <content:encoded><![CDATA[최근 코발트 스트라이크 악성코드가 취약한 MS-SQL 서버를 대상으로 유포 중인 것을 확인했다고 안랩 ASEC 분석팀이 밝혔다. MS-SQL 서버는 윈도우 환경의...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/20220211AHN-S.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[[주말판] 대화형 인공지능과 챗봇, 어디까지 와 있나 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
@@ -397,6 +381,21 @@
             <guid>https://www.boannews.com/media/view.asp?idx=104738&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
             <pubDate>Fri, 18 Feb 2022 06:19:55 GMT</pubDate>
             <content:encoded><![CDATA[특허청 국제지식재산연수원은 오는 14일부터 2주간 2022년 1학기 지식재산학 학점은행 온라인 수강생을 모집한다. ‘지식재산학’ 전공은 지식재산의 창출, 활용, ...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[조경식 과기정통부 제2차관, 스마트경로당 사업 성과보고회 참석 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104735&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104735&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
+            <pubDate>Fri, 18 Feb 2022 09:15:12 GMT</pubDate>
+            <content:encoded><![CDATA[과학기술정보통신부 조경식 제2차관은 지난 11일 대전 유성구 소재 경로당에서 개최하는 2021년 스마트경로당 사업 성과보고회에 참석했다. ‘스마트경로당’은 스마트...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2022년 보안 업계가 주목할 분야는 소프트웨어 공급망 보안 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104861&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104861&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Fri, 18 Feb 2022 09:15:12 GMT</pubDate>
+            <content:encoded><![CDATA[사이버 공간을 위협하는 것들이 매일 새롭게 등장하는 것만 같다. 그리고 그 여파도 점점 더 커지고 있다. 제로데이 취약점들이 등장하는 빈도도 높아지고 있고, 물리...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/log-thumb-00217.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[최저 연봉 35만 달러로 상향한 아마존, 시장에 어떤 파장 일으킬까 (보안뉴스 ─ SECURITY)]]></title>
@@ -756,20 +755,20 @@
             <content:encoded><![CDATA[부산시는 행정안전부 주관 ‘2021년 국가안전대진단 추진 실적 시·도 성과 평가’에서 부산시 최초로 우수기관에 선정돼 ‘대통령 기관표창’을 수상했다고 밝혔다.]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[조경식 과기정통부 2차관, 정보보호인증 모범사례로 ... (보안뉴스 ─ Security World)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104879&amp;mkind=5</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104879&amp;mkind=5</guid>
+            <pubDate>Fri, 18 Feb 2022 09:15:46 GMT</pubDate>
+            <content:encoded><![CDATA[과학기술정보통신부(장관 임혜숙, 이하 ‘과기정통부’) 조경식 제2차관은 열화상 카메라의 정보보호인증 획득 노고를 격려하기 위해, 2월 18일(금) 송파구 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/20220218UNION-S.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
             <title><![CDATA[델 테크놀로지스, 파트너 보상 강화한 새 파트너 프... (보안뉴스 ─ Security World)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104881&amp;mkind=5</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104881&amp;mkind=5</guid>
             <pubDate>Fri, 18 Feb 2022 02:09:17 GMT</pubDate>
             <content:encoded><![CDATA[델 테크놀로지스(Dell Technologies)가 파트너 생태계 지원을 확대하기 위해 새롭게 강화한 ‘2022 델 테크놀로지스 파트너 프로그램(Dell ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/22021802ss.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서울시, 민간 건축공사장 위험 상황 AI가 CCTV... (보안뉴스 ─ Security World)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104876&amp;mkind=5</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104876&amp;mkind=5</guid>
-            <pubDate>Fri, 18 Feb 2022 02:09:17 GMT</pubDate>
-            <content:encoded><![CDATA[서울시와 서울디지털재단은 건축공사장의 위험 상황을 인공지능(AI)이 실시간 관제하는 ‘인공지능 기반 건축공사장 위험요소 관제 솔루션’을 중소 규모 민간 건...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/20220218cctv-s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아파치 카산드라에서 고위험군 코드 실행 취약점 발견돼 (보안뉴스 ─ 취약점 경고 및 버그리포트)]]></title>
