@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Feb 2022 02:10:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Feb 2022 03:18:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -96,20 +96,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/bio-thumb-0215.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[사이버 보안, 더 은밀하고 더 강력하게]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104825&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104825&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Thu, 17 Feb 2022 23:15:08 GMT</pubDate>
-            <content:encoded><![CDATA[10년 전만 해도 CIO들에게 있어 사이버 보안이란 중요도에 있어 순위가 꽤나 밀리는 것이었다. 오늘 날? 사정이 크게 달라졌다. 이제 보안은 CIO들을 항상 궁...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/pen-thyumb-0216.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[글자의 민감한 부분을 가려주는 픽셀레이션, “강력 비추”]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104858&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104858&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Fri, 18 Feb 2022 01:00:38 GMT</pubDate>
             <content:encoded><![CDATA[정보를 공유할 때, 민감한 부분만 골라서 흐릿하게 처리하는 기법은 꽤나 오래 전부터 사용되어 왔었다. 보안 전문가 댄 페트로(Dan Petro)는 이것이 늘 불편...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/text-thumb-0217.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[사이버 보안, 더 은밀하고 더 강력하게]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104825&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104825&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Thu, 17 Feb 2022 23:15:08 GMT</pubDate>
+            <content:encoded><![CDATA[10년 전만 해도 CIO들에게 있어 사이버 보안이란 중요도에 있어 순위가 꽤나 밀리는 것이었다. 오늘 날? 사정이 크게 달라졌다. 이제 보안은 CIO들을 항상 궁...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/pen-thyumb-0216.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[구글 크롬, 긴급 업데이트로 제로데이 취약점 해결]]></title>

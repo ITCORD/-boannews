@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=2</id>
     <title>보안뉴스 ─ IT</title>
-    <updated>2022-02-18T02:10:35.513Z</updated>
+    <updated>2022-02-18T03:18:27.759Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[산·학·연·관, 지역 디지털전환에 힘 모은다]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104872&amp;page=1&amp;mkind=2&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104872&amp;page=1&amp;mkind=2&amp;kind=2"/>
+        <updated>2022-02-18T03:16:50.943Z</updated>
+        <content type="html"><![CDATA[부산시는 한국산업지능화협회·지역대학 산학협력단 등 20여개 기관과 ‘융합얼라이언스’를 결성하고, 지역 산업 및 기업의 디지털 전환에 본격적으로 나선다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[삼성SDS, AWS 익스클루시브 글로벌 비즈니스 네트워크 참여]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=104870&amp;page=1&amp;mkind=2&amp;kind=3</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=104829&amp;page=1&amp;mkind=2&amp;kind=2"/>
         <updated>2022-02-17T00:51:08.690Z</updated>
         <content type="html"><![CDATA[한국전자기술연구원(KETI)이 인공지능 연구에 활용 가능한 최첨단 사전학습 모델 ‘VL-KE-T5’를 무료 공개하고 배포했다고 밝혔다. ‘사전학습 모델’은 자기지도학습(Self-supervised Learning)을 통해 대용량 데이터로부터 범용적 의미를 미리 학습하는...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지스트, 학습하지 않은 물체도 인식할 수 있는 로봇 시각 인공지능 개발]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104828&amp;page=1&amp;mkind=2&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104828&amp;page=1&amp;mkind=2&amp;kind=2"/>
-        <updated>2022-02-17T00:51:08.697Z</updated>
-        <content type="html"><![CDATA[지스트(광주과학기술원) 융합기술학제학부 이규빈 교수 연구팀은 계층적 가림 모델링을 통해 복잡한 로봇 환경에서도 미학습 물체의 가시 영역과 비가시 영역, 가림 여부를 동시에 검출하는 딥러닝 기술을 개발했다.]]></content>
     </entry>
 </feed>
