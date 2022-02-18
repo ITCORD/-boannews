@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=2</id>
     <title>보안뉴스 ─ IT</title>
-    <updated>2022-02-18T06:21:50.505Z</updated>
+    <updated>2022-02-18T07:17:29.833Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[서울시, ‘디지털 트윈 기반 기술’ 활용해 아리수 품질 높인다]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104877&amp;page=1&amp;mkind=2&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104877&amp;page=1&amp;mkind=2&amp;kind=2"/>
+        <updated>2022-02-18T07:15:36.001Z</updated>
+        <content type="html"><![CDATA[서울시가 사이버 가상공간에 현실과 동일한 3D 정수센터를 만들어 정수처리와 시설물을 정확하게 분석·진단하고 모의실험을 통해 최적의 해결책을 도출하는 ‘디지털 트윈 기반 정수처리 시스템 개량 기술’을 자체 개발했다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[부산시, ‘빅데이터 분석·활용 지원 사업’ 참여 기업 모집]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=104874&amp;page=1&amp;mkind=2&amp;kind=2</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=104836&amp;page=1&amp;mkind=2&amp;kind=2"/>
         <updated>2022-02-17T00:51:08.687Z</updated>
         <content type="html"><![CDATA[산업통상자원부는 지난 16일 주요 반도체 기업들이 참석한 ‘반도체 투자 활성화 간담회’를 개최했다. 정부와 산업계는 반도체 산업 공급망 강화와 경쟁력 혁신을 위한 투자 활성화 방안을 논의했으며, 기업들의 경영 애로 사항을 듣고 지원 사항을 모색했다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[경남도, 4차 산업혁명 선도 로봇산업 중심지 구축 ‘청신호’]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104830&amp;page=1&amp;mkind=2&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104830&amp;page=1&amp;mkind=2&amp;kind=2"/>
-        <updated>2022-02-17T00:51:08.688Z</updated>
-        <content type="html"><![CDATA[경남도는 뿌리기업 및 소부장기업의 생산설비 고도화 전환 지원과 서비스로봇 및 로봇부품기업 육성을 위한 실증 지원을 통한 경남 로봇산업 육성에 더욱 힘을 쏟을 계획이라고 밝혔다.]]></content>
     </entry>
 </feed>
