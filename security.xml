@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-02-17T23:17:05.110Z</updated>
+    <updated>2022-02-18T01:02:35.385Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Weekly Security Premium Report 제38호 발간! 클레이스왑 해킹 사건 집중분석]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104860&amp;page=1&amp;mkind=1&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104860&amp;page=1&amp;mkind=1&amp;kind=3"/>
+        <updated>2022-02-18T01:00:47.283Z</updated>
+        <content type="html"><![CDATA[2월 10일 발간된 ‘Weekly Security Premium Report’ 제38호에는 &lt;보안 심층 리포트&gt; 코너에서 최근 IT 및 보안 분야에서 매우 큰 이슈가 되고 있는 클레이스왑 해킹 사건의 공격기법을 자세히 분석하는 시간을 가졌다. 블록체인을 기반...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[글자의 민감한 부분을 가려주는 픽셀레이션, “강력 비추”]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104858&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104858&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-02-18T01:00:47.284Z</updated>
+        <content type="html"><![CDATA[정보를 공유할 때, 민감한 부분만 골라서 흐릿하게 처리하는 기법은 꽤나 오래 전부터 사용되어 왔었다. 보안 전문가 댄 페트로(Dan Petro)는 이것이 늘 불편했다. 픽셀을 뭉개서 글자가 안 보이게 한다고는 하지만, 마음만 먹으면 많은 정보를 추출하는 게 가능했기 때...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[개인정보위, 2기 가명정보 결합 선도사례 중점 추진]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=104857&amp;page=1&amp;mkind=1&amp;kind=2</id>
@@ -109,19 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=104821&amp;page=1&amp;mkind=1&amp;kind=3"/>
         <updated>2022-02-17T00:50:59.734Z</updated>
         <content type="html"><![CDATA[국내 최대 보안전문 인터넷신문 &lt;보안뉴스&gt;와 보안종합 월간지 &lt;시큐리티월드&gt;가 발간한 ‘2022 국내외 보안시장 전망보고서’에 따르면, 2021년 국내 보안시장은 6조 1,665억원으로 이는 2020년 대비 5.8% 성장한 금액이다. 또한, 202...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[두산 디지털이노베이션, NFT 상품 거래 가능한 마켓플레이스 오픈]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104824&amp;page=1&amp;mkind=1&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104824&amp;page=1&amp;mkind=1&amp;kind=3"/>
-        <updated>2022-02-16T13:17:55.843Z</updated>
-        <content type="html"><![CDATA[두산 디지털이노베이션(대표 박석원, 이하 DDI)이 지난 15일, 두버스(Dooverse) 내에 NFT(Non-Fungible-Token, 대체 불가능한 토큰) 상품을 거래할 수 있는 마켓플레이스를 공식 오픈하고 서비스를 시작했다. 두버스는 DDI가 서비스하고 있는 N...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아직은 조용한 비영리 단체들, 지금부터 보안 강화 시작해야 한다]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104823&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104823&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-02-16T09:14:55.136Z</updated>
-        <content type="html"><![CDATA[랜섬웨어 공격자들이 먹이를 찾아 헤맬 때, 비영리 단체는 보통 제외 대상이 되는 것 같은 분위기다. 비영리 단체가 랜섬웨어에 당해 마비됐다고 대대적으로 알리는 매체를 본 적이 있는가? 대단히 덩치가 크고 영향력이 지대한 곳이 아니라면 비영리 단체는 지금의 혼란스러운 사...]]></content>
     </entry>
 </feed>
