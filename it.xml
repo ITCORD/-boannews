@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=2</id>
     <title>보안뉴스 ─ IT</title>
-    <updated>2022-02-18T09:16:59.584Z</updated>
+    <updated>2022-02-18T10:19:08.759Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[푸드경제신문, ‘2022 대한민국 ESG 경영대상’ 시상식 개최]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104885&amp;page=1&amp;mkind=2&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104885&amp;page=1&amp;mkind=2&amp;kind=3"/>
+        <updated>2022-02-18T10:17:35.113Z</updated>
+        <content type="html"><![CDATA[푸드경제신문 창간 12주년 기념, 언론이 선정한 ‘2022 대한민국 ESG 경영대상’ 시상식이 2월 17일 오후 서울 프레스센터 20층 국제회의장에서 열린 가운데, 풀무원이 대상(환경부 장관상)의 영예를 안았다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[서울시, ‘디지털 트윈 기반 기술’ 활용해 아리수 품질 높인다]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=104877&amp;page=1&amp;mkind=2&amp;kind=2</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=104845&amp;page=1&amp;mkind=2&amp;kind=1"/>
         <updated>2022-02-17T00:51:08.686Z</updated>
         <content type="html"><![CDATA[△내 용 : 이화여자대학교 양대헌 교수 빙모상 △빈 소 : 칠곡경북대병원 장례식장 109호 △발 인 : 2022년 02월 18일(금) 오전 10시]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[반도체 산업 글로벌 경쟁 파고에 공동 대응 나서다]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104836&amp;page=1&amp;mkind=2&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104836&amp;page=1&amp;mkind=2&amp;kind=2"/>
-        <updated>2022-02-17T00:51:08.687Z</updated>
-        <content type="html"><![CDATA[산업통상자원부는 지난 16일 주요 반도체 기업들이 참석한 ‘반도체 투자 활성화 간담회’를 개최했다. 정부와 산업계는 반도체 산업 공급망 강화와 경쟁력 혁신을 위한 투자 활성화 방안을 논의했으며, 기업들의 경영 애로 사항을 듣고 지원 사항을 모색했다.]]></content>
     </entry>
 </feed>

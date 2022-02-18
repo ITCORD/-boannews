@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-02-18T09:16:59.578Z</updated>
+    <updated>2022-02-18T10:19:08.762Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[대만, 중국 해킹 공격에 반격하기 위한 기틀 마련]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104882&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104882&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-02-18T10:17:26.481Z</updated>
+        <content type="html"><![CDATA[대만이 중국 해킹 공격에 대한 대응책을 마련하기 시작했다. 국회 내에서 중국 산업 스파이들의 공격 행위를 겨냥한 국가안보법 개정이 제의되었다. 중국의 해커들은 지난 수년 동안 세계 곳곳의 주요 산업체들을 겨냥해 기밀들과 지적재산들을 빼낸 것으로 악명이 높다. 이번 제의...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[최저 연봉 35만 달러로 상향한 아마존, 시장에 어떤 파장 일으킬까]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=104862&amp;page=1&amp;mkind=1&amp;kind=3</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=104848&amp;page=1&amp;mkind=1&amp;kind=1"/>
         <updated>2022-02-17T02:25:18.057Z</updated>
         <content type="html"><![CDATA[가상자산을 무단으로 채굴하는 멀웨어 ‘크립토재커’로 인한 피해액이 무려 1억 달러(한화 약 1,197억원)에 달하며, 이는 전체 멀웨어 피해액의 73%를 차지한다는 내용의 보고서가 나왔다. 블록체인 데이터 플랫폼 기업 체이널리시스(한국지사장 백용기)는 오늘 가상자산 범...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[파수, 보안 솔루션 패키지로 중소기업 보안 지원]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104847&amp;page=1&amp;mkind=1&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104847&amp;page=1&amp;mkind=1&amp;kind=3"/>
-        <updated>2022-02-17T02:25:18.070Z</updated>
-        <content type="html"><![CDATA[파수(이하 파수, 대표 조규곤)는 사용자 100인 이하 소규모 기업 및 기관들의 보안 강화를 위한 보안 솔루션 패키지인 SBP(Small Business Package)를 새롭게 선보였다. 연간 라이선스 기반의 SBP는 솔루션 외에도 어플라이언스, 클라우드 서비스 형태...]]></content>
     </entry>
 </feed>

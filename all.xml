@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Feb 2022 09:16:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Feb 2022 10:19:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[사이버 공격자들, 현대 방어 체계에 점점 더 익숙해지고 있다 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104889&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104889&amp;page=1&amp;kind=1</guid>
+            <pubDate>Fri, 18 Feb 2022 10:17:09 GMT</pubDate>
+            <content:encoded><![CDATA[사이버 범죄자들과 국가 지원 해커들이 점점 더 방어 전략에 적응해가고 있고, 그래서 공격의 효율성이 높아지고 있다는 연구 결과가 두 개 발표됐다. 하나는 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/used-thumb-0218.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[정재동의 창업에세이-2] 학생 창업활동이 꼭 필요한 이유 (보안뉴스 ─ 전체기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104887&amp;page=1&amp;kind=6</link>
@@ -80,15 +88,14 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/20220217report-sm.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
-            <title><![CDATA[글자의 민감한 부분을 가려주는 픽셀레이션, “강력 비추” (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104858&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104858&amp;page=1&amp;kind=1</guid>
-            <pubDate>Thu, 17 Feb 2022 06:20:06 GMT</pubDate>
-            <content:encoded><![CDATA[정보를 공유할 때, 민감한 부분만 골라서 흐릿하게 처리하는 기법은 꽤나 오래 전부터 사용되어 왔었다. 보안 전문가 댄 페트로(Dan Petro)는 이것이 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/text-thumb-0217.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[부고] 한국면세뉴스 박홍규 대표 빙부상 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104888&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104888&amp;page=1&amp;kind=1</guid>
+            <pubDate>Fri, 18 Feb 2022 10:17:09 GMT</pubDate>
+            <content:encoded><![CDATA[△내 용 : 한국면세뉴스 박홍규 대표 빙부상 △고 인 : 고 원동욱님 △빈 소 : 인천의료원 장례식장 302호 △발 인 : 2월 20일(일) 오전 7시 3...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[조경식 과기정통부 2차관, 정보보호인증 모범사례로 ‘유니온커뮤니티’ 현장방문 (보안뉴스 ─ 전체기사)]]></title>
+            <title><![CDATA[조경식 과기정통부 2차관, 정보보호인증 모범사례로 유니온커뮤니티 현장방문 (보안뉴스 ─ 전체기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104879&amp;page=1&amp;kind=3</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104879&amp;page=1&amp;kind=3</guid>
             <pubDate>Fri, 18 Feb 2022 09:15:03 GMT</pubDate>
@@ -234,14 +241,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/2-150(295).jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[오즈레이, 유니아이와 ‘가금류 질병 진단 및 생산관리 서비스’ 위해 업무협약 체결 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104859&amp;page=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104859&amp;page=1&amp;kind=3</guid>
-            <pubDate>Thu, 17 Feb 2022 10:17:11 GMT</pubDate>
-            <content:encoded><![CDATA[머신비전 및 적외선 카메라 전문 제조 기업 ‘오즈레이’와 인공지능 개발 업체 ‘유니아이’가 ‘가금류 질병 진단 및 생산관리 서비스’ 위해 업무협약을 체결했...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/21021704ss.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[클레이스왑 해킹으로 드러난 BGP Hijacking 공격기법, 도대체 뭐길래? (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104743&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104743&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
@@ -346,19 +345,19 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/ciso_0215001_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[‘2022년 방위산업기술 보호체계 구축·운영 지원 사업’ 참여기업 모집 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104740&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104740&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
-            <pubDate>Mon, 14 Feb 2022 05:14:30 GMT</pubDate>
-            <content:encoded><![CDATA[방위사업청은 사이버 해킹 등 기술 탈취의 위협으로부터 방산 중소·중견기업의 기술보호 수준을 높이기 위해 ‘2022년 방위산업기술 보호체계 구축·운영 지원 사업’에...]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[랜섬웨어 수익금 74%가 러시아로 흘러들어간다 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104788&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104788&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Thu, 17 Feb 2022 00:50:51 GMT</pubDate>
             <content:encoded><![CDATA[2021년은 랜섬웨어의 해였고, 그 랜섬웨어 때문에 발생한 피해액의 74%는 러시아로 흘러들어갔다는 연구 조사가 발표됐다. 이는 블록체인 분석 전문 기업 체이널리...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/ran-thumb-0215.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘2022년 방위산업기술 보호체계 구축·운영 지원 사업’ 참여기업 모집 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104740&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104740&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
+            <pubDate>Mon, 14 Feb 2022 05:14:30 GMT</pubDate>
+            <content:encoded><![CDATA[방위사업청은 사이버 해킹 등 기술 탈취의 위협으로부터 방산 중소·중견기업의 기술보호 수준을 높이기 위해 ‘2022년 방위산업기술 보호체계 구축·운영 지원 사업’에...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[과기정통부 용홍택 제1차관, 인공지능 활용 신약 개발 기업 현장 방문 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
@@ -383,6 +382,14 @@
             <content:encoded><![CDATA[특허청 국제지식재산연수원은 오는 14일부터 2주간 2022년 1학기 지식재산학 학점은행 온라인 수강생을 모집한다. ‘지식재산학’ 전공은 지식재산의 창출, 활용, ...]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[2022년 보안 업계가 주목할 분야는 소프트웨어 공급망 보안 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104861&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104861&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Fri, 18 Feb 2022 09:15:12 GMT</pubDate>
+            <content:encoded><![CDATA[사이버 공간을 위협하는 것들이 매일 새롭게 등장하는 것만 같다. 그리고 그 여파도 점점 더 커지고 있다. 제로데이 취약점들이 등장하는 빈도도 높아지고 있고, 물리...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/log-thumb-00217.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[조경식 과기정통부 제2차관, 스마트경로당 사업 성과보고회 참석 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104735&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104735&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
@@ -390,12 +397,11 @@
             <content:encoded><![CDATA[과학기술정보통신부 조경식 제2차관은 지난 11일 대전 유성구 소재 경로당에서 개최하는 2021년 스마트경로당 사업 성과보고회에 참석했다. ‘스마트경로당’은 스마트...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[2022년 보안 업계가 주목할 분야는 소프트웨어 공급망 보안 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104861&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104861&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Fri, 18 Feb 2022 09:15:12 GMT</pubDate>
-            <content:encoded><![CDATA[사이버 공간을 위협하는 것들이 매일 새롭게 등장하는 것만 같다. 그리고 그 여파도 점점 더 커지고 있다. 제로데이 취약점들이 등장하는 빈도도 높아지고 있고, 물리...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/log-thumb-00217.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[대만, 중국 해킹 공격에 반격하기 위한 기틀 마련 (보안뉴스 ─ SECURITY)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104882&amp;page=1&amp;mkind=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104882&amp;page=1&amp;mkind=1&amp;kind=1</guid>
+            <pubDate>Fri, 18 Feb 2022 10:17:26 GMT</pubDate>
+            <content:encoded><![CDATA[대만이 중국 해킹 공격에 대한 대응책을 마련하기 시작했다. 국회 내에서 중국 산업 스파이들의 공격 행위를 겨냥한 국가안보법 개정이 제의되었다. 중국의 해커들은 지난 수년 동안 세계 곳곳의 주요 산업체들을 겨냥해 기밀들과 지적재산들을 빼낸 것으로 악명이 높다. 이번 제의...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[최저 연봉 35만 달러로 상향한 아마존, 시장에 어떤 파장 일으킬까 (보안뉴스 ─ SECURITY)]]></title>
@@ -510,11 +516,11 @@
             <content:encoded><![CDATA[가상자산을 무단으로 채굴하는 멀웨어 ‘크립토재커’로 인한 피해액이 무려 1억 달러(한화 약 1,197억원)에 달하며, 이는 전체 멀웨어 피해액의 73%를 차지한다는 내용의 보고서가 나왔다. 블록체인 데이터 플랫폼 기업 체이널리시스(한국지사장 백용기)는 오늘 가상자산 범...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[파수, 보안 솔루션 패키지로 중소기업 보안 지원 (보안뉴스 ─ SECURITY)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104847&amp;page=1&amp;mkind=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104847&amp;page=1&amp;mkind=1&amp;kind=3</guid>
-            <pubDate>Thu, 17 Feb 2022 02:25:18 GMT</pubDate>
-            <content:encoded><![CDATA[파수(이하 파수, 대표 조규곤)는 사용자 100인 이하 소규모 기업 및 기관들의 보안 강화를 위한 보안 솔루션 패키지인 SBP(Small Business Package)를 새롭게 선보였다. 연간 라이선스 기반의 SBP는 솔루션 외에도 어플라이언스, 클라우드 서비스 형태...]]></content:encoded>
+            <title><![CDATA[푸드경제신문, ‘2022 대한민국 ESG 경영대상’ 시상식 개최 (보안뉴스 ─ IT)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104885&amp;page=1&amp;mkind=2&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104885&amp;page=1&amp;mkind=2&amp;kind=3</guid>
+            <pubDate>Fri, 18 Feb 2022 10:17:35 GMT</pubDate>
+            <content:encoded><![CDATA[푸드경제신문 창간 12주년 기념, 언론이 선정한 ‘2022 대한민국 ESG 경영대상’ 시상식이 2월 17일 오후 서울 프레스센터 20층 국제회의장에서 열린 가운데, 풀무원이 대상(환경부 장관상)의 영예를 안았다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[서울시, ‘디지털 트윈 기반 기술’ 활용해 아리수 품질 높인다 (보안뉴스 ─ IT)]]></title>
@@ -627,13 +633,6 @@
             <guid>https://www.boannews.com/media/view.asp?idx=104845&amp;page=1&amp;mkind=2&amp;kind=1</guid>
             <pubDate>Thu, 17 Feb 2022 00:51:08 GMT</pubDate>
             <content:encoded><![CDATA[△내 용 : 이화여자대학교 양대헌 교수 빙모상 △빈 소 : 칠곡경북대병원 장례식장 109호 △발 인 : 2022년 02월 18일(금) 오전 10시]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[반도체 산업 글로벌 경쟁 파고에 공동 대응 나서다 (보안뉴스 ─ IT)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104836&amp;page=1&amp;mkind=2&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104836&amp;page=1&amp;mkind=2&amp;kind=2</guid>
-            <pubDate>Thu, 17 Feb 2022 00:51:08 GMT</pubDate>
-            <content:encoded><![CDATA[산업통상자원부는 지난 16일 주요 반도체 기업들이 참석한 ‘반도체 투자 활성화 간담회’를 개최했다. 정부와 산업계는 반도체 산업 공급망 강화와 경쟁력 혁신을 위한 투자 활성화 방안을 논의했으며, 기업들의 경영 애로 사항을 듣고 지원 사항을 모색했다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[서울교통공사-한국승강기안전공단, 인적 교류 및 기술 협력 업무협약 체결 (보안뉴스 ─ SAFETY)]]></title>
@@ -1891,6 +1890,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2021/12/msit_1223001_MAIN.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[사이버 공격자들, 현대 방어 체계에 점점 더 익숙해지고 있다 (보안뉴스 ─ 국제)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104889&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104889&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
+            <pubDate>Fri, 18 Feb 2022 10:18:42 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/view.asp?idx=104889&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
+					
+					<img src="/media/upFiles2/2022/02/used-thumb-0218.jpg" alt="" class="news_img" height="70">
+					
+					<span class="news_txt">사이버 공격자들, 현대 방어 체계에 점점 더 익숙해지고 있다</span>
+					</a><br>
+					<a href="/media/view.asp?idx=104889&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">사이버 범죄자들과 국가 지원 해커들이 점점 더 방어 전략에 적응해가고 있고, 그래서 공격의 효율성이 높아지고 있다는 연구 결과가 두 개 발표됐다. 하나는 보안 업...</a> <span class="news_writer">문가용 기자 | 2022년 02월 18일 19:15</span>]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/used-thumb-0218.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[아이의 인터넷 사용 시간 제어하려다 마을 전체 다운시킨 아빠 (보안뉴스 ─ 국제)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104884&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104884&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
@@ -2155,20 +2168,6 @@
 					</a><br>
 					<a href="/media/view.asp?idx=104793&amp;page=1&amp;mkind=&amp;kind=4&amp;skind=D&amp;search=title&amp;find=">사이버 보안 분야가 최근 몇 년 동안 눈부시게 발전하는 중이다. 그렇지만 그 어느 때보다 고통에 시달리고 있기도 하다. 해킹과 크래킹 등 각종 공격 기술들 역시 ...</a> <span class="news_writer">문가용 기자 | 2022년 02월 16일 10:36</span>]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/bio-thumb-0215.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[어나니머스 해커, “캐나다 트럭 시위 자금 출처가 수상하다” (보안뉴스 ─ 국제)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104790&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104790&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
-            <pubDate>Tue, 15 Feb 2022 03:17:04 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/view.asp?idx=104790&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
-					
-					<img src="/media/upFiles2/2022/02/truck-thumb-0215.jpg" alt="" class="news_img" height="70">
-					
-					<span class="news_txt">어나니머스 해커, “캐나다 트럭 시위 자금 출처가 수상하다”</span>
-					</a><br>
-					<a href="/media/view.asp?idx=104790&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">한 해커가 캐나다의 트럭 시위대에 지원금을 전달한 사람 9만 명의 이름을 공개했다. 그러면서 “이러한 ‘극단주의자들’을 돕기 위한 지원금이 외국에서 흘러 들어오고...</a> <span class="news_writer">문가용 기자 | 2022년 02월 15일 11:23</span>]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/truck-thumb-0215.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2022년 대한민국 보안시장 규모, 6조 4,453억원 전망 (보안뉴스 ─ 기획특집)]]></title>
@@ -2731,6 +2730,17 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/RESIZEASTRON_CWS_ver2_CMYKsum.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[[부고] 한국면세뉴스 박홍규 대표 빙부상 (보안뉴스 ─ 인사 부고)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104888&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=K&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104888&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=K&amp;search=title&amp;find=</guid>
+            <pubDate>Fri, 18 Feb 2022 10:19:07 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/view.asp?idx=104888&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=K&amp;search=title&amp;find=">
+					
+					<span class="news_txt">[부고] 한국면세뉴스 박홍규 대표 빙부상</span>
+					</a><br>
+					<a href="/media/view.asp?idx=104888&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=K&amp;search=title&amp;find=">△내 용 : 한국면세뉴스 박홍규 대표 빙부상 △고 인 : 고 원동욱님 △빈 소 : 인천의료원 장례식장 302호 △발 인 : 2월 20일(일) 오전 7시 30분</a> <span class="news_writer">권준  기자 | 2022년 02월 18일 18:48</span>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[인사] 과학기술정보통신부 (보안뉴스 ─ 인사 부고)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104880&amp;page=1&amp;mkind=&amp;kind=2&amp;skind=K&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104880&amp;page=1&amp;mkind=&amp;kind=2&amp;skind=K&amp;search=title&amp;find=</guid>
@@ -2950,17 +2960,6 @@
 					<span class="news_txt">[인사] 과학기술정보통신부</span>
 					</a><br>
 					<a href="/media/view.asp?idx=103794&amp;page=1&amp;mkind=&amp;kind=2&amp;skind=K&amp;search=title&amp;find=">◇과장급 인사 △국립전파연구원 기술기준과장 배석희(裵錫熙, 국립전파연구원 정보운영과장) △국립전파연구원 정보운영과장 김희원(金熙元, 방송진흥기획과) (2022. ...</a> <span class="news_writer">위아람 기자 | 2021년 12월 30일 14:36</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[인사] 과학기술정보통신부 (보안뉴스 ─ 인사 부고)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=103585&amp;page=1&amp;mkind=&amp;kind=2&amp;skind=K&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=103585&amp;page=1&amp;mkind=&amp;kind=2&amp;skind=K&amp;search=title&amp;find=</guid>
-            <pubDate>Wed, 12 Jan 2022 20:17:04 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/view.asp?idx=103585&amp;page=1&amp;mkind=&amp;kind=2&amp;skind=K&amp;search=title&amp;find=">
-					
-					<span class="news_txt">[인사] 과학기술정보통신부</span>
-					</a><br>
-					<a href="/media/view.asp?idx=103585&amp;page=1&amp;mkind=&amp;kind=2&amp;skind=K&amp;search=title&amp;find=">◇국장급 전보 △정보통신산업정책관   송상훈(宋相勳, 개인정보보호위원회사무처 조사조정국장) (2021. 12. 27.자)</a> <span class="news_writer">원병철 기자 | 2021년 12월 24일 13:24</span>]]></content:encoded>
         </item>
     </channel>
 </rss>
