@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 19 Feb 2022 10:18:35 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Feb 2022 11:15:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -374,6 +374,14 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/used-thumb-0218.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[아이의 인터넷 사용 시간 제어하려다 마을 전체 다운시킨 아빠 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104884&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104884&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Sat, 19 Feb 2022 10:16:38 GMT</pubDate>
+            <content:encoded><![CDATA[프랑스의 한 아버지가 자녀의 인터넷 사용 시간을 제어하려고 방해 전파 발신기를 사용하다가 근처 마을의 인터넷 전부를 다운시키는 사고를 일으켰다. 그것도 한두 번 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/dark-thumb-00218.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[어나니머스 해커, “캐나다 트럭 시위 자금 출처가 수상하다” (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104790&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104790&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
@@ -388,14 +396,6 @@
             <pubDate>Sat, 19 Feb 2022 00:58:09 GMT</pubDate>
             <content:encoded><![CDATA[2022년 디벨로퍼위크(DeveloperWeek 2022) 컨퍼런스에서도 메타버스와 암호화폐가 집중적으로 탐구됐다. 이러한 신기술들의 뒤, 보이지 않는 곳에서 개...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/meta-thumb-0214.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아이의 인터넷 사용 시간 제어하려다 마을 전체 다운시킨 아빠 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104884&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104884&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Sat, 19 Feb 2022 10:16:38 GMT</pubDate>
-            <content:encoded><![CDATA[프랑스의 한 아버지가 자녀의 인터넷 사용 시간을 제어하려고 방해 전파 발신기를 사용하다가 근처 마을의 인터넷 전부를 다운시키는 사고를 일으켰다. 그것도 한두 번 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/dark-thumb-00218.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[새로운 고 언어 기반 봇넷, 활발히 개발되는 중 (보안뉴스 ─ SECURITY)]]></title>
