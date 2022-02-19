@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 19 Feb 2022 07:15:58 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Feb 2022 08:19:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -86,6 +86,13 @@
             <pubDate>Thu, 17 Feb 2022 10:17:11 GMT</pubDate>
             <content:encoded><![CDATA[2월 10일 발간된 ‘Weekly Security Premium Report’ 제38호에는 &lt;보안 심층 리포트&gt; 코너에서 최근 IT 및 보안 분...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/20220217report-sm.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[과학기술 우수 연구 성과 활용해 국가 인재 양성한다]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104892&amp;page=1&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104892&amp;page=1&amp;kind=2</guid>
+            <pubDate>Sat, 19 Feb 2022 08:17:26 GMT</pubDate>
+            <content:encoded><![CDATA[국가 인재 개발에 국내 과학기술 분야 우수 연구 성과가 활용된다. 국가공무원인재개발원과 국립과천과학관은 지난 18일 ‘우수 연구 성과 상호 활용을 위한 양...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[인사] 환경부]]></title>
@@ -230,14 +237,6 @@
             <pubDate>Fri, 18 Feb 2022 01:00:28 GMT</pubDate>
             <content:encoded><![CDATA[과학기술정보통신부와 한국과학창의재단은 과학기술 전문 인프라와 연계한 첨단 기술 기반의 학교 밖 탐구·실험 공간을 새롭게 마련하기 위해 ‘학교 밖 스마트 수...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/2-152(295).jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[과천시, 장애인 위한 첨단 ‘보행재활로봇’ 서비스 시작]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104864&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104864&amp;page=1&amp;kind=2</guid>
-            <pubDate>Fri, 18 Feb 2022 01:00:28 GMT</pubDate>
-            <content:encoded><![CDATA[과천시가 장애인 기능강화지원사업의 일환으로 첨단보행재활로봇(워크봇)을 통한 재활서비스 사업을 선도적으로 추진한다고 밝혔다. 워크봇은 뇌경색, 뇌출혈, 파킨...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/2-151(295).jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
