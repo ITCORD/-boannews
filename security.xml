@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-02-19T08:19:28.874Z</updated>
+    <updated>2022-02-19T09:17:32.147Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[새로운 고 언어 기반 봇넷, 활발히 개발되는 중]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104883&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104883&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-02-19T09:15:58.882Z</updated>
+        <content type="html"><![CDATA[새로운 고(Go) 기반 봇넷 멀웨어가 발견됐다. 이름은 크라켄(Kraken)이며, 각종 백도어 기능과 정보 유출 기능이 추가되는 등 활발한 개발 행위가 이어지고 있다고 한다. 윈도 호스트를 노리는 멀웨어이며, 침투 성공 후에는 두 번째 페이로드를 다운로드해 실행, 셸 ...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[대만, 중국 해킹 공격에 반격하기 위한 기틀 마련]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=104882&amp;page=1&amp;mkind=1&amp;kind=1</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=104850&amp;page=1&amp;mkind=1&amp;kind=1"/>
         <updated>2022-02-17T02:25:18.056Z</updated>
         <content type="html"><![CDATA[2월 16일(현지 기준)부터 우크라이나에서 시작된 대규모 사이버 공격은, 우크라이나 역사상 최대 규모라고 정부가 발표했다. 우크라이나 정부 기관, 군 관련 단체, 주요 은행들이 운영하는 웹사이트들이 접속 불량 상태가 됐었고, 일부는 각종 문구로 도배되기도 했었다. 즉 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘크립토재커’ 피해액 ‘1억 달러’... 멀웨어 피해액의 73% 차지]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104848&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104848&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-02-17T02:25:18.057Z</updated>
-        <content type="html"><![CDATA[가상자산을 무단으로 채굴하는 멀웨어 ‘크립토재커’로 인한 피해액이 무려 1억 달러(한화 약 1,197억원)에 달하며, 이는 전체 멀웨어 피해액의 73%를 차지한다는 내용의 보고서가 나왔다. 블록체인 데이터 플랫폼 기업 체이널리시스(한국지사장 백용기)는 오늘 가상자산 범...]]></content>
     </entry>
 </feed>

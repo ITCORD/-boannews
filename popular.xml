@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 19 Feb 2022 08:19:28 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Feb 2022 09:17:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -152,20 +152,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/meta-thumb-0214.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[아직은 조용한 비영리 단체들, 지금부터 보안 강화 시작해야 한다]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104823&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104823&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Sat, 19 Feb 2022 00:58:09 GMT</pubDate>
-            <content:encoded><![CDATA[랜섬웨어 공격자들이 먹이를 찾아 헤맬 때, 비영리 단체는 보통 제외 대상이 되는 것 같은 분위기다. 비영리 단체가 랜섬웨어에 당해 마비됐다고 대대적으로 알리는 매...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/non-thumb-0216.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[사이버 공격자들, 현대 방어 체계에 점점 더 익숙해지고 있다]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104889&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104889&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Sat, 19 Feb 2022 07:14:07 GMT</pubDate>
             <content:encoded><![CDATA[사이버 범죄자들과 국가 지원 해커들이 점점 더 방어 전략에 적응해가고 있고, 그래서 공격의 효율성이 높아지고 있다는 연구 결과가 두 개 발표됐다. 하나는 보안 업...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/used-thumb-0218.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아직은 조용한 비영리 단체들, 지금부터 보안 강화 시작해야 한다]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104823&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104823&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Sat, 19 Feb 2022 00:58:09 GMT</pubDate>
+            <content:encoded><![CDATA[랜섬웨어 공격자들이 먹이를 찾아 헤맬 때, 비영리 단체는 보통 제외 대상이 되는 것 같은 분위기다. 비영리 단체가 랜섬웨어에 당해 마비됐다고 대대적으로 알리는 매...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/non-thumb-0216.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
