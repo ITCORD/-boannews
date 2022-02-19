@@ -4,17 +4,9 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 19 Feb 2022 17:15:40 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Feb 2022 18:19:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[클레이스왑 해킹으로 드러난 BGP Hijacking 공격기법, 도대체 뭐길래?]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104743&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104743&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Sun, 13 Feb 2022 02:03:27 GMT</pubDate>
-            <content:encoded><![CDATA[지난 2월 3일 국내 최대 규모 디파이(Defi, 탈중앙화 금융) 서비스 ‘클레이스왑(KLAYswap)’에서 22억 규모에 달하는 가상자산(암호화폐)이 탈취되는 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/20220213claymain-s.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[bnTV] 일촉즉발 우크라이나 사태! 러시아의 다크웹 랜섬웨어 소탕 배경은?]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104758&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
@@ -166,6 +158,14 @@
             <pubDate>Sat, 19 Feb 2022 00:58:09 GMT</pubDate>
             <content:encoded><![CDATA[2022년 디벨로퍼위크(DeveloperWeek 2022) 컨퍼런스에서도 메타버스와 암호화폐가 집중적으로 탐구됐다. 이러한 신기술들의 뒤, 보이지 않는 곳에서 개...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/meta-thumb-0214.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아직은 조용한 비영리 단체들, 지금부터 보안 강화 시작해야 한다]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104823&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104823&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Sat, 19 Feb 2022 18:17:19 GMT</pubDate>
+            <content:encoded><![CDATA[랜섬웨어 공격자들이 먹이를 찾아 헤맬 때, 비영리 단체는 보통 제외 대상이 되는 것 같은 분위기다. 비영리 단체가 랜섬웨어에 당해 마비됐다고 대대적으로 알리는 매...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/non-thumb-0216.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
