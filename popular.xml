@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 19 Feb 2022 05:15:32 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Feb 2022 06:20:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -144,6 +144,14 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/truck-thumb-0215.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[최저 연봉 35만 달러로 상향한 아마존, 시장에 어떤 파장 일으킬까]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104862&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104862&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
+            <pubDate>Sat, 19 Feb 2022 04:19:24 GMT</pubDate>
+            <content:encoded><![CDATA[시대의 흐름을 선포하는 것처럼 아마존은 지난 주 기술 담당 및 본사 직원들의 최소 연봉을 35만 달러로 상향한다고 발표했다. 지난해 최저 연봉이 16만 달러였는데...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/sal-thumb-0217.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[메타버스와 크립토와 같은 미지의 세계, 개발자들은 어떻게 변모해야 하나]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104764&amp;page=1&amp;kind=4&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104764&amp;page=1&amp;kind=4&amp;search=title&amp;find=</guid>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 19 Feb 2022 00:58:09 GMT</pubDate>
             <content:encoded><![CDATA[랜섬웨어 공격자들이 먹이를 찾아 헤맬 때, 비영리 단체는 보통 제외 대상이 되는 것 같은 분위기다. 비영리 단체가 랜섬웨어에 당해 마비됐다고 대대적으로 알리는 매...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/non-thumb-0216.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[최저 연봉 35만 달러로 상향한 아마존, 시장에 어떤 파장 일으킬까]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104862&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104862&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
-            <pubDate>Sat, 19 Feb 2022 04:19:24 GMT</pubDate>
-            <content:encoded><![CDATA[시대의 흐름을 선포하는 것처럼 아마존은 지난 주 기술 담당 및 본사 직원들의 최소 연봉을 35만 달러로 상향한다고 발표했다. 지난해 최저 연봉이 16만 달러였는데...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/sal-thumb-0217.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
