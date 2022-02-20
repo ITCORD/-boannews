@@ -4,9 +4,25 @@
         <title>보안뉴스 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Feb 2022 15:17:38 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Feb 2022 16:23:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[끝없이 벌어지는 개발과 보안의 간극, 어떻게 줄여야 하나]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104905&amp;page=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104905&amp;page=1&amp;kind=3</guid>
+            <pubDate>Sun, 20 Feb 2022 16:20:54 GMT</pubDate>
+            <content:encoded><![CDATA[보안과 개발은 ‘절친’이라고 하기에는 무리가 있는 관계를 유지하고 있다. 물론 이는 누구의 잘못도 아니다. 다만 여태까지 해왔던 일의 방식 때문에 어쩔 수...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/compe-thumb-0220.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022년 1월 발생한 스미싱의 80%는 ‘택배 스미싱’]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104906&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104906&amp;page=1&amp;kind=1</guid>
+            <pubDate>Sun, 20 Feb 2022 16:20:54 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 1월은 2021년 12월과 마찬가지로 택배 스미싱이 공격을 주도한 것으로 확인됐다. 택배를 키워드로 하는 스미싱 공격은 79.47%로, 여전히 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/est_022001_main.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[주말판] 원격 근무 시대에 떠오르는 SASE, 우리 회사에 잘 맞는 걸 고르려면?]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104904&amp;page=1&amp;kind=3</link>
@@ -70,22 +86,6 @@
             <pubDate>Fri, 18 Feb 2022 02:08:24 GMT</pubDate>
             <content:encoded><![CDATA[11월 4일 영국과 미국은 공동으로 성명서를 하나 발표했다. 양자 컴퓨팅 혹은 양자 기반 정보 과학과 기술을 향상시키기 위해 힘을 합치겠다는 내용이었다. ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/road-thumb-0216.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서울시, 민간 건축공사장 위험 상황 AI가 CCTV로 실시간 관제]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104876&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104876&amp;page=1&amp;kind=2</guid>
-            <pubDate>Fri, 18 Feb 2022 02:08:24 GMT</pubDate>
-            <content:encoded><![CDATA[서울시와 서울디지털재단은 건축공사장의 위험 상황을 인공지능(AI)이 실시간 관제하는 ‘인공지능 기반 건축공사장 위험요소 관제 솔루션’을 중소 규모 민간 건...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/20220218cctv-s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022년 보안 업계가 주목할 분야는 소프트웨어 공급망 보안]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104861&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104861&amp;page=1&amp;kind=1</guid>
-            <pubDate>Thu, 17 Feb 2022 12:23:45 GMT</pubDate>
-            <content:encoded><![CDATA[사이버 공간을 위협하는 것들이 매일 새롭게 등장하는 것만 같다. 그리고 그 여파도 점점 더 커지고 있다. 제로데이 취약점들이 등장하는 빈도도 높아지고 있고...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/log-thumb-00217.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한국해양교통안전공단(KOMSA), 스마트 선박안전지원센터 첫 삽 떴다]]></title>
@@ -230,12 +230,12 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/2-164(295).jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[광주소방, ‘인공지능 신고접수시스템’ 본격 운영]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104875&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104875&amp;page=1&amp;kind=2</guid>
+            <title><![CDATA[서울시, 민간 건축공사장 위험 상황 AI가 CCTV로 실시간 관제]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104876&amp;page=1&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104876&amp;page=1&amp;kind=2</guid>
             <pubDate>Fri, 18 Feb 2022 02:08:24 GMT</pubDate>
-            <content:encoded><![CDATA[광주광역시 소방안전본부는 ‘인공지능 기반 119신고접수시스템’을 구축하고 본격 운영에 들어갔다. 음성 인식에 기반한 119신고접수시스템은 신고 접수와 동시...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/2-162(295).jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[서울시와 서울디지털재단은 건축공사장의 위험 상황을 인공지능(AI)이 실시간 관제하는 ‘인공지능 기반 건축공사장 위험요소 관제 솔루션’을 중소 규모 민간 건...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/20220218cctv-s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

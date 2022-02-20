@@ -4,9 +4,23 @@
         <title>보안뉴스 ─ 국제</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Feb 2022 15:17:38 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Feb 2022 16:23:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[끝없이 벌어지는 개발과 보안의 간극, 어떻게 줄여야 하나]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104905&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=D&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104905&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=D&amp;search=title&amp;find=</guid>
+            <pubDate>Sun, 20 Feb 2022 16:22:33 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/view.asp?idx=104905&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=D&amp;search=title&amp;find=">
+					
+					<img src="/media/upFiles2/2022/02/compe-thumb-0220.jpg" alt="" class="news_img" height="70">
+					
+					<span class="news_txt">끝없이 벌어지는 개발과 보안의 간극, 어떻게 줄여야 하나</span>
+					</a><br>
+					<a href="/media/view.asp?idx=104905&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=D&amp;search=title&amp;find=">보안과 개발은 ‘절친’이라고 하기에는 무리가 있는 관계를 유지하고 있다. 물론 이는 누구의 잘못도 아니다. 다만 여태까지 해왔던 일의 방식 때문에 어쩔 수가 없었...</a> <span class="news_writer">문가용 기자 | 2022년 02월 21일 01:18</span>]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/compe-thumb-0220.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[주말판] 원격 근무 시대에 떠오르는 SASE, 우리 회사에 잘 맞는 걸 고르려면?]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104904&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=D&amp;search=title&amp;find=</link>
@@ -272,20 +286,6 @@
 					</a><br>
 					<a href="/media/view.asp?idx=104812&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">항공 서비스 제공 업체인 스위스포트(Swissport)의 데이터 일부가 블랙캣(BlackCat)이라는 랜섬웨어 그룹의 정보 공개 사이트에 올라왔다. 스위스포트가 ...</a> <span class="news_writer">문가용 기자 | 2022년 02월 16일 11:19</span>]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/bc-thumb-0216.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[APT 단체 TA2541, 수년 째 항공 산업 겨냥해 RAT 유포시켜]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104811&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104811&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
-            <pubDate>Wed, 16 Feb 2022 03:17:51 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/view.asp?idx=104811&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
-					
-					<img src="/media/upFiles2/2022/02/avi-thumb-0216.jpg" alt="" class="news_img" height="70">
-					
-					<span class="news_txt">APT 단체 TA2541, 수년 째 항공 산업 겨냥해 RAT 유포시켜</span>
-					</a><br>
-					<a href="/media/view.asp?idx=104811&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">고급 APT 단체인 TA2541이 최소 2017년부터 항공 산업에 RAT 멀웨어를 유포시킨 사실이 뒤늦게 밝혀졌다. 에이싱크랫(AsyncRAT), 리벤지랫(Rev...</a> <span class="news_writer">문가용 기자 | 2022년 02월 16일 11:18</span>]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/avi-thumb-0216.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
