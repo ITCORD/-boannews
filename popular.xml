@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Feb 2022 14:16:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Feb 2022 15:17:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -40,20 +40,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/20220214dark-s.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
-            <title><![CDATA[CISO들, 로그4j에 대해서 어떻게 설명할 것인가?]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104763&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104763&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Tue, 15 Feb 2022 06:18:14 GMT</pubDate>
-            <content:encoded><![CDATA[기업들을 겨냥한 사이버 공격은 이제 흔한 것이 되어버렸고 점점 더 심해지고 있다. 그러니 경영진들도 신경을 안 쓸 수가 없고, 보안에 대한 투자 규모를 늘려가고 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/log-thmb-0214.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[클라우드로의 이전을 망설여지게 하는 대표적 이유 6]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104744&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104744&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
             <pubDate>Tue, 15 Feb 2022 11:13:47 GMT</pubDate>
             <content:encoded><![CDATA[그 어느 때보다 많은 조직들이 오래된 데이터를 클라우드로 옮겨 쉽게 접근하고 더 안전하게 보호받으려 하고 있다. 물론 데이터 관리가 더 쉬워지고 가시성이 높아진다...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/cloud-thumb-0213.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[CISO들, 로그4j에 대해서 어떻게 설명할 것인가?]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104763&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104763&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Tue, 15 Feb 2022 06:18:14 GMT</pubDate>
+            <content:encoded><![CDATA[기업들을 겨냥한 사이버 공격은 이제 흔한 것이 되어버렸고 점점 더 심해지고 있다. 그러니 경영진들도 신경을 안 쓸 수가 없고, 보안에 대한 투자 규모를 늘려가고 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/log-thmb-0214.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[사이버 공격자들, 현대 방어 체계에 점점 더 익숙해지고 있다]]></title>
@@ -96,14 +96,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/log-thumb-00217.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[인공지능과 사이버 보안, 궁합이 좋긴 한 걸까?]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104742&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104742&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Mon, 14 Feb 2022 10:16:21 GMT</pubDate>
-            <content:encoded><![CDATA[사이버 보안 업계에서 한 때 인공지능의 바람이 거세게 몰아쳤던 적이 있지만 아직까지 ‘히트 상품’은 나온 적이 없다. 이제는 오히려 ‘왜 인공지능과 보안 업계는 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/aicy-thumb-0212.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[구글 크롬, 긴급 업데이트로 제로데이 취약점 해결]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104787&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104787&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
@@ -120,20 +112,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/20220217report-sm.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
-            <title><![CDATA[랜섬웨어 수익금 74%가 러시아로 흘러들어간다]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104788&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104788&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Thu, 17 Feb 2022 00:50:51 GMT</pubDate>
-            <content:encoded><![CDATA[2021년은 랜섬웨어의 해였고, 그 랜섬웨어 때문에 발생한 피해액의 74%는 러시아로 흘러들어갔다는 연구 조사가 발표됐다. 이는 블록체인 분석 전문 기업 체이널리...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/ran-thumb-0215.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[제115차 CISO포럼, ‘메타버스’에서의 보안위협 및 대응방안 공유]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104791&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104791&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
             <pubDate>Wed, 16 Feb 2022 09:14:46 GMT</pubDate>
             <content:encoded><![CDATA[페이스북이 사명을 ‘메타(META)’로 바꿀 정도로 메가트렌드가 된 ‘메타버스(METAVERSE)’지만, 정작 이에 대한 보안은 아직 논의되지 않고 있다. 이러한...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/ciso_0215001_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[랜섬웨어 수익금 74%가 러시아로 흘러들어간다]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104788&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104788&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Thu, 17 Feb 2022 00:50:51 GMT</pubDate>
+            <content:encoded><![CDATA[2021년은 랜섬웨어의 해였고, 그 랜섬웨어 때문에 발생한 피해액의 74%는 러시아로 흘러들어갔다는 연구 조사가 발표됐다. 이는 블록체인 분석 전문 기업 체이널리...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/ran-thumb-0215.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[주말판] 원격 근무 시대에 떠오르는 SASE, 우리 회사에 잘 맞는 걸 고르려면?]]></title>
@@ -158,6 +150,14 @@
             <pubDate>Sat, 19 Feb 2022 00:58:09 GMT</pubDate>
             <content:encoded><![CDATA[스페인 경찰이 사이버 조직을 와해시켰다. 심스와핑 공격을 연쇄적으로 실시하던 단체로, 이번 작전을 통해 8명이 체포됐다고 한다. 이들은 소셜 엔지니어링 기법으로 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/sim-thumb-0215.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[정재동의 창업에세이-2] 학생 창업활동이 꼭 필요한 이유]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104887&amp;page=1&amp;kind=6&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104887&amp;page=1&amp;kind=6&amp;search=title&amp;find=</guid>
+            <pubDate>Sun, 20 Feb 2022 15:15:56 GMT</pubDate>
+            <content:encoded><![CDATA[학생창업은 배움이 본분인 학생이 돈 버는 일인 사업을 시작하는 것이다. 업을 정하기 위해 배우고 있는 사람이 업을 정하고 스스로 직장을 만들어서 취직하는 것이다....]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/20220218startup-s.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[어나니머스 해커, “캐나다 트럭 시위 자금 출처가 수상하다”]]></title>
