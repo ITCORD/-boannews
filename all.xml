@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Feb 2022 16:23:05 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Feb 2022 17:15:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[러시아-우크라이나 전쟁 초읽기? 사이버상은 이미 대규모 해킹 공습중 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104908&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104908&amp;page=1&amp;kind=1</guid>
+            <pubDate>Sun, 20 Feb 2022 17:13:43 GMT</pubDate>
+            <content:encoded><![CDATA[러시아의 우크라이나 침공이 초읽기에 들어갔다는 전망이 나오는 가운데 이미 사이버상에서는 러시아가 우크라이나의 정부부처, 공공기관, 군의 주요 사이트를 타깃...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/20220221russia-s.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[끝없이 벌어지는 개발과 보안의 간극, 어떻게 줄여야 하나 (보안뉴스 ─ 전체기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104905&amp;page=1&amp;kind=3</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 18 Feb 2022 02:08:24 GMT</pubDate>
             <content:encoded><![CDATA[시대의 흐름을 선포하는 것처럼 아마존은 지난 주 기술 담당 및 본사 직원들의 최소 연봉을 35만 달러로 상향한다고 발표했다. 지난해 최저 연봉이 16만 달...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/sal-thumb-0217.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[양자 기술 상용화로 가는 길, 얼마나 더 남았을까? (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104826&amp;page=1&amp;kind=4</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104826&amp;page=1&amp;kind=4</guid>
-            <pubDate>Fri, 18 Feb 2022 02:08:24 GMT</pubDate>
-            <content:encoded><![CDATA[11월 4일 영국과 미국은 공동으로 성명서를 하나 발표했다. 양자 컴퓨팅 혹은 양자 기반 정보 과학과 기술을 향상시키기 위해 힘을 합치겠다는 내용이었다. ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/road-thumb-0216.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한국해양교통안전공단(KOMSA), 스마트 선박안전지원센터 첫 삽 떴다 (보안뉴스 ─ 전체기사)]]></title>
@@ -214,6 +214,14 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/22021803ss.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[양자 기술 상용화로 가는 길, 얼마나 더 남았을까? (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104826&amp;page=1&amp;kind=4</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104826&amp;page=1&amp;kind=4</guid>
+            <pubDate>Fri, 18 Feb 2022 02:08:24 GMT</pubDate>
+            <content:encoded><![CDATA[11월 4일 영국과 미국은 공동으로 성명서를 하나 발표했다. 양자 컴퓨팅 혹은 양자 기반 정보 과학과 기술을 향상시키기 위해 힘을 합치겠다는 내용이었다. ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/road-thumb-0216.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[델 테크놀로지스, 파트너 보상 강화한 새 파트너 프로그램 공개 (보안뉴스 ─ 전체기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104881&amp;page=1&amp;kind=3</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104881&amp;page=1&amp;kind=3</guid>
@@ -228,14 +236,6 @@
             <pubDate>Fri, 18 Feb 2022 02:08:24 GMT</pubDate>
             <content:encoded><![CDATA[서울시가 사이버 가상공간에 현실과 동일한 3D 정수센터를 만들어 정수처리와 시설물을 정확하게 분석·진단하고 모의실험을 통해 최적의 해결책을 도출하는 ‘디지...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/2-164(295).jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서울시, 민간 건축공사장 위험 상황 AI가 CCTV로 실시간 관제 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104876&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104876&amp;page=1&amp;kind=2</guid>
-            <pubDate>Fri, 18 Feb 2022 02:08:24 GMT</pubDate>
-            <content:encoded><![CDATA[서울시와 서울디지털재단은 건축공사장의 위험 상황을 인공지능(AI)이 실시간 관제하는 ‘인공지능 기반 건축공사장 위험요소 관제 솔루션’을 중소 규모 민간 건...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/20220218cctv-s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[사이버 보안, 생물학을 닮기 시작하다 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
@@ -302,20 +302,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/dark-thumb-00218.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[사이버 보안, 더 은밀하고 더 강력하게 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104825&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104825&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Thu, 17 Feb 2022 23:15:08 GMT</pubDate>
-            <content:encoded><![CDATA[10년 전만 해도 CIO들에게 있어 사이버 보안이란 중요도에 있어 순위가 꽤나 밀리는 것이었다. 오늘 날? 사정이 크게 달라졌다. 이제 보안은 CIO들을 항상 궁...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/pen-thyumb-0216.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[최저 연봉 35만 달러로 상향한 아마존, 시장에 어떤 파장 일으킬까 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104862&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104862&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
             <pubDate>Sat, 19 Feb 2022 04:19:24 GMT</pubDate>
             <content:encoded><![CDATA[시대의 흐름을 선포하는 것처럼 아마존은 지난 주 기술 담당 및 본사 직원들의 최소 연봉을 35만 달러로 상향한다고 발표했다. 지난해 최저 연봉이 16만 달러였는데...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/sal-thumb-0217.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[사이버 보안, 더 은밀하고 더 강력하게 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104825&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104825&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Thu, 17 Feb 2022 23:15:08 GMT</pubDate>
+            <content:encoded><![CDATA[10년 전만 해도 CIO들에게 있어 사이버 보안이란 중요도에 있어 순위가 꽤나 밀리는 것이었다. 오늘 날? 사정이 크게 달라졌다. 이제 보안은 CIO들을 항상 궁...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/pen-thyumb-0216.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2022년 보안 업계가 주목할 분야는 소프트웨어 공급망 보안 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
@@ -342,20 +342,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/20220217report-sm.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
-            <title><![CDATA[제115차 CISO포럼, ‘메타버스’에서의 보안위협 및 대응방안 공유 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104791&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104791&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
-            <pubDate>Wed, 16 Feb 2022 09:14:46 GMT</pubDate>
-            <content:encoded><![CDATA[페이스북이 사명을 ‘메타(META)’로 바꿀 정도로 메가트렌드가 된 ‘메타버스(METAVERSE)’지만, 정작 이에 대한 보안은 아직 논의되지 않고 있다. 이러한...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/ciso_0215001_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[랜섬웨어 수익금 74%가 러시아로 흘러들어간다 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104788&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104788&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Thu, 17 Feb 2022 00:50:51 GMT</pubDate>
             <content:encoded><![CDATA[2021년은 랜섬웨어의 해였고, 그 랜섬웨어 때문에 발생한 피해액의 74%는 러시아로 흘러들어갔다는 연구 조사가 발표됐다. 이는 블록체인 분석 전문 기업 체이널리...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/ran-thumb-0215.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[제115차 CISO포럼, ‘메타버스’에서의 보안위협 및 대응방안 공유 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104791&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104791&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
+            <pubDate>Wed, 16 Feb 2022 09:14:46 GMT</pubDate>
+            <content:encoded><![CDATA[페이스북이 사명을 ‘메타(META)’로 바꿀 정도로 메가트렌드가 된 ‘메타버스(METAVERSE)’지만, 정작 이에 대한 보안은 아직 논의되지 않고 있다. 이러한...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/ciso_0215001_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[주말판] 원격 근무 시대에 떠오르는 SASE, 우리 회사에 잘 맞는 걸 고르려면? (보안뉴스 ─ 가장 많이 본 기사)]]></title>
