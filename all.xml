@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Feb 2022 04:21:08 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Feb 2022 05:15:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -238,6 +238,14 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/2-162(295).jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[글자의 민감한 부분을 가려주는 픽셀레이션, “강력 비추” (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104858&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104858&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Fri, 18 Feb 2022 01:00:38 GMT</pubDate>
+            <content:encoded><![CDATA[정보를 공유할 때, 민감한 부분만 골라서 흐릿하게 처리하는 기법은 꽤나 오래 전부터 사용되어 왔었다. 보안 전문가 댄 페트로(Dan Petro)는 이것이 늘 불편...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/text-thumb-0217.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[bnTV] 일촉즉발 우크라이나 사태! 러시아의 다크웹 랜섬웨어 소탕 배경은? (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104758&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104758&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
@@ -254,14 +262,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/21021602ss.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[글자의 민감한 부분을 가려주는 픽셀레이션, “강력 비추” (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104858&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104858&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Fri, 18 Feb 2022 01:00:38 GMT</pubDate>
-            <content:encoded><![CDATA[정보를 공유할 때, 민감한 부분만 골라서 흐릿하게 처리하는 기법은 꽤나 오래 전부터 사용되어 왔었다. 보안 전문가 댄 페트로(Dan Petro)는 이것이 늘 불편...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/text-thumb-0217.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[CISO들, 로그4j에 대해서 어떻게 설명할 것인가? (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104763&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104763&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
@@ -270,20 +270,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/log-thmb-0214.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[클라우드로의 이전을 망설여지게 하는 대표적 이유 6 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104744&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104744&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
-            <pubDate>Tue, 15 Feb 2022 11:13:47 GMT</pubDate>
-            <content:encoded><![CDATA[그 어느 때보다 많은 조직들이 오래된 데이터를 클라우드로 옮겨 쉽게 접근하고 더 안전하게 보호받으려 하고 있다. 물론 데이터 관리가 더 쉬워지고 가시성이 높아진다...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/cloud-thumb-0213.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[사이버 보안, 생물학을 닮기 시작하다 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104793&amp;page=1&amp;kind=4&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104793&amp;page=1&amp;kind=4&amp;search=title&amp;find=</guid>
             <pubDate>Thu, 17 Feb 2022 06:20:17 GMT</pubDate>
             <content:encoded><![CDATA[사이버 보안 분야가 최근 몇 년 동안 눈부시게 발전하는 중이다. 그렇지만 그 어느 때보다 고통에 시달리고 있기도 하다. 해킹과 크래킹 등 각종 공격 기술들 역시 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/bio-thumb-0215.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[클라우드로의 이전을 망설여지게 하는 대표적 이유 6 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104744&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104744&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
+            <pubDate>Tue, 15 Feb 2022 11:13:47 GMT</pubDate>
+            <content:encoded><![CDATA[그 어느 때보다 많은 조직들이 오래된 데이터를 클라우드로 옮겨 쉽게 접근하고 더 안전하게 보호받으려 하고 있다. 물론 데이터 관리가 더 쉬워지고 가시성이 높아진다...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/cloud-thumb-0213.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[사이버 보안, 더 은밀하고 더 강력하게 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
