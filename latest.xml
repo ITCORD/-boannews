@@ -4,9 +4,17 @@
         <title>보안뉴스 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Feb 2022 09:18:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Feb 2022 10:19:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[클라우드가 그리 좋다는데, 왜 지금 상황은 그렇지 못한가?]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104920&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104920&amp;page=1&amp;kind=1</guid>
+            <pubDate>Mon, 21 Feb 2022 10:17:15 GMT</pubDate>
+            <content:encoded><![CDATA[현재 운영되고 있는 컨테이너의 75%가 고위험군 내지 치명적 위험도의 취약점을 보유하고 있는 것으로 나타났다. 심지어 이 취약점들 대부분 패치가 있는 것으...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/clo-thumb-0221.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[암호화폐와 탈중앙화 금융이 부딪힌 벽, 의외로 높다]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104907&amp;page=1&amp;kind=3</link>
@@ -80,14 +88,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/20220221russia-s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[끝없이 벌어지는 개발과 보안의 간극, 어떻게 줄여야 하나]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104905&amp;page=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104905&amp;page=1&amp;kind=3</guid>
-            <pubDate>Sun, 20 Feb 2022 16:20:54 GMT</pubDate>
-            <content:encoded><![CDATA[보안과 개발은 ‘절친’이라고 하기에는 무리가 있는 관계를 유지하고 있다. 물론 이는 누구의 잘못도 아니다. 다만 여태까지 해왔던 일의 방식 때문에 어쩔 수...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/compe-thumb-0220.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[에프원시큐리티, 건대부중·고와 내PC 돌보미 MOU]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104919&amp;page=1&amp;kind=3</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104919&amp;page=1&amp;kind=3</guid>
@@ -125,6 +125,14 @@
             <pubDate>Mon, 21 Feb 2022 02:00:09 GMT</pubDate>
             <content:encoded><![CDATA[ICT 융합보안 선도기업 한싹(대표 이주도)은 지난해 패스워드 보안 사업의 매출이 전년 대비 1,340% 성장하며 크게 향상되었다고 밝혔다.]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/han_022101_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[끝없이 벌어지는 개발과 보안의 간극, 어떻게 줄여야 하나]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104905&amp;page=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104905&amp;page=1&amp;kind=3</guid>
+            <pubDate>Sun, 20 Feb 2022 16:20:54 GMT</pubDate>
+            <content:encoded><![CDATA[보안과 개발은 ‘절친’이라고 하기에는 무리가 있는 관계를 유지하고 있다. 물론 이는 누구의 잘못도 아니다. 다만 여태까지 해왔던 일의 방식 때문에 어쩔 수...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/compe-thumb-0220.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2022년 1월 발생한 스미싱의 80%는 ‘택배 스미싱’]]></title>
@@ -229,13 +237,6 @@
             <guid>https://www.boannews.com/media/view.asp?idx=104892&amp;page=1&amp;kind=2</guid>
             <pubDate>Sat, 19 Feb 2022 08:17:26 GMT</pubDate>
             <content:encoded><![CDATA[국가 인재 개발에 국내 과학기술 분야 우수 연구 성과가 활용된다. 국가공무원인재개발원과 국립과천과학관은 지난 18일 ‘우수 연구 성과 상호 활용을 위한 양...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[인사] 환경부]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104890&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104890&amp;page=1&amp;kind=2</guid>
-            <pubDate>Fri, 18 Feb 2022 11:12:48 GMT</pubDate>
-            <content:encoded><![CDATA[◇개방형직위 임용 △국립환경인재개발원장 김효석(2022년 2월 21일자)]]></content:encoded>
         </item>
     </channel>
 </rss>
