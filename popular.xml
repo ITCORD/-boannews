@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Feb 2022 22:17:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Feb 2022 23:17:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,20 +16,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/20220221russia-s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[사이버 보안, 생물학을 닮기 시작하다]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104793&amp;page=1&amp;kind=4&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104793&amp;page=1&amp;kind=4&amp;search=title&amp;find=</guid>
-            <pubDate>Thu, 17 Feb 2022 06:20:17 GMT</pubDate>
-            <content:encoded><![CDATA[사이버 보안 분야가 최근 몇 년 동안 눈부시게 발전하는 중이다. 그렇지만 그 어느 때보다 고통에 시달리고 있기도 하다. 해킹과 크래킹 등 각종 공격 기술들 역시 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/bio-thumb-0215.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[2022년 대한민국 보안시장 규모, 6조 4,453억원 전망]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104821&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104821&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
             <pubDate>Thu, 17 Feb 2022 00:50:51 GMT</pubDate>
             <content:encoded><![CDATA[국내 최대 보안전문 인터넷신문 &lt;보안뉴스&gt;와 보안종합 월간지 &lt;시큐리티월드&gt;가 발간한 ‘2022 국내외 보안시장 전망보고서’에 따르면, 20...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/21021602ss.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[사이버 보안, 생물학을 닮기 시작하다]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104793&amp;page=1&amp;kind=4&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104793&amp;page=1&amp;kind=4&amp;search=title&amp;find=</guid>
+            <pubDate>Thu, 17 Feb 2022 06:20:17 GMT</pubDate>
+            <content:encoded><![CDATA[사이버 보안 분야가 최근 몇 년 동안 눈부시게 발전하는 중이다. 그렇지만 그 어느 때보다 고통에 시달리고 있기도 하다. 해킹과 크래킹 등 각종 공격 기술들 역시 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/bio-thumb-0215.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[사이버 공격자들, 현대 방어 체계에 점점 더 익숙해지고 있다]]></title>
@@ -144,6 +144,14 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/20220218startup-s.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
+            <title><![CDATA[끝없이 벌어지는 개발과 보안의 간극, 어떻게 줄여야 하나]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104905&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104905&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
+            <pubDate>Mon, 21 Feb 2022 22:15:10 GMT</pubDate>
+            <content:encoded><![CDATA[보안과 개발은 ‘절친’이라고 하기에는 무리가 있는 관계를 유지하고 있다. 물론 이는 누구의 잘못도 아니다. 다만 여태까지 해왔던 일의 방식 때문에 어쩔 수가 없었...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/compe-thumb-0220.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[전남도, 드론 활용 스마트 행정 추진한다]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104896&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104896&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 19 Feb 2022 00:58:09 GMT</pubDate>
             <content:encoded><![CDATA[스페인 경찰이 사이버 조직을 와해시켰다. 심스와핑 공격을 연쇄적으로 실시하던 단체로, 이번 작전을 통해 8명이 체포됐다고 한다. 이들은 소셜 엔지니어링 기법으로 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/sim-thumb-0215.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[끝없이 벌어지는 개발과 보안의 간극, 어떻게 줄여야 하나]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104905&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104905&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
-            <pubDate>Mon, 21 Feb 2022 22:15:10 GMT</pubDate>
-            <content:encoded><![CDATA[보안과 개발은 ‘절친’이라고 하기에는 무리가 있는 관계를 유지하고 있다. 물론 이는 누구의 잘못도 아니다. 다만 여태까지 해왔던 일의 방식 때문에 어쩔 수가 없었...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/compe-thumb-0220.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
