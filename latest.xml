@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Feb 2022 06:21:55 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Feb 2022 07:17:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -86,6 +86,14 @@
             <pubDate>Sun, 20 Feb 2022 16:20:54 GMT</pubDate>
             <content:encoded><![CDATA[2022년 1월은 2021년 12월과 마찬가지로 택배 스미싱이 공격을 주도한 것으로 확인됐다. 택배를 키워드로 하는 스미싱 공격은 79.47%로, 여전히 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/est_022001_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[에프원시큐리티, 건대부중·고와 내PC 돌보미 MOU]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104919&amp;page=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104919&amp;page=1&amp;kind=3</guid>
+            <pubDate>Mon, 21 Feb 2022 07:14:38 GMT</pubDate>
+            <content:encoded><![CDATA[‘내PC 돌보미 서비스’ 수행사인 에프원시큐리티(대표 이대호)는 건국대학교 사범대학부속고등학교(교장 이재구)와 ‘내PC 돌보미 서비스’ 업무제휴 협약(M...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/mypc_2_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[과기정통부, 2022년 1천억원 규모 메타버스 M&A 펀드 조성]]></title>
@@ -228,13 +236,6 @@
             <pubDate>Fri, 18 Feb 2022 10:17:09 GMT</pubDate>
             <content:encoded><![CDATA[사이버 범죄자들과 국가 지원 해커들이 점점 더 방어 전략에 적응해가고 있고, 그래서 공격의 효율성이 높아지고 있다는 연구 결과가 두 개 발표됐다. 하나는 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/used-thumb-0218.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[부고] 한국면세뉴스 박홍규 대표 빙부상]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104888&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104888&amp;page=1&amp;kind=1</guid>
-            <pubDate>Fri, 18 Feb 2022 10:17:09 GMT</pubDate>
-            <content:encoded><![CDATA[△내 용 : 한국면세뉴스 박홍규 대표 빙부상 △고 인 : 고 원동욱님 △빈 소 : 인천의료원 장례식장 302호 △발 인 : 2월 20일(일) 오전 7시 3...]]></content:encoded>
         </item>
     </channel>
 </rss>
