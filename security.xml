@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-02-21T05:16:32.377Z</updated>
+    <updated>2022-02-21T06:21:55.735Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[하이브 랜섬웨어 마스터키 추출에 성공한 보안 전문가들]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104915&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104915&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-02-21T06:20:09.211Z</updated>
+        <content type="html"><![CDATA[악명 높은 하이브(Hive) 랜섬웨어의 알고리즘을 분석한 보안 전문가들이 암호화 된 데이터를 복구시켜주는 마스터키를 추출하는 데 성공했다. 공격자의 비밀 키 정보 없이, 순수하게 암호화 기술의 알고리즘에 있는 취약점을 분석함으로써 마스터키를 분석한 최초의 성공 사례라고...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[영국의 디지털 은행 몬조 겨냥한 피싱 활동 급증 중]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=104914&amp;page=1&amp;mkind=1&amp;kind=1</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=104871&amp;page=1&amp;mkind=1&amp;kind=2"/>
         <updated>2022-02-18T03:16:41.711Z</updated>
         <content type="html"><![CDATA[김해시는 개인정보보호위원회에서 주관하는 ‘2021년 공공기관 개인정보 관리수준 진단’ 평가에서 6년 연속 최고 등급을 달성했다고 밝혔다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[인사] 과학기술정보통신부]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104880&amp;page=1&amp;mkind=1&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104880&amp;page=1&amp;mkind=1&amp;kind=2"/>
-        <updated>2022-02-18T02:08:49.759Z</updated>
-        <content type="html"><![CDATA[◇국장급 승진 △우정사업본부 우정사업정보센터장 곽병진(郭炳珍, 소프트웨어정책과장) (2022. 2. 18. 자)  ◇과장급 전보 △소프트웨어정책과장 신상열(辛尙㤠, 과학기술정보통신부)  (2022. 2. 21. 자)]]></content>
     </entry>
 </feed>
