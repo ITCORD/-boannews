@@ -4,9 +4,23 @@
         <title>보안뉴스 ─ 국제</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Feb 2022 13:20:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Feb 2022 14:17:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[애플리케이션 보안, 지난 1년 동안 나아지지 않았다]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104921&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104921&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
+            <pubDate>Mon, 21 Feb 2022 14:17:11 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/view.asp?idx=104921&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
+					
+					<img src="/media/upFiles2/2022/02/app-thumb-0221.jpg" alt="" class="news_img" height="70">
+					
+					<span class="news_txt">애플리케이션 보안, 지난 1년 동안 나아지지 않았다</span>
+					</a><br>
+					<a href="/media/view.asp?idx=104921&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">애플리케이션 보안의 중요성이 그렇게나 자주, 많이, 강조되고 있지만 실제로 애플리케이션 보안을 위해 실질적은 노력을 하고 있는 곳은 그리 많지 않은 것으로 조사됐...</a> <span class="news_writer">문가용 기자 | 2022년 02월 21일 22:27</span>]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/app-thumb-0221.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[클라우드가 그리 좋다는데, 왜 지금 상황은 그렇지 못한가?]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104920&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
@@ -272,20 +286,6 @@
 					</a><br>
 					<a href="/media/view.asp?idx=104854&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">악명 높은 멀웨어 트릭봇(TrickBot)이 업그레이드 됐다. 새로운 분석 방해 기능을 탑재한 것이다. 운영자들은 강력해진 트릭봇을 앞세워 주요 금융 및 기술 업...</a> <span class="news_writer">문가용 기자 | 2022년 02월 17일 11:07</span>]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/60-thumb-0217.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[VM웨어, 자사 제품에서 여러 개의 고위험군 취약점 패치해]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104852&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104852&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
-            <pubDate>Thu, 17 Feb 2022 02:26:36 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/view.asp?idx=104852&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
-					
-					<img src="/media/upFiles2/2022/02/pat-thumb-0217.jpg" alt="" class="news_img" height="70">
-					
-					<span class="news_txt">VM웨어, 자사 제품에서 여러 개의 고위험군 취약점 패치해</span>
-					</a><br>
-					<a href="/media/view.asp?idx=104852&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">VM웨어가 ESXi, 워크스테이션(Workstation), 퓨전(Fusion), 클라우드파운데이션(Cloud Foundation), NSX데이터센터(NSX Dat...</a> <span class="news_writer">문가용 기자 | 2022년 02월 17일 11:06</span>]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/pat-thumb-0217.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-02-21T13:20:41.420Z</updated>
+    <updated>2022-02-21T14:17:46.451Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[에프원시큐리티, 건대부중·고와 내PC 돌보미 MOU]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104919&amp;page=1&amp;mkind=1&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104919&amp;page=1&amp;mkind=1&amp;kind=3"/>
+        <updated>2022-02-21T14:15:41.995Z</updated>
+        <content type="html"><![CDATA[‘내PC 돌보미 서비스’ 수행사인 에프원시큐리티(대표 이대호)는 건국대학교 사범대학부속고등학교(교장 이재구)와 ‘내PC 돌보미 서비스’ 업무제휴 협약(MOU)을 지난 2월 15일 체결했다고 밝혔다. 건국대학교 사범대학부속중학교(교장 성세용)와는 2월 23일에 체결할 ...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[과기정통부, 2022년 1천억원 규모 메타버스 M&A 펀드 조성]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=104918&amp;page=1&amp;mkind=1&amp;kind=3</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=104883&amp;page=1&amp;mkind=1&amp;kind=1"/>
         <updated>2022-02-19T09:15:58.882Z</updated>
         <content type="html"><![CDATA[새로운 고(Go) 기반 봇넷 멀웨어가 발견됐다. 이름은 크라켄(Kraken)이며, 각종 백도어 기능과 정보 유출 기능이 추가되는 등 활발한 개발 행위가 이어지고 있다고 한다. 윈도 호스트를 노리는 멀웨어이며, 침투 성공 후에는 두 번째 페이로드를 다운로드해 실행, 셸 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대만, 중국 해킹 공격에 반격하기 위한 기틀 마련]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104882&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104882&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-02-18T10:17:26.481Z</updated>
-        <content type="html"><![CDATA[대만이 중국 해킹 공격에 대한 대응책을 마련하기 시작했다. 국회 내에서 중국 산업 스파이들의 공격 행위를 겨냥한 국가안보법 개정이 제의되었다. 중국의 해커들은 지난 수년 동안 세계 곳곳의 주요 산업체들을 겨냥해 기밀들과 지적재산들을 빼낸 것으로 악명이 높다. 이번 제의...]]></content>
     </entry>
 </feed>

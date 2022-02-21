@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Feb 2022 13:20:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Feb 2022 14:17:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[애플리케이션 보안, 지난 1년 동안 나아지지 않았다 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104921&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104921&amp;page=1&amp;kind=1</guid>
+            <pubDate>Mon, 21 Feb 2022 14:15:20 GMT</pubDate>
+            <content:encoded><![CDATA[애플리케이션 보안의 중요성이 그렇게나 자주, 많이, 강조되고 있지만 실제로 애플리케이션 보안을 위해 실질적은 노력을 하고 있는 곳은 그리 많지 않은 것으로...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/app-thumb-0221.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[클라우드가 그리 좋다는데, 왜 지금 상황은 그렇지 못한가? (보안뉴스 ─ 전체기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104920&amp;page=1&amp;kind=1</link>
@@ -80,14 +88,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/money_022101_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[러시아-우크라이나 전쟁 초읽기? 사이버상은 이미 대규모 해킹 공습중 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104908&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104908&amp;page=1&amp;kind=1</guid>
-            <pubDate>Sun, 20 Feb 2022 17:13:43 GMT</pubDate>
-            <content:encoded><![CDATA[러시아의 우크라이나 침공이 초읽기에 들어갔다는 전망이 나오는 가운데 이미 사이버상에서는 러시아가 우크라이나의 정부부처, 공공기관, 군의 주요 사이트를 타깃...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/20220221russia-s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[에프원시큐리티, 건대부중·고와 내PC 돌보미 MOU (보안뉴스 ─ 전체기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104919&amp;page=1&amp;kind=3</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104919&amp;page=1&amp;kind=3</guid>
@@ -125,6 +125,14 @@
             <pubDate>Mon, 21 Feb 2022 02:00:09 GMT</pubDate>
             <content:encoded><![CDATA[ICT 융합보안 선도기업 한싹(대표 이주도)은 지난해 패스워드 보안 사업의 매출이 전년 대비 1,340% 성장하며 크게 향상되었다고 밝혔다.]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/han_022101_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[러시아-우크라이나 전쟁 초읽기? 사이버상은 이미 대규모 해킹 공습중 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104908&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104908&amp;page=1&amp;kind=1</guid>
+            <pubDate>Sun, 20 Feb 2022 17:13:43 GMT</pubDate>
+            <content:encoded><![CDATA[러시아의 우크라이나 침공이 초읽기에 들어갔다는 전망이 나오는 가운데 이미 사이버상에서는 러시아가 우크라이나의 정부부처, 공공기관, 군의 주요 사이트를 타깃...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/20220221russia-s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[끝없이 벌어지는 개발과 보안의 간극, 어떻게 줄여야 하나 (보안뉴스 ─ 전체기사)]]></title>
@@ -230,13 +238,6 @@
             <guid>https://www.boannews.com/media/view.asp?idx=104893&amp;page=1&amp;kind=2</guid>
             <pubDate>Sat, 19 Feb 2022 09:15:42 GMT</pubDate>
             <content:encoded><![CDATA[문화재청 국립문화재연구소는 문화재 지진피해 국외 사례 조사 결과를 수록한 ‘국외 문화재 지진피해와 대응 사례’를 발간했다. 보고서에는 3년간(2017~20...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[과학기술 우수 연구 성과 활용해 국가 인재 양성한다 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104892&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104892&amp;page=1&amp;kind=2</guid>
-            <pubDate>Sat, 19 Feb 2022 08:17:26 GMT</pubDate>
-            <content:encoded><![CDATA[국가 인재 개발에 국내 과학기술 분야 우수 연구 성과가 활용된다. 국가공무원인재개발원과 국립과천과학관은 지난 18일 ‘우수 연구 성과 상호 활용을 위한 양...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[러시아-우크라이나 전쟁 초읽기? 사이버상은 이미 대규모 해킹 공습중 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
@@ -398,6 +399,13 @@
             <content:encoded><![CDATA[태백시는 교통사고로부터 시민의 생명과 재산을 보호하고 안전한 교통환경을 조성하기 위해 교통안전 시행계획을 수립 추진한다. 교통사고 사망자를 줄이기 위해 시는 교통...]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[에프원시큐리티, 건대부중·고와 내PC 돌보미 MOU (보안뉴스 ─ SECURITY)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104919&amp;page=1&amp;mkind=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104919&amp;page=1&amp;mkind=1&amp;kind=3</guid>
+            <pubDate>Mon, 21 Feb 2022 14:15:41 GMT</pubDate>
+            <content:encoded><![CDATA[‘내PC 돌보미 서비스’ 수행사인 에프원시큐리티(대표 이대호)는 건국대학교 사범대학부속고등학교(교장 이재구)와 ‘내PC 돌보미 서비스’ 업무제휴 협약(MOU)을 지난 2월 15일 체결했다고 밝혔다. 건국대학교 사범대학부속중학교(교장 성세용)와는 2월 23일에 체결할 ...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[과기정통부, 2022년 1천억원 규모 메타버스 M&A 펀드 조성 (보안뉴스 ─ SECURITY)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104918&amp;page=1&amp;mkind=1&amp;kind=3</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104918&amp;page=1&amp;mkind=1&amp;kind=3</guid>
@@ -508,13 +516,6 @@
             <guid>https://www.boannews.com/media/view.asp?idx=104883&amp;page=1&amp;mkind=1&amp;kind=1</guid>
             <pubDate>Sat, 19 Feb 2022 09:15:58 GMT</pubDate>
             <content:encoded><![CDATA[새로운 고(Go) 기반 봇넷 멀웨어가 발견됐다. 이름은 크라켄(Kraken)이며, 각종 백도어 기능과 정보 유출 기능이 추가되는 등 활발한 개발 행위가 이어지고 있다고 한다. 윈도 호스트를 노리는 멀웨어이며, 침투 성공 후에는 두 번째 페이로드를 다운로드해 실행, 셸 ...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[대만, 중국 해킹 공격에 반격하기 위한 기틀 마련 (보안뉴스 ─ SECURITY)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104882&amp;page=1&amp;mkind=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104882&amp;page=1&amp;mkind=1&amp;kind=1</guid>
-            <pubDate>Fri, 18 Feb 2022 10:17:26 GMT</pubDate>
-            <content:encoded><![CDATA[대만이 중국 해킹 공격에 대한 대응책을 마련하기 시작했다. 국회 내에서 중국 산업 스파이들의 공격 행위를 겨냥한 국가안보법 개정이 제의되었다. 중국의 해커들은 지난 수년 동안 세계 곳곳의 주요 산업체들을 겨냥해 기밀들과 지적재산들을 빼낸 것으로 악명이 높다. 이번 제의...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[한국의 디지털 뉴딜, 신북방 정책의 핵심 협력국인 투르크메니스탄에 전파 (보안뉴스 ─ IT)]]></title>
@@ -1901,6 +1902,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2021/12/msit_1223001_MAIN.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[애플리케이션 보안, 지난 1년 동안 나아지지 않았다 (보안뉴스 ─ 국제)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104921&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104921&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
+            <pubDate>Mon, 21 Feb 2022 14:17:11 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/view.asp?idx=104921&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
+					
+					<img src="/media/upFiles2/2022/02/app-thumb-0221.jpg" alt="" class="news_img" height="70">
+					
+					<span class="news_txt">애플리케이션 보안, 지난 1년 동안 나아지지 않았다</span>
+					</a><br>
+					<a href="/media/view.asp?idx=104921&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">애플리케이션 보안의 중요성이 그렇게나 자주, 많이, 강조되고 있지만 실제로 애플리케이션 보안을 위해 실질적은 노력을 하고 있는 곳은 그리 많지 않은 것으로 조사됐...</a> <span class="news_writer">문가용 기자 | 2022년 02월 21일 22:27</span>]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/app-thumb-0221.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[클라우드가 그리 좋다는데, 왜 지금 상황은 그렇지 못한가? (보안뉴스 ─ 국제)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104920&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104920&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
@@ -2165,20 +2180,6 @@
 					</a><br>
 					<a href="/media/view.asp?idx=104854&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">악명 높은 멀웨어 트릭봇(TrickBot)이 업그레이드 됐다. 새로운 분석 방해 기능을 탑재한 것이다. 운영자들은 강력해진 트릭봇을 앞세워 주요 금융 및 기술 업...</a> <span class="news_writer">문가용 기자 | 2022년 02월 17일 11:07</span>]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/60-thumb-0217.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[VM웨어, 자사 제품에서 여러 개의 고위험군 취약점 패치해 (보안뉴스 ─ 국제)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104852&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104852&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
-            <pubDate>Thu, 17 Feb 2022 02:26:36 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/view.asp?idx=104852&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
-					
-					<img src="/media/upFiles2/2022/02/pat-thumb-0217.jpg" alt="" class="news_img" height="70">
-					
-					<span class="news_txt">VM웨어, 자사 제품에서 여러 개의 고위험군 취약점 패치해</span>
-					</a><br>
-					<a href="/media/view.asp?idx=104852&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">VM웨어가 ESXi, 워크스테이션(Workstation), 퓨전(Fusion), 클라우드파운데이션(Cloud Foundation), NSX데이터센터(NSX Dat...</a> <span class="news_writer">문가용 기자 | 2022년 02월 17일 11:06</span>]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/pat-thumb-0217.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2022년 대한민국 보안시장 규모, 6조 4,453억원 전망 (보안뉴스 ─ 기획특집)]]></title>
