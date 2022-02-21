@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-02-21T08:20:36.661Z</updated>
+    <updated>2022-02-21T09:18:26.337Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[크레딧 스위스 정보 유출 사건, 검은돈 차별 않던 행위 드러내]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104917&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104917&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-02-21T09:16:48.145Z</updated>
+        <content type="html"><![CDATA[전 세계에서 가장 큰 규모를 자랑하는 개인 은행인 크레딧 스위스(Credit Suisse)의 내부 정보가 유출되는 사건이 발생했다. 그러면서 각종 범죄자들이 몰래 쌓아둔 부의 현황이 고스란히 드러났다. 이번 유출 사고를 통해 3만여 개의 계좌 정보가 공개됐으며, 지난 ...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[미국과 영국, 우크라이나 겨냥한 러시아의 사이버전 비판]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=104916&amp;page=1&amp;mkind=1&amp;kind=1</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=104862&amp;page=1&amp;mkind=1&amp;kind=3"/>
         <updated>2022-02-18T03:16:41.706Z</updated>
         <content type="html"><![CDATA[시대의 흐름을 선포하는 것처럼 아마존은 지난 주 기술 담당 및 본사 직원들의 최소 연봉을 35만 달러로 상향한다고 발표했다. 지난해 최저 연봉이 16만 달러였는데, 2배 이상 올린 것이다. 이는 테크 분야의 연봉을 전체적으로 상향시키는 결과를 가져올까? 그렇다면 아마존...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[양자 기술 상용화로 가는 길, 얼마나 더 남았을까?]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104826&amp;page=1&amp;mkind=1&amp;kind=4</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104826&amp;page=1&amp;mkind=1&amp;kind=4"/>
-        <updated>2022-02-18T03:16:41.709Z</updated>
-        <content type="html"><![CDATA[11월 4일 영국과 미국은 공동으로 성명서를 하나 발표했다. 양자 컴퓨팅 혹은 양자 기반 정보 과학과 기술을 향상시키기 위해 힘을 합치겠다는 내용이었다. 다른 건 몰라도 이 성명서를 통해 두 나라가 양자 기술에 얼마나 큰 관심을 가지고 있는지가 분명하게 드러났다. 필자...]]></content>
     </entry>
 </feed>
