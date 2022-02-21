@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-02-21T00:56:08.706Z</updated>
+    <updated>2022-02-21T02:02:22.421Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[러시아-우크라이나 전쟁 초읽기? 사이버상은 이미 대규모 해킹 공습중]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104908&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104908&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-02-21T02:00:28.786Z</updated>
+        <content type="html"><![CDATA[러시아의 우크라이나 침공이 초읽기에 들어갔다는 전망이 나오는 가운데 이미 사이버상에서는 러시아가 우크라이나의 정부부처, 공공기관, 군의 주요 사이트를 타깃으로 한 무차별 공습에 나서고 있다. 사이버전과 여론전은 한창 진행 중으로 러시아의 일방적인 공격으로 이어지는 상황...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[끝없이 벌어지는 개발과 보안의 간극, 어떻게 줄여야 하나]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104905&amp;page=1&amp;mkind=1&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104905&amp;page=1&amp;mkind=1&amp;kind=3"/>
+        <updated>2022-02-21T02:00:28.787Z</updated>
+        <content type="html"><![CDATA[보안과 개발은 ‘절친’이라고 하기에는 무리가 있는 관계를 유지하고 있다. 물론 이는 누구의 잘못도 아니다. 다만 여태까지 해왔던 일의 방식 때문에 어쩔 수가 없었을 뿐이다. 보안 인력들이 가장 우선시 하는 건 조직을 위협하는 요소들을 파악해 위험을 최소화하는 것이다. ...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022년 1월 발생한 스미싱의 80%는 ‘택배 스미싱’]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=104906&amp;page=1&amp;mkind=1&amp;kind=1</id>
@@ -109,19 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=104853&amp;page=1&amp;mkind=1&amp;kind=2"/>
         <updated>2022-02-17T10:17:30.664Z</updated>
         <content type="html"><![CDATA[과학기술정보통신부(장관 임혜숙, 이하 ‘과기정통부’)와 국가과학기술연구회(NST) 소속 12개 출연연은 지난해 말 발표한 ‘국가필수전략기술 선정 및 육성·보호 전략’의 신속한 추진을 위해 ‘국가필수전략기술 확보를 위한 출연(연) 전략 발표회’를 개최했다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021년, 중소기업 노린 사이버 범죄 늘었다]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104856&amp;page=1&amp;mkind=1&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104856&amp;page=1&amp;mkind=1&amp;kind=3"/>
-        <updated>2022-02-17T07:15:03.978Z</updated>
-        <content type="html"><![CDATA[지난 2021년에는 중소기업을 대상으로 한 사이버범죄가 늘었으며, 이와 함께 아웃소싱된 범죄 또한 늘었다는 조사결과가 발표됐다. 블랙베리(BlackBerry Limited)가 발간한 ‘2022 블랙베리 연간 위협 보고서(2022 Annual Threat Report)’...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[FBI, “BEC 공격자들이 가상 회의에서 CEO를 사칭한다”]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104855&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104855&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-02-17T06:20:27.792Z</updated>
-        <content type="html"><![CDATA[전화나 이메일로 CEO를 사칭해 직원들에게 돈을 송금하라고 요구했던 BEC 공격자들이 최근 가상 회의에까지 침투하고 있다는 경고가 나왔다. 전화나 메일 대신 재무 담당 직원들과 가상 회의 세션을 열고 송금을 요구하는 전략이다. 아직 이 전략이 대세라고 할 수준은 아니지...]]></content>
     </entry>
 </feed>
