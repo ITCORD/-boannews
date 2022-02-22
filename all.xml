@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Feb 2022 11:15:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Feb 2022 13:21:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[봄을 맞아 조직의 사이버 강화를 꿈꾸는 CEO들이 알아야 할 것 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104963&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104963&amp;page=1&amp;kind=1</guid>
+            <pubDate>Tue, 22 Feb 2022 13:19:28 GMT</pubDate>
+            <content:encoded><![CDATA[3월, 봄이 다가온다. 한 해의 시작도 좋지만 봄도 다가오는 해를 위한 계획을 세우기에 좋은 시기다. 2021년에도 사이버 보안 업계에서는 각종 보안 사고...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/ceo-thumb-0222.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[재난이 몰려와도 통신은 계속되어야 한다면 미리 알아두어야 할 것들 (보안뉴스 ─ 전체기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104940&amp;page=1&amp;kind=4</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 22 Feb 2022 00:55:58 GMT</pubDate>
             <content:encoded><![CDATA[과학기술정보통신부(장관 임혜숙, 이하 ‘과기정통부’)는 정보통신산업진흥원(NIPA)의 신임원장에 허성욱 과기정통부 네트워크정책실장을 2월 22일자로 임명한...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/nipa_022201_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[애플리케이션 보안, 지난 1년 동안 나아지지 않았다 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104921&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104921&amp;page=1&amp;kind=1</guid>
-            <pubDate>Mon, 21 Feb 2022 14:15:20 GMT</pubDate>
-            <content:encoded><![CDATA[애플리케이션 보안의 중요성이 그렇게나 자주, 많이, 강조되고 있지만 실제로 애플리케이션 보안을 위해 실질적은 노력을 하고 있는 곳은 그리 많지 않은 것으로...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/app-thumb-0221.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[KISTI, ‘충북대-KISTI HPC·AI 겨울학교’ 개최 (보안뉴스 ─ 전체기사)]]></title>
@@ -244,20 +244,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/20220221russia-s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[2022년 대한민국 보안시장 규모, 6조 4,453억원 전망 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104821&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104821&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
-            <pubDate>Thu, 17 Feb 2022 00:50:51 GMT</pubDate>
-            <content:encoded><![CDATA[국내 최대 보안전문 인터넷신문 &lt;보안뉴스&gt;와 보안종합 월간지 &lt;시큐리티월드&gt;가 발간한 ‘2022 국내외 보안시장 전망보고서’에 따르면, 20...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/21021602ss.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[사이버 보안, 생물학을 닮기 시작하다 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104793&amp;page=1&amp;kind=4&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104793&amp;page=1&amp;kind=4&amp;search=title&amp;find=</guid>
             <pubDate>Thu, 17 Feb 2022 06:20:17 GMT</pubDate>
             <content:encoded><![CDATA[사이버 보안 분야가 최근 몇 년 동안 눈부시게 발전하는 중이다. 그렇지만 그 어느 때보다 고통에 시달리고 있기도 하다. 해킹과 크래킹 등 각종 공격 기술들 역시 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/bio-thumb-0215.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022년 대한민국 보안시장 규모, 6조 4,453억원 전망 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104821&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104821&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
+            <pubDate>Thu, 17 Feb 2022 00:50:51 GMT</pubDate>
+            <content:encoded><![CDATA[국내 최대 보안전문 인터넷신문 &lt;보안뉴스&gt;와 보안종합 월간지 &lt;시큐리티월드&gt;가 발간한 ‘2022 국내외 보안시장 전망보고서’에 따르면, 20...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/21021602ss.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[사이버 공격자들, 현대 방어 체계에 점점 더 익숙해지고 있다 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
@@ -395,6 +395,13 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/ser-thumb-0217.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[안심스마트점포 테스트베드 입주할 AI·융합보안 기업 찾는다 (보안뉴스 ─ SECURITY)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104960&amp;page=1&amp;mkind=1&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104960&amp;page=1&amp;mkind=1&amp;kind=2</guid>
+            <pubDate>Tue, 22 Feb 2022 13:19:50 GMT</pubDate>
+            <content:encoded><![CDATA[과학기술정보통신부(장관 임혜숙, 이하 ‘과기정통부’)와 한국인터넷진흥원(원장 이원태, 이하 ‘KISA’)은 ‘안심스마트점포’의 융합보안 기술개발 및 인공지능 학습 고도화를 위해 ‘스마트점포 보안기술 가늠터(테스트베드)’에 입주를 희망하는 AI·융합보안 기업을 공모한다고...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[경북개발공사, 2021년 개인정보관리수준진단 ‘최고 등급’ 획득 (보안뉴스 ─ SECURITY)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104927&amp;page=1&amp;mkind=1&amp;kind=2</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104927&amp;page=1&amp;mkind=1&amp;kind=2</guid>
@@ -505,13 +512,6 @@
             <guid>https://www.boannews.com/media/view.asp?idx=104915&amp;page=1&amp;mkind=1&amp;kind=1</guid>
             <pubDate>Mon, 21 Feb 2022 06:20:09 GMT</pubDate>
             <content:encoded><![CDATA[악명 높은 하이브(Hive) 랜섬웨어의 알고리즘을 분석한 보안 전문가들이 암호화 된 데이터를 복구시켜주는 마스터키를 추출하는 데 성공했다. 공격자의 비밀 키 정보 없이, 순수하게 암호화 기술의 알고리즘에 있는 취약점을 분석함으로써 마스터키를 분석한 최초의 성공 사례라고...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[영국의 디지털 은행 몬조 겨냥한 피싱 활동 급증 중 (보안뉴스 ─ SECURITY)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104914&amp;page=1&amp;mkind=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104914&amp;page=1&amp;mkind=1&amp;kind=1</guid>
-            <pubDate>Mon, 21 Feb 2022 03:16:58 GMT</pubDate>
-            <content:encoded><![CDATA[몬조(Monzo)는 영국에서 가장 인기가 높은 ‘디지털 은행’이다. 물리적 공간이나 영업점을 두지 않고 오로지 디지털 공간에서만 은행 업무가 이뤄진다. 그런데 이 플랫폼에서 최근 피싱 공격 행위가 많이 발생하고 있다. 몬조 사용자들을 악성 웹사이트들로 유도하는 공격으로...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[디지털 대전환 시대, 연구개발에 AI를 입히다 (보안뉴스 ─ IT)]]></title>
@@ -1888,6 +1888,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2021/12/msit_1223001_MAIN.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[봄을 맞아 조직의 사이버 강화를 꿈꾸는 CEO들이 알아야 할 것 (보안뉴스 ─ 국제)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104963&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104963&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
+            <pubDate>Tue, 22 Feb 2022 13:21:19 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/view.asp?idx=104963&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
+					
+					<img src="/media/upFiles2/2022/02/ceo-thumb-0222.jpg" alt="" class="news_img" height="70">
+					
+					<span class="news_txt">봄을 맞아 조직의 사이버 강화를 꿈꾸는 CEO들이 알아야 할 것</span>
+					</a><br>
+					<a href="/media/view.asp?idx=104963&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">3월, 봄이 다가온다. 한 해의 시작도 좋지만 봄도 다가오는 해를 위한 계획을 세우기에 좋은 시기다. 2021년에도 사이버 보안 업계에서는 각종 보안 사고, 대규...</a> <span class="news_writer">문가용 기자 | 2022년 02월 22일 21:36</span>]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/ceo-thumb-0222.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[재난이 몰려와도 통신은 계속되어야 한다면 미리 알아두어야 할 것들 (보안뉴스 ─ 국제)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104940&amp;page=1&amp;mkind=&amp;kind=4&amp;skind=D&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104940&amp;page=1&amp;mkind=&amp;kind=4&amp;skind=D&amp;search=title&amp;find=</guid>
@@ -2152,20 +2166,6 @@
 					</a><br>
 					<a href="/media/view.asp?idx=104883&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">새로운 고(Go) 기반 봇넷 멀웨어가 발견됐다. 이름은 크라켄(Kraken)이며, 각종 백도어 기능과 정보 유출 기능이 추가되는 등 활발한 개발 행위가 이어지고 ...</a> <span class="news_writer">문가용 기자 | 2022년 02월 18일 11:29</span>]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/kra-thumb-0218.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[대만, 중국 해킹 공격에 반격하기 위한 기틀 마련 (보안뉴스 ─ 국제)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104882&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104882&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
-            <pubDate>Fri, 18 Feb 2022 03:17:58 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/view.asp?idx=104882&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
-					
-					<img src="/media/upFiles2/2022/02/tai-thumb-00218.jpg" alt="" class="news_img" height="70">
-					
-					<span class="news_txt">대만, 중국 해킹 공격에 반격하기 위한 기틀 마련</span>
-					</a><br>
-					<a href="/media/view.asp?idx=104882&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">대만이 중국 해킹 공격에 대한 대응책을 마련하기 시작했다. 국회 내에서 중국 산업 스파이들의 공격 행위를 겨냥한 국가안보법 개정이 제의되었다. 중국의 해커들은 지...</a> <span class="news_writer">문가용 기자 | 2022년 02월 18일 11:29</span>]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/tai-thumb-00218.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2022년 대한민국 보안시장 규모, 6조 4,453억원 전망 (보안뉴스 ─ 기획특집)]]></title>
