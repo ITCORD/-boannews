@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-02-21T23:17:31.533Z</updated>
+    <updated>2022-02-22T00:58:02.582Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[암호화폐와 탈중앙화 금융이 부딪힌 벽, 의외로 높다]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104907&amp;page=1&amp;mkind=1&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104907&amp;page=1&amp;mkind=1&amp;kind=3"/>
+        <updated>2022-02-22T00:56:15.994Z</updated>
+        <content type="html"><![CDATA[금융 업계는 현재 변혁의 속도를 높여가는 중이다. 그러면서 계속해서 새로운 보안 위협들이 등장하고 있고, 새로운 보호의 방법들이 고안되는 상황이다. 그런 와중에 예전 해킹 기술들을 새로운 핀테크에 적용하는 공격자들도 속속 등장하는 중이다. 새로운 시대의 화폐들과 금융 ...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[에프원시큐리티, 건대부중·고와 내PC 돌보미 MOU]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=104919&amp;page=1&amp;mkind=1&amp;kind=3</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=104884&amp;page=1&amp;mkind=1&amp;kind=1"/>
         <updated>2022-02-20T16:21:13.213Z</updated>
         <content type="html"><![CDATA[프랑스의 한 아버지가 자녀의 인터넷 사용 시간을 제어하려고 방해 전파 발신기를 사용하다가 근처 마을의 인터넷 전부를 다운시키는 사고를 일으켰다. 그것도 한두 번 일어난 사건이 아니다. 자정부터 새벽 3시까지 매일처럼 인터넷과 모바일 통신이 되지 않았다고 마을 사람들은 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[새로운 고 언어 기반 봇넷, 활발히 개발되는 중]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104883&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104883&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-02-19T09:15:58.882Z</updated>
-        <content type="html"><![CDATA[새로운 고(Go) 기반 봇넷 멀웨어가 발견됐다. 이름은 크라켄(Kraken)이며, 각종 백도어 기능과 정보 유출 기능이 추가되는 등 활발한 개발 행위가 이어지고 있다고 한다. 윈도 호스트를 노리는 멀웨어이며, 침투 성공 후에는 두 번째 페이로드를 다운로드해 실행, 셸 ...]]></content>
     </entry>
 </feed>

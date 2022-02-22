@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Feb 2022 23:17:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Feb 2022 00:58:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -80,20 +80,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/pen-thyumb-0216.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[제115차 CISO포럼, ‘메타버스’에서의 보안위협 및 대응방안 공유]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104791&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104791&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
-            <pubDate>Wed, 16 Feb 2022 09:14:46 GMT</pubDate>
-            <content:encoded><![CDATA[페이스북이 사명을 ‘메타(META)’로 바꿀 정도로 메가트렌드가 된 ‘메타버스(METAVERSE)’지만, 정작 이에 대한 보안은 아직 논의되지 않고 있다. 이러한...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/ciso_0215001_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Weekly Security Premium Report 제38호 발간! 클레이스왑 해킹 사건 집중분석]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104860&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104860&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
             <pubDate>Fri, 18 Feb 2022 18:18:11 GMT</pubDate>
             <content:encoded><![CDATA[2월 10일 발간된 ‘Weekly Security Premium Report’ 제38호에는 &lt;보안 심층 리포트&gt; 코너에서 최근 IT 및 보안 분야에서 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/20220217report-sm.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[제115차 CISO포럼, ‘메타버스’에서의 보안위협 및 대응방안 공유]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104791&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104791&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
+            <pubDate>Wed, 16 Feb 2022 09:14:46 GMT</pubDate>
+            <content:encoded><![CDATA[페이스북이 사명을 ‘메타(META)’로 바꿀 정도로 메가트렌드가 된 ‘메타버스(METAVERSE)’지만, 정작 이에 대한 보안은 아직 논의되지 않고 있다. 이러한...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/ciso_0215001_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2022년 보안 업계가 주목할 분야는 소프트웨어 공급망 보안]]></title>
@@ -120,20 +120,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/pat-thumb-0215.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[끝없이 벌어지는 개발과 보안의 간극, 어떻게 줄여야 하나]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104905&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104905&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
+            <pubDate>Mon, 21 Feb 2022 22:15:10 GMT</pubDate>
+            <content:encoded><![CDATA[보안과 개발은 ‘절친’이라고 하기에는 무리가 있는 관계를 유지하고 있다. 물론 이는 누구의 잘못도 아니다. 다만 여태까지 해왔던 일의 방식 때문에 어쩔 수가 없었...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/compe-thumb-0220.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[새로운 고 언어 기반 봇넷, 활발히 개발되는 중]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104883&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104883&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Sun, 20 Feb 2022 02:10:40 GMT</pubDate>
             <content:encoded><![CDATA[새로운 고(Go) 기반 봇넷 멀웨어가 발견됐다. 이름은 크라켄(Kraken)이며, 각종 백도어 기능과 정보 유출 기능이 추가되는 등 활발한 개발 행위가 이어지고 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/kra-thumb-0218.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서울시, 민간 건축공사장 위험 상황 AI가 CCTV로 실시간 관제]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104876&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104876&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
-            <pubDate>Mon, 21 Feb 2022 04:20:19 GMT</pubDate>
-            <content:encoded><![CDATA[서울시와 서울디지털재단은 건축공사장의 위험 상황을 인공지능(AI)이 실시간 관제하는 ‘인공지능 기반 건축공사장 위험요소 관제 솔루션’을 중소 규모 민간 건축공사장...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/20220218cctv-s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[정재동의 창업에세이-2] 학생 창업활동이 꼭 필요한 이유]]></title>
@@ -144,12 +144,12 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/20220218startup-s.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
-            <title><![CDATA[끝없이 벌어지는 개발과 보안의 간극, 어떻게 줄여야 하나]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104905&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104905&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
-            <pubDate>Mon, 21 Feb 2022 22:15:10 GMT</pubDate>
-            <content:encoded><![CDATA[보안과 개발은 ‘절친’이라고 하기에는 무리가 있는 관계를 유지하고 있다. 물론 이는 누구의 잘못도 아니다. 다만 여태까지 해왔던 일의 방식 때문에 어쩔 수가 없었...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/compe-thumb-0220.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[서울시, 민간 건축공사장 위험 상황 AI가 CCTV로 실시간 관제]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104876&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104876&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
+            <pubDate>Mon, 21 Feb 2022 04:20:19 GMT</pubDate>
+            <content:encoded><![CDATA[서울시와 서울디지털재단은 건축공사장의 위험 상황을 인공지능(AI)이 실시간 관제하는 ‘인공지능 기반 건축공사장 위험요소 관제 솔루션’을 중소 규모 민간 건축공사장...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/20220218cctv-s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[전남도, 드론 활용 스마트 행정 추진한다]]></title>
