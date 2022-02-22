@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-02-22T07:19:58.765Z</updated>
+    <updated>2022-02-22T08:22:19.627Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[경북개발공사, 2021년 개인정보관리수준진단 ‘최고 등급’ 획득]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104927&amp;page=1&amp;mkind=1&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104927&amp;page=1&amp;mkind=1&amp;kind=2"/>
+        <updated>2022-02-22T08:20:09.313Z</updated>
+        <content type="html"><![CDATA[경상북도개발공사는 개인정보보호위원회(국무총리 직속기관) 주관 ‘2021년 개인정보관리수준진단’에서 최고 등급을 획득해 개인정보보호 우수기관으로 선정됐다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오픈시 사용자들로부터 170만 달러 NFT 훔친 온라인 공격자들]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104958&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104958&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-02-22T08:20:09.315Z</updated>
+        <content type="html"><![CDATA[세계 최대의 NFT 거래소인 오픈시(OpenSea)에서 대형 도난 사건이 발생했다. 사용자들이 보유하고 있던 NFT 물품 수십 개가 피싱 공격으로 사라진 것이다. 도난당한 NFT의 가치를 전부 합치면 170만 달러가 넘는다고 한다. 하지만 오픈시 웹사이트나 플랫폼 자체...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[미국 CISA, 무료 사이버 보안 도구와 서비스 공개]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=104957&amp;page=1&amp;mkind=1&amp;kind=1</id>
@@ -109,19 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=104914&amp;page=1&amp;mkind=1&amp;kind=1"/>
         <updated>2022-02-21T03:16:58.283Z</updated>
         <content type="html"><![CDATA[몬조(Monzo)는 영국에서 가장 인기가 높은 ‘디지털 은행’이다. 물리적 공간이나 영업점을 두지 않고 오로지 디지털 공간에서만 은행 업무가 이뤄진다. 그런데 이 플랫폼에서 최근 피싱 공격 행위가 많이 발생하고 있다. 몬조 사용자들을 악성 웹사이트들로 유도하는 공격으로...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인간중심 보안 구현의 핵심과제, ‘보안문화’ 어떻게 정착시키나]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104913&amp;page=1&amp;mkind=1&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104913&amp;page=1&amp;mkind=1&amp;kind=3"/>
-        <updated>2022-02-21T02:36:48.050Z</updated>
-        <content type="html"><![CDATA[인공지능(AI)이 보안 분야에 있어 핫 키워드가 되는 등 보안기술이 빠르게 발전하고 있음에도 결국 조직 내 보안정책 결정과 보안문화 조성은 인간에 의해 구현되기에 ‘인간중심 보안’에 대한 논의는 점차 활발해지고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인스피언, ‘클라우드 EDI 서비스’ 이용 희망 中企 모집]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104912&amp;page=1&amp;mkind=1&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104912&amp;page=1&amp;mkind=1&amp;kind=3"/>
-        <updated>2022-02-21T02:36:48.055Z</updated>
-        <content type="html"><![CDATA[클라우드 기반의 전자문서교환(EDI) 서비스를 제공하는 인스피언(대표이사 최정규)이 지난해에 이어 올해에도 정부의 중소기업 클라우드 서비스 바우처 사업 정책에 따라 오는 4월 15일까지 ‘클라우드 EDI 서비스’ 수요기업을 모집한다.]]></content>
     </entry>
 </feed>

@@ -4,9 +4,25 @@
         <title>보안뉴스 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Feb 2022 07:19:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Feb 2022 08:22:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[재난이 몰려와도 통신은 계속되어야 한다면 미리 알아두어야 할 것들]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104940&amp;page=1&amp;kind=4</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104940&amp;page=1&amp;kind=4</guid>
+            <pubDate>Tue, 22 Feb 2022 08:19:46 GMT</pubDate>
+            <content:encoded><![CDATA[IT 담당자들은 해저 케이블, 지상 네트워크, 위성 통신의 갑작스런 중단과 같은 사태까지도 예상하고 서비스 연속성에 대한 계획을 세워두어야 한다. 하지만 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/cable-thumb-0222.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022년에도 계속되는 다크웹의 한국사랑? 랜섬웨어부터 개인정보 판매까지]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104961&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104961&amp;page=1&amp;kind=1</guid>
+            <pubDate>Tue, 22 Feb 2022 08:19:46 GMT</pubDate>
+            <content:encoded><![CDATA[다크웹에 한국인 개인정보 판매글은 물론 한국기업의 랜섬웨어 공격으로 인한 정보 유출 협박까지 한국 기업과 국민들을 대상으로 한 공격이 계속 증가하고 있어 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/dark_022201_main.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[안심스마트점포 테스트베드 입주할 AI·융합보안 기업 찾는다]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104960&amp;page=1&amp;kind=2</link>
@@ -70,22 +86,6 @@
             <pubDate>Mon, 21 Feb 2022 14:15:20 GMT</pubDate>
             <content:encoded><![CDATA[애플리케이션 보안의 중요성이 그렇게나 자주, 많이, 강조되고 있지만 실제로 애플리케이션 보안을 위해 실질적은 노력을 하고 있는 곳은 그리 많지 않은 것으로...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/app-thumb-0221.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[클라우드가 그리 좋다는데, 왜 지금 상황은 그렇지 못한가?]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104920&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104920&amp;page=1&amp;kind=1</guid>
-            <pubDate>Mon, 21 Feb 2022 10:17:15 GMT</pubDate>
-            <content:encoded><![CDATA[현재 운영되고 있는 컨테이너의 75%가 고위험군 내지 치명적 위험도의 취약점을 보유하고 있는 것으로 나타났다. 심지어 이 취약점들 대부분 패치가 있는 것으...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/clo-thumb-0221.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[암호화폐와 탈중앙화 금융이 부딪힌 벽, 의외로 높다]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104907&amp;page=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104907&amp;page=1&amp;kind=3</guid>
-            <pubDate>Mon, 21 Feb 2022 09:16:30 GMT</pubDate>
-            <content:encoded><![CDATA[금융 업계는 현재 변혁의 속도를 높여가는 중이다. 그러면서 계속해서 새로운 보안 위협들이 등장하고 있고, 새로운 보호의 방법들이 고안되는 상황이다. 그런 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/bit-thumb-0221.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[KISTI, ‘충북대-KISTI HPC·AI 겨울학교’ 개최]]></title>
