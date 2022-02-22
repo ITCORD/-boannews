@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=2</id>
     <title>보안뉴스 ─ IT</title>
-    <updated>2022-02-22T03:18:54.286Z</updated>
+    <updated>2022-02-22T04:21:25.976Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[과기정통부, 디지털 대전환시대 선도할 ICT 창업·벤처기업 지원]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104937&amp;page=1&amp;mkind=2&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104937&amp;page=1&amp;mkind=2&amp;kind=2"/>
+        <updated>2022-02-22T04:19:58.411Z</updated>
+        <content type="html"><![CDATA[과학기술정보통신부는 지난 21일 정보통신기술(ICT) 분야 창업·벤처 지원사업인 ‘케이-글로벌 프로젝트’의 2022년 사업을 통합 안내하고, 오는 23일 민·관 통합설명회를 온라인으로 진행한다고 밝혔다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[LG U+, MWC 바르셀로나 2022에서 글로벌 ‘빅테크’ 만난다]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=104946&amp;page=1&amp;mkind=2&amp;kind=3</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=104892&amp;page=1&amp;mkind=2&amp;kind=2"/>
         <updated>2022-02-19T09:16:07.183Z</updated>
         <content type="html"><![CDATA[국가 인재 개발에 국내 과학기술 분야 우수 연구 성과가 활용된다. 국가공무원인재개발원과 국립과천과학관은 지난 18일 ‘우수 연구 성과 상호 활용을 위한 양해각서(MOU)’를 체결했다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[부고] 한국면세뉴스 박홍규 대표 빙부상]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104888&amp;page=1&amp;mkind=2&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104888&amp;page=1&amp;mkind=2&amp;kind=1"/>
-        <updated>2022-02-19T09:16:07.183Z</updated>
-        <content type="html"><![CDATA[△내 용 : 한국면세뉴스 박홍규 대표 빙부상 △고 인 : 고 원동욱님 △빈 소 : 인천의료원 장례식장 302호 △발 인 : 2월 20일(일) 오전 7시 30분]]></content>
     </entry>
 </feed>
