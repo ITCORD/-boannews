@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Feb 2022 04:21:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Feb 2022 05:16:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -88,14 +88,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/pen-thyumb-0216.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[제115차 CISO포럼, ‘메타버스’에서의 보안위협 및 대응방안 공유]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104791&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104791&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
-            <pubDate>Wed, 16 Feb 2022 09:14:46 GMT</pubDate>
-            <content:encoded><![CDATA[페이스북이 사명을 ‘메타(META)’로 바꿀 정도로 메가트렌드가 된 ‘메타버스(METAVERSE)’지만, 정작 이에 대한 보안은 아직 논의되지 않고 있다. 이러한...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/ciso_0215001_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[2022년 보안 업계가 주목할 분야는 소프트웨어 공급망 보안]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104861&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104861&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
@@ -144,13 +136,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/2-170(295).jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[태백시, 교통안전 시행계획 추진]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104901&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104901&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
-            <pubDate>Tue, 22 Feb 2022 02:35:03 GMT</pubDate>
-            <content:encoded><![CDATA[태백시는 교통사고로부터 시민의 생명과 재산을 보호하고 안전한 교통환경을 조성하기 위해 교통안전 시행계획을 수립 추진한다. 교통사고 사망자를 줄이기 위해 시는 교통...]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[2022년 1월 발생한 스미싱의 80%는 ‘택배 스미싱’]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104906&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104906&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
@@ -159,12 +144,27 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/est_022001_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[태백시, 교통안전 시행계획 추진]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104901&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104901&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
+            <pubDate>Tue, 22 Feb 2022 02:35:03 GMT</pubDate>
+            <content:encoded><![CDATA[태백시는 교통사고로부터 시민의 생명과 재산을 보호하고 안전한 교통환경을 조성하기 위해 교통안전 시행계획을 수립 추진한다. 교통사고 사망자를 줄이기 위해 시는 교통...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[아파치 카산드라에서 고위험군 코드 실행 취약점 발견돼]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104851&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104851&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Tue, 22 Feb 2022 02:35:03 GMT</pubDate>
             <content:encoded><![CDATA[아파치 카산드라(Apache Cassandra)에서 원격 코드 실행 취약점이 발견됐다. CVSS 기준 8.4점으로, 고위험군으로 분류됐으며 관리 번호는 CVE-2...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/ser-thumb-0217.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[대만, 중국 해킹 공격에 반격하기 위한 기틀 마련]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104882&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104882&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Tue, 22 Feb 2022 05:14:20 GMT</pubDate>
+            <content:encoded><![CDATA[대만이 중국 해킹 공격에 대한 대응책을 마련하기 시작했다. 국회 내에서 중국 산업 스파이들의 공격 행위를 겨냥한 국가안보법 개정이 제의되었다. 중국의 해커들은 지...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/tai-thumb-00218.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

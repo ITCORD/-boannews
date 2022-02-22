@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-02-22T04:21:25.957Z</updated>
+    <updated>2022-02-22T05:16:05.592Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[새로운 뱅킹 트로이목마, 구글 플레이 통해 퍼져]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104956&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104956&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-02-22T05:14:29.015Z</updated>
+        <content type="html"><![CDATA[새로운 안드로이드 뱅킹 멀웨어가 구글 플레이 스토어에 출현했다. 이미 5만 번 이상 설치된 것으로 집계되고 있다. 이 멀웨어의 이름은 제노모프(Xenomorph)이며, 네덜란드의 보안 업체 쓰레트패브릭(ThreatFabric)이 발견했다. 제노모프의 운영자는 유럽인들을...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[익스피다이터스, 랜섬웨어 공격에 마비돼]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=104955&amp;page=1&amp;mkind=1&amp;kind=1</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=104911&amp;page=1&amp;mkind=1&amp;kind=3"/>
         <updated>2022-02-21T02:36:48.057Z</updated>
         <content type="html"><![CDATA[ICT 융합보안 선도기업 한싹(대표 이주도)은 지난해 패스워드 보안 사업의 매출이 전년 대비 1,340% 성장하며 크게 향상되었다고 밝혔다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[금융보안원, ‘데이터 유통·활용 종합 플랫폼’ 역할 강화한다]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104909&amp;page=1&amp;mkind=1&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104909&amp;page=1&amp;mkind=1&amp;kind=2"/>
-        <updated>2022-02-21T02:36:48.059Z</updated>
-        <content type="html"><![CDATA[금융보안원(원장 김철웅)은 금융데이터거래소(FinDX) 운영 2년차를 맞이해 그간의 운영 현황을 분석하고 금년에는 본격적인 데이터 기반 디지털 혁신이 이루어질 수 있도록 ‘데이터 유통‧활용 종합 플랫폼’ 역할을 강화할 계획이라고 밝혔다.]]></content>
     </entry>
 </feed>
