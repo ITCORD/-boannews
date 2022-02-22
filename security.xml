@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-02-22T00:58:02.582Z</updated>
+    <updated>2022-02-22T02:10:03.993Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[클라우드가 그리 좋다는데, 왜 지금 상황은 그렇지 못한가?]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104920&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104920&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-02-22T02:08:27.968Z</updated>
+        <content type="html"><![CDATA[현재 운영되고 있는 컨테이너의 75%가 고위험군 내지 치명적 위험도의 취약점을 보유하고 있는 것으로 나타났다. 심지어 이 취약점들 대부분 패치가 있는 것으로 조사됐다. 즉 고쳐질 수 있는 문제인데 고쳐지지 않은 채로 사용되고 있다는 것이다. 이는 보안에 오랜 시간 종사...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[암호화폐와 탈중앙화 금융이 부딪힌 벽, 의외로 높다]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=104907&amp;page=1&amp;mkind=1&amp;kind=3</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=104889&amp;page=1&amp;mkind=1&amp;kind=1"/>
         <updated>2022-02-20T16:21:13.209Z</updated>
         <content type="html"><![CDATA[사이버 범죄자들과 국가 지원 해커들이 점점 더 방어 전략에 적응해가고 있고, 그래서 공격의 효율성이 높아지고 있다는 연구 결과가 두 개 발표됐다. 하나는 보안 업체 크라우드스트라이크(CrowdStrike)의 ‘글로벌 위협 보고서(Global Threat Report)’...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아이의 인터넷 사용 시간 제어하려다 마을 전체 다운시킨 아빠]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104884&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104884&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-02-20T16:21:13.213Z</updated>
-        <content type="html"><![CDATA[프랑스의 한 아버지가 자녀의 인터넷 사용 시간을 제어하려고 방해 전파 발신기를 사용하다가 근처 마을의 인터넷 전부를 다운시키는 사고를 일으켰다. 그것도 한두 번 일어난 사건이 아니다. 자정부터 새벽 3시까지 매일처럼 인터넷과 모바일 통신이 되지 않았다고 마을 사람들은 ...]]></content>
     </entry>
 </feed>

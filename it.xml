@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=2</id>
     <title>보안뉴스 ─ IT</title>
-    <updated>2022-02-22T00:58:02.561Z</updated>
+    <updated>2022-02-22T02:10:03.950Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[로우코드와 노코드 개발, 누구나 애플리케이션을 만들게 한다?]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104891&amp;page=1&amp;mkind=2&amp;kind=4</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104891&amp;page=1&amp;mkind=2&amp;kind=4"/>
+        <updated>2022-02-22T02:08:36.202Z</updated>
+        <content type="html"><![CDATA[새로운 정보 시스템이 필요한 기업들은 둘 중 한 가지를 실시했다. 개발자를 추가로 고용하거나, 매장으로 가서 필요한 소프트웨어를 구입하거나. 그런데 최근 하나의 선택지가 더 생겼다. 바로 로우코드(low-code) 혹은 노코드(no-code) 애플리케이션이다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[광주시, IoT로 다중이용시설 실내 공기질 관리]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104897&amp;page=1&amp;mkind=2&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104897&amp;page=1&amp;mkind=2&amp;kind=2"/>
+        <updated>2022-02-22T02:08:36.209Z</updated>
+        <content type="html"><![CDATA[경기도 광주시는 오는 3월부터 다중이용시설 6개소에 ‘IoT(사물인터넷)를 활용한 실내 공기질 상시 측정 및 자동관제 시스템’ 임차비를 지원한다고 밝혔다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[전남도, 드론 활용 스마트 행정 추진한다]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=104896&amp;page=1&amp;mkind=2&amp;kind=2</id>
@@ -109,19 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=104867&amp;page=1&amp;mkind=2&amp;kind=2"/>
         <updated>2022-02-18T01:00:56.243Z</updated>
         <content type="html"><![CDATA[특허청 국제지식재산연수원은 국가 지식재산 경쟁력을 강화하기 위해 지역과 중소기업에 특성에 맞는 지식재산 교육을 확대하는 한편, 디지털 교육을 강화할 계획이라고 밝혔다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[과기정통부, ‘학교 밖 스마트 수·과학실’ 새롭게 이끌 운영기관 공모]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104865&amp;page=1&amp;mkind=2&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104865&amp;page=1&amp;mkind=2&amp;kind=2"/>
-        <updated>2022-02-18T01:00:56.244Z</updated>
-        <content type="html"><![CDATA[과학기술정보통신부와 한국과학창의재단은 과학기술 전문 인프라와 연계한 첨단 기술 기반의 학교 밖 탐구·실험 공간을 새롭게 마련하기 위해 ‘학교 밖 스마트 수·과학실’ 운영기관을 18일부터 모집한다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[과천시, 장애인 위한 첨단 ‘보행재활로봇’ 서비스 시작]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104864&amp;page=1&amp;mkind=2&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104864&amp;page=1&amp;mkind=2&amp;kind=2"/>
-        <updated>2022-02-18T01:00:56.246Z</updated>
-        <content type="html"><![CDATA[과천시가 장애인 기능강화지원사업의 일환으로 첨단보행재활로봇(워크봇)을 통한 재활서비스 사업을 선도적으로 추진한다고 밝혔다. 워크봇은 뇌경색, 뇌출혈, 파킨슨병, 척수신경 손상에 의한 마비, 다발성경화증 등 근력 부족으로 보행이 어려움을 겪고 있는 장애인의 맞춤형 재활 ...]]></content>
     </entry>
 </feed>
