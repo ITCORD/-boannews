@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-02-22T05:16:05.592Z</updated>
+    <updated>2022-02-22T06:21:09.402Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[미국 CISA, 무료 사이버 보안 도구와 서비스 공개]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104957&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104957&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-02-22T06:19:18.004Z</updated>
+        <content type="html"><![CDATA[미국의 사이버 보안 담당 기관인 CISA가 각종 보안 경고와 가이드라인을 발표하면서 무료로 여러 가지 보안 도구와 서비스도 함께 공개했다. CISA는 최근 정보 탈취를 목적으로 한 사이버 공격이 이어지고 있다고 경고하면서, 모든 조직들이 대응력과 복구력, 악성 행위의 ...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[새로운 뱅킹 트로이목마, 구글 플레이 통해 퍼져]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=104956&amp;page=1&amp;mkind=1&amp;kind=1</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=104912&amp;page=1&amp;mkind=1&amp;kind=3"/>
         <updated>2022-02-21T02:36:48.055Z</updated>
         <content type="html"><![CDATA[클라우드 기반의 전자문서교환(EDI) 서비스를 제공하는 인스피언(대표이사 최정규)이 지난해에 이어 올해에도 정부의 중소기업 클라우드 서비스 바우처 사업 정책에 따라 오는 4월 15일까지 ‘클라우드 EDI 서비스’ 수요기업을 모집한다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한싹, 패스워드 보안 사업 성과 속속, 신시장 공략 속도]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104911&amp;page=1&amp;mkind=1&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104911&amp;page=1&amp;mkind=1&amp;kind=3"/>
-        <updated>2022-02-21T02:36:48.057Z</updated>
-        <content type="html"><![CDATA[ICT 융합보안 선도기업 한싹(대표 이주도)은 지난해 패스워드 보안 사업의 매출이 전년 대비 1,340% 성장하며 크게 향상되었다고 밝혔다.]]></content>
     </entry>
 </feed>
