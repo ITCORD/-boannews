@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Feb 2022 02:10:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Feb 2022 02:37:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,22 +104,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/log-thumb-00217.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[랜섬웨어 수익금 74%가 러시아로 흘러들어간다]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104788&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104788&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Thu, 17 Feb 2022 00:50:51 GMT</pubDate>
-            <content:encoded><![CDATA[2021년은 랜섬웨어의 해였고, 그 랜섬웨어 때문에 발생한 피해액의 74%는 러시아로 흘러들어갔다는 연구 조사가 발표됐다. 이는 블록체인 분석 전문 기업 체이널리...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/ran-thumb-0215.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[구글 크롬, 긴급 업데이트로 제로데이 취약점 해결]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104787&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104787&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Wed, 16 Feb 2022 15:16:20 GMT</pubDate>
-            <content:encoded><![CDATA[구글 크롬에서 고위험군 취약점인 CVE-2022-0609가 발견됐다. 발견됐을 때는 이미 해커들이 악용하고 있는 ‘제로데이’ 상태였다. 이 취약점의 출처는 애니메...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/pat-thumb-0215.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[끝없이 벌어지는 개발과 보안의 간극, 어떻게 줄여야 하나]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104905&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104905&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
@@ -160,12 +144,27 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/2-170(295).jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[스페인 경찰, 심스와핑 공격자 체포하는 데 성공]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104785&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104785&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Sat, 19 Feb 2022 00:58:09 GMT</pubDate>
-            <content:encoded><![CDATA[스페인 경찰이 사이버 조직을 와해시켰다. 심스와핑 공격을 연쇄적으로 실시하던 단체로, 이번 작전을 통해 8명이 체포됐다고 한다. 이들은 소셜 엔지니어링 기법으로 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/sim-thumb-0215.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[태백시, 교통안전 시행계획 추진]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104901&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104901&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
+            <pubDate>Tue, 22 Feb 2022 02:35:03 GMT</pubDate>
+            <content:encoded><![CDATA[태백시는 교통사고로부터 시민의 생명과 재산을 보호하고 안전한 교통환경을 조성하기 위해 교통안전 시행계획을 수립 추진한다. 교통사고 사망자를 줄이기 위해 시는 교통...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[2022년 1월 발생한 스미싱의 80%는 ‘택배 스미싱’]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104906&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104906&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Tue, 22 Feb 2022 02:35:03 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 1월은 2021년 12월과 마찬가지로 택배 스미싱이 공격을 주도한 것으로 확인됐다. 택배를 키워드로 하는 스미싱 공격은 79.47%로, 여전히 대다수의...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/est_022001_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아파치 카산드라에서 고위험군 코드 실행 취약점 발견돼]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104851&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104851&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Tue, 22 Feb 2022 02:35:03 GMT</pubDate>
+            <content:encoded><![CDATA[아파치 카산드라(Apache Cassandra)에서 원격 코드 실행 취약점이 발견됐다. CVSS 기준 8.4점으로, 고위험군으로 분류됐으며 관리 번호는 CVE-2...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/ser-thumb-0217.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

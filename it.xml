@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=2</id>
     <title>보안뉴스 ─ IT</title>
-    <updated>2022-02-22T02:10:03.950Z</updated>
+    <updated>2022-02-22T02:37:16.184Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[LG유플러스·에이스랩, 빅데이터와 AI로 자율주행차 이상 상태 잡아낸다]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104945&amp;page=1&amp;mkind=2&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104945&amp;page=1&amp;mkind=2&amp;kind=3"/>
+        <updated>2022-02-22T02:35:26.485Z</updated>
+        <content type="html"><![CDATA[LG유플러스는 국내 최고의 자율주행 솔루션 기업 에이스랩과 함께 빅데이터와 AI를 기반으로 자율주행차량 이상 여부를 진단하는 차세대 기술을 개발한다고 밝혔다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[광주시, 지능형 교통 상황 모니터링 기술 개발]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104947&amp;page=1&amp;mkind=2&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104947&amp;page=1&amp;mkind=2&amp;kind=2"/>
+        <updated>2022-02-22T02:35:26.486Z</updated>
+        <content type="html"><![CDATA[광주광역시는 행정안전부에서 주관하는 재난안전 연구개발사업을 통해 ‘도시 내 도로시설 교통 상황을 실시간 감지할 수 있는 시스템 및 인공지능 기반 데이터 분석 기술개발’에 성공했다고 밝혔다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[광주 AI 창업캠프, 인공지능 창업·사업화 메카 자리매김]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104948&amp;page=1&amp;mkind=2&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104948&amp;page=1&amp;mkind=2&amp;kind=2"/>
+        <updated>2022-02-22T02:35:26.494Z</updated>
+        <content type="html"><![CDATA[인공지능 중심 도시를 표방한 광주광역시가 운영 중인 ‘인공지능(AI) 창업캠프가 인공지능 관련 창업과 사업화의 핵심 공간으로 자리를 잡아가고 있다. 이에 따라 광주시는 인공지능 창업캠프와 연계해 인공지능 스타트업 등 창업기업에 대한 지원을 강화해 나갈 방침이다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KERI-워털루대, 부산 지역경제 위한 AI 확산 나선다]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104949&amp;page=1&amp;mkind=2&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104949&amp;page=1&amp;mkind=2&amp;kind=2"/>
+        <updated>2022-02-22T02:35:26.496Z</updated>
+        <content type="html"><![CDATA[국책 연구기관인 한국전기연구원(KERI)과 세계적 수준의 AI 기술을 보유하고 있는 캐나다 워털루대학이 인공지능(AI) 기술을 활용한 부산 지역 제조 혁신 사업을 올해부터 본격 수행한다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[자율주행 로봇이 공원 순찰하고 IoT 센서가 불법 주차 경고한다]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104928&amp;page=1&amp;mkind=2&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104928&amp;page=1&amp;mkind=2&amp;kind=2"/>
+        <updated>2022-02-22T02:35:26.498Z</updated>
+        <content type="html"><![CDATA[서울시가 방범 순찰, 불법 주정차 발견, 생활 폐기물 분리배출 같은 시민 일상의 문제를 해결하는데 로봇, 인공지능(AI), 사물인터넷(IoT) 등 첨단 ICT 기술 기반의 스마트시티 서비스를 도입한다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[로우코드와 노코드 개발, 누구나 애플리케이션을 만들게 한다?]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=104891&amp;page=1&amp;mkind=2&amp;kind=4</id>
@@ -88,40 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=104874&amp;page=1&amp;mkind=2&amp;kind=2"/>
         <updated>2022-02-18T05:14:35.478Z</updated>
         <content type="html"><![CDATA[부산시는 지역 빅데이터 산업 활성화 및 기업의 데이터 활용 자생력 강화를 위해 ‘중소기업 빅데이터 분석·활용 지원 사업’을 추진하고, 사업에 참여할 기업을 3월 4일까지 모집한다고 밝혔다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[산·학·연·관, 지역 디지털전환에 힘 모은다]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104872&amp;page=1&amp;mkind=2&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104872&amp;page=1&amp;mkind=2&amp;kind=2"/>
-        <updated>2022-02-18T03:16:50.943Z</updated>
-        <content type="html"><![CDATA[부산시는 한국산업지능화협회·지역대학 산학협력단 등 20여개 기관과 ‘융합얼라이언스’를 결성하고, 지역 산업 및 기업의 디지털 전환에 본격적으로 나선다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[삼성SDS, AWS 익스클루시브 글로벌 비즈니스 네트워크 참여]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104870&amp;page=1&amp;mkind=2&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104870&amp;page=1&amp;mkind=2&amp;kind=3"/>
-        <updated>2022-02-18T02:09:00.373Z</updated>
-        <content type="html"><![CDATA[삼성SDS는 아마존웹서비스(Amazon Web Services, AWS)와 전략적 상호 협력을 위한 협약 체결을 통해 고객의 클라우드 전환을 위한 MSP(Managed Service Provider) 사업을 강화하고 서비스형소프트웨어(SaaS) 사업을 글로벌 시장으로 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KISTI, 국립보건연과 보건의료연구데이터 활용 협력체계 구축]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104869&amp;page=1&amp;mkind=2&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104869&amp;page=1&amp;mkind=2&amp;kind=2"/>
-        <updated>2022-02-18T02:09:00.375Z</updated>
-        <content type="html"><![CDATA[한국과학기술정보연구원(KISTI)은 지난 17일 국립보건연구원과 협력의향서(LOI)를 체결하고 보건의료 분야 빅데이터 활용 촉진을 위해 상호 협력하기로 했다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[과기정통부, 통신3사와 5G 소비자 편익 증진을 위한 방안 논의]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104868&amp;page=1&amp;mkind=2&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104868&amp;page=1&amp;mkind=2&amp;kind=2"/>
-        <updated>2022-02-18T01:00:56.240Z</updated>
-        <content type="html"><![CDATA[임혜숙 과학기술정보통신부(이하 과기정통부) 장관은 지난 17일 5세대(5G) 소비자 편익 증진을 위한 투자 확대 방안, 농어촌 공동망 구축, 주파수 공급 등 협력 방안을 논의하기 위해 통신3사 최고경영자(SKT 유영상 사장, KT 구현모 사장, LGU+ 황현식 사장)와...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[특허청, 맞춤형 교육 확대로 국가 지식재산 경쟁력 강화한다]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104867&amp;page=1&amp;mkind=2&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104867&amp;page=1&amp;mkind=2&amp;kind=2"/>
-        <updated>2022-02-18T01:00:56.243Z</updated>
-        <content type="html"><![CDATA[특허청 국제지식재산연수원은 국가 지식재산 경쟁력을 강화하기 위해 지역과 중소기업에 특성에 맞는 지식재산 교육을 확대하는 한편, 디지털 교육을 강화할 계획이라고 밝혔다.]]></content>
     </entry>
 </feed>

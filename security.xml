@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-02-22T02:10:03.993Z</updated>
+    <updated>2022-02-22T02:37:16.188Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[익스피다이터스, 랜섬웨어 공격에 마비돼]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104955&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104955&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-02-22T02:35:15.379Z</updated>
+        <content type="html"><![CDATA[전 세계적인 물류 대기업인 익스피다이터스가 마비됐다. 주말 동안 사이버 공격에 받았으며, 이 때문에 전 세계 곳곳에서 벌어지고 있던 익스피다이터스의 사업 행위와 서비스가 중단됐다. 정식으로 발표되지는 않았지만 랜섬웨어에 당했을 가능성이 가장 높은 것으로 점쳐지고 있다....]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이란 국영 매체 겨냥한 공격에 삭제형 멀웨어 사용돼]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104954&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104954&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-02-22T02:35:15.382Z</updated>
+        <content type="html"><![CDATA[지난 1월 이란의 국영 매체에서 사이버 공격이 발생했다. 2021년 7월의 이란 철도 시스템과 화물 서비스를 노린 공격과 10월의 전국 주유소를 마비시킨 공격에 이은 대규모 사회 기반 시설 공격 캠페인의 일부인 것으로 파악되고 있다. 1월에 있었던 매체 공격을 분석했을...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[안랩, 2022년 온라인 ‘라이브 견학’ 참가 학교 모집]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104953&amp;page=1&amp;mkind=1&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104953&amp;page=1&amp;mkind=1&amp;kind=3"/>
+        <updated>2022-02-22T02:35:15.391Z</updated>
+        <content type="html"><![CDATA[안랩(대표 강석균)이 학생들의 진로·직업체험 기회 확대를 위해 전국 중·고, 대학교 대상 온라인 ‘라이브(Live) 견학’ 참가 신청을 받는다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NIPA 신임 원장에 허성욱 과기정통부 네트워크정책실장 임명]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104951&amp;page=1&amp;mkind=1&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104951&amp;page=1&amp;mkind=1&amp;kind=2"/>
+        <updated>2022-02-22T02:35:15.391Z</updated>
+        <content type="html"><![CDATA[과학기술정보통신부(장관 임혜숙, 이하 ‘과기정통부’)는 정보통신산업진흥원(NIPA)의 신임원장에 허성욱 과기정통부 네트워크정책실장을 2월 22일자로 임명한다고 밝혔다]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[애플리케이션 보안, 지난 1년 동안 나아지지 않았다]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104921&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104921&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-02-22T02:35:15.391Z</updated>
+        <content type="html"><![CDATA[애플리케이션 보안의 중요성이 그렇게나 자주, 많이, 강조되고 있지만 실제로 애플리케이션 보안을 위해 실질적은 노력을 하고 있는 곳은 그리 많지 않은 것으로 조사됐다. 보안 업체 NTT 애플리케이션 시큐리티(NTT Application Security)가 2021년 한 ...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[클라우드가 그리 좋다는데, 왜 지금 상황은 그렇지 못한가?]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=104920&amp;page=1&amp;mkind=1&amp;kind=1</id>
@@ -88,40 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=104909&amp;page=1&amp;mkind=1&amp;kind=2"/>
         <updated>2022-02-21T02:36:48.059Z</updated>
         <content type="html"><![CDATA[금융보안원(원장 김철웅)은 금융데이터거래소(FinDX) 운영 2년차를 맞이해 그간의 운영 현황을 분석하고 금년에는 본격적인 데이터 기반 디지털 혁신이 이루어질 수 있도록 ‘데이터 유통‧활용 종합 플랫폼’ 역할을 강화할 계획이라고 밝혔다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[러시아-우크라이나 전쟁 초읽기? 사이버상은 이미 대규모 해킹 공습중]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104908&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104908&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-02-21T02:00:28.786Z</updated>
-        <content type="html"><![CDATA[러시아의 우크라이나 침공이 초읽기에 들어갔다는 전망이 나오는 가운데 이미 사이버상에서는 러시아가 우크라이나의 정부부처, 공공기관, 군의 주요 사이트를 타깃으로 한 무차별 공습에 나서고 있다. 사이버전과 여론전은 한창 진행 중으로 러시아의 일방적인 공격으로 이어지는 상황...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[끝없이 벌어지는 개발과 보안의 간극, 어떻게 줄여야 하나]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104905&amp;page=1&amp;mkind=1&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104905&amp;page=1&amp;mkind=1&amp;kind=3"/>
-        <updated>2022-02-21T02:00:28.787Z</updated>
-        <content type="html"><![CDATA[보안과 개발은 ‘절친’이라고 하기에는 무리가 있는 관계를 유지하고 있다. 물론 이는 누구의 잘못도 아니다. 다만 여태까지 해왔던 일의 방식 때문에 어쩔 수가 없었을 뿐이다. 보안 인력들이 가장 우선시 하는 건 조직을 위협하는 요소들을 파악해 위험을 최소화하는 것이다. ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022년 1월 발생한 스미싱의 80%는 ‘택배 스미싱’]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104906&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104906&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-02-21T00:54:31.804Z</updated>
-        <content type="html"><![CDATA[2022년 1월은 2021년 12월과 마찬가지로 택배 스미싱이 공격을 주도한 것으로 확인됐다. 택배를 키워드로 하는 스미싱 공격은 79.47%로, 여전히 대다수의 공격이 택배를 키워드로 하고 있으나, 12월 대비 8.72% 정도 감소했다고 이스트시큐리티 시큐리티대응센터...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[주말판] 원격 근무 시대에 떠오르는 SASE, 우리 회사에 잘 맞는 걸 고르려면?]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104904&amp;page=1&amp;mkind=1&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104904&amp;page=1&amp;mkind=1&amp;kind=3"/>
-        <updated>2022-02-20T16:21:13.207Z</updated>
-        <content type="html"><![CDATA[지난 2년 동안 코로나를 겪으면 기업들은 운영 방식을 크게 바꿔가고 있다. 원격 근무가 활성화 되면서 언제 어디서나 일할 수 있는 환경을 갖추는 것이 필수를 넘어 일반적인 사안이 되었다. 시도 때도 없이, 장소 구분 없이, 회사 네트워크에 접속하는 사람들을 고려하고, ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사이버 공격자들, 현대 방어 체계에 점점 더 익숙해지고 있다]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104889&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104889&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-02-20T16:21:13.209Z</updated>
-        <content type="html"><![CDATA[사이버 범죄자들과 국가 지원 해커들이 점점 더 방어 전략에 적응해가고 있고, 그래서 공격의 효율성이 높아지고 있다는 연구 결과가 두 개 발표됐다. 하나는 보안 업체 크라우드스트라이크(CrowdStrike)의 ‘글로벌 위협 보고서(Global Threat Report)’...]]></content>
     </entry>
 </feed>
