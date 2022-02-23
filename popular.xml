@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Feb 2022 14:16:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Feb 2022 15:18:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -72,20 +72,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/dark_022201_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Weekly Security Premium Report 제38호 발간! 클레이스왑 해킹 사건 집중분석]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104860&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104860&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
-            <pubDate>Fri, 18 Feb 2022 18:18:11 GMT</pubDate>
-            <content:encoded><![CDATA[2월 10일 발간된 ‘Weekly Security Premium Report’ 제38호에는 &lt;보안 심층 리포트&gt; 코너에서 최근 IT 및 보안 분야에서 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/20220217report-sm.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
             <title><![CDATA[대선 2주 앞으로! 외교·안보·국방 분야 타깃 北 해킹 공격 주의보]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104989&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104989&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Wed, 23 Feb 2022 05:14:25 GMT</pubDate>
             <content:encoded><![CDATA[대선이 2주 앞으로 다가온 가운데 국내 외교 안보 국방분야 교수 및 민간분야 전문가를 겨냥한 북한 배후 소행의 해킹 공격 시도가 연일 포착되고 있다.]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/20220223NORTH-S.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[Weekly Security Premium Report 제38호 발간! 클레이스왑 해킹 사건 집중분석]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104860&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104860&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
+            <pubDate>Fri, 18 Feb 2022 18:18:11 GMT</pubDate>
+            <content:encoded><![CDATA[2월 10일 발간된 ‘Weekly Security Premium Report’ 제38호에는 &lt;보안 심층 리포트&gt; 코너에서 최근 IT 및 보안 분야에서 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/20220217report-sm.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[끝없이 벌어지는 개발과 보안의 간극, 어떻게 줄여야 하나]]></title>
