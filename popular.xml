@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Feb 2022 12:44:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Feb 2022 13:22:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -96,14 +96,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/compe-thumb-0220.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[사이버 보안, 더 은밀하고 더 강력하게]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104825&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104825&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Thu, 17 Feb 2022 23:15:08 GMT</pubDate>
-            <content:encoded><![CDATA[10년 전만 해도 CIO들에게 있어 사이버 보안이란 중요도에 있어 순위가 꽤나 밀리는 것이었다. 오늘 날? 사정이 크게 달라졌다. 이제 보안은 CIO들을 항상 궁...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/pen-thyumb-0216.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[2022년 보안 업계가 주목할 분야는 소프트웨어 공급망 보안]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104861&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104861&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
@@ -166,6 +158,13 @@
             <pubDate>Wed, 23 Feb 2022 09:14:51 GMT</pubDate>
             <content:encoded><![CDATA[전남도는 3월부터 자체 보유 드론을 활용, 도와 시군 역점사업지구 등의 항공영상을 촬영해 평면입체 공간정보로 구축해 각종 행정 업무를 지원한다고 밝혔다.]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/2-170(295).jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[태백시, 교통안전 시행계획 추진]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104901&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104901&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
+            <pubDate>Wed, 23 Feb 2022 13:20:06 GMT</pubDate>
+            <content:encoded><![CDATA[태백시는 교통사고로부터 시민의 생명과 재산을 보호하고 안전한 교통환경을 조성하기 위해 교통안전 시행계획을 수립 추진한다. 교통사고 사망자를 줄이기 위해 시는 교통...]]></content:encoded>
         </item>
     </channel>
 </rss>
