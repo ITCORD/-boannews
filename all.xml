@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Feb 2022 06:21:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Feb 2022 07:16:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[골드스푼, 개인정보보호법 위반으로 약 1억 4,839만원 제재 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105000&amp;page=1&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105000&amp;page=1&amp;kind=2</guid>
+            <pubDate>Wed, 23 Feb 2022 07:14:51 GMT</pubDate>
+            <content:encoded><![CDATA[개인정보보호위원회(위원장 윤종인, 이하 ‘개인정보위’)는 2월 23일(수) 제4회 전체회의에서 데이팅앱 ‘골드스푼’을 운영하는 트리플콤마에 대해 총 1억 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/goldspoon_022301_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[깃허브, 소프트웨어 공급망 보안의 첫 걸음은 정보 공유라는 믿음으로 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104999&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104999&amp;page=1&amp;kind=1</guid>
+            <pubDate>Wed, 23 Feb 2022 07:14:51 GMT</pubDate>
+            <content:encoded><![CDATA[소프트웨어 공유 플랫폼인 깃허브(GitHub)가 ‘깃허브 어드바이저리 데이터베이스(GitHub Advisory Database, GAD)’라는 통합 보안 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/share-thumb-0223.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[애플 에어태그 복제판, 애플의 스토킹 방해 기술 우회 가능해 (보안뉴스 ─ 전체기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104995&amp;page=1&amp;kind=1</link>
@@ -70,22 +86,6 @@
             <pubDate>Tue, 22 Feb 2022 13:19:28 GMT</pubDate>
             <content:encoded><![CDATA[3월, 봄이 다가온다. 한 해의 시작도 좋지만 봄도 다가오는 해를 위한 계획을 세우기에 좋은 시기다. 2021년에도 사이버 보안 업계에서는 각종 보안 사고...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/ceo-thumb-0222.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[재난이 몰려와도 통신은 계속되어야 한다면 미리 알아두어야 할 것들 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104940&amp;page=1&amp;kind=4</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104940&amp;page=1&amp;kind=4</guid>
-            <pubDate>Tue, 22 Feb 2022 08:19:46 GMT</pubDate>
-            <content:encoded><![CDATA[IT 담당자들은 해저 케이블, 지상 네트워크, 위성 통신의 갑작스런 중단과 같은 사태까지도 예상하고 서비스 연속성에 대한 계획을 세워두어야 한다. 하지만 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/cable-thumb-0222.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022년에도 계속되는 다크웹의 한국사랑? 랜섬웨어부터 개인정보 판매까지 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104961&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104961&amp;page=1&amp;kind=1</guid>
-            <pubDate>Tue, 22 Feb 2022 08:19:46 GMT</pubDate>
-            <content:encoded><![CDATA[다크웹에 한국인 개인정보 판매글은 물론 한국기업의 랜섬웨어 공격으로 인한 정보 유출 협박까지 한국 기업과 국민들을 대상으로 한 공격이 계속 증가하고 있어 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/dark_022201_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[개인정보위, 카카오에 개인정보 처리실태 개선 권고 (보안뉴스 ─ 전체기사)]]></title>
@@ -302,20 +302,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/dark-thumb-00218.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Weekly Security Premium Report 제38호 발간! 클레이스왑 해킹 사건 집중분석 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104860&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104860&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
-            <pubDate>Fri, 18 Feb 2022 18:18:11 GMT</pubDate>
-            <content:encoded><![CDATA[2월 10일 발간된 ‘Weekly Security Premium Report’ 제38호에는 &lt;보안 심층 리포트&gt; 코너에서 최근 IT 및 보안 분야에서 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/20220217report-sm.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
             <title><![CDATA[2022년에도 계속되는 다크웹의 한국사랑? 랜섬웨어부터 개인정보 판매까지 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104961&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104961&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Wed, 23 Feb 2022 01:02:51 GMT</pubDate>
             <content:encoded><![CDATA[다크웹에 한국인 개인정보 판매글은 물론 한국기업의 랜섬웨어 공격으로 인한 정보 유출 협박까지 한국 기업과 국민들을 대상으로 한 공격이 계속 증가하고 있어 대책 마...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/dark_022201_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Weekly Security Premium Report 제38호 발간! 클레이스왑 해킹 사건 집중분석 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104860&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104860&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
+            <pubDate>Fri, 18 Feb 2022 18:18:11 GMT</pubDate>
+            <content:encoded><![CDATA[2월 10일 발간된 ‘Weekly Security Premium Report’ 제38호에는 &lt;보안 심층 리포트&gt; 코너에서 최근 IT 및 보안 분야에서 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/20220217report-sm.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[끝없이 벌어지는 개발과 보안의 간극, 어떻게 줄여야 하나 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
@@ -340,6 +340,14 @@
             <pubDate>Fri, 18 Feb 2022 09:15:12 GMT</pubDate>
             <content:encoded><![CDATA[사이버 공간을 위협하는 것들이 매일 새롭게 등장하는 것만 같다. 그리고 그 여파도 점점 더 커지고 있다. 제로데이 취약점들이 등장하는 빈도도 높아지고 있고, 물리...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/log-thumb-00217.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[대선 2주 앞으로! 외교·안보·국방 분야 타깃 北 해킹 공격 주의보 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104989&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104989&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Wed, 23 Feb 2022 05:14:25 GMT</pubDate>
+            <content:encoded><![CDATA[대선이 2주 앞으로 다가온 가운데 국내 외교 안보 국방분야 교수 및 민간분야 전문가를 겨냥한 북한 배후 소행의 해킹 공격 시도가 연일 포착되고 있다.]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/20220223NORTH-S.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[애플리케이션 보안, 지난 1년 동안 나아지지 않았다 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
@@ -374,14 +382,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/20220218startup-s.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
-            <title><![CDATA[대선 2주 앞으로! 외교·안보·국방 분야 타깃 北 해킹 공격 주의보 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104989&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104989&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Wed, 23 Feb 2022 05:14:25 GMT</pubDate>
-            <content:encoded><![CDATA[대선이 2주 앞으로 다가온 가운데 국내 외교 안보 국방분야 교수 및 민간분야 전문가를 겨냥한 북한 배후 소행의 해킹 공격 시도가 연일 포착되고 있다.]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/20220223NORTH-S.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
             <title><![CDATA[서울시, 민간 건축공사장 위험 상황 AI가 CCTV로 실시간 관제 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104876&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104876&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
@@ -396,6 +396,20 @@
             <pubDate>Wed, 23 Feb 2022 02:33:01 GMT</pubDate>
             <content:encoded><![CDATA[2022년 1월은 2021년 12월과 마찬가지로 택배 스미싱이 공격을 주도한 것으로 확인됐다. 택배를 키워드로 하는 스미싱 공격은 79.47%로, 여전히 대다수의...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/est_022001_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[KISIA, 대학생 기자단 2기 모집 (보안뉴스 ─ SECURITY)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104997&amp;page=1&amp;mkind=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104997&amp;page=1&amp;mkind=1&amp;kind=3</guid>
+            <pubDate>Wed, 23 Feb 2022 07:15:10 GMT</pubDate>
+            <content:encoded><![CDATA[한국정보보호산업협회(KISIA, 회장 이동범)는 국가 차세대 핵심 산업인 정보보호산업을 널리 알리고 저변 확대에 기여할 KISIA 대학생 기자단(Kisia Security Reporter)을 모집한다고 밝혔다.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[KISA, 온라인광고 계약 전 확인하세요 (보안뉴스 ─ SECURITY)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104996&amp;page=1&amp;mkind=1&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104996&amp;page=1&amp;mkind=1&amp;kind=2</guid>
+            <pubDate>Wed, 23 Feb 2022 07:15:10 GMT</pubDate>
+            <content:encoded><![CDATA[한국인터넷진흥원(KISA, 원장 이원태)은 과학기술정보통신부(장관 임혜숙), 온라인광고분쟁조정위원회(위원장 최승원)와 ‘2021 온라인광고 분쟁조정 사례집’ 및 ‘온라인광고 계약안내서’를 발간했다고 2월 23일(수) 밝혔다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[애플 에어태그 복제판, 애플의 스토킹 방해 기술 우회 가능해 (보안뉴스 ─ SECURITY)]]></title>
@@ -501,20 +515,6 @@
             <guid>https://www.boannews.com/media/view.asp?idx=104957&amp;page=1&amp;mkind=1&amp;kind=1</guid>
             <pubDate>Tue, 22 Feb 2022 06:19:18 GMT</pubDate>
             <content:encoded><![CDATA[미국의 사이버 보안 담당 기관인 CISA가 각종 보안 경고와 가이드라인을 발표하면서 무료로 여러 가지 보안 도구와 서비스도 함께 공개했다. CISA는 최근 정보 탈취를 목적으로 한 사이버 공격이 이어지고 있다고 경고하면서, 모든 조직들이 대응력과 복구력, 악성 행위의 ...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[새로운 뱅킹 트로이목마, 구글 플레이 통해 퍼져 (보안뉴스 ─ SECURITY)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104956&amp;page=1&amp;mkind=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104956&amp;page=1&amp;mkind=1&amp;kind=1</guid>
-            <pubDate>Tue, 22 Feb 2022 05:14:29 GMT</pubDate>
-            <content:encoded><![CDATA[새로운 안드로이드 뱅킹 멀웨어가 구글 플레이 스토어에 출현했다. 이미 5만 번 이상 설치된 것으로 집계되고 있다. 이 멀웨어의 이름은 제노모프(Xenomorph)이며, 네덜란드의 보안 업체 쓰레트패브릭(ThreatFabric)이 발견했다. 제노모프의 운영자는 유럽인들을...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[익스피다이터스, 랜섬웨어 공격에 마비돼 (보안뉴스 ─ SECURITY)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104955&amp;page=1&amp;mkind=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104955&amp;page=1&amp;mkind=1&amp;kind=1</guid>
-            <pubDate>Tue, 22 Feb 2022 02:35:15 GMT</pubDate>
-            <content:encoded><![CDATA[전 세계적인 물류 대기업인 익스피다이터스가 마비됐다. 주말 동안 사이버 공격에 받았으며, 이 때문에 전 세계 곳곳에서 벌어지고 있던 익스피다이터스의 사업 행위와 서비스가 중단됐다. 정식으로 발표되지는 않았지만 랜섬웨어에 당했을 가능성이 가장 높은 것으로 점쳐지고 있다....]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[방통위, ‘메타시대 디지털 시민사회 성장전략’ 컨퍼런스 개최 (보안뉴스 ─ IT)]]></title>
@@ -1891,6 +1891,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2021/12/msit_1223001_MAIN.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[깃허브, 소프트웨어 공급망 보안의 첫 걸음은 정보 공유라는 믿음으로 (보안뉴스 ─ 국제)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104999&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104999&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
+            <pubDate>Wed, 23 Feb 2022 07:16:24 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/view.asp?idx=104999&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
+					
+					<img src="/media/upFiles2/2022/02/share-thumb-0223.jpg" alt="" class="news_img" height="70">
+					
+					<span class="news_txt">깃허브, 소프트웨어 공급망 보안의 첫 걸음은 정보 공유라는 믿음으로</span>
+					</a><br>
+					<a href="/media/view.asp?idx=104999&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">소프트웨어 공유 플랫폼인 깃허브(GitHub)가 ‘깃허브 어드바이저리 데이터베이스(GitHub Advisory Database, GAD)’라는 통합 보안 자문 플...</a> <span class="news_writer">문가용 기자 | 2022년 02월 23일 15:37</span>]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/share-thumb-0223.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[애플 에어태그 복제판, 애플의 스토킹 방해 기술 우회 가능해 (보안뉴스 ─ 국제)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104995&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104995&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
@@ -2155,20 +2169,6 @@
 					</a><br>
 					<a href="/media/view.asp?idx=104915&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">악명 높은 하이브(Hive) 랜섬웨어의 알고리즘을 분석한 보안 전문가들이 암호화 된 데이터를 복구시켜주는 마스터키를 추출하는 데 성공했다. 공격자의 비밀 키 정보...</a> <span class="news_writer">문가용 기자 | 2022년 02월 21일 11:34</span>]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/mast-thumb-0221.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영국의 디지털 은행 몬조 겨냥한 피싱 활동 급증 중 (보안뉴스 ─ 국제)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104914&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104914&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
-            <pubDate>Mon, 21 Feb 2022 02:38:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/view.asp?idx=104914&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
-					
-					<img src="/media/upFiles2/2022/02/dig-thumb-00221.jpg" alt="" class="news_img" height="70">
-					
-					<span class="news_txt">영국의 디지털 은행 몬조 겨냥한 피싱 활동 급증 중</span>
-					</a><br>
-					<a href="/media/view.asp?idx=104914&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">몬조(Monzo)는 영국에서 가장 인기가 높은 ‘디지털 은행’이다. 물리적 공간이나 영업점을 두지 않고 오로지 디지털 공간에서만 은행 업무가 이뤄진다. 그런데 이...</a> <span class="news_writer">문가용 기자 | 2022년 02월 21일 11:33</span>]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/dig-thumb-00221.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2022년 대한민국 보안시장 규모, 6조 4,453억원 전망 (보안뉴스 ─ 기획특집)]]></title>
