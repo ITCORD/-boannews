@@ -4,9 +4,65 @@
         <title>보안뉴스 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Feb 2022 01:04:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Feb 2022 02:34:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[애플 에어태그 복제판, 애플의 스토킹 방해 기술 우회 가능해]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104995&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104995&amp;page=1&amp;kind=1</guid>
+            <pubDate>Wed, 23 Feb 2022 02:32:51 GMT</pubDate>
+            <content:encoded><![CDATA[독일의 한 보안 스타트업이 에플 에어태그(Apple Airtag)의 복제판을 만들어 스토킹 방지 프로토콜인 파인드 마이(Find My)를 우회하는 데 성공...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/stalk-thub-0223.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[모바일 멀웨어는 이거 빼고는 ‘게임’과 ‘모바일 뱅킹’으로 양분된다]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104994&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104994&amp;page=1&amp;kind=1</guid>
+            <pubDate>Wed, 23 Feb 2022 02:32:51 GMT</pubDate>
+            <content:encoded><![CDATA[모바일 사용자들이 늘어가면서 모바일 멀웨어도 같이 늘어나고 있다. 처음 모바일 멀웨어들이 유행했을 때는 PC를 노리는 멀웨어들보다 훨씬 질이 낮았었지만 지...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/mobmal-thumb-0223.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[우크라이나 경찰, 신용카드 정보 노리던 피싱 공격단 검거]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104993&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104993&amp;page=1&amp;kind=1</guid>
+            <pubDate>Wed, 23 Feb 2022 02:32:51 GMT</pubDate>
+            <content:encoded><![CDATA[우크라이나 경찰이 사이버 범죄 집단을 검거했다. 이들은 약 7만 명의 카드 사용자들로부터 대량의 카드 정보를 훔쳤다고 한다. 피싱 공격을 위해 가짜 사이트...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/ukra-thumb-0223.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[대형 쿡웨어 업체 마이어에서 데이터 유출 사고 발생]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104992&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104992&amp;page=1&amp;kind=1</guid>
+            <pubDate>Wed, 23 Feb 2022 02:32:51 GMT</pubDate>
+            <content:encoded><![CDATA[미국의 대형 쿡웨어 업체인 마이어(Meyer)에서 정보 유출 사고가 발생했다. 회사는 지난 주부터 직원들에게 “사이버 사건으로 개인정보가 일부 유출됐다”고...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/cook-thumb-0223.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[유명 아동 브랜드 멜리조, 200GB 고객 데이터 노출]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104991&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104991&amp;page=1&amp;kind=1</guid>
+            <pubDate>Wed, 23 Feb 2022 02:32:51 GMT</pubDate>
+            <content:encoded><![CDATA[아동 럭셔리 브랜드인 멜리조(Melijoe)에서 대형 정보 노출 사고가 발생했다. 아동을 포함해 고객 20만여 명의 개인정보가 노출된 것으로 보이는데, 용...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/kids-thumb-0223.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[중국의 APT10, 대만의 금융 무역 산업 겨냥해]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104990&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104990&amp;page=1&amp;kind=1</guid>
+            <pubDate>Wed, 23 Feb 2022 02:32:51 GMT</pubDate>
+            <content:encoded><![CDATA[중국의 APT 단체인 APT10이 지난 해 11월부터 대만의 각종 조직들을 겨냥한 공급망 공격을 실시했다고 대만의 사이버 보안 업체 사이크래프트(CyCra...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/ct-thumb-0223.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[대선 2주 앞으로! 외교·안보·국방 분야 타깃 北 해킹 공격 주의보]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104989&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104989&amp;page=1&amp;kind=1</guid>
+            <pubDate>Wed, 23 Feb 2022 02:32:51 GMT</pubDate>
+            <content:encoded><![CDATA[대선이 2주 앞으로 다가온 가운데 국내 외교 안보 국방분야 교수 및 민간분야 전문가를 겨냥한 북한 배후 소행의 해킹 공격 시도가 연일 포착되고 있다.]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/20220223NORTH-S.JPG" length="0" type="image/JPG"/>
+        </item>
         <item>
             <title><![CDATA[봄을 맞아 조직의 사이버 강화를 꿈꾸는 CEO들이 알아야 할 것]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104963&amp;page=1&amp;kind=1</link>
@@ -32,60 +88,80 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/dark_022201_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[LG, ‘글로벌 초거대 AI 생태계’ 만든다]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104980&amp;page=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104980&amp;page=1&amp;kind=3</guid>
+            <pubDate>Wed, 23 Feb 2022 02:32:51 GMT</pubDate>
+            <content:encoded><![CDATA[LG AI연구원이 지난 22일 다양한 산업 분야의 국내외 13개 기업이 모인 ‘엑스퍼트 AI 얼라이언스(Expert AI Alliance)’를 발족하며, ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/2-215(295).jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SK쉴더스, 정보보호 공시제도 의무화 대비 종합 보안 컨설팅 시행]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104988&amp;page=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104988&amp;page=1&amp;kind=3</guid>
+            <pubDate>Wed, 23 Feb 2022 02:32:51 GMT</pubDate>
+            <content:encoded><![CDATA[SK쉴더스(대표이사 박진효)가 정보보호산업법 개정으로 시행되는 ‘정보보호 공시 의무화’의 대상 기업을 지원하기 위한 정보보호 종합 컨설팅을 실시한다고 23...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/22022301ss.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ETRI, KAIST와 미래 기술 선점 위해 힘 모은다]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104981&amp;page=1&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104981&amp;page=1&amp;kind=2</guid>
+            <pubDate>Wed, 23 Feb 2022 02:32:51 GMT</pubDate>
+            <content:encoded><![CDATA[한국전자통신연구원(ETRI)은 지난 21일 한국과학기술원(KAIST)과 미래 새로운 성장동력인 ‘뉴프런티어 기술’ 공동 연구, 상호 인력 교류, 글로벌 역...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/2-216(295).jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[LG유플러스, 빅데이터 플랫폼으로 고객 불만 미리 없앤다]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104982&amp;page=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104982&amp;page=1&amp;kind=3</guid>
+            <pubDate>Wed, 23 Feb 2022 02:32:51 GMT</pubDate>
+            <content:encoded><![CDATA[LG유플러스는 빅데이터를 활용해 고객 불만을 분석하고 잠재불만까지 예측할 수 있는 솔루션 ‘고객케어플러스’를 고객센터 업무에 적용했다고 밝혔다.]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/2-217(295).jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[디지털 패권, 스마트제조로 혁신의 돌파구를 찾다]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104983&amp;page=1&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104983&amp;page=1&amp;kind=2</guid>
+            <pubDate>Wed, 23 Feb 2022 02:32:51 GMT</pubDate>
+            <content:encoded><![CDATA[정보통신기획평가원(IITP)은 한국산업단지공단, 경남테크노파크와 공동으로 지난 22일 ‘(디지털 패권 신성장 포럼)스마트제조 미래 대응전략’을 개최했다.]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/2-218(295).jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[조폐공사, ICT 전환 책임질 경력직원 채용 나선다]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104984&amp;page=1&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104984&amp;page=1&amp;kind=2</guid>
+            <pubDate>Wed, 23 Feb 2022 02:32:51 GMT</pubDate>
+            <content:encoded><![CDATA[조폐공사는 ICT(정보통신기술) 사업 부문 경력직원(정규직) 13명을 채용하기로 하고 오는 28일부터 3월 8일까지 원서 접수를 받는다고 밝혔다. 채용 예...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[전북도, AI·빅데이터 인력 양성에 산·학·관 총력 결집]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104985&amp;page=1&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104985&amp;page=1&amp;kind=2</guid>
+            <pubDate>Wed, 23 Feb 2022 02:32:51 GMT</pubDate>
+            <content:encoded><![CDATA[4차 산업혁명 시대에 대응하고 미래 먹거리 마련을 위한 AI, 빅데이터 산업 전문인력 양성 사업에 전북도 산·학·관이 머리를 맞댔다. 난 22일 전북도는 ...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[전북도, 2022년 ‘융복합 소프트웨어 강소기업 육성 사업’ 희망 기업 모집공고]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104986&amp;page=1&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104986&amp;page=1&amp;kind=2</guid>
+            <pubDate>Wed, 23 Feb 2022 02:32:51 GMT</pubDate>
+            <content:encoded><![CDATA[전북도는 소프트웨어 기업의 경쟁력 강화하고 관련 산업 육성을 목적으로 추진하는 2022년도 융복합 소프트웨어 강소기업 육성 사업 희망 기업을 모집한다고 밝...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[서울시, 빅데이터 등 527개 직업교육 운영해 여성 취업 돕는다]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104987&amp;page=1&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104987&amp;page=1&amp;kind=2</guid>
+            <pubDate>Wed, 23 Feb 2022 02:32:51 GMT</pubDate>
+            <content:encoded><![CDATA[서울시는 코로나19 장기화에 따른 여성 고용위기 극복을 위해 우먼업 기관을 통해 527개 직업훈련과정 교육생을 모집한다. 교육 과정은 IT/SW, 마케팅/...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[안심스마트점포 테스트베드 입주할 AI·융합보안 기업 찾는다]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104960&amp;page=1&amp;kind=2</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104960&amp;page=1&amp;kind=2</guid>
             <pubDate>Tue, 22 Feb 2022 06:18:58 GMT</pubDate>
             <content:encoded><![CDATA[과학기술정보통신부(장관 임혜숙, 이하 ‘과기정통부’)와 한국인터넷진흥원(원장 이원태, 이하 ‘KISA’)은 ‘안심스마트점포’의 융합보안 기술개발 및 인공지...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/msit_022201_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오픈시 사용자들로부터 170만 달러 NFT 훔친 온라인 공격자들]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104958&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104958&amp;page=1&amp;kind=1</guid>
-            <pubDate>Tue, 22 Feb 2022 02:34:52 GMT</pubDate>
-            <content:encoded><![CDATA[세계 최대의 NFT 거래소인 오픈시(OpenSea)에서 대형 도난 사건이 발생했다. 사용자들이 보유하고 있던 NFT 물품 수십 개가 피싱 공격으로 사라진 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/nft-thumb-0222.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미국 CISA, 무료 사이버 보안 도구와 서비스 공개]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104957&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104957&amp;page=1&amp;kind=1</guid>
-            <pubDate>Tue, 22 Feb 2022 02:34:52 GMT</pubDate>
-            <content:encoded><![CDATA[미국의 사이버 보안 담당 기관인 CISA가 각종 보안 경고와 가이드라인을 발표하면서 무료로 여러 가지 보안 도구와 서비스도 함께 공개했다. CISA는 최근...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/tools-thumb-022.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[새로운 뱅킹 트로이목마, 구글 플레이 통해 퍼져]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104956&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104956&amp;page=1&amp;kind=1</guid>
-            <pubDate>Tue, 22 Feb 2022 02:34:52 GMT</pubDate>
-            <content:encoded><![CDATA[새로운 안드로이드 뱅킹 멀웨어가 구글 플레이 스토어에 출현했다. 이미 5만 번 이상 설치된 것으로 집계되고 있다. 이 멀웨어의 이름은 제노모프(Xenomo...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/bank-thumb-0222.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[익스피다이터스, 랜섬웨어 공격에 마비돼]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104955&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104955&amp;page=1&amp;kind=1</guid>
-            <pubDate>Tue, 22 Feb 2022 02:34:52 GMT</pubDate>
-            <content:encoded><![CDATA[전 세계적인 물류 대기업인 익스피다이터스가 마비됐다. 주말 동안 사이버 공격에 받았으며, 이 때문에 전 세계 곳곳에서 벌어지고 있던 익스피다이터스의 사업 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/logi-thumb0-222.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이란 국영 매체 겨냥한 공격에 삭제형 멀웨어 사용돼]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104954&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104954&amp;page=1&amp;kind=1</guid>
-            <pubDate>Tue, 22 Feb 2022 02:34:52 GMT</pubDate>
-            <content:encoded><![CDATA[지난 1월 이란의 국영 매체에서 사이버 공격이 발생했다. 2021년 7월의 이란 철도 시스템과 화물 서비스를 노린 공격과 10월의 전국 주유소를 마비시킨 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/iran-thumb-022.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NIPA 신임 원장에 허성욱 과기정통부 네트워크정책실장 임명]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104951&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104951&amp;page=1&amp;kind=2</guid>
-            <pubDate>Tue, 22 Feb 2022 00:55:58 GMT</pubDate>
-            <content:encoded><![CDATA[과학기술정보통신부(장관 임혜숙, 이하 ‘과기정통부’)는 정보통신산업진흥원(NIPA)의 신임원장에 허성욱 과기정통부 네트워크정책실장을 2월 22일자로 임명한...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/nipa_022201_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[KISTI, ‘충북대-KISTI HPC·AI 겨울학교’ 개최]]></title>
@@ -159,81 +235,6 @@
             <guid>https://www.boannews.com/media/view.asp?idx=104935&amp;page=1&amp;kind=2</guid>
             <pubDate>Tue, 22 Feb 2022 03:17:00 GMT</pubDate>
             <content:encoded><![CDATA[방위사업청과 국방기술품질원은 민·군규격표준화사업 신규 연구과제 발굴을 위한 수요조사를 군, 학계, 연구기관, 산업체를 대상으로 오는 3월 21일까지 실시한...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[과기정통부, 디지털 대전환시대 선도할 ICT 창업·벤처기업 지원]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104937&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104937&amp;page=1&amp;kind=2</guid>
-            <pubDate>Tue, 22 Feb 2022 03:17:00 GMT</pubDate>
-            <content:encoded><![CDATA[과학기술정보통신부는 지난 21일 정보통신기술(ICT) 분야 창업·벤처 지원사업인 ‘케이-글로벌 프로젝트’의 2022년 사업을 통합 안내하고, 오는 23일 ...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[LG U+, MWC 바르셀로나 2022에서 글로벌 ‘빅테크’ 만난다]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104946&amp;page=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104946&amp;page=1&amp;kind=3</guid>
-            <pubDate>Tue, 22 Feb 2022 03:17:01 GMT</pubDate>
-            <content:encoded><![CDATA[LG유플러스는 오는 28일부터 3월 3일까지 스페인 바르셀로나에서 열리는 ‘MWC 바르셀로나 2022’에 황현식 대표를 비롯한 임직원 참관단을 보내 글로벌...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[행안부-지자체, 국가지점번호판 관리실태 전국 일제조사 추진]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104939&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104939&amp;page=1&amp;kind=2</guid>
-            <pubDate>Tue, 22 Feb 2022 03:17:01 GMT</pubDate>
-            <content:encoded><![CDATA[행정안전부는 전국 지자체와 함께 올해부터 2026년까지 5년 동안 전국에 설치된 ‘국가지점번호판 관리실태 일제조사’를 실시하고, ‘국가지점번호판 현장조사 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/2-195(295).jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SKT, MWC22서 ‘미래 ICT 진화’ 선보인다]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104943&amp;page=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104943&amp;page=1&amp;kind=3</guid>
-            <pubDate>Tue, 22 Feb 2022 03:17:01 GMT</pubDate>
-            <content:encoded><![CDATA[SK텔레콤이 오는 28일 스페인 바르셀로나에서 개막하는 MWC22에서 메타버스·AI·UAM 등 핵심 서비스를 통해 미래 ICT 진화 방향을 전 세계에 알리...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/2-198(295).jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[고용정보원, 고용·노동 빅데이터 알고리즘 및 시각화 경진대회 성료]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104941&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104941&amp;page=1&amp;kind=2</guid>
-            <pubDate>Tue, 22 Feb 2022 02:34:52 GMT</pubDate>
-            <content:encoded><![CDATA[한국고용정보원은 지난 18일 ‘고용·노동 빅데이터 알고리즘 및 시각화 경진대회’ 시상식을 개최했다. 이번 대회는 고용·노동 빅데이터에 대한 인지도 제고 및...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[KT, 3년 만에 MWC 참여 ‘디지털 혁신의 미래’ 선보인다]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104942&amp;page=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104942&amp;page=1&amp;kind=3</guid>
-            <pubDate>Tue, 22 Feb 2022 02:34:52 GMT</pubDate>
-            <content:encoded><![CDATA[국내 대표 통신기업을 넘어 디지털플랫폼 기업으로 발돋움하고 있는 KT가 3년 만에 이동통신 박람회 모바일 월드 콩그레스(MWC)에 참여한다. KT는 이번 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/2-197(295).jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SKT, 5G 장비 개발의 패러다임 전환 이끈다]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104944&amp;page=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104944&amp;page=1&amp;kind=3</guid>
-            <pubDate>Tue, 22 Feb 2022 02:34:52 GMT</pubDate>
-            <content:encoded><![CDATA[SK텔레콤은 MWC 22에서 5G 통신 인프라의 혁신에 필요한 가상화 기술 개발 성과를 공개한다. SKT는 삼성전자·에릭슨·노키아와 5G 무선 네트워크 기...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/2-199(295).jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LG유플러스·에이스랩, 빅데이터와 AI로 자율주행차 이상 상태 잡아낸다]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104945&amp;page=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104945&amp;page=1&amp;kind=3</guid>
-            <pubDate>Tue, 22 Feb 2022 02:34:52 GMT</pubDate>
-            <content:encoded><![CDATA[LG유플러스는 국내 최고의 자율주행 솔루션 기업 에이스랩과 함께 빅데이터와 AI를 기반으로 자율주행차량 이상 여부를 진단하는 차세대 기술을 개발한다고 밝혔...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/2-200(295).jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[광주시, 지능형 교통 상황 모니터링 기술 개발]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104947&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104947&amp;page=1&amp;kind=2</guid>
-            <pubDate>Tue, 22 Feb 2022 02:34:52 GMT</pubDate>
-            <content:encoded><![CDATA[광주광역시는 행정안전부에서 주관하는 재난안전 연구개발사업을 통해 ‘도시 내 도로시설 교통 상황을 실시간 감지할 수 있는 시스템 및 인공지능 기반 데이터 분...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[광주 AI 창업캠프, 인공지능 창업·사업화 메카 자리매김]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104948&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104948&amp;page=1&amp;kind=2</guid>
-            <pubDate>Tue, 22 Feb 2022 02:08:10 GMT</pubDate>
-            <content:encoded><![CDATA[인공지능 중심 도시를 표방한 광주광역시가 운영 중인 ‘인공지능(AI) 창업캠프가 인공지능 관련 창업과 사업화의 핵심 공간으로 자리를 잡아가고 있다. 이에 ...]]></content:encoded>
         </item>
     </channel>
 </rss>
