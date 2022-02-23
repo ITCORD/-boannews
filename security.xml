@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-02-23T07:16:52.139Z</updated>
+    <updated>2022-02-23T08:20:02.004Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[골드스푼, 개인정보보호법 위반으로 약 1억 4,839만원 제재]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=105000&amp;page=1&amp;mkind=1&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=105000&amp;page=1&amp;mkind=1&amp;kind=2"/>
+        <updated>2022-02-23T08:18:01.396Z</updated>
+        <content type="html"><![CDATA[개인정보보호위원회(위원장 윤종인, 이하 ‘개인정보위’)는 2월 23일(수) 제4회 전체회의에서 데이팅앱 ‘골드스푼’을 운영하는 트리플콤마에 대해 총 1억 2,979만 원의 과징금과 1,860만 원의 과태료를 부과하기로 결정했다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[깃허브, 소프트웨어 공급망 보안의 첫 걸음은 정보 공유라는 믿음으로]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104999&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104999&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-02-23T08:18:01.397Z</updated>
+        <content type="html"><![CDATA[소프트웨어 공유 플랫폼인 깃허브(GitHub)가 ‘깃허브 어드바이저리 데이터베이스(GitHub Advisory Database, GAD)’라는 통합 보안 자문 플랫폼을 공개했다. 이 GAD는 깃허브의 자동 소프트웨어 디펜던시 확인 시스템을 가동시키는 데 필요한 방대한 ...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[개인정보위, 카카오에 개인정보 처리실태 개선 권고]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=104998&amp;page=1&amp;mkind=1&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=104998&amp;page=1&amp;mkind=1&amp;kind=2"/>
+        <updated>2022-02-23T08:18:01.401Z</updated>
+        <content type="html"><![CDATA[개인정보보호위원회(위원장 윤종인, 이하 ‘개인정보위’)는 2월 23일(수) 정부서울청사에서 제4회 전체회의를 열고, 카카오에게 카카오맵 서비스 제공 과정에서 드러난 사생활 침해 우려가 있는 개인정보처리 실태를 개선하도록 권고했다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[KISIA, 대학생 기자단 2기 모집]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=104997&amp;page=1&amp;mkind=1&amp;kind=3</id>
@@ -102,26 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=104960&amp;page=1&amp;mkind=1&amp;kind=2"/>
         <updated>2022-02-22T13:19:50.666Z</updated>
         <content type="html"><![CDATA[과학기술정보통신부(장관 임혜숙, 이하 ‘과기정통부’)와 한국인터넷진흥원(원장 이원태, 이하 ‘KISA’)은 ‘안심스마트점포’의 융합보안 기술개발 및 인공지능 학습 고도화를 위해 ‘스마트점포 보안기술 가늠터(테스트베드)’에 입주를 희망하는 AI·융합보안 기업을 공모한다고...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[경북개발공사, 2021년 개인정보관리수준진단 ‘최고 등급’ 획득]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104927&amp;page=1&amp;mkind=1&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104927&amp;page=1&amp;mkind=1&amp;kind=2"/>
-        <updated>2022-02-22T08:20:09.313Z</updated>
-        <content type="html"><![CDATA[경상북도개발공사는 개인정보보호위원회(국무총리 직속기관) 주관 ‘2021년 개인정보관리수준진단’에서 최고 등급을 획득해 개인정보보호 우수기관으로 선정됐다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오픈시 사용자들로부터 170만 달러 NFT 훔친 온라인 공격자들]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104958&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104958&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-02-22T08:20:09.315Z</updated>
-        <content type="html"><![CDATA[세계 최대의 NFT 거래소인 오픈시(OpenSea)에서 대형 도난 사건이 발생했다. 사용자들이 보유하고 있던 NFT 물품 수십 개가 피싱 공격으로 사라진 것이다. 도난당한 NFT의 가치를 전부 합치면 170만 달러가 넘는다고 한다. 하지만 오픈시 웹사이트나 플랫폼 자체...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미국 CISA, 무료 사이버 보안 도구와 서비스 공개]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104957&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104957&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-02-22T06:19:18.004Z</updated>
-        <content type="html"><![CDATA[미국의 사이버 보안 담당 기관인 CISA가 각종 보안 경고와 가이드라인을 발표하면서 무료로 여러 가지 보안 도구와 서비스도 함께 공개했다. CISA는 최근 정보 탈취를 목적으로 한 사이버 공격이 이어지고 있다고 경고하면서, 모든 조직들이 대응력과 복구력, 악성 행위의 ...]]></content>
     </entry>
 </feed>

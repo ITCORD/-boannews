@@ -4,9 +4,23 @@
         <title>보안뉴스 ─ 국제</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Feb 2022 07:16:52 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Feb 2022 08:20:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[세상 모든 곳에 존재하는 오픈소스만 잡아도 보안 높게 유지된다]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104962&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104962&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
+            <pubDate>Wed, 23 Feb 2022 08:19:28 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/view.asp?idx=104962&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
+					
+					<img src="/media/upFiles2/2022/02/brick-thumb-0222.jpg" alt="" class="news_img" height="70">
+					
+					<span class="news_txt">세상 모든 곳에 존재하는 오픈소스만 잡아도 보안 높게 유지된다 </span>
+					</a><br>
+					<a href="/media/view.asp?idx=104962&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">오픈소스 소프트웨어는 어디에나 존재한다. 기술 혁신의 촉진제이기도 하며, 애플리케이션 마감 시간을 실질적으로 단축시켜주는 일등공신이기도 하다. 동시에 각종 보안 ...</a> <span class="news_writer">문가용 기자 | 2022년 02월 23일 17:10</span>]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/brick-thumb-0222.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[깃허브, 소프트웨어 공급망 보안의 첫 걸음은 정보 공유라는 믿음으로]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104999&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
@@ -272,20 +286,6 @@
 					</a><br>
 					<a href="/media/view.asp?idx=104916&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">미국과 영국의 정부가 러시아의 사이버전 행위를 비판하고 나섰다. 얼마 전 우크라이나에서 발생한 대규모 디도스 및 사이트 위변조 공격이 러시아의 짓이라는 것이다. ...</a> <span class="news_writer">문가용 기자 | 2022년 02월 21일 11:35</span>]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/us-thumb-0221.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[하이브 랜섬웨어 마스터키 추출에 성공한 보안 전문가들]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104915&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104915&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
-            <pubDate>Mon, 21 Feb 2022 02:38:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/view.asp?idx=104915&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
-					
-					<img src="/media/upFiles2/2022/02/mast-thumb-0221.jpg" alt="" class="news_img" height="70">
-					
-					<span class="news_txt">하이브 랜섬웨어 마스터키 추출에 성공한 보안 전문가들</span>
-					</a><br>
-					<a href="/media/view.asp?idx=104915&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">악명 높은 하이브(Hive) 랜섬웨어의 알고리즘을 분석한 보안 전문가들이 암호화 된 데이터를 복구시켜주는 마스터키를 추출하는 데 성공했다. 공격자의 비밀 키 정보...</a> <span class="news_writer">문가용 기자 | 2022년 02월 21일 11:34</span>]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/mast-thumb-0221.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
