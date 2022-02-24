@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Feb 2022 01:01:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Feb 2022 02:14:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -86,6 +86,22 @@
             <pubDate>Wed, 23 Feb 2022 02:32:51 GMT</pubDate>
             <content:encoded><![CDATA[우크라이나 경찰이 사이버 범죄 집단을 검거했다. 이들은 약 7만 명의 카드 사용자들로부터 대량의 카드 정보를 훔쳤다고 한다. 피싱 공격을 위해 가짜 사이트...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/ukra-thumb-0223.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Synology, DSM 7.1 베타 버전 출시]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105028&amp;page=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105028&amp;page=1&amp;kind=3</guid>
+            <pubDate>Thu, 24 Feb 2022 02:12:17 GMT</pubDate>
+            <content:encoded><![CDATA[시놀로지(Synology)가 시스템 관리자가 확장된 기능을 테스트할 수 있는 DiskStation Manager 7.1 베타 릴리스를 발표했다. DSM 7...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/22022401ss.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[파수, 악성메일 모의훈련 서비스 ‘마인드 셋’ 출시]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105030&amp;page=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105030&amp;page=1&amp;kind=3</guid>
+            <pubDate>Thu, 24 Feb 2022 02:12:17 GMT</pubDate>
+            <content:encoded><![CDATA[파수(이하 파수, 대표 조규곤)가 임직원들의 보안 의식 향상을 위한 악성메일 모의훈련 서비스 ‘마인드 셋(Mind-SAT)’을 출시했다. 마인드 셋은 최근...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/fasoo_022401_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[마이크로소프트, 멀티 클라우드 환경 보호하는 새로운 보안 솔루션 공개]]></title>
@@ -220,21 +236,6 @@
             <guid>https://www.boannews.com/media/view.asp?idx=105006&amp;page=1&amp;kind=2</guid>
             <pubDate>Thu, 24 Feb 2022 00:59:49 GMT</pubDate>
             <content:encoded><![CDATA[경남도는 세계적 정보통신기업인 엔에이치엔㈜(NHN)과 함께 도내 우수 정보통신인재를 양성한다. NHN은 정보통신인재를 양성하는 자체 교육기관인 ‘NHN 아...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[국토부, ‘2022 교통사고 사망자 감소 대책’ 범정부 수립·추진]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105025&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105025&amp;page=1&amp;kind=2</guid>
-            <pubDate>Thu, 24 Feb 2022 00:59:49 GMT</pubDate>
-            <content:encoded><![CDATA[국토교통부는 교통사고로부터 국민의 소중한 생명을 지키고 교통안전 선진국으로 도약하기 위해 행정안전부 및 경찰청 등 관계기관과 함께 ‘2022 교통사고 사망...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[KISA, ‘노사공동 ESG 경영 선포식’ 개최]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105005&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105005&amp;page=1&amp;kind=2</guid>
-            <pubDate>Wed, 23 Feb 2022 09:14:34 GMT</pubDate>
-            <content:encoded><![CDATA[한국인터넷진흥원(KISA, 원장 이원태)은 한국인터넷진흥원노동조합(위원장 장재영)과 ESG 경영 가속화를 위한 ‘노사공동 ESG 경영 선포식’을 2월 23...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/kisa2_022301_main.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

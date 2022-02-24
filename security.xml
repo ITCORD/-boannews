@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-02-24T01:01:43.283Z</updated>
+    <updated>2022-02-24T02:14:25.507Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[KT, 독자 개발 양자암호통신 품질평가 기준 ITU 국제표준 세계 최초 승인]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=105016&amp;page=1&amp;mkind=1&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=105016&amp;page=1&amp;mkind=1&amp;kind=3"/>
+        <updated>2022-02-24T02:12:36.703Z</updated>
+        <content type="html"><![CDATA[KT가 독자 개발한 양자암호통신 서비스 품질평가 기준이 국제전기통신연합(ITU)으로부터 세계 최초로 국제 표준 승인을 받았다고 밝혔다. 양자암호통신은 양자 기술에 기반을 둔 차세대 보안 기술로 각광받고 있다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[KISA, ‘노사공동 ESG 경영 선포식’ 개최]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=105005&amp;page=1&amp;mkind=1&amp;kind=2</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=104991&amp;page=1&amp;mkind=1&amp;kind=1"/>
         <updated>2022-02-23T02:33:10.396Z</updated>
         <content type="html"><![CDATA[아동 럭셔리 브랜드인 멜리조(Melijoe)에서 대형 정보 노출 사고가 발생했다. 아동을 포함해 고객 20만여 명의 개인정보가 노출된 것으로 보이는데, 용량으로 따지면 200GB가 넘는다고 한다. 멜리조 측에서 아마존 S3 버킷을 제대로 설정하지 않아서 발생한 일로, ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[중국의 APT10, 대만의 금융 무역 산업 겨냥해]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104990&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104990&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-02-23T02:33:10.399Z</updated>
-        <content type="html"><![CDATA[중국의 APT 단체인 APT10이 지난 해 11월부터 대만의 각종 조직들을 겨냥한 공급망 공격을 실시했다고 대만의 사이버 보안 업체 사이크래프트(CyCraft)가 발표했다. 대만의 금융 기관들이 사용하는 소프트웨어 시스템을 노린 공격이었다고 하며, 이는 캐시판다 작전(...]]></content>
     </entry>
 </feed>
