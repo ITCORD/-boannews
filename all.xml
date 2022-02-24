@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Feb 2022 11:15:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Feb 2022 12:28:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -310,14 +310,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/compe-thumb-0220.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[2022년 보안 업계가 주목할 분야는 소프트웨어 공급망 보안 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104861&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104861&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Fri, 18 Feb 2022 09:15:12 GMT</pubDate>
-            <content:encoded><![CDATA[사이버 공간을 위협하는 것들이 매일 새롭게 등장하는 것만 같다. 그리고 그 여파도 점점 더 커지고 있다. 제로데이 취약점들이 등장하는 빈도도 높아지고 있고, 물리...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/log-thumb-00217.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[애플리케이션 보안, 지난 1년 동안 나아지지 않았다 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104921&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104921&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
@@ -395,6 +387,14 @@
             <pubDate>Thu, 24 Feb 2022 10:17:02 GMT</pubDate>
             <content:encoded><![CDATA[그것 참 이상하다. 피싱 피해 사례에 대한 소식이 그렇게 많이 나오고, 피싱 관련 교육이 그렇게나 지겹게 진행되는데도 상황이 전혀 개선되지 않고 있는 듯하니 말이...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/phi-thumb-0223.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[대만, 중국 해킹 공격에 반격하기 위한 기틀 마련 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104882&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104882&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Thu, 24 Feb 2022 12:26:27 GMT</pubDate>
+            <content:encoded><![CDATA[대만이 중국 해킹 공격에 대한 대응책을 마련하기 시작했다. 국회 내에서 중국 산업 스파이들의 공격 행위를 겨냥한 국가안보법 개정이 제의되었다. 중국의 해커들은 지...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/tai-thumb-00218.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[러시아와 우크라이나가 싸우니 OT 담당자들이 벌벌 떨어 (보안뉴스 ─ SECURITY)]]></title>
