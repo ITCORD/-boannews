@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Feb 2022 05:16:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Feb 2022 06:21:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[산업기술 유출 예방·대응 등을 위해 10개 부처 맞손 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105029&amp;page=1&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105029&amp;page=1&amp;kind=2</guid>
+            <pubDate>Thu, 24 Feb 2022 06:19:26 GMT</pubDate>
+            <content:encoded><![CDATA[산업기술을 보호하기 위해 지식재산 보호집행 관련 10개 부처가 손잡고 공동 대응에 나섰다. 대통령 소속 국가지식재산위원회는 2월 24일(목), 외교부, 문...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/20987906_main.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[우크라이나, 데이터 삭제 공격에 시달림 받고 있어 (보안뉴스 ─ 전체기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105035&amp;page=1&amp;kind=1</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 23 Feb 2022 08:17:40 GMT</pubDate>
             <content:encoded><![CDATA[국내외 기업보안 분야 종사자들의 모임인 한국기업보안협의회(KCMC: Korea Corporate Security Council)가 지난 16일 온라인으로 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/20220223KCMC-S.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[2021년 가상자산 세탁 86억 달러... 최근 5년간 330억 달러 세탁했다 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105001&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105001&amp;page=1&amp;kind=1</guid>
-            <pubDate>Wed, 23 Feb 2022 08:17:40 GMT</pubDate>
-            <content:encoded><![CDATA[2021년 사이버 범죄자들은 86억 달러(한화 약 10조 2,641억원)의 가상자산을 세탁했으며, 디파이(DeFi) 프로토콜을 이용한 자금 세탁 비중이 증...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/coin_022301_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Synology, DSM 7.1 베타 버전 출시 (보안뉴스 ─ 전체기사)]]></title>
@@ -262,14 +262,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/used-thumb-0218.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[글자의 민감한 부분을 가려주는 픽셀레이션, “강력 비추” (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104858&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104858&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Fri, 18 Feb 2022 01:00:38 GMT</pubDate>
-            <content:encoded><![CDATA[정보를 공유할 때, 민감한 부분만 골라서 흐릿하게 처리하는 기법은 꽤나 오래 전부터 사용되어 왔었다. 보안 전문가 댄 페트로(Dan Petro)는 이것이 늘 불편...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/text-thumb-0217.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[주말판] 원격 근무 시대에 떠오르는 SASE, 우리 회사에 잘 맞는 걸 고르려면? (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104904&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104904&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
@@ -314,7 +306,7 @@
             <link>https://www.boannews.com/media/view.asp?idx=104860&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104860&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
             <pubDate>Fri, 18 Feb 2022 18:18:11 GMT</pubDate>
-            <content:encoded><![CDATA[2월 10일 발간된 ‘Weekly Security Premium Report’ 제38호에는 &lt;보안 심층 리포트&gt; 코너에서 최근 IT 및 보안 분야에서 ...]]></content:encoded>
+            <content:encoded><![CDATA[2월 17일 발간된 ‘Weekly Security Premium Report’ 제38호에는 &lt;보안 심층 리포트&gt; 코너에서 최근 IT 및 보안 분야에서 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/20220217report-sm.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
@@ -395,6 +387,21 @@
             <guid>https://www.boannews.com/media/view.asp?idx=104901&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
             <pubDate>Wed, 23 Feb 2022 13:20:06 GMT</pubDate>
             <content:encoded><![CDATA[태백시는 교통사고로부터 시민의 생명과 재산을 보호하고 안전한 교통환경을 조성하기 위해 교통안전 시행계획을 수립 추진한다. 교통사고 사망자를 줄이기 위해 시는 교통...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[대만, 중국 해킹 공격에 반격하기 위한 기틀 마련 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104882&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104882&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Thu, 24 Feb 2022 06:19:35 GMT</pubDate>
+            <content:encoded><![CDATA[대만이 중국 해킹 공격에 대한 대응책을 마련하기 시작했다. 국회 내에서 중국 산업 스파이들의 공격 행위를 겨냥한 국가안보법 개정이 제의되었다. 중국의 해커들은 지...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/tai-thumb-00218.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NSA의 이퀘이젼그룹과 관련된 리눅스 백도어의 세부 내용 공개돼 (보안뉴스 ─ SECURITY)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105033&amp;page=1&amp;mkind=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105033&amp;page=1&amp;mkind=1&amp;kind=1</guid>
+            <pubDate>Thu, 24 Feb 2022 06:19:44 GMT</pubDate>
+            <content:encoded><![CDATA[중국 팡구랩(Pangu Lab) 소속 연구원들이 이퀘이젼그룹(Equation Group)이라고 알려진 해킹 조직이 사용하는 리눅스 백도어에 대한 세부 내용을 발표했다. 이 백도어에는 Bvp47이라는 이름이 붙었다. 백도어가 발견된 건 2013년으로, 중국 정부 기관들에...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[드리덱스 멀웨어, 엔트로피 랜섬웨어 퍼트려 (보안뉴스 ─ SECURITY)]]></title>
@@ -507,13 +514,6 @@
             <guid>https://www.boannews.com/media/view.asp?idx=104997&amp;page=1&amp;mkind=1&amp;kind=3</guid>
             <pubDate>Wed, 23 Feb 2022 07:15:10 GMT</pubDate>
             <content:encoded><![CDATA[한국정보보호산업협회(KISIA, 회장 이동범)는 국가 차세대 핵심 산업인 정보보호산업을 널리 알리고 저변 확대에 기여할 KISIA 대학생 기자단(Kisia Security Reporter)을 모집한다고 밝혔다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[KISA, 온라인광고 계약 전 확인하세요 (보안뉴스 ─ SECURITY)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104996&amp;page=1&amp;mkind=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104996&amp;page=1&amp;mkind=1&amp;kind=2</guid>
-            <pubDate>Wed, 23 Feb 2022 07:15:10 GMT</pubDate>
-            <content:encoded><![CDATA[한국인터넷진흥원(KISA, 원장 이원태)은 과학기술정보통신부(장관 임혜숙), 온라인광고분쟁조정위원회(위원장 최승원)와 ‘2021 온라인광고 분쟁조정 사례집’ 및 ‘온라인광고 계약안내서’를 발간했다고 2월 23일(수) 밝혔다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[소형 어선도 이제 바다 내비게이션 단말기 사용할 수 있다 (보안뉴스 ─ IT)]]></title>

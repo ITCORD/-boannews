@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Feb 2022 05:16:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Feb 2022 06:21:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,14 +30,6 @@
             <pubDate>Sat, 19 Feb 2022 07:14:07 GMT</pubDate>
             <content:encoded><![CDATA[사이버 범죄자들과 국가 지원 해커들이 점점 더 방어 전략에 적응해가고 있고, 그래서 공격의 효율성이 높아지고 있다는 연구 결과가 두 개 발표됐다. 하나는 보안 업...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/used-thumb-0218.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[글자의 민감한 부분을 가려주는 픽셀레이션, “강력 비추”]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104858&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104858&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Fri, 18 Feb 2022 01:00:38 GMT</pubDate>
-            <content:encoded><![CDATA[정보를 공유할 때, 민감한 부분만 골라서 흐릿하게 처리하는 기법은 꽤나 오래 전부터 사용되어 왔었다. 보안 전문가 댄 페트로(Dan Petro)는 이것이 늘 불편...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/text-thumb-0217.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[주말판] 원격 근무 시대에 떠오르는 SASE, 우리 회사에 잘 맞는 걸 고르려면?]]></title>
@@ -84,7 +76,7 @@
             <link>https://www.boannews.com/media/view.asp?idx=104860&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104860&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
             <pubDate>Fri, 18 Feb 2022 18:18:11 GMT</pubDate>
-            <content:encoded><![CDATA[2월 10일 발간된 ‘Weekly Security Premium Report’ 제38호에는 &lt;보안 심층 리포트&gt; 코너에서 최근 IT 및 보안 분야에서 ...]]></content:encoded>
+            <content:encoded><![CDATA[2월 17일 발간된 ‘Weekly Security Premium Report’ 제38호에는 &lt;보안 심층 리포트&gt; 코너에서 최근 IT 및 보안 분야에서 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/20220217report-sm.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
@@ -165,6 +157,14 @@
             <guid>https://www.boannews.com/media/view.asp?idx=104901&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
             <pubDate>Wed, 23 Feb 2022 13:20:06 GMT</pubDate>
             <content:encoded><![CDATA[태백시는 교통사고로부터 시민의 생명과 재산을 보호하고 안전한 교통환경을 조성하기 위해 교통안전 시행계획을 수립 추진한다. 교통사고 사망자를 줄이기 위해 시는 교통...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[대만, 중국 해킹 공격에 반격하기 위한 기틀 마련]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104882&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104882&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Thu, 24 Feb 2022 06:19:35 GMT</pubDate>
+            <content:encoded><![CDATA[대만이 중국 해킹 공격에 대한 대응책을 마련하기 시작했다. 국회 내에서 중국 산업 스파이들의 공격 행위를 겨냥한 국가안보법 개정이 제의되었다. 중국의 해커들은 지...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/tai-thumb-00218.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
