@@ -4,9 +4,25 @@
         <title>보안뉴스 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Feb 2022 08:21:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Feb 2022 09:18:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[데이터 침해 사고의 비용, 너그럽게 계산하면 나중에 눈물 흘린다]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105041&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105041&amp;page=1&amp;kind=1</guid>
+            <pubDate>Thu, 24 Feb 2022 09:16:04 GMT</pubDate>
+            <content:encoded><![CDATA[정문에 자물쇠를 단단히 걸어 잠그면 집안에 있는 귀중품이 안전하게 보호될 확률이 올라간다는 사실을 알고 있다면, 당신은 자물쇠를 채울 것인가, 말 것인가?...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/lock-thumb-0224.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[코로나19 자가검사키트 및 정책지원금 사칭한 보이스피싱 판친다]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105039&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105039&amp;page=1&amp;kind=1</guid>
+            <pubDate>Thu, 24 Feb 2022 09:16:04 GMT</pubDate>
+            <content:encoded><![CDATA[최근 코로나19(오미크론) 확진자 급증에 따른 국민들의 불안감 증폭을 악용해, 자가검사키트 공급·구매 등을 사유로 개인정보 입력을 유도한 후 자금을 편취하...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/21071894_main.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Weekly Security Premium Report 제39호 발간! 해커들의 최신 공격 트렌드와 방어전략]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105036&amp;page=1&amp;kind=3</link>
@@ -70,22 +86,6 @@
             <pubDate>Thu, 24 Feb 2022 03:14:40 GMT</pubDate>
             <content:encoded><![CDATA[호드 웹메일(Horde Webmail)이라는 서비스에서 오래된 취약점이 뒤늦게 발견됐다. 이 취약점을 익스플로잇 하는 데 성공할 경우 피해자의 이메일 계정...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/mail-thumb-0224.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[디지털 융합산업 보안 경쟁력 강화 위한 ‘정보보호 인재양성’ 추진]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105003&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105003&amp;page=1&amp;kind=2</guid>
-            <pubDate>Wed, 23 Feb 2022 09:14:34 GMT</pubDate>
-            <content:encoded><![CDATA[과학기술정보통신부(이하 ‘과기정통부’, 장관 임혜숙) 조경식 제2차관은 2월 23일(수) 순천향대학교 융합보안대학원(충남 아산시)을 방문해 디지털뉴딜을 뒷...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/DSC_8538_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[피싱 공격에 대한 교육 시간은 늘어나는데 효과는 오히려 줄어든다?]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105004&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105004&amp;page=1&amp;kind=1</guid>
-            <pubDate>Wed, 23 Feb 2022 09:14:34 GMT</pubDate>
-            <content:encoded><![CDATA[그것 참 이상하다. 피싱 피해 사례에 대한 소식이 그렇게 많이 나오고, 피싱 관련 교육이 그렇게나 지겹게 진행되는데도 상황이 전혀 개선되지 않고 있는 듯하...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/phi-thumb-0223.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Synology, DSM 7.1 베타 버전 출시]]></title>
