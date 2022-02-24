@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-02-24T07:17:32.556Z</updated>
+    <updated>2022-02-24T08:21:29.553Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[우크라이나, 데이터 삭제 공격에 시달림 받고 있어]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=105035&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=105035&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-02-24T08:19:38.820Z</updated>
+        <content type="html"><![CDATA[전쟁의 분위기가 감돌고 있는 우크라이나의 사이버 공간은 이미 파괴 전차들이 굴러다니고 있다. 러시아로부터 온 것으로 보이는 삭제형 멀웨어들이 많은 조직들에 피해를 남기고 있는 것이다. 보안 업체 이셋(ESET)에 의하면 이미 수백 대의 시스템에 이 삭제형 멀웨어가 설치...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[삼성 스마트폰 1억여 대에서 암호화 깨는 취약점 발견돼]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=105034&amp;page=1&amp;mkind=1&amp;kind=1</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=104999&amp;page=1&amp;mkind=1&amp;kind=1"/>
         <updated>2022-02-23T08:18:01.397Z</updated>
         <content type="html"><![CDATA[소프트웨어 공유 플랫폼인 깃허브(GitHub)가 ‘깃허브 어드바이저리 데이터베이스(GitHub Advisory Database, GAD)’라는 통합 보안 자문 플랫폼을 공개했다. 이 GAD는 깃허브의 자동 소프트웨어 디펜던시 확인 시스템을 가동시키는 데 필요한 방대한 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[개인정보위, 카카오에 개인정보 처리실태 개선 권고]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104998&amp;page=1&amp;mkind=1&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104998&amp;page=1&amp;mkind=1&amp;kind=2"/>
-        <updated>2022-02-23T08:18:01.401Z</updated>
-        <content type="html"><![CDATA[개인정보보호위원회(위원장 윤종인, 이하 ‘개인정보위’)는 2월 23일(수) 정부서울청사에서 제4회 전체회의를 열고, 카카오에게 카카오맵 서비스 제공 과정에서 드러난 사생활 침해 우려가 있는 개인정보처리 실태를 개선하도록 권고했다.]]></content>
     </entry>
 </feed>
