@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Feb 2022 21:17:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Feb 2022 22:18:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -358,20 +358,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/est_022001_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[전남도, 드론 활용 스마트 행정 추진한다 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104896&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104896&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
-            <pubDate>Wed, 23 Feb 2022 09:14:51 GMT</pubDate>
-            <content:encoded><![CDATA[전남도는 3월부터 자체 보유 드론을 활용, 도와 시군 역점사업지구 등의 항공영상을 촬영해 평면입체 공간정보로 구축해 각종 행정 업무를 지원한다고 밝혔다.]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/2-170(295).jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[세상 모든 곳에 존재하는 오픈소스만 잡아도 보안은 높게 유지된다 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104962&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104962&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Thu, 24 Feb 2022 07:15:33 GMT</pubDate>
             <content:encoded><![CDATA[오픈소스 소프트웨어는 어디에나 존재한다. 기술 혁신의 촉진제이기도 하며, 애플리케이션 마감 시간을 실질적으로 단축시켜주는 일등공신이기도 하다. 동시에 각종 보안 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/brick-thumb-0222.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[전남도, 드론 활용 스마트 행정 추진한다 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104896&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104896&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
+            <pubDate>Wed, 23 Feb 2022 09:14:51 GMT</pubDate>
+            <content:encoded><![CDATA[전남도는 3월부터 자체 보유 드론을 활용, 도와 시군 역점사업지구 등의 항공영상을 촬영해 평면입체 공간정보로 구축해 각종 행정 업무를 지원한다고 밝혔다.]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/2-170(295).jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[피싱 공격에 대한 교육 시간은 늘어나는데 효과는 오히려 줄어든다? (보안뉴스 ─ 가장 많이 본 기사)]]></title>
