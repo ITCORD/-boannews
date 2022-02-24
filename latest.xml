@@ -4,9 +4,49 @@
         <title>보안뉴스 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Feb 2022 02:14:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Feb 2022 03:16:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우크라이나, 데이터 삭제 공격에 시달림 받고 있어]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105035&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105035&amp;page=1&amp;kind=1</guid>
+            <pubDate>Thu, 24 Feb 2022 03:14:40 GMT</pubDate>
+            <content:encoded><![CDATA[전쟁의 분위기가 감돌고 있는 우크라이나의 사이버 공간은 이미 파괴 전차들이 굴러다니고 있다. 러시아로부터 온 것으로 보이는 삭제형 멀웨어들이 많은 조직들에...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/del-thumb-0224.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[삼성 스마트폰 1억여 대에서 암호화 깨는 취약점 발견돼]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105034&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105034&amp;page=1&amp;kind=1</guid>
+            <pubDate>Thu, 24 Feb 2022 03:14:40 GMT</pubDate>
+            <content:encoded><![CDATA[삼성 스마트폰이 민감한 정보를 암호화 하는 방식에서 중대한 취약점이 발견됐다. 텔아비브대학과 존스홉킨스대학의 연구원들에 의하면 ‘부끄러울 정도로 좋지 않은...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/sam-thumb-0224.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NSA의 이퀘이젼그룹과 관련된 리눅스 백도어의 세부 내용 공개돼]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105033&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105033&amp;page=1&amp;kind=1</guid>
+            <pubDate>Thu, 24 Feb 2022 03:14:40 GMT</pubDate>
+            <content:encoded><![CDATA[중국 팡구랩(Pangu Lab) 소속 연구원들이 이퀘이젼그룹(Equation Group)이라고 알려진 해킹 조직이 사용하는 리눅스 백도어에 대한 세부 내용...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/eq-thumb-0224.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[드리덱스 멀웨어, 엔트로피 랜섬웨어 퍼트려]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105032&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105032&amp;page=1&amp;kind=1</guid>
+            <pubDate>Thu, 24 Feb 2022 03:14:40 GMT</pubDate>
+            <content:encoded><![CDATA[악명 높은 ‘다목적 멀웨어’ 드리덱스(Dridex)가 엔트로피(Entropy)라는 랜섬웨어와 결탁한 듯한 모습을 보이고 있다. 드리덱스가 설치된 시스템이 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/ransom-thumb-0224.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[호드 웹메일 서비스에서 9년 된 취약점 발견돼]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105031&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105031&amp;page=1&amp;kind=1</guid>
+            <pubDate>Thu, 24 Feb 2022 03:14:40 GMT</pubDate>
+            <content:encoded><![CDATA[호드 웹메일(Horde Webmail)이라는 서비스에서 오래된 취약점이 뒤늦게 발견됐다. 이 취약점을 익스플로잇 하는 데 성공할 경우 피해자의 이메일 계정...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/mail-thumb-0224.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[디지털 융합산업 보안 경쟁력 강화 위한 ‘정보보호 인재양성’ 추진]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105003&amp;page=1&amp;kind=2</link>
@@ -46,46 +86,6 @@
             <pubDate>Wed, 23 Feb 2022 08:17:40 GMT</pubDate>
             <content:encoded><![CDATA[2021년 사이버 범죄자들은 86억 달러(한화 약 10조 2,641억원)의 가상자산을 세탁했으며, 디파이(DeFi) 프로토콜을 이용한 자금 세탁 비중이 증...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/coin_022301_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[골드스푼, 개인정보보호법 위반으로 약 1억 4,839만원 제재]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105000&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105000&amp;page=1&amp;kind=2</guid>
-            <pubDate>Wed, 23 Feb 2022 07:14:51 GMT</pubDate>
-            <content:encoded><![CDATA[개인정보보호위원회(위원장 윤종인, 이하 ‘개인정보위’)는 2월 23일(수) 제4회 전체회의에서 데이팅앱 ‘골드스푼’을 운영하는 트리플콤마에 대해 총 1억 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/goldspoon_022301_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[깃허브, 소프트웨어 공급망 보안의 첫 걸음은 정보 공유라는 믿음으로]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104999&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104999&amp;page=1&amp;kind=1</guid>
-            <pubDate>Wed, 23 Feb 2022 07:14:51 GMT</pubDate>
-            <content:encoded><![CDATA[소프트웨어 공유 플랫폼인 깃허브(GitHub)가 ‘깃허브 어드바이저리 데이터베이스(GitHub Advisory Database, GAD)’라는 통합 보안 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/share-thumb-0223.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[애플 에어태그 복제판, 애플의 스토킹 방해 기술 우회 가능해]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104995&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104995&amp;page=1&amp;kind=1</guid>
-            <pubDate>Wed, 23 Feb 2022 02:32:51 GMT</pubDate>
-            <content:encoded><![CDATA[독일의 한 보안 스타트업이 에플 에어태그(Apple Airtag)의 복제판을 만들어 스토킹 방지 프로토콜인 파인드 마이(Find My)를 우회하는 데 성공...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/stalk-thub-0223.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[모바일 멀웨어는 이거 빼고는 ‘게임’과 ‘모바일 뱅킹’으로 양분된다]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104994&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104994&amp;page=1&amp;kind=1</guid>
-            <pubDate>Wed, 23 Feb 2022 02:32:51 GMT</pubDate>
-            <content:encoded><![CDATA[모바일 사용자들이 늘어가면서 모바일 멀웨어도 같이 늘어나고 있다. 처음 모바일 멀웨어들이 유행했을 때는 PC를 노리는 멀웨어들보다 훨씬 질이 낮았었지만 지...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/mobmal-thumb-0223.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우크라이나 경찰, 신용카드 정보 노리던 피싱 공격단 검거]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104993&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104993&amp;page=1&amp;kind=1</guid>
-            <pubDate>Wed, 23 Feb 2022 02:32:51 GMT</pubDate>
-            <content:encoded><![CDATA[우크라이나 경찰이 사이버 범죄 집단을 검거했다. 이들은 약 7만 명의 카드 사용자들로부터 대량의 카드 정보를 훔쳤다고 한다. 피싱 공격을 위해 가짜 사이트...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/ukra-thumb-0223.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Synology, DSM 7.1 베타 버전 출시]]></title>

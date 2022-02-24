@@ -4,9 +4,49 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Feb 2022 02:14:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Feb 2022 03:16:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[우크라이나, 데이터 삭제 공격에 시달림 받고 있어 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105035&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105035&amp;page=1&amp;kind=1</guid>
+            <pubDate>Thu, 24 Feb 2022 03:14:40 GMT</pubDate>
+            <content:encoded><![CDATA[전쟁의 분위기가 감돌고 있는 우크라이나의 사이버 공간은 이미 파괴 전차들이 굴러다니고 있다. 러시아로부터 온 것으로 보이는 삭제형 멀웨어들이 많은 조직들에...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/del-thumb-0224.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[삼성 스마트폰 1억여 대에서 암호화 깨는 취약점 발견돼 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105034&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105034&amp;page=1&amp;kind=1</guid>
+            <pubDate>Thu, 24 Feb 2022 03:14:40 GMT</pubDate>
+            <content:encoded><![CDATA[삼성 스마트폰이 민감한 정보를 암호화 하는 방식에서 중대한 취약점이 발견됐다. 텔아비브대학과 존스홉킨스대학의 연구원들에 의하면 ‘부끄러울 정도로 좋지 않은...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/sam-thumb-0224.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NSA의 이퀘이젼그룹과 관련된 리눅스 백도어의 세부 내용 공개돼 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105033&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105033&amp;page=1&amp;kind=1</guid>
+            <pubDate>Thu, 24 Feb 2022 03:14:40 GMT</pubDate>
+            <content:encoded><![CDATA[중국 팡구랩(Pangu Lab) 소속 연구원들이 이퀘이젼그룹(Equation Group)이라고 알려진 해킹 조직이 사용하는 리눅스 백도어에 대한 세부 내용...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/eq-thumb-0224.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[드리덱스 멀웨어, 엔트로피 랜섬웨어 퍼트려 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105032&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105032&amp;page=1&amp;kind=1</guid>
+            <pubDate>Thu, 24 Feb 2022 03:14:40 GMT</pubDate>
+            <content:encoded><![CDATA[악명 높은 ‘다목적 멀웨어’ 드리덱스(Dridex)가 엔트로피(Entropy)라는 랜섬웨어와 결탁한 듯한 모습을 보이고 있다. 드리덱스가 설치된 시스템이 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/ransom-thumb-0224.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[호드 웹메일 서비스에서 9년 된 취약점 발견돼 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105031&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105031&amp;page=1&amp;kind=1</guid>
+            <pubDate>Thu, 24 Feb 2022 03:14:40 GMT</pubDate>
+            <content:encoded><![CDATA[호드 웹메일(Horde Webmail)이라는 서비스에서 오래된 취약점이 뒤늦게 발견됐다. 이 취약점을 익스플로잇 하는 데 성공할 경우 피해자의 이메일 계정...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/mail-thumb-0224.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[디지털 융합산업 보안 경쟁력 강화 위한 ‘정보보호 인재양성’ 추진 (보안뉴스 ─ 전체기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105003&amp;page=1&amp;kind=2</link>
@@ -46,46 +86,6 @@
             <pubDate>Wed, 23 Feb 2022 08:17:40 GMT</pubDate>
             <content:encoded><![CDATA[2021년 사이버 범죄자들은 86억 달러(한화 약 10조 2,641억원)의 가상자산을 세탁했으며, 디파이(DeFi) 프로토콜을 이용한 자금 세탁 비중이 증...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/coin_022301_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[골드스푼, 개인정보보호법 위반으로 약 1억 4,839만원 제재 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105000&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105000&amp;page=1&amp;kind=2</guid>
-            <pubDate>Wed, 23 Feb 2022 07:14:51 GMT</pubDate>
-            <content:encoded><![CDATA[개인정보보호위원회(위원장 윤종인, 이하 ‘개인정보위’)는 2월 23일(수) 제4회 전체회의에서 데이팅앱 ‘골드스푼’을 운영하는 트리플콤마에 대해 총 1억 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/goldspoon_022301_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[깃허브, 소프트웨어 공급망 보안의 첫 걸음은 정보 공유라는 믿음으로 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104999&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104999&amp;page=1&amp;kind=1</guid>
-            <pubDate>Wed, 23 Feb 2022 07:14:51 GMT</pubDate>
-            <content:encoded><![CDATA[소프트웨어 공유 플랫폼인 깃허브(GitHub)가 ‘깃허브 어드바이저리 데이터베이스(GitHub Advisory Database, GAD)’라는 통합 보안 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/share-thumb-0223.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[애플 에어태그 복제판, 애플의 스토킹 방해 기술 우회 가능해 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104995&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104995&amp;page=1&amp;kind=1</guid>
-            <pubDate>Wed, 23 Feb 2022 02:32:51 GMT</pubDate>
-            <content:encoded><![CDATA[독일의 한 보안 스타트업이 에플 에어태그(Apple Airtag)의 복제판을 만들어 스토킹 방지 프로토콜인 파인드 마이(Find My)를 우회하는 데 성공...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/stalk-thub-0223.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[모바일 멀웨어는 이거 빼고는 ‘게임’과 ‘모바일 뱅킹’으로 양분된다 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104994&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104994&amp;page=1&amp;kind=1</guid>
-            <pubDate>Wed, 23 Feb 2022 02:32:51 GMT</pubDate>
-            <content:encoded><![CDATA[모바일 사용자들이 늘어가면서 모바일 멀웨어도 같이 늘어나고 있다. 처음 모바일 멀웨어들이 유행했을 때는 PC를 노리는 멀웨어들보다 훨씬 질이 낮았었지만 지...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/mobmal-thumb-0223.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우크라이나 경찰, 신용카드 정보 노리던 피싱 공격단 검거 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104993&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104993&amp;page=1&amp;kind=1</guid>
-            <pubDate>Wed, 23 Feb 2022 02:32:51 GMT</pubDate>
-            <content:encoded><![CDATA[우크라이나 경찰이 사이버 범죄 집단을 검거했다. 이들은 약 7만 명의 카드 사용자들로부터 대량의 카드 정보를 훔쳤다고 한다. 피싱 공격을 위해 가짜 사이트...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/ukra-thumb-0223.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Synology, DSM 7.1 베타 버전 출시 (보안뉴스 ─ 전체기사)]]></title>
@@ -397,6 +397,41 @@
             <content:encoded><![CDATA[태백시는 교통사고로부터 시민의 생명과 재산을 보호하고 안전한 교통환경을 조성하기 위해 교통안전 시행계획을 수립 추진한다. 교통사고 사망자를 줄이기 위해 시는 교통...]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[드리덱스 멀웨어, 엔트로피 랜섬웨어 퍼트려 (보안뉴스 ─ SECURITY)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105032&amp;page=1&amp;mkind=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105032&amp;page=1&amp;mkind=1&amp;kind=1</guid>
+            <pubDate>Thu, 24 Feb 2022 03:14:57 GMT</pubDate>
+            <content:encoded><![CDATA[악명 높은 ‘다목적 멀웨어’ 드리덱스(Dridex)가 엔트로피(Entropy)라는 랜섬웨어와 결탁한 듯한 모습을 보이고 있다. 드리덱스가 설치된 시스템이 엔트로피에 감염되는 사례가 점점 많이 발견되고 있는 것이다. 이전까지 엔트로피는 코발트 스트라이크 비컨(Cobalt...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[호드 웹메일 서비스에서 9년 된 취약점 발견돼 (보안뉴스 ─ SECURITY)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105031&amp;page=1&amp;mkind=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105031&amp;page=1&amp;mkind=1&amp;kind=1</guid>
+            <pubDate>Thu, 24 Feb 2022 03:14:57 GMT</pubDate>
+            <content:encoded><![CDATA[호드 웹메일(Horde Webmail)이라는 서비스에서 오래된 취약점이 뒤늦게 발견됐다. 이 취약점을 익스플로잇 하는 데 성공할 경우 피해자의 이메일 계정에 대한 완전 제어 권한을 가져갈 수 있게 된다고 한다. 9년 전 325a7ae라는 커밋을 처음 도입하면서 취약점이...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[파수, 악성메일 모의훈련 서비스 ‘마인드 셋’ 출시 (보안뉴스 ─ SECURITY)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105030&amp;page=1&amp;mkind=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105030&amp;page=1&amp;mkind=1&amp;kind=3</guid>
+            <pubDate>Thu, 24 Feb 2022 03:14:57 GMT</pubDate>
+            <content:encoded><![CDATA[파수(이하 파수, 대표 조규곤)가 임직원들의 보안 의식 향상을 위한 악성메일 모의훈련 서비스 ‘마인드 셋(Mind-SAT)’을 출시했다. 마인드 셋은 최근 해킹 공격의 주요 통로가 된 이메일 사용과 관련한 임직원들의 보안 인식을 향상함으로써 조직 전체의 사이버 공격 대...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[마이크로소프트, 멀티 클라우드 환경 보호하는 새로운 보안 솔루션 공개 (보안뉴스 ─ SECURITY)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105027&amp;page=1&amp;mkind=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105027&amp;page=1&amp;mkind=1&amp;kind=3</guid>
+            <pubDate>Thu, 24 Feb 2022 03:14:57 GMT</pubDate>
+            <content:encoded><![CDATA[마이크로소프트가 멀티 클라우드 환경을 지원하는 새로운 보안 솔루션을 공개, 기업들의 보안 복잡성을 개선한다고 밝혔다.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[포티넷, 2021년 총 매출 및 2021년 4분기 실적 발표 (보안뉴스 ─ SECURITY)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105026&amp;page=1&amp;mkind=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105026&amp;page=1&amp;mkind=1&amp;kind=3</guid>
+            <pubDate>Thu, 24 Feb 2022 03:14:57 GMT</pubDate>
+            <content:encoded><![CDATA[광범위하고 자동화된 통합 사이버보안 분야의 글로벌 리더인 포티넷코리아(대표 조원균)는 본사가, 2021년 12월 31일로 마감되는 2021년 총 매출 및 2021년 4분기 재무 실적을 발표했다고 밝혔다.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[KT, 독자 개발 양자암호통신 품질평가 기준 ITU 국제표준 세계 최초 승인 (보안뉴스 ─ SECURITY)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105016&amp;page=1&amp;mkind=1&amp;kind=3</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105016&amp;page=1&amp;mkind=1&amp;kind=3</guid>
@@ -479,41 +514,6 @@
             <guid>https://www.boannews.com/media/view.asp?idx=104996&amp;page=1&amp;mkind=1&amp;kind=2</guid>
             <pubDate>Wed, 23 Feb 2022 07:15:10 GMT</pubDate>
             <content:encoded><![CDATA[한국인터넷진흥원(KISA, 원장 이원태)은 과학기술정보통신부(장관 임혜숙), 온라인광고분쟁조정위원회(위원장 최승원)와 ‘2021 온라인광고 분쟁조정 사례집’ 및 ‘온라인광고 계약안내서’를 발간했다고 2월 23일(수) 밝혔다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[애플 에어태그 복제판, 애플의 스토킹 방해 기술 우회 가능해 (보안뉴스 ─ SECURITY)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104995&amp;page=1&amp;mkind=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104995&amp;page=1&amp;mkind=1&amp;kind=1</guid>
-            <pubDate>Wed, 23 Feb 2022 06:19:52 GMT</pubDate>
-            <content:encoded><![CDATA[독일의 한 보안 스타트업이 에플 에어태그(Apple Airtag)의 복제판을 만들어 스토킹 방지 프로토콜인 파인드 마이(Find My)를 우회하는 데 성공했다. 이 기업의 이름은 포지티브 시큐리티(Positive Security)이며, 실험을 통해 누군가를 5일 동안 ...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[모바일 멀웨어는 이거 빼고는 ‘게임’과 ‘모바일 뱅킹’으로 양분된다 (보안뉴스 ─ SECURITY)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104994&amp;page=1&amp;mkind=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104994&amp;page=1&amp;mkind=1&amp;kind=1</guid>
-            <pubDate>Wed, 23 Feb 2022 06:19:52 GMT</pubDate>
-            <content:encoded><![CDATA[모바일 사용자들이 늘어가면서 모바일 멀웨어도 같이 늘어나고 있다. 처음 모바일 멀웨어들이 유행했을 때는 PC를 노리는 멀웨어들보다 훨씬 질이 낮았었지만 지금은 꽤나 고급스러워진 상태이기도 하다. 그래서 실질적인 멀웨어 공격의 빈도는 2021년에 오히려 줄어드는 추세를 ...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[우크라이나 경찰, 신용카드 정보 노리던 피싱 공격단 검거 (보안뉴스 ─ SECURITY)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104993&amp;page=1&amp;mkind=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104993&amp;page=1&amp;mkind=1&amp;kind=1</guid>
-            <pubDate>Wed, 23 Feb 2022 06:19:52 GMT</pubDate>
-            <content:encoded><![CDATA[우크라이나 경찰이 사이버 범죄 집단을 검거했다. 이들은 약 7만 명의 카드 사용자들로부터 대량의 카드 정보를 훔쳤다고 한다. 피싱 공격을 위해 가짜 사이트를 40개 이상 만들어 운영했으며, 크리덴셜을 빼돌린 이후에는 피해자들의 계좌를 남김없이 털었다고 경찰은 발표했다....]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[대형 쿡웨어 업체 마이어에서 데이터 유출 사고 발생 (보안뉴스 ─ SECURITY)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104992&amp;page=1&amp;mkind=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104992&amp;page=1&amp;mkind=1&amp;kind=1</guid>
-            <pubDate>Wed, 23 Feb 2022 02:33:10 GMT</pubDate>
-            <content:encoded><![CDATA[미국의 대형 쿡웨어 업체인 마이어(Meyer)에서 정보 유출 사고가 발생했다. 회사는 지난 주부터 직원들에게 “사이버 사건으로 개인정보가 일부 유출됐다”고 알리기 시작했다. 직원들의 생년월일과 의료 기록, 사회 보장 번호, 여권번호 등 고용 계약을 맺을 때 제공했던 모...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[유명 아동 브랜드 멜리조, 200GB 고객 데이터 노출 (보안뉴스 ─ SECURITY)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104991&amp;page=1&amp;mkind=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104991&amp;page=1&amp;mkind=1&amp;kind=1</guid>
-            <pubDate>Wed, 23 Feb 2022 02:33:10 GMT</pubDate>
-            <content:encoded><![CDATA[아동 럭셔리 브랜드인 멜리조(Melijoe)에서 대형 정보 노출 사고가 발생했다. 아동을 포함해 고객 20만여 명의 개인정보가 노출된 것으로 보이는데, 용량으로 따지면 200GB가 넘는다고 한다. 멜리조 측에서 아마존 S3 버킷을 제대로 설정하지 않아서 발생한 일로, ...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[소형 어선도 이제 바다 내비게이션 단말기 사용할 수 있다 (보안뉴스 ─ IT)]]></title>
@@ -1890,6 +1890,76 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2021/12/msit_1223001_MAIN.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[우크라이나, 데이터 삭제 공격에 시달림 받고 있어 (보안뉴스 ─ 국제)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105035&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105035&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
+            <pubDate>Thu, 24 Feb 2022 03:16:05 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/view.asp?idx=105035&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
+					
+					<img src="/media/upFiles2/2022/02/del-thumb-0224.jpg" alt="" class="news_img" height="70">
+					
+					<span class="news_txt">우크라이나, 데이터 삭제 공격에 시달림 받고 있어</span>
+					</a><br>
+					<a href="/media/view.asp?idx=105035&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">전쟁의 분위기가 감돌고 있는 우크라이나의 사이버 공간은 이미 파괴 전차들이 굴러다니고 있다. 러시아로부터 온 것으로 보이는 삭제형 멀웨어들이 많은 조직들에 피해를...</a> <span class="news_writer">문가용 기자 | 2022년 02월 24일 11:47</span>]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/del-thumb-0224.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[삼성 스마트폰 1억여 대에서 암호화 깨는 취약점 발견돼 (보안뉴스 ─ 국제)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105034&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105034&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
+            <pubDate>Thu, 24 Feb 2022 03:16:05 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/view.asp?idx=105034&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
+					
+					<img src="/media/upFiles2/2022/02/sam-thumb-0224.jpg" alt="" class="news_img" height="70">
+					
+					<span class="news_txt">삼성 스마트폰 1억여 대에서 암호화 깨는 취약점 발견돼</span>
+					</a><br>
+					<a href="/media/view.asp?idx=105034&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">삼성 스마트폰이 민감한 정보를 암호화 하는 방식에서 중대한 취약점이 발견됐다. 텔아비브대학과 존스홉킨스대학의 연구원들에 의하면 ‘부끄러울 정도로 좋지 않은 취약점...</a> <span class="news_writer">문가용 기자 | 2022년 02월 24일 11:45</span>]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/sam-thumb-0224.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NSA의 이퀘이젼그룹과 관련된 리눅스 백도어의 세부 내용 공개돼 (보안뉴스 ─ 국제)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105033&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105033&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
+            <pubDate>Thu, 24 Feb 2022 03:16:05 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/view.asp?idx=105033&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
+					
+					<img src="/media/upFiles2/2022/02/eq-thumb-0224.jpg" alt="" class="news_img" height="70">
+					
+					<span class="news_txt">NSA의 이퀘이젼그룹과 관련된 리눅스 백도어의 세부 내용 공개돼</span>
+					</a><br>
+					<a href="/media/view.asp?idx=105033&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">중국 팡구랩(Pangu Lab) 소속 연구원들이 이퀘이젼그룹(Equation Group)이라고 알려진 해킹 조직이 사용하는 리눅스 백도어에 대한 세부 내용을 발표...</a> <span class="news_writer">문가용 기자 | 2022년 02월 24일 11:44</span>]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/eq-thumb-0224.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[드리덱스 멀웨어, 엔트로피 랜섬웨어 퍼트려 (보안뉴스 ─ 국제)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105032&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105032&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
+            <pubDate>Thu, 24 Feb 2022 03:16:05 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/view.asp?idx=105032&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
+					
+					<img src="/media/upFiles2/2022/02/ransom-thumb-0224.jpg" alt="" class="news_img" height="70">
+					
+					<span class="news_txt">드리덱스 멀웨어, 엔트로피 랜섬웨어 퍼트려</span>
+					</a><br>
+					<a href="/media/view.asp?idx=105032&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">악명 높은 ‘다목적 멀웨어’ 드리덱스(Dridex)가 엔트로피(Entropy)라는 랜섬웨어와 결탁한 듯한 모습을 보이고 있다. 드리덱스가 설치된 시스템이 엔트로피...</a> <span class="news_writer">문가용 기자 | 2022년 02월 24일 11:43</span>]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/ransom-thumb-0224.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[호드 웹메일 서비스에서 9년 된 취약점 발견돼 (보안뉴스 ─ 국제)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105031&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105031&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
+            <pubDate>Thu, 24 Feb 2022 03:16:05 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/view.asp?idx=105031&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
+					
+					<img src="/media/upFiles2/2022/02/mail-thumb-0224.jpg" alt="" class="news_img" height="70">
+					
+					<span class="news_txt">호드 웹메일 서비스에서 9년 된 취약점 발견돼</span>
+					</a><br>
+					<a href="/media/view.asp?idx=105031&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">호드 웹메일(Horde Webmail)이라는 서비스에서 오래된 취약점이 뒤늦게 발견됐다. 이 취약점을 익스플로잇 하는 데 성공할 경우 피해자의 이메일 계정에 대한...</a> <span class="news_writer">문가용 기자 | 2022년 02월 24일 11:42</span>]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/mail-thumb-0224.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[피싱 공격에 대한 교육 시간은 늘어나는데 효과는 오히려 줄어든다? (보안뉴스 ─ 국제)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105004&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105004&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
@@ -2098,76 +2168,6 @@
 					</a><br>
 					<a href="/media/view.asp?idx=104955&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">전 세계적인 물류 대기업인 익스피다이터스가 마비됐다. 주말 동안 사이버 공격에 받았으며, 이 때문에 전 세계 곳곳에서 벌어지고 있던 익스피다이터스의 사업 행위와 ...</a> <span class="news_writer">문가용 기자 | 2022년 02월 22일 11:24</span>]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/logi-thumb0-222.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이란 국영 매체 겨냥한 공격에 삭제형 멀웨어 사용돼 (보안뉴스 ─ 국제)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104954&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104954&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
-            <pubDate>Tue, 22 Feb 2022 02:36:42 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/view.asp?idx=104954&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
-					
-					<img src="/media/upFiles2/2022/02/iran-thumb-022.jpg" alt="" class="news_img" height="70">
-					
-					<span class="news_txt">이란 국영 매체 겨냥한 공격에 삭제형 멀웨어 사용돼</span>
-					</a><br>
-					<a href="/media/view.asp?idx=104954&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">지난 1월 이란의 국영 매체에서 사이버 공격이 발생했다. 2021년 7월의 이란 철도 시스템과 화물 서비스를 노린 공격과 10월의 전국 주유소를 마비시킨 공격에 ...</a> <span class="news_writer">문가용 기자 | 2022년 02월 22일 11:23</span>]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/iran-thumb-022.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[애플리케이션 보안, 지난 1년 동안 나아지지 않았다 (보안뉴스 ─ 국제)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104921&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104921&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
-            <pubDate>Mon, 21 Feb 2022 14:17:11 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/view.asp?idx=104921&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
-					
-					<img src="/media/upFiles2/2022/02/app-thumb-0221.jpg" alt="" class="news_img" height="70">
-					
-					<span class="news_txt">애플리케이션 보안, 지난 1년 동안 나아지지 않았다</span>
-					</a><br>
-					<a href="/media/view.asp?idx=104921&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">애플리케이션 보안의 중요성이 그렇게나 자주, 많이, 강조되고 있지만 실제로 애플리케이션 보안을 위해 실질적은 노력을 하고 있는 곳은 그리 많지 않은 것으로 조사됐...</a> <span class="news_writer">문가용 기자 | 2022년 02월 21일 22:27</span>]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/app-thumb-0221.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[클라우드가 그리 좋다는데, 왜 지금 상황은 그렇지 못한가? (보안뉴스 ─ 국제)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104920&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104920&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
-            <pubDate>Mon, 21 Feb 2022 10:19:10 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/view.asp?idx=104920&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
-					
-					<img src="/media/upFiles2/2022/02/clo-thumb-0221.jpg" alt="" class="news_img" height="70">
-					
-					<span class="news_txt">클라우드가 그리 좋다는데, 왜 지금 상황은 그렇지 못한가?</span>
-					</a><br>
-					<a href="/media/view.asp?idx=104920&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">현재 운영되고 있는 컨테이너의 75%가 고위험군 내지 치명적 위험도의 취약점을 보유하고 있는 것으로 나타났다. 심지어 이 취약점들 대부분 패치가 있는 것으로 조사...</a> <span class="news_writer">문가용 기자 | 2022년 02월 21일 18:17</span>]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/clo-thumb-0221.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[암호화폐와 탈중앙화 금융이 부딪힌 벽, 의외로 높다 (보안뉴스 ─ 국제)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104907&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=D&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104907&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=D&amp;search=title&amp;find=</guid>
-            <pubDate>Mon, 21 Feb 2022 09:17:58 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/view.asp?idx=104907&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=D&amp;search=title&amp;find=">
-					
-					<img src="/media/upFiles2/2022/02/bit-thumb-0221.jpg" alt="" class="news_img" height="70">
-					
-					<span class="news_txt">암호화폐와 탈중앙화 금융이 부딪힌 벽, 의외로 높다</span>
-					</a><br>
-					<a href="/media/view.asp?idx=104907&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=D&amp;search=title&amp;find=">금융 업계는 현재 변혁의 속도를 높여가는 중이다. 그러면서 계속해서 새로운 보안 위협들이 등장하고 있고, 새로운 보호의 방법들이 고안되는 상황이다. 그런 와중에 ...</a> <span class="news_writer">문가용 기자 | 2022년 02월 21일 18:09</span>]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/bit-thumb-0221.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[크레딧 스위스 정보 유출 사건, 검은돈 차별 않던 행위 드러내 (보안뉴스 ─ 국제)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104917&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104917&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
-            <pubDate>Mon, 21 Feb 2022 02:38:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/view.asp?idx=104917&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
-					
-					<img src="/media/upFiles2/2022/02/swis-thumb-0221.jpg" alt="" class="news_img" height="70">
-					
-					<span class="news_txt">크레딧 스위스 정보 유출 사건, 검은돈 차별 않던 행위 드러내</span>
-					</a><br>
-					<a href="/media/view.asp?idx=104917&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">전 세계에서 가장 큰 규모를 자랑하는 개인 은행인 크레딧 스위스(Credit Suisse)의 내부 정보가 유출되는 사건이 발생했다. 그러면서 각종 범죄자들이 몰래...</a> <span class="news_writer">문가용 기자 | 2022년 02월 21일 11:36</span>]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/swis-thumb-0221.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2022년 대한민국 보안시장 규모, 6조 4,453억원 전망 (보안뉴스 ─ 기획특집)]]></title>
