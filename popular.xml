@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Feb 2022 09:17:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Feb 2022 10:19:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,14 +22,6 @@
             <pubDate>Tue, 22 Feb 2022 07:18:01 GMT</pubDate>
             <content:encoded><![CDATA[현재 운영되고 있는 컨테이너의 75%가 고위험군 내지 치명적 위험도의 취약점을 보유하고 있는 것으로 나타났다. 심지어 이 취약점들 대부분 패치가 있는 것으로 조사...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/clo-thumb-0221.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사이버 공격자들, 현대 방어 체계에 점점 더 익숙해지고 있다]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104889&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104889&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Sat, 19 Feb 2022 07:14:07 GMT</pubDate>
-            <content:encoded><![CDATA[사이버 범죄자들과 국가 지원 해커들이 점점 더 방어 전략에 적응해가고 있고, 그래서 공격의 효율성이 높아지고 있다는 연구 결과가 두 개 발표됐다. 하나는 보안 업...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/used-thumb-0218.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[대선 2주 앞으로! 외교·안보·국방 분야 타깃 北 해킹 공격 주의보]]></title>
@@ -164,6 +156,14 @@
             <guid>https://www.boannews.com/media/view.asp?idx=104902&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
             <pubDate>Fri, 25 Feb 2022 07:15:32 GMT</pubDate>
             <content:encoded><![CDATA[강원도는 올해도 어린이보호구역 내 어린이 교통사고 사망자 제로화 달성을 위한 실질적인 교통안전 정책을 시행한다. 현재 도내에는 758개의 어린이보호구역이 지정 운...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[데이터 침해 사고의 비용, 너그럽게 계산하면 나중에 눈물 흘린다]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105041&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105041&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Fri, 25 Feb 2022 10:17:38 GMT</pubDate>
+            <content:encoded><![CDATA[정문에 자물쇠를 단단히 걸어 잠그면 집안에 있는 귀중품이 안전하게 보호될 확률이 올라간다는 사실을 알고 있다면, 당신은 자물쇠를 채울 것인가, 말 것인가? 가장 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/lock-thumb-0224.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
