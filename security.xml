@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-02-25T08:20:26.234Z</updated>
+    <updated>2022-02-25T09:17:46.653Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[지란지교시큐리티, 제21회 대한민국 SW기업 경쟁력 대상 ‘종합 대상’ 수상]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=105075&amp;page=1&amp;mkind=1&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=105075&amp;page=1&amp;mkind=1&amp;kind=3"/>
+        <updated>2022-02-25T09:15:49.768Z</updated>
+        <content type="html"><![CDATA[보안SW 전문기업 지란지교시큐리티(대표 윤두식)는 24일 개최된 ‘제21회 대한민국 SW기업 경쟁력 대상’ 시상식에서 종합 대상(과학기술정보통신부장관상)과 특별상인 직원역량강화 부문 최우수상을 수상했다고 25일 밝혔다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[트릭봇 갱단, 새로운 멀웨어로 갈아탄 것으로 보여]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=105073&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=105073&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-02-25T09:15:49.772Z</updated>
+        <content type="html"><![CDATA[악명 높은 다운로더 멀웨어인 트릭봇(TrickBot)이 최근 전혀 나타나지 않고 있다. 가장 마지막에 나타난 것이 지난 12월 28일이다. 보안 업체 인텔471(Intel471)이 발표한 보고서에 의하면 트릭봇 운영자들이 이모텟(Emotet)과 밀접한 운영을 선보이기 ...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아수스토와 큐냅의 NAS 공략하는 데드볼트 랜섬웨어]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=105072&amp;page=1&amp;mkind=1&amp;kind=1</id>
@@ -109,19 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=105033&amp;page=1&amp;mkind=1&amp;kind=1"/>
         <updated>2022-02-24T06:19:44.398Z</updated>
         <content type="html"><![CDATA[중국 팡구랩(Pangu Lab) 소속 연구원들이 이퀘이젼그룹(Equation Group)이라고 알려진 해킹 조직이 사용하는 리눅스 백도어에 대한 세부 내용을 발표했다. 이 백도어에는 Bvp47이라는 이름이 붙었다. 백도어가 발견된 건 2013년으로, 중국 정부 기관들에...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[드리덱스 멀웨어, 엔트로피 랜섬웨어 퍼트려]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=105032&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=105032&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-02-24T03:14:57.340Z</updated>
-        <content type="html"><![CDATA[악명 높은 ‘다목적 멀웨어’ 드리덱스(Dridex)가 엔트로피(Entropy)라는 랜섬웨어와 결탁한 듯한 모습을 보이고 있다. 드리덱스가 설치된 시스템이 엔트로피에 감염되는 사례가 점점 많이 발견되고 있는 것이다. 이전까지 엔트로피는 코발트 스트라이크 비컨(Cobalt...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[호드 웹메일 서비스에서 9년 된 취약점 발견돼]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=105031&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=105031&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-02-24T03:14:57.340Z</updated>
-        <content type="html"><![CDATA[호드 웹메일(Horde Webmail)이라는 서비스에서 오래된 취약점이 뒤늦게 발견됐다. 이 취약점을 익스플로잇 하는 데 성공할 경우 피해자의 이메일 계정에 대한 완전 제어 권한을 가져갈 수 있게 된다고 한다. 9년 전 325a7ae라는 커밋을 처음 도입하면서 취약점이...]]></content>
     </entry>
 </feed>

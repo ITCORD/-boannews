@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=2</id>
     <title>보안뉴스 ─ IT</title>
-    <updated>2022-02-25T08:20:26.225Z</updated>
+    <updated>2022-02-25T09:17:46.662Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[SKT, 진일보한 5G 단독모드(SA)로 글로벌 기술 진화 선도]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=105049&amp;page=1&amp;mkind=2&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=105049&amp;page=1&amp;mkind=2&amp;kind=3"/>
+        <updated>2022-02-25T09:15:59.677Z</updated>
+        <content type="html"><![CDATA[SK텔레콤과 삼성전자가 MWC22에서 진일보한 5G 단독모드(SA)에 대한 연구 성과를 공개하며 글로벌 5G 기술 진화를 선도한다. SK텔레콤은 이번 MWC 22 전시관 ‘5G &amp; Beyond’ 주제 전시를 통해 5G 단독모드(SA·Stand Alone) 상용망 장비 ...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[보다 나은 해양 공공서비스, 바다 내비로 실현한다]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=105050&amp;page=1&amp;mkind=2&amp;kind=2</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=105023&amp;page=1&amp;mkind=2&amp;kind=2"/>
         <updated>2022-02-25T02:10:46.807Z</updated>
         <content type="html"><![CDATA[정부가 디지털 전환과 탄소중립 분야 국제표준을 선점하기 위해 올해 표준화 연구개발(국가표준기술력향상사업)에 지난해(374억원) 대비 7.8% 증가한 403억원의 예산을 투입한다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[세종의 집현전, 디지털 시대 국가지식정보 통합플랫폼으로 계승]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=105021&amp;page=1&amp;mkind=2&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=105021&amp;page=1&amp;mkind=2&amp;kind=2"/>
-        <updated>2022-02-25T02:10:46.812Z</updated>
-        <content type="html"><![CDATA[과학기술정보통신부는 지난 23일 제1회 국가지식정보위원회를 개최했다. 위원회 첫 회의는 조선 전기 학문·문화 창달의 산실이었던 세종대왕 시대의 집현전(현재 수정전) 터가 있는 경복궁(흥복전)에서 개최해 그 의미를 더했다.]]></content>
     </entry>
 </feed>
