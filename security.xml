@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-02-25T04:21:58.164Z</updated>
+    <updated>2022-02-25T06:21:40.730Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아수스토와 큐냅의 NAS 공략하는 데드볼트 랜섬웨어]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=105072&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=105072&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-02-25T06:19:44.610Z</updated>
+        <content type="html"><![CDATA[아수스토(Asustor)와 큐냅(QNAP)에서 생산한 NAS 장비들을 데드볼트(Deadbolt)라는 랜섬웨어가 공격하고 있다. 데드볼트 공격자들은 제로데이 취약점을 익스플로잇 함으로써 장비들을 감염시킬 수 있었다고 주장한다. 피해자들에게 0.03 비트코인을 요구하고 있...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MS 앱 스토어에 출현한 일렉트론봇 멀웨어]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=105071&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=105071&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-02-25T06:19:44.629Z</updated>
+        <content type="html"><![CDATA[SEO 포이즈닝 공격 기능을 갖춘 멀웨어인 일렉트론봇(Electron Bot)이 MS의 공식 앱 스토어를 달구고 있다. 피해자들의 시스템에 설치되고 나서는 소셜 미디어 계정 탈취 및 시스템 완전 장악까지 할 수 있다고 한다. 템플런(Temple Run)이나 서브웨이 서...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[미국과 영국, 머디워터 해킹 그룹의 새로운 멀웨어 공개]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=105070&amp;page=1&amp;mkind=1&amp;kind=1</id>
@@ -109,19 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=105031&amp;page=1&amp;mkind=1&amp;kind=1"/>
         <updated>2022-02-24T03:14:57.340Z</updated>
         <content type="html"><![CDATA[호드 웹메일(Horde Webmail)이라는 서비스에서 오래된 취약점이 뒤늦게 발견됐다. 이 취약점을 익스플로잇 하는 데 성공할 경우 피해자의 이메일 계정에 대한 완전 제어 권한을 가져갈 수 있게 된다고 한다. 9년 전 325a7ae라는 커밋을 처음 도입하면서 취약점이...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[파수, 악성메일 모의훈련 서비스 ‘마인드 셋’ 출시]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=105030&amp;page=1&amp;mkind=1&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=105030&amp;page=1&amp;mkind=1&amp;kind=3"/>
-        <updated>2022-02-24T03:14:57.340Z</updated>
-        <content type="html"><![CDATA[파수(이하 파수, 대표 조규곤)가 임직원들의 보안 의식 향상을 위한 악성메일 모의훈련 서비스 ‘마인드 셋(Mind-SAT)’을 출시했다. 마인드 셋은 최근 해킹 공격의 주요 통로가 된 이메일 사용과 관련한 임직원들의 보안 인식을 향상함으로써 조직 전체의 사이버 공격 대...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마이크로소프트, 멀티 클라우드 환경 보호하는 새로운 보안 솔루션 공개]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=105027&amp;page=1&amp;mkind=1&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=105027&amp;page=1&amp;mkind=1&amp;kind=3"/>
-        <updated>2022-02-24T03:14:57.351Z</updated>
-        <content type="html"><![CDATA[마이크로소프트가 멀티 클라우드 환경을 지원하는 새로운 보안 솔루션을 공개, 기업들의 보안 복잡성을 개선한다고 밝혔다.]]></content>
     </entry>
 </feed>
