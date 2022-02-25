@@ -4,9 +4,49 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Feb 2022 02:12:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Feb 2022 03:19:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[트릭봇 갱단, 새로운 멀웨어로 갈아탄 것으로 보여 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105073&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105073&amp;page=1&amp;kind=1</guid>
+            <pubDate>Fri, 25 Feb 2022 03:17:10 GMT</pubDate>
+            <content:encoded><![CDATA[악명 높은 다운로더 멀웨어인 트릭봇(TrickBot)이 최근 전혀 나타나지 않고 있다. 가장 마지막에 나타난 것이 지난 12월 28일이다. 보안 업체 인텔...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/repl-thumb-0225.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아수스토와 큐냅의 NAS 공략하는 데드볼트 랜섬웨어 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105072&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105072&amp;page=1&amp;kind=1</guid>
+            <pubDate>Fri, 25 Feb 2022 03:17:10 GMT</pubDate>
+            <content:encoded><![CDATA[아수스토(Asustor)와 큐냅(QNAP)에서 생산한 NAS 장비들을 데드볼트(Deadbolt)라는 랜섬웨어가 공격하고 있다. 데드볼트 공격자들은 제로데이...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/nas-thumb-0225.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[MS 앱 스토어에 출현한 일렉트론봇 멀웨어 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105071&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105071&amp;page=1&amp;kind=1</guid>
+            <pubDate>Fri, 25 Feb 2022 03:17:10 GMT</pubDate>
+            <content:encoded><![CDATA[SEO 포이즈닝 공격 기능을 갖춘 멀웨어인 일렉트론봇(Electron Bot)이 MS의 공식 앱 스토어를 달구고 있다. 피해자들의 시스템에 설치되고 나서는...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/elec-thumb-0225.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[미국과 영국, 머디워터 해킹 그룹의 새로운 멀웨어 공개 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105070&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105070&amp;page=1&amp;kind=1</guid>
+            <pubDate>Fri, 25 Feb 2022 03:17:10 GMT</pubDate>
+            <content:encoded><![CDATA[미국과 영국의 사이버 보안 담당 기관들인 CISA, FBI, 사이버 사령부, NCSC, NSA가 공동으로 머디워터(MuddyWater)라는 해킹 단체의 새...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/mud-thumb-0225.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NSA, 넥서스 스위치 제품에서 발견된 디도스 취약점을 시스코에 알려 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105069&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105069&amp;page=1&amp;kind=1</guid>
+            <pubDate>Fri, 25 Feb 2022 03:17:10 GMT</pubDate>
+            <content:encoded><![CDATA[시스코가 FXOS와 NX-OS라는 네트워크 OS에서 발견된 네 가지 취약점에 대한 패치를 개발하고 배포했다. 이 중 하나는 디도스 공격 취약점으로, NSA...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/netw-thumb-0225.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[과기정통부, 국가필수전략기술 확보 ‘첨병’ 연구장비산업 육성 본격 추진 (보안뉴스 ─ 전체기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105054&amp;page=1&amp;kind=2</link>
@@ -45,46 +85,6 @@
             <pubDate>Thu, 24 Feb 2022 09:16:04 GMT</pubDate>
             <content:encoded><![CDATA[최근 코로나19(오미크론) 확진자 급증에 따른 국민들의 불안감 증폭을 악용해, 자가검사키트 공급·구매 등을 사유로 개인정보 입력을 유도한 후 자금을 편취하...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/21071894_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Weekly Security Premium Report 제39호 발간! 해커들의 최신 공격 트렌드와 방어전략 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105036&amp;page=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105036&amp;page=1&amp;kind=3</guid>
-            <pubDate>Thu, 24 Feb 2022 08:19:18 GMT</pubDate>
-            <content:encoded><![CDATA[2월 24일 발간된 ‘Weekly Security Premium Report’ 제39호에는 &lt;보안 심층 리포트&gt; 코너에서 해커들의 최신 공격 트...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/20220224report-sm.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[러시아와 우크라이나가 싸우니 OT 담당자들이 벌벌 떨어 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105037&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105037&amp;page=1&amp;kind=1</guid>
-            <pubDate>Thu, 24 Feb 2022 07:15:23 GMT</pubDate>
-            <content:encoded><![CDATA[러시아와 우크라이나 간 긴장감이 고조되면서 서방 국가 내 산업 현장의 네트워크 운영자들과 보안 팀들도 덩달아 긴장하고 있다. 러시아의 국가 지원을 받는 해...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/site-thumb-0224.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[산업기술 유출 예방·대응 등을 위해 10개 부처 맞손 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105029&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105029&amp;page=1&amp;kind=2</guid>
-            <pubDate>Thu, 24 Feb 2022 06:19:26 GMT</pubDate>
-            <content:encoded><![CDATA[산업기술을 보호하기 위해 지식재산 보호집행 관련 10개 부처가 손잡고 공동 대응에 나섰다. 대통령 소속 국가지식재산위원회는 2월 24일(목), 외교부, 문...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/20987906_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우크라이나, 데이터 삭제 공격에 시달림 받고 있어 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105035&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105035&amp;page=1&amp;kind=1</guid>
-            <pubDate>Thu, 24 Feb 2022 03:14:40 GMT</pubDate>
-            <content:encoded><![CDATA[전쟁의 분위기가 감돌고 있는 우크라이나의 사이버 공간은 이미 파괴 전차들이 굴러다니고 있다. 러시아로부터 온 것으로 보이는 삭제형 멀웨어들이 많은 조직들에...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/del-thumb-0224.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성 스마트폰 1억여 대에서 암호화 깨는 취약점 발견돼 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105034&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105034&amp;page=1&amp;kind=1</guid>
-            <pubDate>Thu, 24 Feb 2022 03:14:40 GMT</pubDate>
-            <content:encoded><![CDATA[삼성 스마트폰이 민감한 정보를 암호화 하는 방식에서 중대한 취약점이 발견됐다. 텔아비브대학과 존스홉킨스대학의 연구원들에 의하면 ‘부끄러울 정도로 좋지 않은...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/sam-thumb-0224.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[ETRI, 콘크리트 양생 품질 예측 모니터링 시스템 개발 (보안뉴스 ─ 전체기사)]]></title>
@@ -278,14 +278,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/dark_022201_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[아이의 인터넷 사용 시간 제어하려다 마을 전체 다운시킨 아빠 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104884&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104884&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Sat, 19 Feb 2022 10:16:38 GMT</pubDate>
-            <content:encoded><![CDATA[프랑스의 한 아버지가 자녀의 인터넷 사용 시간을 제어하려고 방해 전파 발신기를 사용하다가 근처 마을의 인터넷 전부를 다운시키는 사고를 일으켰다. 그것도 한두 번 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/dark-thumb-00218.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[끝없이 벌어지는 개발과 보안의 간극, 어떻게 줄여야 하나 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104905&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104905&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
@@ -334,14 +326,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/20220218startup-s.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
-            <title><![CDATA[새로운 고 언어 기반 봇넷, 활발히 개발되는 중 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104883&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104883&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Sun, 20 Feb 2022 02:10:40 GMT</pubDate>
-            <content:encoded><![CDATA[새로운 고(Go) 기반 봇넷 멀웨어가 발견됐다. 이름은 크라켄(Kraken)이며, 각종 백도어 기능과 정보 유출 기능이 추가되는 등 활발한 개발 행위가 이어지고 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/kra-thumb-0218.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[2022년 1월 발생한 스미싱의 80%는 ‘택배 스미싱’ (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104906&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104906&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
@@ -387,6 +371,57 @@
             <pubDate>Thu, 24 Feb 2022 21:15:57 GMT</pubDate>
             <content:encoded><![CDATA[3월, 봄이 다가온다. 한 해의 시작도 좋지만 봄도 다가오는 해를 위한 계획을 세우기에 좋은 시기다. 2021년에도 사이버 보안 업계에서는 각종 보안 사고, 대규...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/ceo-thumb-0222.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한국해양교통안전공단(KOMSA), 스마트 선박안전지원센터 첫 삽 떴다 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104903&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104903&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
+            <pubDate>Fri, 25 Feb 2022 03:17:20 GMT</pubDate>
+            <content:encoded><![CDATA[한국해양교통안전공단(KOMSA)은 인천과 목포 소재 스마트 선박안전지원센터가 각각 1월 18일과 25일, 첫 삽을 떴다고 밝혔다. 공단이 지난 2018년 스마트 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/2-177(295)1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[삼성 스마트폰 1억여 대에서 암호화 깨는 취약점 발견돼 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105034&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105034&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Fri, 25 Feb 2022 03:17:20 GMT</pubDate>
+            <content:encoded><![CDATA[삼성 스마트폰이 민감한 정보를 암호화 하는 방식에서 중대한 취약점이 발견됐다. 텔아비브대학과 존스홉킨스대학의 연구원들에 의하면 ‘부끄러울 정도로 좋지 않은 취약점...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/sam-thumb-0224.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[미국과 영국, 머디워터 해킹 그룹의 새로운 멀웨어 공개 (보안뉴스 ─ SECURITY)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105070&amp;page=1&amp;mkind=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105070&amp;page=1&amp;mkind=1&amp;kind=1</guid>
+            <pubDate>Fri, 25 Feb 2022 03:17:30 GMT</pubDate>
+            <content:encoded><![CDATA[미국과 영국의 사이버 보안 담당 기관들인 CISA, FBI, 사이버 사령부, NCSC, NSA가 공동으로 머디워터(MuddyWater)라는 해킹 단체의 새로운 무기를 공개했다. 스몰시브(Small Sieve)라는 이름의 파이선 기반 백도어로, 공격 지속성을 확보하고 C...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[NSA, 넥서스 스위치 제품에서 발견된 디도스 취약점을 시스코에 알려 (보안뉴스 ─ SECURITY)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105069&amp;page=1&amp;mkind=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105069&amp;page=1&amp;mkind=1&amp;kind=1</guid>
+            <pubDate>Fri, 25 Feb 2022 03:17:30 GMT</pubDate>
+            <content:encoded><![CDATA[시스코가 FXOS와 NX-OS라는 네트워크 OS에서 발견된 네 가지 취약점에 대한 패치를 개발하고 배포했다. 이 중 하나는 디도스 공격 취약점으로, NSA가 시스코에 직접 알려준 것이라고 한다. 이 취약점은 CVE-2022-20624이며, 고위험군으로 분류됐다. 하지만...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[부재중 전화알림 메일로 위장해 MS365 계정 노린 피싱 기승 (보안뉴스 ─ SECURITY)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105067&amp;page=1&amp;mkind=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105067&amp;page=1&amp;mkind=1&amp;kind=1</guid>
+            <pubDate>Fri, 25 Feb 2022 03:17:30 GMT</pubDate>
+            <content:encoded><![CDATA[최근 부재중 전화 알림, 팩스 수신 확인 등 업무 관련 내용을 위장한 피싱 메일로 사용자의 마이크로소프트365(이하 ‘MS365’) 계정을 탈취하는 공격 사례가 연이어 발견돼 사용자들의 주의가 요구된다.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[파수, ‘SW기업경쟁력대상’ 기업역량강화 부문 대상 수상 (보안뉴스 ─ SECURITY)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105066&amp;page=1&amp;mkind=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105066&amp;page=1&amp;mkind=1&amp;kind=3</guid>
+            <pubDate>Fri, 25 Feb 2022 03:17:30 GMT</pubDate>
+            <content:encoded><![CDATA[파수(이하 파수, 대표 조규곤)가 24일 ‘제21회 대한민국 SW기업경쟁력대상’의 기업역량 강화 부문에서 대상(과학기술정보통신부장관상)을 수상했다.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[과기정통부, 네트워크정책실장에 홍진배 정보보호네트워크정책관 임명 (보안뉴스 ─ SECURITY)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105065&amp;page=1&amp;mkind=1&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105065&amp;page=1&amp;mkind=1&amp;kind=2</guid>
+            <pubDate>Fri, 25 Feb 2022 03:17:30 GMT</pubDate>
+            <content:encoded><![CDATA[과학기술정보통신부 홍진배 정보보호네트워크정책관이 2월 25일자로 네트워크정책실장으로 승진했다. 또한 공석이 된 정보보호네트워크정책관에는 김정삼 소프트웨어정책관이 자리를 옮겼다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[데이터 침해 사고의 비용, 너그럽게 계산하면 나중에 눈물 흘린다 (보안뉴스 ─ SECURITY)]]></title>
@@ -471,41 +506,6 @@
             <guid>https://www.boannews.com/media/view.asp?idx=105027&amp;page=1&amp;mkind=1&amp;kind=3</guid>
             <pubDate>Thu, 24 Feb 2022 03:14:57 GMT</pubDate>
             <content:encoded><![CDATA[마이크로소프트가 멀티 클라우드 환경을 지원하는 새로운 보안 솔루션을 공개, 기업들의 보안 복잡성을 개선한다고 밝혔다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[포티넷, 2021년 총 매출 및 2021년 4분기 실적 발표 (보안뉴스 ─ SECURITY)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105026&amp;page=1&amp;mkind=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105026&amp;page=1&amp;mkind=1&amp;kind=3</guid>
-            <pubDate>Thu, 24 Feb 2022 03:14:57 GMT</pubDate>
-            <content:encoded><![CDATA[광범위하고 자동화된 통합 사이버보안 분야의 글로벌 리더인 포티넷코리아(대표 조원균)는 본사가, 2021년 12월 31일로 마감되는 2021년 총 매출 및 2021년 4분기 재무 실적을 발표했다고 밝혔다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[KT, 독자 개발 양자암호통신 품질평가 기준 ITU 국제표준 세계 최초 승인 (보안뉴스 ─ SECURITY)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105016&amp;page=1&amp;mkind=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105016&amp;page=1&amp;mkind=1&amp;kind=3</guid>
-            <pubDate>Thu, 24 Feb 2022 02:12:36 GMT</pubDate>
-            <content:encoded><![CDATA[KT가 독자 개발한 양자암호통신 서비스 품질평가 기준이 국제전기통신연합(ITU)으로부터 세계 최초로 국제 표준 승인을 받았다고 밝혔다. 양자암호통신은 양자 기술에 기반을 둔 차세대 보안 기술로 각광받고 있다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[KISA, ‘노사공동 ESG 경영 선포식’ 개최 (보안뉴스 ─ SECURITY)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105005&amp;page=1&amp;mkind=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105005&amp;page=1&amp;mkind=1&amp;kind=2</guid>
-            <pubDate>Thu, 24 Feb 2022 01:00:06 GMT</pubDate>
-            <content:encoded><![CDATA[한국인터넷진흥원(KISA, 원장 이원태)은 한국인터넷진흥원노동조합(위원장 장재영)과 ESG 경영 가속화를 위한 ‘노사공동 ESG 경영 선포식’을 2월 23일(수) 나주 본원에서 개최했다고 밝혔다. ESG 경영이란 Environment(환경)·Social(사회)·Gove...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[디지털 융합산업 보안 경쟁력 강화 위한 ‘정보보호 인재양성’ 추진 (보안뉴스 ─ SECURITY)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105003&amp;page=1&amp;mkind=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105003&amp;page=1&amp;mkind=1&amp;kind=2</guid>
-            <pubDate>Thu, 24 Feb 2022 01:00:06 GMT</pubDate>
-            <content:encoded><![CDATA[과학기술정보통신부(이하 ‘과기정통부’, 장관 임혜숙) 조경식 제2차관은 2월 23일(수) 순천향대학교 융합보안대학원(충남 아산시)을 방문해 디지털뉴딜을 뒷받침할 정보보안 인재양성 추진방안을 논의했다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[피싱 공격에 대한 교육 시간은 늘어나는데 효과는 오히려 줄어든다? (보안뉴스 ─ SECURITY)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105004&amp;page=1&amp;mkind=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105004&amp;page=1&amp;mkind=1&amp;kind=1</guid>
-            <pubDate>Thu, 24 Feb 2022 01:00:06 GMT</pubDate>
-            <content:encoded><![CDATA[그것 참 이상하다. 피싱 피해 사례에 대한 소식이 그렇게 많이 나오고, 피싱 관련 교육이 그렇게나 지겹게 진행되는데도 상황이 전혀 개선되지 않고 있는 듯하니 말이다. 2021년 피싱 공격으로부터 시작된 각종 랜섬웨어 및 BEC 공격의 빈도와 피해 규모는 2020년의 그...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[보다 나은 해양 공공서비스, 바다 내비로 실현한다 (보안뉴스 ─ IT)]]></title>
@@ -1882,6 +1882,76 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2021/12/msit_1223001_MAIN.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[트릭봇 갱단, 새로운 멀웨어로 갈아탄 것으로 보여 (보안뉴스 ─ 국제)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105073&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105073&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
+            <pubDate>Fri, 25 Feb 2022 03:18:52 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/view.asp?idx=105073&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
+					
+					<img src="/media/upFiles2/2022/02/repl-thumb-0225.jpg" alt="" class="news_img" height="70">
+					
+					<span class="news_txt">트릭봇 갱단, 새로운 멀웨어로 갈아탄 것으로 보여</span>
+					</a><br>
+					<a href="/media/view.asp?idx=105073&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">악명 높은 다운로더 멀웨어인 트릭봇(TrickBot)이 최근 전혀 나타나지 않고 있다. 가장 마지막에 나타난 것이 지난 12월 28일이다. 보안 업체 인텔471(...</a> <span class="news_writer">문가용 기자 | 2022년 02월 25일 11:40</span>]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/repl-thumb-0225.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아수스토와 큐냅의 NAS 공략하는 데드볼트 랜섬웨어 (보안뉴스 ─ 국제)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105072&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105072&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
+            <pubDate>Fri, 25 Feb 2022 03:18:52 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/view.asp?idx=105072&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
+					
+					<img src="/media/upFiles2/2022/02/nas-thumb-0225.jpg" alt="" class="news_img" height="70">
+					
+					<span class="news_txt">아수스토와 큐냅의 NAS 공략하는 데드볼트 랜섬웨어</span>
+					</a><br>
+					<a href="/media/view.asp?idx=105072&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">아수스토(Asustor)와 큐냅(QNAP)에서 생산한 NAS 장비들을 데드볼트(Deadbolt)라는 랜섬웨어가 공격하고 있다. 데드볼트 공격자들은 제로데이 취약점...</a> <span class="news_writer">문가용 기자 | 2022년 02월 25일 11:39</span>]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/nas-thumb-0225.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[MS 앱 스토어에 출현한 일렉트론봇 멀웨어 (보안뉴스 ─ 국제)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105071&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105071&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
+            <pubDate>Fri, 25 Feb 2022 03:18:52 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/view.asp?idx=105071&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
+					
+					<img src="/media/upFiles2/2022/02/elec-thumb-0225.jpg" alt="" class="news_img" height="70">
+					
+					<span class="news_txt">MS 앱 스토어에 출현한 일렉트론봇 멀웨어</span>
+					</a><br>
+					<a href="/media/view.asp?idx=105071&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">SEO 포이즈닝 공격 기능을 갖춘 멀웨어인 일렉트론봇(Electron Bot)이 MS의 공식 앱 스토어를 달구고 있다. 피해자들의 시스템에 설치되고 나서는 소셜 ...</a> <span class="news_writer">문가용 기자 | 2022년 02월 25일 11:38</span>]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/elec-thumb-0225.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[미국과 영국, 머디워터 해킹 그룹의 새로운 멀웨어 공개 (보안뉴스 ─ 국제)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105070&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105070&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
+            <pubDate>Fri, 25 Feb 2022 03:18:52 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/view.asp?idx=105070&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
+					
+					<img src="/media/upFiles2/2022/02/mud-thumb-0225.jpg" alt="" class="news_img" height="70">
+					
+					<span class="news_txt">미국과 영국, 머디워터 해킹 그룹의 새로운 멀웨어 공개</span>
+					</a><br>
+					<a href="/media/view.asp?idx=105070&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">미국과 영국의 사이버 보안 담당 기관들인 CISA, FBI, 사이버 사령부, NCSC, NSA가 공동으로 머디워터(MuddyWater)라는 해킹 단체의 새로운 무...</a> <span class="news_writer">문가용 기자 | 2022년 02월 25일 11:37</span>]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/mud-thumb-0225.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NSA, 넥서스 스위치 제품에서 발견된 디도스 취약점을 시스코에 알려 (보안뉴스 ─ 국제)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105069&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105069&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
+            <pubDate>Fri, 25 Feb 2022 03:18:52 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/view.asp?idx=105069&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
+					
+					<img src="/media/upFiles2/2022/02/netw-thumb-0225.jpg" alt="" class="news_img" height="70">
+					
+					<span class="news_txt">NSA, 넥서스 스위치 제품에서 발견된 디도스 취약점을 시스코에 알려</span>
+					</a><br>
+					<a href="/media/view.asp?idx=105069&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">시스코가 FXOS와 NX-OS라는 네트워크 OS에서 발견된 네 가지 취약점에 대한 패치를 개발하고 배포했다. 이 중 하나는 디도스 공격 취약점으로, NSA가 시스...</a> <span class="news_writer">문가용 기자 | 2022년 02월 25일 11:35</span>]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/netw-thumb-0225.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[데이터 침해 사고의 비용, 너그럽게 계산하면 나중에 눈물 흘린다 (보안뉴스 ─ 국제)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105041&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105041&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
@@ -2090,76 +2160,6 @@
 					</a><br>
 					<a href="/media/view.asp?idx=104991&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">아동 럭셔리 브랜드인 멜리조(Melijoe)에서 대형 정보 노출 사고가 발생했다. 아동을 포함해 고객 20만여 명의 개인정보가 노출된 것으로 보이는데, 용량으로 ...</a> <span class="news_writer">문가용 기자 | 2022년 02월 23일 11:04</span>]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/kids-thumb-0223.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[중국의 APT10, 대만의 금융 무역 산업 겨냥해 (보안뉴스 ─ 국제)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104990&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104990&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
-            <pubDate>Wed, 23 Feb 2022 02:34:28 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/view.asp?idx=104990&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
-					
-					<img src="/media/upFiles2/2022/02/ct-thumb-0223.jpg" alt="" class="news_img" height="70">
-					
-					<span class="news_txt">중국의 APT10, 대만의 금융 무역 산업 겨냥해</span>
-					</a><br>
-					<a href="/media/view.asp?idx=104990&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">중국의 APT 단체인 APT10이 지난 해 11월부터 대만의 각종 조직들을 겨냥한 공급망 공격을 실시했다고 대만의 사이버 보안 업체 사이크래프트(CyCraft)가...</a> <span class="news_writer">문가용 기자 | 2022년 02월 23일 11:03</span>]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/ct-thumb-0223.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[봄을 맞아 조직의 사이버 강화를 꿈꾸는 CEO들이 알아야 할 것 (보안뉴스 ─ 국제)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104963&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104963&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
-            <pubDate>Tue, 22 Feb 2022 13:21:19 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/view.asp?idx=104963&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
-					
-					<img src="/media/upFiles2/2022/02/ceo-thumb-0222.jpg" alt="" class="news_img" height="70">
-					
-					<span class="news_txt">봄을 맞아 조직의 사이버 강화를 꿈꾸는 CEO들이 알아야 할 것</span>
-					</a><br>
-					<a href="/media/view.asp?idx=104963&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">3월, 봄이 다가온다. 한 해의 시작도 좋지만 봄도 다가오는 해를 위한 계획을 세우기에 좋은 시기다. 2021년에도 사이버 보안 업계에서는 각종 보안 사고, 대규...</a> <span class="news_writer">문가용 기자 | 2022년 02월 22일 21:36</span>]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/ceo-thumb-0222.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[재난이 몰려와도 통신은 계속되어야 한다면 미리 알아두어야 할 것들 (보안뉴스 ─ 국제)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104940&amp;page=1&amp;mkind=&amp;kind=4&amp;skind=D&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104940&amp;page=1&amp;mkind=&amp;kind=4&amp;skind=D&amp;search=title&amp;find=</guid>
-            <pubDate>Tue, 22 Feb 2022 08:21:42 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/view.asp?idx=104940&amp;page=1&amp;mkind=&amp;kind=4&amp;skind=D&amp;search=title&amp;find=">
-					
-					<img src="/media/upFiles2/2022/02/cable-thumb-0222.jpg" alt="" class="news_img" height="70">
-					
-					<span class="news_txt">재난이 몰려와도 통신은 계속되어야 한다면 미리 알아두어야 할 것들</span>
-					</a><br>
-					<a href="/media/view.asp?idx=104940&amp;page=1&amp;mkind=&amp;kind=4&amp;skind=D&amp;search=title&amp;find=">IT 담당자들은 해저 케이블, 지상 네트워크, 위성 통신의 갑작스런 중단과 같은 사태까지도 예상하고 서비스 연속성에 대한 계획을 세워두어야 한다. 하지만 그렇다고...</a> <span class="news_writer">문가용 기자 | 2022년 02월 22일 17:07</span>]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/cable-thumb-0222.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[오픈시 사용자들로부터 170만 달러 NFT 훔친 온라인 공격자들 (보안뉴스 ─ 국제)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104958&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104958&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
-            <pubDate>Tue, 22 Feb 2022 02:36:42 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/view.asp?idx=104958&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
-					
-					<img src="/media/upFiles2/2022/02/nft-thumb-0222.jpg" alt="" class="news_img" height="70">
-					
-					<span class="news_txt">오픈시 사용자들로부터 170만 달러 NFT 훔친 온라인 공격자들</span>
-					</a><br>
-					<a href="/media/view.asp?idx=104958&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">세계 최대의 NFT 거래소인 오픈시(OpenSea)에서 대형 도난 사건이 발생했다. 사용자들이 보유하고 있던 NFT 물품 수십 개가 피싱 공격으로 사라진 것이다....</a> <span class="news_writer">문가용 기자 | 2022년 02월 22일 11:28</span>]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/nft-thumb-0222.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미국 CISA, 무료 사이버 보안 도구와 서비스 공개 (보안뉴스 ─ 국제)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104957&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104957&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
-            <pubDate>Tue, 22 Feb 2022 02:36:42 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/view.asp?idx=104957&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
-					
-					<img src="/media/upFiles2/2022/02/tools-thumb-022.jpg" alt="" class="news_img" height="70">
-					
-					<span class="news_txt">미국 CISA, 무료 사이버 보안 도구와 서비스 공개</span>
-					</a><br>
-					<a href="/media/view.asp?idx=104957&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">미국의 사이버 보안 담당 기관인 CISA가 각종 보안 경고와 가이드라인을 발표하면서 무료로 여러 가지 보안 도구와 서비스도 함께 공개했다. CISA는 최근 정보 ...</a> <span class="news_writer">문가용 기자 | 2022년 02월 22일 11:27</span>]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/tools-thumb-022.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2022년 대한민국 보안시장 규모, 6조 4,453억원 전망 (보안뉴스 ─ 기획특집)]]></title>
