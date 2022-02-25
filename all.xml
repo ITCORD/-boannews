@@ -4,9 +4,24 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Feb 2022 01:02:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Feb 2022 02:12:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[과기정통부, 국가필수전략기술 확보 ‘첨병’ 연구장비산업 육성 본격 추진 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105054&amp;page=1&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105054&amp;page=1&amp;kind=2</guid>
+            <pubDate>Fri, 25 Feb 2022 02:10:18 GMT</pubDate>
+            <content:encoded><![CDATA[과학기술정보통신부는 지난 24일 국가 필수전략기술을 뒷받침할 연구장비산업을 집중 육성하기 위해 그간의 정책 방향을 점검하고 ‘미래선도연구장비 핵심기술개발사...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[부재중 전화알림 메일로 위장해 MS365 계정 노린 피싱 기승 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105067&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105067&amp;page=1&amp;kind=1</guid>
+            <pubDate>Fri, 25 Feb 2022 02:10:18 GMT</pubDate>
+            <content:encoded><![CDATA[최근 부재중 전화 알림, 팩스 수신 확인 등 업무 관련 내용을 위장한 피싱 메일로 사용자의 마이크로소프트365(이하 ‘MS365’) 계정을 탈취하는 공격 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/ahn_022501_main.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[과기정통부, 네트워크정책실장에 홍진배 정보보호네트워크정책관 임명 (보안뉴스 ─ 전체기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105065&amp;page=1&amp;kind=2</link>
@@ -72,172 +87,147 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/sam-thumb-0224.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[NSA의 이퀘이젼그룹과 관련된 리눅스 백도어의 세부 내용 공개돼 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105033&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105033&amp;page=1&amp;kind=1</guid>
-            <pubDate>Thu, 24 Feb 2022 03:14:40 GMT</pubDate>
-            <content:encoded><![CDATA[중국 팡구랩(Pangu Lab) 소속 연구원들이 이퀘이젼그룹(Equation Group)이라고 알려진 해킹 조직이 사용하는 리눅스 백도어에 대한 세부 내용...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/eq-thumb-0224.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[ETRI, 콘크리트 양생 품질 예측 모니터링 시스템 개발 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105047&amp;page=1&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105047&amp;page=1&amp;kind=2</guid>
+            <pubDate>Fri, 25 Feb 2022 02:10:18 GMT</pubDate>
+            <content:encoded><![CDATA[한국전자통신연구원(ETRI)은 건물 완공 후 인장력이나 비틀림, 진동측정 등이 가능한 광섬유 센서를 이용한 시스템을 개발하고 건설 현장 적용을 위한 시제품...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/2-242(295).jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[드리덱스 멀웨어, 엔트로피 랜섬웨어 퍼트려 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105032&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105032&amp;page=1&amp;kind=1</guid>
-            <pubDate>Thu, 24 Feb 2022 03:14:40 GMT</pubDate>
-            <content:encoded><![CDATA[악명 높은 ‘다목적 멀웨어’ 드리덱스(Dridex)가 엔트로피(Entropy)라는 랜섬웨어와 결탁한 듯한 모습을 보이고 있다. 드리덱스가 설치된 시스템이 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/ransom-thumb-0224.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[안양시, IoT 기반 도시데이터 63개소 복합센서 구축 마쳐 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105048&amp;page=1&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105048&amp;page=1&amp;kind=2</guid>
+            <pubDate>Fri, 25 Feb 2022 02:10:18 GMT</pubDate>
+            <content:encoded><![CDATA[안양시가 스마트과학행정에 성큼 다가선다. 안양시는 사업비 4억8,000만원을 들여 IoT(사물인터넷)를 기반으로 하는 환경 분야 데이터 수집 복합센서 구축...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/2-243(295).jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[우리 항만, 사물인터넷 기술로 더 똑똑해진다 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105064&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105064&amp;page=1&amp;kind=2</guid>
-            <pubDate>Fri, 25 Feb 2022 00:59:52 GMT</pubDate>
-            <content:encoded><![CDATA[해양수산부는 스마트 항만을 구축하기 위해 2019년 4월부터 추진해 온 ‘사물인터넷 기술(IoT) 기반 지능형 항만물류기술(Intelligence Port...]]></content:encoded>
+            <title><![CDATA[울산시, 시민 누구나 원하는 단계별 인공지능 교육 과정 완성 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105046&amp;page=1&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105046&amp;page=1&amp;kind=2</guid>
+            <pubDate>Fri, 25 Feb 2022 02:10:18 GMT</pubDate>
+            <content:encoded><![CDATA[울산시가 지난 24일 3개 관내 인공지능(AI)교육기관과 ‘인공지능(AI) 디지털 지역인재 양성 교육 과정 연계 및 고도화를 위한 상호협력 업무협약식’을 ...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[한국첨단안전산업협회, ‘제7차 정기총회’ 및 ‘첨단안전 기술교류 설명회·세미나’ 개최 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105042&amp;page=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105042&amp;page=1&amp;kind=3</guid>
-            <pubDate>Fri, 25 Feb 2022 00:59:52 GMT</pubDate>
-            <content:encoded><![CDATA[한국첨단안전산업협회(이하 KOHSIA)는 24일 더케이호텔서울에서 ‘제7차 정기총회’와 ‘첨단안전 기술교류 설명회 및 세미나’를 동시에 개최했다. 정부의 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/22022405ss.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[울산시, 차량·사물통신(V2X) 활용 ‘긴급차량 우선신호시스템’ 구축 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105045&amp;page=1&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105045&amp;page=1&amp;kind=2</guid>
+            <pubDate>Fri, 25 Feb 2022 02:10:18 GMT</pubDate>
+            <content:encoded><![CDATA[울산시는 차량·사물통신(V2X, vehicle to everything)을 활용한 ‘긴급차량 우선신호시스템’을 구축해 오는 4월부터 운영에 들어간다고 밝혔...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[파수, ‘SW기업경쟁력대상’ 기업역량강화 부문 대상 수상 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105066&amp;page=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105066&amp;page=1&amp;kind=3</guid>
-            <pubDate>Fri, 25 Feb 2022 00:59:52 GMT</pubDate>
-            <content:encoded><![CDATA[파수(이하 파수, 대표 조규곤)가 24일 ‘제21회 대한민국 SW기업경쟁력대상’의 기업역량 강화 부문에서 대상(과학기술정보통신부장관상)을 수상했다.]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/fasoo_022501_main.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[SKT, 진일보한 5G 단독모드(SA)로 글로벌 기술 진화 선도 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105049&amp;page=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105049&amp;page=1&amp;kind=3</guid>
+            <pubDate>Fri, 25 Feb 2022 02:10:18 GMT</pubDate>
+            <content:encoded><![CDATA[SK텔레콤과 삼성전자가 MWC22에서 진일보한 5G 단독모드(SA)에 대한 연구 성과를 공개하며 글로벌 5G 기술 진화를 선도한다. SK텔레콤은 이번 MW...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/2-245(295).jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[이노뎁, 대한항공과 플랫폼 기반 하이브리드 드론 사업 나선다 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105040&amp;page=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105040&amp;page=1&amp;kind=3</guid>
-            <pubDate>Fri, 25 Feb 2022 00:59:52 GMT</pubDate>
-            <content:encoded><![CDATA[이노뎁이 24일 부산 벡스코 드론쇼 코리아의 이노뎁 부스에서 대한항공과 ‘플랫폼 기반 하이브리드 드론 솔루션 협력 및 사업화’를 위한 협약(사진)을 체결했...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/22022501ss.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[창원시, 증액된 소방안전교부세 촘촘한 ‘창원특례시 소방안전망’ 구축 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105044&amp;page=1&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105044&amp;page=1&amp;kind=2</guid>
+            <pubDate>Fri, 25 Feb 2022 02:10:18 GMT</pubDate>
+            <content:encoded><![CDATA[창원시는 그동안 차별을 받아온 소방안전교부세의 불합리한 점을 끊임없이 설득하고 개선을 요구해 특례시 출범에 맞춰 전년보다 50%(21억여원)를 증액하는 성...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[Synology, DSM 7.1 베타 버전 출시 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105028&amp;page=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105028&amp;page=1&amp;kind=3</guid>
-            <pubDate>Thu, 24 Feb 2022 02:12:17 GMT</pubDate>
-            <content:encoded><![CDATA[시놀로지(Synology)가 시스템 관리자가 확장된 기능을 테스트할 수 있는 DiskStation Manager 7.1 베타 릴리스를 발표했다. DSM 7...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/22022401ss.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[자동차안전단속 결과, 등화장치 위반 53.2%로 가장 높아 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105043&amp;page=1&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105043&amp;page=1&amp;kind=2</guid>
+            <pubDate>Fri, 25 Feb 2022 02:10:18 GMT</pubDate>
+            <content:encoded><![CDATA[한국교통안전공단은 2021년 자동차안전단속 결과를 분석한 결과, “작년 한 해 동안 1만3,679대의 차량에 대해 2만477건의 위반 사항을 단속했으며, ...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[호드 웹메일 서비스에서 9년 된 취약점 발견돼 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105031&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105031&amp;page=1&amp;kind=1</guid>
-            <pubDate>Thu, 24 Feb 2022 03:14:40 GMT</pubDate>
-            <content:encoded><![CDATA[호드 웹메일(Horde Webmail)이라는 서비스에서 오래된 취약점이 뒤늦게 발견됐다. 이 취약점을 익스플로잇 하는 데 성공할 경우 피해자의 이메일 계정...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/mail-thumb-0224.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[보다 나은 해양 공공서비스, 바다 내비로 실현한다 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105050&amp;page=1&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105050&amp;page=1&amp;kind=2</guid>
+            <pubDate>Fri, 25 Feb 2022 02:10:18 GMT</pubDate>
+            <content:encoded><![CDATA[해양수산부는 지난해 수립한 ‘제1차 지능형 해상교통정보서비스(바다 내비게이션 서비스) 기본계획(2021~2025)’에 따라 세부 실천 계획인 ‘2022년 ...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[파수, 악성메일 모의훈련 서비스 ‘마인드 셋’ 출시 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105030&amp;page=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105030&amp;page=1&amp;kind=3</guid>
-            <pubDate>Thu, 24 Feb 2022 02:12:17 GMT</pubDate>
-            <content:encoded><![CDATA[파수(이하 파수, 대표 조규곤)가 임직원들의 보안 의식 향상을 위한 악성메일 모의훈련 서비스 ‘마인드 셋(Mind-SAT)’을 출시했다. 마인드 셋은 최근...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/fasoo_022401_main.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[조경식 과기정통부 2차관, 디지털 청년 지원 우수 기업 현장 방문 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105051&amp;page=1&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105051&amp;page=1&amp;kind=2</guid>
+            <pubDate>Fri, 25 Feb 2022 02:10:18 GMT</pubDate>
+            <content:encoded><![CDATA[과학기술정보통신부 조경식 제2차관은 지난 24일 소프트웨어(SW) 교육 기업인 ‘엘리스’ 서울 사무소를 방문했다. 이번 방문은 지난해 12월 2일 수립된 ...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[마이크로소프트, 멀티 클라우드 환경 보호하는 새로운 보안 솔루션 공개 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105027&amp;page=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105027&amp;page=1&amp;kind=3</guid>
-            <pubDate>Thu, 24 Feb 2022 00:59:49 GMT</pubDate>
-            <content:encoded><![CDATA[마이크로소프트가 멀티 클라우드 환경을 지원하는 새로운 보안 솔루션을 공개, 기업들의 보안 복잡성을 개선한다고 밝혔다.]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/MS_022401_main.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[인공지능의 윤리적 개발·활용을 촉진하는 논의의 장 마련됐다 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105052&amp;page=1&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105052&amp;page=1&amp;kind=2</guid>
+            <pubDate>Fri, 25 Feb 2022 02:10:18 GMT</pubDate>
+            <content:encoded><![CDATA[과학기술정보통신부는 정보통신정책연구원(KISDI)와 한국정보통신기술협회(TTA)와 함께 지난 24일 ‘제1기 인공지능 윤리 정책 포럼’ 출범식을 개최했다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[디지털 전환과 탄소중립 분야 국제표준 선점 가속화한다 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105023&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105023&amp;page=1&amp;kind=2</guid>
-            <pubDate>Thu, 24 Feb 2022 00:59:49 GMT</pubDate>
-            <content:encoded><![CDATA[정부가 디지털 전환과 탄소중립 분야 국제표준을 선점하기 위해 올해 표준화 연구개발(국가표준기술력향상사업)에 지난해(374억원) 대비 7.8% 증가한 403...]]></content:encoded>
+            <title><![CDATA[중기부, 2022년 ‘대-스타 해결사 플랫폼’ 사업 시행 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105053&amp;page=1&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105053&amp;page=1&amp;kind=2</guid>
+            <pubDate>Fri, 25 Feb 2022 02:10:18 GMT</pubDate>
+            <content:encoded><![CDATA[중소벤처기업부는 대기업이 과제를 제시하고 창업기업이 해결하는 2022년도 ‘대-스타 해결사 플랫폼’ 사업의 첫 번째 테마 ‘스마트 스타디움’ 분야 3개 과...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[세종의 집현전, 디지털 시대 국가지식정보 통합플랫폼으로 계승 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105021&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105021&amp;page=1&amp;kind=2</guid>
-            <pubDate>Thu, 24 Feb 2022 00:59:49 GMT</pubDate>
-            <content:encoded><![CDATA[과학기술정보통신부는 지난 23일 제1회 국가지식정보위원회를 개최했다. 위원회 첫 회의는 조선 전기 학문·문화 창달의 산실이었던 세종대왕 시대의 집현전(현재...]]></content:encoded>
+            <title><![CDATA[메타버스 플랫폼 생태계 조성 본격 시동 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105055&amp;page=1&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105055&amp;page=1&amp;kind=2</guid>
+            <pubDate>Fri, 25 Feb 2022 02:10:18 GMT</pubDate>
+            <content:encoded><![CDATA[과학기술정보통신부는 디지털뉴딜의 일환으로 국민의 일상생활과 경제활동을 지원하고 산업에 혁신을 가져올 메타버스 플랫폼 생태계를 활성화하기 위한 ‘메타버스 플...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[대한민국, 인공지능 민주적 가치 지수 선두 그룹으로 평가 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105020&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105020&amp;page=1&amp;kind=2</guid>
-            <pubDate>Thu, 24 Feb 2022 00:59:49 GMT</pubDate>
-            <content:encoded><![CDATA[과학기술정보통신부(이하 과기정통부)는 인공지능디지털정책센터가 이번 주 발표한 ‘2021 인공지능 민주적 가치(AIDV)’ 순위에서 조사 대상 50개국 중 ...]]></content:encoded>
+            <title><![CDATA[5G 신호 정확하게 측정할 수 있는 국내 기술 국제표준 채택 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105056&amp;page=1&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105056&amp;page=1&amp;kind=2</guid>
+            <pubDate>Fri, 25 Feb 2022 02:10:18 GMT</pubDate>
+            <content:encoded><![CDATA[과학기술정보통신부 국립전파연구원은 세계 최초로 자체 개발한 5세대(5G) 기지국의 전자파 평가 방법이 2022년 2월 10일에 개최된 기지국 전자파 평가 ...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[포티넷, 2021년 총 매출 및 2021년 4분기 실적 발표 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105026&amp;page=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105026&amp;page=1&amp;kind=3</guid>
-            <pubDate>Thu, 24 Feb 2022 00:59:49 GMT</pubDate>
-            <content:encoded><![CDATA[광범위하고 자동화된 통합 사이버보안 분야의 글로벌 리더인 포티넷코리아(대표 조원균)는 본사가, 2021년 12월 31일로 마감되는 2021년 총 매출 및 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/fori_022401_main.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[전자정부 서비스, 국민 10명 중 9명이 이용했다 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105057&amp;page=1&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105057&amp;page=1&amp;kind=2</guid>
+            <pubDate>Fri, 25 Feb 2022 02:10:18 GMT</pubDate>
+            <content:encoded><![CDATA[행정안전부는 한국지능정보사회진흥원과 함께 2021년 국민이 많이 이용한 전자정부서비스를 포함해 서비스의 △인지도 △이용률 △만족도 등에 대한 이용실태 조사...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[고용부, 3대 안전조치 현장점검의 날 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105019&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105019&amp;page=1&amp;kind=2</guid>
-            <pubDate>Thu, 24 Feb 2022 00:59:49 GMT</pubDate>
-            <content:encoded><![CDATA[고용노동부는 지난 23일 ‘현장점검의 날’을 맞아 3대 안전조치 이행 여부를 일제 점검하고 있다고 밝혔다. 또한 이번 점검에서는 겨우내 주춤했던 작업이 본...]]></content:encoded>
+            <title><![CDATA[디지털 혁신과 저탄소 시대, 일자리 해법은? (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105058&amp;page=1&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105058&amp;page=1&amp;kind=2</guid>
+            <pubDate>Fri, 25 Feb 2022 02:10:18 GMT</pubDate>
+            <content:encoded><![CDATA[한국고용정보원은 지난 24일 ‘대전환시대의 고용정책 패러다임 변화’를 주제로 온라인 세미나를 개최했다. 이번 행사는 한국고용정보원이 디지털 기술혁신과 저탄...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[국토지리정보원, 3월 4일부터 ‘긴급 공간정보 서비스’ (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105018&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105018&amp;page=1&amp;kind=2</guid>
-            <pubDate>Thu, 24 Feb 2022 00:59:49 GMT</pubDate>
-            <content:encoded><![CDATA[국토지리정보원은 대규모 산불 등 재난 발생 시 위성·항공·드론 등으로 신속하게 재난 현장을 촬영하고 고정밀의 공간정보(지도, 국토 통계정보 등)와 함께 제...]]></content:encoded>
+            <title><![CDATA[2022년, 5G의 더 넓고 높은 도약을 추진한다 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105059&amp;page=1&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105059&amp;page=1&amp;kind=2</guid>
+            <pubDate>Fri, 25 Feb 2022 02:10:18 GMT</pubDate>
+            <content:encoded><![CDATA[과학기술정보통신부(이하 과기정통부)는 2022년도 우리 5G의 지난 성과를 돌아보고 앞으로 나아갈 방향을 모색하기 위해 민·관 합동 ‘제6차 5G+ 전략위...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[소형 어선도 이제 바다 내비게이션 단말기 사용할 수 있다 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105017&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105017&amp;page=1&amp;kind=2</guid>
-            <pubDate>Thu, 24 Feb 2022 00:59:49 GMT</pubDate>
-            <content:encoded><![CDATA[해양수산부는 ‘바다 내비게이션 소형 송수신기 성능기준 설명회’를 24일 온라인으로 개최했다. 해양수산부는 지난해 1월부터 선박 안전 운항을 위해 실시간 전...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/2-232(295).jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[해빙기, 얼음판 출입에 각별히 주의해야 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105060&amp;page=1&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105060&amp;page=1&amp;kind=2</guid>
+            <pubDate>Fri, 25 Feb 2022 02:10:18 GMT</pubDate>
+            <content:encoded><![CDATA[행정안전부는 입춘(2.4.)과 우수(2.19.)를 지나며 겨우내 저수지와 하천 등에 얼었던 얼음이 녹으면서 발생하는 각종 안전사고에 각별한 주의를 요청했다...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[KT, 독자 개발 양자암호통신 품질평가 기준 ITU 국제표준 세계 최초 승인 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105016&amp;page=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105016&amp;page=1&amp;kind=3</guid>
-            <pubDate>Thu, 24 Feb 2022 00:59:49 GMT</pubDate>
-            <content:encoded><![CDATA[KT가 독자 개발한 양자암호통신 서비스 품질평가 기준이 국제전기통신연합(ITU)으로부터 세계 최초로 국제 표준 승인을 받았다고 밝혔다. 양자암호통신은 양자...]]></content:encoded>
+            <title><![CDATA[탄소중립, 지능형공장이 도와드립니다 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105061&amp;page=1&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105061&amp;page=1&amp;kind=2</guid>
+            <pubDate>Fri, 25 Feb 2022 02:10:18 GMT</pubDate>
+            <content:encoded><![CDATA[중소벤처기업부는 ‘탄소중립형 지능형공장(스마트공장)’ 지원 사업에 참여를 희망하는 중소·중견기업을 4월 5일까지 모집한다고 밝혔다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[SKT, 순천향대 부속 서울병원과 AI 기반 돌봄콜 업무협약 체결 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105015&amp;page=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105015&amp;page=1&amp;kind=3</guid>
-            <pubDate>Thu, 24 Feb 2022 00:59:49 GMT</pubDate>
-            <content:encoded><![CDATA[SK텔레콤이 순천향대 부속 서울병원과 퇴원 환자 건강 관리를 위한 AI 기반 돌봄콜 업무협약을 지난 23일 체결했다. 이번 협약을 통해 SKT와 순천향대서...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/2-230(295).jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[인사] 과학기술정보통신부 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105068&amp;page=1&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105068&amp;page=1&amp;kind=2</guid>
+            <pubDate>Fri, 25 Feb 2022 02:10:18 GMT</pubDate>
+            <content:encoded><![CDATA[◇과장급 전보 △거대공공연구정책과장 이준배(李準培, 원천기술과장)  △원천기술과장 권기석(權奇錫, 원자력연구개발과장)  △원자력연구개발과장 최미정(崔美貞,...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[LG유플러스, 부산대에 5G 스마트캠퍼스 조성한다 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105014&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105014&amp;page=1&amp;kind=2</guid>
-            <pubDate>Thu, 24 Feb 2022 00:59:49 GMT</pubDate>
-            <content:encoded><![CDATA[LG유플러스는 부산대와 5G 스마트캠퍼스를 조성한다. LG유플러스는 부산대 부산·양산·밀양·아미 4개 캠퍼스에 차세대 유·무선 네트워크 환경, 통합 정보보...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/2-229(295).jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국방부, 스마트 강군 건설을 위한 국방 분야 디지털 대전환 착수 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105012&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105012&amp;page=1&amp;kind=2</guid>
-            <pubDate>Thu, 24 Feb 2022 00:59:49 GMT</pubDate>
-            <content:encoded><![CDATA[과학기술정보통신부와 국방부는 지난 23일 열린 대통령 직속 4차산업혁명위원회 제27차 전체회의에서 ‘D·N·A 기반 스마트국방 전략’을 발표했다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[농진청, 사용자 편의성 높인 농업연구 데이터 관리시스템 구축 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105011&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105011&amp;page=1&amp;kind=2</guid>
-            <pubDate>Thu, 24 Feb 2022 00:59:49 GMT</pubDate>
-            <content:encoded><![CDATA[농촌진흥청은 4차 산업혁명 시대 과학기술 경쟁력으로 떠오른 연구데이터를 사용자가 쉽게 활용할 수 있도록 체계적으로 수집·저장하고 개방하는 디지털 연구 환경...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/2-226(295).jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[중소기업 혁신 기술, 스마트시티 국가시범도시에 담는다 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105062&amp;page=1&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105062&amp;page=1&amp;kind=2</guid>
+            <pubDate>Fri, 25 Feb 2022 02:10:18 GMT</pubDate>
+            <content:encoded><![CDATA[국토교통부는 스마트시티 국가시범도시(세종, 부산)에 중소기업의 혁신 기술을 적용하기 위해 지난 24일부터 공모를 시행한다고 밝혔다. 이번 공모는 국가시범도...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[러시아-우크라이나 전쟁 초읽기? 사이버상은 이미 대규모 해킹 공습중 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
@@ -286,14 +276,6 @@
             <pubDate>Wed, 23 Feb 2022 01:02:51 GMT</pubDate>
             <content:encoded><![CDATA[다크웹에 한국인 개인정보 판매글은 물론 한국기업의 랜섬웨어 공격으로 인한 정보 유출 협박까지 한국 기업과 국민들을 대상으로 한 공격이 계속 증가하고 있어 대책 마...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/dark_022201_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[최저 연봉 35만 달러로 상향한 아마존, 시장에 어떤 파장 일으킬까 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104862&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104862&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
-            <pubDate>Sat, 19 Feb 2022 04:19:24 GMT</pubDate>
-            <content:encoded><![CDATA[시대의 흐름을 선포하는 것처럼 아마존은 지난 주 기술 담당 및 본사 직원들의 최소 연봉을 35만 달러로 상향한다고 발표했다. 지난해 최저 연봉이 16만 달러였는데...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/sal-thumb-0217.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아이의 인터넷 사용 시간 제어하려다 마을 전체 다운시킨 아빠 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
@@ -360,14 +342,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/kra-thumb-0218.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[서울시, 민간 건축공사장 위험 상황 AI가 CCTV로 실시간 관제 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104876&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104876&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
-            <pubDate>Mon, 21 Feb 2022 04:20:19 GMT</pubDate>
-            <content:encoded><![CDATA[서울시와 서울디지털재단은 건축공사장의 위험 상황을 인공지능(AI)이 실시간 관제하는 ‘인공지능 기반 건축공사장 위험요소 관제 솔루션’을 중소 규모 민간 건축공사장...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/20220218cctv-s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[2022년 1월 발생한 스미싱의 80%는 ‘택배 스미싱’ (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104906&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104906&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
@@ -384,6 +358,22 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/2-170(295).jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[러시아와 우크라이나가 싸우니 OT 담당자들이 벌벌 떨어 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105037&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105037&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Fri, 25 Feb 2022 02:10:28 GMT</pubDate>
+            <content:encoded><![CDATA[러시아와 우크라이나 간 긴장감이 고조되면서 서방 국가 내 산업 현장의 네트워크 운영자들과 보안 팀들도 덩달아 긴장하고 있다. 러시아의 국가 지원을 받는 해커들이 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/site-thumb-0224.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[코로나19 자가검사키트 및 정책지원금 사칭한 보이스피싱 판친다 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105039&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105039&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Fri, 25 Feb 2022 02:10:28 GMT</pubDate>
+            <content:encoded><![CDATA[최근 코로나19(오미크론) 확진자 급증에 따른 국민들의 불안감 증폭을 악용해, 자가검사키트 공급·구매 등을 사유로 개인정보 입력을 유도한 후 자금을 편취하는 등의...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/21071894_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[태백시, 교통안전 시행계획 추진 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104901&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104901&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
@@ -397,6 +387,13 @@
             <pubDate>Thu, 24 Feb 2022 21:15:57 GMT</pubDate>
             <content:encoded><![CDATA[3월, 봄이 다가온다. 한 해의 시작도 좋지만 봄도 다가오는 해를 위한 계획을 세우기에 좋은 시기다. 2021년에도 사이버 보안 업계에서는 각종 보안 사고, 대규...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/ceo-thumb-0222.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[데이터 침해 사고의 비용, 너그럽게 계산하면 나중에 눈물 흘린다 (보안뉴스 ─ SECURITY)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105041&amp;page=1&amp;mkind=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105041&amp;page=1&amp;mkind=1&amp;kind=1</guid>
+            <pubDate>Fri, 25 Feb 2022 02:10:37 GMT</pubDate>
+            <content:encoded><![CDATA[정문에 자물쇠를 단단히 걸어 잠그면 집안에 있는 귀중품이 안전하게 보호될 확률이 올라간다는 사실을 알고 있다면, 당신은 자물쇠를 채울 것인가, 말 것인가? 가장 논리적이며 간단한 답은 “채울 것이다”이다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[코로나19 자가검사키트 및 정책지원금 사칭한 보이스피싱 판친다 (보안뉴스 ─ SECURITY)]]></title>
@@ -511,130 +508,158 @@
             <content:encoded><![CDATA[그것 참 이상하다. 피싱 피해 사례에 대한 소식이 그렇게 많이 나오고, 피싱 관련 교육이 그렇게나 지겹게 진행되는데도 상황이 전혀 개선되지 않고 있는 듯하니 말이다. 2021년 피싱 공격으로부터 시작된 각종 랜섬웨어 및 BEC 공격의 빈도와 피해 규모는 2020년의 그...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[세상 모든 곳에 존재하는 오픈소스만 잡아도 보안은 높게 유지된다 (보안뉴스 ─ SECURITY)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104962&amp;page=1&amp;mkind=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104962&amp;page=1&amp;mkind=1&amp;kind=1</guid>
-            <pubDate>Wed, 23 Feb 2022 09:15:00 GMT</pubDate>
-            <content:encoded><![CDATA[오픈소스 소프트웨어는 어디에나 존재한다. 기술 혁신의 촉진제이기도 하며, 애플리케이션 마감 시간을 실질적으로 단축시켜주는 일등공신이기도 하다. 동시에 각종 보안 사건을 초래하는 구멍이기도 하며, 공격자들이 드나드는 통로가 되기도 한다.  ‘어디에나 있다’는 특성 때문에...]]></content:encoded>
+            <title><![CDATA[보다 나은 해양 공공서비스, 바다 내비로 실현한다 (보안뉴스 ─ IT)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105050&amp;page=1&amp;mkind=2&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105050&amp;page=1&amp;mkind=2&amp;kind=2</guid>
+            <pubDate>Fri, 25 Feb 2022 02:10:46 GMT</pubDate>
+            <content:encoded><![CDATA[해양수산부는 지난해 수립한 ‘제1차 지능형 해상교통정보서비스(바다 내비게이션 서비스) 기본계획(2021~2025)’에 따라 세부 실천 계획인 ‘2022년 바다 내비게이션 서비스 시행 계획’을 수립해 시행한다고 밝혔다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[대한민국, 인공지능 민주적 가치 지수 선두 그룹으로 평가 (보안뉴스 ─ IT)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105020&amp;page=1&amp;mkind=2&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105020&amp;page=1&amp;mkind=2&amp;kind=2</guid>
-            <pubDate>Fri, 25 Feb 2022 01:00:25 GMT</pubDate>
-            <content:encoded><![CDATA[과학기술정보통신부(이하 과기정통부)는 인공지능디지털정책센터가 이번 주 발표한 ‘2021 인공지능 민주적 가치(AIDV)’ 순위에서 조사 대상 50개국 중 한국이 최상위 등급을 받았다고 밝혔다.]]></content:encoded>
+            <title><![CDATA[조경식 과기정통부 2차관, 디지털 청년 지원 우수 기업 현장 방문 (보안뉴스 ─ IT)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105051&amp;page=1&amp;mkind=2&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105051&amp;page=1&amp;mkind=2&amp;kind=2</guid>
+            <pubDate>Fri, 25 Feb 2022 02:10:46 GMT</pubDate>
+            <content:encoded><![CDATA[과학기술정보통신부 조경식 제2차관은 지난 24일 소프트웨어(SW) 교육 기업인 ‘엘리스’ 서울 사무소를 방문했다. 이번 방문은 지난해 12월 2일 수립된 ‘디지털 대전환 시대의 청년 지원 정책’ 및 디지털 뉴딜의 내실있는 추진을 위한 현장 행보의 일환으로, 청년 교육 ...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[소형 어선도 이제 바다 내비게이션 단말기 사용할 수 있다 (보안뉴스 ─ IT)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105017&amp;page=1&amp;mkind=2&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105017&amp;page=1&amp;mkind=2&amp;kind=2</guid>
-            <pubDate>Thu, 24 Feb 2022 01:00:15 GMT</pubDate>
-            <content:encoded><![CDATA[해양수산부는 ‘바다 내비게이션 소형 송수신기 성능기준 설명회’를 24일 온라인으로 개최했다. 해양수산부는 지난해 1월부터 선박 안전 운항을 위해 실시간 전자해도·기상정보와 위험정보 제공 등 바다 내비게이션 서비스를 세계 최초로 실시하고 있으나, 서비스 단말기가 소형 선...]]></content:encoded>
+            <title><![CDATA[인공지능의 윤리적 개발·활용을 촉진하는 논의의 장 마련됐다 (보안뉴스 ─ IT)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105052&amp;page=1&amp;mkind=2&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105052&amp;page=1&amp;mkind=2&amp;kind=2</guid>
+            <pubDate>Fri, 25 Feb 2022 02:10:46 GMT</pubDate>
+            <content:encoded><![CDATA[과학기술정보통신부는 정보통신정책연구원(KISDI)와 한국정보통신기술협회(TTA)와 함께 지난 24일 ‘제1기 인공지능 윤리 정책 포럼’ 출범식을 개최했다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[SKT, 순천향대 부속 서울병원과 AI 기반 돌봄콜 업무협약 체결 (보안뉴스 ─ IT)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105015&amp;page=1&amp;mkind=2&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105015&amp;page=1&amp;mkind=2&amp;kind=3</guid>
-            <pubDate>Thu, 24 Feb 2022 01:00:15 GMT</pubDate>
-            <content:encoded><![CDATA[SK텔레콤이 순천향대 부속 서울병원과 퇴원 환자 건강 관리를 위한 AI 기반 돌봄콜 업무협약을 지난 23일 체결했다. 이번 협약을 통해 SKT와 순천향대서울병원은 퇴원 환자의 수술 경과 상태를 확인하고 필요 조치에 대한 도움을 주거나 주요 검사 일정 안내 및 내원 여부...]]></content:encoded>
+            <title><![CDATA[중기부, 2022년 ‘대-스타 해결사 플랫폼’ 사업 시행 (보안뉴스 ─ IT)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105053&amp;page=1&amp;mkind=2&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105053&amp;page=1&amp;mkind=2&amp;kind=2</guid>
+            <pubDate>Fri, 25 Feb 2022 02:10:46 GMT</pubDate>
+            <content:encoded><![CDATA[중소벤처기업부는 대기업이 과제를 제시하고 창업기업이 해결하는 2022년도 ‘대-스타 해결사 플랫폼’ 사업의 첫 번째 테마 ‘스마트 스타디움’ 분야 3개 과제를 시작으로 25일부터 시행한다고 밝혔다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[LG유플러스, 부산대에 5G 스마트캠퍼스 조성한다 (보안뉴스 ─ IT)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105014&amp;page=1&amp;mkind=2&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105014&amp;page=1&amp;mkind=2&amp;kind=2</guid>
-            <pubDate>Thu, 24 Feb 2022 01:00:15 GMT</pubDate>
-            <content:encoded><![CDATA[LG유플러스는 부산대와 5G 스마트캠퍼스를 조성한다. LG유플러스는 부산대 부산·양산·밀양·아미 4개 캠퍼스에 차세대 유·무선 네트워크 환경, 통합 정보보안 솔루션, 통합 관제 시스템 등 ICT 인프라 구축을 완료했다.]]></content:encoded>
+            <title><![CDATA[과기정통부, 국가필수전략기술 확보 ‘첨병’ 연구장비산업 육성 본격 추진 (보안뉴스 ─ IT)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105054&amp;page=1&amp;mkind=2&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105054&amp;page=1&amp;mkind=2&amp;kind=2</guid>
+            <pubDate>Fri, 25 Feb 2022 02:10:46 GMT</pubDate>
+            <content:encoded><![CDATA[과학기술정보통신부는 지난 24일 국가 필수전략기술을 뒷받침할 연구장비산업을 집중 육성하기 위해 그간의 정책 방향을 점검하고 ‘미래선도연구장비 핵심기술개발사업’ 사업단을 개소했다고 밝혔다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[농진청, 사용자 편의성 높인 농업연구 데이터 관리시스템 구축 (보안뉴스 ─ IT)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105011&amp;page=1&amp;mkind=2&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105011&amp;page=1&amp;mkind=2&amp;kind=2</guid>
-            <pubDate>Thu, 24 Feb 2022 01:00:15 GMT</pubDate>
-            <content:encoded><![CDATA[농촌진흥청은 4차 산업혁명 시대 과학기술 경쟁력으로 떠오른 연구데이터를 사용자가 쉽게 활용할 수 있도록 체계적으로 수집·저장하고 개방하는 디지털 연구 환경을 조성한다고 밝혔다.]]></content:encoded>
+            <title><![CDATA[메타버스 플랫폼 생태계 조성 본격 시동 (보안뉴스 ─ IT)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105055&amp;page=1&amp;mkind=2&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105055&amp;page=1&amp;mkind=2&amp;kind=2</guid>
+            <pubDate>Fri, 25 Feb 2022 02:10:46 GMT</pubDate>
+            <content:encoded><![CDATA[과학기술정보통신부는 디지털뉴딜의 일환으로 국민의 일상생활과 경제활동을 지원하고 산업에 혁신을 가져올 메타버스 플랫폼 생태계를 활성화하기 위한 ‘메타버스 플랫폼 개발 지원 사업’을 25일 공고했다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[KAI, 우주항공 분야에 AI·빅데이터 등 4차 산업 기술 본격 적용 (보안뉴스 ─ IT)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105008&amp;page=1&amp;mkind=2&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105008&amp;page=1&amp;mkind=2&amp;kind=2</guid>
-            <pubDate>Thu, 24 Feb 2022 01:00:15 GMT</pubDate>
-            <content:encoded><![CDATA[한국항공우주산업(KAI)는 지난 22일 코난테크놀로지와 AI, 빅데이터 기반 우주항공 분야 기술력 강화를 위한 업무협력(MOA)을 맺었다고 밝혔다.]]></content:encoded>
+            <title><![CDATA[5G 신호 정확하게 측정할 수 있는 국내 기술 국제표준 채택 (보안뉴스 ─ IT)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105056&amp;page=1&amp;mkind=2&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105056&amp;page=1&amp;mkind=2&amp;kind=2</guid>
+            <pubDate>Fri, 25 Feb 2022 02:10:46 GMT</pubDate>
+            <content:encoded><![CDATA[과학기술정보통신부 국립전파연구원은 세계 최초로 자체 개발한 5세대(5G) 기지국의 전자파 평가 방법이 2022년 2월 10일에 개최된 기지국 전자파 평가 방법 관련 국제전기기술위원회(IEC) 국제회의에서 국제표준으로 채택됐다고 밝혔다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[경남도, NHN과 함께 도내 우수 정보통신인재 양성 (보안뉴스 ─ IT)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105006&amp;page=1&amp;mkind=2&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105006&amp;page=1&amp;mkind=2&amp;kind=2</guid>
-            <pubDate>Thu, 24 Feb 2022 01:00:15 GMT</pubDate>
-            <content:encoded><![CDATA[경남도는 세계적 정보통신기업인 엔에이치엔㈜(NHN)과 함께 도내 우수 정보통신인재를 양성한다. NHN은 정보통신인재를 양성하는 자체 교육기관인 ‘NHN 아카데미’를 올해 3월 중 경남 김해에 출범하기 위한 막바지 준비가 한창이다.]]></content:encoded>
+            <title><![CDATA[전자정부 서비스, 국민 10명 중 9명이 이용했다 (보안뉴스 ─ IT)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105057&amp;page=1&amp;mkind=2&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105057&amp;page=1&amp;mkind=2&amp;kind=2</guid>
+            <pubDate>Fri, 25 Feb 2022 02:10:46 GMT</pubDate>
+            <content:encoded><![CDATA[행정안전부는 한국지능정보사회진흥원과 함께 2021년 국민이 많이 이용한 전자정부서비스를 포함해 서비스의 △인지도 △이용률 △만족도 등에 대한 이용실태 조사 결과를 발표했다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[중소기업의 기술 보호·지식재산권 분쟁 대응, 경기도가 도와드립니다 (보안뉴스 ─ IT)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104964&amp;page=1&amp;mkind=2&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104964&amp;page=1&amp;mkind=2&amp;kind=2</guid>
-            <pubDate>Thu, 24 Feb 2022 01:00:15 GMT</pubDate>
-            <content:encoded><![CDATA[경기도는 기술 탈취·유출, 지식재산권 분쟁 등으로 어려움을 겪고 있는 도내 중소·벤처기업을 대상으로 ‘2022 지식재산 보호 강화 지원 사업’을 추진한다고 밝혔다.]]></content:encoded>
+            <title><![CDATA[디지털 혁신과 저탄소 시대, 일자리 해법은? (보안뉴스 ─ IT)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105058&amp;page=1&amp;mkind=2&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105058&amp;page=1&amp;mkind=2&amp;kind=2</guid>
+            <pubDate>Fri, 25 Feb 2022 02:10:46 GMT</pubDate>
+            <content:encoded><![CDATA[한국고용정보원은 지난 24일 ‘대전환시대의 고용정책 패러다임 변화’를 주제로 온라인 세미나를 개최했다. 이번 행사는 한국고용정보원이 디지털 기술혁신과 저탄소 산업구조 전환에 따른 고용정책 변화의 방향을 모색하고 고용안정 강화를 위한 대안을 제시하기 위해 2021년도에 ...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[충주시, 200억 규모 XR 실증단지 구축 사업 본격 추진 (보안뉴스 ─ IT)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104968&amp;page=1&amp;mkind=2&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104968&amp;page=1&amp;mkind=2&amp;kind=2</guid>
-            <pubDate>Thu, 24 Feb 2022 01:00:15 GMT</pubDate>
-            <content:encoded><![CDATA[충주시가 4차 산업혁명을 선도하는 가상현실 기술의 산업 도입을 위한 본격적인 행보에 나선다. 시에 따르면 2022년 산업통상자원부 정부 예산에 ‘소재·부품·장비(소부장) 산업 연계 XR 실증단지 구축 사업’을 반영했다.]]></content:encoded>
+            <title><![CDATA[2022년, 5G의 더 넓고 높은 도약을 추진한다 (보안뉴스 ─ IT)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105059&amp;page=1&amp;mkind=2&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105059&amp;page=1&amp;mkind=2&amp;kind=2</guid>
+            <pubDate>Fri, 25 Feb 2022 02:10:46 GMT</pubDate>
+            <content:encoded><![CDATA[과학기술정보통신부(이하 과기정통부)는 2022년도 우리 5G의 지난 성과를 돌아보고 앞으로 나아갈 방향을 모색하기 위해 민·관 합동 ‘제6차 5G+ 전략위원회’(이하 전략위)를 지난 24일 개최했다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[경북도, 전국 시·도 최초로 정보시스템 클라우드 대전환 (보안뉴스 ─ IT)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104970&amp;page=1&amp;mkind=2&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104970&amp;page=1&amp;mkind=2&amp;kind=2</guid>
-            <pubDate>Thu, 24 Feb 2022 01:00:15 GMT</pubDate>
-            <content:encoded><![CDATA[경북도는 지난 21일 지역 행정·공공기관에서 운영 중인 각종 정보시스템의 클라우드 전환·통합 방안 논의를 위해 시군, NIA, KT 등 관계기관 50여명이 참석하는 간담회를 개최했다고 밝혔다.]]></content:encoded>
+            <title><![CDATA[탄소중립, 지능형공장이 도와드립니다 (보안뉴스 ─ IT)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105061&amp;page=1&amp;mkind=2&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105061&amp;page=1&amp;mkind=2&amp;kind=2</guid>
+            <pubDate>Fri, 25 Feb 2022 02:10:46 GMT</pubDate>
+            <content:encoded><![CDATA[중소벤처기업부는 ‘탄소중립형 지능형공장(스마트공장)’ 지원 사업에 참여를 희망하는 중소·중견기업을 4월 5일까지 모집한다고 밝혔다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[방통위, ‘메타시대 디지털 시민사회 성장전략’ 컨퍼런스 개최 (보안뉴스 ─ IT)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104973&amp;page=1&amp;mkind=2&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104973&amp;page=1&amp;mkind=2&amp;kind=2</guid>
-            <pubDate>Wed, 23 Feb 2022 06:20:04 GMT</pubDate>
-            <content:encoded><![CDATA[방송통신위원회는 23일 ‘메타시대 디지털 시민사회 성장전략’ 컨퍼런스를 개최했다. 이번 컨퍼런스는 메타버스 플랫폼을 이용해 진행됐다.]]></content:encoded>
+            <title><![CDATA[[인사] 과학기술정보통신부 (보안뉴스 ─ IT)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105068&amp;page=1&amp;mkind=2&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105068&amp;page=1&amp;mkind=2&amp;kind=2</guid>
+            <pubDate>Fri, 25 Feb 2022 02:10:46 GMT</pubDate>
+            <content:encoded><![CDATA[◇과장급 전보 △거대공공연구정책과장 이준배(李準培, 원천기술과장)  △원천기술과장 권기석(權奇錫, 원자력연구개발과장)  △원자력연구개발과장 최미정(崔美貞, 사이버침해대응과장) △사이버침해대응과장 설재진(薛在眞, 네트워크정책과)]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[중기부, 벤처기업 SW 일자리 미스매칭 해결 나선다 (보안뉴스 ─ IT)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104974&amp;page=1&amp;mkind=2&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104974&amp;page=1&amp;mkind=2&amp;kind=2</guid>
-            <pubDate>Wed, 23 Feb 2022 06:20:04 GMT</pubDate>
-            <content:encoded><![CDATA[중소벤처기업부는 지난 22일 디지털 전환과 제2벤처 열기(붐)으로 급증한 소프트웨어(SW)개발자 인력 공급을 위해 ‘2022년 벤처스타트업 아카데미’ 사업을 본격 시행한다고 밝혔다.]]></content:encoded>
+            <title><![CDATA[중소기업 혁신 기술, 스마트시티 국가시범도시에 담는다 (보안뉴스 ─ IT)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105062&amp;page=1&amp;mkind=2&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105062&amp;page=1&amp;mkind=2&amp;kind=2</guid>
+            <pubDate>Fri, 25 Feb 2022 02:10:46 GMT</pubDate>
+            <content:encoded><![CDATA[국토교통부는 스마트시티 국가시범도시(세종, 부산)에 중소기업의 혁신 기술을 적용하기 위해 지난 24일부터 공모를 시행한다고 밝혔다. 이번 공모는 국가시범도시에 도입 가능한 혁신 기술을 보유하고 있는 중소기업을 선정해 지원함으로써 스마트시티 산업생태계를 강화하기 위해 기...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[혁신적 도전으로 의료 인공지능의 미래를 선도한다 (보안뉴스 ─ IT)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104975&amp;page=1&amp;mkind=2&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104975&amp;page=1&amp;mkind=2&amp;kind=2</guid>
-            <pubDate>Wed, 23 Feb 2022 06:20:04 GMT</pubDate>
-            <content:encoded><![CDATA[과학기술정보통신부와 정보통신산업진흥원은 디지털뉴딜의 일환으로 2022년 의료 분야 인공지능 융합 신규 과제 공모를 23일부터 시작한다고 밝혔다.]]></content:encoded>
+            <title><![CDATA[공정위, 클라우드 분야에 대한 실태조사 실시 (보안뉴스 ─ IT)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105063&amp;page=1&amp;mkind=2&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105063&amp;page=1&amp;mkind=2&amp;kind=2</guid>
+            <pubDate>Fri, 25 Feb 2022 02:10:46 GMT</pubDate>
+            <content:encoded><![CDATA[공정거래위원회는 지난 24일부터 주요 클라우드 사업자 및 클라우드 서비스 이용사 등 이해관계자들을 대상으로 클라우드 시장에 대한 실태조사를 실시한다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[산업 데이터 표준화·상호운용성 실증 사업 확대한다 (보안뉴스 ─ IT)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104976&amp;page=1&amp;mkind=2&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104976&amp;page=1&amp;mkind=2&amp;kind=2</guid>
-            <pubDate>Wed, 23 Feb 2022 06:20:04 GMT</pubDate>
-            <content:encoded><![CDATA[산업통상자원부 국가기술표준원은 기업의 산업 데이터 융합·활용·표준화를 지원하는 ‘산업 데이터 표준화 및 인증 지원 연구개발(R&amp;D) 사업’ 2022년 신규 과제를 지난 22일 산업기술 연구개발 정보포털(itech.keir.re.kr)에 공고했다.]]></content:encoded>
+            <title><![CDATA[우리 항만, 사물인터넷 기술로 더 똑똑해진다 (보안뉴스 ─ IT)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105064&amp;page=1&amp;mkind=2&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105064&amp;page=1&amp;mkind=2&amp;kind=2</guid>
+            <pubDate>Fri, 25 Feb 2022 02:10:46 GMT</pubDate>
+            <content:encoded><![CDATA[해양수산부는 스마트 항만을 구축하기 위해 2019년 4월부터 추진해 온 ‘사물인터넷 기술(IoT) 기반 지능형 항만물류기술(Intelligence Port Logistics Technology, IPLT) 개발 사업’을 완료하고 3월 8일부터 3월 말까지 부산항에서 통...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[특허청, 지식재산 금융 6조원 돌파... 지난해 2.5조원 신규 공급 (보안뉴스 ─ IT)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104977&amp;page=1&amp;mkind=2&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104977&amp;page=1&amp;mkind=2&amp;kind=2</guid>
-            <pubDate>Wed, 23 Feb 2022 06:20:04 GMT</pubDate>
-            <content:encoded><![CDATA[특허청은 지식재산 금융 잔액이 사상 최초로 6조원(6조90억원)을 돌파했고, 2021년 신규 공급은 2조5,041억원으로 전년(2조640억원) 대비 21.3% 증가했다고 밝혔다.]]></content:encoded>
+            <title><![CDATA[디지털 전환과 탄소중립 분야 국제표준 선점 가속화한다 (보안뉴스 ─ IT)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105023&amp;page=1&amp;mkind=2&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105023&amp;page=1&amp;mkind=2&amp;kind=2</guid>
+            <pubDate>Fri, 25 Feb 2022 02:10:46 GMT</pubDate>
+            <content:encoded><![CDATA[정부가 디지털 전환과 탄소중립 분야 국제표준을 선점하기 위해 올해 표준화 연구개발(국가표준기술력향상사업)에 지난해(374억원) 대비 7.8% 증가한 403억원의 예산을 투입한다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[한국판 뉴딜 정책의 지역 확산을 위한 교육의 장 마련 (보안뉴스 ─ IT)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104978&amp;page=1&amp;mkind=2&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104978&amp;page=1&amp;mkind=2&amp;kind=2</guid>
-            <pubDate>Wed, 23 Feb 2022 06:20:04 GMT</pubDate>
-            <content:encoded><![CDATA[행안부 지방자치인재개발원은 지난 22일부터 24일까지 중앙 및 지방자치단체 공무원을 대상으로 올해 첫 번째 시책 교육 과정인 ‘대한민국 대전환, 한국판 뉴딜 정책 과정’을 운영한다고 밝혔다.]]></content:encoded>
+            <title><![CDATA[세종의 집현전, 디지털 시대 국가지식정보 통합플랫폼으로 계승 (보안뉴스 ─ IT)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105021&amp;page=1&amp;mkind=2&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105021&amp;page=1&amp;mkind=2&amp;kind=2</guid>
+            <pubDate>Fri, 25 Feb 2022 02:10:46 GMT</pubDate>
+            <content:encoded><![CDATA[과학기술정보통신부는 지난 23일 제1회 국가지식정보위원회를 개최했다. 위원회 첫 회의는 조선 전기 학문·문화 창달의 산실이었던 세종대왕 시대의 집현전(현재 수정전) 터가 있는 경복궁(흥복전)에서 개최해 그 의미를 더했다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[KT, 전국 도서·산간 통신 장애 AI 관제 시스템 도입 (보안뉴스 ─ IT)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104979&amp;page=1&amp;mkind=2&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104979&amp;page=1&amp;mkind=2&amp;kind=3</guid>
-            <pubDate>Wed, 23 Feb 2022 06:20:04 GMT</pubDate>
-            <content:encoded><![CDATA[KT가 전국 도서·산간에 무선 통신을 제공하기 위한 필수 설비인 마이크로웨이브의 장애를 인공지능(AI)으로 관제하는 ‘닥터 마이크로웨이브’를 도입했다고 밝혔다.]]></content:encoded>
+            <title><![CDATA[자동차안전단속 결과, 등화장치 위반 53.2%로 가장 높아 (보안뉴스 ─ SAFETY)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105043&amp;page=1&amp;mkind=4&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105043&amp;page=1&amp;mkind=4&amp;kind=2</guid>
+            <pubDate>Fri, 25 Feb 2022 02:10:56 GMT</pubDate>
+            <content:encoded><![CDATA[한국교통안전공단은 2021년 자동차안전단속 결과를 분석한 결과, “작년 한 해 동안 1만3,679대의 차량에 대해 2만477건의 위반 사항을 단속했으며, 전체 항목 중 등화장치 관련 위반이 53.2%(1만902건)로 가장 많았다”고 밝혔다.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[해빙기, 얼음판 출입에 각별히 주의해야 (보안뉴스 ─ SAFETY)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105060&amp;page=1&amp;mkind=4&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105060&amp;page=1&amp;mkind=4&amp;kind=2</guid>
+            <pubDate>Fri, 25 Feb 2022 02:10:56 GMT</pubDate>
+            <content:encoded><![CDATA[행정안전부는 입춘(2.4.)과 우수(2.19.)를 지나며 겨우내 저수지와 하천 등에 얼었던 얼음이 녹으면서 발생하는 각종 안전사고에 각별한 주의를 요청했다.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[고용부, 3대 안전조치 현장점검의 날 (보안뉴스 ─ SAFETY)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105019&amp;page=1&amp;mkind=4&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105019&amp;page=1&amp;mkind=4&amp;kind=2</guid>
+            <pubDate>Fri, 25 Feb 2022 02:10:56 GMT</pubDate>
+            <content:encoded><![CDATA[고용노동부는 지난 23일 ‘현장점검의 날’을 맞아 3대 안전조치 이행 여부를 일제 점검하고 있다고 밝혔다. 또한 이번 점검에서는 겨우내 주춤했던 작업이 본격적으로 이뤄지는 해빙기(2~4월)에 발생할 수 있는 산재 사망사고를 줄이고 이를 대비하기 위해 각종 위험한 요소를...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[국토지리정보원, 3월 4일부터 ‘긴급 공간정보 서비스’ (보안뉴스 ─ SAFETY)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105018&amp;page=1&amp;mkind=4&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105018&amp;page=1&amp;mkind=4&amp;kind=2</guid>
+            <pubDate>Fri, 25 Feb 2022 02:10:56 GMT</pubDate>
+            <content:encoded><![CDATA[국토지리정보원은 대규모 산불 등 재난 발생 시 위성·항공·드론 등으로 신속하게 재난 현장을 촬영하고 고정밀의 공간정보(지도, 국토 통계정보 등)와 함께 제공하는 ‘긴급 공간정보 서비스’를 오는 3월 4일부터 본격 제공한다고 밝혔다.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[대구소방, 화재 현장 7분 이내 도착률 높인다 (보안뉴스 ─ SAFETY)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105010&amp;page=1&amp;mkind=4&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105010&amp;page=1&amp;mkind=4&amp;kind=2</guid>
+            <pubDate>Fri, 25 Feb 2022 02:10:56 GMT</pubDate>
+            <content:encoded><![CDATA[대구소방안전본부는 재난 현장 골든타임 확보를 위해 4대 중점 과제를 추진하는 등 7분 내 도착률을 85.5%까지 끌어올릴 계획이라고 밝혔다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[경남도, 어린이보호구역 교통안전시설개선에 264억원 투입 (보안뉴스 ─ SAFETY)]]></title>
@@ -721,41 +746,6 @@
             <content:encoded><![CDATA[광주광역시 소방안전본부는 최근 광주 지역에서 무분별하게 버려지는 담배꽁초로 인한 화재가 발생함에 따라 각별한 주의가 필요하다고 당부했다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[국립문화재연구소, 3개국 지진피해 조사 결과와 대응책 수록한 보고서 발간 (보안뉴스 ─ SAFETY)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104893&amp;page=1&amp;mkind=4&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104893&amp;page=1&amp;mkind=4&amp;kind=2</guid>
-            <pubDate>Sat, 19 Feb 2022 09:16:15 GMT</pubDate>
-            <content:encoded><![CDATA[문화재청 국립문화재연구소는 문화재 지진피해 국외 사례 조사 결과를 수록한 ‘국외 문화재 지진피해와 대응 사례’를 발간했다. 보고서에는 3년간(2017~2019년)에 걸쳐 시행한 네팔, 대만, 이탈리아 등 3개국의 지진으로 인한 문화재 피해와 복구 사례에 대한 조사 결과...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[인사] 환경부 (보안뉴스 ─ SAFETY)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104890&amp;page=1&amp;mkind=4&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104890&amp;page=1&amp;mkind=4&amp;kind=2</guid>
-            <pubDate>Sat, 19 Feb 2022 09:16:15 GMT</pubDate>
-            <content:encoded><![CDATA[◇개방형직위 임용 △국립환경인재개발원장 김효석(2022년 2월 21일자)]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[광주소방, ‘인공지능 신고접수시스템’ 본격 운영 (보안뉴스 ─ SAFETY)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104875&amp;page=1&amp;mkind=4&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104875&amp;page=1&amp;mkind=4&amp;kind=2</guid>
-            <pubDate>Sat, 19 Feb 2022 09:16:15 GMT</pubDate>
-            <content:encoded><![CDATA[광주광역시 소방안전본부는 ‘인공지능 기반 119신고접수시스템’을 구축하고 본격 운영에 들어갔다. 음성 인식에 기반한 119신고접수시스템은 신고 접수와 동시에 신고자의 음성과 신고 내용의 핵심어를 텍스트로 표출하는 것으로, 119상황실 신고 접수자가 화면을 보면서 재난 ...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[부산시, 교통사고 재발 방지 및 교통약자 보호 나선다 (보안뉴스 ─ SAFETY)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104873&amp;page=1&amp;mkind=4&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104873&amp;page=1&amp;mkind=4&amp;kind=2</guid>
-            <pubDate>Sat, 19 Feb 2022 09:16:15 GMT</pubDate>
-            <content:encoded><![CDATA[부산시는 교통사고 재발 방지와 교통약자 보호를 위해 올해 총 135억원을 투입해 도로 및 교통체계 개선에 나선다고 밝혔다. 부산시는 행정안전부, 경찰청, 도로교통공단, 자치구·군 등과 유기적으로 협력해 교통사고가 빈번하거나 도로 구조 개선이 필요한 곳에 대한 모니터링과...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[위급 상황, 소화기·완강기·자동심장충격기 사용은 이렇게! (보안뉴스 ─ SAFETY)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104866&amp;page=1&amp;mkind=4&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104866&amp;page=1&amp;mkind=4&amp;kind=2</guid>
-            <pubDate>Fri, 18 Feb 2022 11:13:30 GMT</pubDate>
-            <content:encoded><![CDATA[행정안전부는 생활 주변에서 흔히 볼 수 있는 소화기와 완강기, 자동심장충격기 등에 대한 사용법을 숙지해 위급 상황에서 활용할 수 있도록 사용법을 안내했다.]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[한국첨단안전산업협회, ‘제7차 정기총회’ 및 ‘첨단... (보안뉴스 ─ Security World)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105042&amp;mkind=5</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105042&amp;mkind=5</guid>
@@ -770,6 +760,20 @@
             <pubDate>Fri, 25 Feb 2022 01:00:47 GMT</pubDate>
             <content:encoded><![CDATA[이노뎁이 24일 부산 벡스코 드론쇼 코리아의 이노뎁 부스에서 대한항공과 ‘플랫폼 기반 하이브리드 드론 솔루션 협력 및 사업화’를 위한 협약(사진)을 체결했...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/22022501ss.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[부재중 전화알림 메일로 위장해 MS365 계정 노린 피싱 기승 (보안뉴스 ─ 취약점 경고 및 버그리포트)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105067&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105067&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=</guid>
+            <pubDate>Fri, 25 Feb 2022 02:11:15 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/view.asp?idx=105067&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=">
+					
+					<img src="/media/upFiles2/2022/02/ahn_022501_main.jpg" alt="" class="news_img" height="70">
+					
+					<span class="news_txt">부재중 전화알림 메일로 위장해 MS365 계정 노린 피싱 기승</span>
+					</a><br>
+					<a href="/media/view.asp?idx=105067&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=">최근 부재중 전화 알림, 팩스 수신 확인 등 업무 관련 내용을 위장한 피싱 메일로 사용자의 마이크로소프트365(이하 ‘MS365’) 계정을 탈취하는 공격 사례가 ...</a> <span class="news_writer">원병철 기자 | 2022년 02월 25일 10:14</span>]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/ahn_022501_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[코로나19 자가검사키트 및 정책지원금 사칭한 보이스피싱 판친다 (보안뉴스 ─ 취약점 경고 및 버그리포트)]]></title>
@@ -1036,20 +1040,6 @@
 					</a><br>
 					<a href="/media/view.asp?idx=104597&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=">최근 해외 결제를 사칭한 스미싱이 지속적으로 유포되고 있다. 7일 오전에는 미국 대형 유통업체인 베스트 바이(Best Buy)에서 759달러가 결제됐다는 스미싱이...</a> <span class="news_writer">권준  기자 | 2022년 02월 07일 14:31</span>]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/20220207SMI-MS-M.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[클레이스왑, 22억 규모 가상자산 해킹 파장! 디파이 서비스 보안 위협 커지나 (보안뉴스 ─ 취약점 경고 및 버그리포트)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104581&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104581&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=</guid>
-            <pubDate>Sun, 06 Feb 2022 16:21:10 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/view.asp?idx=104581&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=">
-					
-					<img src="/media/upFiles2/2022/02/20220206klay-s.jpg" alt="" class="news_img" height="70">
-					
-					<span class="news_txt">클레이스왑, 22억 규모 가상자산 해킹 파장! 디파이 서비스 보안 위협 커지나 </span>
-					</a><br>
-					<a href="/media/view.asp?idx=104581&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=">예치금액이 20억 달러(약 2조 4,000억원)에 달하는 국내 최대 규모 디파이(Defi, 탈중앙화 금융) 서비스 ‘클레이스왑(KLAYswap)’에서 22억 규모...</a> <span class="news_writer">권준  기자 | 2022년 02월 07일 00:45</span>]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/20220206klay-s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[최정식 발행인 칼럼] <시큐리티월드> 통권 300호를 맞아 드리는 감사의 말씀 (보안뉴스 ─ 오피니언)]]></title>
@@ -2729,6 +2719,17 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/forti_021601_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[인사] 과학기술정보통신부 (보안뉴스 ─ 인사 부고)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105068&amp;page=1&amp;mkind=&amp;kind=2&amp;skind=K&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105068&amp;page=1&amp;mkind=&amp;kind=2&amp;skind=K&amp;search=title&amp;find=</guid>
+            <pubDate>Fri, 25 Feb 2022 02:12:23 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/view.asp?idx=105068&amp;page=1&amp;mkind=&amp;kind=2&amp;skind=K&amp;search=title&amp;find=">
+					
+					<span class="news_txt">[인사] 과학기술정보통신부</span>
+					</a><br>
+					<a href="/media/view.asp?idx=105068&amp;page=1&amp;mkind=&amp;kind=2&amp;skind=K&amp;search=title&amp;find=">◇과장급 전보 △거대공공연구정책과장 이준배(李準培, 원천기술과장)  △원천기술과장 권기석(權奇錫, 원자력연구개발과장)  △원자력연구개발과장 최미정(崔美貞, 사이버...</a> <span class="news_writer">원병철 기자 | 2022년 02월 25일 10:12</span>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[과기정통부, 네트워크정책실장에 홍진배 정보보호네트워크정책관 임명 (보안뉴스 ─ 인사 부고)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105065&amp;page=1&amp;mkind=&amp;kind=2&amp;skind=K&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105065&amp;page=1&amp;mkind=&amp;kind=2&amp;skind=K&amp;search=title&amp;find=</guid>
@@ -2954,17 +2955,6 @@
 					</a><br>
 					<a href="/media/view.asp?idx=103914&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=K&amp;search=title&amp;find=">차세대융합기술연구원(이하 융기원)은 ‘공학계 명예의 전당’으로 불리는 한국공학한림원(The National Academy of Engineering of Kore...</a> <span class="news_writer">엄호식 기자 | 2022년 01월 05일 15:22</span>]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/22010505ss.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[인사] 투데이코리아 (보안뉴스 ─ 인사 부고)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=103843&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=K&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=103843&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=K&amp;search=title&amp;find=</guid>
-            <pubDate>Wed, 12 Jan 2022 20:17:04 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/view.asp?idx=103843&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=K&amp;search=title&amp;find=">
-					
-					<span class="news_txt">[인사] 투데이코리아</span>
-					</a><br>
-					<a href="/media/view.asp?idx=103843&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=K&amp;search=title&amp;find=">◇승진 △ 통합뉴스룸 총괄팀장 김성민 △ 통합뉴스룸 산업금융부장 안현준</a> <span class="news_writer">권준  기자 | 2022년 01월 03일 14:17</span>]]></content:encoded>
         </item>
     </channel>
 </rss>
