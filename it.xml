@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=2</id>
     <title>보안뉴스 ─ IT</title>
-    <updated>2022-02-24T23:18:39.406Z</updated>
+    <updated>2022-02-25T01:02:18.224Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[대한민국, 인공지능 민주적 가치 지수 선두 그룹으로 평가]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=105020&amp;page=1&amp;mkind=2&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=105020&amp;page=1&amp;mkind=2&amp;kind=2"/>
+        <updated>2022-02-25T01:00:25.780Z</updated>
+        <content type="html"><![CDATA[과학기술정보통신부(이하 과기정통부)는 인공지능디지털정책센터가 이번 주 발표한 ‘2021 인공지능 민주적 가치(AIDV)’ 순위에서 조사 대상 50개국 중 한국이 최상위 등급을 받았다고 밝혔다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[소형 어선도 이제 바다 내비게이션 단말기 사용할 수 있다]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=105017&amp;page=1&amp;mkind=2&amp;kind=2</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=104979&amp;page=1&amp;mkind=2&amp;kind=3"/>
         <updated>2022-02-23T06:20:04.292Z</updated>
         <content type="html"><![CDATA[KT가 전국 도서·산간에 무선 통신을 제공하기 위한 필수 설비인 마이크로웨이브의 장애를 인공지능(AI)으로 관제하는 ‘닥터 마이크로웨이브’를 도입했다고 밝혔다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LG, ‘글로벌 초거대 AI 생태계’ 만든다]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104980&amp;page=1&amp;mkind=2&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104980&amp;page=1&amp;mkind=2&amp;kind=3"/>
-        <updated>2022-02-23T06:20:04.294Z</updated>
-        <content type="html"><![CDATA[LG AI연구원이 지난 22일 다양한 산업 분야의 국내외 13개 기업이 모인 ‘엑스퍼트 AI 얼라이언스(Expert AI Alliance)’를 발족하며, 글로벌 초거대 AI 생태계의 본격적인 확장에 나섰다.]]></content>
     </entry>
 </feed>
