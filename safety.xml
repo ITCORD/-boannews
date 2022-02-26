@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=4</id>
     <title>보안뉴스 ─ SAFETY</title>
-    <updated>2022-02-26T00:59:32.016Z</updated>
+    <updated>2022-02-26T02:00:08.661Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[광진구, 1인 가구 현관 지키는 방범도어서비스 운영 확대]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=105105&amp;page=1&amp;mkind=4&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=105105&amp;page=1&amp;mkind=4&amp;kind=2"/>
+        <updated>2022-02-26T01:58:48.411Z</updated>
+        <content type="html"><![CDATA[광진구가 1인 가구의 안전한 주거생활을 지원하는 ‘1인 가구 방범도어서비스’를 확대 시행한다. 1인 가구 방범도어서비스는 대상자에게 무료로 가정용 방범기기를 제공하고, 위험 상황 발생 시 경찰과 보안업체의 긴급 출동 서비스를 지원하는 사업이다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ETRI, 콘크리트 양생 품질 예측 모니터링 시스템 개발]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=105047&amp;page=1&amp;mkind=4&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=105047&amp;page=1&amp;mkind=4&amp;kind=2"/>
+        <updated>2022-02-26T01:58:48.412Z</updated>
+        <content type="html"><![CDATA[한국전자통신연구원(ETRI)은 건물 완공 후 인장력이나 비틀림, 진동측정 등이 가능한 광섬유 센서를 이용한 시스템을 개발하고 건설 현장 적용을 위한 시제품 제작과 실험을 진행 중이다. 올 10월경 상용화를 예정하고 있다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[울산시, 차량·사물통신(V2X) 활용 ‘긴급차량 우선신호시스템’ 구축]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=105045&amp;page=1&amp;mkind=4&amp;kind=2</id>
@@ -109,19 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=104903&amp;page=1&amp;mkind=4&amp;kind=2"/>
         <updated>2022-02-23T06:20:13.163Z</updated>
         <content type="html"><![CDATA[한국해양교통안전공단(KOMSA)은 인천과 목포 소재 스마트 선박안전지원센터가 각각 1월 18일과 25일, 첫 삽을 떴다고 밝혔다. 공단이 지난 2018년 스마트 선박안전지원센터 구축 기획연구를 시작한 지 4년 만이다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[강원도, 어린이보호구역 어린이 교통안전사고 예방 강화]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104902&amp;page=1&amp;mkind=4&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104902&amp;page=1&amp;mkind=4&amp;kind=2"/>
-        <updated>2022-02-22T04:20:06.757Z</updated>
-        <content type="html"><![CDATA[강원도는 올해도 어린이보호구역 내 어린이 교통사고 사망자 제로화 달성을 위한 실질적인 교통안전 정책을 시행한다. 현재 도내에는 758개의 어린이보호구역이 지정 운영 중이며, 지난 2년간 보호구역 내 어린이 사망자 발생 없이 교통사고 발생 건수가 지속 감소 추세에 있다....]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[태백시, 교통안전 시행계획 추진]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104901&amp;page=1&amp;mkind=4&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104901&amp;page=1&amp;mkind=4&amp;kind=2"/>
-        <updated>2022-02-22T03:17:34.420Z</updated>
-        <content type="html"><![CDATA[태백시는 교통사고로부터 시민의 생명과 재산을 보호하고 안전한 교통환경을 조성하기 위해 교통안전 시행계획을 수립 추진한다. 교통사고 사망자를 줄이기 위해 시는 교통안전 시설물 정비, 어린이보호구역 시설 정비, 도로시설 정비 등 21개 분야에 27억3,200만원의 예산을 ...]]></content>
     </entry>
 </feed>

@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-02-26T00:59:32.011Z</updated>
+    <updated>2022-02-26T02:00:08.686Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[비밀번호 없는 로그인, 장점 많은데도 좀처럼 도입되지 않는 이유는]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=105081&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=105081&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-02-26T01:58:32.146Z</updated>
+        <content type="html"><![CDATA[다양한 웹사이트의 서비스와 애플리케이션을 이용하는 현대의 네티즌들은 평균 100개 정도의 비밀번호들을 필요로 한다고 한다. 인간의 기억력을 생각했을 때 이 숫자는 대단히 높다고 볼 수 있다. 그것 하나 때문에라도 비밀번호를 사용하지 않는 인증 기술의 등장은 환영받을 수...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[우크라이나 사태 대비, 범정부 사이버위협 대응체계 강화한다]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=105080&amp;page=1&amp;mkind=1&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=105080&amp;page=1&amp;mkind=1&amp;kind=2"/>
+        <updated>2022-02-26T01:58:32.148Z</updated>
+        <content type="html"><![CDATA[정부는 최근 우크라이나 사태로 인해 전 세계적으로 디도스 공격 등 사이버위협이 증대되고 있는 상황에서 국내에 미칠 수 있는 영향을 예의주시하고 있으며, 사이버위협 상황발생에 대비하여 범정부 차원의 사이버위협 비상대응체계를 강화한다고 밝혔다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[KISA-DB금융투자, 블록체인·핀테크·정보보안 스타트업 투자유치 지원 MOU]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=105076&amp;page=1&amp;mkind=1&amp;kind=3</id>
@@ -109,19 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=105029&amp;page=1&amp;mkind=1&amp;kind=2"/>
         <updated>2022-02-24T09:16:24.016Z</updated>
         <content type="html"><![CDATA[산업기술을 보호하기 위해 지식재산 보호집행 관련 10개 부처가 손잡고 공동 대응에 나섰다. 대통령 소속 국가지식재산위원회는 2월 24일(목), 외교부, 문화체육관광부, 산업통상자원부, 중소벤처기업부, 국정원, 경찰청, 해경청, 특허청, 관세청 등 지식재산 보호집행 관련...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우크라이나, 데이터 삭제 공격에 시달림 받고 있어]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=105035&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=105035&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-02-24T08:19:38.820Z</updated>
-        <content type="html"><![CDATA[전쟁의 분위기가 감돌고 있는 우크라이나의 사이버 공간은 이미 파괴 전차들이 굴러다니고 있다. 러시아로부터 온 것으로 보이는 삭제형 멀웨어들이 많은 조직들에 피해를 남기고 있는 것이다. 보안 업체 이셋(ESET)에 의하면 이미 수백 대의 시스템에 이 삭제형 멀웨어가 설치...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[삼성 스마트폰 1억여 대에서 암호화 깨는 취약점 발견돼]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=105034&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=105034&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-02-24T07:15:43.490Z</updated>
-        <content type="html"><![CDATA[삼성 스마트폰이 민감한 정보를 암호화 하는 방식에서 중대한 취약점이 발견됐다. 텔아비브대학과 존스홉킨스대학의 연구원들에 의하면 ‘부끄러울 정도로 좋지 않은 취약점’이라고 한다. 익스플로잇 할 경우 공격자들은 하드웨어 기반 복호화 키를 추출하는 게 가능하다. 복호화 키만...]]></content>
     </entry>
 </feed>
