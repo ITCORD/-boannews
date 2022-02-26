@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-02-26T02:00:08.686Z</updated>
+    <updated>2022-02-26T02:38:19.247Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[KISIA 정기총회 개최, 이동범 제16대 회장 연임]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=105084&amp;page=1&amp;mkind=1&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=105084&amp;page=1&amp;mkind=1&amp;kind=3"/>
+        <updated>2022-02-26T02:36:33.302Z</updated>
+        <content type="html"><![CDATA[한국정보보호산업협회(회장 이동범, 이하 KISIA)가 제26차 정기총회를 개최하고 이동범 제16대 회장과 윤두식 수석부회장의 연임을 결정했다. KISIA는 25일 엘타워에서 정기총회를 개최하고, 전년도 결산과 2022년도 사업계획안 및 신임 회장단 선출 등 주요 안건을...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[비밀번호 없는 로그인, 장점 많은데도 좀처럼 도입되지 않는 이유는]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=105081&amp;page=1&amp;mkind=1&amp;kind=1</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=105037&amp;page=1&amp;mkind=1&amp;kind=1"/>
         <updated>2022-02-24T09:16:24.010Z</updated>
         <content type="html"><![CDATA[러시아와 우크라이나 간 긴장감이 고조되면서 서방 국가 내 산업 현장의 네트워크 운영자들과 보안 팀들도 덩달아 긴장하고 있다. 러시아의 국가 지원을 받는 해커들이 공격의 마수를 전 세계적으로 뻗칠까봐서다. 특히 지난 한 해 랜섬웨어 공격의 빈도가 지나치게 높아졌기 때문에...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[산업기술 유출 예방·대응 등을 위해 10개 부처 맞손]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=105029&amp;page=1&amp;mkind=1&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=105029&amp;page=1&amp;mkind=1&amp;kind=2"/>
-        <updated>2022-02-24T09:16:24.016Z</updated>
-        <content type="html"><![CDATA[산업기술을 보호하기 위해 지식재산 보호집행 관련 10개 부처가 손잡고 공동 대응에 나섰다. 대통령 소속 국가지식재산위원회는 2월 24일(목), 외교부, 문화체육관광부, 산업통상자원부, 중소벤처기업부, 국정원, 경찰청, 해경청, 특허청, 관세청 등 지식재산 보호집행 관련...]]></content>
     </entry>
 </feed>
