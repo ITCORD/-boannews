@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=2</id>
     <title>보안뉴스 ─ IT</title>
-    <updated>2022-02-25T23:18:28.138Z</updated>
+    <updated>2022-02-26T00:59:32.017Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[울산시, 시민 누구나 원하는 단계별 인공지능 교육 과정 완성]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=105046&amp;page=1&amp;mkind=2&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=105046&amp;page=1&amp;mkind=2&amp;kind=2"/>
+        <updated>2022-02-26T00:57:59.360Z</updated>
+        <content type="html"><![CDATA[울산시가 지난 24일 3개 관내 인공지능(AI)교육기관과 ‘인공지능(AI) 디지털 지역인재 양성 교육 과정 연계 및 고도화를 위한 상호협력 업무협약식’을 개최했다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SKT, 진일보한 5G 단독모드(SA)로 글로벌 기술 진화 선도]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=105049&amp;page=1&amp;mkind=2&amp;kind=3</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=105064&amp;page=1&amp;mkind=2&amp;kind=2"/>
         <updated>2022-02-25T02:10:46.805Z</updated>
         <content type="html"><![CDATA[해양수산부는 스마트 항만을 구축하기 위해 2019년 4월부터 추진해 온 ‘사물인터넷 기술(IoT) 기반 지능형 항만물류기술(Intelligence Port Logistics Technology, IPLT) 개발 사업’을 완료하고 3월 8일부터 3월 말까지 부산항에서 통...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[디지털 전환과 탄소중립 분야 국제표준 선점 가속화한다]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=105023&amp;page=1&amp;mkind=2&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=105023&amp;page=1&amp;mkind=2&amp;kind=2"/>
-        <updated>2022-02-25T02:10:46.807Z</updated>
-        <content type="html"><![CDATA[정부가 디지털 전환과 탄소중립 분야 국제표준을 선점하기 위해 올해 표준화 연구개발(국가표준기술력향상사업)에 지난해(374억원) 대비 7.8% 증가한 403억원의 예산을 투입한다.]]></content>
     </entry>
 </feed>
