@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 26 Feb 2022 17:16:50 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Feb 2022 18:20:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -56,20 +56,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/brick-thumb-0222.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[애플리케이션 보안, 지난 1년 동안 나아지지 않았다]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104921&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104921&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Tue, 22 Feb 2022 23:16:57 GMT</pubDate>
-            <content:encoded><![CDATA[애플리케이션 보안의 중요성이 그렇게나 자주, 많이, 강조되고 있지만 실제로 애플리케이션 보안을 위해 실질적은 노력을 하고 있는 곳은 그리 많지 않은 것으로 조사됐...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/app-thumb-0221.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[코로나19 자가검사키트 및 정책지원금 사칭한 보이스피싱 판친다]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105039&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105039&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Fri, 25 Feb 2022 02:10:28 GMT</pubDate>
             <content:encoded><![CDATA[최근 코로나19(오미크론) 확진자 급증에 따른 국민들의 불안감 증폭을 악용해, 자가검사키트 공급·구매 등을 사유로 개인정보 입력을 유도한 후 자금을 편취하는 등의...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/21071894_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[애플리케이션 보안, 지난 1년 동안 나아지지 않았다]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104921&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104921&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Tue, 22 Feb 2022 23:16:57 GMT</pubDate>
+            <content:encoded><![CDATA[애플리케이션 보안의 중요성이 그렇게나 자주, 많이, 강조되고 있지만 실제로 애플리케이션 보안을 위해 실질적은 노력을 하고 있는 곳은 그리 많지 않은 것으로 조사됐...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/app-thumb-0221.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[암호화폐와 탈중앙화 금융이 부딪힌 벽, 의외로 높다]]></title>
@@ -112,6 +112,14 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/sam-thumb-0224.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[일본 스마트시티 정책의 핵심 키워드는 ‘슈퍼시티’]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104959&amp;page=1&amp;kind=4&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104959&amp;page=1&amp;kind=4&amp;search=title&amp;find=</guid>
+            <pubDate>Sat, 26 Feb 2022 14:15:47 GMT</pubDate>
+            <content:encoded><![CDATA[전세계적으로 인공지능(AI)이나 빅데이터 등 4차 산업혁명 관련 기술을 활용한 스마트시티를 조성하고자 하는 움직임이 확대되고 있다. 일본에서 스마트시티는 2010...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/22022202ss.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[봄을 맞아 조직의 사이버 강화를 꿈꾸는 CEO들이 알아야 할 것]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104963&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104963&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
@@ -126,14 +134,6 @@
             <pubDate>Fri, 25 Feb 2022 10:17:38 GMT</pubDate>
             <content:encoded><![CDATA[정문에 자물쇠를 단단히 걸어 잠그면 집안에 있는 귀중품이 안전하게 보호될 확률이 올라간다는 사실을 알고 있다면, 당신은 자물쇠를 채울 것인가, 말 것인가? 가장 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/lock-thumb-0224.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일본 스마트시티 정책의 핵심 키워드는 ‘슈퍼시티’]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104959&amp;page=1&amp;kind=4&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104959&amp;page=1&amp;kind=4&amp;search=title&amp;find=</guid>
-            <pubDate>Sat, 26 Feb 2022 14:15:47 GMT</pubDate>
-            <content:encoded><![CDATA[전세계적으로 인공지능(AI)이나 빅데이터 등 4차 산업혁명 관련 기술을 활용한 스마트시티를 조성하고자 하는 움직임이 확대되고 있다. 일본에서 스마트시티는 2010...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/22022202ss.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[인간중심 보안 구현의 핵심과제, ‘보안문화’ 어떻게 정착시키나]]></title>
@@ -160,12 +160,12 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/20220223KCMC-S.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
-            <title><![CDATA[하이브 랜섬웨어 마스터키 추출에 성공한 보안 전문가들]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104915&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104915&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Sat, 26 Feb 2022 09:14:20 GMT</pubDate>
-            <content:encoded><![CDATA[악명 높은 하이브(Hive) 랜섬웨어의 알고리즘을 분석한 보안 전문가들이 암호화 된 데이터를 복구시켜주는 마스터키를 추출하는 데 성공했다. 공격자의 비밀 키 정보...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/mast-thumb-0221.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[비밀번호 없는 로그인, 장점 많은데도 좀처럼 도입되지 않는 이유는]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105081&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105081&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Sat, 26 Feb 2022 18:18:15 GMT</pubDate>
+            <content:encoded><![CDATA[다양한 웹사이트의 서비스와 애플리케이션을 이용하는 현대의 네티즌들은 평균 100개 정도의 비밀번호들을 필요로 한다고 한다. 인간의 기억력을 생각했을 때 이 숫자는...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/pass-htumb-0225.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
