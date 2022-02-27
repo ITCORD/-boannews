@@ -4,9 +4,17 @@
         <title>보안뉴스 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Feb 2022 14:17:18 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Feb 2022 15:17:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[어나니머스 해킹 공격으로 러시아 정부 홈페이지 마비]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105111&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105111&amp;page=1&amp;kind=1</guid>
+            <pubDate>Sun, 27 Feb 2022 15:15:35 GMT</pubDate>
+            <content:encoded><![CDATA[국제 핵티비스트 그룹 어나니머스(Anonymous)가 우크라이나를 침공한 러시아 정부 홈페이지를 공격해 마비시킨 것이 확인됐다. 또한, 어나니머스는 러시아...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/russia_022701_main.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2022년 불법스팸 근절 위해 바뀌는 것들]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105108&amp;page=1&amp;kind=2</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 25 Feb 2022 03:17:10 GMT</pubDate>
             <content:encoded><![CDATA[아수스토(Asustor)와 큐냅(QNAP)에서 생산한 NAS 장비들을 데드볼트(Deadbolt)라는 랜섬웨어가 공격하고 있다. 데드볼트 공격자들은 제로데이...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/nas-thumb-0225.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[MS 앱 스토어에 출현한 일렉트론봇 멀웨어]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105071&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105071&amp;page=1&amp;kind=1</guid>
-            <pubDate>Fri, 25 Feb 2022 03:17:10 GMT</pubDate>
-            <content:encoded><![CDATA[SEO 포이즈닝 공격 기능을 갖춘 멀웨어인 일렉트론봇(Electron Bot)이 MS의 공식 앱 스토어를 달구고 있다. 피해자들의 시스템에 설치되고 나서는...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/elec-thumb-0225.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[윈스, 김보연 신임 대표이사 선임]]></title>

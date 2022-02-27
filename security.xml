@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-02-27T14:17:18.789Z</updated>
+    <updated>2022-02-27T15:17:41.309Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[주말판] 사이버 전쟁과 전쟁 중인 사이버 보험 업계]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=105106&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=105106&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-02-27T15:15:55.733Z</updated>
+        <content type="html"><![CDATA[사이버 전쟁은 이미 우리의 디지털 대문들을 두들기기 시작했다. 아니, 이미 우리의 일상 안으로 들어와 존재감을 드러내고 있다. 사이버 공간이 거의 모든 국가들의 ‘군사 작전 영역’이 되어버린 지 오래되었지만, 아직 이 영역에서의 ‘전쟁 선포’란 어떤 형태를 띄어야 하고...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[국민연금, 사이버위협 대응 정보보안 인재 육성을 위한 MOU 체결]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=105103&amp;page=1&amp;mkind=1&amp;kind=2</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=105041&amp;page=1&amp;mkind=1&amp;kind=1"/>
         <updated>2022-02-25T02:10:37.945Z</updated>
         <content type="html"><![CDATA[정문에 자물쇠를 단단히 걸어 잠그면 집안에 있는 귀중품이 안전하게 보호될 확률이 올라간다는 사실을 알고 있다면, 당신은 자물쇠를 채울 것인가, 말 것인가? 가장 논리적이며 간단한 답은 “채울 것이다”이다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코로나19 자가검사키트 및 정책지원금 사칭한 보이스피싱 판친다]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=105039&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=105039&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-02-25T01:00:14.496Z</updated>
-        <content type="html"><![CDATA[최근 코로나19(오미크론) 확진자 급증에 따른 국민들의 불안감 증폭을 악용해, 자가검사키트 공급·구매 등을 사유로 개인정보 입력을 유도한 후 자금을 편취하는 등의 보이스피싱이 기승을 부려 피해 발생이 우려된다.]]></content>
     </entry>
 </feed>
