@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Feb 2022 01:02:04 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Feb 2022 02:11:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -86,6 +86,14 @@
             <pubDate>Fri, 25 Feb 2022 03:17:10 GMT</pubDate>
             <content:encoded><![CDATA[미국과 영국의 사이버 보안 담당 기관들인 CISA, FBI, 사이버 사령부, NCSC, NSA가 공동으로 머디워터(MuddyWater)라는 해킹 단체의 새...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/mud-thumb-0225.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[윈스, 김보연 신임 대표이사 선임]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105110&amp;page=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105110&amp;page=1&amp;kind=3</guid>
+            <pubDate>Sun, 27 Feb 2022 02:09:09 GMT</pubDate>
+            <content:encoded><![CDATA[윈스는 일신상의 사유로 인해 김대연 대표이사가 김보연 대표이사로 변경됐다고 25일 공시했다. 회사 측은 25일 이사회를 열고 신임 대표 선임을 마쳤다고 밝...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/wins_022701_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[생각만으로 정확하게 로봇팔 조종이 가능한 시스템 개발됐다]]></title>
@@ -230,14 +238,6 @@
             <pubDate>Fri, 25 Feb 2022 09:15:27 GMT</pubDate>
             <content:encoded><![CDATA[한국산업지능화협회 산하 디지털 전환(DX) 촉진 기술연구 실무기구인 디지털혁신기술위원회(위원장 박지환(씽크포비엘 대표), 이하 위원회)가 2월 25일, 올...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/22022532ss.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[씨유박스, 대한민국 SW기업 경쟁력 최우수상 수상]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105082&amp;page=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105082&amp;page=1&amp;kind=3</guid>
-            <pubDate>Fri, 25 Feb 2022 09:15:27 GMT</pubDate>
-            <content:encoded><![CDATA[AI 얼굴인식 전문기업 씨유박스(남운성 대표)가 지난 24일 한국소프트웨어산업협회가 주최한 ‘제21회 대한민국 SW기업 경쟁력 대상’에서 한국소프트웨어산업...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/22022531ss.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

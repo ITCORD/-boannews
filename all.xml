@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Feb 2022 01:02:04 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Feb 2022 02:11:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -86,6 +86,14 @@
             <pubDate>Fri, 25 Feb 2022 03:17:10 GMT</pubDate>
             <content:encoded><![CDATA[미국과 영국의 사이버 보안 담당 기관들인 CISA, FBI, 사이버 사령부, NCSC, NSA가 공동으로 머디워터(MuddyWater)라는 해킹 단체의 새...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/mud-thumb-0225.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[윈스, 김보연 신임 대표이사 선임 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105110&amp;page=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105110&amp;page=1&amp;kind=3</guid>
+            <pubDate>Sun, 27 Feb 2022 02:09:09 GMT</pubDate>
+            <content:encoded><![CDATA[윈스는 일신상의 사유로 인해 김대연 대표이사가 김보연 대표이사로 변경됐다고 25일 공시했다. 회사 측은 25일 이사회를 열고 신임 대표 선임을 마쳤다고 밝...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/wins_022701_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[생각만으로 정확하게 로봇팔 조종이 가능한 시스템 개발됐다 (보안뉴스 ─ 전체기사)]]></title>
@@ -232,14 +240,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/22022532ss.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[씨유박스, 대한민국 SW기업 경쟁력 최우수상 수상 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105082&amp;page=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105082&amp;page=1&amp;kind=3</guid>
-            <pubDate>Fri, 25 Feb 2022 09:15:27 GMT</pubDate>
-            <content:encoded><![CDATA[AI 얼굴인식 전문기업 씨유박스(남운성 대표)가 지난 24일 한국소프트웨어산업협회가 주최한 ‘제21회 대한민국 SW기업 경쟁력 대상’에서 한국소프트웨어산업...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/22022531ss.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[러시아-우크라이나 전쟁 초읽기? 사이버상은 이미 대규모 해킹 공습중 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104908&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104908&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
@@ -280,20 +280,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/compe-thumb-0220.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[세상 모든 곳에 존재하는 오픈소스만 잡아도 보안은 높게 유지된다 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104962&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104962&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Thu, 24 Feb 2022 07:15:33 GMT</pubDate>
-            <content:encoded><![CDATA[오픈소스 소프트웨어는 어디에나 존재한다. 기술 혁신의 촉진제이기도 하며, 애플리케이션 마감 시간을 실질적으로 단축시켜주는 일등공신이기도 하다. 동시에 각종 보안 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/brick-thumb-0222.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[일본 스마트시티 정책의 핵심 키워드는 ‘슈퍼시티’ (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104959&amp;page=1&amp;kind=4&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104959&amp;page=1&amp;kind=4&amp;search=title&amp;find=</guid>
             <pubDate>Sat, 26 Feb 2022 14:15:47 GMT</pubDate>
             <content:encoded><![CDATA[전세계적으로 인공지능(AI)이나 빅데이터 등 4차 산업혁명 관련 기술을 활용한 스마트시티를 조성하고자 하는 움직임이 확대되고 있다. 일본에서 스마트시티는 2010...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/22022202ss.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[세상 모든 곳에 존재하는 오픈소스만 잡아도 보안은 높게 유지된다 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104962&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104962&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Thu, 24 Feb 2022 07:15:33 GMT</pubDate>
+            <content:encoded><![CDATA[오픈소스 소프트웨어는 어디에나 존재한다. 기술 혁신의 촉진제이기도 하며, 애플리케이션 마감 시간을 실질적으로 단축시켜주는 일등공신이기도 하다. 동시에 각종 보안 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/brick-thumb-0222.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[코로나19 자가검사키트 및 정책지원금 사칭한 보이스피싱 판친다 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
@@ -398,6 +398,13 @@
             <pubDate>Sat, 26 Feb 2022 09:14:20 GMT</pubDate>
             <content:encoded><![CDATA[개인정보보호위원회(위원장 윤종인, 이하 ‘개인정보위’)는 2월 23일(수) 제4회 전체회의에서 데이팅앱 ‘골드스푼’을 운영하는 트리플콤마에 대해 총 1억 2,97...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/goldspoon_022301_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[대웅제약, 제약업계 최초 국제표준 정보보호 인증 및 개인정보보호 인증 동시 획득 (보안뉴스 ─ SECURITY)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105102&amp;page=1&amp;mkind=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105102&amp;page=1&amp;mkind=1&amp;kind=3</guid>
+            <pubDate>Sun, 27 Feb 2022 02:09:30 GMT</pubDate>
+            <content:encoded><![CDATA[대웅제약은 제약업계 최초로 국제표준 정보보호 인증 ISO27001 및 국제표준 개인정보보호 인증 ISO27701을 동시에 획득했다고 밝혔다. 지난 23일 대웅제약 본사에서 열린 인증서 수여식에는 대웅제약 이창재 대표, BSI그룹코리아 임성환 대표 등이 참석했다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[KISIA 정기총회 개최, 이동범 제16대 회장 연임 (보안뉴스 ─ SECURITY)]]></title>
@@ -510,13 +517,6 @@
             <guid>https://www.boannews.com/media/view.asp?idx=105036&amp;page=1&amp;mkind=1&amp;kind=3</guid>
             <pubDate>Fri, 25 Feb 2022 01:00:14 GMT</pubDate>
             <content:encoded><![CDATA[2월 24일 발간된 ‘Weekly Security Premium Report’ 제39호에는 &lt;보안 심층 리포트&gt; 코너에서 해커들의 최신 공격 트렌드와 보안담당자들의 방어 전략이 어떻게 변하고 있는지 다뤄봤다. 해커들의 경우 데이터를 무가화해 기업이나 개인을 ...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[러시아와 우크라이나가 싸우니 OT 담당자들이 벌벌 떨어 (보안뉴스 ─ SECURITY)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105037&amp;page=1&amp;mkind=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105037&amp;page=1&amp;mkind=1&amp;kind=1</guid>
-            <pubDate>Thu, 24 Feb 2022 09:16:24 GMT</pubDate>
-            <content:encoded><![CDATA[러시아와 우크라이나 간 긴장감이 고조되면서 서방 국가 내 산업 현장의 네트워크 운영자들과 보안 팀들도 덩달아 긴장하고 있다. 러시아의 국가 지원을 받는 해커들이 공격의 마수를 전 세계적으로 뻗칠까봐서다. 특히 지난 한 해 랜섬웨어 공격의 빈도가 지나치게 높아졌기 때문에...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[삼성전자, 한국전력공사 데이터 연계해 ‘스마트싱스 에너지’ 서비스 강화 (보안뉴스 ─ IT)]]></title>
@@ -2453,6 +2453,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2021/11/21113011ss.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[윈스, 김보연 신임 대표이사 선임 (보안뉴스 ─ 기업뉴스)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105110&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105110&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=</guid>
+            <pubDate>Sun, 27 Feb 2022 02:11:19 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/view.asp?idx=105110&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=">
+					
+					<img src="/media/upFiles2/2022/02/wins_022701_main.jpg" alt="" class="news_img" height="70">
+					
+					<span class="news_txt">윈스, 김보연 신임 대표이사 선임 </span>
+					</a><br>
+					<a href="/media/view.asp?idx=105110&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=">윈스는 일신상의 사유로 인해 김대연 대표이사가 김보연 대표이사로 변경됐다고 25일 공시했다. 회사 측은 25일 이사회를 열고 신임 대표 선임을 마쳤다고 밝혔다. ...</a> <span class="news_writer">원병철 기자 | 2022년 02월 27일 10:48</span>]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/wins_022701_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[KISA-DB금융투자, 블록체인·핀테크·정보보안 스타트업 투자유치 지원 MOU (보안뉴스 ─ 기업뉴스)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105076&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105076&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=</guid>
@@ -2714,20 +2728,6 @@
 					</a><br>
 					<a href="/media/view.asp?idx=104815&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=">보안 전문 기업 이스트시큐리티(대표 정상원)는 개방형 OS(운영체제)를 위한 강력한 통합 백신 ‘알약 개방형OS’를 정식 출시했다고 16일 밝혔다.</a> <span class="news_writer">원병철 기자 | 2022년 02월 16일 11:37</span>]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/alyac_021601_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SK쉴더스 화이트 해커그룹 EQST, IoT 진단 가이드 발간 (보안뉴스 ─ 기업뉴스)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104810&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104810&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=</guid>
-            <pubDate>Wed, 16 Feb 2022 03:18:13 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/view.asp?idx=104810&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=">
-					
-					<img src="/media/upFiles2/2022/02/21021601ss.jpg" alt="" class="news_img" height="70">
-					
-					<span class="news_txt">SK쉴더스 화이트 해커그룹 EQST, IoT 진단 가이드 발간</span>
-					</a><br>
-					<a href="/media/view.asp?idx=104810&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=">SK쉴더스(대표이사 박진효)의 화이트 해커그룹 EQST(이큐스트)가 IoT 기기 및 서비스에 대한 보안 위협에 선제적으로 대응할 수 있는 ‘IoT 진단 가이드’를...</a> <span class="news_writer">엄호식 기자 | 2022년 02월 16일 11:26</span>]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/21021601ss.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[인사] 과학기술정보통신부 (보안뉴스 ─ 인사 부고)]]></title>
