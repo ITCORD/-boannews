@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Feb 2022 16:23:07 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Feb 2022 17:16:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[러시아-우크라이나 전쟁, 사이버상 해킹 대결은 이미 ‘세계대전’ (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105112&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105112&amp;page=1&amp;kind=1</guid>
+            <pubDate>Sun, 27 Feb 2022 17:14:35 GMT</pubDate>
+            <content:encoded><![CDATA[러시아의 우크라이나 전면 침공이 나흘째에 접어든 가운데 우크라이나의 결사항전 태세가 이어지면서 러시아의 우크라이나 수도 키예프 함락도 난항을 겪고 있다. ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/20220227uk-s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[통합보안 3사 에스원·SK쉴더스·KT텔레캅, 소비자의 생각과 선택은? (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105079&amp;page=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105079&amp;page=1&amp;kind=3</guid>
+            <pubDate>Sun, 27 Feb 2022 17:14:35 GMT</pubDate>
+            <content:encoded><![CDATA[국내 대표적인 통합보안 서비스 기업으로는 에스원과 SK쉴더스, 그리고 KT텔레캅을 꼽을 수 있다. &lt;보안뉴스&gt;와 &lt;시큐리티월드&gt;에서는...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/22022521ss.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[인공지능 윤리, 인공지능의 미래를 결정지을 수 있는 요인 (보안뉴스 ─ 전체기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105038&amp;page=1&amp;kind=4</link>
@@ -70,22 +86,6 @@
             <pubDate>Fri, 25 Feb 2022 09:15:27 GMT</pubDate>
             <content:encoded><![CDATA[다양한 웹사이트의 서비스와 애플리케이션을 이용하는 현대의 네티즌들은 평균 100개 정도의 비밀번호들을 필요로 한다고 한다. 인간의 기억력을 생각했을 때 이...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/pass-htumb-0225.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우크라이나 사태 대비, 범정부 사이버위협 대응체계 강화한다 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105080&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105080&amp;page=1&amp;kind=2</guid>
-            <pubDate>Fri, 25 Feb 2022 09:15:27 GMT</pubDate>
-            <content:encoded><![CDATA[정부는 최근 우크라이나 사태로 인해 전 세계적으로 디도스 공격 등 사이버위협이 증대되고 있는 상황에서 국내에 미칠 수 있는 영향을 예의주시하고 있으며, 사...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/21522667_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[트릭봇 갱단, 새로운 멀웨어로 갈아탄 것으로 보여 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105073&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105073&amp;page=1&amp;kind=1</guid>
-            <pubDate>Fri, 25 Feb 2022 03:17:10 GMT</pubDate>
-            <content:encoded><![CDATA[악명 높은 다운로더 멀웨어인 트릭봇(TrickBot)이 최근 전혀 나타나지 않고 있다. 가장 마지막에 나타난 것이 지난 12월 28일이다. 보안 업체 인텔...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/repl-thumb-0225.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[윈스, 김보연 신임 대표이사 선임 (보안뉴스 ─ 전체기사)]]></title>
@@ -375,6 +375,14 @@
             <content:encoded><![CDATA[정부는 한국판 뉴딜의 성공적인 추진과 민간의 적극적인 참여를 위하여 ‘2022년 3월 한국판 뉴딜 주요 사업 추진계획’을 배포했다. 디지털 뉴딜 분야는 비즈니스 ...]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[어나니머스 해킹 공격으로 러시아 정부 홈페이지 마비 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105111&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105111&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Sun, 27 Feb 2022 17:14:44 GMT</pubDate>
+            <content:encoded><![CDATA[국제 핵티비스트 그룹 어나니머스(Anonymous)가 우크라이나를 침공한 러시아 정부 홈페이지를 공격해 마비시킨 것이 확인됐다. 또한, 어나니머스는 러시아 국영T...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/russia_022701_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[골드스푼, 개인정보보호법 위반으로 약 1억 4,839만원 제재 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105000&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105000&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
@@ -391,12 +399,11 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/20220223KCMC-S.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
-            <title><![CDATA[인간중심 보안 구현의 핵심과제, ‘보안문화’ 어떻게 정착시키나 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104913&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104913&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
-            <pubDate>Sun, 27 Feb 2022 16:21:08 GMT</pubDate>
-            <content:encoded><![CDATA[인공지능(AI)이 보안 분야에 있어 핫 키워드가 되는 등 보안기술이 빠르게 발전하고 있음에도 결국 조직 내 보안정책 결정과 보안문화 조성은 인간에 의해 구현되기에...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/20220221humanmain-s.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[윈스, 김보연 신임 대표이사 선임 (보안뉴스 ─ SECURITY)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105110&amp;page=1&amp;mkind=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105110&amp;page=1&amp;mkind=1&amp;kind=3</guid>
+            <pubDate>Sun, 27 Feb 2022 17:14:53 GMT</pubDate>
+            <content:encoded><![CDATA[윈스는 일신상의 사유로 인해 김대연 대표이사가 김보연 대표이사로 변경됐다고 25일 공시했다. 회사 측은 25일 이사회를 열고 신임 대표 선임을 마쳤다고 밝혔다. 공식 취임은 오는 3월 주주총회를 통해 이뤄질 예정이다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[주말판] 사이버 전쟁과 전쟁 중인 사이버 보험 업계 (보안뉴스 ─ SECURITY)]]></title>
@@ -509,13 +516,6 @@
             <guid>https://www.boannews.com/media/view.asp?idx=105065&amp;page=1&amp;mkind=1&amp;kind=2</guid>
             <pubDate>Fri, 25 Feb 2022 03:17:30 GMT</pubDate>
             <content:encoded><![CDATA[과학기술정보통신부 홍진배 정보보호네트워크정책관이 2월 25일자로 네트워크정책실장으로 승진했다. 또한 공석이 된 정보보호네트워크정책관에는 김정삼 소프트웨어정책관이 자리를 옮겼다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[데이터 침해 사고의 비용, 너그럽게 계산하면 나중에 눈물 흘린다 (보안뉴스 ─ SECURITY)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105041&amp;page=1&amp;mkind=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105041&amp;page=1&amp;mkind=1&amp;kind=1</guid>
-            <pubDate>Fri, 25 Feb 2022 02:10:37 GMT</pubDate>
-            <content:encoded><![CDATA[정문에 자물쇠를 단단히 걸어 잠그면 집안에 있는 귀중품이 안전하게 보호될 확률이 올라간다는 사실을 알고 있다면, 당신은 자물쇠를 채울 것인가, 말 것인가? 가장 논리적이며 간단한 답은 “채울 것이다”이다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[대한전선, FRT와 웨어러블 로봇 투자 협약 (보안뉴스 ─ IT)]]></title>
@@ -756,6 +756,14 @@
             <content:encoded><![CDATA[한국해양교통안전공단(KOMSA)은 인천과 목포 소재 스마트 선박안전지원센터가 각각 1월 18일과 25일, 첫 삽을 떴다고 밝혔다. 공단이 지난 2018년 스마트 선박안전지원센터 구축 기획연구를 시작한 지 4년 만이다.]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[통합보안 3사 에스원·SK쉴더스·KT텔레캅, 소비자... (보안뉴스 ─ Security World)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105079&amp;mkind=5</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105079&amp;mkind=5</guid>
+            <pubDate>Sun, 27 Feb 2022 17:15:20 GMT</pubDate>
+            <content:encoded><![CDATA[국내 대표적인 통합보안 서비스 기업으로는 에스원과 SK쉴더스, 그리고 KT텔레캅을 꼽을 수 있다. &lt;보안뉴스&gt;와 &lt;시큐리티월드&gt;에서는 해마다 통합보안 서비...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/22022521ss.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[일본 스마트시티 정책의 핵심 키워드는 ‘슈퍼시티’ ... (보안뉴스 ─ Security World)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104959&amp;mkind=5</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104959&amp;mkind=5</guid>
@@ -764,12 +772,18 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/22022202ss.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[씨유박스, 대한민국 SW기업 경쟁력 최우수상 수상 (보안뉴스 ─ Security World)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105082&amp;mkind=5</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105082&amp;mkind=5</guid>
-            <pubDate>Fri, 25 Feb 2022 09:16:19 GMT</pubDate>
-            <content:encoded><![CDATA[AI 얼굴인식 전문기업 씨유박스(남운성 대표)가 지난 24일 한국소프트웨어산업협회가 주최한 ‘제21회 대한민국 SW기업 경쟁력 대상’에서 한국소프트웨어산업...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/22022531ss.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[러시아-우크라이나 전쟁, 사이버상 해킹 대결은 이미 ‘세계대전’ (보안뉴스 ─ 취약점 경고 및 버그리포트)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105112&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105112&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=</guid>
+            <pubDate>Sun, 27 Feb 2022 17:15:30 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/view.asp?idx=105112&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=">
+					
+					<img src="/media/upFiles2/2022/02/20220227uk-s.jpg" alt="" class="news_img" height="70">
+					
+					<span class="news_txt">러시아-우크라이나 전쟁, 사이버상 해킹 대결은 이미 ‘세계대전’     </span>
+					</a><br>
+					<a href="/media/view.asp?idx=105112&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=">러시아의 우크라이나 전면 침공이 나흘째에 접어든 가운데 우크라이나의 결사항전 태세가 이어지면서 러시아의 우크라이나 수도 키예프 함락도 난항을 겪고 있다. 더욱이 ...</a> <span class="news_writer">권준  기자 | 2022년 02월 28일 01:33</span>]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/20220227uk-s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[어나니머스 해킹 공격으로 러시아 정부 홈페이지 마비 (보안뉴스 ─ 취약점 경고 및 버그리포트)]]></title>
@@ -1036,20 +1050,6 @@
 					</a><br>
 					<a href="/media/view.asp?idx=104661&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=">최근 교통법규 위반, 과속운전 벌점 내용으로 스미싱이 대량으로 유포되고 있어 사용자들의 주의가 필요하다. 보안업체 이스트시큐리티 시큐리티대응센터(ESRC)에 따르...</a> <span class="news_writer">권준  기자 | 2022년 02월 09일 10:51</span>]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/20220210_mail1-S.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[또 다른 이스라엘 스파이웨어 업체 쿼드림, 아이폰 버그 악용 (보안뉴스 ─ 취약점 경고 및 버그리포트)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104631&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104631&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=</guid>
-            <pubDate>Tue, 08 Feb 2022 10:16:53 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/view.asp?idx=104631&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=">
-					
-					<img src="/media/upFiles2/2022/02/isr-thumb-0208.jpg" alt="" class="news_img" height="70">
-					
-					<span class="news_txt">또 다른 이스라엘 스파이웨어 업체 쿼드림, 아이폰 버그 악용</span>
-					</a><br>
-					<a href="/media/view.asp?idx=104631&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=">애플의 아이메시지(iMessage)에서 발견된 제로데이 취약점 포스드엔트리(ForcedEntry)를 악용한 건 NSO그룹(NSO Group)만이 아니었다는 사실이...</a> <span class="news_writer">문가용 기자 | 2022년 02월 08일 11:40</span>]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/isr-thumb-0208.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[최정식 발행인 칼럼] <시큐리티월드> 통권 300호를 맞아 드리는 감사의 말씀 (보안뉴스 ─ 오피니언)]]></title>
@@ -2172,6 +2172,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/stalk-thub-0223.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[통합보안 3사 에스원·SK쉴더스·KT텔레캅, 소비자의 생각과 선택은? (보안뉴스 ─ 기획특집)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105079&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=7&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105079&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=7&amp;search=title&amp;find=</guid>
+            <pubDate>Sun, 27 Feb 2022 17:16:20 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/view.asp?idx=105079&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=7&amp;search=title&amp;find=">
+					
+					<img src="/media/upFiles2/2022/02/22022521ss.jpg" alt="" class="news_img" height="70">
+					
+					<span class="news_txt">통합보안 3사 에스원·SK쉴더스·KT텔레캅, 소비자의 생각과 선택은?</span>
+					</a><br>
+					<a href="/media/view.asp?idx=105079&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=7&amp;search=title&amp;find=">국내 대표적인 통합보안 서비스 기업으로는 에스원과 SK쉴더스, 그리고 KT텔레캅을 꼽을 수 있다. &lt;보안뉴스&gt;와 &lt;시큐리티월드&gt;에서는 해마다...</a> <span class="news_writer">엄호식 기자 | 2022년 02월 28일 01:30</span>]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/22022521ss.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[2022년 대한민국 보안시장 규모, 6조 4,453억원 전망 (보안뉴스 ─ 기획특집)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=104821&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=7&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=104821&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=7&amp;search=title&amp;find=</guid>
@@ -2436,20 +2450,6 @@
 					</a><br>
 					<a href="/media/view.asp?idx=102906&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=7&amp;search=title&amp;find=">대외경제정책연구원(KIEP)은 ‘2022년 세계 경제 전망’을 통해 내년 세계 경제는 코로나19 위험이 축소되며 4.6%의 성장률을 기록할 것으로 전망했다. 특히...</a> <span class="news_writer">엄호식 기자 | 2021년 12월 07일 11:54</span>]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2021/11/21113014ss.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[연말기획-4] 2021년 대한민국 스마트시티 프로젝트 현황 결산 (보안뉴스 ─ 기획특집)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=102905&amp;page=1&amp;mkind=&amp;kind=2&amp;skind=7&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=102905&amp;page=1&amp;mkind=&amp;kind=2&amp;skind=7&amp;search=title&amp;find=</guid>
-            <pubDate>Wed, 12 Jan 2022 20:16:46 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/view.asp?idx=102905&amp;page=1&amp;mkind=&amp;kind=2&amp;skind=7&amp;search=title&amp;find=">
-					
-					<img src="/media/upFiles2/2021/11/21113011ss.jpg" alt="" class="news_img" height="70">
-					
-					<span class="news_txt">[연말기획-4] 2021년 대한민국 스마트시티 프로젝트 현황 결산 </span>
-					</a><br>
-					<a href="/media/view.asp?idx=102905&amp;page=1&amp;mkind=&amp;kind=2&amp;skind=7&amp;search=title&amp;find=">우리나라는 도시의 경쟁력과 삶의 질 향상을 위해 건설·정보통신기술 등을 융·복합해 건설된 도시기반 시설을 바탕으로 다양한 도시서비스를 제공하는 지속가능한 도시를 ...</a> <span class="news_writer">엄호식 기자 | 2021년 12월 06일 15:07</span>]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2021/11/21113011ss.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[윈스, 김보연 신임 대표이사 선임 (보안뉴스 ─ 기업뉴스)]]></title>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-02-27T16:23:07.291Z</updated>
+    <updated>2022-02-27T17:16:40.923Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[윈스, 김보연 신임 대표이사 선임]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=105110&amp;page=1&amp;mkind=1&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=105110&amp;page=1&amp;mkind=1&amp;kind=3"/>
+        <updated>2022-02-27T17:14:53.837Z</updated>
+        <content type="html"><![CDATA[윈스는 일신상의 사유로 인해 김대연 대표이사가 김보연 대표이사로 변경됐다고 25일 공시했다. 회사 측은 25일 이사회를 열고 신임 대표 선임을 마쳤다고 밝혔다. 공식 취임은 오는 3월 주주총회를 통해 이뤄질 예정이다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[주말판] 사이버 전쟁과 전쟁 중인 사이버 보험 업계]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=105106&amp;page=1&amp;mkind=1&amp;kind=1</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=105065&amp;page=1&amp;mkind=1&amp;kind=2"/>
         <updated>2022-02-25T03:17:30.793Z</updated>
         <content type="html"><![CDATA[과학기술정보통신부 홍진배 정보보호네트워크정책관이 2월 25일자로 네트워크정책실장으로 승진했다. 또한 공석이 된 정보보호네트워크정책관에는 김정삼 소프트웨어정책관이 자리를 옮겼다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[데이터 침해 사고의 비용, 너그럽게 계산하면 나중에 눈물 흘린다]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=105041&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=105041&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-02-25T02:10:37.945Z</updated>
-        <content type="html"><![CDATA[정문에 자물쇠를 단단히 걸어 잠그면 집안에 있는 귀중품이 안전하게 보호될 확률이 올라간다는 사실을 알고 있다면, 당신은 자물쇠를 채울 것인가, 말 것인가? 가장 논리적이며 간단한 답은 “채울 것이다”이다.]]></content>
     </entry>
 </feed>
