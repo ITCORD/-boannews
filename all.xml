@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Feb 2022 09:19:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Feb 2022 10:20:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -254,14 +254,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/20220223NORTH-S.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
-            <title><![CDATA[클라우드가 그리 좋다는데, 왜 지금 상황은 그렇지 못한가? (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104920&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104920&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Tue, 22 Feb 2022 07:18:01 GMT</pubDate>
-            <content:encoded><![CDATA[현재 운영되고 있는 컨테이너의 75%가 고위험군 내지 치명적 위험도의 취약점을 보유하고 있는 것으로 나타났다. 심지어 이 취약점들 대부분 패치가 있는 것으로 조사...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/clo-thumb-0221.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[러시아-우크라이나 전쟁, 사이버상 해킹 대결은 이미 ‘세계대전’ (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105112&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105112&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
@@ -403,6 +395,14 @@
             <pubDate>Mon, 28 Feb 2022 09:16:55 GMT</pubDate>
             <content:encoded><![CDATA[3월, 봄이 다가온다. 한 해의 시작도 좋지만 봄도 다가오는 해를 위한 계획을 세우기에 좋은 시기다. 2021년에도 사이버 보안 업계에서는 각종 보안 사고, 대규...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/ceo-thumb-0222.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[안심스마트점포 테스트베드 입주할 AI·융합보안 기업 찾는다 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104960&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104960&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
+            <pubDate>Mon, 28 Feb 2022 10:18:17 GMT</pubDate>
+            <content:encoded><![CDATA[과학기술정보통신부(장관 임혜숙, 이하 ‘과기정통부’)와 한국인터넷진흥원(원장 이원태, 이하 ‘KISA’)은 ‘안심스마트점포’의 융합보안 기술개발 및 인공지능 학습...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/msit_022201_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[우크라이나 겨냥한 삭제형 멀웨어, 랜섬웨어로 위장되어 있어 (보안뉴스 ─ SECURITY)]]></title>
