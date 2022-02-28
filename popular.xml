@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Feb 2022 01:00:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Feb 2022 02:13:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,14 +24,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/clo-thumb-0221.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[2022년에도 계속되는 다크웹의 한국사랑? 랜섬웨어부터 개인정보 판매까지]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104961&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104961&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Wed, 23 Feb 2022 01:02:51 GMT</pubDate>
-            <content:encoded><![CDATA[다크웹에 한국인 개인정보 판매글은 물론 한국기업의 랜섬웨어 공격으로 인한 정보 유출 협박까지 한국 기업과 국민들을 대상으로 한 공격이 계속 증가하고 있어 대책 마...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/dark_022201_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[러시아-우크라이나 전쟁, 사이버상 해킹 대결은 이미 ‘세계대전’]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105112&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105112&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
@@ -46,6 +38,14 @@
             <pubDate>Sat, 26 Feb 2022 14:15:47 GMT</pubDate>
             <content:encoded><![CDATA[전세계적으로 인공지능(AI)이나 빅데이터 등 4차 산업혁명 관련 기술을 활용한 스마트시티를 조성하고자 하는 움직임이 확대되고 있다. 일본에서 스마트시티는 2010...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/22022202ss.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022년에도 계속되는 다크웹의 한국사랑? 랜섬웨어부터 개인정보 판매까지]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104961&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104961&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Wed, 23 Feb 2022 01:02:51 GMT</pubDate>
+            <content:encoded><![CDATA[다크웹에 한국인 개인정보 판매글은 물론 한국기업의 랜섬웨어 공격으로 인한 정보 유출 협박까지 한국 기업과 국민들을 대상으로 한 공격이 계속 증가하고 있어 대책 마...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/dark_022201_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[어나니머스 해킹 공격으로 러시아 정부 홈페이지 마비]]></title>
@@ -136,12 +136,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/2-278(295).jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[데이터 침해 사고의 비용, 너그럽게 계산하면 나중에 눈물 흘린다]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105041&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105041&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Fri, 25 Feb 2022 10:17:38 GMT</pubDate>
-            <content:encoded><![CDATA[정문에 자물쇠를 단단히 걸어 잠그면 집안에 있는 귀중품이 안전하게 보호될 확률이 올라간다는 사실을 알고 있다면, 당신은 자물쇠를 채울 것인가, 말 것인가? 가장 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/lock-thumb-0224.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[통합보안 3사 에스원·SK쉴더스·KT텔레캅, 소비자의 생각과 선택은?]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105079&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105079&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
+            <pubDate>Mon, 28 Feb 2022 02:10:59 GMT</pubDate>
+            <content:encoded><![CDATA[국내 대표적인 통합보안 서비스 기업으로는 에스원과 SK쉴더스, 그리고 KT텔레캅을 꼽을 수 있다. &lt;보안뉴스&gt;와 &lt;시큐리티월드&gt;에서는 해마다...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/22022521ss.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[신현구 중부대 교수, 한국기업보안협의회 제5대 회장 취임]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105002&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105002&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
+            <pubDate>Sun, 27 Feb 2022 23:16:04 GMT</pubDate>
+            <content:encoded><![CDATA[국내외 기업보안 분야 종사자들의 모임인 한국기업보안협의회(KCMC: Korea Corporate Security Council)가 지난 16일 온라인으로 정기총회...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/20220223KCMC-S.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[‘2022년 3월 한국판 뉴딜 주요 사업, 어떤 추진계획 담겼나]]></title>
@@ -151,20 +159,12 @@
             <content:encoded><![CDATA[정부는 한국판 뉴딜의 성공적인 추진과 민간의 적극적인 참여를 위하여 ‘2022년 3월 한국판 뉴딜 주요 사업 추진계획’을 배포했다. 디지털 뉴딜 분야는 비즈니스 ...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[봄을 맞아 조직의 사이버 강화를 꿈꾸는 CEO들이 알아야 할 것]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104963&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104963&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Thu, 24 Feb 2022 21:15:57 GMT</pubDate>
-            <content:encoded><![CDATA[3월, 봄이 다가온다. 한 해의 시작도 좋지만 봄도 다가오는 해를 위한 계획을 세우기에 좋은 시기다. 2021년에도 사이버 보안 업계에서는 각종 보안 사고, 대규...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/ceo-thumb-0222.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[신현구 중부대 교수, 한국기업보안협의회 제5대 회장 취임]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105002&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105002&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
-            <pubDate>Sun, 27 Feb 2022 23:16:04 GMT</pubDate>
-            <content:encoded><![CDATA[국내외 기업보안 분야 종사자들의 모임인 한국기업보안협의회(KCMC: Korea Corporate Security Council)가 지난 16일 온라인으로 정기총회...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/20220223KCMC-S.JPG" length="0" type="image/JPG"/>
+            <title><![CDATA[데이터 침해 사고의 비용, 너그럽게 계산하면 나중에 눈물 흘린다]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105041&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105041&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Fri, 25 Feb 2022 10:17:38 GMT</pubDate>
+            <content:encoded><![CDATA[정문에 자물쇠를 단단히 걸어 잠그면 집안에 있는 귀중품이 안전하게 보호될 확률이 올라간다는 사실을 알고 있다면, 당신은 자물쇠를 채울 것인가, 말 것인가? 가장 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/lock-thumb-0224.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
