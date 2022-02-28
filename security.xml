@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-02-27T23:17:52.431Z</updated>
+    <updated>2022-02-28T01:00:58.513Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[러시아-우크라이나 전쟁, 사이버상 해킹 대결은 이미 ‘세계대전’]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=105112&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=105112&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-02-28T00:59:19.444Z</updated>
+        <content type="html"><![CDATA[러시아의 우크라이나 전면 침공이 나흘째에 접어든 가운데 우크라이나의 결사항전 태세가 이어지면서 러시아의 우크라이나 수도 키예프 함락도 난항을 겪고 있다. 더욱이 미국과 유럽 등 서방국가들은 푸틴에 대한 직접 제재에 이어 가장 강력한 금융제재로 알려진 스위프트(SWIFT...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[어나니머스 해킹 공격으로 러시아 정부 홈페이지 마비]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=105111&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=105111&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-02-28T00:59:19.445Z</updated>
+        <content type="html"><![CDATA[국제 핵티비스트 그룹 어나니머스(Anonymous)가 우크라이나를 침공한 러시아 정부 홈페이지를 공격해 마비시킨 것이 확인됐다. 또한, 어나니머스는 러시아 국영TV도 해킹해 우크라이나 관련 영상을 방영한 것으로 알려졌다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022년 불법스팸 근절 위해 바뀌는 것들]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=105108&amp;page=1&amp;mkind=1&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=105108&amp;page=1&amp;mkind=1&amp;kind=2"/>
+        <updated>2022-02-28T00:59:19.451Z</updated>
+        <content type="html"><![CDATA[2019년부터 2021년 상반기까지 최근 3년간 음성스팸은 ‘불법대출’ 스팸이, 문자스팸은 ‘도박성’ 스팸이 가장 많은 것으로 조사됐다. 이는 코로나19 이후 경제적 어려움을 느끼는 사람들을 노린 것으로 보인다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[윈스, 김보연 신임 대표이사 선임]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=105110&amp;page=1&amp;mkind=1&amp;kind=3</id>
@@ -102,26 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=105069&amp;page=1&amp;mkind=1&amp;kind=1"/>
         <updated>2022-02-25T03:17:30.784Z</updated>
         <content type="html"><![CDATA[시스코가 FXOS와 NX-OS라는 네트워크 OS에서 발견된 네 가지 취약점에 대한 패치를 개발하고 배포했다. 이 중 하나는 디도스 공격 취약점으로, NSA가 시스코에 직접 알려준 것이라고 한다. 이 취약점은 CVE-2022-20624이며, 고위험군으로 분류됐다. 하지만...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[부재중 전화알림 메일로 위장해 MS365 계정 노린 피싱 기승]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=105067&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=105067&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-02-25T03:17:30.785Z</updated>
-        <content type="html"><![CDATA[최근 부재중 전화 알림, 팩스 수신 확인 등 업무 관련 내용을 위장한 피싱 메일로 사용자의 마이크로소프트365(이하 ‘MS365’) 계정을 탈취하는 공격 사례가 연이어 발견돼 사용자들의 주의가 요구된다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[파수, ‘SW기업경쟁력대상’ 기업역량강화 부문 대상 수상]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=105066&amp;page=1&amp;mkind=1&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=105066&amp;page=1&amp;mkind=1&amp;kind=3"/>
-        <updated>2022-02-25T03:17:30.793Z</updated>
-        <content type="html"><![CDATA[파수(이하 파수, 대표 조규곤)가 24일 ‘제21회 대한민국 SW기업경쟁력대상’의 기업역량 강화 부문에서 대상(과학기술정보통신부장관상)을 수상했다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[과기정통부, 네트워크정책실장에 홍진배 정보보호네트워크정책관 임명]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=105065&amp;page=1&amp;mkind=1&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=105065&amp;page=1&amp;mkind=1&amp;kind=2"/>
-        <updated>2022-02-25T03:17:30.793Z</updated>
-        <content type="html"><![CDATA[과학기술정보통신부 홍진배 정보보호네트워크정책관이 2월 25일자로 네트워크정책실장으로 승진했다. 또한 공석이 된 정보보호네트워크정책관에는 김정삼 소프트웨어정책관이 자리를 옮겼다.]]></content>
     </entry>
 </feed>
