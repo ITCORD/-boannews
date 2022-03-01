@@ -4,9 +4,17 @@
         <title>보안뉴스 ─ Security World</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Mar 2022 01:08:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Mar 2022 02:47:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022년 3월, 물리·정보 보안업계 어떤 인재 찾...]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105077&amp;mkind=5</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105077&amp;mkind=5</guid>
+            <pubDate>Tue, 01 Mar 2022 02:46:16 GMT</pubDate>
+            <content:encoded><![CDATA[따뜻한 봄기운이 느껴지는 3월이 다가왔다. 코로나19의 위세는 여전하지만 예전과 같은 일상으로의 복귀를 기대하는 마음은 여전하다. 보안업계 역시 하루빨리 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/22022504ss.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[통합보안 3사 에스원·SK쉴더스·KT텔레캅, 소비자...]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105079&amp;mkind=5</link>
@@ -14,14 +22,6 @@
             <pubDate>Sun, 27 Feb 2022 17:15:20 GMT</pubDate>
             <content:encoded><![CDATA[국내 대표적인 통합보안 서비스 기업으로는 에스원과 SK쉴더스, 그리고 KT텔레캅을 꼽을 수 있다. &lt;보안뉴스&gt;와 &lt;시큐리티월드&gt;에서는 해마다 통합보안 서비...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/22022521ss.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일본 스마트시티 정책의 핵심 키워드는 ‘슈퍼시티’ ...]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104959&amp;mkind=5</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104959&amp;mkind=5</guid>
-            <pubDate>Sat, 26 Feb 2022 01:58:56 GMT</pubDate>
-            <content:encoded><![CDATA[전세계적으로 인공지능(AI)이나 빅데이터 등 4차 산업혁명 관련 기술을 활용한 스마트시티를 조성하고자 하는 움직임이 확대되고 있다. 일본에서 스마트시티는 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/22022202ss.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
