@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Mar 2022 16:24:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Mar 2022 17:18:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -151,20 +151,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/ai-thumb-0224.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[생각만으로 정확하게 로봇팔 조종이 가능한 시스템 개발됐다]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105104&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105104&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
-            <pubDate>Tue, 01 Mar 2022 13:20:57 GMT</pubDate>
-            <content:encoded><![CDATA[카이스트 바이오및뇌공학과 정재승 교수 연구팀이 3차원 공간상에서 생각만으로 로봇팔을 높은 정확도(90.9~92.6%)로 조종하는 ‘뇌-기계 인터페이스 시스템’을 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/2-279(295).jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[bnTV] 인터넷의 근간이 흔들릴 수 있는 해킹 사건의 전말은?]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105123&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105123&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Tue, 01 Mar 2022 16:22:18 GMT</pubDate>
             <content:encoded><![CDATA[‘BGP Hijacking’이라고 하는 게 뭐냐면 쉽게 말씀드리면 저희가 도로에서 운전을 할 때 도로 표지판이 있지 않습니까? 저희가 사용하는 인터넷에도 그런 표...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/20220228DARK-S.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[생각만으로 정확하게 로봇팔 조종이 가능한 시스템 개발됐다]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105104&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105104&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
+            <pubDate>Tue, 01 Mar 2022 13:20:57 GMT</pubDate>
+            <content:encoded><![CDATA[카이스트 바이오및뇌공학과 정재승 교수 연구팀이 3차원 공간상에서 생각만으로 로봇팔을 높은 정확도(90.9~92.6%)로 조종하는 ‘뇌-기계 인터페이스 시스템’을 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/2-279(295).jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
