@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Mar 2022 07:17:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Mar 2022 08:21:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,14 +46,6 @@
             <pubDate>Mon, 28 Feb 2022 02:10:59 GMT</pubDate>
             <content:encoded><![CDATA[국내 대표적인 통합보안 서비스 기업으로는 에스원과 SK쉴더스, 그리고 KT텔레캅을 꼽을 수 있다. &lt;보안뉴스&gt;와 &lt;시큐리티월드&gt;에서는 해마다...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/22022521ss.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022년에도 계속되는 다크웹의 한국사랑? 랜섬웨어부터 개인정보 판매까지]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104961&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104961&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Wed, 23 Feb 2022 01:02:51 GMT</pubDate>
-            <content:encoded><![CDATA[다크웹에 한국인 개인정보 판매글은 물론 한국기업의 랜섬웨어 공격으로 인한 정보 유출 협박까지 한국 기업과 국민들을 대상으로 한 공격이 계속 증가하고 있어 대책 마...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/dark_022201_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[주말판] 사이버 전쟁과 전쟁 중인 사이버 보험 업계]]></title>
@@ -165,6 +157,13 @@
             <pubDate>Tue, 01 Mar 2022 07:15:22 GMT</pubDate>
             <content:encoded><![CDATA[인공지능이라는 신기술이 기업들의 고객 대응 방법과 사업 운영 방향성을 크게 바꿔놓고 있다. 간단하고 반복적인 임무를 훨씬 정확하고 빠르게 처리해 주고, 수많은 데...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/ai-thumb-0224.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[전국 교통사고 잦은 곳 개선하니 사망자 76% 줄었다]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105099&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105099&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
+            <pubDate>Tue, 01 Mar 2022 08:19:22 GMT</pubDate>
+            <content:encoded><![CDATA[도로교통공단이 ‘교통사고 잦은 곳 개선 사업’을 진행한 전국 국도 및 시·군도 277개소의 개선 전 3년과 개선 후 1년 교통사고를 분석한 결과, 사망자 수는 약...]]></content:encoded>
         </item>
     </channel>
 </rss>
