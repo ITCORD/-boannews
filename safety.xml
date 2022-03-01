@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=4</id>
     <title>보안뉴스 ─ SAFETY</title>
-    <updated>2022-02-28T23:19:20.068Z</updated>
+    <updated>2022-03-01T01:08:47.999Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[과기정통부, 2022년 제1차 통신재난관리심의위원회 개최]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=105089&amp;page=1&amp;mkind=4&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=105089&amp;page=1&amp;mkind=4&amp;kind=2"/>
+        <updated>2022-03-01T01:07:17.785Z</updated>
+        <content type="html"><![CDATA[과학기술정보통신부는 ‘통신재난관리심의위원회’가 법정기구화됨에 따라 위원 구성을 개편하고, 2022년 제1차 심의위원회를 지난 25일 개최했다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[부산시, 전통시장 화재 예방을 위한 안전감찰 결과 발표]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=105086&amp;page=1&amp;mkind=4&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=105086&amp;page=1&amp;mkind=4&amp;kind=2"/>
+        <updated>2022-03-01T01:07:17.786Z</updated>
+        <content type="html"><![CDATA[부산시는 부산시 감사위원회가 지난해 12월 13일부터 올해 1월 21일까지 전통시장 화재 예방을 위해 소방재난본부와 합동으로 추진한 안전감찰 결과를 발표했다고 밝혔다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[광진구, 1인 가구 현관 지키는 방범도어서비스 운영 확대]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=105105&amp;page=1&amp;mkind=4&amp;kind=2</id>
@@ -109,19 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=104923&amp;page=1&amp;mkind=4&amp;kind=2"/>
         <updated>2022-02-23T06:20:13.150Z</updated>
         <content type="html"><![CDATA[광주도시철도공사는 재난에 대응하는 안전 역량 고도화를 위해 지난 21일 광주시 서구 본사와 광산구 공항역 일원에서 ‘지진으로 인한 열차 탈선 및 화재 대응 통합 훈련을 펼쳤다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[행안부-지자체, 국가지점번호판 관리실태 전국 일제조사 추진]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104939&amp;page=1&amp;mkind=4&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104939&amp;page=1&amp;mkind=4&amp;kind=2"/>
-        <updated>2022-02-23T06:20:13.151Z</updated>
-        <content type="html"><![CDATA[행정안전부는 전국 지자체와 함께 올해부터 2026년까지 5년 동안 전국에 설치된 ‘국가지점번호판 관리실태 일제조사’를 실시하고, ‘국가지점번호판 현장조사 업무처리 요령(매뉴얼)’도 배포한다고 밝혔다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국해양교통안전공단(KOMSA), 스마트 선박안전지원센터 첫 삽 떴다]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=104903&amp;page=1&amp;mkind=4&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=104903&amp;page=1&amp;mkind=4&amp;kind=2"/>
-        <updated>2022-02-23T06:20:13.163Z</updated>
-        <content type="html"><![CDATA[한국해양교통안전공단(KOMSA)은 인천과 목포 소재 스마트 선박안전지원센터가 각각 1월 18일과 25일, 첫 삽을 떴다고 밝혔다. 공단이 지난 2018년 스마트 선박안전지원센터 구축 기획연구를 시작한 지 4년 만이다.]]></content>
     </entry>
 </feed>
