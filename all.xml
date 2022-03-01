@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Mar 2022 15:19:46 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Mar 2022 16:24:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[로우코드와 노코드, 인공지능과 결합해 좋은 성과 낼 수 있을까 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105113&amp;page=1&amp;kind=4</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105113&amp;page=1&amp;kind=4</guid>
+            <pubDate>Tue, 01 Mar 2022 16:22:09 GMT</pubDate>
+            <content:encoded><![CDATA[몇 년 안에 로우코드 혹은 노코드 기술은 크게 성장할 것으로 예상된다. 그럼으로써 프로 개발자들의 어깨에 지워진 짐의 무게가 조금은 가벼워질 수 있을 것으...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/ai-thumb-0228.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[CCTV, 중국 광학렌즈 3대 주요 시장으로 부상 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105078&amp;page=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105078&amp;page=1&amp;kind=3</guid>
+            <pubDate>Tue, 01 Mar 2022 16:22:09 GMT</pubDate>
+            <content:encoded><![CDATA[CCTV와 드론, 차량용 카메라 등에 쓰이는 광학렌즈는 광전 산업계에서 가장 중요한 분야이자 기계 작동의 시각적 시스템 운용을 위한 주요 부품이다. 일반적...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/22022507ss.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[보안업무의 가시성에 대한 조언 “준비에 실패하는 건, 실패하려고 준비하는 것” (보안뉴스 ─ 전체기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105107&amp;page=1&amp;kind=4</link>
@@ -70,22 +86,6 @@
             <pubDate>Mon, 28 Feb 2022 03:16:49 GMT</pubDate>
             <content:encoded><![CDATA[벨라루스의 국영 철도 시스템의 네트워크를 침해했다고 핵티비스트 그룹인 어나니머스가 발표했다. 현재 모든 서비스가 차단됐다고 하며, 러시아 군의 수송을 멈추...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/rail-thumb-0228.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마이크로소프트 익스체인지 버그 익스플로잇 하는 쿠바 랜섬웨어 갱단 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105119&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105119&amp;page=1&amp;kind=1</guid>
-            <pubDate>Mon, 28 Feb 2022 03:16:49 GMT</pubDate>
-            <content:encoded><![CDATA[쿠바(Cuba)라는 이름으로 알려진 랜섬웨어 갱단이 MS 익스체인지의 취약점을 익스플로잇 하는 방향으로 선회하고 있다는 소식이다. 특히 프록시셸(Proxy...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/cub-thumb-0228.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[새로운 고급 백도어, 미국 국방 업체들 노려 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105118&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105118&amp;page=1&amp;kind=1</guid>
-            <pubDate>Mon, 28 Feb 2022 03:16:49 GMT</pubDate>
-            <content:encoded><![CDATA[새로운 백도어가 출현했다. 이름은 속디투어(SockDetour)로, 파일레스(fileless) 및 소킷레스(socketless)라는 특성을 가지고 있다. ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/wea-thumb-0228.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[도로교통공단, 봄철 신학기 초등학생 교통안전 지도 당부 (보안뉴스 ─ 전체기사)]]></title>
@@ -388,11 +388,12 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/2-279(295).jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[전국 교통사고 잦은 곳 개선하니 사망자 76% 줄었다 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105099&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105099&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
-            <pubDate>Tue, 01 Mar 2022 08:19:22 GMT</pubDate>
-            <content:encoded><![CDATA[도로교통공단이 ‘교통사고 잦은 곳 개선 사업’을 진행한 전국 국도 및 시·군도 277개소의 개선 전 3년과 개선 후 1년 교통사고를 분석한 결과, 사망자 수는 약...]]></content:encoded>
+            <title><![CDATA[[bnTV] 인터넷의 근간이 흔들릴 수 있는 해킹 사건의 전말은? (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105123&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105123&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Tue, 01 Mar 2022 16:22:18 GMT</pubDate>
+            <content:encoded><![CDATA[‘BGP Hijacking’이라고 하는 게 뭐냐면 쉽게 말씀드리면 저희가 도로에서 운전을 할 때 도로 표지판이 있지 않습니까? 저희가 사용하는 인터넷에도 그런 표...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/20220228DARK-S.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[2022년 디지털 전환 대응 위한 사이버보안 인재 집중 양성 (보안뉴스 ─ SECURITY)]]></title>
@@ -514,6 +515,13 @@
             <content:encoded><![CDATA[대웅제약은 제약업계 최초로 국제표준 정보보호 인증 ISO27001 및 국제표준 개인정보보호 인증 ISO27701을 동시에 획득했다고 밝혔다. 지난 23일 대웅제약 본사에서 열린 인증서 수여식에는 대웅제약 이창재 대표, BSI그룹코리아 임성환 대표 등이 참석했다.]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[K-디지털 트레이닝, 278개 훈련과정 선정 (보안뉴스 ─ IT)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105127&amp;page=1&amp;mkind=2&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105127&amp;page=1&amp;mkind=2&amp;kind=2</guid>
+            <pubDate>Tue, 01 Mar 2022 16:22:34 GMT</pubDate>
+            <content:encoded><![CDATA[고용노동부와 한국기술교육대 직업능력심사평가원은 지난달 28일 ‘K-디지털 트레이닝’ 상반기 훈련과정 공모의 1차 선정 결과를 발표했다.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[과기정통부, ITU 세계전기통신표준화총회 참가 (보안뉴스 ─ IT)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105128&amp;page=1&amp;mkind=2&amp;kind=2</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105128&amp;page=1&amp;mkind=2&amp;kind=2</guid>
@@ -624,13 +632,6 @@
             <guid>https://www.boannews.com/media/view.asp?idx=105100&amp;page=1&amp;mkind=2&amp;kind=3</guid>
             <pubDate>Sun, 27 Feb 2022 16:21:27 GMT</pubDate>
             <content:encoded><![CDATA[대한전선이 미래 성장 산업인 웨어러블 로봇 분야 투자를 통해 신성장동력 확보에 나선다. 대한전선은 웨어러블 로봇 전문업체인 에프알티(FRT)와 ‘산업용 웨어러블 로봇 사업에 관한 투자 업무 협약’을 체결했다고 밝혔다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[삼성전자, 한국전력공사 데이터 연계해 ‘스마트싱스 에너지’ 서비스 강화 (보안뉴스 ─ IT)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105098&amp;page=1&amp;mkind=2&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105098&amp;page=1&amp;mkind=2&amp;kind=3</guid>
-            <pubDate>Sat, 26 Feb 2022 01:58:40 GMT</pubDate>
-            <content:encoded><![CDATA[삼성전자가 한국전력공사와 함께 ‘아파트 AMI(Advanced Metering Infrastructure: 지능형 원격 검침 장치) 데이터 수집 및 활용을 통한 에너지 서비스 시범 사업 컨소시엄 추진을 위한 업무협약(MOA)’을 지난 24일 체결했다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[해양수산부, 봄철 안전사고 미리 대비한다 (보안뉴스 ─ SAFETY)]]></title>
@@ -752,20 +753,20 @@
             <content:encoded><![CDATA[국토교통부는 교통사고로부터 국민의 소중한 생명을 지키고 교통안전 선진국으로 도약하기 위해 행정안전부 및 경찰청 등 관계기관과 함께 ‘2022 교통사고 사망자 감소 대책’을 수립했다.]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[CCTV, 중국 광학렌즈 3대 주요 시장으로 부상 (보안뉴스 ─ Security World)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105078&amp;mkind=5</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105078&amp;mkind=5</guid>
+            <pubDate>Tue, 01 Mar 2022 16:22:51 GMT</pubDate>
+            <content:encoded><![CDATA[CCTV와 드론, 차량용 카메라 등에 쓰이는 광학렌즈는 광전 산업계에서 가장 중요한 분야이자 기계 작동의 시각적 시스템 운용을 위한 주요 부품이다. 일반적...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/22022507ss.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[2022년 3월, 물리·정보 보안업계 어떤 인재 찾... (보안뉴스 ─ Security World)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105077&amp;mkind=5</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105077&amp;mkind=5</guid>
             <pubDate>Tue, 01 Mar 2022 02:46:16 GMT</pubDate>
             <content:encoded><![CDATA[따뜻한 봄기운이 느껴지는 3월이 다가왔다. 코로나19의 위세는 여전하지만 예전과 같은 일상으로의 복귀를 기대하는 마음은 여전하다. 보안업계 역시 하루빨리 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/22022504ss.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[통합보안 3사 에스원·SK쉴더스·KT텔레캅, 소비자... (보안뉴스 ─ Security World)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105079&amp;mkind=5</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105079&amp;mkind=5</guid>
-            <pubDate>Sun, 27 Feb 2022 17:15:20 GMT</pubDate>
-            <content:encoded><![CDATA[국내 대표적인 통합보안 서비스 기업으로는 에스원과 SK쉴더스, 그리고 KT텔레캅을 꼽을 수 있다. &lt;보안뉴스&gt;와 &lt;시큐리티월드&gt;에서는 해마다 통합보안 서비...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/22022521ss.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[bnTV] 인터넷의 근간이 흔들릴 수 있는 해킹 사건의 전말은? (보안뉴스 ─ 취약점 경고 및 버그리포트)]]></title>
@@ -1888,6 +1889,34 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2021/12/20211224car-s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[로우코드와 노코드, 인공지능과 결합해 좋은 성과 낼 수 있을까 (보안뉴스 ─ 국제)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105113&amp;page=1&amp;mkind=&amp;kind=4&amp;skind=D&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105113&amp;page=1&amp;mkind=&amp;kind=4&amp;skind=D&amp;search=title&amp;find=</guid>
+            <pubDate>Tue, 01 Mar 2022 16:23:37 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/view.asp?idx=105113&amp;page=1&amp;mkind=&amp;kind=4&amp;skind=D&amp;search=title&amp;find=">
+					
+					<img src="/media/upFiles2/2022/02/ai-thumb-0228.jpg" alt="" class="news_img" height="70">
+					
+					<span class="news_txt">로우코드와 노코드, 인공지능과 결합해 좋은 성과 낼 수 있을까</span>
+					</a><br>
+					<a href="/media/view.asp?idx=105113&amp;page=1&amp;mkind=&amp;kind=4&amp;skind=D&amp;search=title&amp;find=">몇 년 안에 로우코드 혹은 노코드 기술은 크게 성장할 것으로 예상된다. 그럼으로써 프로 개발자들의 어깨에 지워진 짐의 무게가 조금은 가벼워질 수 있을 것으로 기대...</a> <span class="news_writer">문가용 기자 | 2022년 03월 02일 01:06</span>]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/ai-thumb-0228.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[CCTV, 중국 광학렌즈 3대 주요 시장으로 부상 (보안뉴스 ─ 국제)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105078&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=D&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105078&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=D&amp;search=title&amp;find=</guid>
+            <pubDate>Tue, 01 Mar 2022 16:23:37 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/view.asp?idx=105078&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=D&amp;search=title&amp;find=">
+					
+					<img src="/media/upFiles2/2022/02/22022507ss.jpg" alt="" class="news_img" height="70">
+					
+					<span class="news_txt">CCTV, 중국 광학렌즈 3대 주요 시장으로 부상 </span>
+					</a><br>
+					<a href="/media/view.asp?idx=105078&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=D&amp;search=title&amp;find=">CCTV와 드론, 차량용 카메라 등에 쓰이는 광학렌즈는 광전 산업계에서 가장 중요한 분야이자 기계 작동의 시각적 시스템 운용을 위한 주요 부품이다. 일반적으로 정...</a> <span class="news_writer">엄호식 기자 | 2022년 03월 02일 01:00</span>]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/22022507ss.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[보안업무의 가시성에 대한 조언 “준비에 실패하는 건, 실패하려고 준비하는 것” (보안뉴스 ─ 국제)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105107&amp;page=1&amp;mkind=&amp;kind=4&amp;skind=D&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105107&amp;page=1&amp;mkind=&amp;kind=4&amp;skind=D&amp;search=title&amp;find=</guid>
@@ -2138,34 +2167,6 @@
 					</a><br>
 					<a href="/media/view.asp?idx=105037&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">러시아와 우크라이나 간 긴장감이 고조되면서 서방 국가 내 산업 현장의 네트워크 운영자들과 보안 팀들도 덩달아 긴장하고 있다. 러시아의 국가 지원을 받는 해커들이 ...</a> <span class="news_writer">문가용 기자 | 2022년 02월 24일 15:44</span>]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/site-thumb-0224.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우크라이나, 데이터 삭제 공격에 시달림 받고 있어 (보안뉴스 ─ 국제)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105035&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105035&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
-            <pubDate>Thu, 24 Feb 2022 03:16:05 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/view.asp?idx=105035&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
-					
-					<img src="/media/upFiles2/2022/02/del-thumb-0224.jpg" alt="" class="news_img" height="70">
-					
-					<span class="news_txt">우크라이나, 데이터 삭제 공격에 시달림 받고 있어</span>
-					</a><br>
-					<a href="/media/view.asp?idx=105035&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">전쟁의 분위기가 감돌고 있는 우크라이나의 사이버 공간은 이미 파괴 전차들이 굴러다니고 있다. 러시아로부터 온 것으로 보이는 삭제형 멀웨어들이 많은 조직들에 피해를...</a> <span class="news_writer">문가용 기자 | 2022년 02월 24일 11:47</span>]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/del-thumb-0224.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성 스마트폰 1억여 대에서 암호화 깨는 취약점 발견돼 (보안뉴스 ─ 국제)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105034&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105034&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
-            <pubDate>Thu, 24 Feb 2022 03:16:05 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/view.asp?idx=105034&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
-					
-					<img src="/media/upFiles2/2022/02/sam-thumb-0224.jpg" alt="" class="news_img" height="70">
-					
-					<span class="news_txt">삼성 스마트폰 1억여 대에서 암호화 깨는 취약점 발견돼</span>
-					</a><br>
-					<a href="/media/view.asp?idx=105034&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">삼성 스마트폰이 민감한 정보를 암호화 하는 방식에서 중대한 취약점이 발견됐다. 텔아비브대학과 존스홉킨스대학의 연구원들에 의하면 ‘부끄러울 정도로 좋지 않은 취약점...</a> <span class="news_writer">문가용 기자 | 2022년 02월 24일 11:45</span>]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/sam-thumb-0224.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[통합보안 3사 에스원·SK쉴더스·KT텔레캅, 소비자의 생각과 선택은? (보안뉴스 ─ 기획특집)]]></title>
