@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Mar 2022 06:22:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Mar 2022 07:17:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[인사] 이스트시큐리티, 정준일 대표이사 선임 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105163&amp;page=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105163&amp;page=1&amp;kind=3</guid>
+            <pubDate>Wed, 02 Mar 2022 07:15:15 GMT</pubDate>
+            <content:encoded><![CDATA[보안 전문기업 이스트시큐리티가 정준일 대표이사를 새롭게 선임했다. 정준일 신임 대표는 클라우드 기업 메가존에서 영입된 IT/보안 전문가로 알려졌다. 정준일...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220302EAST-S.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[테크칼럼] 특허로 본 CES 2022 (보안뉴스 ─ 전체기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105161&amp;page=1&amp;kind=5</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 01 Mar 2022 02:45:32 GMT</pubDate>
             <content:encoded><![CDATA[따뜻한 봄기운이 느껴지는 3월이 다가왔다. 코로나19의 위세는 여전하지만 예전과 같은 일상으로의 복귀를 기대하는 마음은 여전하다. 보안업계 역시 하루빨리 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/22022504ss.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[bnTV] 인터넷의 근간이 흔들릴 수 있는 해킹 사건의 전말은? (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105123&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105123&amp;page=1&amp;kind=1</guid>
-            <pubDate>Mon, 28 Feb 2022 06:21:06 GMT</pubDate>
-            <content:encoded><![CDATA[‘BGP Hijacking’이라고 하는 게 뭐냐면 쉽게 말씀드리면 저희가 도로에서 운전을 할 때 도로 표지판이 있지 않습니까? 저희가 사용하는 인터넷에도 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/20220228DARK-S.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[‘코드게이트 2022’ 본선 진출 40개 팀 발표... 신규 팀 대거 등장 (보안뉴스 ─ 전체기사)]]></title>
@@ -293,20 +293,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/site-thumb-0224.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[세상 모든 곳에 존재하는 오픈소스만 잡아도 보안은 높게 유지된다 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104962&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104962&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Thu, 24 Feb 2022 07:15:33 GMT</pubDate>
-            <content:encoded><![CDATA[오픈소스 소프트웨어는 어디에나 존재한다. 기술 혁신의 촉진제이기도 하며, 애플리케이션 마감 시간을 실질적으로 단축시켜주는 일등공신이기도 하다. 동시에 각종 보안 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/brick-thumb-0222.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[bnTV] 인터넷의 근간이 흔들릴 수 있는 해킹 사건의 전말은? (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105123&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105123&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Tue, 01 Mar 2022 16:22:18 GMT</pubDate>
             <content:encoded><![CDATA[‘BGP Hijacking’이라고 하는 게 뭐냐면 쉽게 말씀드리면 저희가 도로에서 운전을 할 때 도로 표지판이 있지 않습니까? 저희가 사용하는 인터넷에도 그런 표...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/20220228DARK-S.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[세상 모든 곳에 존재하는 오픈소스만 잡아도 보안은 높게 유지된다 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104962&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104962&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Thu, 24 Feb 2022 07:15:33 GMT</pubDate>
+            <content:encoded><![CDATA[오픈소스 소프트웨어는 어디에나 존재한다. 기술 혁신의 촉진제이기도 하며, 애플리케이션 마감 시간을 실질적으로 단축시켜주는 일등공신이기도 하다. 동시에 각종 보안 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/brick-thumb-0222.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[피싱 공격에 대한 교육 시간은 늘어나는데 효과는 오히려 줄어든다? (보안뉴스 ─ 가장 많이 본 기사)]]></title>
@@ -394,6 +394,13 @@
             <pubDate>Wed, 02 Mar 2022 06:20:20 GMT</pubDate>
             <content:encoded><![CDATA[어디를 가든 감시 카메라가 우리를 지켜본다. 이 카메라들은 우리의 가족과 집과 회사를 보호하기 위해 눈을 부릅뜨고 있다. 골목에서, 신호등에서, 여러 대문들에서 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/vis-thumb-226.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[러시아가 사용하는 또 다른 삭제형 멀웨어, 아이작와이퍼 (보안뉴스 ─ SECURITY)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105157&amp;page=1&amp;mkind=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105157&amp;page=1&amp;mkind=1&amp;kind=1</guid>
+            <pubDate>Wed, 02 Mar 2022 07:15:39 GMT</pubDate>
+            <content:encoded><![CDATA[보안 업체 이셋(ESET)은 러시아가 우크라이나 침공 이후부터 러시아가 적극적으로 사용하기 시작한 파괴형 멀웨어인 아이작와이퍼(IsaacWiper)를 발견했다. 아이작와이퍼는 이름이 밝혀지지 않은 러시아 정부 기관을 상대로 사용되었다고 한다. 특히 헤르메틱와이퍼에 감염...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[MS, 러시아 침투 전 사용됐던 폭스블레이드 발견 (보안뉴스 ─ SECURITY)]]></title>
@@ -506,13 +513,6 @@
             <guid>https://www.boannews.com/media/view.asp?idx=105115&amp;page=1&amp;mkind=1&amp;kind=3</guid>
             <pubDate>Mon, 28 Feb 2022 03:17:07 GMT</pubDate>
             <content:encoded><![CDATA[안랩(대표 강석균)이 아마존웹서비스(Amazon Web Services, 이하 AWS)의 ‘어드밴스드 티어 서비스 파트너(Advanced Tier Service Partner)’로 선정됐다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[부고] 개인정보보호위원회 최영진 부위원장 모친상 (보안뉴스 ─ SECURITY)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105114&amp;page=1&amp;mkind=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105114&amp;page=1&amp;mkind=1&amp;kind=1</guid>
-            <pubDate>Mon, 28 Feb 2022 02:11:07 GMT</pubDate>
-            <content:encoded><![CDATA[△내 용 : 개인정보보호위원회 최영진 부위원장 모친상 △빈 소 : 가톨릭성모병원장례식장3호실 △발 인 : 3월 1일(화)]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[인사] 인포스탁데일리 사장에 최양오 전 현대경제연구원 고문 선임 (보안뉴스 ─ IT)]]></title>
@@ -2726,6 +2726,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/doosan_021601_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[인사] 이스트시큐리티, 정준일 대표이사 선임 (보안뉴스 ─ 인사 부고)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105163&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=K&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105163&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=K&amp;search=title&amp;find=</guid>
+            <pubDate>Wed, 02 Mar 2022 07:17:37 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/view.asp?idx=105163&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=K&amp;search=title&amp;find=">
+					
+					<img src="/media/upFiles2/2022/03/20220302EAST-S.png" alt="" class="news_img" height="70">
+					
+					<span class="news_txt">[인사] 이스트시큐리티, 정준일 대표이사 선임 </span>
+					</a><br>
+					<a href="/media/view.asp?idx=105163&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=K&amp;search=title&amp;find=">보안 전문기업 이스트시큐리티가 정준일 대표이사를 새롭게 선임했다. 정준일 신임 대표는 클라우드 기업 메가존에서 영입된 IT/보안 전문가로 알려졌다. 정준일 신임 ...</a> <span class="news_writer">권준  기자 | 2022년 03월 02일 16:02</span>]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220302EAST-S.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[[인사] 메트로신문(메트로경제) (보안뉴스 ─ 인사 부고)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105158&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=K&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105158&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=K&amp;search=title&amp;find=</guid>
@@ -2951,20 +2965,6 @@
 					<span class="news_txt">[인사] 스카이데일리</span>
 					</a><br>
 					<a href="/media/view.asp?idx=104177&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=K&amp;search=title&amp;find=">◇ 스카이데일리 인사 △사장 겸 발행인 조민호 △편집인 겸 주필 조정진</a> <span class="news_writer">권준  기자 | 2022년 01월 18일 14:12</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[한국정보보호학회, 27대 회장으로 이옥연 국민대 교수 추대 (보안뉴스 ─ 인사 부고)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104126&amp;page=1&amp;mkind=&amp;kind=2&amp;skind=K&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104126&amp;page=1&amp;mkind=&amp;kind=2&amp;skind=K&amp;search=title&amp;find=</guid>
-            <pubDate>Fri, 14 Jan 2022 10:19:52 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/view.asp?idx=104126&amp;page=1&amp;mkind=&amp;kind=2&amp;skind=K&amp;search=title&amp;find=">
-					
-					<img src="/media/upFiles2/2022/01/coll_011402_main.jpg" alt="" class="news_img" height="70">
-					
-					<span class="news_txt">한국정보보호학회, 27대 회장으로 이옥연 국민대 교수 추대</span>
-					</a><br>
-					<a href="/media/view.asp?idx=104126&amp;page=1&amp;mkind=&amp;kind=2&amp;skind=K&amp;search=title&amp;find=">한국정보보호학회가 27대 회장으로 이옥연 국민대학교 교수를 추대했다. 14일 개최된 신년인사회 및 제1차 이사회에서 이옥연 신임회장과 원유재 수석부회장(충남대 교...</a> <span class="news_writer">원병철 기자 | 2022년 01월 14일 18:20</span>]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/coll_011402_main.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

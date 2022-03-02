@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-03-02T06:22:20.886Z</updated>
+    <updated>2022-03-02T07:17:38.071Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[러시아가 사용하는 또 다른 삭제형 멀웨어, 아이작와이퍼]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=105157&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=105157&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-03-02T07:15:39.274Z</updated>
+        <content type="html"><![CDATA[보안 업체 이셋(ESET)은 러시아가 우크라이나 침공 이후부터 러시아가 적극적으로 사용하기 시작한 파괴형 멀웨어인 아이작와이퍼(IsaacWiper)를 발견했다. 아이작와이퍼는 이름이 밝혀지지 않은 러시아 정부 기관을 상대로 사용되었다고 한다. 특히 헤르메틱와이퍼에 감염...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MS, 러시아 침투 전 사용됐던 폭스블레이드 발견]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=105156&amp;page=1&amp;mkind=1&amp;kind=1</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=105115&amp;page=1&amp;mkind=1&amp;kind=3"/>
         <updated>2022-02-28T03:17:07.441Z</updated>
         <content type="html"><![CDATA[안랩(대표 강석균)이 아마존웹서비스(Amazon Web Services, 이하 AWS)의 ‘어드밴스드 티어 서비스 파트너(Advanced Tier Service Partner)’로 선정됐다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[부고] 개인정보보호위원회 최영진 부위원장 모친상]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=105114&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=105114&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-02-28T02:11:07.940Z</updated>
-        <content type="html"><![CDATA[△내 용 : 개인정보보호위원회 최영진 부위원장 모친상 △빈 소 : 가톨릭성모병원장례식장3호실 △발 인 : 3월 1일(화)]]></content>
     </entry>
 </feed>

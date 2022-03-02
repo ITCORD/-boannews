@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Mar 2022 06:22:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Mar 2022 07:17:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -64,20 +64,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/site-thumb-0224.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[세상 모든 곳에 존재하는 오픈소스만 잡아도 보안은 높게 유지된다]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104962&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104962&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Thu, 24 Feb 2022 07:15:33 GMT</pubDate>
-            <content:encoded><![CDATA[오픈소스 소프트웨어는 어디에나 존재한다. 기술 혁신의 촉진제이기도 하며, 애플리케이션 마감 시간을 실질적으로 단축시켜주는 일등공신이기도 하다. 동시에 각종 보안 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/brick-thumb-0222.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[bnTV] 인터넷의 근간이 흔들릴 수 있는 해킹 사건의 전말은?]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105123&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105123&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Tue, 01 Mar 2022 16:22:18 GMT</pubDate>
             <content:encoded><![CDATA[‘BGP Hijacking’이라고 하는 게 뭐냐면 쉽게 말씀드리면 저희가 도로에서 운전을 할 때 도로 표지판이 있지 않습니까? 저희가 사용하는 인터넷에도 그런 표...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/20220228DARK-S.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[세상 모든 곳에 존재하는 오픈소스만 잡아도 보안은 높게 유지된다]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=104962&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=104962&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Thu, 24 Feb 2022 07:15:33 GMT</pubDate>
+            <content:encoded><![CDATA[오픈소스 소프트웨어는 어디에나 존재한다. 기술 혁신의 촉진제이기도 하며, 애플리케이션 마감 시간을 실질적으로 단축시켜주는 일등공신이기도 하다. 동시에 각종 보안 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/brick-thumb-0222.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[피싱 공격에 대한 교육 시간은 늘어나는데 효과는 오히려 줄어든다?]]></title>
