@@ -4,9 +4,25 @@
         <title>보안뉴스 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Mar 2022 05:16:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Mar 2022 06:22:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[테크칼럼] 특허로 본 CES 2022]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105161&amp;page=1&amp;kind=5</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105161&amp;page=1&amp;kind=5</guid>
+            <pubDate>Wed, 02 Mar 2022 06:20:10 GMT</pubDate>
+            <content:encoded><![CDATA[2년 만에 오프라인에서 열린 CES 2022. 지난 1967년 첫 개최 이래, 코로나 여파로 작년엔 55년 만에 처음으로 열리지 못했다. 올해 역시 개최 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220302IP-1S.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[2021년 하반기, 악성코드 유포지 23% 늘었다]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105160&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105160&amp;page=1&amp;kind=1</guid>
+            <pubDate>Wed, 02 Mar 2022 06:20:10 GMT</pubDate>
+            <content:encoded><![CDATA[2021년 하반기는 상반기보다 악성코드 유포지가 23% 증가했다고 한국인터넷진흥원(KISA)이 밝혔다. KISA는 이와 같은 내용이 담긴 ‘악성코드 은닉사...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20751621_main.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[러시아가 사용하는 또 다른 삭제형 멀웨어, 아이작와이퍼]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105157&amp;page=1&amp;kind=1</link>
@@ -70,22 +86,6 @@
             <pubDate>Mon, 28 Feb 2022 06:21:06 GMT</pubDate>
             <content:encoded><![CDATA[‘BGP Hijacking’이라고 하는 게 뭐냐면 쉽게 말씀드리면 저희가 도로에서 운전을 할 때 도로 표지판이 있지 않습니까? 저희가 사용하는 인터넷에도 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/20220228DARK-S.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[2022년 디지털 전환 대응 위한 사이버보안 인재 집중 양성]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105109&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105109&amp;page=1&amp;kind=2</guid>
-            <pubDate>Mon, 28 Feb 2022 05:14:30 GMT</pubDate>
-            <content:encoded><![CDATA[정부는 비대면·디지털 대전환에 따른 디지털 경제 시대를 대비해 보안이 내재화된 안전하고 신뢰할 수 있는 환경 구축을 위한 인력 양성을 추진하기로 했다. 이...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/20714234_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[네트워크 자동화 기술을 도입하려면 데이터 수집 현황부터 이해해야]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105085&amp;page=1&amp;kind=4</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105085&amp;page=1&amp;kind=4</guid>
-            <pubDate>Mon, 28 Feb 2022 05:14:30 GMT</pubDate>
-            <content:encoded><![CDATA[네트워크에 자동화 기술을 탑재해, 운영, 유지하려면 네트워크 데이터가 필수적으로 확보되어야 한다. 그런데 이 점을 간과하는 기업과 기관들이 너무나 많다. ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/net-thumb-00225.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘코드게이트 2022’ 본선 진출 40개 팀 발표... 신규 팀 대거 등장]]></title>

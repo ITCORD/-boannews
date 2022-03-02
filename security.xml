@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-03-02T05:16:59.536Z</updated>
+    <updated>2022-03-02T06:22:20.886Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[MS, 러시아 침투 전 사용됐던 폭스블레이드 발견]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=105156&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=105156&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-03-02T06:20:29.700Z</updated>
+        <content type="html"><![CDATA[MS가 우크라이나의 디지털 인프라를 겨냥한 것으로 보이는 멀웨어를 발견했다고 발표했다. 이름은 폭스플레이드(FoxBlade)이며, 러시아가 우크라이나를 침공하기 수시간 전부터 우크라이나 조직을 겨냥하여 유포되었다고 한다. 폭스블레이드는 데이터를 삭제하는 기능을 가진 파...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[우크라이나와 러시아 때문에 랜섬웨어 갱단도 나뉘어]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=105155&amp;page=1&amp;mkind=1&amp;kind=1</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=105114&amp;page=1&amp;mkind=1&amp;kind=1"/>
         <updated>2022-02-28T02:11:07.940Z</updated>
         <content type="html"><![CDATA[△내 용 : 개인정보보호위원회 최영진 부위원장 모친상 △빈 소 : 가톨릭성모병원장례식장3호실 △발 인 : 3월 1일(화)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[러시아-우크라이나 전쟁, 사이버상 해킹 대결은 이미 ‘세계대전’]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=105112&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=105112&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-02-28T00:59:19.444Z</updated>
-        <content type="html"><![CDATA[러시아의 우크라이나 전면 침공이 나흘째에 접어든 가운데 우크라이나의 결사항전 태세가 이어지면서 러시아의 우크라이나 수도 키예프 함락도 난항을 겪고 있다. 더욱이 미국과 유럽 등 서방국가들은 푸틴에 대한 직접 제재에 이어 가장 강력한 금융제재로 알려진 스위프트(SWIFT...]]></content>
     </entry>
 </feed>

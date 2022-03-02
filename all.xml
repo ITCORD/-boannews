@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Mar 2022 05:16:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Mar 2022 06:22:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[테크칼럼] 특허로 본 CES 2022 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105161&amp;page=1&amp;kind=5</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105161&amp;page=1&amp;kind=5</guid>
+            <pubDate>Wed, 02 Mar 2022 06:20:10 GMT</pubDate>
+            <content:encoded><![CDATA[2년 만에 오프라인에서 열린 CES 2022. 지난 1967년 첫 개최 이래, 코로나 여파로 작년엔 55년 만에 처음으로 열리지 못했다. 올해 역시 개최 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220302IP-1S.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[2021년 하반기, 악성코드 유포지 23% 늘었다 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105160&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105160&amp;page=1&amp;kind=1</guid>
+            <pubDate>Wed, 02 Mar 2022 06:20:10 GMT</pubDate>
+            <content:encoded><![CDATA[2021년 하반기는 상반기보다 악성코드 유포지가 23% 증가했다고 한국인터넷진흥원(KISA)이 밝혔다. KISA는 이와 같은 내용이 담긴 ‘악성코드 은닉사...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20751621_main.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[러시아가 사용하는 또 다른 삭제형 멀웨어, 아이작와이퍼 (보안뉴스 ─ 전체기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105157&amp;page=1&amp;kind=1</link>
@@ -70,22 +86,6 @@
             <pubDate>Mon, 28 Feb 2022 06:21:06 GMT</pubDate>
             <content:encoded><![CDATA[‘BGP Hijacking’이라고 하는 게 뭐냐면 쉽게 말씀드리면 저희가 도로에서 운전을 할 때 도로 표지판이 있지 않습니까? 저희가 사용하는 인터넷에도 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/20220228DARK-S.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[2022년 디지털 전환 대응 위한 사이버보안 인재 집중 양성 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105109&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105109&amp;page=1&amp;kind=2</guid>
-            <pubDate>Mon, 28 Feb 2022 05:14:30 GMT</pubDate>
-            <content:encoded><![CDATA[정부는 비대면·디지털 대전환에 따른 디지털 경제 시대를 대비해 보안이 내재화된 안전하고 신뢰할 수 있는 환경 구축을 위한 인력 양성을 추진하기로 했다. 이...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/20714234_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[네트워크 자동화 기술을 도입하려면 데이터 수집 현황부터 이해해야 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105085&amp;page=1&amp;kind=4</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105085&amp;page=1&amp;kind=4</guid>
-            <pubDate>Mon, 28 Feb 2022 05:14:30 GMT</pubDate>
-            <content:encoded><![CDATA[네트워크에 자동화 기술을 탑재해, 운영, 유지하려면 네트워크 데이터가 필수적으로 확보되어야 한다. 그런데 이 점을 간과하는 기업과 기관들이 너무나 많다. ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/net-thumb-00225.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘코드게이트 2022’ 본선 진출 40개 팀 발표... 신규 팀 대거 등장 (보안뉴스 ─ 전체기사)]]></title>
@@ -388,12 +388,19 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/ai-thumb-0224.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[생각만으로 정확하게 로봇팔 조종이 가능한 시스템 개발됐다 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105104&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105104&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
-            <pubDate>Tue, 01 Mar 2022 13:20:57 GMT</pubDate>
-            <content:encoded><![CDATA[카이스트 바이오및뇌공학과 정재승 교수 연구팀이 3차원 공간상에서 생각만으로 로봇팔을 높은 정확도(90.9~92.6%)로 조종하는 ‘뇌-기계 인터페이스 시스템’을 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/2-279(295).jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[보안업무의 가시성에 대한 조언 “준비에 실패하는 건, 실패하려고 준비하는 것” (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105107&amp;page=1&amp;kind=4&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105107&amp;page=1&amp;kind=4&amp;search=title&amp;find=</guid>
+            <pubDate>Wed, 02 Mar 2022 06:20:20 GMT</pubDate>
+            <content:encoded><![CDATA[어디를 가든 감시 카메라가 우리를 지켜본다. 이 카메라들은 우리의 가족과 집과 회사를 보호하기 위해 눈을 부릅뜨고 있다. 골목에서, 신호등에서, 여러 대문들에서 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/vis-thumb-226.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[MS, 러시아 침투 전 사용됐던 폭스블레이드 발견 (보안뉴스 ─ SECURITY)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105156&amp;page=1&amp;mkind=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105156&amp;page=1&amp;mkind=1&amp;kind=1</guid>
+            <pubDate>Wed, 02 Mar 2022 06:20:29 GMT</pubDate>
+            <content:encoded><![CDATA[MS가 우크라이나의 디지털 인프라를 겨냥한 것으로 보이는 멀웨어를 발견했다고 발표했다. 이름은 폭스플레이드(FoxBlade)이며, 러시아가 우크라이나를 침공하기 수시간 전부터 우크라이나 조직을 겨냥하여 유포되었다고 한다. 폭스블레이드는 데이터를 삭제하는 기능을 가진 파...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[우크라이나와 러시아 때문에 랜섬웨어 갱단도 나뉘어 (보안뉴스 ─ SECURITY)]]></title>
@@ -508,11 +515,11 @@
             <content:encoded><![CDATA[△내 용 : 개인정보보호위원회 최영진 부위원장 모친상 △빈 소 : 가톨릭성모병원장례식장3호실 △발 인 : 3월 1일(화)]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[러시아-우크라이나 전쟁, 사이버상 해킹 대결은 이미 ‘세계대전’ (보안뉴스 ─ SECURITY)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105112&amp;page=1&amp;mkind=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105112&amp;page=1&amp;mkind=1&amp;kind=1</guid>
-            <pubDate>Mon, 28 Feb 2022 00:59:19 GMT</pubDate>
-            <content:encoded><![CDATA[러시아의 우크라이나 전면 침공이 나흘째에 접어든 가운데 우크라이나의 결사항전 태세가 이어지면서 러시아의 우크라이나 수도 키예프 함락도 난항을 겪고 있다. 더욱이 미국과 유럽 등 서방국가들은 푸틴에 대한 직접 제재에 이어 가장 강력한 금융제재로 알려진 스위프트(SWIFT...]]></content:encoded>
+            <title><![CDATA[[인사] 인포스탁데일리 사장에 최양오 전 현대경제연구원 고문 선임 (보안뉴스 ─ IT)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105153&amp;page=1&amp;mkind=2&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105153&amp;page=1&amp;mkind=2&amp;kind=3</guid>
+            <pubDate>Wed, 02 Mar 2022 06:20:39 GMT</pubDate>
+            <content:encoded><![CDATA[투자정보 전문미디어 인포스탁데일리 사장에 최양오 전 현대경제연구원 고문이 선임됐다고 2일 인포스탁데일리가 밝혔다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[IT직군 종사자들의 놀이터 ‘IT그라운드’ 정식 출시 (보안뉴스 ─ IT)]]></title>
@@ -625,13 +632,6 @@
             <guid>https://www.boannews.com/media/view.asp?idx=105144&amp;page=1&amp;mkind=2&amp;kind=2</guid>
             <pubDate>Tue, 01 Mar 2022 01:07:07 GMT</pubDate>
             <content:encoded><![CDATA[인천시가 도심항공교통 상용화에 한 발짝 다가서게 됐다. 인천시, 항공우주산학융합원, 베셀에어로스페이스는 도심항공교통(UAM, Urban Air Mobility) 실증도시 구현을 위한 양해각서(MOU)를 지난달 26일 체결했다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[네트워크 자동화 기술을 도입하려면 데이터 수집 현황부터 이해해야 (보안뉴스 ─ IT)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105085&amp;page=1&amp;mkind=2&amp;kind=4</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105085&amp;page=1&amp;mkind=2&amp;kind=4</guid>
-            <pubDate>Tue, 01 Mar 2022 01:07:07 GMT</pubDate>
-            <content:encoded><![CDATA[네트워크에 자동화 기술을 탑재해, 운영, 유지하려면 네트워크 데이터가 필수적으로 확보되어야 한다. 그런데 이 점을 간과하는 기업과 기관들이 너무나 많다. 보다 정확히 말하면 자동화를 구축해놓고도 ‘수동으로’ 데이터를 수집하는 기업이 48%나 된다. 그러니 자동화 기술의...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[해양수산부, 봄철 안전사고 미리 대비한다 (보안뉴스 ─ SAFETY)]]></title>
