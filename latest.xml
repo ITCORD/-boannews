@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Mar 2022 03:19:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Mar 2022 04:22:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -86,6 +86,13 @@
             <pubDate>Mon, 28 Feb 2022 05:14:30 GMT</pubDate>
             <content:encoded><![CDATA[네트워크에 자동화 기술을 탑재해, 운영, 유지하려면 네트워크 데이터가 필수적으로 확보되어야 한다. 그런데 이 점을 간과하는 기업과 기관들이 너무나 많다. ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/net-thumb-00225.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[KISA, 전자문서 기반 디지털 전환 서비스 발굴에 나선다]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105148&amp;page=1&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105148&amp;page=1&amp;kind=2</guid>
+            <pubDate>Wed, 02 Mar 2022 04:20:04 GMT</pubDate>
+            <content:encoded><![CDATA[한국인터넷진흥원(KISA, 원장 이원태)과 과학기술정보통신부(장관 임혜숙)는 대국민 고지·안내문의 전자화 및 전자문서 기반 디지털 전환 신규 서비스 발굴을...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[성현시스템, 신규 카드리더기 IPG200K 출시]]></title>
@@ -229,13 +236,6 @@
             <pubDate>Tue, 01 Mar 2022 02:45:32 GMT</pubDate>
             <content:encoded><![CDATA[과학기술정보통신부는 ‘확장가상세계 신산업 선도전략(1월 20일 제53차 비상경제중앙대책본부회의)의 체계적인 이행을 위해 세계적 수준의 확장가상세계 플랫폼 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/3-13(295).jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국내 ICT 기업, 국제 합작법인 설립 통해 해외시장 공략한다]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105137&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105137&amp;page=1&amp;kind=2</guid>
-            <pubDate>Tue, 01 Mar 2022 02:45:32 GMT</pubDate>
-            <content:encoded><![CDATA[과학기술정보통신부는 유망 정보통신기술 기업의 국제 협력형 해외 진출 지원을 위한 ‘2022년 데이터·연결망·인공지능 융합 제품·서비스 해외 진출 지원’ 사...]]></content:encoded>
         </item>
     </channel>
 </rss>

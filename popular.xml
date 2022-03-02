@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Mar 2022 03:19:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Mar 2022 04:22:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -72,20 +72,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/brick-thumb-0222.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[피싱 공격에 대한 교육 시간은 늘어나는데 효과는 오히려 줄어든다?]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105004&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105004&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Thu, 24 Feb 2022 10:17:02 GMT</pubDate>
-            <content:encoded><![CDATA[그것 참 이상하다. 피싱 피해 사례에 대한 소식이 그렇게 많이 나오고, 피싱 관련 교육이 그렇게나 지겹게 진행되는데도 상황이 전혀 개선되지 않고 있는 듯하니 말이...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/phi-thumb-0223.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[bnTV] 인터넷의 근간이 흔들릴 수 있는 해킹 사건의 전말은?]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105123&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105123&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Tue, 01 Mar 2022 16:22:18 GMT</pubDate>
             <content:encoded><![CDATA[‘BGP Hijacking’이라고 하는 게 뭐냐면 쉽게 말씀드리면 저희가 도로에서 운전을 할 때 도로 표지판이 있지 않습니까? 저희가 사용하는 인터넷에도 그런 표...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/20220228DARK-S.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[피싱 공격에 대한 교육 시간은 늘어나는데 효과는 오히려 줄어든다?]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105004&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105004&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Thu, 24 Feb 2022 10:17:02 GMT</pubDate>
+            <content:encoded><![CDATA[그것 참 이상하다. 피싱 피해 사례에 대한 소식이 그렇게 많이 나오고, 피싱 관련 교육이 그렇게나 지겹게 진행되는데도 상황이 전혀 개선되지 않고 있는 듯하니 말이...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/phi-thumb-0223.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[비밀번호 없는 로그인, 장점 많은데도 좀처럼 도입되지 않는 이유는]]></title>
@@ -127,6 +127,14 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/20220223KCMC-S.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
+            <title><![CDATA[2022년 디지털 전환 대응 위한 사이버보안 인재 집중 양성]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105109&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105109&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
+            <pubDate>Wed, 02 Mar 2022 03:17:06 GMT</pubDate>
+            <content:encoded><![CDATA[정부는 비대면·디지털 대전환에 따른 디지털 경제 시대를 대비해 보안이 내재화된 안전하고 신뢰할 수 있는 환경 구축을 위한 인력 양성을 추진하기로 했다. 이미 20...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/20714234_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[2022년 불법스팸 근절 위해 바뀌는 것들]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105108&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105108&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
@@ -149,14 +157,6 @@
             <pubDate>Tue, 01 Mar 2022 07:15:22 GMT</pubDate>
             <content:encoded><![CDATA[인공지능이라는 신기술이 기업들의 고객 대응 방법과 사업 운영 방향성을 크게 바꿔놓고 있다. 간단하고 반복적인 임무를 훨씬 정확하고 빠르게 처리해 주고, 수많은 데...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/ai-thumb-0224.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022년 디지털 전환 대응 위한 사이버보안 인재 집중 양성]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105109&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105109&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
-            <pubDate>Wed, 02 Mar 2022 03:17:06 GMT</pubDate>
-            <content:encoded><![CDATA[정부는 비대면·디지털 대전환에 따른 디지털 경제 시대를 대비해 보안이 내재화된 안전하고 신뢰할 수 있는 환경 구축을 위한 인력 양성을 추진하기로 했다. 이미 20...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/20714234_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[생각만으로 정확하게 로봇팔 조종이 가능한 시스템 개발됐다]]></title>
