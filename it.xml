@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=2</id>
     <title>보안뉴스 ─ IT</title>
-    <updated>2022-03-02T04:22:00.355Z</updated>
+    <updated>2022-03-02T05:16:59.540Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[IT직군 종사자들의 놀이터 ‘IT그라운드’ 정식 출시]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=105151&amp;page=1&amp;mkind=2&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=105151&amp;page=1&amp;mkind=2&amp;kind=3"/>
+        <updated>2022-03-02T05:14:55.158Z</updated>
+        <content type="html"><![CDATA[다양한 산업의 IT직군 실무자들 만을 위한 ‘특화형 SNS’가 출시됐다. 소프트웨어 개발사 올그라운드는 정보보안, 전산, 운영, 개발 등 IT직군 종사자들이 모여 정보를 교류할 수 있는 익명 플랫폼 ‘IT그라운드(ITGround)’를 정식 출시했다고 밝혔다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[화웨이 궈핑 순환 회장, 중장기 경쟁력 확보 위해 세 가지 영역에서 기술 패러다임 재구성]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=105149&amp;page=1&amp;mkind=2&amp;kind=3</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=105085&amp;page=1&amp;mkind=2&amp;kind=4"/>
         <updated>2022-03-01T01:07:07.937Z</updated>
         <content type="html"><![CDATA[네트워크에 자동화 기술을 탑재해, 운영, 유지하려면 네트워크 데이터가 필수적으로 확보되어야 한다. 그런데 이 점을 간과하는 기업과 기관들이 너무나 많다. 보다 정확히 말하면 자동화를 구축해놓고도 ‘수동으로’ 데이터를 수집하는 기업이 48%나 된다. 그러니 자동화 기술의...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[화웨이 라이언 딩 사장, 더 나은 디지털 경제를 위한 비즈니스 청사진 ‘GUIDE’ 제안]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=105117&amp;page=1&amp;mkind=2&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=105117&amp;page=1&amp;mkind=2&amp;kind=3"/>
-        <updated>2022-03-01T01:07:07.942Z</updated>
-        <content type="html"><![CDATA[MWC2022 바르셀로나 개막 전날 열린 화웨이 Day0 포럼에서 화웨이의 이사회 이사 및 캐리어 사업그룹 사장인 라이언 딩(Ryan Ding)은 ‘미래를 밝히다’라는 주제의 기조연설을 통해 이통사들에게 더 나은 디지털 경제를 창출하기 위해 화웨이의 GUIDE 비즈니스...]]></content>
     </entry>
 </feed>
