@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 02 Mar 2022 07:17:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 02 Mar 2022 08:21:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -86,6 +86,14 @@
             <pubDate>Tue, 01 Mar 2022 02:45:32 GMT</pubDate>
             <content:encoded><![CDATA[따뜻한 봄기운이 느껴지는 3월이 다가왔다. 코로나19의 위세는 여전하지만 예전과 같은 일상으로의 복귀를 기대하는 마음은 여전하다. 보안업계 역시 하루빨리 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/22022504ss.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[개인정보보호위원회-부산시, 올해 8월에 가명정보 활용 지원센터 설치]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105162&amp;page=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105162&amp;page=1&amp;kind=3</guid>
+            <pubDate>Wed, 02 Mar 2022 08:19:34 GMT</pubDate>
+            <content:encoded><![CDATA[개인정보보호위원회(위원장 윤종인, 이하 개인정보위)는 서울(송파)과 강원(원주)에 이어 세 번째로 부산광역시(시장 박형준)에 ‘가명정보 활용 지원센터’(이...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/22030204ss.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘코드게이트 2022’ 본선 진출 40개 팀 발표... 신규 팀 대거 등장]]></title>
@@ -227,14 +235,6 @@
             <guid>https://www.boannews.com/media/view.asp?idx=105133&amp;page=1&amp;kind=2</guid>
             <pubDate>Tue, 01 Mar 2022 02:45:32 GMT</pubDate>
             <content:encoded><![CDATA[보건복지부는 지난달 28일 2022년 제1차 전자의무기록 인증위원회를 개최하고, 경북대병원 등 총 631개소 의료기관에 대해 ‘전자의무기록(EMR) 시스템...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[스마트병원, 환자를 중심으로 소통하다]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105134&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105134&amp;page=1&amp;kind=2</guid>
-            <pubDate>Tue, 01 Mar 2022 02:45:32 GMT</pubDate>
-            <content:encoded><![CDATA[보건복지부와 한국보건산업진흥원은 한국판 디지털 뉴딜 과제인 ‘2022년 스마트병원 선도모델 개발 지원 사업(3차년도)’ 수행기관 공모를 실시한다고 밝혔다.]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/3-11(295).jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
