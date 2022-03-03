@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Mar 2022 05:17:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Mar 2022 06:21:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[서울여대 정보보호동아리 SWING, ‘2021 Security Magazine’ 발간 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105201&amp;page=1&amp;kind=5</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105201&amp;page=1&amp;kind=5</guid>
+            <pubDate>Thu, 03 Mar 2022 06:19:30 GMT</pubDate>
+            <content:encoded><![CDATA[서울여대 정보보호동아리 ‘SWING(스윙)’이 동아리 멘토 역할을 하고 있는 김종민 삼성전자 DS정보보호센터 전문연구원의 지도로 ‘2021 Security...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220303swing-sm.JPG" length="0" type="image/JPG"/>
+        </item>
         <item>
             <title><![CDATA[읽지 않고 동의하는 ‘개인정보 동의서’ 확 바뀐다 (보안뉴스 ─ 전체기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105199&amp;page=1&amp;kind=2</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 02 Mar 2022 10:17:23 GMT</pubDate>
             <content:encoded><![CDATA[우크라이나에서 벌어지고 있는 사이버 공격 대부분 고도로 표적화 되어 있다. 하지만 이것이 우크라이나 안에서만 벌어지고 끝날 것 같지 않은 신호들이 나오고 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/mic-thumb-0302.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘2022 정보보안 리더의 밤’ 성료... 차기정부 정보보호 정책 제안 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105164&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105164&amp;page=1&amp;kind=2</guid>
-            <pubDate>Wed, 02 Mar 2022 09:15:37 GMT</pubDate>
-            <content:encoded><![CDATA[코리아사이버보안연합, 한국정보기술연구원, 더좋은나라전략포럼, 화이트햇 해커의 모임이 공동 주최·주관한 ‘2022 정보보안 리더의 밤’이 3월 2일에 CCM...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/night_030201_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[인사] 스카이데일리 (보안뉴스 ─ 전체기사)]]></title>
@@ -278,20 +278,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/ins-thumb-0226.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[코로나19 자가검사키트 및 정책지원금 사칭한 보이스피싱 판친다 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105039&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105039&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Fri, 25 Feb 2022 02:10:28 GMT</pubDate>
-            <content:encoded><![CDATA[최근 코로나19(오미크론) 확진자 급증에 따른 국민들의 불안감 증폭을 악용해, 자가검사키트 공급·구매 등을 사유로 개인정보 입력을 유도한 후 자금을 편취하는 등의...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/21071894_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[bnTV] 인터넷의 근간이 흔들릴 수 있는 해킹 사건의 전말은? (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105123&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105123&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Tue, 01 Mar 2022 16:22:18 GMT</pubDate>
             <content:encoded><![CDATA[‘BGP Hijacking’이라고 하는 게 뭐냐면 쉽게 말씀드리면 저희가 도로에서 운전을 할 때 도로 표지판이 있지 않습니까? 저희가 사용하는 인터넷에도 그런 표...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/20220228DARK-S.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[코로나19 자가검사키트 및 정책지원금 사칭한 보이스피싱 판친다 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105039&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105039&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Fri, 25 Feb 2022 02:10:28 GMT</pubDate>
+            <content:encoded><![CDATA[최근 코로나19(오미크론) 확진자 급증에 따른 국민들의 불안감 증폭을 악용해, 자가검사키트 공급·구매 등을 사유로 개인정보 입력을 유도한 후 자금을 편취하는 등의...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/21071894_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[러시아와 우크라이나가 싸우니 OT 담당자들이 벌벌 떨어 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
@@ -395,6 +395,13 @@
             <pubDate>Thu, 03 Mar 2022 04:20:06 GMT</pubDate>
             <content:encoded><![CDATA[CCTV와 드론, 차량용 카메라 등에 쓰이는 광학렌즈는 광전 산업계에서 가장 중요한 분야이자 기계 작동의 시각적 시스템 운용을 위한 주요 부품이다. 일반적으로 정...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/22022507ss.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[TCP 미들박스 이용한 디도스 증폭 공격 유행하기 시작 (보안뉴스 ─ SECURITY)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105197&amp;page=1&amp;mkind=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105197&amp;page=1&amp;mkind=1&amp;kind=1</guid>
+            <pubDate>Thu, 03 Mar 2022 06:19:49 GMT</pubDate>
+            <content:encoded><![CDATA[‘TCP 미들박스 반사(TCP Middlebox Reflection)’라는 기법을 활용한 디도스 공격이 발견되기 시작했다. 이 기법에 대한 이론적 연구 결과가 세상에 등장하고서 6개월여 만에 실제 현장에 나타나기 시작한 것이다. 이 기법을 활용할 경우 트래픽을 75배 ...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[티봇 트로이목마, 구글 플레이 스토어 다시 점령 (보안뉴스 ─ SECURITY)]]></title>
@@ -507,13 +514,6 @@
             <guid>https://www.boannews.com/media/view.asp?idx=105155&amp;page=1&amp;mkind=1&amp;kind=1</guid>
             <pubDate>Wed, 02 Mar 2022 05:14:45 GMT</pubDate>
             <content:encoded><![CDATA[우크라이나와 러시아의 편을 드는 사이버 공방전이 다크웹에서도 진행되고 있다. 우크라이나의 편에 선 콘티(Conti) 랜섬웨어 갱단의 멤버는 콘티 내부 채팅 기록 13개월 치를 모아 유출시켰다. 이런 행위를 한 콘티 멤버는 ‘러시아는 망하고 우크라이나는 영원하라!’고 트...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[개인정보위, 한-EU 적정성결정 기업설명회 개최 (보안뉴스 ─ SECURITY)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105152&amp;page=1&amp;mkind=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105152&amp;page=1&amp;mkind=1&amp;kind=2</guid>
-            <pubDate>Wed, 02 Mar 2022 03:17:15 GMT</pubDate>
-            <content:encoded><![CDATA[개인정보보호위원회(위원장 윤종인, 이하 개인정보위)는 작년 12월 채택·발효된 EU 적정성결정의 효과, 국내기업의 활용방안 및 우수사례를 공유하기 위해, 3월 3일(목) 14시, 온라인 채널을 통해 한국인터넷진흥원과 공동으로 ‘우리 기업을 위한 한-EU 적정성결정 활용...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[화웨이, 최신 무선 솔루션 및 지능형 RAN 아키텍처 공개 (보안뉴스 ─ IT)]]></title>
