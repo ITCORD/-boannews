@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Mar 2022 11:15:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Mar 2022 12:29:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -151,19 +151,19 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/2-279(295).jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[전국 교통사고 잦은 곳 개선하니 사망자 76% 줄었다]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105099&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105099&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
-            <pubDate>Thu, 03 Mar 2022 09:16:15 GMT</pubDate>
-            <content:encoded><![CDATA[도로교통공단이 ‘교통사고 잦은 곳 개선 사업’을 진행한 전국 국도 및 시·군도 277개소의 개선 전 3년과 개선 후 1년 교통사고를 분석한 결과, 사망자 수는 약...]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[우크라이나-러시아 전쟁, 사이버전 행위는 국경을 넘고 있다]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105165&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105165&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Thu, 03 Mar 2022 09:16:15 GMT</pubDate>
             <content:encoded><![CDATA[우크라이나에서 벌어지고 있는 사이버 공격 대부분 고도로 표적화 되어 있다. 하지만 이것이 우크라이나 안에서만 벌어지고 끝날 것 같지 않은 신호들이 나오고 있다. ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/mic-thumb-0302.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[전국 교통사고 잦은 곳 개선하니 사망자 76% 줄었다]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105099&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105099&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
+            <pubDate>Thu, 03 Mar 2022 09:16:15 GMT</pubDate>
+            <content:encoded><![CDATA[도로교통공단이 ‘교통사고 잦은 곳 개선 사업’을 진행한 전국 국도 및 시·군도 277개소의 개선 전 3년과 개선 후 1년 교통사고를 분석한 결과, 사망자 수는 약...]]></content:encoded>
         </item>
     </channel>
 </rss>
