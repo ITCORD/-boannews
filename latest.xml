@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Mar 2022 04:21:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Mar 2022 05:17:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -86,6 +86,13 @@
             <pubDate>Wed, 02 Mar 2022 09:15:37 GMT</pubDate>
             <content:encoded><![CDATA[코리아사이버보안연합, 한국정보기술연구원, 더좋은나라전략포럼, 화이트햇 해커의 모임이 공동 주최·주관한 ‘2022 정보보안 리더의 밤’이 3월 2일에 CCM...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/night_030201_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[인사] 스카이데일리]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105200&amp;page=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105200&amp;page=1&amp;kind=3</guid>
+            <pubDate>Thu, 03 Mar 2022 05:15:10 GMT</pubDate>
+            <content:encoded><![CDATA[◇편집국 △편집국장 김동원 △부국장 겸 국제문화부장 박선옥 △편집부장 임수진 △정치사회부 부장직대 오주환 △경제산업부 부장직대 한원석 △경제산업부 선임기자...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[KISA, 기관 경영·사업에 국민 의견 반영한다]]></title>
@@ -229,14 +236,6 @@
             <pubDate>Thu, 03 Mar 2022 01:02:34 GMT</pubDate>
             <content:encoded><![CDATA[광범위하고 자동화된 통합 사이버보안 분야의 글로벌 리더인 포티넷코리아(대표 조원균)는 자사가 개발한 NP7 및 CP9 SPU(Security Process...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/3001F_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[KT, MWC 2022에서 AI 기반 5G 운용 솔루션 ‘닥터와이즈’ 선보여]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105180&amp;page=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105180&amp;page=1&amp;kind=3</guid>
-            <pubDate>Thu, 03 Mar 2022 01:02:34 GMT</pubDate>
-            <content:encoded><![CDATA[KT는 스페인 바르셀로나에서 진행 중인 MWC 2022에서 5G 망의 안정성을 강화해 주는 인공지능(AI) 관제 솔루션인 ‘닥터와이즈(Dr. WAIS)’를...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/3-37(295).jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

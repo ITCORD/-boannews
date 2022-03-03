@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=2</id>
     <title>보안뉴스 ─ IT</title>
-    <updated>2022-03-03T04:21:54.915Z</updated>
+    <updated>2022-03-03T05:17:16.225Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[화웨이, 최신 무선 솔루션 및 지능형 RAN 아키텍처 공개]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=105192&amp;page=1&amp;mkind=2&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=105192&amp;page=1&amp;mkind=2&amp;kind=2"/>
+        <updated>2022-03-03T05:15:40.821Z</updated>
+        <content type="html"><![CDATA[화웨이가 MWC 2022에서 3세대 TDD(Time Division Duplex, 시분할 이중 통신) Massive MIMO(대용량 다중 입출력장치) 제품과 FDD(Frequency Division Duplex, 주파수 분할 이중 통신) 초광대역 다중 안테나 제품 등 ...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[서울시, ‘서울핀테크랩’ 입주할 국내외 신규 기업 20개사 모집]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=105167&amp;page=1&amp;mkind=2&amp;kind=2</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=105184&amp;page=1&amp;mkind=2&amp;kind=2"/>
         <updated>2022-03-03T01:03:06.565Z</updated>
         <content type="html"><![CDATA[DGIST 전기전자컴퓨터공학과 최지웅 교수, 차량용 반도체 기업 VSI 강수원 대표 공동연구팀은 기존 차량에 탑재된 CAN-FD(Controller Area Network-Flexible Data rate) 및 버스형 차량용 이더넷 기술보다 데이터 전송률 대비 20배 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서울시, ‘어린이집 인공지능 로봇 대여’ 만족도↑... 올해도 추진]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=105185&amp;page=1&amp;mkind=2&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=105185&amp;page=1&amp;mkind=2&amp;kind=2"/>
-        <updated>2022-03-03T01:03:06.566Z</updated>
-        <content type="html"><![CDATA[서울시가 코로나19 장기화로 실외 활동이 어려워진 영유아들의 언어·정서 발달을 도와줄 인공지능(AI) 로봇 ‘알파미니’를 어린이집에 무상 대여해 주는 사업을 올해도 운영한다.]]></content>
     </entry>
 </feed>
