@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Mar 2022 02:44:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Mar 2022 03:19:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,14 +104,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/2-278(295).jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[삼성 스마트폰 1억여 대에서 암호화 깨는 취약점 발견돼]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105034&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105034&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Fri, 25 Feb 2022 03:17:20 GMT</pubDate>
-            <content:encoded><![CDATA[삼성 스마트폰이 민감한 정보를 암호화 하는 방식에서 중대한 취약점이 발견됐다. 텔아비브대학과 존스홉킨스대학의 연구원들에 의하면 ‘부끄러울 정도로 좋지 않은 취약점...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/sam-thumb-0224.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[2022년 디지털 전환 대응 위한 사이버보안 인재 집중 양성]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105109&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105109&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
@@ -165,6 +157,14 @@
             <pubDate>Wed, 02 Mar 2022 08:19:44 GMT</pubDate>
             <content:encoded><![CDATA[카이스트 바이오및뇌공학과 정재승 교수 연구팀이 3차원 공간상에서 생각만으로 로봇팔을 높은 정확도(90.9~92.6%)로 조종하는 ‘뇌-기계 인터페이스 시스템’을 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/2-279(295).jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Weekly Security Premium Report 제39호 발간! 해커들의 최신 공격 트렌드와 방어전략]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105036&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105036&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
+            <pubDate>Thu, 03 Mar 2022 03:18:05 GMT</pubDate>
+            <content:encoded><![CDATA[2월 24일 발간된 ‘Weekly Security Premium Report’ 제39호에는 &lt;보안 심층 리포트&gt; 코너에서 해커들의 최신 공격 트렌드와 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/20220224report-sm.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
