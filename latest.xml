@@ -4,9 +4,57 @@
         <title>보안뉴스 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Mar 2022 01:04:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Mar 2022 02:44:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[새로운 고급 백도어 댁신, 중국 해커들의 작업물일 가능성 높아]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105198&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105198&amp;page=1&amp;kind=1</guid>
+            <pubDate>Thu, 03 Mar 2022 02:41:38 GMT</pubDate>
+            <content:encoded><![CDATA[중국의 해킹 조직이 사용하는 것으로 보이는 백도어 프로그램이 여러 나라의 정부 기관에서 발견됐다. 브로드컴 소프트웨어(Broadcom Software) 소...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/chin-thumb-0303.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[TCP 미들박스 이용한 디도스 증폭 공격 유행하기 시작]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105197&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105197&amp;page=1&amp;kind=1</guid>
+            <pubDate>Thu, 03 Mar 2022 02:41:38 GMT</pubDate>
+            <content:encoded><![CDATA[‘TCP 미들박스 반사(TCP Middlebox Reflection)’라는 기법을 활용한 디도스 공격이 발견되기 시작했다. 이 기법에 대한 이론적 연구 결...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/traf-thub-0303.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[티봇 트로이목마, 구글 플레이 스토어 다시 점령]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105196&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105196&amp;page=1&amp;kind=1</guid>
+            <pubDate>Thu, 03 Mar 2022 02:41:38 GMT</pubDate>
+            <content:encoded><![CDATA[티봇(TeaBot)이라는 안드로이드 트로이목마가 다시 나타났다. 그것도 지난 번에 퇴출됐던 구글 플레이를 다시 한 번 뚫어낸 것으로 밝혀졌다. 보안 업체 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/tea-thumb-0303.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[20만 개 의료 장비 조사했더니, 취약점이 가득]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105195&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105195&amp;page=1&amp;kind=1</guid>
+            <pubDate>Thu, 03 Mar 2022 02:41:38 GMT</pubDate>
+            <content:encoded><![CDATA[보안 업체 팔로알토 네트웍스(Palo Alto Networks)가 20만 개가 넘는 사물인터넷 의료 장비들을 조사했더니, 75%에서 이미 알려진 취약점들이...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/med-thumb-0303.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[러시아, “러시아 위성 해킹하는 건 전쟁 행위”]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105194&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105194&amp;page=1&amp;kind=1</guid>
+            <pubDate>Thu, 03 Mar 2022 02:41:38 GMT</pubDate>
+            <content:encoded><![CDATA[이웃의 주권국가를 침공한 러시아가, 자국의 인공위성을 해킹 기술로 공격하는 건 전쟁 행위이며 위법한 것이라고 주장했다. 이는 러시아의 우주 항공 기술 관련...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/sat-thumb-0303.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[우크라이나 지원하려는 해커들, 물밀 듯이 일어나 러시아 공격]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105193&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105193&amp;page=1&amp;kind=1</guid>
+            <pubDate>Thu, 03 Mar 2022 02:41:38 GMT</pubDate>
+            <content:encoded><![CDATA[다크웹에서도 우크라이나를 지원하려는 해커들이 속속 나타나고 있다. 누가 모집한 것도 아닌데 서로 자원하여 러시아를 공격하고 우크라이나를 방어하려 하고 있다...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/vol-thumb-0303.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[우크라이나-러시아 전쟁, 사이버전 행위는 국경을 넘고 있다]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105165&amp;page=1&amp;kind=1</link>
@@ -40,52 +88,12 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220302IP-1S.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
-            <title><![CDATA[2021년 하반기, 악성코드 유포지 23% 늘었다]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105160&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105160&amp;page=1&amp;kind=1</guid>
-            <pubDate>Wed, 02 Mar 2022 06:20:10 GMT</pubDate>
-            <content:encoded><![CDATA[2021년 하반기는 상반기보다 악성코드 유포지가 23% 증가했다고 한국인터넷진흥원(KISA)이 밝혔다. KISA는 이와 같은 내용이 담긴 ‘악성코드 은닉사...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20751621_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[러시아가 사용하는 또 다른 삭제형 멀웨어, 아이작와이퍼]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105157&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105157&amp;page=1&amp;kind=1</guid>
-            <pubDate>Wed, 02 Mar 2022 03:16:56 GMT</pubDate>
-            <content:encoded><![CDATA[보안 업체 이셋(ESET)은 러시아가 우크라이나 침공 이후부터 러시아가 적극적으로 사용하기 시작한 파괴형 멀웨어인 아이작와이퍼(IsaacWiper)를 발견...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/del-thumb-0302.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[MS, 러시아 침투 전 사용됐던 폭스블레이드 발견]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105156&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105156&amp;page=1&amp;kind=1</guid>
-            <pubDate>Wed, 02 Mar 2022 03:16:56 GMT</pubDate>
-            <content:encoded><![CDATA[MS가 우크라이나의 디지털 인프라를 겨냥한 것으로 보이는 멀웨어를 발견했다고 발표했다. 이름은 폭스플레이드(FoxBlade)이며, 러시아가 우크라이나를 침...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/fox-thumb-0302.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우크라이나와 러시아 때문에 랜섬웨어 갱단도 나뉘어]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105155&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105155&amp;page=1&amp;kind=1</guid>
-            <pubDate>Wed, 02 Mar 2022 03:16:56 GMT</pubDate>
-            <content:encoded><![CDATA[우크라이나와 러시아의 편을 드는 사이버 공방전이 다크웹에서도 진행되고 있다. 우크라이나의 편에 선 콘티(Conti) 랜섬웨어 갱단의 멤버는 콘티 내부 채팅...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/split-thumb-0302.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[로우코드와 노코드, 인공지능과 결합해 좋은 성과 낼 수 있을까]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105113&amp;page=1&amp;kind=4</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105113&amp;page=1&amp;kind=4</guid>
-            <pubDate>Tue, 01 Mar 2022 16:22:09 GMT</pubDate>
-            <content:encoded><![CDATA[몇 년 안에 로우코드 혹은 노코드 기술은 크게 성장할 것으로 예상된다. 그럼으로써 프로 개발자들의 어깨에 지워진 짐의 무게가 조금은 가벼워질 수 있을 것으...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/ai-thumb-0228.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[CCTV, 중국 광학렌즈 3대 주요 시장으로 부상]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105078&amp;page=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105078&amp;page=1&amp;kind=3</guid>
-            <pubDate>Tue, 01 Mar 2022 16:22:09 GMT</pubDate>
-            <content:encoded><![CDATA[CCTV와 드론, 차량용 카메라 등에 쓰이는 광학렌즈는 광전 산업계에서 가장 중요한 분야이자 기계 작동의 시각적 시스템 운용을 위한 주요 부품이다. 일반적...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/22022507ss.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[화웨이, 최신 무선 솔루션 및 지능형 RAN 아키텍처 공개]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105192&amp;page=1&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105192&amp;page=1&amp;kind=2</guid>
+            <pubDate>Thu, 03 Mar 2022 02:41:38 GMT</pubDate>
+            <content:encoded><![CDATA[화웨이가 MWC 2022에서 3세대 TDD(Time Division Duplex, 시분할 이중 통신) Massive MIMO(대용량 다중 입출력장치) 제품...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/huawei_030301_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[델 테크놀로지스, 엔트리급 스토리지 신제품 ‘파워볼트 ME5 시리즈’ 출시]]></title>
@@ -229,14 +237,6 @@
             <guid>https://www.boannews.com/media/view.asp?idx=105181&amp;page=1&amp;kind=3</guid>
             <pubDate>Thu, 03 Mar 2022 01:02:34 GMT</pubDate>
             <content:encoded><![CDATA[국내 최대 규모의 KT 고객센터를 운영하고 있는 KT cs가 AICC 솔루션인 ‘HiQri’를 론칭했다고 밝혔다. ‘HiQri’는 ‘최고(High)로 빠르...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[SKT 유영상 사장, 3대 ‘Next Big-tech’로 글로벌 ICT 판 다시 짠다]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105182&amp;page=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105182&amp;page=1&amp;kind=3</guid>
-            <pubDate>Thu, 03 Mar 2022 01:02:34 GMT</pubDate>
-            <content:encoded><![CDATA[SK텔레콤은 지난달 28일(현지시각) MWC22가 열리고 있는 스페인 바르셀로나에서 기자간담회를 갖고 자사가 보유한 3대 ‘Next Big-tech(메타버...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/3-39(295).jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
