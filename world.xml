@@ -4,9 +4,23 @@
         <title>보안뉴스 ─ 국제</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Mar 2022 07:17:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Mar 2022 09:18:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[청진기로 금고를 따는 영화 속 도둑처럼 동형 암호도 뚫을 수 있다]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105205&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105205&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
+            <pubDate>Thu, 03 Mar 2022 09:17:52 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/view.asp?idx=105205&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
+					
+					<img src="/media/upFiles2/2022/03/safe-thumb-0303.jpg" alt="" class="news_img" height="70">
+					
+					<span class="news_txt">청진기로 금고를 따는 영화 속 도둑처럼 동형 암호도 뚫을 수 있다</span>
+					</a><br>
+					<a href="/media/view.asp?idx=105205&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">노스캐롤라이나주립대학의 연구원들이 최근 떠오르고 있는 보안 기술인 동형 암호(homomorphic encryption)에서 부채널 공격을 가능하게 하는 취약점을 ...</a> <span class="news_writer">문가용 기자 | 2022년 03월 03일 17:42</span>]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/safe-thumb-0303.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[새로운 고급 백도어 댁신, 중국 해커들의 작업물일 가능성 높아]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105198&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
@@ -272,20 +286,6 @@
 					</a><br>
 					<a href="/media/view.asp?idx=105118&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">새로운 백도어가 출현했다. 이름은 속디투어(SockDetour)로, 파일레스(fileless) 및 소킷레스(socketless)라는 특성을 가지고 있다. 따라서 ...</a> <span class="news_writer">문가용 기자 | 2022년 02월 28일 11:11</span>]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/wea-thumb-0228.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[인공지능 윤리, 인공지능의 미래를 결정지을 수 있는 요인]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105038&amp;page=1&amp;mkind=&amp;kind=4&amp;skind=D&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105038&amp;page=1&amp;mkind=&amp;kind=4&amp;skind=D&amp;search=title&amp;find=</guid>
-            <pubDate>Sun, 27 Feb 2022 16:22:37 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/view.asp?idx=105038&amp;page=1&amp;mkind=&amp;kind=4&amp;skind=D&amp;search=title&amp;find=">
-					
-					<img src="/media/upFiles2/2022/02/ai-thumb-0224.jpg" alt="" class="news_img" height="70">
-					
-					<span class="news_txt">인공지능 윤리, 인공지능의 미래를 결정지을 수 있는 요인</span>
-					</a><br>
-					<a href="/media/view.asp?idx=105038&amp;page=1&amp;mkind=&amp;kind=4&amp;skind=D&amp;search=title&amp;find=">인공지능이라는 신기술이 기업들의 고객 대응 방법과 사업 운영 방향성을 크게 바꿔놓고 있다. 간단하고 반복적인 임무를 훨씬 정확하고 빠르게 처리해 주고, 수많은 데...</a> <span class="news_writer">문가용 기자 | 2022년 02월 28일 01:00</span>]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/ai-thumb-0224.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

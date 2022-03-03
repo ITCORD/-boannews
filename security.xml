@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-03-03T07:17:43.468Z</updated>
+    <updated>2022-03-03T09:18:22.245Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[서울여대 정보보호동아리 SWING, ‘2021 Security Magazine’ 발간]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=105201&amp;page=1&amp;mkind=1&amp;kind=5</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=105201&amp;page=1&amp;mkind=1&amp;kind=5"/>
+        <updated>2022-03-03T09:16:25.825Z</updated>
+        <content type="html"><![CDATA[서울여대 정보보호동아리 ‘SWING(스윙)’이 동아리 멘토 역할을 하고 있는 김종민 삼성전자 DS정보보호센터 전문연구원의 지도로 ‘2021 Security Magazine’를 발간했다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[읽지 않고 동의하는 ‘개인정보 동의서’ 확 바뀐다]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=105199&amp;page=1&amp;mkind=1&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=105199&amp;page=1&amp;mkind=1&amp;kind=2"/>
+        <updated>2022-03-03T09:16:25.825Z</updated>
+        <content type="html"><![CDATA[그동안 귀찮아서, 혹은 글자가 너무 많거나 작아서 제대로 읽지 않고 동의하던 ‘개인정보 동의서’가 앞으로 확 바뀔 전망이다. 개인정보보호위원회(위원장 윤종인, 이하 개인정보위)는 ‘알기 쉬운 개인정보 처리 동의 안내서(이하 안내서)’와 ‘개인정보 처리방침 작성지침(이하...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[새로운 고급 백도어 댁신, 중국 해커들의 작업물일 가능성 높아]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=105198&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=105198&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-03-03T09:16:25.827Z</updated>
+        <content type="html"><![CDATA[중국의 해킹 조직이 사용하는 것으로 보이는 백도어 프로그램이 여러 나라의 정부 기관에서 발견됐다. 브로드컴 소프트웨어(Broadcom Software) 소속 보안 업체 시만텍(Symantec)에 의하면 이 백도어의 이름은 댁신(Daxin)이고, “이전에 한 번도 보지 ...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TCP 미들박스 이용한 디도스 증폭 공격 유행하기 시작]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=105197&amp;page=1&amp;mkind=1&amp;kind=1</id>
@@ -102,26 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=105159&amp;page=1&amp;mkind=1&amp;kind=3"/>
         <updated>2022-03-02T08:19:54.183Z</updated>
         <content type="html"><![CDATA[국제 해킹방어대회&amp;글로벌 보안컨퍼런스 ‘코드게이트 2022’ 본선 진출자가 가려졌다. 코드게이트보안포럼은 코드게이트 2022의 예선전에 총 48개국 2,872팀이 참여한 가운데 치열한 경쟁을 거쳐 총 40개 팀이 본선에 진출했다고 2일 밝혔다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[러시아가 사용하는 또 다른 삭제형 멀웨어, 아이작와이퍼]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=105157&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=105157&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-03-02T07:15:39.274Z</updated>
-        <content type="html"><![CDATA[보안 업체 이셋(ESET)은 러시아가 우크라이나 침공 이후부터 러시아가 적극적으로 사용하기 시작한 파괴형 멀웨어인 아이작와이퍼(IsaacWiper)를 발견했다. 아이작와이퍼는 이름이 밝혀지지 않은 러시아 정부 기관을 상대로 사용되었다고 한다. 특히 헤르메틱와이퍼에 감염...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MS, 러시아 침투 전 사용됐던 폭스블레이드 발견]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=105156&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=105156&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-03-02T06:20:29.700Z</updated>
-        <content type="html"><![CDATA[MS가 우크라이나의 디지털 인프라를 겨냥한 것으로 보이는 멀웨어를 발견했다고 발표했다. 이름은 폭스플레이드(FoxBlade)이며, 러시아가 우크라이나를 침공하기 수시간 전부터 우크라이나 조직을 겨냥하여 유포되었다고 한다. 폭스블레이드는 데이터를 삭제하는 기능을 가진 파...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우크라이나와 러시아 때문에 랜섬웨어 갱단도 나뉘어]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=105155&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=105155&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-03-02T05:14:45.772Z</updated>
-        <content type="html"><![CDATA[우크라이나와 러시아의 편을 드는 사이버 공방전이 다크웹에서도 진행되고 있다. 우크라이나의 편에 선 콘티(Conti) 랜섬웨어 갱단의 멤버는 콘티 내부 채팅 기록 13개월 치를 모아 유출시켰다. 이런 행위를 한 콘티 멤버는 ‘러시아는 망하고 우크라이나는 영원하라!’고 트...]]></content>
     </entry>
 </feed>
