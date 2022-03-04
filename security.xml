@@ -2,9 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-03-04T01:08:20.478Z</updated>
+    <updated>2022-03-04T02:45:20.417Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[난리 난 러시아 사이버 공간, 각종 데이터 유출되고 있어]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=105235&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=105235&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-03-04T02:43:24.596Z</updated>
+        <content type="html"><![CDATA[마치 전 세계가 러시아를 해킹하는 듯한 모습이다. 러시아와 관련된 각종 정보들이 연일 다크웹에 쏟아지는 중이라고 한다. 러시아 핵 무기 및 핵 전쟁 수행 능력과 관련된 기밀, 공군 전력과 관련된 데이터, 콘티(Conti) 랜섬웨어 갱단의 NSA를 겨냥한 음모론 캠페인,...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[어베스트, 우크라이나 공격하는 헤르메틱랜섬의 복호화 키 제공]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=105234&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=105234&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-03-04T02:43:24.610Z</updated>
+        <content type="html"><![CDATA[보안 업체 어베스트(Avast)가 현재 우크라이나 단체들을 공격하는 멀웨어 중 하나인 헤르메틱랜섬(HermeticRansom)의 복호화 키를 개발해 무료로 배포하고 있다. 헤르메틱랜섬은 2월 23일부터 이스라엘의 여러 기관들을 마비시키기 위해 유포되기 시작했는데, 또 ...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KISA, 비대면 물품기증 캠페인 펼치다]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=105233&amp;page=1&amp;mkind=1&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=105233&amp;page=1&amp;mkind=1&amp;kind=2"/>
+        <updated>2022-03-04T02:43:24.611Z</updated>
+        <content type="html"><![CDATA[한국인터넷진흥원(KISA, 원장 이원태)은 밀알복지재단이 운영하는 굿윌스토어와 ‘비대면 물품기증 캠페인’ 전달식을 KISA 서울청사에서 3월 4일(금) 개최했다고 밝혔다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[안랩, ‘기업의 지속가능성을 위해 필요한 다양성’ 주제로 ESG 사내 교육 시행]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=105230&amp;page=1&amp;mkind=1&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=105230&amp;page=1&amp;mkind=1&amp;kind=3"/>
+        <updated>2022-03-04T02:43:24.611Z</updated>
+        <content type="html"><![CDATA[안랩(대표 강석균)이 3월 3일(목), ‘기업의 지속가능성을 위해 필요한 다양성’을 주제로 임직원 대상 인권 교육을 실시했다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IBM, 랜섬웨어 등 ‘사이버 공격’에 맞설 차세대 플래시 스토리지 발표]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=105229&amp;page=1&amp;mkind=1&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=105229&amp;page=1&amp;mkind=1&amp;kind=3"/>
+        <updated>2022-03-04T02:43:24.612Z</updated>
+        <content type="html"><![CDATA[IBM은 기업이 랜섬웨어를 비롯한 사이버 공격을 더 효과적으로, 빠르게 탐지하고 정상 상태로 복구하도록 지원하는 IBM 플래시시스템 사이버 볼트(FlashSystem Cyber Vault)를 출시했다. 아울러 IBM 스펙트럼 버추얼라이즈(Spectrum Virtuali...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[병·의료원 ‘건강검진 증명서 발급’ 위장한 北 연계 공격 발견됐다]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=105228&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=105228&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-03-04T02:43:24.612Z</updated>
+        <content type="html"><![CDATA[최근 국내에서 병·의료원에서 발급한 것처럼 꾸민 ‘건강검진 증명서’를 악용한 北 연계 해킹 공격이 발견돼 각별한 주의와 대비가 요구된다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[삼성SDS가 꼽은 2022년 주목해야 할 4대 보안 위협]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=105215&amp;page=1&amp;mkind=1&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=105215&amp;page=1&amp;mkind=1&amp;kind=2"/>
+        <updated>2022-03-04T02:43:24.612Z</updated>
+        <content type="html"><![CDATA[삼성SDS는 지난해 발생한 보안 이슈와 현장 사례 등을 분석해 변화하는 IT 환경에서 올해 주목해야 할 4대 보안 위협을 선정했다. 삼성SDS는 최근 기업의 클라우드 도입 확산과 원격근무 증가 등에 따라 △클라우드 보안 취약점 공격 △원격 근무 환경에서의 기업 내부망 ...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[센티넬원, 에스케어와 함께 랜섬웨어 보안솔루션 이벤트]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=105227&amp;page=1&amp;mkind=1&amp;kind=3</id>
@@ -74,54 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=105196&amp;page=1&amp;mkind=1&amp;kind=1"/>
         <updated>2022-03-03T04:20:14.862Z</updated>
         <content type="html"><![CDATA[티봇(TeaBot)이라는 안드로이드 트로이목마가 다시 나타났다. 그것도 지난 번에 퇴출됐던 구글 플레이를 다시 한 번 뚫어낸 것으로 밝혀졌다. 보안 업체 클리파이(Cleafy)에 의하면 각종 QR코드 리더기나 유틸리티로 위장된 채 돌아다니고 있으며, 이미 수십만 번 이...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[20만 개 의료 장비 조사했더니, 취약점이 가득]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=105195&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=105195&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-03-03T02:41:55.641Z</updated>
-        <content type="html"><![CDATA[보안 업체 팔로알토 네트웍스(Palo Alto Networks)가 20만 개가 넘는 사물인터넷 의료 장비들을 조사했더니, 75%에서 이미 알려진 취약점들이 대거 발견됐다. 공격자들이 익스프로잇 할 경우 환자의 생명과 건강에 심각한 피해를 끼칠 수 있는 취약점들이다. 이...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[러시아, “러시아 위성 해킹하는 건 전쟁 행위”]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=105194&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=105194&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-03-03T02:41:55.648Z</updated>
-        <content type="html"><![CDATA[이웃의 주권국가를 침공한 러시아가, 자국의 인공위성을 해킹 기술로 공격하는 건 전쟁 행위이며 위법한 것이라고 주장했다. 이는 러시아의 우주 항공 기술 관련 정부 기관인 로스코스모스(Roscosmos)의 국장이 직접 나서서 한 발언이다. 해킹 그룹인 NB65(Networ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우크라이나 지원하려는 해커들, 물밀 듯이 일어나 러시아 공격]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=105193&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=105193&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-03-03T02:41:55.649Z</updated>
-        <content type="html"><![CDATA[다크웹에서도 우크라이나를 지원하려는 해커들이 속속 나타나고 있다. 누가 모집한 것도 아닌데 서로 자원하여 러시아를 공격하고 우크라이나를 방어하려 하고 있다. 즉 핵티비스트들이 대거 출현한 것이다. 얼마 전 우크라이나의 디지털 기술 주관 부서가 ‘IT 군’을 모집했는데,...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국전력기술, 국정원과 함께 상생협력형 사이버보안 캠페인 실시]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=105166&amp;page=1&amp;mkind=1&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=105166&amp;page=1&amp;mkind=1&amp;kind=2"/>
-        <updated>2022-03-03T02:41:55.649Z</updated>
-        <content type="html"><![CDATA[한국전력기술은 지난 2일 국가정보원과 협력해 경북 김천시 지역주민을 대상으로 ‘상생협력형 사이버보안 인식 제고’ 캠페인을 실시했다. 이번 캠페인은 최근 코로나 정부 지원금을 사칭한 사기 문자메시지(스미싱)·보이스 피싱 등이 기승을 부리고 있는 가운데 스마트폰 보안에 대...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[파수, 새로운 ‘랩소디 에코’로 외부 협업에서 도면 유출 방지]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=105188&amp;page=1&amp;mkind=1&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=105188&amp;page=1&amp;mkind=1&amp;kind=3"/>
-        <updated>2022-03-03T02:41:55.651Z</updated>
-        <content type="html"><![CDATA[파수(대표 조규곤)가 외부 협업과정에서 발생하는 도면 유출 사고를 방지하기 위해 새로워진 외부 협업 플랫폼 ‘랩소디 에코(Wrapsody eCo)’를 선보였다. 새로운 랩소디 에코는 협력업체 등과의 외부 협업에서 보안 사각지대에 놓이는 도면(CAD) 파일 유출을 방지,...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[포티넷, NP7·CP9 SPU 기반 고성능 차세대 방화벽 ‘포티게이트 3000F’ 발표]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=105187&amp;page=1&amp;mkind=1&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=105187&amp;page=1&amp;mkind=1&amp;kind=3"/>
-        <updated>2022-03-03T02:41:55.651Z</updated>
-        <content type="html"><![CDATA[광범위하고 자동화된 통합 사이버보안 분야의 글로벌 리더인 포티넷코리아(대표 조원균)는 자사가 개발한 NP7 및 CP9 SPU(Security Processing Units) 기반의 최신 차세대 방화벽(NGFW) 포티게이트 3000F(FortiGate 3000F)를 발표...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우크라이나-러시아 전쟁, 사이버전 행위는 국경을 넘고 있다]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=105165&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=105165&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-03-03T01:02:54.320Z</updated>
-        <content type="html"><![CDATA[우크라이나에서 벌어지고 있는 사이버 공격 대부분 고도로 표적화 되어 있다. 하지만 이것이 우크라이나 안에서만 벌어지고 끝날 것 같지 않은 신호들이 나오고 있다. 그런 신호들 중 하나가 MS가 발견한 폭스블레이드(FoxBlade)다. 우크라이나 정부 시스템에서 발견된 멀...]]></content>
     </entry>
 </feed>
