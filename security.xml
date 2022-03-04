@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-03-04T04:22:17.488Z</updated>
+    <updated>2022-03-04T05:18:18.684Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[엔비디아에 침투한 해커들, DLSS 소스코드 유출시켜]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=105236&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=105236&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-03-04T05:16:28.392Z</updated>
+        <content type="html"><![CDATA[유명 칩셋 제조사인 엔비디아(NVIDIA)에서 네트워크 침해 사건이 발생했다고 이번 주 화요일에 발표됐었다. 그리고 오늘 이 공격을 성공시킨 것으로 보이는 해커들이 각종 민감한 정보를 다크웹에 유출시키기 시작했다. 특히 엔비디아가 독자적으로 개발하고 있는 DLSS 기술...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[난리 난 러시아 사이버 공간, 각종 데이터 유출되고 있어]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=105235&amp;page=1&amp;mkind=1&amp;kind=1</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=105197&amp;page=1&amp;mkind=1&amp;kind=1"/>
         <updated>2022-03-03T06:19:49.391Z</updated>
         <content type="html"><![CDATA[‘TCP 미들박스 반사(TCP Middlebox Reflection)’라는 기법을 활용한 디도스 공격이 발견되기 시작했다. 이 기법에 대한 이론적 연구 결과가 세상에 등장하고서 6개월여 만에 실제 현장에 나타나기 시작한 것이다. 이 기법을 활용할 경우 트래픽을 75배 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[티봇 트로이목마, 구글 플레이 스토어 다시 점령]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=105196&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=105196&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-03-03T04:20:14.862Z</updated>
-        <content type="html"><![CDATA[티봇(TeaBot)이라는 안드로이드 트로이목마가 다시 나타났다. 그것도 지난 번에 퇴출됐던 구글 플레이를 다시 한 번 뚫어낸 것으로 밝혀졌다. 보안 업체 클리파이(Cleafy)에 의하면 각종 QR코드 리더기나 유틸리티로 위장된 채 돌아다니고 있으며, 이미 수십만 번 이...]]></content>
     </entry>
 </feed>
