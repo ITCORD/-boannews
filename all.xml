@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 05 Mar 2022 10:19:05 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Mar 2022 11:16:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삼성전자 해킹 당했나? 해외 해커조직 “소스코드 등 190GB 데이터 탈취” 주장 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105261&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105261&amp;page=1&amp;kind=1</guid>
+            <pubDate>Sat, 05 Mar 2022 11:14:36 GMT</pubDate>
+            <content:encoded><![CDATA[삼성전자가 해외 해커조직의 해킹으로 190GB에 달하는 주요 데이터가 탈취당했다는 주장이 제기됐다. 해외 해커조직 랩서스(LAPSUS＄)는 삼성전자의 서버...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220305sam-s.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[긴급] 유튜브 통해 정보 탈취형 악성코드 유포 (보안뉴스 ─ 전체기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105260&amp;page=1&amp;kind=1</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 04 Mar 2022 02:43:04 GMT</pubDate>
             <content:encoded><![CDATA[유명 칩셋 제조사인 엔비디아(NVIDIA)에서 네트워크 침해 사건이 발생했다고 이번 주 화요일에 발표됐었다. 그리고 오늘 이 공격을 성공시킨 것으로 보이는...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/chip-thumb-0304.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[난리 난 러시아 사이버 공간, 각종 데이터 유출되고 있어 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105235&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105235&amp;page=1&amp;kind=1</guid>
-            <pubDate>Fri, 04 Mar 2022 02:43:04 GMT</pubDate>
-            <content:encoded><![CDATA[마치 전 세계가 러시아를 해킹하는 듯한 모습이다. 러시아와 관련된 각종 정보들이 연일 다크웹에 쏟아지는 중이라고 한다. 러시아 핵 무기 및 핵 전쟁 수행 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/rus-thumb-0304.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[경남도, 역주행 위험 교차로 사고 예방 대책 수립 (보안뉴스 ─ 전체기사)]]></title>
@@ -198,6 +198,14 @@
             <content:encoded><![CDATA[부산시는 오는 4월부터 약 4개월간 웹 개발자 양성 프로그램인 ‘SW 엔지니어 트랙’을 운영하고, 교육대상자를 오는 13일까지 모집한다고 밝혔다.]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[난리 난 러시아 사이버 공간, 각종 데이터 유출되고 있어 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105235&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105235&amp;page=1&amp;kind=1</guid>
+            <pubDate>Fri, 04 Mar 2022 02:43:04 GMT</pubDate>
+            <content:encoded><![CDATA[마치 전 세계가 러시아를 해킹하는 듯한 모습이다. 러시아와 관련된 각종 정보들이 연일 다크웹에 쏟아지는 중이라고 한다. 러시아 핵 무기 및 핵 전쟁 수행 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/rus-thumb-0304.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[어베스트, 우크라이나 공격하는 헤르메틱랜섬의 복호화 키 제공 (보안뉴스 ─ 전체기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105234&amp;page=1&amp;kind=1</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105234&amp;page=1&amp;kind=1</guid>
@@ -228,14 +236,6 @@
             <pubDate>Fri, 04 Mar 2022 02:43:04 GMT</pubDate>
             <content:encoded><![CDATA[‘더 많은 비트, 더 적은 와트(More Bits, Less Watts)’ MWC 2022에서 ‘친환경’과 ‘그린’을 강조한 화웨이가 전 세계 이통사와 업...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/huawei_030401_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[안랩, ‘기업의 지속가능성을 위해 필요한 다양성’ 주제로 ESG 사내 교육 시행 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105230&amp;page=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105230&amp;page=1&amp;kind=3</guid>
-            <pubDate>Fri, 04 Mar 2022 02:43:04 GMT</pubDate>
-            <content:encoded><![CDATA[안랩(대표 강석균)이 3월 3일(목), ‘기업의 지속가능성을 위해 필요한 다양성’을 주제로 임직원 대상 인권 교육을 실시했다.]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/ahn_030401_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[러시아-우크라이나 전쟁, 사이버상 해킹 대결은 이미 ‘세계대전’ (보안뉴스 ─ 가장 많이 본 기사)]]></title>
@@ -398,6 +398,13 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/rail-thumb-0228.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[수익성 높은 랜섬웨어 공격, 아직도 전성기는 오지 않았나 (보안뉴스 ─ SECURITY)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105242&amp;page=1&amp;mkind=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105242&amp;page=1&amp;mkind=1&amp;kind=1</guid>
+            <pubDate>Sat, 05 Mar 2022 11:14:58 GMT</pubDate>
+            <content:encoded><![CDATA[지난 한 해 랜섬웨어 공격자들은 자신들의 무기와 전략을 꾸준히, 점진적으로 발전시켜 왔다. 그 결과 페이로드로 인한 감염의 주기가 짧아졌고, 그에 따라 방어자의 대응 역시 보다 빨라져야 할 필요가 생겼다. 보안 업체 딥인스팅트(Deep Instinct)가 ‘2022년 ...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[하버드와 리눅스재단, 오픈소스 인기와 취약점 순위 매겨 500개씩 선정 (보안뉴스 ─ SECURITY)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105241&amp;page=1&amp;mkind=1&amp;kind=1</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105241&amp;page=1&amp;mkind=1&amp;kind=1</guid>
@@ -508,13 +515,6 @@
             <guid>https://www.boannews.com/media/view.asp?idx=105203&amp;page=1&amp;mkind=1&amp;kind=3</guid>
             <pubDate>Fri, 04 Mar 2022 01:06:39 GMT</pubDate>
             <content:encoded><![CDATA[3월 3일 발간된 ‘Weekly Security Premium Report’ 제40호에는 &lt;보안 심층 리포트&gt; 코너에서 사이버 전쟁이 일상으로 들어오면서 기업들이 천문적인 피해를 입고 있는 상황에서 어디까지 사이버 전쟁으로 규정해야 하고, 어떤 기준을 갖고 ...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[부고] 대한민국 항공보안협회 윤규식 회장 모친상 (보안뉴스 ─ SECURITY)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105204&amp;page=1&amp;mkind=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105204&amp;page=1&amp;mkind=1&amp;kind=1</guid>
-            <pubDate>Thu, 03 Mar 2022 13:20:39 GMT</pubDate>
-            <content:encoded><![CDATA[△내 용 : 대한민국 항공보안협회 윤규식 회장 모친상 △빈 소 : 국빈 장례 문화원 403호(광주광역시 매월동 소재) △발 인 : 3월 5일(토) 오전 10시]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[산업계가 원하는 반도체 핵심 인재, 4대 과학기술원이 키워낸다 (보안뉴스 ─ IT)]]></title>
@@ -769,6 +769,20 @@
             <pubDate>Fri, 04 Mar 2022 02:43:52 GMT</pubDate>
             <content:encoded><![CDATA[데이터 스토리지 인프라스트럭처 솔루션의 리더 씨게이트 테크놀로지(Seagate Technology Holdings plc, 이하 씨게이트)가 서비스형 클라...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/22030401ss-s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[삼성전자 해킹 당했나? 해외 해커조직 “소스코드 등 190GB 데이터 탈취” 주장 (보안뉴스 ─ 취약점 경고 및 버그리포트)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105261&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105261&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=</guid>
+            <pubDate>Sat, 05 Mar 2022 11:15:36 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/view.asp?idx=105261&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=">
+					
+					<img src="/media/upFiles2/2022/03/20220305sam-s.jpg" alt="" class="news_img" height="70">
+					
+					<span class="news_txt">삼성전자 해킹 당했나? 해외 해커조직 “소스코드 등 190GB 데이터 탈취” 주장 </span>
+					</a><br>
+					<a href="/media/view.asp?idx=105261&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=">삼성전자가 해외 해커조직의 해킹으로 190GB에 달하는 주요 데이터가 탈취당했다는 주장이 제기됐다. 해외 해커조직 랩서스(LAPSUS＄)는 삼성전자의 서버를 해킹...</a> <span class="news_writer">권준  기자 | 2022년 03월 05일 19:35</span>]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220305sam-s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[긴급] 유튜브 통해 정보 탈취형 악성코드 유포 (보안뉴스 ─ 취약점 경고 및 버그리포트)]]></title>
@@ -1035,20 +1049,6 @@
 					</a><br>
 					<a href="/media/view.asp?idx=104908&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=">러시아의 우크라이나 침공이 초읽기에 들어갔다는 전망이 나오는 가운데 이미 사이버상에서는 러시아가 우크라이나의 정부부처, 공공기관, 군의 주요 사이트를 타깃으로 한...</a> <span class="news_writer">권준  기자 | 2022년 02월 21일 01:20</span>]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/20220221russia-s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022년 1월 발생한 스미싱의 80%는 ‘택배 스미싱’ (보안뉴스 ─ 취약점 경고 및 버그리포트)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104906&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104906&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=</guid>
-            <pubDate>Sun, 20 Feb 2022 16:21:54 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/view.asp?idx=104906&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=">
-					
-					<img src="/media/upFiles2/2022/02/est_022001_main.jpg" alt="" class="news_img" height="70">
-					
-					<span class="news_txt">2022년 1월 발생한 스미싱의 80%는 ‘택배 스미싱’</span>
-					</a><br>
-					<a href="/media/view.asp?idx=104906&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=">2022년 1월은 2021년 12월과 마찬가지로 택배 스미싱이 공격을 주도한 것으로 확인됐다. 택배를 키워드로 하는 스미싱 공격은 79.47%로, 여전히 대다수의...</a> <span class="news_writer">원병철 기자 | 2022년 02월 21일 01:15</span>]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/est_022001_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[최정식 발행인 칼럼] <시큐리티월드> 통권 300호를 맞아 드리는 감사의 말씀 (보안뉴스 ─ 오피니언)]]></title>

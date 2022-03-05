@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-03-05T10:19:05.624Z</updated>
+    <updated>2022-03-05T11:16:47.849Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[수익성 높은 랜섬웨어 공격, 아직도 전성기는 오지 않았나]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=105242&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=105242&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-03-05T11:14:58.798Z</updated>
+        <content type="html"><![CDATA[지난 한 해 랜섬웨어 공격자들은 자신들의 무기와 전략을 꾸준히, 점진적으로 발전시켜 왔다. 그 결과 페이로드로 인한 감염의 주기가 짧아졌고, 그에 따라 방어자의 대응 역시 보다 빨라져야 할 필요가 생겼다. 보안 업체 딥인스팅트(Deep Instinct)가 ‘2022년 ...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[하버드와 리눅스재단, 오픈소스 인기와 취약점 순위 매겨 500개씩 선정]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=105241&amp;page=1&amp;mkind=1&amp;kind=1</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=105203&amp;page=1&amp;mkind=1&amp;kind=3"/>
         <updated>2022-03-04T01:06:39.813Z</updated>
         <content type="html"><![CDATA[3월 3일 발간된 ‘Weekly Security Premium Report’ 제40호에는 &lt;보안 심층 리포트&gt; 코너에서 사이버 전쟁이 일상으로 들어오면서 기업들이 천문적인 피해를 입고 있는 상황에서 어디까지 사이버 전쟁으로 규정해야 하고, 어떤 기준을 갖고 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[부고] 대한민국 항공보안협회 윤규식 회장 모친상]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=105204&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=105204&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-03-03T13:20:39.752Z</updated>
-        <content type="html"><![CDATA[△내 용 : 대한민국 항공보안협회 윤규식 회장 모친상 △빈 소 : 국빈 장례 문화원 403호(광주광역시 매월동 소재) △발 인 : 3월 5일(토) 오전 10시]]></content>
     </entry>
 </feed>
