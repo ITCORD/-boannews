@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-03-05T16:22:50.008Z</updated>
+    <updated>2022-03-05T17:17:09.079Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[전체 방산업체 대상 사이버보안 취약점 진단 사업 실시]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=105245&amp;page=1&amp;mkind=1&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=105245&amp;page=1&amp;mkind=1&amp;kind=2"/>
+        <updated>2022-03-05T17:15:16.219Z</updated>
+        <content type="html"><![CDATA[방위사업청은 모든 방산업체(현재 85개)를 대상으로 한 사이버보안 취약점 진단 사업을 실시한다고 밝혔다. 사이버보안 취약점 진단 사업은 방산업체에서 운영 중인 인터넷 서버, 보안장비 및 네트워크 장비 등에 대해 모의해킹, 취약점 진단 및 해킹메일 대응훈련 등을 실시한 ...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[수익성 높은 랜섬웨어 공격, 아직도 전성기는 오지 않았나]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=105242&amp;page=1&amp;mkind=1&amp;kind=1</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=105205&amp;page=1&amp;mkind=1&amp;kind=1"/>
         <updated>2022-03-04T01:06:39.812Z</updated>
         <content type="html"><![CDATA[노스캐롤라이나주립대학의 연구원들이 최근 떠오르고 있는 보안 기술인 동형 암호(homomorphic encryption)에서 부채널 공격을 가능하게 하는 취약점을 발견했다고 발표했다. 이 공격을 성공시킬 경우 공격자들은 암호화된 데이터를 겨냥하여 악성 공격을 실시할 수 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Weekly Security Premium Report 제40호 발간! 사이버전쟁 시대의 사이버보험 산업 분석]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=105203&amp;page=1&amp;mkind=1&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=105203&amp;page=1&amp;mkind=1&amp;kind=3"/>
-        <updated>2022-03-04T01:06:39.813Z</updated>
-        <content type="html"><![CDATA[3월 3일 발간된 ‘Weekly Security Premium Report’ 제40호에는 &lt;보안 심층 리포트&gt; 코너에서 사이버 전쟁이 일상으로 들어오면서 기업들이 천문적인 피해를 입고 있는 상황에서 어디까지 사이버 전쟁으로 규정해야 하고, 어떤 기준을 갖고 ...]]></content>
     </entry>
 </feed>

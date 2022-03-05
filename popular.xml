@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 05 Mar 2022 16:22:50 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Mar 2022 17:17:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -136,20 +136,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/safe-thumb-0303.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Weekly Security Premium Report 제40호 발간! 사이버전쟁 시대의 사이버보험 산업 분석]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105203&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105203&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
-            <pubDate>Sat, 05 Mar 2022 02:35:59 GMT</pubDate>
-            <content:encoded><![CDATA[3월 3일 발간된 ‘Weekly Security Premium Report’ 제40호에는 &lt;보안 심층 리포트&gt; 코너에서 사이버 전쟁이 일상으로 들어오면...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220303REPORT-SM.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
             <title><![CDATA[하버드와 리눅스재단, 오픈소스 인기와 취약점 순위 매겨 500개씩 선정]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105241&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105241&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Sat, 05 Mar 2022 13:18:18 GMT</pubDate>
             <content:encoded><![CDATA[리눅스재단(Linux Foundation)과 하버드혁신과학실험실(Harvard Lab for Innovation Science)이 이번 주 몇 개의 주요 생태계에...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/rank-thumb-0304.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Weekly Security Premium Report 제40호 발간! 사이버전쟁 시대의 사이버보험 산업 분석]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105203&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105203&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
+            <pubDate>Sat, 05 Mar 2022 02:35:59 GMT</pubDate>
+            <content:encoded><![CDATA[3월 3일 발간된 ‘Weekly Security Premium Report’ 제40호에는 &lt;보안 심층 리포트&gt; 코너에서 사이버 전쟁이 일상으로 들어오면...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220303REPORT-SM.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[‘IT군’ 모집 중인 우크라이나 정부, 31개 표적 설정해]]></title>
