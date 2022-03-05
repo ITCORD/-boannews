@@ -4,9 +4,17 @@
         <title>보안뉴스 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 05 Mar 2022 02:38:00 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Mar 2022 03:18:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[긴급] 유튜브 통해 정보 탈취형 악성코드 유포]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105260&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105260&amp;page=1&amp;kind=1</guid>
+            <pubDate>Sat, 05 Mar 2022 03:16:32 GMT</pubDate>
+            <content:encoded><![CDATA[최근 정보 탈취형 악성코드가 유튜브를 통해 유포 중인 것으로 확인됐다. 공격자는 발로란트 게임 핵을 위장해 동영상을 업로드 했고, 바이러스 백신을 끄고 설...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220305OYUTUBE-S.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[전체 방산업체 대상 사이버보안 취약점 진단 사업 실시]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105245&amp;page=1&amp;kind=2</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 04 Mar 2022 02:43:04 GMT</pubDate>
             <content:encoded><![CDATA[마치 전 세계가 러시아를 해킹하는 듯한 모습이다. 러시아와 관련된 각종 정보들이 연일 다크웹에 쏟아지는 중이라고 한다. 러시아 핵 무기 및 핵 전쟁 수행 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/rus-thumb-0304.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[어베스트, 우크라이나 공격하는 헤르메틱랜섬의 복호화 키 제공]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105234&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105234&amp;page=1&amp;kind=1</guid>
-            <pubDate>Fri, 04 Mar 2022 02:43:04 GMT</pubDate>
-            <content:encoded><![CDATA[보안 업체 어베스트(Avast)가 현재 우크라이나 단체들을 공격하는 멀웨어 중 하나인 헤르메틱랜섬(HermeticRansom)의 복호화 키를 개발해 무료로...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/dec-thumb-0304.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[경남도, 역주행 위험 교차로 사고 예방 대책 수립]]></title>
@@ -198,6 +198,14 @@
             <content:encoded><![CDATA[부산시는 오는 4월부터 약 4개월간 웹 개발자 양성 프로그램인 ‘SW 엔지니어 트랙’을 운영하고, 교육대상자를 오는 13일까지 모집한다고 밝혔다.]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[어베스트, 우크라이나 공격하는 헤르메틱랜섬의 복호화 키 제공]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105234&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105234&amp;page=1&amp;kind=1</guid>
+            <pubDate>Fri, 04 Mar 2022 02:43:04 GMT</pubDate>
+            <content:encoded><![CDATA[보안 업체 어베스트(Avast)가 현재 우크라이나 단체들을 공격하는 멀웨어 중 하나인 헤르메틱랜섬(HermeticRansom)의 복호화 키를 개발해 무료로...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/dec-thumb-0304.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[KISA, 비대면 물품기증 캠페인 펼치다]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105233&amp;page=1&amp;kind=2</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105233&amp;page=1&amp;kind=2</guid>
@@ -228,14 +236,6 @@
             <pubDate>Fri, 04 Mar 2022 02:43:04 GMT</pubDate>
             <content:encoded><![CDATA[안랩(대표 강석균)이 3월 3일(목), ‘기업의 지속가능성을 위해 필요한 다양성’을 주제로 임직원 대상 인권 교육을 실시했다.]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/ahn_030401_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[IBM, 랜섬웨어 등 ‘사이버 공격’에 맞설 차세대 플래시 스토리지 발표]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105229&amp;page=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105229&amp;page=1&amp;kind=3</guid>
-            <pubDate>Fri, 04 Mar 2022 01:06:22 GMT</pubDate>
-            <content:encoded><![CDATA[IBM은 기업이 랜섬웨어를 비롯한 사이버 공격을 더 효과적으로, 빠르게 탐지하고 정상 상태로 복구하도록 지원하는 IBM 플래시시스템 사이버 볼트(Flash...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/IBM_030401_main.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

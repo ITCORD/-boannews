@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-03-05T02:38:00.525Z</updated>
+    <updated>2022-03-05T03:18:49.082Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[하버드와 리눅스재단, 오픈소스 인기와 취약점 순위 매겨 500개씩 선정]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=105241&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=105241&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-03-05T03:16:52.262Z</updated>
+        <content type="html"><![CDATA[리눅스재단(Linux Foundation)과 하버드혁신과학실험실(Harvard Lab for Innovation Science)이 이번 주 몇 개의 주요 생태계에서 사용되는 오픈소스 프로젝트 500개를 선정하여 보안 관련 순위를 매겨 발표했다. 오픈소스 보호를 위한 첫...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[IT와 OT의 집합체 ‘스마트 빌딩’,  증가하는 보안위협은 어떻게 대응하나]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=105239&amp;page=1&amp;mkind=1&amp;kind=3</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=105204&amp;page=1&amp;mkind=1&amp;kind=1"/>
         <updated>2022-03-03T13:20:39.752Z</updated>
         <content type="html"><![CDATA[△내 용 : 대한민국 항공보안협회 윤규식 회장 모친상 △빈 소 : 국빈 장례 문화원 403호(광주광역시 매월동 소재) △발 인 : 3월 5일(토) 오전 10시]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서울여대 정보보호동아리 SWING, ‘2021 Security Magazine’ 발간]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=105201&amp;page=1&amp;mkind=1&amp;kind=5</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=105201&amp;page=1&amp;mkind=1&amp;kind=5"/>
-        <updated>2022-03-03T09:16:25.825Z</updated>
-        <content type="html"><![CDATA[서울여대 정보보호동아리 ‘SWING(스윙)’이 동아리 멘토 역할을 하고 있는 김종민 삼성전자 DS정보보호센터 전문연구원의 지도로 ‘2021 Security Magazine’를 발간했다.]]></content>
     </entry>
 </feed>
