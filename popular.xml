@@ -4,17 +4,9 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 06 Mar 2022 16:22:56 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Mar 2022 17:17:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[러시아-우크라이나 전쟁, 사이버상 해킹 대결은 이미 ‘세계대전’]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105112&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105112&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Sun, 27 Feb 2022 18:18:08 GMT</pubDate>
-            <content:encoded><![CDATA[러시아의 우크라이나 전면 침공이 나흘째에 접어든 가운데 우크라이나의 결사항전 태세가 이어지면서 러시아의 우크라이나 수도 키예프 함락도 난항을 겪고 있다. 더욱이 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/20220227uk-s.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[삼성 갤럭시 스마트폰, 3연속 악재 터졌다! 치팅 → 백도어 → 해킹]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105262&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
@@ -22,14 +14,6 @@
             <pubDate>Sat, 05 Mar 2022 23:16:08 GMT</pubDate>
             <content:encoded><![CDATA[최근 신규 스마트폰과 태블릿 라인업을 발표하여 모바일 기기 시장에서 많은 집중을 받고 있던 삼성이, 최근 세 가지 이슈가 연속해서 터지면서 그 어느 때보다 소비자...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/sam-thumb-0304.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[통합보안 3사 에스원·SK쉴더스·KT텔레캅, 소비자의 생각과 선택은?]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105079&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105079&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
-            <pubDate>Mon, 28 Feb 2022 02:10:59 GMT</pubDate>
-            <content:encoded><![CDATA[국내 대표적인 통합보안 서비스 기업으로는 에스원과 SK쉴더스, 그리고 KT텔레캅을 꼽을 수 있다. &lt;보안뉴스&gt;와 &lt;시큐리티월드&gt;에서는 해마다...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/22022521ss.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[bnTV] 인터넷의 근간이 흔들릴 수 있는 해킹 사건의 전말은?]]></title>
@@ -136,20 +120,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/22022507ss.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[청진기로 금고를 따는 영화 속 도둑처럼 동형 암호도 뚫을 수 있다]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105205&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105205&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Sat, 05 Mar 2022 02:35:59 GMT</pubDate>
-            <content:encoded><![CDATA[노스캐롤라이나주립대학의 연구원들이 최근 떠오르고 있는 보안 기술인 동형 암호(homomorphic encryption)에서 부채널 공격을 가능하게 하는 취약점을 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/safe-thumb-0303.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Weekly Security Premium Report 제40호 발간! 사이버전쟁 시대의 사이버보험 산업 분석]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105203&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105203&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
             <pubDate>Sun, 06 Mar 2022 06:18:43 GMT</pubDate>
             <content:encoded><![CDATA[3월 3일 발간된 ‘Weekly Security Premium Report’ 제40호에는 &lt;보안 심층 리포트&gt; 코너에서 사이버 전쟁이 일상으로 들어오면...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220303REPORT-SM.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[청진기로 금고를 따는 영화 속 도둑처럼 동형 암호도 뚫을 수 있다]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105205&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105205&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Sat, 05 Mar 2022 02:35:59 GMT</pubDate>
+            <content:encoded><![CDATA[노스캐롤라이나주립대학의 연구원들이 최근 떠오르고 있는 보안 기술인 동형 암호(homomorphic encryption)에서 부채널 공격을 가능하게 하는 취약점을 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/safe-thumb-0303.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘IT군’ 모집 중인 우크라이나 정부, 31개 표적 설정해]]></title>
@@ -166,6 +150,22 @@
             <pubDate>Sun, 06 Mar 2022 16:21:00 GMT</pubDate>
             <content:encoded><![CDATA[중국의 해킹 조직이 사용하는 것으로 보이는 백도어 프로그램이 여러 나라의 정부 기관에서 발견됐다. 브로드컴 소프트웨어(Broadcom Software) 소속 보안...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/chin-thumb-0303.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[제20대 대선 선상투표 실시? 선관위 보도자료 사칭 악성 한글문서 유포]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105206&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105206&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Sun, 06 Mar 2022 17:15:17 GMT</pubDate>
+            <content:encoded><![CDATA[사전투표 하루 전, 공식 선거일이 6일 앞으로 다가온 가운데 ‘20대 대통령선거 선상투표 보도자료’를 가장한 악성 한글문서가 유포 중인 것으로 드러났다.]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220303ahn-S.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[어나니머스, 벨라루스 철도의 내부 네트워크 침해해]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105120&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105120&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Sun, 06 Mar 2022 17:15:17 GMT</pubDate>
+            <content:encoded><![CDATA[벨라루스의 국영 철도 시스템의 네트워크를 침해했다고 핵티비스트 그룹인 어나니머스가 발표했다. 현재 모든 서비스가 차단됐다고 하며, 러시아 군의 수송을 멈추지 않는...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/rail-thumb-0228.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
