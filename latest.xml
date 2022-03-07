@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Mar 2022 07:18:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Mar 2022 08:22:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -86,6 +86,22 @@
             <pubDate>Sat, 05 Mar 2022 03:16:32 GMT</pubDate>
             <content:encoded><![CDATA[최근 정보 탈취형 악성코드가 유튜브를 통해 유포 중인 것으로 확인됐다. 공격자는 발로란트 게임 핵을 위장해 동영상을 업로드 했고, 바이러스 백신을 끄고 설...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220305OYUTUBE-S.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[우티마코, 페이먼트 HSM 솔루션으로 호주 시장에 진출]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105278&amp;page=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105278&amp;page=1&amp;kind=3</guid>
+            <pubDate>Mon, 07 Mar 2022 08:20:16 GMT</pubDate>
+            <content:encoded><![CDATA[글로벌 IT 보안 솔루션 공급업체 우티마코(Utimaco)가 IAC 승인 장치 목록에 추가된 자사의 아탈라(Atalla) AT1000 결제 하드웨어 보안 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/22030702ss.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[모니터랩, 클라우드 서비스 보안인증 ‘CSAP’ 획득]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105277&amp;page=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105277&amp;page=1&amp;kind=3</guid>
+            <pubDate>Mon, 07 Mar 2022 08:20:16 GMT</pubDate>
+            <content:encoded><![CDATA[클라우드 기반 SECaaS 전문기업 모니터랩(대표 이광후)이 자사 SECaaS 플랫폼 아이온클라우드(AIONCLOUD)가 한국인터넷진흥원(KISA)이 인증...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/moni_030701_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한국IBM, 블록체인 기업 인블록과 디지털 자산 관리 위한 임베디드 솔루션 계약 체결]]></title>
@@ -221,21 +237,6 @@
             <guid>https://www.boannews.com/media/view.asp?idx=105247&amp;page=1&amp;kind=2</guid>
             <pubDate>Sat, 05 Mar 2022 02:35:48 GMT</pubDate>
             <content:encoded><![CDATA[동부지방산림청은 산림사업장 내 산업재해 차단을 위해 지난 4일 ‘산림사업 안전보건점검 체크리스트’를 작성해 관내 국유림관리소에 배포했다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[미래 국방과학기술 및 방위산업  분야 우수 중견·중소기업 발굴한다]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105246&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105246&amp;page=1&amp;kind=2</guid>
-            <pubDate>Sat, 05 Mar 2022 02:35:48 GMT</pubDate>
-            <content:encoded><![CDATA[국방기술진흥연구소는 미래 국방과학기술 및 방위산업을 선도할 경쟁력 있는 중견·중소(벤처)기업을 발굴하기 위해 ‘2022년도 3개 권역별 국방지원사업 설명회...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[전체 방산업체 대상 사이버보안 취약점 진단 사업 실시]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105245&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105245&amp;page=1&amp;kind=2</guid>
-            <pubDate>Sat, 05 Mar 2022 02:35:48 GMT</pubDate>
-            <content:encoded><![CDATA[방위사업청은 모든 방산업체(현재 85개)를 대상으로 한 사이버보안 취약점 진단 사업을 실시한다고 밝혔다. 사이버보안 취약점 진단 사업은 방산업체에서 운영 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220305army-s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
