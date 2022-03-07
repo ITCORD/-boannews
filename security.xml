@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-03-07T06:22:08.286Z</updated>
+    <updated>2022-03-07T07:18:07.675Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한국IBM, 블록체인 기업 인블록과 디지털 자산 관리 위한 임베디드 솔루션 계약 체결]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=105273&amp;page=1&amp;mkind=1&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=105273&amp;page=1&amp;mkind=1&amp;kind=3"/>
+        <updated>2022-03-07T07:16:20.404Z</updated>
+        <content type="html"><![CDATA[한국IBM은 3월 7일 블록체인 기업 인블록(INBLOCK)의 디지털 자산 관리 솔루션 도깨비원(DokkaebiONE)을 자사 고성능 서버 제품군인 IBM 리눅스원(LinuxONE)에 탑재하는 임베디드 솔루션 계약(Embedded Solution Agreement, E...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[모질라, 파이어폭스 97.0.2 발표하며 제로데이 2개 고쳐]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=105272&amp;page=1&amp;mkind=1&amp;kind=1</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=105236&amp;page=1&amp;mkind=1&amp;kind=1"/>
         <updated>2022-03-04T05:16:28.392Z</updated>
         <content type="html"><![CDATA[유명 칩셋 제조사인 엔비디아(NVIDIA)에서 네트워크 침해 사건이 발생했다고 이번 주 화요일에 발표됐었다. 그리고 오늘 이 공격을 성공시킨 것으로 보이는 해커들이 각종 민감한 정보를 다크웹에 유출시키기 시작했다. 특히 엔비디아가 독자적으로 개발하고 있는 DLSS 기술...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[난리 난 러시아 사이버 공간, 각종 데이터 유출되고 있어]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=105235&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=105235&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-03-04T02:43:24.596Z</updated>
-        <content type="html"><![CDATA[마치 전 세계가 러시아를 해킹하는 듯한 모습이다. 러시아와 관련된 각종 정보들이 연일 다크웹에 쏟아지는 중이라고 한다. 러시아 핵 무기 및 핵 전쟁 수행 능력과 관련된 기밀, 공군 전력과 관련된 데이터, 콘티(Conti) 랜섬웨어 갱단의 NSA를 겨냥한 음모론 캠페인,...]]></content>
     </entry>
 </feed>
