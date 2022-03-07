@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Mar 2022 08:22:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Mar 2022 09:19:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아니오, 클라우드는 ‘그린 테크놀로지’가 아닙니다 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105263&amp;page=1&amp;kind=4</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105263&amp;page=1&amp;kind=4</guid>
+            <pubDate>Mon, 07 Mar 2022 09:16:22 GMT</pubDate>
+            <content:encoded><![CDATA[클라우드를 ‘그린’ 기술로 이해하는 사람들이 점점 많아지고 있다. 클라우드 업체의 서비스를 이용하면 회사들이 저마다 서버실을 운영하는 것보다 친환경적일 거...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/clo-thumb-0306.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[모바일 뱅킹 앱에 대한 책임, 보다 뿌리 깊은 변화를 필요로 한다 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105279&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105279&amp;page=1&amp;kind=1</guid>
+            <pubDate>Mon, 07 Mar 2022 09:16:22 GMT</pubDate>
+            <content:encoded><![CDATA[은행의 고객들 중 ‘모바일 뱅킹’ 기능을 사용하는 사람들의 비중이 점점 높아지고 있다. 2020년 미국 기준, 모바일 장비로 은행 잔고를 확인하는 사용자는...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/bank-thumb-0307.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[보안 업체들의 보안 상황, 사용자 기업들보다 낫지 않다 (보안뉴스 ─ 전체기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105276&amp;page=1&amp;kind=1</link>
@@ -72,22 +88,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/sam-thumb-0304.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[삼성전자 해킹 당했나? 해외 해커조직 “소스코드 등 190GB 데이터 탈취” 주장 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105261&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105261&amp;page=1&amp;kind=1</guid>
-            <pubDate>Sat, 05 Mar 2022 11:14:36 GMT</pubDate>
-            <content:encoded><![CDATA[삼성전자가 해외 해커조직의 해킹으로 190GB에 달하는 주요 데이터가 탈취당했다는 주장이 제기됐다. 해외 해커조직 랩서스(LAPSUS＄)는 삼성전자의 서버...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220305sam-s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[긴급] 유튜브 통해 정보 탈취형 악성코드 유포 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105260&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105260&amp;page=1&amp;kind=1</guid>
-            <pubDate>Sat, 05 Mar 2022 03:16:32 GMT</pubDate>
-            <content:encoded><![CDATA[최근 정보 탈취형 악성코드가 유튜브를 통해 유포 중인 것으로 확인됐다. 공격자는 발로란트 게임 핵을 위장해 동영상을 업로드 했고, 바이러스 백신을 끄고 설...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220305OYUTUBE-S.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[우티마코, 페이먼트 HSM 솔루션으로 호주 시장에 진출 (보안뉴스 ─ 전체기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105278&amp;page=1&amp;kind=3</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105278&amp;page=1&amp;kind=3</guid>
@@ -149,6 +149,22 @@
             <pubDate>Mon, 07 Mar 2022 02:17:15 GMT</pubDate>
             <content:encoded><![CDATA[지란지교에스앤씨(대표이사 남권우)는 조달청 나라장터 종합쇼핑몰에 더방탄PC가 등록됐다고 밝혔다.]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/jiran_030701_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[삼성전자 해킹 당했나? 해외 해커조직 “소스코드 등 190GB 데이터 탈취” 주장 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105261&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105261&amp;page=1&amp;kind=1</guid>
+            <pubDate>Sat, 05 Mar 2022 11:14:36 GMT</pubDate>
+            <content:encoded><![CDATA[삼성전자가 해외 해커조직의 해킹으로 190GB에 달하는 주요 데이터가 탈취당했다는 주장이 제기됐다. 해외 해커조직 랩서스(LAPSUS＄)는 삼성전자의 서버...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220305sam-s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[긴급] 유튜브 통해 정보 탈취형 악성코드 유포 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105260&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105260&amp;page=1&amp;kind=1</guid>
+            <pubDate>Sat, 05 Mar 2022 03:16:32 GMT</pubDate>
+            <content:encoded><![CDATA[최근 정보 탈취형 악성코드가 유튜브를 통해 유포 중인 것으로 확인됐다. 공격자는 발로란트 게임 핵을 위장해 동영상을 업로드 했고, 바이러스 백신을 끄고 설...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220305OYUTUBE-S.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[경남도, 역주행 위험 교차로 사고 예방 대책 수립 (보안뉴스 ─ 전체기사)]]></title>
@@ -225,20 +241,6 @@
             <content:encoded><![CDATA[특허청은 ‘2022년 국제 지재권 분쟁 대응전략 지원’ 사업에 참여할 기업을 지난 4일부터 모집한다고 밝혔다. 최근 증가하는 글로벌 특허소송, 특허관리전문...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[홍남기 부총리, 데이터산업·기초과학연구 현장 방문 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105248&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105248&amp;page=1&amp;kind=2</guid>
-            <pubDate>Sat, 05 Mar 2022 02:35:48 GMT</pubDate>
-            <content:encoded><![CDATA[홍남기 부총리 겸 기획재정부 장관은 지난 4일 강원도 춘천시의 더존비즈온 강촌캠퍼스, 강원도 양양군의 기초과학연구원 지하실험연구단 양양랩(Y2L)을 각각 ...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[동부지방산림청, 산림사업 안전보건점검 체크리스트 작성 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105247&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105247&amp;page=1&amp;kind=2</guid>
-            <pubDate>Sat, 05 Mar 2022 02:35:48 GMT</pubDate>
-            <content:encoded><![CDATA[동부지방산림청은 산림사업장 내 산업재해 차단을 위해 지난 4일 ‘산림사업 안전보건점검 체크리스트’를 작성해 관내 국유림관리소에 배포했다.]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[삼성 갤럭시 스마트폰, 3연속 악재 터졌다! 치팅 → 백도어 → 해킹 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105262&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105262&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
@@ -263,20 +265,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220305OYUTUBE-S.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[보안업무의 가시성에 대한 조언 “준비에 실패하는 건, 실패하려고 준비하는 것” (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105107&amp;page=1&amp;kind=4&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105107&amp;page=1&amp;kind=4&amp;search=title&amp;find=</guid>
-            <pubDate>Wed, 02 Mar 2022 06:20:20 GMT</pubDate>
-            <content:encoded><![CDATA[어디를 가든 감시 카메라가 우리를 지켜본다. 이 카메라들은 우리의 가족과 집과 회사를 보호하기 위해 눈을 부릅뜨고 있다. 골목에서, 신호등에서, 여러 대문들에서 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/vis-thumb-226.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[읽지 않고 동의하는 ‘개인정보 동의서’ 확 바뀐다 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105199&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105199&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
             <pubDate>Fri, 04 Mar 2022 01:06:31 GMT</pubDate>
             <content:encoded><![CDATA[그동안 귀찮아서, 혹은 글자가 너무 많거나 작아서 제대로 읽지 않고 동의하던 ‘개인정보 동의서’가 앞으로 확 바뀔 전망이다. 개인정보보호위원회(위원장 윤종인, 이...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220303privacy-s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[보안업무의 가시성에 대한 조언 “준비에 실패하는 건, 실패하려고 준비하는 것” (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105107&amp;page=1&amp;kind=4&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105107&amp;page=1&amp;kind=4&amp;search=title&amp;find=</guid>
+            <pubDate>Wed, 02 Mar 2022 06:20:20 GMT</pubDate>
+            <content:encoded><![CDATA[어디를 가든 감시 카메라가 우리를 지켜본다. 이 카메라들은 우리의 가족과 집과 회사를 보호하기 위해 눈을 부릅뜨고 있다. 골목에서, 신호등에서, 여러 대문들에서 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/vis-thumb-226.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[로우코드와 노코드, 인공지능과 결합해 좋은 성과 낼 수 있을까 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
@@ -399,6 +401,13 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/est_0304_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[보안 업체들의 보안 상황, 사용자 기업들보다 낫지 않다 (보안뉴스 ─ SECURITY)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105276&amp;page=1&amp;mkind=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105276&amp;page=1&amp;mkind=1&amp;kind=1</guid>
+            <pubDate>Mon, 07 Mar 2022 09:16:43 GMT</pubDate>
+            <content:encoded><![CDATA[많은 기업과 기관들이 사이버 위협에 노출되어 있는 만큼 그들을 보호하기 위한 사이버 보안 업체들 역시 각종 위험에 노출되어 있다. 심지어 사이버 보안 업체가 사이버 공격의 피해자가 되는 경우도 심심치 않게 발생한다.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[라인, 2022년 신입 개발자 공개 채용... 보안 분야 포함 (보안뉴스 ─ SECURITY)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105275&amp;page=1&amp;mkind=1&amp;kind=3</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105275&amp;page=1&amp;mkind=1&amp;kind=3</guid>
@@ -511,11 +520,11 @@
             <content:encoded><![CDATA[빌딩(Building)이 빠르게 변화하면서 빌딩의 의미와 기능이 새롭게 정의되고 있다. 특히 오늘날의 빌딩은 사용자가 거주하거나 일하거나, 혹은 즐기기 위한 편안한 공간 이상의 기능을 하고 있다. 게다가 빌딩이 제공하는 기능이 확대되고 빌딩의 규모가 커지면서 빌딩을 관...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[유명 의료 기관, 두 번째로 데이터 침해 사고 겪어 (보안뉴스 ─ SECURITY)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105238&amp;page=1&amp;mkind=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105238&amp;page=1&amp;mkind=1&amp;kind=1</guid>
-            <pubDate>Fri, 04 Mar 2022 08:20:32 GMT</pubDate>
-            <content:encoded><![CDATA[북미 지역에서 여러 병원과 의료 시설들을 운영하고 있는 헬스케어 업체인 모논갈리아 헬스시스템(Monongalia Health System)에서 두 번째 데이터 침해 사고가 발생했다. 환자와 의료진, 직원들의 개인정보가 유출된 것으로 보인다고 하며 병원은 당사자들에게 연...]]></content:encoded>
+            <title><![CDATA[경남도, 산업 현장 AI 인재 양성 울산과학기술원과 힘 합친다 (보안뉴스 ─ IT)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105256&amp;page=1&amp;mkind=2&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105256&amp;page=1&amp;mkind=2&amp;kind=2</guid>
+            <pubDate>Mon, 07 Mar 2022 09:16:55 GMT</pubDate>
+            <content:encoded><![CDATA[경남도는 지난 4일 인공지능(AI) 노바투스 아카데미아 경남 과정 1기 개강식을 개최했다. 인공지능(AI) 노바투스 아카데미아 경남 과정은 경남도와 울산과학기술원(UNIST)이 협력해 추진하는 AI 활용 전문인력 양성 과정이다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[MWC 2022에서 세계가 주목한 KT 디지털 혁신 (보안뉴스 ─ IT)]]></title>
@@ -628,13 +637,6 @@
             <guid>https://www.boannews.com/media/view.asp?idx=105222&amp;page=1&amp;mkind=2&amp;kind=2</guid>
             <pubDate>Fri, 04 Mar 2022 01:06:48 GMT</pubDate>
             <content:encoded><![CDATA[과학기술정보통신부는 스페인 바르셀로나에서 열린 ‘국제모바일기술박람회(Mobile World Congress) 2022’에서 세계이동통신사업자협회(GSMA: Global System for Mobile Communications Association)와 확장가상세계(메타...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2022년에도 양식산업의 디지털 전환 계속된다 (보안뉴스 ─ IT)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105221&amp;page=1&amp;mkind=2&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105221&amp;page=1&amp;mkind=2&amp;kind=2</guid>
-            <pubDate>Fri, 04 Mar 2022 01:06:48 GMT</pubDate>
-            <content:encoded><![CDATA[해양수산부는 오는 7일부터 4월 15일까지 ‘제6차 스마트양식 클러스터 사업’에 참여할 지자체를 공모한다. ‘스마트양식 클러스터’는 데이터, 네트워크, 인공지능(D·N·A) 기술 등 4차 산업혁명 기술을 활용해 자동화·지능화한 스마트양식장과 배후부지 기반을 구축하는 사...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[동부지방산림청, 산림사업 안전보건점검 체크리스트 작성 (보안뉴스 ─ SAFETY)]]></title>
@@ -1892,6 +1894,34 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2021/12/20211230network-s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[아니오, 클라우드는 ‘그린 테크놀로지’가 아닙니다 (보안뉴스 ─ 국제)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105263&amp;page=1&amp;mkind=&amp;kind=4&amp;skind=D&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105263&amp;page=1&amp;mkind=&amp;kind=4&amp;skind=D&amp;search=title&amp;find=</guid>
+            <pubDate>Mon, 07 Mar 2022 09:18:16 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/view.asp?idx=105263&amp;page=1&amp;mkind=&amp;kind=4&amp;skind=D&amp;search=title&amp;find=">
+					
+					<img src="/media/upFiles2/2022/03/clo-thumb-0306.jpg" alt="" class="news_img" height="70">
+					
+					<span class="news_txt">아니오, 클라우드는 ‘그린 테크놀로지’가 아닙니다</span>
+					</a><br>
+					<a href="/media/view.asp?idx=105263&amp;page=1&amp;mkind=&amp;kind=4&amp;skind=D&amp;search=title&amp;find=">클라우드를 ‘그린’ 기술로 이해하는 사람들이 점점 많아지고 있다. 클라우드 업체의 서비스를 이용하면 회사들이 저마다 서버실을 운영하는 것보다 친환경적일 거라고 생...</a> <span class="news_writer">문가용 기자 | 2022년 03월 07일 17:47</span>]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/clo-thumb-0306.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[모바일 뱅킹 앱에 대한 책임, 보다 뿌리 깊은 변화를 필요로 한다 (보안뉴스 ─ 국제)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105279&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105279&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
+            <pubDate>Mon, 07 Mar 2022 09:18:16 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/view.asp?idx=105279&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
+					
+					<img src="/media/upFiles2/2022/03/bank-thumb-0307.jpg" alt="" class="news_img" height="70">
+					
+					<span class="news_txt">모바일 뱅킹 앱에 대한 책임, 보다 뿌리 깊은 변화를 필요로 한다</span>
+					</a><br>
+					<a href="/media/view.asp?idx=105279&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">은행의 고객들 중 ‘모바일 뱅킹’ 기능을 사용하는 사람들의 비중이 점점 높아지고 있다. 2020년 미국 기준, 모바일 장비로 은행 잔고를 확인하는 사용자는 86....</a> <span class="news_writer">문가용 기자 | 2022년 03월 07일 17:22</span>]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/bank-thumb-0307.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[보안 업체들의 보안 상황, 사용자 기업들보다 낫지 않다 (보안뉴스 ─ 국제)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105276&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105276&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
@@ -2142,34 +2172,6 @@
 					</a><br>
 					<a href="/media/view.asp?idx=105196&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">티봇(TeaBot)이라는 안드로이드 트로이목마가 다시 나타났다. 그것도 지난 번에 퇴출됐던 구글 플레이를 다시 한 번 뚫어낸 것으로 밝혀졌다. 보안 업체 클리파이...</a> <span class="news_writer">문가용 기자 | 2022년 03월 03일 11:07</span>]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/tea-thumb-0303.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[20만 개 의료 장비 조사했더니, 취약점이 가득 (보안뉴스 ─ 국제)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105195&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105195&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
-            <pubDate>Thu, 03 Mar 2022 02:43:54 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/view.asp?idx=105195&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
-					
-					<img src="/media/upFiles2/2022/03/med-thumb-0303.jpg" alt="" class="news_img" height="70">
-					
-					<span class="news_txt">20만 개 의료 장비 조사했더니, 취약점이 가득</span>
-					</a><br>
-					<a href="/media/view.asp?idx=105195&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">보안 업체 팔로알토 네트웍스(Palo Alto Networks)가 20만 개가 넘는 사물인터넷 의료 장비들을 조사했더니, 75%에서 이미 알려진 취약점들이 대거 ...</a> <span class="news_writer">문가용 기자 | 2022년 03월 03일 11:06</span>]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/med-thumb-0303.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[러시아, “러시아 위성 해킹하는 건 전쟁 행위” (보안뉴스 ─ 국제)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105194&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105194&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
-            <pubDate>Thu, 03 Mar 2022 02:43:54 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/view.asp?idx=105194&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
-					
-					<img src="/media/upFiles2/2022/03/sat-thumb-0303.jpg" alt="" class="news_img" height="70">
-					
-					<span class="news_txt">러시아, “러시아 위성 해킹하는 건 전쟁 행위”</span>
-					</a><br>
-					<a href="/media/view.asp?idx=105194&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">이웃의 주권국가를 침공한 러시아가, 자국의 인공위성을 해킹 기술로 공격하는 건 전쟁 행위이며 위법한 것이라고 주장했다. 이는 러시아의 우주 항공 기술 관련 정부 ...</a> <span class="news_writer">문가용 기자 | 2022년 03월 03일 11:05</span>]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/sat-thumb-0303.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[통합보안 3사 에스원·SK쉴더스·KT텔레캅, 소비자의 생각과 선택은? (보안뉴스 ─ 기획특집)]]></title>
