@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Mar 2022 04:21:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Mar 2022 05:17:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -80,14 +80,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/rank-thumb-0304.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[2022년 디지털 전환 대응 위한 사이버보안 인재 집중 양성]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105109&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105109&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
-            <pubDate>Wed, 02 Mar 2022 03:17:06 GMT</pubDate>
-            <content:encoded><![CDATA[정부는 비대면·디지털 대전환에 따른 디지털 경제 시대를 대비해 보안이 내재화된 안전하고 신뢰할 수 있는 환경 구축을 위한 인력 양성을 추진하기로 했다. 이미 20...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/20714234_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[‘2022 정보보안 리더의 밤’ 성료... 차기정부 정보보호 정책 제안]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105164&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105164&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
@@ -96,20 +88,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/night_030201_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[2022년 3월, 물리·정보 보안업계 어떤 인재 찾고 있나]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105077&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105077&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
-            <pubDate>Wed, 02 Mar 2022 23:16:10 GMT</pubDate>
-            <content:encoded><![CDATA[따뜻한 봄기운이 느껴지는 3월이 다가왔다. 코로나19의 위세는 여전하지만 예전과 같은 일상으로의 복귀를 기대하는 마음은 여전하다. 보안업계 역시 하루빨리 코로나1...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/22022504ss.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[우크라이나-러시아 전쟁, 암호화폐와 핀테크의 혁신 가속화 될까]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105259&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105259&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Mon, 07 Mar 2022 01:01:44 GMT</pubDate>
             <content:encoded><![CDATA[러시아와 우크라이나의 전쟁이 끝날 조짐을 보이지 않으니 양측은 디지털 자금과 자원을 확보하기 위해 물밑 작업들을 계속해서 시도하고 있다. 기존의 은행 업무나 금융...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/bit-thumb-0305.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022년 3월, 물리·정보 보안업계 어떤 인재 찾고 있나]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105077&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105077&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
+            <pubDate>Wed, 02 Mar 2022 23:16:10 GMT</pubDate>
+            <content:encoded><![CDATA[따뜻한 봄기운이 느껴지는 3월이 다가왔다. 코로나19의 위세는 여전하지만 예전과 같은 일상으로의 복귀를 기대하는 마음은 여전하다. 보안업계 역시 하루빨리 코로나1...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/22022504ss.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2021년 하반기, 악성코드 유포지 23% 늘었다]]></title>
@@ -166,6 +158,14 @@
             <pubDate>Mon, 07 Mar 2022 02:17:26 GMT</pubDate>
             <content:encoded><![CDATA[방위사업청은 모든 방산업체(현재 85개)를 대상으로 한 사이버보안 취약점 진단 사업을 실시한다고 밝혔다. 사이버보안 취약점 진단 사업은 방산업체에서 운영 중인 인...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220305army-s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[새로운 고급 백도어 댁신, 중국 해커들의 작업물일 가능성 높아]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105198&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105198&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Mon, 07 Mar 2022 05:15:30 GMT</pubDate>
+            <content:encoded><![CDATA[중국의 해킹 조직이 사용하는 것으로 보이는 백도어 프로그램이 여러 나라의 정부 기관에서 발견됐다. 브로드컴 소프트웨어(Broadcom Software) 소속 보안...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/chin-thumb-0303.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
