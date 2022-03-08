@@ -2,9 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-03-08T02:16:44.864Z</updated>
+    <updated>2022-03-08T03:19:03.467Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[보안 업체 맨디언트 사기 위해 지갑 경쟁 시작한 기업들]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=105314&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=105314&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-03-08T03:17:14.283Z</updated>
+        <content type="html"><![CDATA[보안 외신 시큐리티위크에 의하면 보안 업체 맨디언트(Mandiant)에 대한 대기업들의 관심이 뜨겁다고 한다. 약 한 달 전에는 마이크로소프트가 40억 달러에 맨디언트를 매입하려 한다는 기사가 나왔었는데, 그 후 구글 역시 관심을 보이면서 경쟁에 돌입했다. 그러면서 맨...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[도난당했던 엔비디아 코드 서명 인증서, 멀웨어 서명해]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=105313&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=105313&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-03-08T03:17:14.284Z</updated>
+        <content type="html"><![CDATA[보안 외신 쓰레트포스트에 의하면 해킹 단체 랩서스(Lapsus$)가 2월 23일 엔비디아로부터 1TB에 달하는 정보들을 훔쳐냈는데, 그 중에 코드 서명 인증서들도 포함되어 있었다고 한다. 그런데 얼마 전부터 엔비디아 인증서들로 서명이 된 멀웨어들이 발견되기 시작했다. ...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[안랩 V3, 지난해 주요 글로벌 보안 제품 평가에서 잇따라 인증 획득]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=105312&amp;page=1&amp;mkind=1&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=105312&amp;page=1&amp;mkind=1&amp;kind=3"/>
+        <updated>2022-03-08T03:17:14.287Z</updated>
+        <content type="html"><![CDATA[안랩(대표 강석균)의 PC용 백신 솔루션 V3가 지난해 주요 글로벌 보안제품 평가에서 인증 및 수상을 이어가며 기술력을 인정받고 있다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한국도로공사 통행료 납부 안내문? 네이버 계정 탈취 위한 피싱 메일]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=105311&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=105311&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-03-08T03:17:14.288Z</updated>
+        <content type="html"><![CDATA[지난 3일부터 한국도로공사 통행료 납부를 위장한 피싱 메일이 대량으로 유포되고 있어 사용자들의 주의가 필요하다. 해당 피싱 메일은 ‘회원님께 도착한 새 전자문서를 확인하세요’라는 제목으로 유포중이며 해당 메일을 클릭하면 마치 한국도로공사에서 보낸 메일처럼 위장하고 있다...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[영남이공대, 국정원 지부와 함께 지역 공공기관 보안체계 강화 지원 나선다]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=105309&amp;page=1&amp;mkind=1&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=105309&amp;page=1&amp;mkind=1&amp;kind=3"/>
+        <updated>2022-03-08T03:17:14.291Z</updated>
+        <content type="html"><![CDATA[영남이공대학교(총장 이재용)는 7일 한국전력기술에서 국가정보원 지부와 함께 관·산·학 합동 사이버 보안관제 역량강화 실전훈련을 했다고 밝혔다. 이번 사이버 보안관제 역량강화 훈련은 최근 공공기관을 타깃으로 한 지능형 사이버위협이 지속되는 가운데, 영남이공대학교 사이버보...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[전북교육청, 개인정보 철저히 보호한다]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=105302&amp;page=1&amp;mkind=1&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=105302&amp;page=1&amp;mkind=1&amp;kind=2"/>
+        <updated>2022-03-08T03:17:14.293Z</updated>
+        <content type="html"><![CDATA[전북도교육청이 새학기를 맞아 개인정보보호를 강화한다. 도교육청은 ‘2022년도 개인정보보호 업무 추진 계획’을 마련, 소속 기관 및 학교에 안내했다고 밝혔다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[인공지능 ATM이 보이스피싱 ‘그 놈’ 잡아낸다]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=105303&amp;page=1&amp;mkind=1&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=105303&amp;page=1&amp;mkind=1&amp;kind=3"/>
+        <updated>2022-03-08T03:17:14.295Z</updated>
+        <content type="html"><![CDATA[신한은행은 보이스피싱으로부터 고객들의 소중한 자산을 보호하기 위해 은행권 최초로 ‘인공지능(AI) 이상행동 탐지 ATM’을 도입한다고 밝혔다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[기업 ‘디지털 발자국’ 보호에 골치 아픈 CISO를 위한 7개 보안 트렌드]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=105308&amp;page=1&amp;mkind=1&amp;kind=4</id>
@@ -74,54 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=105274&amp;page=1&amp;mkind=1&amp;kind=1"/>
         <updated>2022-03-07T08:20:36.447Z</updated>
         <content type="html"><![CDATA[핵티비스트 단체 어나니머스(Anonymous)가 러시아 군에 “탱크를 넘기면 5만 2천 달러어치의 비트코인을 주겠다”고 제안했다는 보도들이 나오고 있다. 이는 러시아 군 전체만이 아니라 군인 개개인에게도 해당되는 제안이라고 한다. 우크라이나 매체들에서 이러한 이야기가 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국IBM, 블록체인 기업 인블록과 디지털 자산 관리 위한 임베디드 솔루션 계약 체결]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=105273&amp;page=1&amp;mkind=1&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=105273&amp;page=1&amp;mkind=1&amp;kind=3"/>
-        <updated>2022-03-07T07:16:20.404Z</updated>
-        <content type="html"><![CDATA[한국IBM은 3월 7일 블록체인 기업 인블록(INBLOCK)의 디지털 자산 관리 솔루션 도깨비원(DokkaebiONE)을 자사 고성능 서버 제품군인 IBM 리눅스원(LinuxONE)에 탑재하는 임베디드 솔루션 계약(Embedded Solution Agreement, E...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[모질라, 파이어폭스 97.0.2 발표하며 제로데이 2개 고쳐]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=105272&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=105272&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-03-07T05:15:38.435Z</updated>
-        <content type="html"><![CDATA[모질라(Mozilla)가 파이어폭스 97.0.2 버전을 발표했다. 그와 함께 파이어폭스 ESR 91.6.1, 파이어폭스 안드로이드 97.3.0, 포커스(Focus) 97.3.0도 함께 발표했다. 전부 다 현재 활발하게 익스플로잇 되고 있는 제로데이 취약점 두 개를 해결...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[리눅스 커널에서 발견된 취약점, 컨테이너 탈출 가능하게 한다]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=105271&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=105271&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-03-07T03:17:06.312Z</updated>
-        <content type="html"><![CDATA[리눅스 커널의 cgroups 기능에서 취약점이 발견됐다. 이 취약점은 CVE-2022-0492로 컨테이너를 탈출해 호스트 상태에서 임의 명령을 실행할 수 있게 해 준다고 한다. CVSS 기준 7.0점을 받았으며, 일종의 ‘권한 상승 취약점’으로 분류됐다. 주요 리눅스 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[시큐아이, 고성능 차세대 침입방지 시스템 ‘블루맥스 IPS’ 출시]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=105268&amp;page=1&amp;mkind=1&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=105268&amp;page=1&amp;mkind=1&amp;kind=3"/>
-        <updated>2022-03-07T03:17:06.316Z</updated>
-        <content type="html"><![CDATA[시큐아이가 차세대 침입방지 시스템(IPS) ‘블루맥스 IPS’를 공개하고, 최대 매출 실적을 올린 2021년에 이어 2022년에도 두 자리 수 매출 증가를 예고했다. 시큐아이는 2021년 역대 최대 매출인 1,250억원을 올렸으며, 2022년에는 1,350억원을 목표로...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지란지교에스앤씨, ‘더방탄PC’ 조달청 나라장터 등록]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=105265&amp;page=1&amp;mkind=1&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=105265&amp;page=1&amp;mkind=1&amp;kind=3"/>
-        <updated>2022-03-07T03:17:06.318Z</updated>
-        <content type="html"><![CDATA[지란지교에스앤씨(대표이사 남권우)는 조달청 나라장터 종합쇼핑몰에 더방탄PC가 등록됐다고 밝혔다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우크라이나-러시아 전쟁, 암호화폐와 핀테크의 혁신 가속화 될까]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=105259&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=105259&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-03-07T03:17:06.330Z</updated>
-        <content type="html"><![CDATA[러시아와 우크라이나의 전쟁이 끝날 조짐을 보이지 않으니 양측은 디지털 자금과 자원을 확보하기 위해 물밑 작업들을 계속해서 시도하고 있다. 기존의 은행 업무나 금융거래는 국제제재 때문에 적어도 러시아 내에서는 마비되다시피 했고, 우크라이나에서도 전시라는 사실 때문에 물리...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022년 해양선박 보안을 위한 4가지 고려사항]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=105264&amp;page=1&amp;mkind=1&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=105264&amp;page=1&amp;mkind=1&amp;kind=2"/>
-        <updated>2022-03-07T03:17:06.331Z</updated>
-        <content type="html"><![CDATA[최첨단 디지털 기술과 인공지능(AI)을 적용한 자율운항선박의 개념이 조선해양 및 해운항만 분야에 등장하면서 자율운항선박 시대 도입을 위한 보안체계 준비가 시급해졌다. 이러한 상황에 맞춰 산업계는 물론 학계에서도 해양선박 보안에 대한 연구가 이뤄지고 있는데, 한국정보보호...]]></content>
     </entry>
 </feed>
