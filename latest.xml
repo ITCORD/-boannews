@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Mar 2022 04:22:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Mar 2022 05:17:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -86,6 +86,13 @@
             <pubDate>Mon, 07 Mar 2022 09:16:22 GMT</pubDate>
             <content:encoded><![CDATA[은행의 고객들 중 ‘모바일 뱅킹’ 기능을 사용하는 사람들의 비중이 점점 높아지고 있다. 2020년 미국 기준, 모바일 장비로 은행 잔고를 확인하는 사용자는...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/bank-thumb-0307.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[주니퍼 네트웍스, 가트너 매직 쿼드런트 실내 위치 서비스 부문 리더 선정]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105318&amp;page=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105318&amp;page=1&amp;kind=3</guid>
+            <pubDate>Tue, 08 Mar 2022 05:15:03 GMT</pubDate>
+            <content:encoded><![CDATA[안전한 AI 기반 네트워크 전문업체 주니퍼 네트웍스가 ‘2022년 가트너 매직 쿼드런트(Gartner Magic Quadrant) 실내 위치 서비스 부문’...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[안랩 V3, 지난해 주요 글로벌 보안 제품 평가에서 잇따라 인증 획득]]></title>
@@ -231,13 +238,6 @@
             <pubDate>Tue, 08 Mar 2022 02:14:26 GMT</pubDate>
             <content:encoded><![CDATA[영남이공대학교(총장 이재용)는 7일 한국전력기술에서 국가정보원 지부와 함께 관·산·학 합동 사이버 보안관제 역량강화 실전훈련을 했다고 밝혔다. 이번 사이버...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/ynu_030801_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전북교육청, 개인정보 철저히 보호한다]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105302&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105302&amp;page=1&amp;kind=2</guid>
-            <pubDate>Tue, 08 Mar 2022 02:14:26 GMT</pubDate>
-            <content:encoded><![CDATA[전북도교육청이 새학기를 맞아 개인정보보호를 강화한다. 도교육청은 ‘2022년도 개인정보보호 업무 추진 계획’을 마련, 소속 기관 및 학교에 안내했다고 밝혔...]]></content:encoded>
         </item>
     </channel>
 </rss>

@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-03-08T04:22:44.331Z</updated>
+    <updated>2022-03-08T05:17:43.276Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[코인베이스, 러시아와 관련된 2만 5천 개 블록체인 주소 차단]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=105316&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=105316&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-03-08T05:15:23.496Z</updated>
+        <content type="html"><![CDATA[보안 블로그인 시큐리티어페어즈에 의하면 유명 암호화폐 거래소인 코인베이스(Coinbase)가 러시아인 및 러시아 단체들이 사용하는 블록체인 주소 2만 5천여 개를 차단한다고 발표했다고 한다. 전 세계 정부들이 시작한 대 러시아 제재에 발 맞추기 위한 움직임이라고 코인베...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FBI, “랜섬웨어 갱들이 52개 사회 기반 조직들 침해했다”]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=105315&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=105315&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-03-08T05:15:23.497Z</updated>
+        <content type="html"><![CDATA[IT 외신 블리핑컴퓨터에 의하면 FBI가 라그나록커(Ragnar Locker) 랜섬웨어에 대한 새로운 사실을 발표했다고 한다. 이 발표에 따르면 라그나록커 갱단이 침해한 미국 내 사회 기반 시설 관리 조직들의 수가 52개 이상이라고 한다. 그러면서 침해지표를 발표해 해...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[보안 업체 맨디언트 사기 위해 지갑 경쟁 시작한 기업들]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=105314&amp;page=1&amp;mkind=1&amp;kind=1</id>
@@ -109,19 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=105276&amp;page=1&amp;mkind=1&amp;kind=1"/>
         <updated>2022-03-07T09:16:43.534Z</updated>
         <content type="html"><![CDATA[많은 기업과 기관들이 사이버 위협에 노출되어 있는 만큼 그들을 보호하기 위한 사이버 보안 업체들 역시 각종 위험에 노출되어 있다. 심지어 사이버 보안 업체가 사이버 공격의 피해자가 되는 경우도 심심치 않게 발생한다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[라인, 2022년 신입 개발자 공개 채용... 보안 분야 포함]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=105275&amp;page=1&amp;mkind=1&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=105275&amp;page=1&amp;mkind=1&amp;kind=3"/>
-        <updated>2022-03-07T08:20:36.437Z</updated>
-        <content type="html"><![CDATA[글로벌 모바일 플랫폼 서비스 회사 라인플러스(LINE PLUS)와 계열사(이하 라인)는 ‘2022 SW개발 신입 라이너(LINER) 공개채용’을 시작한다. 라인과 메신저, 콘텐츠, 금융, 전자상거래와 광고, 대체불가능한 토큰(NFT: Non-Fungible Token)...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어나니머스, 러 군에 “탱크 포기하면 5만 2천 달러 준다” 제안]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=105274&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=105274&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-03-07T08:20:36.447Z</updated>
-        <content type="html"><![CDATA[핵티비스트 단체 어나니머스(Anonymous)가 러시아 군에 “탱크를 넘기면 5만 2천 달러어치의 비트코인을 주겠다”고 제안했다는 보도들이 나오고 있다. 이는 러시아 군 전체만이 아니라 군인 개개인에게도 해당되는 제안이라고 한다. 우크라이나 매체들에서 이러한 이야기가 ...]]></content>
     </entry>
 </feed>
