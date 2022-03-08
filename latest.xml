@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Mar 2022 08:21:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Mar 2022 09:17:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -86,6 +86,14 @@
             <pubDate>Mon, 07 Mar 2022 09:16:22 GMT</pubDate>
             <content:encoded><![CDATA[클라우드를 ‘그린’ 기술로 이해하는 사람들이 점점 많아지고 있다. 클라우드 업체의 서비스를 이용하면 회사들이 저마다 서버실을 운영하는 것보다 친환경적일 거...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/clo-thumb-0306.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아이쓰리시스템, 열화상 카메라로 신속하고 안전한 설비관리 솔루션 제시]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105321&amp;page=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105321&amp;page=1&amp;kind=3</guid>
+            <pubDate>Tue, 08 Mar 2022 09:15:12 GMT</pubDate>
+            <content:encoded><![CDATA[국내 적외선센서 전문기업 아이쓰리시스템이 3월 17일부터 19일까지 강남구 삼성동 코엑스(COEX) C홀에서 열리는 2022 한국전기산업대전/한국발전산업전...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/22030803ss.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[정보보호 스타트업 발굴·육성에서 해외진출까지 지원한다]]></title>
@@ -231,13 +239,6 @@
             <pubDate>Tue, 08 Mar 2022 02:14:26 GMT</pubDate>
             <content:encoded><![CDATA[한국전자통신연구원(ETRI)은 ‘ETRI 국방기술 백서 2022’를 발간했다고 밝혔다. 올해 최초로 발간된 국방기술 백서에는 ETRI 보유 기술 중 국방 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/3-97(295).jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[부산시, 블록체인 기반 보세운송 디지털 전환 지원]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105300&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105300&amp;page=1&amp;kind=2</guid>
-            <pubDate>Tue, 08 Mar 2022 02:14:26 GMT</pubDate>
-            <content:encoded><![CDATA[부산시는 부산지역의 보세구역 이용자와 보세운송업자를 지원하기 위해 블록체인 기술을 적용해 ‘블록체인 기반 보세운송 차량 자격 관리 및 검증 플랫폼’을 개발...]]></content:encoded>
         </item>
     </channel>
 </rss>
