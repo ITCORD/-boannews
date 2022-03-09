@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-03-09T12:28:57.120Z</updated>
+    <updated>2022-03-09T13:22:31.109Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[경찰 지리적 범죄분석 시스템에 TMAP 지도 기술 탑재한다]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=105325&amp;page=1&amp;mkind=1&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=105325&amp;page=1&amp;mkind=1&amp;kind=2"/>
+        <updated>2022-03-09T13:20:51.533Z</updated>
+        <content type="html"><![CDATA[경찰청은 티맵모빌리티와 지난 7일 첨단 길찾기 기술을 융합한 과학적 경찰 활동 지원을 위해 업무 협약을 체결했다. 이번 업무협약에 따라 TMAP에서 제공하는 실시간 교통정보와 길찾기 기능을 지리적 범죄분석 시스템(GeoPros)에서 활용할 수 있어, 더욱 효율적인 분석...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[다크웹내 최대 해킹 거래시장 ‘레이드포럼’ 폐쇄? 현재 접속 불가]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=105320&amp;page=1&amp;mkind=1&amp;kind=1</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=105304&amp;page=1&amp;mkind=1&amp;kind=2"/>
         <updated>2022-03-08T02:14:47.422Z</updated>
         <content type="html"><![CDATA[◇국장급 승진 △성과평가정책국장 오대현 (吳大鉉, 연구예산총괄과장) △우정사업본부 경북지방우정청장 최병택 (崔炳澤, 통신정책기획과장)]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[삼성전자, 사내공지로 해킹 시인... 국정원, 공공기관 피해 가능성 여부 조사]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=105280&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=105280&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-03-08T00:59:41.369Z</updated>
-        <content type="html"><![CDATA[삼성전자가 7일 오후 사내공지를 통해 해킹 공격을 당한 것을 인정하고, 임직원 및 고객의 개인정보가 유출된 것은 없다고 밝혔다. 지난 주말 해외 해킹그룹 ‘랩서스(LAPSUS$)’가 삼성전자를 공격했다며 관련 정보를 공개한 것을 사실상 시인한 것이다.]]></content>
     </entry>
 </feed>

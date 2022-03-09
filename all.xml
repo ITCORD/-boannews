@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Mar 2022 12:28:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Mar 2022 13:22:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[점점 고립되는 러시아, 정보통신망도 가닥가닥 끊어지고 있어 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105335&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105335&amp;page=1&amp;kind=1</guid>
+            <pubDate>Wed, 09 Mar 2022 13:20:34 GMT</pubDate>
+            <content:encoded><![CDATA[러시아를 경제적으로 고립시키려는 국제적인 움직임이 이어지고 있는 가운데, 러시아의 통신망을 고립시키려는 시도도 발현되고 있다. 이는 클라우드 서비스로의 접...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/cut-thumb-0309.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[러시아-우크라이나 전쟁이 사이버 공간에 미치는 영향 (보안뉴스 ─ 전체기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105334&amp;page=1&amp;kind=1</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 08 Mar 2022 03:16:55 GMT</pubDate>
             <content:encoded><![CDATA[보안 외신 쓰레트포스트에 의하면 해킹 단체 랩서스(Lapsus$)가 2월 23일 엔비디아로부터 1TB에 달하는 정보들을 훔쳐냈는데, 그 중에 코드 서명 인...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/sign-thumb-0308.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한국도로공사 통행료 납부 안내문? 네이버 계정 탈취 위한 피싱 메일 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105311&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105311&amp;page=1&amp;kind=1</guid>
-            <pubDate>Tue, 08 Mar 2022 03:16:55 GMT</pubDate>
-            <content:encoded><![CDATA[지난 3일부터 한국도로공사 통행료 납부를 위장한 피싱 메일이 대량으로 유포되고 있어 사용자들의 주의가 필요하다. 해당 피싱 메일은 ‘회원님께 도착한 새 전...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220310_report-S.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[무심코 던진 담뱃불, 재난의 시작이 된다 (보안뉴스 ─ 전체기사)]]></title>
@@ -187,6 +187,14 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/ahn_030801_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[한국도로공사 통행료 납부 안내문? 네이버 계정 탈취 위한 피싱 메일 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105311&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105311&amp;page=1&amp;kind=1</guid>
+            <pubDate>Tue, 08 Mar 2022 03:16:55 GMT</pubDate>
+            <content:encoded><![CDATA[지난 3일부터 한국도로공사 통행료 납부를 위장한 피싱 메일이 대량으로 유포되고 있어 사용자들의 주의가 필요하다. 해당 피싱 메일은 ‘회원님께 도착한 새 전...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220310_report-S.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
             <title><![CDATA[화웨이, 최적의 에너지 효율 및 성능을 제공하는 세계 최초의 ‘기가 그린 사이트’ 공개 (보안뉴스 ─ 전체기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105310&amp;page=1&amp;kind=3</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105310&amp;page=1&amp;kind=3</guid>
@@ -228,14 +236,6 @@
             <guid>https://www.boannews.com/media/view.asp?idx=105283&amp;page=1&amp;kind=2</guid>
             <pubDate>Tue, 08 Mar 2022 02:14:26 GMT</pubDate>
             <content:encoded><![CDATA[세상에서 가장 안전한 바닷길을 만들기 위해 한국해양교통안전공단(KOMSA)이 다시 한 번 돛대를 올렸다. 공단은 어선의 안전성을 확인하기 위해 어선의 선체...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[국기연, 초소형 군집 로봇 패키지 과제 착수 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105290&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105290&amp;page=1&amp;kind=2</guid>
-            <pubDate>Tue, 08 Mar 2022 02:14:26 GMT</pubDate>
-            <content:encoded><![CDATA[국방기술진흥연구소는 지난 7일 ‘초소형 지상로봇 군집운용 통제기술’ 무기체계 패키지형 핵심 기술 과제 착수회의를 개최했다. 본 과제는 초소형 로봇이 적진에...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/3-88(295).jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[삼성 갤럭시 스마트폰, 3연속 악재 터졌다! 치팅 → 백도어 → 해킹 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
@@ -374,14 +374,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/fotinet_030301_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[서울여대 정보보호동아리 SWING, ‘2021 Security Magazine’ 발간 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105201&amp;page=1&amp;kind=5&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105201&amp;page=1&amp;kind=5&amp;search=title&amp;find=</guid>
-            <pubDate>Wed, 09 Mar 2022 05:37:47 GMT</pubDate>
-            <content:encoded><![CDATA[서울여대 정보보호동아리 ‘SWING(스윙)’이 동아리 멘토 역할을 하고 있는 김종민 삼성전자 DS정보보호센터 전문연구원의 지도로 ‘2021 Security Mag...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220303swing-sm.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
             <title><![CDATA[다크웹내 최대 해킹 거래시장 ‘레이드포럼’ 폐쇄? 현재 접속 불가 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105320&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105320&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
@@ -390,11 +382,26 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/21743217_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[서울여대 정보보호동아리 SWING, ‘2021 Security Magazine’ 발간 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105201&amp;page=1&amp;kind=5&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105201&amp;page=1&amp;kind=5&amp;search=title&amp;find=</guid>
+            <pubDate>Wed, 09 Mar 2022 05:37:47 GMT</pubDate>
+            <content:encoded><![CDATA[서울여대 정보보호동아리 ‘SWING(스윙)’이 동아리 멘토 역할을 하고 있는 김종민 삼성전자 DS정보보호센터 전문연구원의 지도로 ‘2021 Security Mag...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220303swing-sm.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
             <title><![CDATA[경남도, 역주행 위험 교차로 사고 예방 대책 수립 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105258&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105258&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
             <pubDate>Wed, 09 Mar 2022 09:15:48 GMT</pubDate>
             <content:encoded><![CDATA[경남도는 도에서 관리하는 지방도·위임국도를 대상으로 운전자의 시인성 혼란을 초래하거나 차량 역주행 진입이 발생할 수 있는 교차로·터널 등에 대한 역주행 사고 예방...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[경찰 지리적 범죄분석 시스템에 TMAP 지도 기술 탑재한다 (보안뉴스 ─ SECURITY)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105325&amp;page=1&amp;mkind=1&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105325&amp;page=1&amp;mkind=1&amp;kind=2</guid>
+            <pubDate>Wed, 09 Mar 2022 13:20:51 GMT</pubDate>
+            <content:encoded><![CDATA[경찰청은 티맵모빌리티와 지난 7일 첨단 길찾기 기술을 융합한 과학적 경찰 활동 지원을 위해 업무 협약을 체결했다. 이번 업무협약에 따라 TMAP에서 제공하는 실시간 교통정보와 길찾기 기능을 지리적 범죄분석 시스템(GeoPros)에서 활용할 수 있어, 더욱 효율적인 분석...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[다크웹내 최대 해킹 거래시장 ‘레이드포럼’ 폐쇄? 현재 접속 불가 (보안뉴스 ─ SECURITY)]]></title>
@@ -507,13 +514,6 @@
             <guid>https://www.boannews.com/media/view.asp?idx=105304&amp;page=1&amp;mkind=1&amp;kind=2</guid>
             <pubDate>Tue, 08 Mar 2022 02:14:47 GMT</pubDate>
             <content:encoded><![CDATA[◇국장급 승진 △성과평가정책국장 오대현 (吳大鉉, 연구예산총괄과장) △우정사업본부 경북지방우정청장 최병택 (崔炳澤, 통신정책기획과장)]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[삼성전자, 사내공지로 해킹 시인... 국정원, 공공기관 피해 가능성 여부 조사 (보안뉴스 ─ SECURITY)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105280&amp;page=1&amp;mkind=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105280&amp;page=1&amp;mkind=1&amp;kind=1</guid>
-            <pubDate>Tue, 08 Mar 2022 00:59:41 GMT</pubDate>
-            <content:encoded><![CDATA[삼성전자가 7일 오후 사내공지를 통해 해킹 공격을 당한 것을 인정하고, 임직원 및 고객의 개인정보가 유출된 것은 없다고 밝혔다. 지난 주말 해외 해킹그룹 ‘랩서스(LAPSUS$)’가 삼성전자를 공격했다며 관련 정보를 공개한 것을 사실상 시인한 것이다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[KT, AI 코딩블록 IoT 키트로 소프트웨어 학습한다 (보안뉴스 ─ IT)]]></title>
@@ -1890,6 +1890,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/RESIZEgisul20220104.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[점점 고립되는 러시아, 정보통신망도 가닥가닥 끊어지고 있어 (보안뉴스 ─ 국제)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105335&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105335&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
+            <pubDate>Wed, 09 Mar 2022 13:22:03 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/view.asp?idx=105335&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
+					
+					<img src="/media/upFiles2/2022/03/cut-thumb-0309.jpg" alt="" class="news_img" height="70">
+					
+					<span class="news_txt">점점 고립되는 러시아, 정보통신망도 가닥가닥 끊어지고 있어</span>
+					</a><br>
+					<a href="/media/view.asp?idx=105335&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">러시아를 경제적으로 고립시키려는 국제적인 움직임이 이어지고 있는 가운데, 러시아의 통신망을 고립시키려는 시도도 발현되고 있다. 이는 클라우드 서비스로의 접근까지도...</a> <span class="news_writer">문가용 기자 | 2022년 03월 09일 22:18</span>]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/cut-thumb-0309.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[러시아-우크라이나 전쟁이 사이버 공간에 미치는 영향 (보안뉴스 ─ 국제)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105334&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105334&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
@@ -2154,20 +2168,6 @@
 					</a><br>
 					<a href="/media/view.asp?idx=105236&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">유명 칩셋 제조사인 엔비디아(NVIDIA)에서 네트워크 침해 사건이 발생했다고 이번 주 화요일에 발표됐었다. 그리고 오늘 이 공격을 성공시킨 것으로 보이는 해커들...</a> <span class="news_writer">문가용 기자 | 2022년 03월 04일 11:38</span>]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/chip-thumb-0304.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[난리 난 러시아 사이버 공간, 각종 데이터 유출되고 있어 (보안뉴스 ─ 국제)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105235&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105235&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
-            <pubDate>Fri, 04 Mar 2022 02:44:47 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/view.asp?idx=105235&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
-					
-					<img src="/media/upFiles2/2022/03/rus-thumb-0304.jpg" alt="" class="news_img" height="70">
-					
-					<span class="news_txt">난리 난 러시아 사이버 공간, 각종 데이터 유출되고 있어</span>
-					</a><br>
-					<a href="/media/view.asp?idx=105235&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">마치 전 세계가 러시아를 해킹하는 듯한 모습이다. 러시아와 관련된 각종 정보들이 연일 다크웹에 쏟아지는 중이라고 한다. 러시아 핵 무기 및 핵 전쟁 수행 능력과 ...</a> <span class="news_writer">문가용 기자 | 2022년 03월 04일 11:36</span>]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/rus-thumb-0304.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[통합보안 3사 에스원·SK쉴더스·KT텔레캅, 소비자의 생각과 선택은? (보안뉴스 ─ 기획특집)]]></title>
