@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 09 Mar 2022 08:21:03 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Mar 2022 09:17:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -302,14 +302,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/mic-thumb-0302.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[‘2022 정보보안 리더의 밤’ 성료... 차기정부 정보보호 정책 제안 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105164&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105164&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
-            <pubDate>Thu, 03 Mar 2022 07:15:47 GMT</pubDate>
-            <content:encoded><![CDATA[코리아사이버보안연합, 한국정보기술연구원, 더좋은나라전략포럼, 화이트햇 해커의 모임이 공동 주최·주관한 ‘2022 정보보안 리더의 밤’이 3월 2일에 CCMM 빌딩...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/night_030201_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[어나니머스, 러 군에 “탱크 포기하면 5만 2천 달러 준다” 제안 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105274&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105274&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
@@ -396,6 +388,13 @@
             <pubDate>Wed, 09 Mar 2022 05:37:47 GMT</pubDate>
             <content:encoded><![CDATA[서울여대 정보보호동아리 ‘SWING(스윙)’이 동아리 멘토 역할을 하고 있는 김종민 삼성전자 DS정보보호센터 전문연구원의 지도로 ‘2021 Security Mag...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220303swing-sm.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[경남도, 역주행 위험 교차로 사고 예방 대책 수립 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105258&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105258&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
+            <pubDate>Wed, 09 Mar 2022 09:15:48 GMT</pubDate>
+            <content:encoded><![CDATA[경남도는 도에서 관리하는 지방도·위임국도를 대상으로 운전자의 시인성 혼란을 초래하거나 차량 역주행 진입이 발생할 수 있는 교차로·터널 등에 대한 역주행 사고 예방...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[다크웹내 최대 해킹 거래시장 ‘레이드포럼’ 폐쇄? 현재 접속 불가 (보안뉴스 ─ SECURITY)]]></title>
