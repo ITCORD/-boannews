@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=2</id>
     <title>보안뉴스 ─ IT</title>
-    <updated>2022-03-08T23:18:56.432Z</updated>
+    <updated>2022-03-09T01:04:11.637Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[NHN, 공공기관 대상 클라우드 전환 사업 웨비나 개최]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=105323&amp;page=1&amp;mkind=2&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=105323&amp;page=1&amp;mkind=2&amp;kind=2"/>
+        <updated>2022-03-09T01:02:43.552Z</updated>
+        <content type="html"><![CDATA[NHN은 NHN Cloud와 NHN Dooray!가 공공 클라우드 디지털 전환의 방향성을 제시하는 웨비나를 오는 15일에 개최한다. 오후 2시부터 총 2개의 세션으로 진행되는 이번 웨비나는 정부가 추진하고 있는 공공 클라우드 전환 사업에 대한 상세한 가이드라인과 더불어...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[화웨이, 최적의 에너지 효율 및 성능을 제공하는 세계 최초의 ‘기가 그린 사이트’ 공개]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=105310&amp;page=1&amp;mkind=2&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=105310&amp;page=1&amp;mkind=2&amp;kind=3"/>
+        <updated>2022-03-09T01:02:43.553Z</updated>
+        <content type="html"><![CDATA[화웨이가 이동통신사업자(이하 이통사) 파트너와 협력해 세계 최초의 ‘기가 그린 사이트(Giga Green Site)’를 상용화한다고 발표했다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[방통위, ‘2021년 긴급구조 위치정보 품질 측정’ 결과 발표]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=105285&amp;page=1&amp;mkind=2&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=105285&amp;page=1&amp;mkind=2&amp;kind=2"/>
+        <updated>2022-03-09T01:02:43.554Z</updated>
+        <content type="html"><![CDATA[방송통신위원회는 긴급구조기관(소방청·해양경찰청) 및 경찰관서에서 긴급구조를 위해 활용되는 개인위치정보 품질을 측정한 결과, 이통3사의 긴급구조 위치성공률과 정확도가 개선된 것으로 나타났다고 밝혔다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[과기정통부, ‘디지털 혁신 기술 확보전략’ 수립 추진]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=105286&amp;page=1&amp;mkind=2&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=105286&amp;page=1&amp;mkind=2&amp;kind=2"/>
+        <updated>2022-03-09T01:02:43.561Z</updated>
+        <content type="html"><![CDATA[과학기술정보통신부는 8일 디지털 분야 혁신 기술 발굴 및 육성을 위한 전문가 검토회의를 개최하고, 디지털 대전환 가속화를 위한 ‘(가칭)디지털 혁신 기술 확보전략’ 수립을 추진한다고 밝혔다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[첨단정보기술 활용으로 인공지능 기반 미세먼지 대응 시스템 구축한다]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=105287&amp;page=1&amp;mkind=2&amp;kind=2</id>
@@ -95,33 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=105300&amp;page=1&amp;mkind=2&amp;kind=2"/>
         <updated>2022-03-08T02:14:57.944Z</updated>
         <content type="html"><![CDATA[부산시는 부산지역의 보세구역 이용자와 보세운송업자를 지원하기 위해 블록체인 기술을 적용해 ‘블록체인 기반 보세운송 차량 자격 관리 및 검증 플랫폼’을 개발한다고 밝혔다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아니오, 클라우드는 ‘그린 테크놀로지’가 아닙니다]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=105263&amp;page=1&amp;mkind=2&amp;kind=4</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=105263&amp;page=1&amp;mkind=2&amp;kind=4"/>
-        <updated>2022-03-08T02:14:57.946Z</updated>
-        <content type="html"><![CDATA[클라우드를 ‘그린’ 기술로 이해하는 사람들이 점점 많아지고 있다. 클라우드 업체의 서비스를 이용하면 회사들이 저마다 서버실을 운영하는 것보다 친환경적일 거라고 생각하는 건데, 필자는 클라우드 기술이 정말 유용하고 멋진 거라고 생각하긴 하지만 이런 생각은 큰 오해라고 분...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인터넷신문위원회, ‘인터넷신문 저널리즘 스쿨 2022’ 연간계획 발표]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=105269&amp;page=1&amp;mkind=2&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=105269&amp;page=1&amp;mkind=2&amp;kind=2"/>
-        <updated>2022-03-08T02:14:57.952Z</updated>
-        <content type="html"><![CDATA[인터넷신문위원회(위원장 민병호, 이하 인신위)는 인신위 자율규제 활동에 참여하는 서약사를 대상으로 하는 연간 교육 프로그램인 ‘인터넷신문 저널리즘 스쿨 2022’를 7일 발표했다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[인사] 폴리뉴스]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=105267&amp;page=1&amp;mkind=2&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=105267&amp;page=1&amp;mkind=2&amp;kind=3"/>
-        <updated>2022-03-08T02:14:57.954Z</updated>
-        <content type="html"><![CDATA[◇임명 △편집국장 송정훈]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[경남도, 산업 현장 AI 인재 양성 울산과학기술원과 힘 합친다]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=105256&amp;page=1&amp;mkind=2&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=105256&amp;page=1&amp;mkind=2&amp;kind=2"/>
-        <updated>2022-03-07T09:16:55.612Z</updated>
-        <content type="html"><![CDATA[경남도는 지난 4일 인공지능(AI) 노바투스 아카데미아 경남 과정 1기 개강식을 개최했다. 인공지능(AI) 노바투스 아카데미아 경남 과정은 경남도와 울산과학기술원(UNIST)이 협력해 추진하는 AI 활용 전문인력 양성 과정이다.]]></content>
     </entry>
 </feed>
