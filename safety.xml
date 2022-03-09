@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=4</id>
     <title>보안뉴스 ─ SAFETY</title>
-    <updated>2022-03-09T01:04:11.612Z</updated>
+    <updated>2022-03-09T03:19:41.396Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[SKT-평창군-서울아산병원, AI 스피커 기반 어르신 노쇠 예방 시범 사업 추진]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=105257&amp;page=1&amp;mkind=4&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=105257&amp;page=1&amp;mkind=4&amp;kind=2"/>
+        <updated>2022-03-09T03:18:11.164Z</updated>
+        <content type="html"><![CDATA[SK텔레콤이 평창군·서울아산병원 노년내과 장일영 교수 연구팀 등과 함께 AI 스피커 ‘누구’를 기반으로 어르신들의 노쇠 예방 시범 사업에 나선다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[3~4월 대형 산불 막자, ‘대형 산불 특별 대책 기간’ 총력 대응]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=105250&amp;page=1&amp;mkind=4&amp;kind=2</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=105105&amp;page=1&amp;mkind=4&amp;kind=2"/>
         <updated>2022-02-26T01:58:48.411Z</updated>
         <content type="html"><![CDATA[광진구가 1인 가구의 안전한 주거생활을 지원하는 ‘1인 가구 방범도어서비스’를 확대 시행한다. 1인 가구 방범도어서비스는 대상자에게 무료로 가정용 방범기기를 제공하고, 위험 상황 발생 시 경찰과 보안업체의 긴급 출동 서비스를 지원하는 사업이다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ETRI, 콘크리트 양생 품질 예측 모니터링 시스템 개발]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=105047&amp;page=1&amp;mkind=4&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=105047&amp;page=1&amp;mkind=4&amp;kind=2"/>
-        <updated>2022-02-26T01:58:48.412Z</updated>
-        <content type="html"><![CDATA[한국전자통신연구원(ETRI)은 건물 완공 후 인장력이나 비틀림, 진동측정 등이 가능한 광섬유 센서를 이용한 시스템을 개발하고 건설 현장 적용을 위한 시제품 제작과 실험을 진행 중이다. 올 10월경 상용화를 예정하고 있다.]]></content>
     </entry>
 </feed>
