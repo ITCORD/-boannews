@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-03-10T01:08:58.433Z</updated>
+    <updated>2022-03-10T02:47:12.396Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[마이텔 장비 사용해 디도스 공격 40억 배 증폭시키는 공격자들]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=105339&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=105339&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-03-10T02:45:31.504Z</updated>
+        <content type="html"><![CDATA[보안 외신 더해커뉴스에 의하면 마이텔(Mitel)에서 만든 통신 및 협업 시스템인 마이콜랩(MiCollab)과 마이보이스 비즈니스 엑스프레스(MiVoice Business Express) 약 2600대가 잘못된 방식으로 구축되어 있는 것이 밝혀졌다고 한다. 그러면서 발...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[러시아 정부 웹사이트 다수, 공급망 공격 통해 침해돼]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=105338&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=105338&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-03-10T02:45:31.506Z</updated>
+        <content type="html"><![CDATA[보안 전문 블로그 시큐리티어페어즈에 따르면 러시아 연방 정부 웹사이트 다수가 공급망 공격으로 침해됐다고 한다. 공격자들은 정부 기관들이 방문자의 수를 집계하는 데 사용하는 ‘통계 위젯’을 침해한 후 사이트를 변조하거나 접근을 불가능하게 만들었다. 하지만 공격 지속 시간...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[점점 고립되는 러시아, 정보통신망도 가닥가닥 끊어지고 있어]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=105335&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=105335&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-03-10T02:45:31.509Z</updated>
+        <content type="html"><![CDATA[러시아를 경제적으로 고립시키려는 국제적인 움직임이 이어지고 있는 가운데, 러시아의 통신망을 고립시키려는 시도도 발현되고 있다. 이는 클라우드 서비스로의 접근까지도 포함하고 있다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[러시아-우크라이나 전쟁이 사이버 공간에 미치는 영향]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=105334&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=105334&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-03-10T02:45:31.517Z</updated>
+        <content type="html"><![CDATA[우크라이나에서의 위기 상황이 고조되고 있으며, 러시아는 생각보다 승리를 쉽게 쟁취하지 못할 것처럼 보인다. 이 때문에 생각지도 못한 효과들이 나타나고 있다. 먼저는 난민들이 더 오랜 시간 동안 발생할 것이라는 뜻이고, 세상은 쏟아져 나오는 우크라이나인들을 어떻게든 수용...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[용인시, 전국 최초 ‘월패드 해킹’ 방지 제도 도입]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=105331&amp;page=1&amp;mkind=1&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=105331&amp;page=1&amp;mkind=1&amp;kind=2"/>
+        <updated>2022-03-10T02:45:31.519Z</updated>
+        <content type="html"><![CDATA[용인시에서 월패드를 통한 해킹을 방지하는 시스템을 도입한 아파트 단지 9곳이 건설되고 있는 것으로 확인됐다. 최근 아파트 내 월패드가 해킹돼 개인 사생활이 담긴 영상이 불법 유통되면서 사회적인 문제로 떠오른 가운데, 용인시가 전국 최초로 아파트 시공 단계에서부터 이를 ...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[경찰 지리적 범죄분석 시스템에 TMAP 지도 기술 탑재한다]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=105325&amp;page=1&amp;mkind=1&amp;kind=2</id>
@@ -88,40 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=105309&amp;page=1&amp;mkind=1&amp;kind=3"/>
         <updated>2022-03-08T03:17:14.291Z</updated>
         <content type="html"><![CDATA[영남이공대학교(총장 이재용)는 7일 한국전력기술에서 국가정보원 지부와 함께 관·산·학 합동 사이버 보안관제 역량강화 실전훈련을 했다고 밝혔다. 이번 사이버 보안관제 역량강화 훈련은 최근 공공기관을 타깃으로 한 지능형 사이버위협이 지속되는 가운데, 영남이공대학교 사이버보...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전북교육청, 개인정보 철저히 보호한다]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=105302&amp;page=1&amp;mkind=1&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=105302&amp;page=1&amp;mkind=1&amp;kind=2"/>
-        <updated>2022-03-08T03:17:14.293Z</updated>
-        <content type="html"><![CDATA[전북도교육청이 새학기를 맞아 개인정보보호를 강화한다. 도교육청은 ‘2022년도 개인정보보호 업무 추진 계획’을 마련, 소속 기관 및 학교에 안내했다고 밝혔다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인공지능 ATM이 보이스피싱 ‘그 놈’ 잡아낸다]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=105303&amp;page=1&amp;mkind=1&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=105303&amp;page=1&amp;mkind=1&amp;kind=3"/>
-        <updated>2022-03-08T03:17:14.295Z</updated>
-        <content type="html"><![CDATA[신한은행은 보이스피싱으로부터 고객들의 소중한 자산을 보호하기 위해 은행권 최초로 ‘인공지능(AI) 이상행동 탐지 ATM’을 도입한다고 밝혔다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[기업 ‘디지털 발자국’ 보호에 골치 아픈 CISO를 위한 7개 보안 트렌드]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=105308&amp;page=1&amp;mkind=1&amp;kind=4</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=105308&amp;page=1&amp;mkind=1&amp;kind=4"/>
-        <updated>2022-03-08T02:14:47.416Z</updated>
-        <content type="html"><![CDATA[보안 및 리스크 관리 리더들은 끊임없이 확장하는 현대 조직의 ‘디지털 발자국(digital footprint)’을 2022년에 나타나고 있는 위협뿐만 아니라 그 이후에도 계속해서 등장할 새로운 위협들로부터 보호하기 위해 7가지 주요 트렌드를 파악해야 한다고 가트너(Ga...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[센스톤, 시큐리티 서비스 분야 ‘올해의 스타트업’ 단독 선정]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=105307&amp;page=1&amp;mkind=1&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=105307&amp;page=1&amp;mkind=1&amp;kind=3"/>
-        <updated>2022-03-08T02:14:47.421Z</updated>
-        <content type="html"><![CDATA[국내 인증 보안 전문기업 센스톤(대표 유창훈)의 글로벌 헤드쿼터 swIDch(스위치)가 ‘제18회 사이버시큐리티 글로벌 엑셀런스 어워드(Cyber Security Global Excellence Award)’에서 시큐리티 서비스 분야의 최고의 스타트업에게 수여하는 금상...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[인사] 과학기술정보통신부]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=105304&amp;page=1&amp;mkind=1&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=105304&amp;page=1&amp;mkind=1&amp;kind=2"/>
-        <updated>2022-03-08T02:14:47.422Z</updated>
-        <content type="html"><![CDATA[◇국장급 승진 △성과평가정책국장 오대현 (吳大鉉, 연구예산총괄과장) △우정사업본부 경북지방우정청장 최병택 (崔炳澤, 통신정책기획과장)]]></content>
     </entry>
 </feed>

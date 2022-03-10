@@ -4,9 +4,49 @@
         <title>보안뉴스 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Mar 2022 01:08:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Mar 2022 02:47:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[미국 재무부, “러시아가 랜섬웨어 활용해 제재 피해갈 수 있다”]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105342&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105342&amp;page=1&amp;kind=1</guid>
+            <pubDate>Thu, 10 Mar 2022 02:45:13 GMT</pubDate>
+            <content:encoded><![CDATA[보안 외신 블리핑컴퓨터에 의하면 러시아가 국제 제재를 피하기 위해 랜섬웨어를 적극 활용할 수 있다는 경고가 미국 재무부로부터 나왔다고 한다. 주류 금융망으...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/econo-thumb-00310.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[지멘스, 서드파티 요소들에 영향 주는 취약점 90개 넘게 패치해]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105341&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105341&amp;page=1&amp;kind=1</guid>
+            <pubDate>Thu, 10 Mar 2022 02:45:13 GMT</pubDate>
+            <content:encoded><![CDATA[보안 외신 시큐리티위크에 의하면 지멘스가 고객들을 위해 15개의 새로운 보안 권고문을 발표했다고 한다. 그러면서 100개가 넘는 취약점들을 다뤘는데, 이 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/pat-thbm-0310.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[중국의 APT 해커들, 로그4j 익스플로잇 해 미국 정부 네트워크에 침투]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105340&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105340&amp;page=1&amp;kind=1</guid>
+            <pubDate>Thu, 10 Mar 2022 02:45:13 GMT</pubDate>
+            <content:encoded><![CDATA[보안 외신 쓰레트포스트에 의하면 중국의 해킹 단체인 APT41이 미국 주 정부 네트워크 최소 6개에 침투한 사실이 공개됐다고 한다. 이들은 미국 농업 종사...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/live-thumb-00310.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[마이텔 장비 사용해 디도스 공격 40억 배 증폭시키는 공격자들]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105339&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105339&amp;page=1&amp;kind=1</guid>
+            <pubDate>Thu, 10 Mar 2022 02:45:13 GMT</pubDate>
+            <content:encoded><![CDATA[보안 외신 더해커뉴스에 의하면 마이텔(Mitel)에서 만든 통신 및 협업 시스템인 마이콜랩(MiCollab)과 마이보이스 비즈니스 엑스프레스(MiVoice...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/ddos-thumb-0310.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[러시아 정부 웹사이트 다수, 공급망 공격 통해 침해돼]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105338&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105338&amp;page=1&amp;kind=1</guid>
+            <pubDate>Thu, 10 Mar 2022 02:45:13 GMT</pubDate>
+            <content:encoded><![CDATA[보안 전문 블로그 시큐리티어페어즈에 따르면 러시아 연방 정부 웹사이트 다수가 공급망 공격으로 침해됐다고 한다. 공격자들은 정부 기관들이 방문자의 수를 집계...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/krem-thumb-0310.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[점점 고립되는 러시아, 정보통신망도 가닥가닥 끊어지고 있어]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105335&amp;page=1&amp;kind=1</link>
@@ -48,44 +88,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/21743217_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[테라마스터 NAS에서 치명적인 보안 취약점 발견돼]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105317&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105317&amp;page=1&amp;kind=1</guid>
-            <pubDate>Tue, 08 Mar 2022 03:16:55 GMT</pubDate>
-            <content:encoded><![CDATA[보안 외신 해커뉴스에 의하면 테라마스터(TerraMaster)에서 출시한 NAS 장비들에서 여러 개의 초고위험도 취약점들이 발견됐다고 한다. 연쇄적으로 익...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/stor-thumb-0308.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[슈프리마 신임 북미 법인장 임명]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105337&amp;page=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105337&amp;page=1&amp;kind=3</guid>
+            <pubDate>Thu, 10 Mar 2022 02:45:13 GMT</pubDate>
+            <content:encoded><![CDATA[바이오인식 및통합보안전문기업슈프리마(대표 이재원, 김한철)가 유럽 및 중동·아프리카 시장 점유율 1위에 이어, 북미 시장 공략을 위한 신임 북미 법인장을 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/22031002ss.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[코인베이스, 러시아와 관련된 2만 5천 개 블록체인 주소 차단]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105316&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105316&amp;page=1&amp;kind=1</guid>
-            <pubDate>Tue, 08 Mar 2022 03:16:55 GMT</pubDate>
-            <content:encoded><![CDATA[보안 블로그인 시큐리티어페어즈에 의하면 유명 암호화폐 거래소인 코인베이스(Coinbase)가 러시아인 및 러시아 단체들이 사용하는 블록체인 주소 2만 5천...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/cryp-thumb-0308.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[FBI, “랜섬웨어 갱들이 52개 사회 기반 조직들 침해했다”]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105315&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105315&amp;page=1&amp;kind=1</guid>
-            <pubDate>Tue, 08 Mar 2022 03:16:55 GMT</pubDate>
-            <content:encoded><![CDATA[IT 외신 블리핑컴퓨터에 의하면 FBI가 라그나록커(Ragnar Locker) 랜섬웨어에 대한 새로운 사실을 발표했다고 한다. 이 발표에 따르면 라그나록커...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/ransom-thumb-0308.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[보안 업체 맨디언트 사기 위해 지갑 경쟁 시작한 기업들]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105314&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105314&amp;page=1&amp;kind=1</guid>
-            <pubDate>Tue, 08 Mar 2022 03:16:55 GMT</pubDate>
-            <content:encoded><![CDATA[보안 외신 시큐리티위크에 의하면 보안 업체 맨디언트(Mandiant)에 대한 대기업들의 관심이 뜨겁다고 한다. 약 한 달 전에는 마이크로소프트가 40억 달...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/auc-thumb-0308.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[도난당했던 엔비디아 코드 서명 인증서, 멀웨어 서명해]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105313&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105313&amp;page=1&amp;kind=1</guid>
-            <pubDate>Tue, 08 Mar 2022 03:16:55 GMT</pubDate>
-            <content:encoded><![CDATA[보안 외신 쓰레트포스트에 의하면 해킹 단체 랩서스(Lapsus$)가 2월 23일 엔비디아로부터 1TB에 달하는 정보들을 훔쳐냈는데, 그 중에 코드 서명 인...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/sign-thumb-0308.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[슈프리마아이디, 에티오피아 시작으로 아프리카 eKYC시장 본격 진출 나서]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105336&amp;page=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105336&amp;page=1&amp;kind=3</guid>
+            <pubDate>Thu, 10 Mar 2022 02:45:13 GMT</pubDate>
+            <content:encoded><![CDATA[디지털 아이디 솔루션 전문기업 슈프리마아이디(대표이사 박보건)는 본격적인 아프리카 eKYC(electronic Know Your Customer) 시장 진...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/22031001ss.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[무심코 던진 담뱃불, 재난의 시작이 된다]]></title>
@@ -179,63 +195,52 @@
             <content:encoded><![CDATA[안전한 AI 기반 네트워크 전문업체 주니퍼 네트웍스가 ‘2022년 가트너 매직 쿼드런트(Gartner Magic Quadrant) 실내 위치 서비스 부문’...]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[테라마스터 NAS에서 치명적인 보안 취약점 발견돼]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105317&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105317&amp;page=1&amp;kind=1</guid>
+            <pubDate>Tue, 08 Mar 2022 03:16:55 GMT</pubDate>
+            <content:encoded><![CDATA[보안 외신 해커뉴스에 의하면 테라마스터(TerraMaster)에서 출시한 NAS 장비들에서 여러 개의 초고위험도 취약점들이 발견됐다고 한다. 연쇄적으로 익...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/stor-thumb-0308.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[코인베이스, 러시아와 관련된 2만 5천 개 블록체인 주소 차단]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105316&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105316&amp;page=1&amp;kind=1</guid>
+            <pubDate>Tue, 08 Mar 2022 03:16:55 GMT</pubDate>
+            <content:encoded><![CDATA[보안 블로그인 시큐리티어페어즈에 의하면 유명 암호화폐 거래소인 코인베이스(Coinbase)가 러시아인 및 러시아 단체들이 사용하는 블록체인 주소 2만 5천...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/cryp-thumb-0308.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[FBI, “랜섬웨어 갱들이 52개 사회 기반 조직들 침해했다”]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105315&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105315&amp;page=1&amp;kind=1</guid>
+            <pubDate>Tue, 08 Mar 2022 03:16:55 GMT</pubDate>
+            <content:encoded><![CDATA[IT 외신 블리핑컴퓨터에 의하면 FBI가 라그나록커(Ragnar Locker) 랜섬웨어에 대한 새로운 사실을 발표했다고 한다. 이 발표에 따르면 라그나록커...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/ransom-thumb-0308.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[보안 업체 맨디언트 사기 위해 지갑 경쟁 시작한 기업들]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105314&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105314&amp;page=1&amp;kind=1</guid>
+            <pubDate>Tue, 08 Mar 2022 03:16:55 GMT</pubDate>
+            <content:encoded><![CDATA[보안 외신 시큐리티위크에 의하면 보안 업체 맨디언트(Mandiant)에 대한 대기업들의 관심이 뜨겁다고 한다. 약 한 달 전에는 마이크로소프트가 40억 달...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/auc-thumb-0308.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[도난당했던 엔비디아 코드 서명 인증서, 멀웨어 서명해]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105313&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105313&amp;page=1&amp;kind=1</guid>
+            <pubDate>Tue, 08 Mar 2022 03:16:55 GMT</pubDate>
+            <content:encoded><![CDATA[보안 외신 쓰레트포스트에 의하면 해킹 단체 랩서스(Lapsus$)가 2월 23일 엔비디아로부터 1TB에 달하는 정보들을 훔쳐냈는데, 그 중에 코드 서명 인...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/sign-thumb-0308.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[안랩 V3, 지난해 주요 글로벌 보안 제품 평가에서 잇따라 인증 획득]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105312&amp;page=1&amp;kind=3</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105312&amp;page=1&amp;kind=3</guid>
             <pubDate>Tue, 08 Mar 2022 03:16:55 GMT</pubDate>
             <content:encoded><![CDATA[안랩(대표 강석균)의 PC용 백신 솔루션 V3가 지난해 주요 글로벌 보안제품 평가에서 인증 및 수상을 이어가며 기술력을 인정받고 있다.]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/ahn_030801_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한국도로공사 통행료 납부 안내문? 네이버 계정 탈취 위한 피싱 메일]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105311&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105311&amp;page=1&amp;kind=1</guid>
-            <pubDate>Tue, 08 Mar 2022 03:16:55 GMT</pubDate>
-            <content:encoded><![CDATA[지난 3일부터 한국도로공사 통행료 납부를 위장한 피싱 메일이 대량으로 유포되고 있어 사용자들의 주의가 필요하다. 해당 피싱 메일은 ‘회원님께 도착한 새 전...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220310_report-S.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[화웨이, 최적의 에너지 효율 및 성능을 제공하는 세계 최초의 ‘기가 그린 사이트’ 공개]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105310&amp;page=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105310&amp;page=1&amp;kind=3</guid>
-            <pubDate>Tue, 08 Mar 2022 03:16:55 GMT</pubDate>
-            <content:encoded><![CDATA[화웨이가 이동통신사업자(이하 이통사) 파트너와 협력해 세계 최초의 ‘기가 그린 사이트(Giga Green Site)’를 상용화한다고 발표했다.]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/huawei_030801_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[방통위, ‘2021년 긴급구조 위치정보 품질 측정’ 결과 발표]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105285&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105285&amp;page=1&amp;kind=2</guid>
-            <pubDate>Tue, 08 Mar 2022 03:16:55 GMT</pubDate>
-            <content:encoded><![CDATA[방송통신위원회는 긴급구조기관(소방청·해양경찰청) 및 경찰관서에서 긴급구조를 위해 활용되는 개인위치정보 품질을 측정한 결과, 이통3사의 긴급구조 위치성공률과...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[과기정통부, ‘디지털 혁신 기술 확보전략’ 수립 추진]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105286&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105286&amp;page=1&amp;kind=2</guid>
-            <pubDate>Tue, 08 Mar 2022 03:16:55 GMT</pubDate>
-            <content:encoded><![CDATA[과학기술정보통신부는 8일 디지털 분야 혁신 기술 발굴 및 육성을 위한 전문가 검토회의를 개최하고, 디지털 대전환 가속화를 위한 ‘(가칭)디지털 혁신 기술 ...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[첨단정보기술 활용으로 인공지능 기반 미세먼지 대응 시스템 구축한다]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105287&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105287&amp;page=1&amp;kind=2</guid>
-            <pubDate>Tue, 08 Mar 2022 03:16:55 GMT</pubDate>
-            <content:encoded><![CDATA[인공지능을 기반으로 한 미세먼지 대응 시스템 구축, 재난상황 공유·관리 플랫폼 운영 등 첨단정보기술을 활용한 공공서비스 사업이 시행된다. 행정안전부는 올해...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[산업부, ‘산업 디지털 전환 추진단’ 출범]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105288&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105288&amp;page=1&amp;kind=2</guid>
-            <pubDate>Tue, 08 Mar 2022 02:14:26 GMT</pubDate>
-            <content:encoded><![CDATA[산업통상자원부는 산업 부문의 디지털 전환 확산을 위한 체계적인 정책 추진을 위해 지난 7일 전담조직인 ‘산업 디지털 전환 추진단’을 출범했다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[KOMSA, 빅데이터 기반 어선 검사 실시해 실질적인 사고 예방 기대]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105283&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105283&amp;page=1&amp;kind=2</guid>
-            <pubDate>Tue, 08 Mar 2022 02:14:26 GMT</pubDate>
-            <content:encoded><![CDATA[세상에서 가장 안전한 바닷길을 만들기 위해 한국해양교통안전공단(KOMSA)이 다시 한 번 돛대를 올렸다. 공단은 어선의 안전성을 확인하기 위해 어선의 선체...]]></content:encoded>
         </item>
     </channel>
 </rss>
