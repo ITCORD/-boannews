@@ -4,9 +4,17 @@
         <title>보안뉴스 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Mar 2022 07:17:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Mar 2022 08:21:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[보안 팀을 괴롭히는 ‘나쁜 보안 팀장’의 10가지 특징]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105351&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105351&amp;page=1&amp;kind=1</guid>
+            <pubDate>Thu, 10 Mar 2022 08:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[인력의 소모와 ‘번아웃’은 어느 산업, 어느 회사에서나 걱정이 될 수밖에 없는 변수다. 사이버 보안은 이런 면에서의 ‘염려’가 가장 큰 분야 중 하나라고 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/lead-thumb-0310.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Weekly Security Premium Report 제41호 발간! 재택근무 보안 솔루션 ‘SASE’ 집중탐구]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105348&amp;page=1&amp;kind=3</link>
@@ -80,12 +88,12 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/live-thumb-00310.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[마이텔 장비 사용해 디도스 공격 40억 배 증폭시키는 공격자들]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105339&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105339&amp;page=1&amp;kind=1</guid>
-            <pubDate>Thu, 10 Mar 2022 02:45:13 GMT</pubDate>
-            <content:encoded><![CDATA[보안 외신 더해커뉴스에 의하면 마이텔(Mitel)에서 만든 통신 및 협업 시스템인 마이콜랩(MiCollab)과 마이보이스 비즈니스 엑스프레스(MiVoice...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/ddos-thumb-0310.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[시큐브, 생체정보 기반의 전자서명 인증 시스템 관련 일본 특허 취득]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105350&amp;page=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105350&amp;page=1&amp;kind=3</guid>
+            <pubDate>Thu, 10 Mar 2022 08:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[시큐브(대표이사 이규호)가 생체정보 기반의 전자서명 인증 시스템 및 그의 전자서명 인증 방법에 관한 일본 특허 취득을 10일 공시했다고 밝혔다.]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/22031004ss.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[안랩, 사내 카페 일회용컵 사용량 대폭 감소]]></title>
@@ -110,6 +118,14 @@
             <pubDate>Thu, 10 Mar 2022 03:20:07 GMT</pubDate>
             <content:encoded><![CDATA[한국화웨이는 특별재난지역으로 선포된 경북 울진과 강원 삼척 등지의 산불 피해 복구와 이재민 지원을 위한 기부에 동참했다. 경북 울진과 강원도 삼척, 강릉 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/22031003ss.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[마이텔 장비 사용해 디도스 공격 40억 배 증폭시키는 공격자들]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105339&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105339&amp;page=1&amp;kind=1</guid>
+            <pubDate>Thu, 10 Mar 2022 02:45:13 GMT</pubDate>
+            <content:encoded><![CDATA[보안 외신 더해커뉴스에 의하면 마이텔(Mitel)에서 만든 통신 및 협업 시스템인 마이콜랩(MiCollab)과 마이보이스 비즈니스 엑스프레스(MiVoice...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/ddos-thumb-0310.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[러시아 정부 웹사이트 다수, 공급망 공격 통해 침해돼]]></title>
@@ -226,22 +242,6 @@
             <guid>https://www.boannews.com/media/view.asp?idx=105324&amp;page=1&amp;kind=2</guid>
             <pubDate>Wed, 09 Mar 2022 01:02:18 GMT</pubDate>
             <content:encoded><![CDATA[정부는 3D프린팅 이용자가 유해물질 방출이 적은 장비·소재를 안전한 방법으로 이용하는 작업환경을 조성하기 위해 관계 부처 합동으로 ‘3D프린팅 안전 강화 ...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[NHN, 공공기관 대상 클라우드 전환 사업 웨비나 개최]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105323&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105323&amp;page=1&amp;kind=2</guid>
-            <pubDate>Wed, 09 Mar 2022 01:02:18 GMT</pubDate>
-            <content:encoded><![CDATA[NHN은 NHN Cloud와 NHN Dooray!가 공공 클라우드 디지털 전환의 방향성을 제시하는 웨비나를 오는 15일에 개최한다. 오후 2시부터 총 2개...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/3-96(295).jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아이쓰리시스템, 열화상 카메라로 신속하고 안전한 설비관리 솔루션 제시]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105321&amp;page=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105321&amp;page=1&amp;kind=3</guid>
-            <pubDate>Tue, 08 Mar 2022 09:15:12 GMT</pubDate>
-            <content:encoded><![CDATA[국내 적외선센서 전문기업 아이쓰리시스템이 3월 17일부터 19일까지 강남구 삼성동 코엑스(COEX) C홀에서 열리는 2022 한국전기산업대전/한국발전산업전...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/22030803ss.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

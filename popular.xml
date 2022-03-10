@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Mar 2022 07:17:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Mar 2022 08:21:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -80,14 +80,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/21743217_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Weekly Security Premium Report 제40호 발간! 사이버전쟁 시대의 사이버보험 산업 분석]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105203&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105203&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
-            <pubDate>Sun, 06 Mar 2022 06:18:43 GMT</pubDate>
-            <content:encoded><![CDATA[3월 3일 발간된 ‘Weekly Security Premium Report’ 제40호에는 &lt;보안 심층 리포트&gt; 코너에서 사이버 전쟁이 일상으로 들어오면...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220303REPORT-SM.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
             <title><![CDATA[2022년 해양선박 보안을 위한 4가지 고려사항]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105264&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105264&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
@@ -144,14 +136,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/fotinet_030301_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[테라마스터 NAS에서 치명적인 보안 취약점 발견돼]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105317&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105317&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Thu, 10 Mar 2022 02:45:22 GMT</pubDate>
-            <content:encoded><![CDATA[보안 외신 해커뉴스에 의하면 테라마스터(TerraMaster)에서 출시한 NAS 장비들에서 여러 개의 초고위험도 취약점들이 발견됐다고 한다. 연쇄적으로 익스플로잇...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/stor-thumb-0308.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[한국도로공사 통행료 납부 안내문? 네이버 계정 탈취 위한 피싱 메일]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105311&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105311&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
@@ -160,12 +144,27 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220310_report-S.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
+            <title><![CDATA[테라마스터 NAS에서 치명적인 보안 취약점 발견돼]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105317&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105317&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Thu, 10 Mar 2022 02:45:22 GMT</pubDate>
+            <content:encoded><![CDATA[보안 외신 해커뉴스에 의하면 테라마스터(TerraMaster)에서 출시한 NAS 장비들에서 여러 개의 초고위험도 취약점들이 발견됐다고 한다. 연쇄적으로 익스플로잇...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/stor-thumb-0308.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[용인시, 전국 최초 ‘월패드 해킹’ 방지 제도 도입]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105331&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105331&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
             <pubDate>Thu, 10 Mar 2022 06:19:42 GMT</pubDate>
             <content:encoded><![CDATA[용인시에서 월패드를 통한 해킹을 방지하는 시스템을 도입한 아파트 단지 9곳이 건설되고 있는 것으로 확인됐다. 최근 아파트 내 월패드가 해킹돼 개인 사생활이 담긴 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/3-104(295).jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[경남도, 역주행 위험 교차로 사고 예방 대책 수립]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105258&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105258&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
+            <pubDate>Thu, 10 Mar 2022 08:19:47 GMT</pubDate>
+            <content:encoded><![CDATA[경남도는 도에서 관리하는 지방도·위임국도를 대상으로 운전자의 시인성 혼란을 초래하거나 차량 역주행 진입이 발생할 수 있는 교차로·터널 등에 대한 역주행 사고 예방...]]></content:encoded>
         </item>
     </channel>
 </rss>
