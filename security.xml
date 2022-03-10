@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-03-10T02:47:12.396Z</updated>
+    <updated>2022-03-10T03:22:31.974Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[중국의 APT 해커들, 로그4j 익스플로잇 해 미국 정부 네트워크에 침투]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=105340&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=105340&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-03-10T03:20:30.884Z</updated>
+        <content type="html"><![CDATA[보안 외신 쓰레트포스트에 의하면 중국의 해킹 단체인 APT41이 미국 주 정부 네트워크 최소 6개에 침투한 사실이 공개됐다고 한다. 이들은 미국 농업 종사자들이 가축들 사이에서 유행하는 전염병을 보다 빨리 알아채고 전파하기 위해 사용하는 앱인 USAHerds의 로그4j...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[마이텔 장비 사용해 디도스 공격 40억 배 증폭시키는 공격자들]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=105339&amp;page=1&amp;mkind=1&amp;kind=1</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=105311&amp;page=1&amp;mkind=1&amp;kind=1"/>
         <updated>2022-03-08T03:17:14.288Z</updated>
         <content type="html"><![CDATA[지난 3일부터 한국도로공사 통행료 납부를 위장한 피싱 메일이 대량으로 유포되고 있어 사용자들의 주의가 필요하다. 해당 피싱 메일은 ‘회원님께 도착한 새 전자문서를 확인하세요’라는 제목으로 유포중이며 해당 메일을 클릭하면 마치 한국도로공사에서 보낸 메일처럼 위장하고 있다...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영남이공대, 국정원 지부와 함께 지역 공공기관 보안체계 강화 지원 나선다]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=105309&amp;page=1&amp;mkind=1&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=105309&amp;page=1&amp;mkind=1&amp;kind=3"/>
-        <updated>2022-03-08T03:17:14.291Z</updated>
-        <content type="html"><![CDATA[영남이공대학교(총장 이재용)는 7일 한국전력기술에서 국가정보원 지부와 함께 관·산·학 합동 사이버 보안관제 역량강화 실전훈련을 했다고 밝혔다. 이번 사이버 보안관제 역량강화 훈련은 최근 공공기관을 타깃으로 한 지능형 사이버위협이 지속되는 가운데, 영남이공대학교 사이버보...]]></content>
     </entry>
 </feed>
