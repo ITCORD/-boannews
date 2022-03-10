@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Mar 2022 06:21:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Mar 2022 07:17:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Weekly Security Premium Report 제41호 발간! 재택근무 보안 솔루션 ‘SASE’ 집중탐구 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105348&amp;page=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105348&amp;page=1&amp;kind=3</guid>
+            <pubDate>Thu, 10 Mar 2022 07:15:42 GMT</pubDate>
+            <content:encoded><![CDATA[3월 10일 발간된 ‘Weekly Security Premium Report’ 제41호에는 &lt;보안 심층 리포트&gt; 코너에서 코로나19가 장기화됨에...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220310report-sm.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[AT&T의 3G 통신 중단 서비스에 왜 연방통신위원회까지 나섰는가 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105322&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105322&amp;page=1&amp;kind=1</guid>
+            <pubDate>Thu, 10 Mar 2022 07:15:42 GMT</pubDate>
+            <content:encoded><![CDATA[3G 서비스를 중단시키려는 계획은 최소 3년 전부터 통신사들 사이에서 있어 왔다. 하지만 여전히 3G 서비스 종료에 대한 대처는 기업들 사이에서 마련되지 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/tele-thumb-00308.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[보안 강자 맨디언트, MS가 아니라 구글에 안착하다 (보안뉴스 ─ 전체기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105349&amp;page=1&amp;kind=1</link>
@@ -72,22 +88,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/ddos-thumb-0310.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[러시아 정부 웹사이트 다수, 공급망 공격 통해 침해돼 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105338&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105338&amp;page=1&amp;kind=1</guid>
-            <pubDate>Thu, 10 Mar 2022 02:45:13 GMT</pubDate>
-            <content:encoded><![CDATA[보안 전문 블로그 시큐리티어페어즈에 따르면 러시아 연방 정부 웹사이트 다수가 공급망 공격으로 침해됐다고 한다. 공격자들은 정부 기관들이 방문자의 수를 집계...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/krem-thumb-0310.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[점점 고립되는 러시아, 정보통신망도 가닥가닥 끊어지고 있어 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105335&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105335&amp;page=1&amp;kind=1</guid>
-            <pubDate>Wed, 09 Mar 2022 13:20:34 GMT</pubDate>
-            <content:encoded><![CDATA[러시아를 경제적으로 고립시키려는 국제적인 움직임이 이어지고 있는 가운데, 러시아의 통신망을 고립시키려는 시도도 발현되고 있다. 이는 클라우드 서비스로의 접...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/cut-thumb-0309.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[안랩, 사내 카페 일회용컵 사용량 대폭 감소 (보안뉴스 ─ 전체기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105347&amp;page=1&amp;kind=3</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105347&amp;page=1&amp;kind=3</guid>
@@ -112,6 +112,14 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/22031003ss.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[러시아 정부 웹사이트 다수, 공급망 공격 통해 침해돼 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105338&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105338&amp;page=1&amp;kind=1</guid>
+            <pubDate>Thu, 10 Mar 2022 02:45:13 GMT</pubDate>
+            <content:encoded><![CDATA[보안 전문 블로그 시큐리티어페어즈에 따르면 러시아 연방 정부 웹사이트 다수가 공급망 공격으로 침해됐다고 한다. 공격자들은 정부 기관들이 방문자의 수를 집계...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/krem-thumb-0310.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[슈프리마 신임 북미 법인장 임명 (보안뉴스 ─ 전체기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105337&amp;page=1&amp;kind=3</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105337&amp;page=1&amp;kind=3</guid>
@@ -126,6 +134,14 @@
             <pubDate>Thu, 10 Mar 2022 02:45:13 GMT</pubDate>
             <content:encoded><![CDATA[디지털 아이디 솔루션 전문기업 슈프리마아이디(대표이사 박보건)는 본격적인 아프리카 eKYC(electronic Know Your Customer) 시장 진...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/22031001ss.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[점점 고립되는 러시아, 정보통신망도 가닥가닥 끊어지고 있어 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105335&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105335&amp;page=1&amp;kind=1</guid>
+            <pubDate>Wed, 09 Mar 2022 13:20:34 GMT</pubDate>
+            <content:encoded><![CDATA[러시아를 경제적으로 고립시키려는 국제적인 움직임이 이어지고 있는 가운데, 러시아의 통신망을 고립시키려는 시도도 발현되고 있다. 이는 클라우드 서비스로의 접...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/cut-thumb-0309.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[러시아-우크라이나 전쟁이 사이버 공간에 미치는 영향 (보안뉴스 ─ 전체기사)]]></title>
@@ -226,22 +242,6 @@
             <pubDate>Tue, 08 Mar 2022 09:15:12 GMT</pubDate>
             <content:encoded><![CDATA[국내 적외선센서 전문기업 아이쓰리시스템이 3월 17일부터 19일까지 강남구 삼성동 코엑스(COEX) C홀에서 열리는 2022 한국전기산업대전/한국발전산업전...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/22030803ss.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다크웹내 최대 해킹 거래시장 ‘레이드포럼’ 폐쇄? 현재 접속 불가 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105320&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105320&amp;page=1&amp;kind=1</guid>
-            <pubDate>Tue, 08 Mar 2022 08:19:24 GMT</pubDate>
-            <content:encoded><![CDATA[기업의 기밀정보 및 개인정보 등 유출된 파일을 거래하는 다크웹내 최대 규모의 해킹 포럼 ‘레이드포럼’이 알 수 없는 이유로 접근이 막혔다. 해당 사이트에 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/21743217_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정보보호 스타트업 발굴·육성에서 해외진출까지 지원한다 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105319&amp;page=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105319&amp;page=1&amp;kind=3</guid>
-            <pubDate>Tue, 08 Mar 2022 06:19:29 GMT</pubDate>
-            <content:encoded><![CDATA[한국정보보호산업협회(KISIA, 회장 이동범)는 과학기술정보통신부(이하 ‘과기정통부’) 주최로 한국인터넷진흥원(KISA)과 함께 정보보호 스타트업 전문 육...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/kisia_030801_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[삼성 갤럭시 스마트폰, 3연속 악재 터졌다! 치팅 → 백도어 → 해킹 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
@@ -404,6 +404,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/3-104(295).jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[안랩, 사내 카페 일회용컵 사용량 대폭 감소 (보안뉴스 ─ SECURITY)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105347&amp;page=1&amp;mkind=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105347&amp;page=1&amp;mkind=1&amp;kind=3</guid>
+            <pubDate>Thu, 10 Mar 2022 07:16:00 GMT</pubDate>
+            <content:encoded><![CDATA[안랩(대표 강석균)이 환경(E)경영 실천을 위해 도입한 다회용컵 사용이 임직원 호응을 얻어 일회용컵 사용량이 대폭 줄었다고 밝혔다]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[임퍼바,  Advanced  API 보안 솔루션 출시 (보안뉴스 ─ SECURITY)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105346&amp;page=1&amp;mkind=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105346&amp;page=1&amp;mkind=1&amp;kind=3</guid>
+            <pubDate>Thu, 10 Mar 2022 07:16:00 GMT</pubDate>
+            <content:encoded><![CDATA[글로벌 WAAP(웹애플리케이션 &amp; API 보안) 선도기업인 임퍼바(Imperva)는  쉐도우 API(응용 프로그래밍 인터페이스) 트래픽에 대한 검색 및 민감한 데이터 분류를 통하여 API 보안을 한층 강화한 Advanced API 보안 솔루션을 출시했다.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[‘2022년 블록체인 시범·확산사업’ 공모... 국비 189억 지원 (보안뉴스 ─ SECURITY)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105345&amp;page=1&amp;mkind=1&amp;kind=2</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105345&amp;page=1&amp;mkind=1&amp;kind=2</guid>
@@ -507,20 +521,6 @@
             <guid>https://www.boannews.com/media/view.asp?idx=105318&amp;page=1&amp;mkind=1&amp;kind=3</guid>
             <pubDate>Wed, 09 Mar 2022 01:02:34 GMT</pubDate>
             <content:encoded><![CDATA[안전한 AI 기반 네트워크 전문업체 주니퍼 네트웍스가 ‘2022년 가트너 매직 쿼드런트(Gartner Magic Quadrant) 실내 위치 서비스 부문’에서 리더로 선정됐다고 발표했다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[테라마스터 NAS에서 치명적인 보안 취약점 발견돼 (보안뉴스 ─ SECURITY)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105317&amp;page=1&amp;mkind=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105317&amp;page=1&amp;mkind=1&amp;kind=1</guid>
-            <pubDate>Tue, 08 Mar 2022 08:19:49 GMT</pubDate>
-            <content:encoded><![CDATA[보안 외신 해커뉴스에 의하면 테라마스터(TerraMaster)에서 출시한 NAS 장비들에서 여러 개의 초고위험도 취약점들이 발견됐다고 한다. 연쇄적으로 익스플로잇 할 경우 원격에서 코드를 실행할 수 있게 된다고 한다. 취약점이 발견된 곳은 테라마스터의 OS인 TOS였고...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[코인베이스, 러시아와 관련된 2만 5천 개 블록체인 주소 차단 (보안뉴스 ─ SECURITY)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105316&amp;page=1&amp;mkind=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105316&amp;page=1&amp;mkind=1&amp;kind=1</guid>
-            <pubDate>Tue, 08 Mar 2022 05:15:23 GMT</pubDate>
-            <content:encoded><![CDATA[보안 블로그인 시큐리티어페어즈에 의하면 유명 암호화폐 거래소인 코인베이스(Coinbase)가 러시아인 및 러시아 단체들이 사용하는 블록체인 주소 2만 5천여 개를 차단한다고 발표했다고 한다. 전 세계 정부들이 시작한 대 러시아 제재에 발 맞추기 위한 움직임이라고 코인베...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[중진공, 광주에 탄소중립형 스마트공장배움터 문 열어 (보안뉴스 ─ IT)]]></title>
@@ -1897,6 +1897,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/20210114seoul-s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[AT&T의 3G 통신 중단 서비스에 왜 연방통신위원회까지 나섰는가 (보안뉴스 ─ 국제)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105322&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105322&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
+            <pubDate>Thu, 10 Mar 2022 07:17:18 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/view.asp?idx=105322&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
+					
+					<img src="/media/upFiles2/2022/03/tele-thumb-00308.jpg" alt="" class="news_img" height="70">
+					
+					<span class="news_txt">AT&amp;T의 3G 통신 중단 서비스에 왜 연방통신위원회까지 나섰는가</span>
+					</a><br>
+					<a href="/media/view.asp?idx=105322&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">3G 서비스를 중단시키려는 계획은 최소 3년 전부터 통신사들 사이에서 있어 왔다. 하지만 여전히 3G 서비스 종료에 대한 대처는 기업들 사이에서 마련되지 않은 것...</a> <span class="news_writer">문가용 기자 | 2022년 03월 10일 15:38</span>]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/tele-thumb-00308.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[보안 강자 맨디언트, MS가 아니라 구글에 안착하다 (보안뉴스 ─ 국제)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105349&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105349&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
@@ -2161,20 +2175,6 @@
 					</a><br>
 					<a href="/media/view.asp?idx=105272&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">모질라(Mozilla)가 파이어폭스 97.0.2 버전을 발표했다. 그와 함께 파이어폭스 ESR 91.6.1, 파이어폭스 안드로이드 97.3.0, 포커스(Focus...</a> <span class="news_writer">문가용 기자 | 2022년 03월 07일 11:29</span>]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/fox-thumb-0307.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[리눅스 커널에서 발견된 취약점, 컨테이너 탈출 가능하게 한다 (보안뉴스 ─ 국제)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105271&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105271&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
-            <pubDate>Mon, 07 Mar 2022 03:18:29 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/view.asp?idx=105271&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
-					
-					<img src="/media/upFiles2/2022/03/esc-thumb-0307(0).jpg" alt="" class="news_img" height="70">
-					
-					<span class="news_txt">리눅스 커널에서 발견된 취약점, 컨테이너 탈출 가능하게 한다</span>
-					</a><br>
-					<a href="/media/view.asp?idx=105271&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">리눅스 커널의 cgroups 기능에서 취약점이 발견됐다. 이 취약점은 CVE-2022-0492로 컨테이너를 탈출해 호스트 상태에서 임의 명령을 실행할 수 있게 해...</a> <span class="news_writer">문가용 기자 | 2022년 03월 07일 11:28</span>]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/esc-thumb-0307(0).jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[통합보안 3사 에스원·SK쉴더스·KT텔레캅, 소비자의 생각과 선택은? (보안뉴스 ─ 기획특집)]]></title>

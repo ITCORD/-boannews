@@ -4,9 +4,25 @@
         <title>보안뉴스 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Mar 2022 06:21:52 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Mar 2022 07:17:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Weekly Security Premium Report 제41호 발간! 재택근무 보안 솔루션 ‘SASE’ 집중탐구]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105348&amp;page=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105348&amp;page=1&amp;kind=3</guid>
+            <pubDate>Thu, 10 Mar 2022 07:15:42 GMT</pubDate>
+            <content:encoded><![CDATA[3월 10일 발간된 ‘Weekly Security Premium Report’ 제41호에는 &lt;보안 심층 리포트&gt; 코너에서 코로나19가 장기화됨에...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220310report-sm.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[AT&T의 3G 통신 중단 서비스에 왜 연방통신위원회까지 나섰는가]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105322&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105322&amp;page=1&amp;kind=1</guid>
+            <pubDate>Thu, 10 Mar 2022 07:15:42 GMT</pubDate>
+            <content:encoded><![CDATA[3G 서비스를 중단시키려는 계획은 최소 3년 전부터 통신사들 사이에서 있어 왔다. 하지만 여전히 3G 서비스 종료에 대한 대처는 기업들 사이에서 마련되지 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/tele-thumb-00308.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[보안 강자 맨디언트, MS가 아니라 구글에 안착하다]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105349&amp;page=1&amp;kind=1</link>
@@ -72,22 +88,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/ddos-thumb-0310.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[러시아 정부 웹사이트 다수, 공급망 공격 통해 침해돼]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105338&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105338&amp;page=1&amp;kind=1</guid>
-            <pubDate>Thu, 10 Mar 2022 02:45:13 GMT</pubDate>
-            <content:encoded><![CDATA[보안 전문 블로그 시큐리티어페어즈에 따르면 러시아 연방 정부 웹사이트 다수가 공급망 공격으로 침해됐다고 한다. 공격자들은 정부 기관들이 방문자의 수를 집계...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/krem-thumb-0310.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[점점 고립되는 러시아, 정보통신망도 가닥가닥 끊어지고 있어]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105335&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105335&amp;page=1&amp;kind=1</guid>
-            <pubDate>Wed, 09 Mar 2022 13:20:34 GMT</pubDate>
-            <content:encoded><![CDATA[러시아를 경제적으로 고립시키려는 국제적인 움직임이 이어지고 있는 가운데, 러시아의 통신망을 고립시키려는 시도도 발현되고 있다. 이는 클라우드 서비스로의 접...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/cut-thumb-0309.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[안랩, 사내 카페 일회용컵 사용량 대폭 감소]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105347&amp;page=1&amp;kind=3</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105347&amp;page=1&amp;kind=3</guid>
@@ -112,6 +112,14 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/22031003ss.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[러시아 정부 웹사이트 다수, 공급망 공격 통해 침해돼]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105338&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105338&amp;page=1&amp;kind=1</guid>
+            <pubDate>Thu, 10 Mar 2022 02:45:13 GMT</pubDate>
+            <content:encoded><![CDATA[보안 전문 블로그 시큐리티어페어즈에 따르면 러시아 연방 정부 웹사이트 다수가 공급망 공격으로 침해됐다고 한다. 공격자들은 정부 기관들이 방문자의 수를 집계...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/krem-thumb-0310.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[슈프리마 신임 북미 법인장 임명]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105337&amp;page=1&amp;kind=3</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105337&amp;page=1&amp;kind=3</guid>
@@ -126,6 +134,14 @@
             <pubDate>Thu, 10 Mar 2022 02:45:13 GMT</pubDate>
             <content:encoded><![CDATA[디지털 아이디 솔루션 전문기업 슈프리마아이디(대표이사 박보건)는 본격적인 아프리카 eKYC(electronic Know Your Customer) 시장 진...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/22031001ss.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[점점 고립되는 러시아, 정보통신망도 가닥가닥 끊어지고 있어]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105335&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105335&amp;page=1&amp;kind=1</guid>
+            <pubDate>Wed, 09 Mar 2022 13:20:34 GMT</pubDate>
+            <content:encoded><![CDATA[러시아를 경제적으로 고립시키려는 국제적인 움직임이 이어지고 있는 가운데, 러시아의 통신망을 고립시키려는 시도도 발현되고 있다. 이는 클라우드 서비스로의 접...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/cut-thumb-0309.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[러시아-우크라이나 전쟁이 사이버 공간에 미치는 영향]]></title>
@@ -226,22 +242,6 @@
             <pubDate>Tue, 08 Mar 2022 09:15:12 GMT</pubDate>
             <content:encoded><![CDATA[국내 적외선센서 전문기업 아이쓰리시스템이 3월 17일부터 19일까지 강남구 삼성동 코엑스(COEX) C홀에서 열리는 2022 한국전기산업대전/한국발전산업전...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/22030803ss.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다크웹내 최대 해킹 거래시장 ‘레이드포럼’ 폐쇄? 현재 접속 불가]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105320&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105320&amp;page=1&amp;kind=1</guid>
-            <pubDate>Tue, 08 Mar 2022 08:19:24 GMT</pubDate>
-            <content:encoded><![CDATA[기업의 기밀정보 및 개인정보 등 유출된 파일을 거래하는 다크웹내 최대 규모의 해킹 포럼 ‘레이드포럼’이 알 수 없는 이유로 접근이 막혔다. 해당 사이트에 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/21743217_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정보보호 스타트업 발굴·육성에서 해외진출까지 지원한다]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105319&amp;page=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105319&amp;page=1&amp;kind=3</guid>
-            <pubDate>Tue, 08 Mar 2022 06:19:29 GMT</pubDate>
-            <content:encoded><![CDATA[한국정보보호산업협회(KISIA, 회장 이동범)는 과학기술정보통신부(이하 ‘과기정통부’) 주최로 한국인터넷진흥원(KISA)과 함께 정보보호 스타트업 전문 육...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/kisia_030801_main.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

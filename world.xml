@@ -4,9 +4,23 @@
         <title>보안뉴스 ─ 국제</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Mar 2022 06:21:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Mar 2022 07:17:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[AT&T의 3G 통신 중단 서비스에 왜 연방통신위원회까지 나섰는가]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105322&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105322&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
+            <pubDate>Thu, 10 Mar 2022 07:17:18 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/view.asp?idx=105322&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
+					
+					<img src="/media/upFiles2/2022/03/tele-thumb-00308.jpg" alt="" class="news_img" height="70">
+					
+					<span class="news_txt">AT&amp;T의 3G 통신 중단 서비스에 왜 연방통신위원회까지 나섰는가</span>
+					</a><br>
+					<a href="/media/view.asp?idx=105322&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">3G 서비스를 중단시키려는 계획은 최소 3년 전부터 통신사들 사이에서 있어 왔다. 하지만 여전히 3G 서비스 종료에 대한 대처는 기업들 사이에서 마련되지 않은 것...</a> <span class="news_writer">문가용 기자 | 2022년 03월 10일 15:38</span>]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/tele-thumb-00308.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[보안 강자 맨디언트, MS가 아니라 구글에 안착하다]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105349&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
@@ -272,20 +286,6 @@
 					</a><br>
 					<a href="/media/view.asp?idx=105272&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">모질라(Mozilla)가 파이어폭스 97.0.2 버전을 발표했다. 그와 함께 파이어폭스 ESR 91.6.1, 파이어폭스 안드로이드 97.3.0, 포커스(Focus...</a> <span class="news_writer">문가용 기자 | 2022년 03월 07일 11:29</span>]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/fox-thumb-0307.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[리눅스 커널에서 발견된 취약점, 컨테이너 탈출 가능하게 한다]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105271&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105271&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
-            <pubDate>Mon, 07 Mar 2022 03:18:29 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/view.asp?idx=105271&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
-					
-					<img src="/media/upFiles2/2022/03/esc-thumb-0307(0).jpg" alt="" class="news_img" height="70">
-					
-					<span class="news_txt">리눅스 커널에서 발견된 취약점, 컨테이너 탈출 가능하게 한다</span>
-					</a><br>
-					<a href="/media/view.asp?idx=105271&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">리눅스 커널의 cgroups 기능에서 취약점이 발견됐다. 이 취약점은 CVE-2022-0492로 컨테이너를 탈출해 호스트 상태에서 임의 명령을 실행할 수 있게 해...</a> <span class="news_writer">문가용 기자 | 2022년 03월 07일 11:28</span>]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/esc-thumb-0307(0).jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
