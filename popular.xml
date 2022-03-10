@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Mar 2022 09:18:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Mar 2022 10:21:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -152,19 +152,19 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/3-104(295).jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[경남도, 역주행 위험 교차로 사고 예방 대책 수립]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105258&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105258&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
-            <pubDate>Thu, 10 Mar 2022 08:19:47 GMT</pubDate>
-            <content:encoded><![CDATA[경남도는 도에서 관리하는 지방도·위임국도를 대상으로 운전자의 시인성 혼란을 초래하거나 차량 역주행 진입이 발생할 수 있는 교차로·터널 등에 대한 역주행 사고 예방...]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[점점 고립되는 러시아, 정보통신망도 가닥가닥 끊어지고 있어]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105335&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105335&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Thu, 10 Mar 2022 09:16:23 GMT</pubDate>
             <content:encoded><![CDATA[러시아를 경제적으로 고립시키려는 국제적인 움직임이 이어지고 있는 가운데, 러시아의 통신망을 고립시키려는 시도도 발현되고 있다. 이는 클라우드 서비스로의 접근까지도...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/cut-thumb-0309.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[경남도, 역주행 위험 교차로 사고 예방 대책 수립]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105258&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105258&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
+            <pubDate>Thu, 10 Mar 2022 08:19:47 GMT</pubDate>
+            <content:encoded><![CDATA[경남도는 도에서 관리하는 지방도·위임국도를 대상으로 운전자의 시인성 혼란을 초래하거나 차량 역주행 진입이 발생할 수 있는 교차로·터널 등에 대한 역주행 사고 예방...]]></content:encoded>
         </item>
     </channel>
 </rss>
