@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-03-10T03:22:31.974Z</updated>
+    <updated>2022-03-10T04:23:28.687Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[IT/보안 기술 분야 차별적인 용어? 이젠 포용과 비차별을 외칠 때]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=105281&amp;page=1&amp;mkind=1&amp;kind=4</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=105281&amp;page=1&amp;mkind=1&amp;kind=4"/>
+        <updated>2022-03-10T04:21:29.884Z</updated>
+        <content type="html"><![CDATA[IT/보안 업계에서 자주 사용되는 용어들 중 최근 몇 년 동안 “문제가 있다”고 지적되어 온 것들이 있다. 주인과 노예를 뜻하는 ‘마스터’와 ‘슬레이브’, 흑과 백에 옳고 그름이라는 느낌을 부여하는 ‘블랙리스트’와 ‘화이트리스트’, 지나치게 과격한 용어인 ‘종료(kil...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[미국 재무부, “러시아가 랜섬웨어 활용해 제재 피해갈 수 있다”]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=105342&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=105342&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-03-10T04:21:29.884Z</updated>
+        <content type="html"><![CDATA[보안 외신 블리핑컴퓨터에 의하면 러시아가 국제 제재를 피하기 위해 랜섬웨어를 적극 활용할 수 있다는 경고가 미국 재무부로부터 나왔다고 한다. 주류 금융망으로부터 단절되었으니, 중앙 관리 조직이 부재한 암호화폐를 주 수입원으로 삼아 경제난을 극복할 가능성이 있으며, 이를...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[지멘스, 서드파티 요소들에 영향 주는 취약점 90개 넘게 패치해]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=105341&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=105341&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-03-10T04:21:29.891Z</updated>
+        <content type="html"><![CDATA[보안 외신 시큐리티위크에 의하면 지멘스가 고객들을 위해 15개의 새로운 보안 권고문을 발표했다고 한다. 그러면서 100개가 넘는 취약점들을 다뤘는데, 이 중 90개가 서드파티 요소들에서부터 나온 것이라고 한다. 15개 권고문 중 3개는 초고위험군 취약점들을, 8개는 고...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[중국의 APT 해커들, 로그4j 익스플로잇 해 미국 정부 네트워크에 침투]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=105340&amp;page=1&amp;mkind=1&amp;kind=1</id>
@@ -102,26 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=105314&amp;page=1&amp;mkind=1&amp;kind=1"/>
         <updated>2022-03-08T03:17:14.283Z</updated>
         <content type="html"><![CDATA[보안 외신 시큐리티위크에 의하면 보안 업체 맨디언트(Mandiant)에 대한 대기업들의 관심이 뜨겁다고 한다. 약 한 달 전에는 마이크로소프트가 40억 달러에 맨디언트를 매입하려 한다는 기사가 나왔었는데, 그 후 구글 역시 관심을 보이면서 경쟁에 돌입했다. 그러면서 맨...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[도난당했던 엔비디아 코드 서명 인증서, 멀웨어 서명해]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=105313&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=105313&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-03-08T03:17:14.284Z</updated>
-        <content type="html"><![CDATA[보안 외신 쓰레트포스트에 의하면 해킹 단체 랩서스(Lapsus$)가 2월 23일 엔비디아로부터 1TB에 달하는 정보들을 훔쳐냈는데, 그 중에 코드 서명 인증서들도 포함되어 있었다고 한다. 그런데 얼마 전부터 엔비디아 인증서들로 서명이 된 멀웨어들이 발견되기 시작했다. ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[안랩 V3, 지난해 주요 글로벌 보안 제품 평가에서 잇따라 인증 획득]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=105312&amp;page=1&amp;mkind=1&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=105312&amp;page=1&amp;mkind=1&amp;kind=3"/>
-        <updated>2022-03-08T03:17:14.287Z</updated>
-        <content type="html"><![CDATA[안랩(대표 강석균)의 PC용 백신 솔루션 V3가 지난해 주요 글로벌 보안제품 평가에서 인증 및 수상을 이어가며 기술력을 인정받고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국도로공사 통행료 납부 안내문? 네이버 계정 탈취 위한 피싱 메일]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=105311&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=105311&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-03-08T03:17:14.288Z</updated>
-        <content type="html"><![CDATA[지난 3일부터 한국도로공사 통행료 납부를 위장한 피싱 메일이 대량으로 유포되고 있어 사용자들의 주의가 필요하다. 해당 피싱 메일은 ‘회원님께 도착한 새 전자문서를 확인하세요’라는 제목으로 유포중이며 해당 메일을 클릭하면 마치 한국도로공사에서 보낸 메일처럼 위장하고 있다...]]></content>
     </entry>
 </feed>

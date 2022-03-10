@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Mar 2022 03:22:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Mar 2022 04:23:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -40,14 +40,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/21531056_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[읽지 않고 동의하는 ‘개인정보 동의서’ 확 바뀐다]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105199&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105199&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
-            <pubDate>Fri, 04 Mar 2022 01:06:31 GMT</pubDate>
-            <content:encoded><![CDATA[그동안 귀찮아서, 혹은 글자가 너무 많거나 작아서 제대로 읽지 않고 동의하던 ‘개인정보 동의서’가 앞으로 확 바뀔 전망이다. 개인정보보호위원회(위원장 윤종인, 이...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220303privacy-s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[우크라이나-러시아 전쟁, 암호화폐와 핀테크의 혁신 가속화 될까]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105259&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105259&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
@@ -80,20 +72,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/tank-thumb-0307.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Weekly Security Premium Report 제40호 발간! 사이버전쟁 시대의 사이버보험 산업 분석]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105203&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105203&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
-            <pubDate>Sun, 06 Mar 2022 06:18:43 GMT</pubDate>
-            <content:encoded><![CDATA[3월 3일 발간된 ‘Weekly Security Premium Report’ 제40호에는 &lt;보안 심층 리포트&gt; 코너에서 사이버 전쟁이 일상으로 들어오면...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220303REPORT-SM.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
             <title><![CDATA[다크웹내 최대 해킹 거래시장 ‘레이드포럼’ 폐쇄? 현재 접속 불가]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105320&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105320&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Wed, 09 Mar 2022 10:17:36 GMT</pubDate>
             <content:encoded><![CDATA[기업의 기밀정보 및 개인정보 등 유출된 파일을 거래하는 다크웹내 최대 규모의 해킹 포럼 ‘레이드포럼’이 알 수 없는 이유로 접근이 막혔다. 해당 사이트에 접근하면...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/21743217_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Weekly Security Premium Report 제40호 발간! 사이버전쟁 시대의 사이버보험 산업 분석]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105203&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105203&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
+            <pubDate>Sun, 06 Mar 2022 06:18:43 GMT</pubDate>
+            <content:encoded><![CDATA[3월 3일 발간된 ‘Weekly Security Premium Report’ 제40호에는 &lt;보안 심층 리포트&gt; 코너에서 사이버 전쟁이 일상으로 들어오면...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220303REPORT-SM.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[2022년 해양선박 보안을 위한 4가지 고려사항]]></title>
@@ -166,6 +158,14 @@
             <pubDate>Thu, 10 Mar 2022 02:45:22 GMT</pubDate>
             <content:encoded><![CDATA[보안 외신 해커뉴스에 의하면 테라마스터(TerraMaster)에서 출시한 NAS 장비들에서 여러 개의 초고위험도 취약점들이 발견됐다고 한다. 연쇄적으로 익스플로잇...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/stor-thumb-0308.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한국도로공사 통행료 납부 안내문? 네이버 계정 탈취 위한 피싱 메일]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105311&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105311&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Thu, 10 Mar 2022 04:21:19 GMT</pubDate>
+            <content:encoded><![CDATA[지난 3일부터 한국도로공사 통행료 납부를 위장한 피싱 메일이 대량으로 유포되고 있어 사용자들의 주의가 필요하다. 해당 피싱 메일은 ‘회원님께 도착한 새 전자문서를...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220310_report-S.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
