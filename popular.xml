@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 10 Mar 2022 05:17:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Mar 2022 06:21:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -144,14 +144,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/fotinet_030301_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[서울여대 정보보호동아리 SWING, ‘2021 Security Magazine’ 발간]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105201&amp;page=1&amp;kind=5&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105201&amp;page=1&amp;kind=5&amp;search=title&amp;find=</guid>
-            <pubDate>Wed, 09 Mar 2022 05:37:47 GMT</pubDate>
-            <content:encoded><![CDATA[서울여대 정보보호동아리 ‘SWING(스윙)’이 동아리 멘토 역할을 하고 있는 김종민 삼성전자 DS정보보호센터 전문연구원의 지도로 ‘2021 Security Mag...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220303swing-sm.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
             <title><![CDATA[테라마스터 NAS에서 치명적인 보안 취약점 발견돼]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105317&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105317&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
@@ -166,6 +158,14 @@
             <pubDate>Thu, 10 Mar 2022 04:21:19 GMT</pubDate>
             <content:encoded><![CDATA[지난 3일부터 한국도로공사 통행료 납부를 위장한 피싱 메일이 대량으로 유포되고 있어 사용자들의 주의가 필요하다. 해당 피싱 메일은 ‘회원님께 도착한 새 전자문서를...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220310_report-S.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[용인시, 전국 최초 ‘월패드 해킹’ 방지 제도 도입]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105331&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105331&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
+            <pubDate>Thu, 10 Mar 2022 06:19:42 GMT</pubDate>
+            <content:encoded><![CDATA[용인시에서 월패드를 통한 해킹을 방지하는 시스템을 도입한 아파트 단지 9곳이 건설되고 있는 것으로 확인됐다. 최근 아파트 내 월패드가 해킹돼 개인 사생활이 담긴 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/3-104(295).jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
