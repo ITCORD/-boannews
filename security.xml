@@ -2,9 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-03-11T01:07:32.580Z</updated>
+    <updated>2022-03-11T02:42:26.561Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[러시아 공격하려는 우크라이나 IT 군대, 누군가 노린다]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=105370&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=105370&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-03-11T02:40:43.858Z</updated>
+        <content type="html"><![CDATA[보안 블로그 시큐리티어페어즈에 따르면 우크라이나가 러시아를 공격하기 위해 모집한 ‘IT 군대’를 겨냥한 사이버 공격이 시작됐다고 한다. 보안 업체 시스코가 발견한 것으로, 공격자들은 디도스 공격 도구로 위장된 해킹 도구 ‘리버레이터(Liberator)’를 활용하고 있다...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[페이스북, 스스로의 규칙 깨고 헤이트 스피치 허용]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=105369&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=105369&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-03-11T02:40:43.860Z</updated>
+        <content type="html"><![CDATA[일간지 워싱턴포스트에 따르면 페이스북은 오랜 시간 ‘헤이트 스피치’를 허용하지 않는다는 규칙을 플랫폼 내에서 엄격하게 지켜왔지만 이번 러시아 사태에 있어서는 예외 규정을 만들어 적용할 예정이라고 한다. 러시아가 우크라이나를 불법적으로 침략했으니, 그런 러시아 침략에 대...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[러시아의 해커들, 우크라이나 통신사 공격해 인터넷 마비시켜]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=105368&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=105368&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-03-11T02:40:43.862Z</updated>
+        <content type="html"><![CDATA[일간지 포브스에 따르면 러시아의 해커들도 자신들의 정부의 움직임에 맞춰 부지런히 우크라이나를 공격하고 있다고 한다. 이 때문에 우크라이나 일부 지역에서는 인터넷과 통신이 완전히 마비되어 있기도 하다. 특히 통신사인 트리올란(Triolan)이 해킹 공격 때문에 다운된 것...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[전국 대학 정보보호 관련 동아리 주목! KUCIS 신청하고 지원받자]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=105367&amp;page=1&amp;mkind=1&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=105367&amp;page=1&amp;mkind=1&amp;kind=2"/>
+        <updated>2022-03-11T02:40:43.864Z</updated>
+        <content type="html"><![CDATA[한국정보보호산업협회(KISIA, 회장 이동범)는 정보보호 전문 인력 양성을 위해 대학 정보보호동아리(KUCIS) 지원사업에 참여할 정보보호 소양과 역량을 갖춘 잠재력 있는 대학 정보보호 동아리를 모집한다고 밝혔다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[보안 팀을 괴롭히는 ‘나쁜 보안 팀장’의 10가지 특징]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=105351&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=105351&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-03-11T02:40:43.865Z</updated>
+        <content type="html"><![CDATA[인력의 소모와 ‘번아웃’은 어느 산업, 어느 회사에서나 걱정이 될 수밖에 없는 변수다. 사이버 보안은 이런 면에서의 ‘염려’가 가장 큰 분야 중 하나라고 감히 말할 수 있다. 물론 인력 시장의 상황을 일개 기업이 어떻게 할 수 있는 건 아니다. 하지만 떠나려는 사람의 ...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[시큐브, 생체정보 기반의 전자서명 인증 시스템 관련 일본 특허 취득]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=105350&amp;page=1&amp;mkind=1&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=105350&amp;page=1&amp;mkind=1&amp;kind=3"/>
+        <updated>2022-03-11T02:40:43.868Z</updated>
+        <content type="html"><![CDATA[시큐브(대표이사 이규호)가 생체정보 기반의 전자서명 인증 시스템 및 그의 전자서명 인증 방법에 관한 일본 특허 취득을 10일 공시했다고 밝혔다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Weekly Security Premium Report 제41호 발간! 재택근무 보안 솔루션 ‘SASE’ 집중탐구]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=105348&amp;page=1&amp;mkind=1&amp;kind=3</id>
@@ -81,47 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=105340&amp;page=1&amp;mkind=1&amp;kind=1"/>
         <updated>2022-03-10T03:20:30.884Z</updated>
         <content type="html"><![CDATA[보안 외신 쓰레트포스트에 의하면 중국의 해킹 단체인 APT41이 미국 주 정부 네트워크 최소 6개에 침투한 사실이 공개됐다고 한다. 이들은 미국 농업 종사자들이 가축들 사이에서 유행하는 전염병을 보다 빨리 알아채고 전파하기 위해 사용하는 앱인 USAHerds의 로그4j...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마이텔 장비 사용해 디도스 공격 40억 배 증폭시키는 공격자들]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=105339&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=105339&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-03-10T02:45:31.504Z</updated>
-        <content type="html"><![CDATA[보안 외신 더해커뉴스에 의하면 마이텔(Mitel)에서 만든 통신 및 협업 시스템인 마이콜랩(MiCollab)과 마이보이스 비즈니스 엑스프레스(MiVoice Business Express) 약 2600대가 잘못된 방식으로 구축되어 있는 것이 밝혀졌다고 한다. 그러면서 발...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[러시아 정부 웹사이트 다수, 공급망 공격 통해 침해돼]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=105338&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=105338&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-03-10T02:45:31.506Z</updated>
-        <content type="html"><![CDATA[보안 전문 블로그 시큐리티어페어즈에 따르면 러시아 연방 정부 웹사이트 다수가 공급망 공격으로 침해됐다고 한다. 공격자들은 정부 기관들이 방문자의 수를 집계하는 데 사용하는 ‘통계 위젯’을 침해한 후 사이트를 변조하거나 접근을 불가능하게 만들었다. 하지만 공격 지속 시간...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[점점 고립되는 러시아, 정보통신망도 가닥가닥 끊어지고 있어]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=105335&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=105335&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-03-10T02:45:31.509Z</updated>
-        <content type="html"><![CDATA[러시아를 경제적으로 고립시키려는 국제적인 움직임이 이어지고 있는 가운데, 러시아의 통신망을 고립시키려는 시도도 발현되고 있다. 이는 클라우드 서비스로의 접근까지도 포함하고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[러시아-우크라이나 전쟁이 사이버 공간에 미치는 영향]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=105334&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=105334&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-03-10T02:45:31.517Z</updated>
-        <content type="html"><![CDATA[우크라이나에서의 위기 상황이 고조되고 있으며, 러시아는 생각보다 승리를 쉽게 쟁취하지 못할 것처럼 보인다. 이 때문에 생각지도 못한 효과들이 나타나고 있다. 먼저는 난민들이 더 오랜 시간 동안 발생할 것이라는 뜻이고, 세상은 쏟아져 나오는 우크라이나인들을 어떻게든 수용...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[용인시, 전국 최초 ‘월패드 해킹’ 방지 제도 도입]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=105331&amp;page=1&amp;mkind=1&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=105331&amp;page=1&amp;mkind=1&amp;kind=2"/>
-        <updated>2022-03-10T02:45:31.519Z</updated>
-        <content type="html"><![CDATA[용인시에서 월패드를 통한 해킹을 방지하는 시스템을 도입한 아파트 단지 9곳이 건설되고 있는 것으로 확인됐다. 최근 아파트 내 월패드가 해킹돼 개인 사생활이 담긴 영상이 불법 유통되면서 사회적인 문제로 떠오른 가운데, 용인시가 전국 최초로 아파트 시공 단계에서부터 이를 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[경찰 지리적 범죄분석 시스템에 TMAP 지도 기술 탑재한다]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=105325&amp;page=1&amp;mkind=1&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=105325&amp;page=1&amp;mkind=1&amp;kind=2"/>
-        <updated>2022-03-09T13:20:51.533Z</updated>
-        <content type="html"><![CDATA[경찰청은 티맵모빌리티와 지난 7일 첨단 길찾기 기술을 융합한 과학적 경찰 활동 지원을 위해 업무 협약을 체결했다. 이번 업무협약에 따라 TMAP에서 제공하는 실시간 교통정보와 길찾기 기능을 지리적 범죄분석 시스템(GeoPros)에서 활용할 수 있어, 더욱 효율적인 분석...]]></content>
     </entry>
 </feed>
