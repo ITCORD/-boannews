@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-03-11T07:17:47.372Z</updated>
+    <updated>2022-03-11T08:21:27.157Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[안랩, 메타버스 기반 ‘안랩 월드’에서 창립 27주년 기념 행사 개최]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=105374&amp;page=1&amp;mkind=1&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=105374&amp;page=1&amp;mkind=1&amp;kind=3"/>
+        <updated>2022-03-11T08:19:25.983Z</updated>
+        <content type="html"><![CDATA[안랩(대표 강석균)이 11일 메타버스 기반의 ‘안랩 월드’에서 비대면으로 창립 27주년 기념 행사를 개최했다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[윤석열 당선인의 사이버 보안 정책, 어떤 방향으로 추진될까]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=105373&amp;page=1&amp;mkind=1&amp;kind=2</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=105344&amp;page=1&amp;mkind=1&amp;kind=1"/>
         <updated>2022-03-10T05:15:39.168Z</updated>
         <content type="html"><![CDATA[과학기술정보통신부(장관 임혜숙, 이하 과기정통부)는 3월 1~9일 스위스 제네바에서 개최되었던 국제전기통신연합(이하 ITU) 세계전기통신표준화총회(WTSA-20)에 참가하여 차기 회기 연구반 의장단에 역대 최대인 10석을 확보하여 정보통신분야 국제표준화 주도국 위상을 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IT/보안 기술 분야 차별적인 용어? 이젠 포용과 비차별을 외칠 때]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=105281&amp;page=1&amp;mkind=1&amp;kind=4</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=105281&amp;page=1&amp;mkind=1&amp;kind=4"/>
-        <updated>2022-03-10T04:21:29.884Z</updated>
-        <content type="html"><![CDATA[IT/보안 업계에서 자주 사용되는 용어들 중 최근 몇 년 동안 “문제가 있다”고 지적되어 온 것들이 있다. 주인과 노예를 뜻하는 ‘마스터’와 ‘슬레이브’, 흑과 백에 옳고 그름이라는 느낌을 부여하는 ‘블랙리스트’와 ‘화이트리스트’, 지나치게 과격한 용어인 ‘종료(kil...]]></content>
     </entry>
 </feed>

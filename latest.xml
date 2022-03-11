@@ -4,9 +4,17 @@
         <title>보안뉴스 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Mar 2022 07:17:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Mar 2022 08:21:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[보안 취약점에 대한 대처, 공격자에 비해 느려도 너무 느리다]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105378&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105378&amp;page=1&amp;kind=1</guid>
+            <pubDate>Fri, 11 Mar 2022 08:19:04 GMT</pubDate>
+            <content:encoded><![CDATA[공격자들이 새로운 취약점을 익스플로잇 하는 데에는 보통 수일에서 수주 정도 걸린다. 그런데 방어자들이 새로운 취약점 소식을 접하고 연구하고 필요한 대책을 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/slow-thumb-0311.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아직도 취약한 로그4j 패키지들이 40% 정도 다운로드 되고 있다]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105377&amp;page=1&amp;kind=1</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 11 Mar 2022 01:05:25 GMT</pubDate>
             <content:encoded><![CDATA[한국정보보호산업협회(KISIA, 회장 이동범)는 정보보호 전문 인력 양성을 위해 대학 정보보호동아리(KUCIS) 지원사업에 참여할 정보보호 소양과 역량을 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220311KISIA-2S.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[보안 팀을 괴롭히는 ‘나쁜 보안 팀장’의 10가지 특징]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105351&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105351&amp;page=1&amp;kind=1</guid>
-            <pubDate>Thu, 10 Mar 2022 08:19:36 GMT</pubDate>
-            <content:encoded><![CDATA[인력의 소모와 ‘번아웃’은 어느 산업, 어느 회사에서나 걱정이 될 수밖에 없는 변수다. 사이버 보안은 이런 면에서의 ‘염려’가 가장 큰 분야 중 하나라고 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/lead-thumb-0310.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[디지털헬스케어 기기·서비스, 보안 취약점 점검·컨설팅 통해 안전성 검증]]></title>
@@ -205,6 +205,14 @@
             <content:encoded><![CDATA[대구시는 자동차, 기계·전자 등 지역주력산업과 로봇산업의 융합을 통한 지역 로봇시장 활성화 및 자생적 시장생태계 조성을 위해 올해 54억원 규모의 ‘202...]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[보안 팀을 괴롭히는 ‘나쁜 보안 팀장’의 10가지 특징]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105351&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105351&amp;page=1&amp;kind=1</guid>
+            <pubDate>Thu, 10 Mar 2022 08:19:36 GMT</pubDate>
+            <content:encoded><![CDATA[인력의 소모와 ‘번아웃’은 어느 산업, 어느 회사에서나 걱정이 될 수밖에 없는 변수다. 사이버 보안은 이런 면에서의 ‘염려’가 가장 큰 분야 중 하나라고 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/lead-thumb-0310.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[시큐브, 생체정보 기반의 전자서명 인증 시스템 관련 일본 특허 취득]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105350&amp;page=1&amp;kind=3</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105350&amp;page=1&amp;kind=3</guid>
@@ -227,14 +235,6 @@
             <pubDate>Thu, 10 Mar 2022 07:15:42 GMT</pubDate>
             <content:encoded><![CDATA[3G 서비스를 중단시키려는 계획은 최소 3년 전부터 통신사들 사이에서 있어 왔다. 하지만 여전히 3G 서비스 종료에 대한 대처는 기업들 사이에서 마련되지 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/tele-thumb-00308.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[보안 강자 맨디언트, MS가 아니라 구글에 안착하다]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105349&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105349&amp;page=1&amp;kind=1</guid>
-            <pubDate>Thu, 10 Mar 2022 06:19:32 GMT</pubDate>
-            <content:encoded><![CDATA[구글이 사이버 사건 대응 전문 업체인 맨디언트(Mandiant)를 54억 달러에 매입하기로 했다고 발표했다. 구글이 사이버 보안 쪽으로 사업을 확장시키려 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/ma-thumb-0310.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
