@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-03-11T04:24:03.974Z</updated>
+    <updated>2022-03-11T05:17:13.313Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[기업의 ‘문의서 양식’ 통해 바자백도어 유포되고 있다]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=105372&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=105372&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-03-11T05:15:20.429Z</updated>
+        <content type="html"><![CDATA[IT 매체인 블리핑컴퓨터에 의하면 기업의 웹사이트를 통해 바자백도어(BazarBackdoor)라는 멀웨어가 유포되고 있다고 한다. 보다 정확히 말하면 고객들과 소통하기 위해 공식 웹사이트에 만들어 둔 ‘메시지 기능’ 때문이다. 고객은 기업에 뭔가를 문의하기 위해 전화를...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[다시 시작된 칵봇 캠페인, 이메일 스레드에 침투해]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=105371&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=105371&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-03-11T05:15:20.430Z</updated>
+        <content type="html"><![CDATA[보안 외신인 스레트포스트에 의하면 칵봇(Qakbot)이라는 봇넷이 점점 더 사나워지고 있다고 한다. 최근 시작된 칵봇 캠페인은 이메일 스레드에 침투해 악성 모듈을 집어넣는 방식으로 구사되고 있다고 보안 업체 소포스(Sophos)가 발표했다. 이메일 스레드에 침투한다는 ...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[러시아 공격하려는 우크라이나 IT 군대, 누군가 노린다]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=105370&amp;page=1&amp;mkind=1&amp;kind=1</id>
@@ -109,19 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=105342&amp;page=1&amp;mkind=1&amp;kind=1"/>
         <updated>2022-03-10T04:21:29.884Z</updated>
         <content type="html"><![CDATA[보안 외신 블리핑컴퓨터에 의하면 러시아가 국제 제재를 피하기 위해 랜섬웨어를 적극 활용할 수 있다는 경고가 미국 재무부로부터 나왔다고 한다. 주류 금융망으로부터 단절되었으니, 중앙 관리 조직이 부재한 암호화폐를 주 수입원으로 삼아 경제난을 극복할 가능성이 있으며, 이를...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지멘스, 서드파티 요소들에 영향 주는 취약점 90개 넘게 패치해]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=105341&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=105341&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-03-10T04:21:29.891Z</updated>
-        <content type="html"><![CDATA[보안 외신 시큐리티위크에 의하면 지멘스가 고객들을 위해 15개의 새로운 보안 권고문을 발표했다고 한다. 그러면서 100개가 넘는 취약점들을 다뤘는데, 이 중 90개가 서드파티 요소들에서부터 나온 것이라고 한다. 15개 권고문 중 3개는 초고위험군 취약점들을, 8개는 고...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[중국의 APT 해커들, 로그4j 익스플로잇 해 미국 정부 네트워크에 침투]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=105340&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=105340&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-03-10T03:20:30.884Z</updated>
-        <content type="html"><![CDATA[보안 외신 쓰레트포스트에 의하면 중국의 해킹 단체인 APT41이 미국 주 정부 네트워크 최소 6개에 침투한 사실이 공개됐다고 한다. 이들은 미국 농업 종사자들이 가축들 사이에서 유행하는 전염병을 보다 빨리 알아채고 전파하기 위해 사용하는 앱인 USAHerds의 로그4j...]]></content>
     </entry>
 </feed>

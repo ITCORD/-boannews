@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Mar 2022 04:24:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Mar 2022 05:17:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -86,6 +86,22 @@
             <pubDate>Thu, 10 Mar 2022 07:15:42 GMT</pubDate>
             <content:encoded><![CDATA[3G 서비스를 중단시키려는 계획은 최소 3년 전부터 통신사들 사이에서 있어 왔다. 하지만 여전히 3G 서비스 종료에 대한 대처는 기업들 사이에서 마련되지 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/tele-thumb-00308.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[디지털헬스케어 기기·서비스, 보안 취약점 점검·컨설팅 통해 안전성 검증]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105375&amp;page=1&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105375&amp;page=1&amp;kind=2</guid>
+            <pubDate>Fri, 11 Mar 2022 05:15:01 GMT</pubDate>
+            <content:encoded><![CDATA[한국인터넷진흥원(KISA, 원장 이원태)과 과학기술정보통신부(장관 임혜숙)는 3월 10일부터 13일까지 4일간 서울 코엑스에서 진행되는 제37회 KIMES...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220311medical-s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[안랩, 메타버스 기반 ‘안랩 월드’에서 창립 27주년 기념 행사 개최]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105374&amp;page=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105374&amp;page=1&amp;kind=3</guid>
+            <pubDate>Fri, 11 Mar 2022 05:15:01 GMT</pubDate>
+            <content:encoded><![CDATA[안랩(대표 강석균)이 11일 메타버스 기반의 ‘안랩 월드’에서 비대면으로 창립 27주년 기념 행사를 개최했다.]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220311AHN-S.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[대구시, 화재취약계층에 주택용 소방시설 무상 보급]]></title>
@@ -219,22 +235,6 @@
             <pubDate>Thu, 10 Mar 2022 04:21:09 GMT</pubDate>
             <content:encoded><![CDATA[글로벌 WAAP(웹애플리케이션 &amp; API 보안) 선도기업인 임퍼바(Imperva)는  쉐도우 API(응용 프로그래밍 인터페이스) 트래픽에 대한 검색 및 민...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220310imperva-sm.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[‘2022년 블록체인 시범·확산사업’ 공모... 국비 189억 지원]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105345&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105345&amp;page=1&amp;kind=2</guid>
-            <pubDate>Thu, 10 Mar 2022 04:21:08 GMT</pubDate>
-            <content:encoded><![CDATA[한국인터넷진흥원(KISA, 원장 이원태)은 과학기술정보통신부(장관 임혜숙)와 4차 산업혁명의 핵심기술인 블록체인을 활용하여 국민체감도, 업무효율성, 데이터...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220310BLOCK-S.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한국, ITU WTSA-20에서 역대 최대인 10석의 의장단 진출 쾌거]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105344&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105344&amp;page=1&amp;kind=1</guid>
-            <pubDate>Thu, 10 Mar 2022 04:21:08 GMT</pubDate>
-            <content:encoded><![CDATA[과학기술정보통신부(장관 임혜숙, 이하 과기정통부)는 3월 1~9일 스위스 제네바에서 개최되었던 국제전기통신연합(이하 ITU) 세계전기통신표준화총회(WTSA...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220310itu-s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

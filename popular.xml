@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Mar 2022 04:24:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Mar 2022 05:17:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -56,20 +56,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/rusuk-thumb-0309.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[하버드와 리눅스재단, 오픈소스 인기와 취약점 순위 매겨 500개씩 선정]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105241&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105241&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Sat, 05 Mar 2022 13:18:18 GMT</pubDate>
-            <content:encoded><![CDATA[리눅스재단(Linux Foundation)과 하버드혁신과학실험실(Harvard Lab for Innovation Science)이 이번 주 몇 개의 주요 생태계에...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/rank-thumb-0304.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[보안 팀을 괴롭히는 ‘나쁜 보안 팀장’의 10가지 특징]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105351&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105351&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Fri, 11 Mar 2022 01:05:35 GMT</pubDate>
             <content:encoded><![CDATA[인력의 소모와 ‘번아웃’은 어느 산업, 어느 회사에서나 걱정이 될 수밖에 없는 변수다. 사이버 보안은 이런 면에서의 ‘염려’가 가장 큰 분야 중 하나라고 감히 말...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/lead-thumb-0310.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[하버드와 리눅스재단, 오픈소스 인기와 취약점 순위 매겨 500개씩 선정]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105241&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105241&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Sat, 05 Mar 2022 13:18:18 GMT</pubDate>
+            <content:encoded><![CDATA[리눅스재단(Linux Foundation)과 하버드혁신과학실험실(Harvard Lab for Innovation Science)이 이번 주 몇 개의 주요 생태계에...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/rank-thumb-0304.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[어나니머스, 러 군에 “탱크 포기하면 5만 2천 달러 준다” 제안]]></title>
@@ -136,14 +136,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/cut-thumb-0309.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[IT와 OT의 집합체 ‘스마트 빌딩’,  증가하는 보안위협은 어떻게 대응하나]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105239&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105239&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
-            <pubDate>Tue, 08 Mar 2022 16:23:12 GMT</pubDate>
-            <content:encoded><![CDATA[빌딩(Building)이 빠르게 변화하면서 빌딩의 의미와 기능이 새롭게 정의되고 있다. 특히 오늘날의 빌딩은 사용자가 거주하거나 일하거나, 혹은 즐기기 위한 편안...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/fotinet_030301_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[테라마스터 NAS에서 치명적인 보안 취약점 발견돼]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105317&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105317&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
@@ -165,6 +157,13 @@
             <guid>https://www.boannews.com/media/view.asp?idx=105258&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
             <pubDate>Thu, 10 Mar 2022 08:19:47 GMT</pubDate>
             <content:encoded><![CDATA[경남도는 도에서 관리하는 지방도·위임국도를 대상으로 운전자의 시인성 혼란을 초래하거나 차량 역주행 진입이 발생할 수 있는 교차로·터널 등에 대한 역주행 사고 예방...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[산업계가 원하는 반도체 핵심 인재, 4대 과학기술원이 키워낸다]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105253&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105253&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
+            <pubDate>Fri, 11 Mar 2022 05:15:11 GMT</pubDate>
+            <content:encoded><![CDATA[과학기술정보통신부는 지난 4일 4대 과학기술원을 통해 산업계가 원하는 반도체 연구개발 및 인재 양성을 지원하기 위한 제1회 ‘4대 과기원 반도체 인재 양성 협의회...]]></content:encoded>
         </item>
     </channel>
 </rss>
