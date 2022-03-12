@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 12 Mar 2022 03:18:51 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Mar 2022 04:22:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -136,6 +136,14 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20213304_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[아직도 취약한 로그4j 패키지들이 40% 정도 다운로드 되고 있다]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105377&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105377&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Sat, 12 Mar 2022 03:17:01 GMT</pubDate>
+            <content:encoded><![CDATA[아파치재단(Apache Foundation)이 로그4j(Log4j)의 취약점인 CVE-2021-44228을 공개한 지 3달이 지났다. 하지만 아직도 자바 패키지 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/40-thumb-0311.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[보안 업체들의 보안 상황, 사용자 기업들보다 낫지 않다]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105276&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105276&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
@@ -150,14 +158,6 @@
             <pubDate>Sat, 12 Mar 2022 03:17:01 GMT</pubDate>
             <content:encoded><![CDATA[IT 외신 블리핑컴퓨터에 의하면 FBI가 라그나록커(Ragnar Locker) 랜섬웨어에 대한 새로운 사실을 발표했다고 한다. 이 발표에 따르면 라그나록커 갱단이...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/ransom-thumb-0308.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아직도 취약한 로그4j 패키지들이 40% 정도 다운로드 되고 있다]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105377&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105377&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Sat, 12 Mar 2022 03:17:01 GMT</pubDate>
-            <content:encoded><![CDATA[아파치재단(Apache Foundation)이 로그4j(Log4j)의 취약점인 CVE-2021-44228을 공개한 지 3달이 지났다. 하지만 아직도 자바 패키지 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/40-thumb-0311.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[코인베이스, 러시아와 관련된 2만 5천 개 블록체인 주소 차단]]></title>
