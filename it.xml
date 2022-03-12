@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=2</id>
     <title>보안뉴스 ─ IT</title>
-    <updated>2022-03-12T06:21:32.095Z</updated>
+    <updated>2022-03-12T07:17:03.079Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[LG U+, 세계 최초 실사 우주 VR 콘텐츠 신규 공개]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=105358&amp;page=1&amp;mkind=2&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=105358&amp;page=1&amp;mkind=2&amp;kind=3"/>
+        <updated>2022-03-12T07:15:10.992Z</updated>
+        <content type="html"><![CDATA[LG유플러스는 의장사를 맡고 있는 세계 5G 콘텐츠 연합체 ‘Global XR Content Telco Alliance(XR 얼라이언스)’의 신규 VR(가상현실) 콘텐츠 ‘우주 체험: 국제우주정거장 경험(Space Explorers: The ISS Experience)...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[과기정통부, ‘과학기술인 협동조합 사업화 지원’ 공모]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=105356&amp;page=1&amp;mkind=2&amp;kind=2</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=105288&amp;page=1&amp;mkind=2&amp;kind=2"/>
         <updated>2022-03-08T03:17:25.156Z</updated>
         <content type="html"><![CDATA[산업통상자원부는 산업 부문의 디지털 전환 확산을 위한 체계적인 정책 추진을 위해 지난 7일 전담조직인 ‘산업 디지털 전환 추진단’을 출범했다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KOMSA, 빅데이터 기반 어선 검사 실시해 실질적인 사고 예방 기대]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=105283&amp;page=1&amp;mkind=2&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=105283&amp;page=1&amp;mkind=2&amp;kind=2"/>
-        <updated>2022-03-08T03:17:25.159Z</updated>
-        <content type="html"><![CDATA[세상에서 가장 안전한 바닷길을 만들기 위해 한국해양교통안전공단(KOMSA)이 다시 한 번 돛대를 올렸다. 공단은 어선의 안전성을 확인하기 위해 어선의 선체부터 각종 설비에 이르기까지 어선 전반에 대해서 100여개 이상의 검사 항목을 점검해 왔으나, 앞으로는 검사 정도 ...]]></content>
     </entry>
 </feed>

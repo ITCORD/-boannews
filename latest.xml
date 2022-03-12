@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 12 Mar 2022 06:21:32 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Mar 2022 07:17:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -86,6 +86,21 @@
             <pubDate>Fri, 11 Mar 2022 01:05:25 GMT</pubDate>
             <content:encoded><![CDATA[한국정보보호산업협회(KISIA, 회장 이동범)는 정보보호 전문 인력 양성을 위해 대학 정보보호동아리(KUCIS) 지원사업에 참여할 정보보호 소양과 역량을 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220311KISIA-2S.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[올해부터 한국판 뉴딜 사업 디지털 트윈국토 현실화]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105380&amp;page=1&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105380&amp;page=1&amp;kind=2</guid>
+            <pubDate>Sat, 12 Mar 2022 07:14:32 GMT</pubDate>
+            <content:encoded><![CDATA[안도걸 기획재정부 제2차관은 지난 11일 한국국토정보공사 경기북부지역본부(남양주) 개청식에 앞서 한국판 뉴딜의 대표과제인 ‘디지털 트윈국토’를 주제로 정책...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/3-122(295).jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[서울시, 전국 최초 구급차 전담 정비센터 운영해 구급차 안전 관리 강화]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105379&amp;page=1&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105379&amp;page=1&amp;kind=2</guid>
+            <pubDate>Sat, 12 Mar 2022 07:14:32 GMT</pubDate>
+            <content:encoded><![CDATA[서울시 소방재난본부는 증가하는 구급출동 수요에 대응해 구급차 안전 관리를 강화하기 위한 구급차 전담 정비센터를 운영한다고 밝혔다. 구급차 전담 정비센터는 ...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[디지털헬스케어 기기·서비스, 보안 취약점 점검·컨설팅 통해 안전성 검증]]></title>
@@ -219,22 +234,6 @@
             <pubDate>Thu, 10 Mar 2022 08:19:36 GMT</pubDate>
             <content:encoded><![CDATA[시큐브(대표이사 이규호)가 생체정보 기반의 전자서명 인증 시스템 및 그의 전자서명 인증 방법에 관한 일본 특허 취득을 10일 공시했다고 밝혔다.]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/22031004ss.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Weekly Security Premium Report 제41호 발간! 재택근무 보안 솔루션 ‘SASE’ 집중탐구]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105348&amp;page=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105348&amp;page=1&amp;kind=3</guid>
-            <pubDate>Thu, 10 Mar 2022 07:15:42 GMT</pubDate>
-            <content:encoded><![CDATA[3월 10일 발간된 ‘Weekly Security Premium Report’ 제41호에는 &lt;보안 심층 리포트&gt; 코너에서 코로나19가 장기화됨에...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220310report-sm.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[AT&T의 3G 통신 중단 서비스에 왜 연방통신위원회까지 나섰는가]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105322&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105322&amp;page=1&amp;kind=1</guid>
-            <pubDate>Thu, 10 Mar 2022 07:15:42 GMT</pubDate>
-            <content:encoded><![CDATA[3G 서비스를 중단시키려는 계획은 최소 3년 전부터 통신사들 사이에서 있어 왔다. 하지만 여전히 3G 서비스 종료에 대한 대처는 기업들 사이에서 마련되지 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/tele-thumb-00308.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
