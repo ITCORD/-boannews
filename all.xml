@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 12 Mar 2022 16:23:52 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Mar 2022 17:17:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -242,14 +242,6 @@
             <content:encoded><![CDATA[한국남동발전은 행정안전부 주관 2021년 재난 대응 안전한국훈련 평가에서 우수기관 선정 및 행정안전부 장관 표창을 수상했다고 밝혔다. 이번 수상은 지난해 ...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[삼성 갤럭시 스마트폰, 3연속 악재 터졌다! 치팅 → 백도어 → 해킹 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105262&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105262&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Sat, 05 Mar 2022 23:16:08 GMT</pubDate>
-            <content:encoded><![CDATA[최근 신규 스마트폰과 태블릿 라인업을 발표하여 모바일 기기 시장에서 많은 집중을 받고 있던 삼성이, 최근 세 가지 이슈가 연속해서 터지면서 그 어느 때보다 소비자...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/sam-thumb-0304.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[삼성전자, 사내공지로 해킹 시인... 국정원, 공공기관 피해 가능성 여부 조사 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105280&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105280&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
@@ -400,6 +392,14 @@
             <pubDate>Sat, 12 Mar 2022 03:17:01 GMT</pubDate>
             <content:encoded><![CDATA[보안 블로그인 시큐리티어페어즈에 의하면 유명 암호화폐 거래소인 코인베이스(Coinbase)가 러시아인 및 러시아 단체들이 사용하는 블록체인 주소 2만 5천여 개를...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/cryp-thumb-0308.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[모바일 뱅킹 앱에 대한 책임, 보다 뿌리 깊은 변화를 필요로 한다 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105279&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105279&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Sat, 12 Mar 2022 17:15:09 GMT</pubDate>
+            <content:encoded><![CDATA[은행의 고객들 중 ‘모바일 뱅킹’ 기능을 사용하는 사람들의 비중이 점점 높아지고 있다. 2020년 미국 기준, 모바일 장비로 은행 잔고를 확인하는 사용자는 86....]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/bank-thumb-0307.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[디지털헬스케어 기기·서비스, 보안 취약점 점검·컨설팅 통해 안전성 검증 (보안뉴스 ─ SECURITY)]]></title>
