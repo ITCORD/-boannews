@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-03-12T09:17:48.143Z</updated>
+    <updated>2022-03-12T10:19:41.186Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[디지털헬스케어 기기·서비스, 보안 취약점 점검·컨설팅 통해 안전성 검증]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=105375&amp;page=1&amp;mkind=1&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=105375&amp;page=1&amp;mkind=1&amp;kind=2"/>
+        <updated>2022-03-12T10:17:54.198Z</updated>
+        <content type="html"><![CDATA[한국인터넷진흥원(KISA, 원장 이원태)과 과학기술정보통신부(장관 임혜숙)는 3월 10일부터 13일까지 4일간 서울 코엑스에서 진행되는 제37회 KIMES(국제의료기기·병원설비전시회) 전시회에서 디지털헬스케어 관련 의료기기·서비스를 대상으로 보안 취약점 무료 점검 및 ...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[안랩, 메타버스 기반 ‘안랩 월드’에서 창립 27주년 기념 행사 개최]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=105374&amp;page=1&amp;mkind=1&amp;kind=3</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=105345&amp;page=1&amp;mkind=1&amp;kind=2"/>
         <updated>2022-03-10T06:19:52.958Z</updated>
         <content type="html"><![CDATA[한국인터넷진흥원(KISA, 원장 이원태)은 과학기술정보통신부(장관 임혜숙)와 4차 산업혁명의 핵심기술인 블록체인을 활용하여 국민체감도, 업무효율성, 데이터 신뢰성 등이 높은 사업을 발굴하는 ‘2022년 블록체인 시범·확산사업’을 공모한다고 10일 밝혔다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국, ITU WTSA-20에서 역대 최대인 10석의 의장단 진출 쾌거]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=105344&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=105344&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-03-10T05:15:39.168Z</updated>
-        <content type="html"><![CDATA[과학기술정보통신부(장관 임혜숙, 이하 과기정통부)는 3월 1~9일 스위스 제네바에서 개최되었던 국제전기통신연합(이하 ITU) 세계전기통신표준화총회(WTSA-20)에 참가하여 차기 회기 연구반 의장단에 역대 최대인 10석을 확보하여 정보통신분야 국제표준화 주도국 위상을 ...]]></content>
     </entry>
 </feed>
