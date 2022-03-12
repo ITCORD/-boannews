@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 12 Mar 2022 22:17:26 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Mar 2022 23:18:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -330,20 +330,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/cut-thumb-0309.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[기업 ‘디지털 발자국’ 보호에 골치 아픈 CISO를 위한 7개 보안 트렌드 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105308&amp;page=1&amp;kind=4&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105308&amp;page=1&amp;kind=4&amp;search=title&amp;find=</guid>
-            <pubDate>Fri, 11 Mar 2022 22:16:57 GMT</pubDate>
-            <content:encoded><![CDATA[보안 및 리스크 관리 리더들은 끊임없이 확장하는 현대 조직의 ‘디지털 발자국(digital footprint)’을 2022년에 나타나고 있는 위협뿐만 아니라 그 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20213304_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[아직도 취약한 로그4j 패키지들이 40% 정도 다운로드 되고 있다 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105377&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105377&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Sat, 12 Mar 2022 03:17:01 GMT</pubDate>
             <content:encoded><![CDATA[아파치재단(Apache Foundation)이 로그4j(Log4j)의 취약점인 CVE-2021-44228을 공개한 지 3달이 지났다. 하지만 아직도 자바 패키지 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/40-thumb-0311.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[기업 ‘디지털 발자국’ 보호에 골치 아픈 CISO를 위한 7개 보안 트렌드 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105308&amp;page=1&amp;kind=4&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105308&amp;page=1&amp;kind=4&amp;search=title&amp;find=</guid>
+            <pubDate>Fri, 11 Mar 2022 22:16:57 GMT</pubDate>
+            <content:encoded><![CDATA[보안 및 리스크 관리 리더들은 끊임없이 확장하는 현대 조직의 ‘디지털 발자국(digital footprint)’을 2022년에 나타나고 있는 위협뿐만 아니라 그 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20213304_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[테라마스터 NAS에서 치명적인 보안 취약점 발견돼 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
