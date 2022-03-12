@@ -4,9 +4,23 @@
         <title>보안뉴스 ─ 국제</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 12 Mar 2022 07:17:03 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Mar 2022 08:21:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[데이터를 모아야 결정을 내릴 수 있다? 아니, 일단 반대로 해 봐야]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105390&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=D&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105390&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=D&amp;search=title&amp;find=</guid>
+            <pubDate>Sat, 12 Mar 2022 08:20:50 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/view.asp?idx=105390&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=D&amp;search=title&amp;find=">
+					
+					<img src="/media/upFiles2/2022/03/dec-thumb-031.jpg" alt="" class="news_img" height="70">
+					
+					<span class="news_txt">데이터를 모아야 결정을 내릴 수 있다? 아니, 일단 반대로 해 봐야</span>
+					</a><br>
+					<a href="/media/view.asp?idx=105390&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=D&amp;search=title&amp;find=">그 때는 진짜 대단해 보였다. 데이터를 모으고, 신기술로 분석하고, 그럼으로써 통찰을 이끌어내서 사업에 접목하고, 올바른 결정을 내릴 수 있다니, ‘와’하는 소리...</a> <span class="news_writer">문가용 기자 | 2022년 03월 12일 16:39</span>]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/dec-thumb-031.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[보안 취약점에 대한 대처, 공격자에 비해 느려도 너무 느리다]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105378&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
@@ -272,20 +286,6 @@
 					</a><br>
 					<a href="/media/view.asp?idx=105317&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">보안 외신 해커뉴스에 의하면 테라마스터(TerraMaster)에서 출시한 NAS 장비들에서 여러 개의 초고위험도 취약점들이 발견됐다고 한다. 연쇄적으로 익스플로잇...</a> <span class="news_writer">문가용 기자 | 2022년 03월 08일 11:54</span>]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/stor-thumb-0308.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[코인베이스, 러시아와 관련된 2만 5천 개 블록체인 주소 차단]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105316&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105316&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
-            <pubDate>Tue, 08 Mar 2022 03:18:33 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/view.asp?idx=105316&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
-					
-					<img src="/media/upFiles2/2022/03/cryp-thumb-0308.jpg" alt="" class="news_img" height="70">
-					
-					<span class="news_txt">코인베이스, 러시아와 관련된 2만 5천 개 블록체인 주소 차단</span>
-					</a><br>
-					<a href="/media/view.asp?idx=105316&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">보안 블로그인 시큐리티어페어즈에 의하면 유명 암호화폐 거래소인 코인베이스(Coinbase)가 러시아인 및 러시아 단체들이 사용하는 블록체인 주소 2만 5천여 개를...</a> <span class="news_writer">문가용 기자 | 2022년 03월 08일 11:53</span>]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/cryp-thumb-0308.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

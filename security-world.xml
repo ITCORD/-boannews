@@ -4,9 +4,17 @@
         <title>보안뉴스 ─ Security World</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 12 Mar 2022 07:17:03 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Mar 2022 08:21:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[도심공원 내 CCTV, 효율적 설치·운영으로 안전 ...]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105387&amp;mkind=5</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105387&amp;mkind=5</guid>
+            <pubDate>Sat, 12 Mar 2022 08:19:56 GMT</pubDate>
+            <content:encoded><![CDATA[범죄 예방이나 시설안전 관리 등의 목적으로 생활 주변 곳곳에 공공 CCTV 설치가 확대되는 가운데 한국소비자원이 방범용 CCTV 설치에 대한 소비자 인식과...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/3-129(295).jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[제품리뷰] 스누아이랩의 현장 자동 학습 ‘Auto...]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105376&amp;mkind=5</link>
@@ -14,14 +22,6 @@
             <pubDate>Fri, 11 Mar 2022 06:20:36 GMT</pubDate>
             <content:encoded><![CDATA[스누아이랩은 현장에서 레이블이 없는 데이터(이미지·영상)을 즉시 활용해 자동 재학습이 가능한 능력을 갖춘 ‘AutoCare 플랫폼’을 기반으로 객체 검출 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/22031101ss.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[슈프리마 신임 북미 법인장 임명]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105337&amp;mkind=5</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105337&amp;mkind=5</guid>
-            <pubDate>Thu, 10 Mar 2022 02:45:57 GMT</pubDate>
-            <content:encoded><![CDATA[바이오인식 및통합보안전문기업슈프리마(대표 이재원, 김한철)가 유럽 및 중동·아프리카 시장 점유율 1위에 이어, 북미 시장 공략을 위한 신임 북미 법인장을 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/22031002ss.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
