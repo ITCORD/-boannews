@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 12 Mar 2022 20:19:13 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Mar 2022 21:15:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -96,14 +96,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/cut-thumb-0309.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[테라마스터 NAS에서 치명적인 보안 취약점 발견돼]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105317&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105317&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Thu, 10 Mar 2022 02:45:22 GMT</pubDate>
-            <content:encoded><![CDATA[보안 외신 해커뉴스에 의하면 테라마스터(TerraMaster)에서 출시한 NAS 장비들에서 여러 개의 초고위험도 취약점들이 발견됐다고 한다. 연쇄적으로 익스플로잇...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/stor-thumb-0308.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[기업 ‘디지털 발자국’ 보호에 골치 아픈 CISO를 위한 7개 보안 트렌드]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105308&amp;page=1&amp;kind=4&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105308&amp;page=1&amp;kind=4&amp;search=title&amp;find=</guid>
@@ -112,12 +104,12 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20213304_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[올해 지자체 지능형 교통체계 구축 지원 사업 방향과 규모는?]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105326&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105326&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
-            <pubDate>Thu, 10 Mar 2022 13:22:15 GMT</pubDate>
-            <content:encoded><![CDATA[국토교통부는 전국 지자체를 대상으로 올해 지능형 교통체계(ITS) 공모사업 선정 방향과 선정 대상, 지원 규모 및 절차 등을 안내하고 지역의 현장 의견을 수렴하기...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/3-99(295).jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[테라마스터 NAS에서 치명적인 보안 취약점 발견돼]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105317&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105317&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Thu, 10 Mar 2022 02:45:22 GMT</pubDate>
+            <content:encoded><![CDATA[보안 외신 해커뉴스에 의하면 테라마스터(TerraMaster)에서 출시한 NAS 장비들에서 여러 개의 초고위험도 취약점들이 발견됐다고 한다. 연쇄적으로 익스플로잇...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/stor-thumb-0308.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아직도 취약한 로그4j 패키지들이 40% 정도 다운로드 되고 있다]]></title>
@@ -126,6 +118,14 @@
             <pubDate>Sat, 12 Mar 2022 03:17:01 GMT</pubDate>
             <content:encoded><![CDATA[아파치재단(Apache Foundation)이 로그4j(Log4j)의 취약점인 CVE-2021-44228을 공개한 지 3달이 지났다. 하지만 아직도 자바 패키지 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/40-thumb-0311.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[올해 지자체 지능형 교통체계 구축 지원 사업 방향과 규모는?]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105326&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105326&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
+            <pubDate>Thu, 10 Mar 2022 13:22:15 GMT</pubDate>
+            <content:encoded><![CDATA[국토교통부는 전국 지자체를 대상으로 올해 지능형 교통체계(ITS) 공모사업 선정 방향과 선정 대상, 지원 규모 및 절차 등을 안내하고 지역의 현장 의견을 수렴하기...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/3-99(295).jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[보안 업체들의 보안 상황, 사용자 기업들보다 낫지 않다]]></title>
