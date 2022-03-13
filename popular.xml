@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 13 Mar 2022 10:19:07 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Mar 2022 11:15:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -72,20 +72,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/21767900_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[한국도로공사 통행료 납부 안내문? 네이버 계정 탈취 위한 피싱 메일]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105311&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105311&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Thu, 10 Mar 2022 04:21:19 GMT</pubDate>
-            <content:encoded><![CDATA[지난 3일부터 한국도로공사 통행료 납부를 위장한 피싱 메일이 대량으로 유포되고 있어 사용자들의 주의가 필요하다. 해당 피싱 메일은 ‘회원님께 도착한 새 전자문서를...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220310_report-S.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
             <title><![CDATA[아직도 취약한 로그4j 패키지들이 40% 정도 다운로드 되고 있다]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105377&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105377&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Sat, 12 Mar 2022 03:17:01 GMT</pubDate>
             <content:encoded><![CDATA[아파치재단(Apache Foundation)이 로그4j(Log4j)의 취약점인 CVE-2021-44228을 공개한 지 3달이 지났다. 하지만 아직도 자바 패키지 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/40-thumb-0311.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한국도로공사 통행료 납부 안내문? 네이버 계정 탈취 위한 피싱 메일]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105311&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105311&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Thu, 10 Mar 2022 04:21:19 GMT</pubDate>
+            <content:encoded><![CDATA[지난 3일부터 한국도로공사 통행료 납부를 위장한 피싱 메일이 대량으로 유포되고 있어 사용자들의 주의가 필요하다. 해당 피싱 메일은 ‘회원님께 도착한 새 전자문서를...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220310_report-S.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[용인시, 전국 최초 ‘월패드 해킹’ 방지 제도 도입]]></title>
@@ -120,20 +120,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/stor-thumb-0308.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[올해 지자체 지능형 교통체계 구축 지원 사업 방향과 규모는?]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105326&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105326&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
-            <pubDate>Thu, 10 Mar 2022 13:22:15 GMT</pubDate>
-            <content:encoded><![CDATA[국토교통부는 전국 지자체를 대상으로 올해 지능형 교통체계(ITS) 공모사업 선정 방향과 선정 대상, 지원 규모 및 절차 등을 안내하고 지역의 현장 의견을 수렴하기...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/3-99(295).jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[bnTV] 다크웹 소재의 해킹·보안 드라마, 이거 실화냐?]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105391&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105391&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Sun, 13 Mar 2022 02:09:12 GMT</pubDate>
             <content:encoded><![CDATA[드라마들 보면 해킹을 하는 과정에 대한 영화는 꽤 많이 나오고 있어요. 그런데 해커를 잡는 방법에 대해서는 제 기억에는 그렇게 많지 않았던 것 같아서 그런 부분들...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220312dark.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[올해 지자체 지능형 교통체계 구축 지원 사업 방향과 규모는?]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105326&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105326&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
+            <pubDate>Thu, 10 Mar 2022 13:22:15 GMT</pubDate>
+            <content:encoded><![CDATA[국토교통부는 전국 지자체를 대상으로 올해 지능형 교통체계(ITS) 공모사업 선정 방향과 선정 대상, 지원 규모 및 절차 등을 안내하고 지역의 현장 의견을 수렴하기...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/3-99(295).jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[데이터를 모아야 결정을 내릴 수 있다? 아니, 일단 반대로 해 봐야]]></title>
