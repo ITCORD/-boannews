@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 13 Mar 2022 03:19:09 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Mar 2022 04:22:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -88,20 +88,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/3-104(295).jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[점점 고립되는 러시아, 정보통신망도 가닥가닥 끊어지고 있어]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105335&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105335&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Thu, 10 Mar 2022 09:16:23 GMT</pubDate>
-            <content:encoded><![CDATA[러시아를 경제적으로 고립시키려는 국제적인 움직임이 이어지고 있는 가운데, 러시아의 통신망을 고립시키려는 시도도 발현되고 있다. 이는 클라우드 서비스로의 접근까지도...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/cut-thumb-0309.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[아직도 취약한 로그4j 패키지들이 40% 정도 다운로드 되고 있다]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105377&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105377&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Sat, 12 Mar 2022 03:17:01 GMT</pubDate>
             <content:encoded><![CDATA[아파치재단(Apache Foundation)이 로그4j(Log4j)의 취약점인 CVE-2021-44228을 공개한 지 3달이 지났다. 하지만 아직도 자바 패키지 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/40-thumb-0311.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[점점 고립되는 러시아, 정보통신망도 가닥가닥 끊어지고 있어]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105335&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105335&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Thu, 10 Mar 2022 09:16:23 GMT</pubDate>
+            <content:encoded><![CDATA[러시아를 경제적으로 고립시키려는 국제적인 움직임이 이어지고 있는 가운데, 러시아의 통신망을 고립시키려는 시도도 발현되고 있다. 이는 클라우드 서비스로의 접근까지도...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/cut-thumb-0309.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[기업 ‘디지털 발자국’ 보호에 골치 아픈 CISO를 위한 7개 보안 트렌드]]></title>
@@ -144,14 +144,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/act-thumb-0307.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[FBI, “랜섬웨어 갱들이 52개 사회 기반 조직들 침해했다”]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105315&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105315&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Sat, 12 Mar 2022 03:17:01 GMT</pubDate>
-            <content:encoded><![CDATA[IT 외신 블리핑컴퓨터에 의하면 FBI가 라그나록커(Ragnar Locker) 랜섬웨어에 대한 새로운 사실을 발표했다고 한다. 이 발표에 따르면 라그나록커 갱단이...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/ransom-thumb-0308.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Weekly Security Premium Report 제41호 발간! 재택근무 보안 솔루션 ‘SASE’ 집중탐구]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105348&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105348&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
@@ -160,12 +152,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220310report-sm.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
-            <title><![CDATA[아이쓰리시스템, 열화상 카메라로 신속하고 안전한 설비관리 솔루션 제시]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105321&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105321&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
-            <pubDate>Sat, 12 Mar 2022 22:15:40 GMT</pubDate>
-            <content:encoded><![CDATA[국내 적외선센서 전문기업 아이쓰리시스템이 3월 17일부터 19일까지 강남구 삼성동 코엑스(COEX) C홀에서 열리는 2022 한국전기산업대전/한국발전산업전에서 배...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/22030803ss.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[FBI, “랜섬웨어 갱들이 52개 사회 기반 조직들 침해했다”]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105315&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105315&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Sat, 12 Mar 2022 03:17:01 GMT</pubDate>
+            <content:encoded><![CDATA[IT 외신 블리핑컴퓨터에 의하면 FBI가 라그나록커(Ragnar Locker) 랜섬웨어에 대한 새로운 사실을 발표했다고 한다. 이 발표에 따르면 라그나록커 갱단이...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/ransom-thumb-0308.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[데이터를 모아야 결정을 내릴 수 있다? 아니, 일단 반대로 해 봐야]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105390&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105390&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
+            <pubDate>Sun, 13 Mar 2022 04:20:36 GMT</pubDate>
+            <content:encoded><![CDATA[그 때는 진짜 대단해 보였다. 데이터를 모으고, 신기술로 분석하고, 그럼으로써 통찰을 이끌어내서 사업에 접목하고, 올바른 결정을 내릴 수 있다니, ‘와’하는 소리...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/dec-thumb-031.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
