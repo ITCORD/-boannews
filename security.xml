@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-03-13T16:24:20.689Z</updated>
+    <updated>2022-03-13T17:17:37.232Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[카드뉴스] 최악의 보안 취약점 Log4j]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=105393&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=105393&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-03-13T17:15:56.059Z</updated>
+        <content type="html"><![CDATA[Log4j 취약점은 2021년 12월 처음 발견됐으며, 공격자가 원격으로 감염시키는 해킹 방법이 공개되면서 화두가 되기 시작했다. 해당 취약점을 악용해 공격자가 특정 메시지를 입력하면 공격자는 원격지에서 컴퓨터 서비스 권한을 탈취할 수 있다. Log4j 취약점은 많은 ...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[bnTV] 다크웹 소재의 해킹·보안 드라마, 이거 실화냐?]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=105391&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=105391&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-03-13T17:15:56.062Z</updated>
+        <content type="html"><![CDATA[드라마들 보면 해킹을 하는 과정에 대한 영화는 꽤 많이 나오고 있어요. 그런데 해커를 잡는 방법에 대해서는 제 기억에는 그렇게 많지 않았던 것 같아서 그런 부분들도 좀 가미되면 재밌는 내용들이 더 나오지 않을까 기대합니다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[보안 취약점에 대한 대처, 공격자에 비해 느려도 너무 느리다]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=105378&amp;page=1&amp;mkind=1&amp;kind=1</id>
@@ -109,19 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=105322&amp;page=1&amp;mkind=1&amp;kind=1"/>
         <updated>2022-03-10T08:19:56.277Z</updated>
         <content type="html"><![CDATA[3G 서비스를 중단시키려는 계획은 최소 3년 전부터 통신사들 사이에서 있어 왔다. 하지만 여전히 3G 서비스 종료에 대한 대처는 기업들 사이에서 마련되지 않은 것으로 보인다. 지난 주 미국의 거대 통신사 AT&amp;T가 3G 서비스 중단 계획을 도입하기 시작한 것만으로도 여...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[보안 강자 맨디언트, MS가 아니라 구글에 안착하다]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=105349&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=105349&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-03-10T08:19:56.287Z</updated>
-        <content type="html"><![CDATA[구글이 사이버 사건 대응 전문 업체인 맨디언트(Mandiant)를 54억 달러에 매입하기로 했다고 발표했다. 구글이 사이버 보안 쪽으로 사업을 확장시키려 한다는 것이 익히 알려진 사실이었음에도 이 발표는 꽤나 화제가 되고 있다. 어쩌면 MS가 먼저 맨디언트에 눈독을 들...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[안랩, 사내 카페 일회용컵 사용량 대폭 감소]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=105347&amp;page=1&amp;mkind=1&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=105347&amp;page=1&amp;mkind=1&amp;kind=3"/>
-        <updated>2022-03-10T07:16:00.991Z</updated>
-        <content type="html"><![CDATA[안랩(대표 강석균)이 환경(E)경영 실천을 위해 도입한 다회용컵 사용이 임직원 호응을 얻어 일회용컵 사용량이 대폭 줄었다고 밝혔다]]></content>
     </entry>
 </feed>

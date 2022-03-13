@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 13 Mar 2022 16:24:20 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Mar 2022 17:17:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[정보보호 공시제도, 의무대상 기업 후보 622곳 공개! 국내외 대기업 총망라 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105396&amp;page=1&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105396&amp;page=1&amp;kind=2</guid>
+            <pubDate>Sun, 13 Mar 2022 17:15:38 GMT</pubDate>
+            <content:encoded><![CDATA[기업의 정보보호 관련 현황을 공개하는 정보보호 공시제도가 올해부터 크게 달라지는 가운데 6월 30일까지 정보보호 공시를 반드시 해야 하는 의무대상 기업 후...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220314kong-s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[최악의 보안 취약점 ‘Log4j’, 남은 이슈와 보안담당자들의 과제 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105394&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105394&amp;page=1&amp;kind=1</guid>
+            <pubDate>Sun, 13 Mar 2022 17:15:38 GMT</pubDate>
+            <content:encoded><![CDATA[2021년 12월 처음 발견돼 사상 최악의 보안 취약점으로 불리는 Log4j 취약점(일명 Log4Shell)이 올해도 가장 큰 보안 위협 가운데 하나로 지...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220313log-s.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“엄마~ 나 핸드폰 떨어뜨려서...” 자녀 사칭 스미싱, 지금도 계속된다 (보안뉴스 ─ 전체기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105395&amp;page=1&amp;kind=1</link>
@@ -70,22 +86,6 @@
             <pubDate>Fri, 11 Mar 2022 06:19:44 GMT</pubDate>
             <content:encoded><![CDATA[스누아이랩은 현장에서 레이블이 없는 데이터(이미지·영상)을 즉시 활용해 자동 재학습이 가능한 능력을 갖춘 ‘AutoCare 플랫폼’을 기반으로 객체 검출 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/22031101ss.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤석열 당선인의 사이버 보안 정책, 어떤 방향으로 추진될까 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105373&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105373&amp;page=1&amp;kind=2</guid>
-            <pubDate>Fri, 11 Mar 2022 02:40:24 GMT</pubDate>
-            <content:encoded><![CDATA[윤석열 국민의힘 후보가 제20대 대통령 당선된 가운데 윤석열 당선인의 차기 정부에서 보안 정책이 어떻게 추진될지 관심이 모아지고 있다. IT 분야 공약으로...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220311YOUN-S.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[기업의 ‘문의서 양식’ 통해 바자백도어 유포되고 있다 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105372&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105372&amp;page=1&amp;kind=1</guid>
-            <pubDate>Fri, 11 Mar 2022 02:40:24 GMT</pubDate>
-            <content:encoded><![CDATA[IT 매체인 블리핑컴퓨터에 의하면 기업의 웹사이트를 통해 바자백도어(BazarBackdoor)라는 멀웨어가 유포되고 있다고 한다. 보다 정확히 말하면 고객...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/con-thumb-0311.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[창원시, 서비스로봇산업 육성 가시적 성과 뚜렷 (보안뉴스 ─ 전체기사)]]></title>
@@ -182,6 +182,22 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220311AHN-S.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[윤석열 당선인의 사이버 보안 정책, 어떤 방향으로 추진될까 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105373&amp;page=1&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105373&amp;page=1&amp;kind=2</guid>
+            <pubDate>Fri, 11 Mar 2022 02:40:24 GMT</pubDate>
+            <content:encoded><![CDATA[윤석열 국민의힘 후보가 제20대 대통령 당선된 가운데 윤석열 당선인의 차기 정부에서 보안 정책이 어떻게 추진될지 관심이 모아지고 있다. IT 분야 공약으로...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220311YOUN-S.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[기업의 ‘문의서 양식’ 통해 바자백도어 유포되고 있다 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105372&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105372&amp;page=1&amp;kind=1</guid>
+            <pubDate>Fri, 11 Mar 2022 02:40:24 GMT</pubDate>
+            <content:encoded><![CDATA[IT 매체인 블리핑컴퓨터에 의하면 기업의 웹사이트를 통해 바자백도어(BazarBackdoor)라는 멀웨어가 유포되고 있다고 한다. 보다 정확히 말하면 고객...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/con-thumb-0311.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[다시 시작된 칵봇 캠페인, 이메일 스레드에 침투해 (보안뉴스 ─ 전체기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105371&amp;page=1&amp;kind=1</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105371&amp;page=1&amp;kind=1</guid>
@@ -227,20 +243,6 @@
             <guid>https://www.boannews.com/media/view.asp?idx=105366&amp;page=1&amp;kind=2</guid>
             <pubDate>Fri, 11 Mar 2022 01:05:25 GMT</pubDate>
             <content:encoded><![CDATA[대구시는 화재취약계층이 거주하는 주택의 화재로 인한 인명피해를 최소화하고 주거공간의 안전성을 제고하기 위해 6,000가구에 주택용 소방시설을 무상 보급한다...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[교통안전공단, 기계식주차장 사고 방지를 위한 안전 대책 강화 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105365&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105365&amp;page=1&amp;kind=2</guid>
-            <pubDate>Fri, 11 Mar 2022 01:05:25 GMT</pubDate>
-            <content:encoded><![CDATA[한국교통안전공단은 “기계식주차장에서 관리자와 이용자의 부주의 등으로 인해 발생하는 사고를 예방하기 위해 기계식주차장 안전 대책을 강화한다”고 밝혔다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[울산시, ‘울산시 재난안전연구센터’ 2022년도 사업 착수 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105364&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105364&amp;page=1&amp;kind=2</guid>
-            <pubDate>Fri, 11 Mar 2022 01:05:25 GMT</pubDate>
-            <content:encoded><![CDATA[울산시는 지난 10일 ‘2022년 울산시 재난안전연구센터 사업 착수 보고회’를 갖고 올해 사업을 시작한다고 밝혔다. ‘울산시 재난안전연구센터’는 울산시와 ...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[삼성전자, 사내공지로 해킹 시인... 국정원, 공공기관 피해 가능성 여부 조사 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
@@ -315,20 +317,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/3-104(295).jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[기업 ‘디지털 발자국’ 보호에 골치 아픈 CISO를 위한 7개 보안 트렌드 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105308&amp;page=1&amp;kind=4&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105308&amp;page=1&amp;kind=4&amp;search=title&amp;find=</guid>
-            <pubDate>Fri, 11 Mar 2022 22:16:57 GMT</pubDate>
-            <content:encoded><![CDATA[보안 및 리스크 관리 리더들은 끊임없이 확장하는 현대 조직의 ‘디지털 발자국(digital footprint)’을 2022년에 나타나고 있는 위협뿐만 아니라 그 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20213304_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[bnTV] 다크웹 소재의 해킹·보안 드라마, 이거 실화냐? (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105391&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105391&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Sun, 13 Mar 2022 02:09:12 GMT</pubDate>
             <content:encoded><![CDATA[드라마들 보면 해킹을 하는 과정에 대한 영화는 꽤 많이 나오고 있어요. 그런데 해커를 잡는 방법에 대해서는 제 기억에는 그렇게 많지 않았던 것 같아서 그런 부분들...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220312dark.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[기업 ‘디지털 발자국’ 보호에 골치 아픈 CISO를 위한 7개 보안 트렌드 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105308&amp;page=1&amp;kind=4&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105308&amp;page=1&amp;kind=4&amp;search=title&amp;find=</guid>
+            <pubDate>Fri, 11 Mar 2022 22:16:57 GMT</pubDate>
+            <content:encoded><![CDATA[보안 및 리스크 관리 리더들은 끊임없이 확장하는 현대 조직의 ‘디지털 발자국(digital footprint)’을 2022년에 나타나고 있는 위협뿐만 아니라 그 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20213304_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[점점 고립되는 러시아, 정보통신망도 가닥가닥 끊어지고 있어 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
@@ -401,6 +403,20 @@
             <pubDate>Sun, 13 Mar 2022 16:22:16 GMT</pubDate>
             <content:encoded><![CDATA[국내 인증 보안 전문기업 센스톤(대표 유창훈)의 글로벌 헤드쿼터 swIDch(스위치)가 ‘제18회 사이버시큐리티 글로벌 엑셀런스 어워드(Cyber Security...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/ssen_030801_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[카드뉴스] 최악의 보안 취약점 Log4j (보안뉴스 ─ SECURITY)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105393&amp;page=1&amp;mkind=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105393&amp;page=1&amp;mkind=1&amp;kind=1</guid>
+            <pubDate>Sun, 13 Mar 2022 17:15:56 GMT</pubDate>
+            <content:encoded><![CDATA[Log4j 취약점은 2021년 12월 처음 발견됐으며, 공격자가 원격으로 감염시키는 해킹 방법이 공개되면서 화두가 되기 시작했다. 해당 취약점을 악용해 공격자가 특정 메시지를 입력하면 공격자는 원격지에서 컴퓨터 서비스 권한을 탈취할 수 있다. Log4j 취약점은 많은 ...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[bnTV] 다크웹 소재의 해킹·보안 드라마, 이거 실화냐? (보안뉴스 ─ SECURITY)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105391&amp;page=1&amp;mkind=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105391&amp;page=1&amp;mkind=1&amp;kind=1</guid>
+            <pubDate>Sun, 13 Mar 2022 17:15:56 GMT</pubDate>
+            <content:encoded><![CDATA[드라마들 보면 해킹을 하는 과정에 대한 영화는 꽤 많이 나오고 있어요. 그런데 해커를 잡는 방법에 대해서는 제 기억에는 그렇게 많지 않았던 것 같아서 그런 부분들도 좀 가미되면 재밌는 내용들이 더 나오지 않을까 기대합니다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[보안 취약점에 대한 대처, 공격자에 비해 느려도 너무 느리다 (보안뉴스 ─ SECURITY)]]></title>
@@ -506,20 +522,6 @@
             <guid>https://www.boannews.com/media/view.asp?idx=105322&amp;page=1&amp;mkind=1&amp;kind=1</guid>
             <pubDate>Thu, 10 Mar 2022 08:19:56 GMT</pubDate>
             <content:encoded><![CDATA[3G 서비스를 중단시키려는 계획은 최소 3년 전부터 통신사들 사이에서 있어 왔다. 하지만 여전히 3G 서비스 종료에 대한 대처는 기업들 사이에서 마련되지 않은 것으로 보인다. 지난 주 미국의 거대 통신사 AT&amp;T가 3G 서비스 중단 계획을 도입하기 시작한 것만으로도 여...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[보안 강자 맨디언트, MS가 아니라 구글에 안착하다 (보안뉴스 ─ SECURITY)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105349&amp;page=1&amp;mkind=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105349&amp;page=1&amp;mkind=1&amp;kind=1</guid>
-            <pubDate>Thu, 10 Mar 2022 08:19:56 GMT</pubDate>
-            <content:encoded><![CDATA[구글이 사이버 사건 대응 전문 업체인 맨디언트(Mandiant)를 54억 달러에 매입하기로 했다고 발표했다. 구글이 사이버 보안 쪽으로 사업을 확장시키려 한다는 것이 익히 알려진 사실이었음에도 이 발표는 꽤나 화제가 되고 있다. 어쩌면 MS가 먼저 맨디언트에 눈독을 들...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[안랩, 사내 카페 일회용컵 사용량 대폭 감소 (보안뉴스 ─ SECURITY)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105347&amp;page=1&amp;mkind=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105347&amp;page=1&amp;mkind=1&amp;kind=3</guid>
-            <pubDate>Thu, 10 Mar 2022 07:16:00 GMT</pubDate>
-            <content:encoded><![CDATA[안랩(대표 강석균)이 환경(E)경영 실천을 위해 도입한 다회용컵 사용이 임직원 호응을 얻어 일회용컵 사용량이 대폭 줄었다고 밝혔다]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[김천시, 드론 활용한 ‘2022년도 지적재조사 사업’ 추진 (보안뉴스 ─ IT)]]></title>
@@ -774,6 +776,20 @@
             <pubDate>Fri, 11 Mar 2022 06:20:36 GMT</pubDate>
             <content:encoded><![CDATA[스누아이랩은 현장에서 레이블이 없는 데이터(이미지·영상)을 즉시 활용해 자동 재학습이 가능한 능력을 갖춘 ‘AutoCare 플랫폼’을 기반으로 객체 검출 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/22031101ss.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[최악의 보안 취약점 ‘Log4j’, 남은 이슈와 보안담당자들의 과제 (보안뉴스 ─ 취약점 경고 및 버그리포트)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105394&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105394&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=</guid>
+            <pubDate>Sun, 13 Mar 2022 17:16:31 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/view.asp?idx=105394&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=">
+					
+					<img src="/media/upFiles2/2022/03/20220313log-s.jpg" alt="" class="news_img" height="70">
+					
+					<span class="news_txt">최악의 보안 취약점 ‘Log4j’, 남은 이슈와 보안담당자들의 과제  </span>
+					</a><br>
+					<a href="/media/view.asp?idx=105394&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=">2021년 12월 처음 발견돼 사상 최악의 보안 취약점으로 불리는 Log4j 취약점(일명 Log4Shell)이 올해도 가장 큰 보안 위협 가운데 하나로 지목되고 ...</a> <span class="news_writer">권준  기자 | 2022년 03월 14일 01:37</span>]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220313log-s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[“엄마~ 나 핸드폰 떨어뜨려서...” 자녀 사칭 스미싱, 지금도 계속된다 (보안뉴스 ─ 취약점 경고 및 버그리포트)]]></title>
@@ -1040,20 +1056,6 @@
 					</a><br>
 					<a href="/media/view.asp?idx=105111&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=">국제 핵티비스트 그룹 어나니머스(Anonymous)가 우크라이나를 침공한 러시아 정부 홈페이지를 공격해 마비시킨 것이 확인됐다. 또한, 어나니머스는 러시아 국영T...</a> <span class="news_writer">원병철 기자 | 2022년 02월 27일 23:52</span>]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/russia_022701_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우크라이나 사태 대비, 범정부 사이버위협 대응체계 강화한다 (보안뉴스 ─ 취약점 경고 및 버그리포트)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105080&amp;page=1&amp;mkind=&amp;kind=2&amp;skind=5&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105080&amp;page=1&amp;mkind=&amp;kind=2&amp;skind=5&amp;search=title&amp;find=</guid>
-            <pubDate>Fri, 25 Feb 2022 09:16:29 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/view.asp?idx=105080&amp;page=1&amp;mkind=&amp;kind=2&amp;skind=5&amp;search=title&amp;find=">
-					
-					<img src="/media/upFiles2/2022/02/21522667_main.jpg" alt="" class="news_img" height="70">
-					
-					<span class="news_txt">우크라이나 사태 대비, 범정부 사이버위협 대응체계 강화한다</span>
-					</a><br>
-					<a href="/media/view.asp?idx=105080&amp;page=1&amp;mkind=&amp;kind=2&amp;skind=5&amp;search=title&amp;find=">정부는 최근 우크라이나 사태로 인해 전 세계적으로 디도스 공격 등 사이버위협이 증대되고 있는 상황에서 국내에 미칠 수 있는 영향을 예의주시하고 있으며, 사이버위협...</a> <span class="news_writer">원병철 기자 | 2022년 02월 25일 17:19</span>]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/21522667_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[최정식 발행인 칼럼] <시큐리티월드> 통권 300호를 맞아 드리는 감사의 말씀 (보안뉴스 ─ 오피니언)]]></title>
@@ -1616,6 +1618,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2021/09/21090102ss(0).jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[정보보호 공시제도, 의무대상 기업 후보 622곳 공개! 국내외 대기업 총망라 (보안뉴스 ─ 정책)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105396&amp;page=1&amp;mkind=&amp;kind=2&amp;skind=6&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105396&amp;page=1&amp;mkind=&amp;kind=2&amp;skind=6&amp;search=title&amp;find=</guid>
+            <pubDate>Sun, 13 Mar 2022 17:16:59 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/view.asp?idx=105396&amp;page=1&amp;mkind=&amp;kind=2&amp;skind=6&amp;search=title&amp;find=">
+					
+					<img src="/media/upFiles2/2022/03/20220314kong-s.jpg" alt="" class="news_img" height="70">
+					
+					<span class="news_txt">정보보호 공시제도, 의무대상 기업 후보 622곳 공개! 국내외 대기업 총망라   </span>
+					</a><br>
+					<a href="/media/view.asp?idx=105396&amp;page=1&amp;mkind=&amp;kind=2&amp;skind=6&amp;search=title&amp;find=">기업의 정보보호 관련 현황을 공개하는 정보보호 공시제도가 올해부터 크게 달라지는 가운데 6월 30일까지 정보보호 공시를 반드시 해야 하는 의무대상 기업 후보 62...</a> <span class="news_writer">권준  기자 | 2022년 03월 14일 01:41</span>]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220314kong-s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[디지털헬스케어 기기·서비스, 보안 취약점 점검·컨설팅 통해 안전성 검증 (보안뉴스 ─ 정책)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105375&amp;page=1&amp;mkind=&amp;kind=2&amp;skind=6&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105375&amp;page=1&amp;mkind=&amp;kind=2&amp;skind=6&amp;search=title&amp;find=</guid>
@@ -1880,20 +1896,6 @@
 					</a><br>
 					<a href="/media/view.asp?idx=104421&amp;page=1&amp;mkind=&amp;kind=2&amp;skind=6&amp;search=title&amp;find=">개인정보보호위원회(위원장 윤종인, 이하 개인정보위)는 1월 26일 개최한 제2회 전체회의에서 개인정보보호 법규를 위반한 사업자를 대상으로 총 2,680만원의 과태...</a> <span class="news_writer">원병철 기자 | 2022년 01월 26일 18:06</span>]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/free_012601_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘의료기기 사이버보안 허가·심사 기준’ 개정... 보안 적용 대상 확대 (보안뉴스 ─ 정책)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104292&amp;page=1&amp;mkind=&amp;kind=2&amp;skind=6&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104292&amp;page=1&amp;mkind=&amp;kind=2&amp;skind=6&amp;search=title&amp;find=</guid>
-            <pubDate>Sat, 22 Jan 2022 00:50:37 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/view.asp?idx=104292&amp;page=1&amp;mkind=&amp;kind=2&amp;skind=6&amp;search=title&amp;find=">
-					
-					<img src="/media/upFiles2/2022/01/1-233(295).jpg" alt="" class="news_img" height="70">
-					
-					<span class="news_txt">‘의료기기 사이버보안 허가·심사 기준’ 개정... 보안 적용 대상 확대 </span>
-					</a><br>
-					<a href="/media/view.asp?idx=104292&amp;page=1&amp;mkind=&amp;kind=2&amp;skind=6&amp;search=title&amp;find=">식약처는 최근 디지털헬스케어 의료기기나 통신 기술을 이용한 의료기기의 개발이 활성화됨에 따라 해킹 등 보안 사고를 예방하기 위해 ‘의료기기 사이버보안 허가·심사 ...</a> <span class="news_writer">박미영 기자 | 2022년 01월 22일 09:22</span>]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/1-233(295).jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[데이터를 모아야 결정을 내릴 수 있다? 아니, 일단 반대로 해 봐야 (보안뉴스 ─ 국제)]]></title>
