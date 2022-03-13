@@ -4,9 +4,17 @@
         <title>보안뉴스 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 13 Mar 2022 12:26:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Mar 2022 13:21:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[카드뉴스] 최악의 보안 취약점 Log4j]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105393&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105393&amp;page=1&amp;kind=1</guid>
+            <pubDate>Sun, 13 Mar 2022 13:19:13 GMT</pubDate>
+            <content:encoded><![CDATA[Log4j 취약점은 2021년 12월 처음 발견됐으며, 공격자가 원격으로 감염시키는 해킹 방법이 공개되면서 화두가 되기 시작했다. 해당 취약점을 악용해 공...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220313card-sm.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[bnTV] 다크웹 소재의 해킹·보안 드라마, 이거 실화냐?]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105391&amp;page=1&amp;kind=1</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 11 Mar 2022 02:40:24 GMT</pubDate>
             <content:encoded><![CDATA[보안 외신인 스레트포스트에 의하면 칵봇(Qakbot)이라는 봇넷이 점점 더 사나워지고 있다고 한다. 최근 시작된 칵봇 캠페인은 이메일 스레드에 침투해 악성...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/qak-thumb-0311.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[러시아 공격하려는 우크라이나 IT 군대, 누군가 노린다]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105370&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105370&amp;page=1&amp;kind=1</guid>
-            <pubDate>Fri, 11 Mar 2022 02:40:24 GMT</pubDate>
-            <content:encoded><![CDATA[보안 블로그 시큐리티어페어즈에 따르면 우크라이나가 러시아를 공격하기 위해 모집한 ‘IT 군대’를 겨냥한 사이버 공격이 시작됐다고 한다. 보안 업체 시스코가...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/lib-thumb00311.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[창원시, 서비스로봇산업 육성 가시적 성과 뚜렷]]></title>
@@ -182,6 +182,14 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220311AHN-S.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[러시아 공격하려는 우크라이나 IT 군대, 누군가 노린다]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105370&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105370&amp;page=1&amp;kind=1</guid>
+            <pubDate>Fri, 11 Mar 2022 02:40:24 GMT</pubDate>
+            <content:encoded><![CDATA[보안 블로그 시큐리티어페어즈에 따르면 우크라이나가 러시아를 공격하기 위해 모집한 ‘IT 군대’를 겨냥한 사이버 공격이 시작됐다고 한다. 보안 업체 시스코가...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/lib-thumb00311.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[페이스북, 스스로의 규칙 깨고 헤이트 스피치 허용]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105369&amp;page=1&amp;kind=1</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105369&amp;page=1&amp;kind=1</guid>
@@ -233,13 +241,6 @@
             <pubDate>Fri, 11 Mar 2022 01:05:25 GMT</pubDate>
             <content:encoded><![CDATA[수원시가 행정안전부의 ‘2021년 재난 대응 안전한국훈련 점검’에서 우수기관으로 선정돼 장관 표창을 받는다. 수원시는 지난해 11월 대규모 재난 상황이 발...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/3-118(295).jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[남동발전, 2021년 재난 대응 안전한국훈련 우수기관 선정]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105362&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105362&amp;page=1&amp;kind=2</guid>
-            <pubDate>Fri, 11 Mar 2022 01:05:25 GMT</pubDate>
-            <content:encoded><![CDATA[한국남동발전은 행정안전부 주관 2021년 재난 대응 안전한국훈련 평가에서 우수기관 선정 및 행정안전부 장관 표창을 수상했다고 밝혔다. 이번 수상은 지난해 ...]]></content:encoded>
         </item>
     </channel>
 </rss>
