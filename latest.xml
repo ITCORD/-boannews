@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Mar 2022 06:22:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Mar 2022 07:18:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -86,6 +86,14 @@
             <pubDate>Sun, 13 Mar 2022 17:15:38 GMT</pubDate>
             <content:encoded><![CDATA[2021년 12월 처음 발견돼 사상 최악의 보안 취약점으로 불리는 Log4j 취약점(일명 Log4Shell)이 올해도 가장 큰 보안 위협 가운데 하나로 지...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220313log-s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘2022년 ICT 중소기업 정보보호 지원 사업’ 보안 제품 및 솔루션 공급기업 모집]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105407&amp;page=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105407&amp;page=1&amp;kind=3</guid>
+            <pubDate>Mon, 14 Mar 2022 07:16:18 GMT</pubDate>
+            <content:encoded><![CDATA[한국정보보호산업협회(회장 이동범, 이하 ‘KISIA’)는 과학기술정보통신부(장관 임혜숙, 이하 ‘과기정통부’)와 한국인터넷진흥원(원장 이원태, 이하 ‘KI...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/kisia_031401_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[효성인포메이션시스템, 미드레인지 스토리지 ‘VSP E1090’ 출시]]></title>
@@ -236,14 +244,6 @@
             <pubDate>Fri, 11 Mar 2022 06:19:44 GMT</pubDate>
             <content:encoded><![CDATA[아파치재단(Apache Foundation)이 로그4j(Log4j)의 취약점인 CVE-2021-44228을 공개한 지 3달이 지났다. 하지만 아직도 자바 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/40-thumb-0311.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[제품리뷰] 스누아이랩의 현장 자동 학습 ‘AutoCare AI 플랫폼’]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105376&amp;page=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105376&amp;page=1&amp;kind=3</guid>
-            <pubDate>Fri, 11 Mar 2022 06:19:44 GMT</pubDate>
-            <content:encoded><![CDATA[스누아이랩은 현장에서 레이블이 없는 데이터(이미지·영상)을 즉시 활용해 자동 재학습이 가능한 능력을 갖춘 ‘AutoCare 플랫폼’을 기반으로 객체 검출 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/22031101ss.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
