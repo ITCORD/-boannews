@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Mar 2022 03:20:29 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Mar 2022 04:26:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[크롬 브라우저에서 제로데이 취약점이 폭증하는 이유 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105405&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105405&amp;page=1&amp;kind=1</guid>
+            <pubDate>Mon, 14 Mar 2022 04:24:15 GMT</pubDate>
+            <content:encoded><![CDATA[구글이 최근 폭증하고 있는 크롬 제로데이 취약점에 대해 발표했다고 보안 매체 시큐리티위크가 보도했다. 구글은 구글이 자사 제품과 서비스에 대한 취약점을 투...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/zer-thumb-0314.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[안드로이드 멀웨어 에스코바, 구글 MFA 인증 코드 훔쳐 (보안뉴스 ─ 전체기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105404&amp;page=1&amp;kind=1</link>
@@ -80,14 +88,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220313log-s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[“엄마~ 나 핸드폰 떨어뜨려서...” 자녀 사칭 스미싱, 지금도 계속된다 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105395&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105395&amp;page=1&amp;kind=1</guid>
-            <pubDate>Sun, 13 Mar 2022 15:15:49 GMT</pubDate>
-            <content:encoded><![CDATA[휴대폰이 고장났다는 메시지를 부모에게 보낸 뒤 수리비 등의 명목으로 급하게 돈이 필요하다며 금품을 요구하는 스미싱이 끊임없이 유포되고 있다. 최근 유포된 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220313SMI-SM.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[효성인포메이션시스템, 미드레인지 스토리지 ‘VSP E1090’ 출시 (보안뉴스 ─ 전체기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105399&amp;page=1&amp;kind=3</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105399&amp;page=1&amp;kind=3</guid>
@@ -102,6 +102,14 @@
             <pubDate>Mon, 14 Mar 2022 01:02:52 GMT</pubDate>
             <content:encoded><![CDATA[현재 우리는 두 세계가 충돌하는 것을 보고 있다. 클라우드, 모바일, 하이브리드 등 사용자들은 방화벽을 뛰어 넘는 업무 환경에 놓여 있지만, 한편으로는 기...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/forcepointOne_031401_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[“엄마~ 나 핸드폰 떨어뜨려서...” 자녀 사칭 스미싱, 지금도 계속된다 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105395&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105395&amp;page=1&amp;kind=1</guid>
+            <pubDate>Sun, 13 Mar 2022 15:15:49 GMT</pubDate>
+            <content:encoded><![CDATA[휴대폰이 고장났다는 메시지를 부모에게 보낸 뒤 수리비 등의 명목으로 급하게 돈이 필요하다며 금품을 요구하는 스미싱이 끊임없이 유포되고 있다. 최근 유포된 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220313SMI-SM.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[카드뉴스] 최악의 보안 취약점 Log4j (보안뉴스 ─ 전체기사)]]></title>
@@ -238,14 +246,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/22031101ss.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[디지털헬스케어 기기·서비스, 보안 취약점 점검·컨설팅 통해 안전성 검증 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105375&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105375&amp;page=1&amp;kind=2</guid>
-            <pubDate>Fri, 11 Mar 2022 05:15:01 GMT</pubDate>
-            <content:encoded><![CDATA[한국인터넷진흥원(KISA, 원장 이원태)과 과학기술정보통신부(장관 임혜숙)는 3월 10일부터 13일까지 4일간 서울 코엑스에서 진행되는 제37회 KIMES...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220311medical-s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[삼성전자, 사내공지로 해킹 시인... 국정원, 공공기관 피해 가능성 여부 조사 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105280&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105280&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
@@ -358,6 +358,14 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/3-99(295).jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[정보보호 공시제도, 의무대상 기업 후보 622곳 공개! 국내외 대기업 총망라 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105396&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105396&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
+            <pubDate>Mon, 14 Mar 2022 03:18:44 GMT</pubDate>
+            <content:encoded><![CDATA[기업의 정보보호 관련 현황을 공개하는 정보보호 공시제도가 올해부터 크게 달라지는 가운데 6월 30일까지 정보보호 공시를 반드시 해야 하는 의무대상 기업 후보 62...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220314kong-s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[보안 취약점에 대한 대처, 공격자에 비해 느려도 너무 느리다 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105378&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105378&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
@@ -390,20 +398,19 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220310report-sm.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
-            <title><![CDATA[정보보호 공시제도, 의무대상 기업 후보 622곳 공개! 국내외 대기업 총망라 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105396&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105396&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
-            <pubDate>Mon, 14 Mar 2022 03:18:44 GMT</pubDate>
-            <content:encoded><![CDATA[기업의 정보보호 관련 현황을 공개하는 정보보호 공시제도가 올해부터 크게 달라지는 가운데 6월 30일까지 정보보호 공시를 반드시 해야 하는 의무대상 기업 후보 62...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220314kong-s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[올해부터 한국판 뉴딜 사업 디지털 트윈국토 현실화 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105380&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105380&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
             <pubDate>Sun, 13 Mar 2022 15:15:59 GMT</pubDate>
             <content:encoded><![CDATA[안도걸 기획재정부 제2차관은 지난 11일 한국국토정보공사 경기북부지역본부(남양주) 개청식에 앞서 한국판 뉴딜의 대표과제인 ‘디지털 트윈국토’를 주제로 정책 간담회...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/3-122(295).jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[러시아, 독자적인 TLS 인증서 발급하기 시작 (보안뉴스 ─ SECURITY)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105402&amp;page=1&amp;mkind=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105402&amp;page=1&amp;mkind=1&amp;kind=1</guid>
+            <pubDate>Mon, 14 Mar 2022 04:24:34 GMT</pubDate>
+            <content:encoded><![CDATA[러시아에 대한 제재가 강력해지자 러시아 조직들이 해외 디지털 인증서에 대한 값을 지불할 수 없게 됐다. 그러면서 러시아 일반 사용자들의 인터넷 접근이 점점 더 많이 막히고 있는 상황이다. 그러자 러시아는 자신들만의 TLS 인증서를 발급하기 시작했다고 보안 외신인 쓰레트...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[인스타그램을 전면 금지시킨 러시아 (보안뉴스 ─ SECURITY)]]></title>
@@ -516,13 +523,6 @@
             <guid>https://www.boannews.com/media/view.asp?idx=105369&amp;page=1&amp;mkind=1&amp;kind=1</guid>
             <pubDate>Fri, 11 Mar 2022 02:40:43 GMT</pubDate>
             <content:encoded><![CDATA[일간지 워싱턴포스트에 따르면 페이스북은 오랜 시간 ‘헤이트 스피치’를 허용하지 않는다는 규칙을 플랫폼 내에서 엄격하게 지켜왔지만 이번 러시아 사태에 있어서는 예외 규정을 만들어 적용할 예정이라고 한다. 러시아가 우크라이나를 불법적으로 침략했으니, 그런 러시아 침략에 대...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[러시아의 해커들, 우크라이나 통신사 공격해 인터넷 마비시켜 (보안뉴스 ─ SECURITY)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105368&amp;page=1&amp;mkind=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105368&amp;page=1&amp;mkind=1&amp;kind=1</guid>
-            <pubDate>Fri, 11 Mar 2022 02:40:43 GMT</pubDate>
-            <content:encoded><![CDATA[일간지 포브스에 따르면 러시아의 해커들도 자신들의 정부의 움직임에 맞춰 부지런히 우크라이나를 공격하고 있다고 한다. 이 때문에 우크라이나 일부 지역에서는 인터넷과 통신이 완전히 마비되어 있기도 하다. 특히 통신사인 트리올란(Triolan)이 해킹 공격 때문에 다운된 것...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[데이터를 모아야 결정을 내릴 수 있다? 아니, 일단 반대로 해 봐야 (보안뉴스 ─ IT)]]></title>
