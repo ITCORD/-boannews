@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=2</id>
     <title>보안뉴스 ─ IT</title>
-    <updated>2022-03-14T08:22:24.525Z</updated>
+    <updated>2022-03-14T09:17:58.388Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[로우코드와 노코드 개발 프로젝트, 실패하는 주요 이유 4]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=105392&amp;page=1&amp;mkind=2&amp;kind=4</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=105392&amp;page=1&amp;mkind=2&amp;kind=4"/>
+        <updated>2022-03-14T09:16:29.949Z</updated>
+        <content type="html"><![CDATA[최근 많은 조직들에서 로우코드 도구들을 도입하고 있다. 누구나 전문적인 개발 교육을 받지 않고도(아니면 조금만 받고도) 애플리케이션을 개발할 수 있게 된다고 하니, 도입하지 않을 이유가 오히려 없다. 그러면서 ‘모두가 개발자가 된다’ 혹은 ‘개발의 민주화다’라는 소리까...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[테크칼럼] 기술회사, 네스프레소]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=105398&amp;page=1&amp;mkind=2&amp;kind=6</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=105398&amp;page=1&amp;mkind=2&amp;kind=6"/>
+        <updated>2022-03-14T09:16:29.954Z</updated>
+        <content type="html"><![CDATA[국내 커피소비량은 성인 기준 연간 353잔. 매일 한 잔씩 마신다는 얘기다. 이는 세계 평균 소비량의 3배다. 커피와 같은 차 음료에는 다른 식품과 달리 특유의 ‘소셜라이징’ 즉, 사회적 친화 기능이 있다. 차 한 잔 앞에 놓고 이런저런 친교가 이뤄지곤 하기 때문이다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[데이터를 모아야 결정을 내릴 수 있다? 아니, 일단 반대로 해 봐야]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=105390&amp;page=1&amp;mkind=2&amp;kind=3</id>
@@ -109,19 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=105354&amp;page=1&amp;mkind=2&amp;kind=2"/>
         <updated>2022-03-11T01:06:00.024Z</updated>
         <content type="html"><![CDATA[특허청은 대전시, 제주도, 경기도 성남시와 함께 지역기업의 지식재산 사업화를 촉진하기 위해 11일부터 ‘2022년 지식재산(IP) 제품 혁신 지원 사업(지자체 협업형)’에 참여할 기업의 신청을 받는다고 밝혔다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대구시, 2022년 로봇산업 가치사슬 확장 및 상생시스템 구축 사업 본격 시행]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=105353&amp;page=1&amp;mkind=2&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=105353&amp;page=1&amp;mkind=2&amp;kind=2"/>
-        <updated>2022-03-11T01:06:00.026Z</updated>
-        <content type="html"><![CDATA[대구시는 자동차, 기계·전자 등 지역주력산업과 로봇산업의 융합을 통한 지역 로봇시장 활성화 및 자생적 시장생태계 조성을 위해 올해 54억원 규모의 ‘2022년 로봇산업 가치사슬 확장 및 상생시스템 구축 사업’을 본격 시행한다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국화웨이, 경북·강원 산불 피해 구호 성금 1억원 기부]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=105343&amp;page=1&amp;mkind=2&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=105343&amp;page=1&amp;mkind=2&amp;kind=3"/>
-        <updated>2022-03-11T01:06:00.028Z</updated>
-        <content type="html"><![CDATA[한국화웨이는 특별재난지역으로 선포된 경북 울진과 강원 삼척 등지의 산불 피해 복구와 이재민 지원을 위한 기부에 동참했다. 경북 울진과 강원도 삼척, 강릉 등지에서 닷새째 이어지고 있는 대규모 산불로 인한 피해 복구와 피해 지역 이재민들이 하루 빨리 일상으로 복귀할 수 ...]]></content>
     </entry>
 </feed>
