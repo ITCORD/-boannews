@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 13 Mar 2022 23:18:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Mar 2022 01:05:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -86,6 +86,14 @@
             <pubDate>Fri, 11 Mar 2022 06:19:44 GMT</pubDate>
             <content:encoded><![CDATA[스누아이랩은 현장에서 레이블이 없는 데이터(이미지·영상)을 즉시 활용해 자동 재학습이 가능한 능력을 갖춘 ‘AutoCare 플랫폼’을 기반으로 객체 검출 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/22031101ss.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[원격과 사무실, 하이브리드 사용자를 보호하는 ONE 제로 트러스트 플랫폼]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105397&amp;page=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105397&amp;page=1&amp;kind=3</guid>
+            <pubDate>Mon, 14 Mar 2022 01:02:52 GMT</pubDate>
+            <content:encoded><![CDATA[현재 우리는 두 세계가 충돌하는 것을 보고 있다. 클라우드, 모바일, 하이브리드 등 사용자들은 방화벽을 뛰어 넘는 업무 환경에 놓여 있지만, 한편으로는 기...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/forcepointOne_031401_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[창원시, 서비스로봇산업 육성 가시적 성과 뚜렷]]></title>
@@ -236,13 +244,6 @@
             <pubDate>Fri, 11 Mar 2022 01:05:25 GMT</pubDate>
             <content:encoded><![CDATA[한국정보보호산업협회(KISIA, 회장 이동범)는 정보보호 전문 인력 양성을 위해 대학 정보보호동아리(KUCIS) 지원사업에 참여할 정보보호 소양과 역량을 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220311KISIA-2S.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[대구시, 화재취약계층에 주택용 소방시설 무상 보급]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105366&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105366&amp;page=1&amp;kind=2</guid>
-            <pubDate>Fri, 11 Mar 2022 01:05:25 GMT</pubDate>
-            <content:encoded><![CDATA[대구시는 화재취약계층이 거주하는 주택의 화재로 인한 인명피해를 최소화하고 주거공간의 안전성을 제고하기 위해 6,000가구에 주택용 소방시설을 무상 보급한다...]]></content:encoded>
         </item>
     </channel>
 </rss>
