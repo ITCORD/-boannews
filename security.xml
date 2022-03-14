@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-03-14T07:18:25.560Z</updated>
+    <updated>2022-03-14T08:22:24.522Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[안드로이드 멀웨어 에스코바, 구글 MFA 인증 코드 훔쳐]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=105404&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=105404&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-03-14T08:20:32.551Z</updated>
+        <content type="html"><![CDATA[에스코바(Escobar)라는 이름의 안드로이드 멀웨어가 나타났다고 외신인 블리핑컴퓨터가 보도했다. 어비어봇(Aberebot)이라는 기존 뱅킹 멀웨어의 후예로 보이는데, 어비어봇과 달리 구글 다중인증 오센티케이터의 인증 코드를 훔치는 기능을 탑재한 것으로 알려져 있다. ...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[어나니머스, 러시아인들에 “푸틴을 제거하라”고 촉구]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=105403&amp;page=1&amp;mkind=1&amp;kind=1</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=105371&amp;page=1&amp;mkind=1&amp;kind=1"/>
         <updated>2022-03-11T05:15:20.430Z</updated>
         <content type="html"><![CDATA[보안 외신인 스레트포스트에 의하면 칵봇(Qakbot)이라는 봇넷이 점점 더 사나워지고 있다고 한다. 최근 시작된 칵봇 캠페인은 이메일 스레드에 침투해 악성 모듈을 집어넣는 방식으로 구사되고 있다고 보안 업체 소포스(Sophos)가 발표했다. 이메일 스레드에 침투한다는 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[러시아 공격하려는 우크라이나 IT 군대, 누군가 노린다]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=105370&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=105370&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-03-11T02:40:43.858Z</updated>
-        <content type="html"><![CDATA[보안 블로그 시큐리티어페어즈에 따르면 우크라이나가 러시아를 공격하기 위해 모집한 ‘IT 군대’를 겨냥한 사이버 공격이 시작됐다고 한다. 보안 업체 시스코가 발견한 것으로, 공격자들은 디도스 공격 도구로 위장된 해킹 도구 ‘리버레이터(Liberator)’를 활용하고 있다...]]></content>
     </entry>
 </feed>

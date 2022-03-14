@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Mar 2022 07:18:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Mar 2022 08:22:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이젠 사람의 아이덴티티만이 아니라 ‘워크로드 아이덴티티’도 보호해야 한다 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105408&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105408&amp;page=1&amp;kind=1</guid>
+            <pubDate>Mon, 14 Mar 2022 08:20:13 GMT</pubDate>
+            <content:encoded><![CDATA[팬데믹은 원격 근무 체제를 활성화시켰고, 그러면서 클라우드의 도입을 가속화했다. 이제 어느 조직이나 원격 근무자들을 위한 디지털 인프라를 갖추려 하고 있다...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/iden-thumb-0314.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[크롬 브라우저에서 제로데이 취약점이 폭증하는 이유 (보안뉴스 ─ 전체기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105405&amp;page=1&amp;kind=1</link>
@@ -80,14 +88,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220314kong-s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[최악의 보안 취약점 ‘Log4j’, 남은 이슈와 보안담당자들의 과제 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105394&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105394&amp;page=1&amp;kind=1</guid>
-            <pubDate>Sun, 13 Mar 2022 17:15:38 GMT</pubDate>
-            <content:encoded><![CDATA[2021년 12월 처음 발견돼 사상 최악의 보안 취약점으로 불리는 Log4j 취약점(일명 Log4Shell)이 올해도 가장 큰 보안 위협 가운데 하나로 지...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220313log-s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[‘2022년 ICT 중소기업 정보보호 지원 사업’ 보안 제품 및 솔루션 공급기업 모집 (보안뉴스 ─ 전체기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105407&amp;page=1&amp;kind=3</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105407&amp;page=1&amp;kind=3</guid>
@@ -110,6 +110,14 @@
             <pubDate>Mon, 14 Mar 2022 01:02:52 GMT</pubDate>
             <content:encoded><![CDATA[현재 우리는 두 세계가 충돌하는 것을 보고 있다. 클라우드, 모바일, 하이브리드 등 사용자들은 방화벽을 뛰어 넘는 업무 환경에 놓여 있지만, 한편으로는 기...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/forcepointOne_031401_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[최악의 보안 취약점 ‘Log4j’, 남은 이슈와 보안담당자들의 과제 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105394&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105394&amp;page=1&amp;kind=1</guid>
+            <pubDate>Sun, 13 Mar 2022 17:15:38 GMT</pubDate>
+            <content:encoded><![CDATA[2021년 12월 처음 발견돼 사상 최악의 보안 취약점으로 불리는 Log4j 취약점(일명 Log4Shell)이 올해도 가장 큰 보안 위협 가운데 하나로 지...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220313log-s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[“엄마~ 나 핸드폰 떨어뜨려서...” 자녀 사칭 스미싱, 지금도 계속된다 (보안뉴스 ─ 전체기사)]]></title>
@@ -236,14 +244,6 @@
             <pubDate>Fri, 11 Mar 2022 08:19:04 GMT</pubDate>
             <content:encoded><![CDATA[공격자들이 새로운 취약점을 익스플로잇 하는 데에는 보통 수일에서 수주 정도 걸린다. 그런데 방어자들이 새로운 취약점 소식을 접하고 연구하고 필요한 대책을 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/slow-thumb-0311.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아직도 취약한 로그4j 패키지들이 40% 정도 다운로드 되고 있다 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105377&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105377&amp;page=1&amp;kind=1</guid>
-            <pubDate>Fri, 11 Mar 2022 06:19:44 GMT</pubDate>
-            <content:encoded><![CDATA[아파치재단(Apache Foundation)이 로그4j(Log4j)의 취약점인 CVE-2021-44228을 공개한 지 3달이 지났다. 하지만 아직도 자바 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/40-thumb-0311.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[삼성전자, 사내공지로 해킹 시인... 국정원, 공공기관 피해 가능성 여부 조사 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
@@ -382,14 +382,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/ssen_030801_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[아이쓰리시스템, 열화상 카메라로 신속하고 안전한 설비관리 솔루션 제시 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105321&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105321&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
-            <pubDate>Sun, 13 Mar 2022 08:18:26 GMT</pubDate>
-            <content:encoded><![CDATA[국내 적외선센서 전문기업 아이쓰리시스템이 3월 17일부터 19일까지 강남구 삼성동 코엑스(COEX) C홀에서 열리는 2022 한국전기산업대전/한국발전산업전에서 배...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/22030803ss.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[올해부터 한국판 뉴딜 사업 디지털 트윈국토 현실화 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105380&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105380&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
@@ -398,12 +390,27 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/3-122(295).jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[아이쓰리시스템, 열화상 카메라로 신속하고 안전한 설비관리 솔루션 제시 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105321&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105321&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
+            <pubDate>Sun, 13 Mar 2022 08:18:26 GMT</pubDate>
+            <content:encoded><![CDATA[국내 적외선센서 전문기업 아이쓰리시스템이 3월 17일부터 19일까지 강남구 삼성동 코엑스(COEX) C홀에서 열리는 2022 한국전기산업대전/한국발전산업전에서 배...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/22030803ss.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Weekly Security Premium Report 제41호 발간! 재택근무 보안 솔루션 ‘SASE’ 집중탐구 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105348&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105348&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
             <pubDate>Sat, 12 Mar 2022 11:14:14 GMT</pubDate>
             <content:encoded><![CDATA[3월 10일 발간된 ‘Weekly Security Premium Report’ 제41호에는 &lt;보안 심층 리포트&gt; 코너에서 코로나19가 장기화됨에 따라 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220310report-sm.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[안드로이드 멀웨어 에스코바, 구글 MFA 인증 코드 훔쳐 (보안뉴스 ─ SECURITY)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105404&amp;page=1&amp;mkind=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105404&amp;page=1&amp;mkind=1&amp;kind=1</guid>
+            <pubDate>Mon, 14 Mar 2022 08:20:32 GMT</pubDate>
+            <content:encoded><![CDATA[에스코바(Escobar)라는 이름의 안드로이드 멀웨어가 나타났다고 외신인 블리핑컴퓨터가 보도했다. 어비어봇(Aberebot)이라는 기존 뱅킹 멀웨어의 후예로 보이는데, 어비어봇과 달리 구글 다중인증 오센티케이터의 인증 코드를 훔치는 기능을 탑재한 것으로 알려져 있다. ...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[어나니머스, 러시아인들에 “푸틴을 제거하라”고 촉구 (보안뉴스 ─ SECURITY)]]></title>
@@ -516,13 +523,6 @@
             <guid>https://www.boannews.com/media/view.asp?idx=105371&amp;page=1&amp;mkind=1&amp;kind=1</guid>
             <pubDate>Fri, 11 Mar 2022 05:15:20 GMT</pubDate>
             <content:encoded><![CDATA[보안 외신인 스레트포스트에 의하면 칵봇(Qakbot)이라는 봇넷이 점점 더 사나워지고 있다고 한다. 최근 시작된 칵봇 캠페인은 이메일 스레드에 침투해 악성 모듈을 집어넣는 방식으로 구사되고 있다고 보안 업체 소포스(Sophos)가 발표했다. 이메일 스레드에 침투한다는 ...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[러시아 공격하려는 우크라이나 IT 군대, 누군가 노린다 (보안뉴스 ─ SECURITY)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105370&amp;page=1&amp;mkind=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105370&amp;page=1&amp;mkind=1&amp;kind=1</guid>
-            <pubDate>Fri, 11 Mar 2022 02:40:43 GMT</pubDate>
-            <content:encoded><![CDATA[보안 블로그 시큐리티어페어즈에 따르면 우크라이나가 러시아를 공격하기 위해 모집한 ‘IT 군대’를 겨냥한 사이버 공격이 시작됐다고 한다. 보안 업체 시스코가 발견한 것으로, 공격자들은 디도스 공격 도구로 위장된 해킹 도구 ‘리버레이터(Liberator)’를 활용하고 있다...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[데이터를 모아야 결정을 내릴 수 있다? 아니, 일단 반대로 해 봐야 (보안뉴스 ─ IT)]]></title>
@@ -1899,6 +1899,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/free_012601_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[이젠 사람의 아이덴티티만이 아니라 ‘워크로드 아이덴티티’도 보호해야 한다 (보안뉴스 ─ 국제)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105408&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105408&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
+            <pubDate>Mon, 14 Mar 2022 08:21:54 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/view.asp?idx=105408&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
+					
+					<img src="/media/upFiles2/2022/03/iden-thumb-0314.jpg" alt="" class="news_img" height="70">
+					
+					<span class="news_txt">이젠 사람의 아이덴티티만이 아니라 ‘워크로드 아이덴티티’도 보호해야 한다</span>
+					</a><br>
+					<a href="/media/view.asp?idx=105408&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">팬데믹은 원격 근무 체제를 활성화시켰고, 그러면서 클라우드의 도입을 가속화했다. 이제 어느 조직이나 원격 근무자들을 위한 디지털 인프라를 갖추려 하고 있다. 하지...</a> <span class="news_writer">문가용 기자 | 2022년 03월 14일 16:37</span>]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/iden-thumb-0314.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[크롬 브라우저에서 제로데이 취약점이 폭증하는 이유 (보안뉴스 ─ 국제)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105405&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105405&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
@@ -2163,20 +2177,6 @@
 					</a><br>
 					<a href="/media/view.asp?idx=105281&amp;page=1&amp;mkind=&amp;kind=4&amp;skind=D&amp;search=title&amp;find=">IT/보안 업계에서 자주 사용되는 용어들 중 최근 몇 년 동안 “문제가 있다”고 지적되어 온 것들이 있다. 주인과 노예를 뜻하는 ‘마스터’와 ‘슬레이브’, 흑과 ...</a> <span class="news_writer">문가용 기자 | 2022년 03월 10일 12:07</span>]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/lan-thumb-0308.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미국 재무부, “러시아가 랜섬웨어 활용해 제재 피해갈 수 있다” (보안뉴스 ─ 국제)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105342&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105342&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
-            <pubDate>Thu, 10 Mar 2022 02:46:44 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/view.asp?idx=105342&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
-					
-					<img src="/media/upFiles2/2022/03/econo-thumb-00310.jpg" alt="" class="news_img" height="70">
-					
-					<span class="news_txt">미국 재무부, “러시아가 랜섬웨어 활용해 제재 피해갈 수 있다”</span>
-					</a><br>
-					<a href="/media/view.asp?idx=105342&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">보안 외신 블리핑컴퓨터에 의하면 러시아가 국제 제재를 피하기 위해 랜섬웨어를 적극 활용할 수 있다는 경고가 미국 재무부로부터 나왔다고 한다. 주류 금융망으로부터 ...</a> <span class="news_writer">문가용 기자 | 2022년 03월 10일 11:28</span>]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/econo-thumb-00310.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[통합보안 3사 에스원·SK쉴더스·KT텔레캅, 소비자의 생각과 선택은? (보안뉴스 ─ 기획특집)]]></title>
