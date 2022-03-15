@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Mar 2022 01:05:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Mar 2022 02:42:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,14 +48,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220312dark.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
-            <title><![CDATA[아직도 취약한 로그4j 패키지들이 40% 정도 다운로드 되고 있다]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105377&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105377&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Sat, 12 Mar 2022 03:17:01 GMT</pubDate>
-            <content:encoded><![CDATA[아파치재단(Apache Foundation)이 로그4j(Log4j)의 취약점인 CVE-2021-44228을 공개한 지 3달이 지났다. 하지만 아직도 자바 패키지 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/40-thumb-0311.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[정보보호 공시제도, 의무대상 기업 후보 622곳 공개! 국내외 대기업 총망라]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105396&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105396&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
@@ -64,12 +56,12 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220314kong-s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[한국도로공사 통행료 납부 안내문? 네이버 계정 탈취 위한 피싱 메일]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105311&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105311&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Thu, 10 Mar 2022 04:21:19 GMT</pubDate>
-            <content:encoded><![CDATA[지난 3일부터 한국도로공사 통행료 납부를 위장한 피싱 메일이 대량으로 유포되고 있어 사용자들의 주의가 필요하다. 해당 피싱 메일은 ‘회원님께 도착한 새 전자문서를...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220310_report-S.JPG" length="0" type="image/JPG"/>
+            <title><![CDATA[아직도 취약한 로그4j 패키지들이 40% 정도 다운로드 되고 있다]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105377&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105377&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Sat, 12 Mar 2022 03:17:01 GMT</pubDate>
+            <content:encoded><![CDATA[아파치재단(Apache Foundation)이 로그4j(Log4j)의 취약점인 CVE-2021-44228을 공개한 지 3달이 지났다. 하지만 아직도 자바 패키지 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/40-thumb-0311.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[데이터를 모아야 결정을 내릴 수 있다? 아니, 일단 반대로 해 봐야]]></title>
@@ -144,6 +136,14 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/22030803ss.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[국정원, 정보보호 및 취약점 분석 전문가 채용 나섰다]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105409&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105409&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
+            <pubDate>Tue, 15 Mar 2022 01:03:52 GMT</pubDate>
+            <content:encoded><![CDATA[국가정보원이 ‘2022년도 국가정보원 경력경쟁채용 공고’를 내고 특정직 5급과 6급 채용에 나섰다. 특히 이번 채용 공고에는 정보보호, 취약점분석, 네트워크 구축...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/nis_031401_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[Weekly Security Premium Report 제41호 발간! 재택근무 보안 솔루션 ‘SASE’ 집중탐구]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105348&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105348&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
@@ -160,12 +160,12 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/3-125(295).jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[국정원, 정보보호 및 취약점 분석 전문가 채용 나섰다]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105409&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105409&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
-            <pubDate>Tue, 15 Mar 2022 01:03:52 GMT</pubDate>
-            <content:encoded><![CDATA[국가정보원이 ‘2022년도 국가정보원 경력경쟁채용 공고’를 내고 특정직 5급과 6급 채용에 나섰다. 특히 이번 채용 공고에는 정보보호, 취약점분석, 네트워크 구축...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/nis_031401_main.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[도심공원 내 CCTV, 효율적 설치·운영으로 안전 사각지대 해소해야]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105387&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105387&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
+            <pubDate>Tue, 15 Mar 2022 02:40:20 GMT</pubDate>
+            <content:encoded><![CDATA[범죄 예방이나 시설안전 관리 등의 목적으로 생활 주변 곳곳에 공공 CCTV 설치가 확대되는 가운데 한국소비자원이 방범용 CCTV 설치에 대한 소비자 인식과 수도권...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/3-129(295).jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
