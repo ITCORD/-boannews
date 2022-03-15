@@ -4,9 +4,17 @@
         <title>보안뉴스 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Mar 2022 10:21:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Mar 2022 11:16:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[스파이웨어에 대한 책임, 각국의 정부가 져야 한다]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105454&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105454&amp;page=1&amp;kind=1</guid>
+            <pubDate>Tue, 15 Mar 2022 11:14:17 GMT</pubDate>
+            <content:encoded><![CDATA[이스라엘의 경찰 역시 스파이웨어 개발사인 NSO그룹(NSO Group)의 페가수스(Pegasus)를 남용하고 있었다는 보도가 나오면서(그 대상은 당연히 이...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/jet-thumb-0315.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[모바일 생태계 노리는 위협, 팬데믹 2년 동안 크게 증가해]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105452&amp;page=1&amp;kind=1</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 15 Mar 2022 03:17:51 GMT</pubDate>
             <content:encoded><![CDATA[블리핑컴퓨터에 의하면 우크라이나의 CERT가 가짜 윈도 백신 업데이트가 유포되고 있다고 경고했다고 한다. 이 캠페인의 목적은 코발트 스트라이크(Cobalt...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/ukr-thumb-0315.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022년 보안업계 변화를 이끌 ‘새로운 CEO’들]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105406&amp;page=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105406&amp;page=1&amp;kind=3</guid>
-            <pubDate>Mon, 14 Mar 2022 09:16:05 GMT</pubDate>
-            <content:encoded><![CDATA[최근 국내외 대표 보안기업들의 CEO나 지사장들이 바뀌거나 새로 내정되며 보안산업에 변화의 바람이 불고 있다. 특히, 이들은 국내 정보보안은 물론 물리보안...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/ceo_0315_main2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[델 테크놀로지스, 제주항공에 ‘파워스토어’ 스토리지 등 인프라 솔루션 공급]]></title>
