@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Mar 2022 02:42:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Mar 2022 03:19:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -96,14 +96,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/3-99(295).jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[테라마스터 NAS에서 치명적인 보안 취약점 발견돼]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105317&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105317&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Thu, 10 Mar 2022 02:45:22 GMT</pubDate>
-            <content:encoded><![CDATA[보안 외신 해커뉴스에 의하면 테라마스터(TerraMaster)에서 출시한 NAS 장비들에서 여러 개의 초고위험도 취약점들이 발견됐다고 한다. 연쇄적으로 익스플로잇...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/stor-thumb-0308.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[최악의 보안 취약점 ‘Log4j’, 남은 이슈와 보안담당자들의 과제]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105394&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105394&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
@@ -158,6 +150,14 @@
             <pubDate>Mon, 14 Mar 2022 22:16:35 GMT</pubDate>
             <content:encoded><![CDATA[대구시는 국토교통부가 주관하는 ‘스마트시티 챌린지’의 본사업 대상도시로 선정돼 인공지능(AI) 기반 스마트교통체계를 본격 확산한다고 밝혔다.]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/3-125(295).jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022년 보안업계 변화를 이끌 ‘새로운 CEO’들]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105406&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105406&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
+            <pubDate>Tue, 15 Mar 2022 03:18:01 GMT</pubDate>
+            <content:encoded><![CDATA[최근 국내외 대표 보안기업들의 CEO나 지사장들이 바뀌거나 새로 내정되며 보안산업에 변화의 바람이 불고 있다. 특히, 이들은 국내 정보보안은 물론 물리보안 분야를...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/ceo_0315_main2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[도심공원 내 CCTV, 효율적 설치·운영으로 안전 사각지대 해소해야]]></title>
