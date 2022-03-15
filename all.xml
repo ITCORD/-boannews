@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Mar 2022 03:19:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Mar 2022 04:22:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -86,6 +86,14 @@
             <pubDate>Mon, 14 Mar 2022 08:20:13 GMT</pubDate>
             <content:encoded><![CDATA[팬데믹은 원격 근무 체제를 활성화시켰고, 그러면서 클라우드의 도입을 가속화했다. 이제 어느 조직이나 원격 근무자들을 위한 디지털 인프라를 갖추려 하고 있다...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/iden-thumb-0314.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[델 테크놀로지스, 제주항공에 ‘파워스토어’ 스토리지 등 인프라 솔루션 공급 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105440&amp;page=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105440&amp;page=1&amp;kind=3</guid>
+            <pubDate>Tue, 15 Mar 2022 04:20:54 GMT</pubDate>
+            <content:encoded><![CDATA[한국 델 테크놀로지스(Dell Technologies, 대표 김경진)는 오늘, 제주항공이 ‘델 파워스토어(Dell PowerStore)’ 스토리지 등 인프...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/22031503ss.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[스파이스웨어, 통합보안관리서비스 ‘스파이스웨어 원’ 출시 (보안뉴스 ─ 전체기사)]]></title>
@@ -232,14 +240,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/3-149(295).jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[서울시·KAIST, 지자체 최초 중소·중견기업 고급 AI 개발자 양성 교육 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105431&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105431&amp;page=1&amp;kind=2</guid>
-            <pubDate>Tue, 15 Mar 2022 01:03:44 GMT</pubDate>
-            <content:encoded><![CDATA[서울시는 KAIST 김재철AI대학원과 협력해 기업의 실질적인 AI 도입에 도움이 될 수 있는 고급 AI 개발자를 양성하기 위한 ‘KAIST 머신러닝 엔지니...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/3-150(295).jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[보안 팀을 괴롭히는 ‘나쁜 보안 팀장’의 10가지 특징 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105351&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105351&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
@@ -336,14 +336,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220313log-s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[보안 취약점에 대한 대처, 공격자에 비해 느려도 너무 느리다 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105378&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105378&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Sun, 13 Mar 2022 14:16:15 GMT</pubDate>
-            <content:encoded><![CDATA[공격자들이 새로운 취약점을 익스플로잇 하는 데에는 보통 수일에서 수주 정도 걸린다. 그런데 방어자들이 새로운 취약점 소식을 접하고 연구하고 필요한 대책을 마련하는...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/slow-thumb-0311.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[올해부터 한국판 뉴딜 사업 디지털 트윈국토 현실화 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105380&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105380&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
@@ -352,12 +344,12 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/3-122(295).jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[아이쓰리시스템, 열화상 카메라로 신속하고 안전한 설비관리 솔루션 제시 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105321&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105321&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
-            <pubDate>Sun, 13 Mar 2022 08:18:26 GMT</pubDate>
-            <content:encoded><![CDATA[국내 적외선센서 전문기업 아이쓰리시스템이 3월 17일부터 19일까지 강남구 삼성동 코엑스(COEX) C홀에서 열리는 2022 한국전기산업대전/한국발전산업전에서 배...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/22030803ss.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[보안 취약점에 대한 대처, 공격자에 비해 느려도 너무 느리다 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105378&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105378&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Sun, 13 Mar 2022 14:16:15 GMT</pubDate>
+            <content:encoded><![CDATA[공격자들이 새로운 취약점을 익스플로잇 하는 데에는 보통 수일에서 수주 정도 걸린다. 그런데 방어자들이 새로운 취약점 소식을 접하고 연구하고 필요한 대책을 마련하는...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/slow-thumb-0311.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[국정원, 정보보호 및 취약점 분석 전문가 채용 나섰다 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
@@ -366,6 +358,14 @@
             <pubDate>Tue, 15 Mar 2022 01:03:52 GMT</pubDate>
             <content:encoded><![CDATA[국가정보원이 ‘2022년도 국가정보원 경력경쟁채용 공고’를 내고 특정직 5급과 6급 채용에 나섰다. 특히 이번 채용 공고에는 정보보호, 취약점분석, 네트워크 구축...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/nis_031401_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아이쓰리시스템, 열화상 카메라로 신속하고 안전한 설비관리 솔루션 제시 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105321&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105321&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
+            <pubDate>Sun, 13 Mar 2022 08:18:26 GMT</pubDate>
+            <content:encoded><![CDATA[국내 적외선센서 전문기업 아이쓰리시스템이 3월 17일부터 19일까지 강남구 삼성동 코엑스(COEX) C홀에서 열리는 2022 한국전기산업대전/한국발전산업전에서 배...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/22030803ss.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Weekly Security Premium Report 제41호 발간! 재택근무 보안 솔루션 ‘SASE’ 집중탐구 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
@@ -757,20 +757,20 @@
             <content:encoded><![CDATA[외교부는 ‘재외국민보호를 위한 영사조력법’ 및 ‘여행경보제도’에 대한 홍보와 해외 사건·사고 예방 및 대처법 소개를 위해 작년에 이어 올해도 소방청과 함께 ‘제2회 해외에서 겪은 사건사고 경험담 공모전’을 오는 4월 29일까지 개최한다.]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[델 테크놀로지스, 제주항공에 ‘파워스토어’ 스토리지... (보안뉴스 ─ Security World)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105440&amp;mkind=5</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105440&amp;mkind=5</guid>
+            <pubDate>Tue, 15 Mar 2022 04:21:36 GMT</pubDate>
+            <content:encoded><![CDATA[한국 델 테크놀로지스(Dell Technologies, 대표 김경진)는 오늘, 제주항공이 ‘델 파워스토어(Dell PowerStore)’ 스토리지 등 인프...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/22031503ss.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[똑똑해진 CCTV, 세종시민 안전 책임진다 (보안뉴스 ─ Security World)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105417&amp;mkind=5</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105417&amp;mkind=5</guid>
             <pubDate>Tue, 15 Mar 2022 02:41:04 GMT</pubDate>
             <content:encoded><![CDATA[세종시에 ‘지능형(AI) 관제 시스템’을 활용해 각종 재난·범죄 등 비상 상황에 효과적으로 대응하는 스마트 안전도시가 구현된다. 시는 지난 11일 도시통합...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/3-135(295).jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에스원, 스마트 건물관리 솔루션 ‘블루스캔’ 각광 (보안뉴스 ─ Security World)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105438&amp;mkind=5</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105438&amp;mkind=5</guid>
-            <pubDate>Tue, 15 Mar 2022 01:04:26 GMT</pubDate>
-            <content:encoded><![CDATA[팬데믹이 장기화되면서 건물관리도 언택트 솔루션이 각광받고 있는 가운데 종합 안심솔루션 기업 에스원(사장 남궁범)이 지난해 출시한 스마트 건물관리 솔루션 ‘...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/22031502ss.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[최악의 보안 취약점 ‘Log4j’, 남은 이슈와 보안담당자들의 과제 (보안뉴스 ─ 취약점 경고 및 버그리포트)]]></title>
@@ -2453,6 +2453,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2021/11/21113014ss.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[델 테크놀로지스, 제주항공에 ‘파워스토어’ 스토리지 등 인프라 솔루션 공급 (보안뉴스 ─ 기업뉴스)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105440&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105440&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=</guid>
+            <pubDate>Tue, 15 Mar 2022 04:22:40 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/view.asp?idx=105440&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=">
+					
+					<img src="/media/upFiles2/2022/03/22031503ss.jpg" alt="" class="news_img" height="70">
+					
+					<span class="news_txt">델 테크놀로지스, 제주항공에 ‘파워스토어’ 스토리지 등 인프라 솔루션 공급</span>
+					</a><br>
+					<a href="/media/view.asp?idx=105440&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=">한국 델 테크놀로지스(Dell Technologies, 대표 김경진)는 오늘, 제주항공이 ‘델 파워스토어(Dell PowerStore)’ 스토리지 등 인프라 솔루...</a> <span class="news_writer">엄호식 기자 | 2022년 03월 15일 13:15</span>]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/22031503ss.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[스파이스웨어, 통합보안관리서비스 ‘스파이스웨어 원’ 출시 (보안뉴스 ─ 기업뉴스)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105443&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105443&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=</guid>
@@ -2717,20 +2731,6 @@
 					</a><br>
 					<a href="/media/view.asp?idx=105240&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=">박성하 투윈스컴 대표가 3일 제56회 납세자의 날을 맞이해 국세청장 표창을 수상했다고 4일 밝혔다. 박 대표는 CCTV, 시큐리티 시스템 시공업체의 대표로, 꾸준...</a> <span class="news_writer">권준  기자 | 2022년 03월 04일 13:44</span>]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220304TWINS-S.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[화웨이, MWC 2022 ‘글로모 어워즈’ 및 ‘GTI 어워즈’ 3관왕 쾌거 (보안뉴스 ─ 기업뉴스)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105231&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105231&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=</guid>
-            <pubDate>Fri, 04 Mar 2022 02:45:08 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/view.asp?idx=105231&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=">
-					
-					<img src="/media/upFiles2/2022/03/huawei_030401_main.jpg" alt="" class="news_img" height="70">
-					
-					<span class="news_txt">화웨이, MWC 2022 ‘글로모 어워즈’ 및 ‘GTI 어워즈’ 3관왕 쾌거</span>
-					</a><br>
-					<a href="/media/view.asp?idx=105231&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=">‘더 많은 비트, 더 적은 와트(More Bits, Less Watts)’ MWC 2022에서 ‘친환경’과 ‘그린’을 강조한 화웨이가 전 세계 이통사와 업계로부터...</a> <span class="news_writer">원병철 기자 | 2022년 03월 04일 10:17</span>]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/huawei_030401_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2022년 보안업계 변화를 이끌 ‘새로운 CEO’들 (보안뉴스 ─ 인사 부고)]]></title>
