@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Mar 2022 02:46:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Mar 2022 03:22:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -86,6 +86,13 @@
             <pubDate>Tue, 15 Mar 2022 05:15:30 GMT</pubDate>
             <content:encoded><![CDATA[현재의 5G 통신망은 지표면 통신으로 미래의 자율비행을 위한 공간, 해상 및 수중 등의 3차원 통신을 지원하지 못하는 한계를 갖고 있으나, 위성과 Flyi...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/21020685_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[KISA, ‘지역 블록체인 기술혁신지원센터 구축 사업’ 공모]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105473&amp;page=1&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105473&amp;page=1&amp;kind=2</guid>
+            <pubDate>Wed, 16 Mar 2022 03:20:01 GMT</pubDate>
+            <content:encoded><![CDATA[한국인터넷진흥원(KISA, 원장 이원태)은 과학기술정보통신부(장관 임혜숙)와 블록체인 산업의 지역 균형발전 및 기술활용 지원을 위한 ‘지역 블록체인 기술혁...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[주니퍼 네트웍스, 앱스트라 소프트웨어 최신 기능 발표]]></title>
@@ -231,14 +238,6 @@
             <pubDate>Tue, 15 Mar 2022 03:17:51 GMT</pubDate>
             <content:encoded><![CDATA[블리핑컴퓨터에 의하면 우크라이나의 CERT가 가짜 윈도 백신 업데이트가 유포되고 있다고 경고했다고 한다. 이 캠페인의 목적은 코발트 스트라이크(Cobalt...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/ukr-thumb-0315.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스파이스웨어, 통합보안관리서비스 ‘스파이스웨어 원’ 출시]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105443&amp;page=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105443&amp;page=1&amp;kind=3</guid>
-            <pubDate>Tue, 15 Mar 2022 03:17:51 GMT</pubDate>
-            <content:encoded><![CDATA[클라우드 데이터 보안 스타트업 스파이스웨어는 제로 트러스트(Zero Trust)로 서비스 영역을 확대하고 신제품 ‘스파이스웨어 원(Spiceware One...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/spice_031501_main.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

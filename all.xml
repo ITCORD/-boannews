@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Mar 2022 02:46:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Mar 2022 03:22:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -86,6 +86,13 @@
             <pubDate>Tue, 15 Mar 2022 05:15:30 GMT</pubDate>
             <content:encoded><![CDATA[현재의 5G 통신망은 지표면 통신으로 미래의 자율비행을 위한 공간, 해상 및 수중 등의 3차원 통신을 지원하지 못하는 한계를 갖고 있으나, 위성과 Flyi...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/21020685_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[KISA, ‘지역 블록체인 기술혁신지원센터 구축 사업’ 공모 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105473&amp;page=1&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105473&amp;page=1&amp;kind=2</guid>
+            <pubDate>Wed, 16 Mar 2022 03:20:01 GMT</pubDate>
+            <content:encoded><![CDATA[한국인터넷진흥원(KISA, 원장 이원태)은 과학기술정보통신부(장관 임혜숙)와 블록체인 산업의 지역 균형발전 및 기술활용 지원을 위한 ‘지역 블록체인 기술혁...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[주니퍼 네트웍스, 앱스트라 소프트웨어 최신 기능 발표 (보안뉴스 ─ 전체기사)]]></title>
@@ -233,14 +240,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/ukr-thumb-0315.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[스파이스웨어, 통합보안관리서비스 ‘스파이스웨어 원’ 출시 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105443&amp;page=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105443&amp;page=1&amp;kind=3</guid>
-            <pubDate>Tue, 15 Mar 2022 03:17:51 GMT</pubDate>
-            <content:encoded><![CDATA[클라우드 데이터 보안 스타트업 스파이스웨어는 제로 트러스트(Zero Trust)로 서비스 영역을 확대하고 신제품 ‘스파이스웨어 원(Spiceware One...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/spice_031501_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[보안 팀을 괴롭히는 ‘나쁜 보안 팀장’의 10가지 특징 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105351&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105351&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
@@ -321,20 +320,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220313log-s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[보안 취약점에 대한 대처, 공격자에 비해 느려도 너무 느리다 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105378&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105378&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Sun, 13 Mar 2022 14:16:15 GMT</pubDate>
-            <content:encoded><![CDATA[공격자들이 새로운 취약점을 익스플로잇 하는 데에는 보통 수일에서 수주 정도 걸린다. 그런데 방어자들이 새로운 취약점 소식을 접하고 연구하고 필요한 대책을 마련하는...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/slow-thumb-0311.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[어나니머스, 러시아인들에 “푸틴을 제거하라”고 촉구 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105403&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105403&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Tue, 15 Mar 2022 05:15:39 GMT</pubDate>
             <content:encoded><![CDATA[어나니머스(Anonymous)라는 유명 핵티비스트들이 러시아인들에게 메시지를 보냈다고 보안 블로그 시큐리티어페어즈가 보도했다. 러시아 국민들에게 고통을 안겨다 주...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/elim-thumb-0314.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[보안 취약점에 대한 대처, 공격자에 비해 느려도 너무 느리다 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105378&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105378&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Sun, 13 Mar 2022 14:16:15 GMT</pubDate>
+            <content:encoded><![CDATA[공격자들이 새로운 취약점을 익스플로잇 하는 데에는 보통 수일에서 수주 정도 걸린다. 그런데 방어자들이 새로운 취약점 소식을 접하고 연구하고 필요한 대책을 마련하는...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/slow-thumb-0311.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[올해부터 한국판 뉴딜 사업 디지털 트윈국토 현실화 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
@@ -399,6 +398,13 @@
             <pubDate>Wed, 16 Mar 2022 02:44:52 GMT</pubDate>
             <content:encoded><![CDATA[구글이 사이버 사건 대응 전문 업체인 맨디언트(Mandiant)를 54억 달러에 매입하기로 했다고 발표했다. 구글이 사이버 보안 쪽으로 사업을 확장시키려 한다는 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/ma-thumb-0310.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[독일 당국, 카스퍼스키 제품 사용하지 말라고 권고 (보안뉴스 ─ SECURITY)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105470&amp;page=1&amp;mkind=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105470&amp;page=1&amp;mkind=1&amp;kind=1</guid>
+            <pubDate>Wed, 16 Mar 2022 03:20:21 GMT</pubDate>
+            <content:encoded><![CDATA[보안 외신 핵리드에 의하면 독일 연방 정부가 보안 업체 카스퍼스키(Kaspersky) 제품을 시스템에서 제거하라고 촉구했다고 한다. 카스퍼스키 대신 다른 백신 및 보안 솔루션을 사용하라는 내용도 경고문에 포함되어 있었다. 현재 우크라이나에서 전쟁을 벌이고 있는 러시아가...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[오픈SSL, 고위험군 디도스 취약점 패치 (보안뉴스 ─ SECURITY)]]></title>
@@ -511,13 +517,6 @@
             <guid>https://www.boannews.com/media/view.asp?idx=105442&amp;page=1&amp;mkind=1&amp;kind=3</guid>
             <pubDate>Tue, 15 Mar 2022 03:18:10 GMT</pubDate>
             <content:encoded><![CDATA[KT그룹사이자 금융보안 전문기업 이니텍(대표 강석모)은 HR테크 기업 원티드랩(대표 이복기)과 우수 인재 확보를 위한 MOU를 체결했다고 밝혔다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[특허청-카이스트, 기업 최고경영자 대상 지식재산 최고위 과정 개설 (보안뉴스 ─ SECURITY)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105425&amp;page=1&amp;mkind=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105425&amp;page=1&amp;mkind=1&amp;kind=2</guid>
-            <pubDate>Tue, 15 Mar 2022 03:18:10 GMT</pubDate>
-            <content:encoded><![CDATA[특허청은 지식재산을 전략적으로 활용해 기업의 혁신 성장을 이끄는 관리인력 양성을 위해 한국과학기술원(카이스트)과 함께 지식재산 최고위 과정을 개설하고 제1기 교육생을 모집한다고 밝혔다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[국토부, 2022년 드론실증도시·드론기업 선정 (보안뉴스 ─ IT)]]></title>
