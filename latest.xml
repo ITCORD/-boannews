@@ -4,9 +4,17 @@
         <title>보안뉴스 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Mar 2022 12:29:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Mar 2022 14:21:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[모바일 애플리케이션 백엔드 정보, 무방비로 노출되어 있다]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105481&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105481&amp;page=1&amp;kind=1</guid>
+            <pubDate>Wed, 16 Mar 2022 14:18:56 GMT</pubDate>
+            <content:encoded><![CDATA[공개된 파이어베이스(Firebase) 데이터베이스를 간단히 검색했더니 2100개가 넘는 모바일 에플리케이션용 데이터저장소가 있는 그대로 노출되어 있다는 사...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/clo-thumb-0316.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[사이버전 대비, 합동작전환경 고려한 진화가 시급하다]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105478&amp;page=1&amp;kind=2</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 16 Mar 2022 02:44:41 GMT</pubDate>
             <content:encoded><![CDATA[정보보호산업의 진흥에 관한 법률 시행령 일부 개정령이 입법예고되면서 삼성전자와 SK하이닉스, 현대자동차 등 국내 대표 대기업은 물론 구글과 마이크로소프트,...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20445960_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국토부, 2022년 드론실증도시·드론기업 선정]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105459&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105459&amp;page=1&amp;kind=2</guid>
-            <pubDate>Wed, 16 Mar 2022 01:04:27 GMT</pubDate>
-            <content:encoded><![CDATA[국토교통부는 지자체와 드론 기업을 대상으로 한 2022년 드론실증지원사업 공모(2022.1.7.~2.15) 평가 결과 실증도시는 인천·세종 등 9개 지자체...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/21047087_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한국마이크로소프트, 고용부와 함께 청년 IT 인재 육성 앞장선다]]></title>
@@ -178,6 +178,14 @@
             <content:encoded><![CDATA[산업통상자원부는 금년 시행되는 산업디지털전환촉진법 후속 조치로 산업데이터의 생성·공유·활용을 활성화하기 위한 계약 가이드라인 제정에 착수하고, 민간 전문가...]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[국토부, 2022년 드론실증도시·드론기업 선정]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105459&amp;page=1&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105459&amp;page=1&amp;kind=2</guid>
+            <pubDate>Wed, 16 Mar 2022 01:04:27 GMT</pubDate>
+            <content:encoded><![CDATA[국토교통부는 지자체와 드론 기업을 대상으로 한 2022년 드론실증지원사업 공모(2022.1.7.~2.15) 평가 결과 실증도시는 인천·세종 등 9개 지자체...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/21047087_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[소방청, 의료전문단체와 손잡고 심정지 환자소생률 높인다]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105460&amp;page=1&amp;kind=2</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105460&amp;page=1&amp;kind=2</guid>
@@ -230,14 +238,6 @@
             <pubDate>Tue, 15 Mar 2022 11:14:17 GMT</pubDate>
             <content:encoded><![CDATA[이스라엘의 경찰 역시 스파이웨어 개발사인 NSO그룹(NSO Group)의 페가수스(Pegasus)를 남용하고 있었다는 보도가 나오면서(그 대상은 당연히 이...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/jet-thumb-0315.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[모바일 생태계 노리는 위협, 팬데믹 2년 동안 크게 증가해]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105452&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105452&amp;page=1&amp;kind=1</guid>
-            <pubDate>Tue, 15 Mar 2022 08:20:09 GMT</pubDate>
-            <content:encoded><![CDATA[모바일 생태계를 위협하는 요인들이 기하급수적으로 늘어나고 있다. 뿐만 아니라 점점 더 고급화되고 있기도 하다. 어느 정도냐 하면 제로데이 취약점 익스플로잇...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/mob-thumb-0315.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

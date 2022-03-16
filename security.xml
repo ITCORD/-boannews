@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-03-16T12:29:07.798Z</updated>
+    <updated>2022-03-16T14:21:11.892Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[CJ올리브네트웍스, 2022년 신입사원 공개채용 실시]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=105476&amp;page=1&amp;mkind=1&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=105476&amp;page=1&amp;mkind=1&amp;kind=3"/>
+        <updated>2022-03-16T14:19:17.224Z</updated>
+        <content type="html"><![CDATA[CJ올리브네트웍스(대표이사 차인혁)가 2022년 신입사원 공개채용을 시작했다. 신입사원 모집분야는 △AI △클라우드 서비스 △비즈니스 시스템 △글로벌 시스템 등 엔지니어 분야와 △UX/UI △미디어사업 기획 △ESG기획 △경영지원 △경영전략 등 9개 직무다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[피앤피시큐어, 금융권 클라우드 통합접근제어 구축 사업 잇따라 수주]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=105475&amp;page=1&amp;mkind=1&amp;kind=1</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=105449&amp;page=1&amp;mkind=1&amp;kind=1"/>
         <updated>2022-03-15T08:20:28.012Z</updated>
         <content type="html"><![CDATA[메타버스 플랫폼이 확대되고, 가상 경제가 발전하기 시작하면서 핵심 거래 및 소유수단으로 NFT(대체 불가능 토큰)이 화두가 되고 있다. 이와 함께 사이버보안 분야에서도 새 정부 출범과 함께 커다란 변화가 예상되는 만큼 변화에 대응하기 위해 판을 확장해야 한다는 주장이 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[강력한 디도스 공격, 이스라엘 정부 웹사이트 마비시켜]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=105450&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=105450&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-03-15T05:15:47.899Z</updated>
-        <content type="html"><![CDATA[보안 블로그 시큐리티어페어즈에 의하면 이스라엘 정부 기관들을 겨냥한 디도스 공격이 발견됐다고 한다. 이 때문에 다수의 정부 사이트들이 마비됐는데, 보건, 내무, 법무 등 주요 기능을 하는 기관들이 포함되어 있다. 이스라엘 역사상 가장 큰 규모의 공격이라고 매체들이 보도...]]></content>
     </entry>
 </feed>
