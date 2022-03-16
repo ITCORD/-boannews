@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Mar 2022 03:22:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Mar 2022 04:22:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,20 +24,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220311YOUN-S.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
-            <title><![CDATA[[bnTV] 다크웹 소재의 해킹·보안 드라마, 이거 실화냐?]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105391&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105391&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Sun, 13 Mar 2022 02:09:12 GMT</pubDate>
-            <content:encoded><![CDATA[드라마들 보면 해킹을 하는 과정에 대한 영화는 꽤 많이 나오고 있어요. 그런데 해커를 잡는 방법에 대해서는 제 기억에는 그렇게 많지 않았던 것 같아서 그런 부분들...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220312dark.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
             <title><![CDATA[정보보호 공시제도, 의무대상 기업 후보 622곳 공개! 국내외 대기업 총망라]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105396&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105396&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
             <pubDate>Mon, 14 Mar 2022 03:18:44 GMT</pubDate>
             <content:encoded><![CDATA[기업의 정보보호 관련 현황을 공개하는 정보보호 공시제도가 올해부터 크게 달라지는 가운데 6월 30일까지 정보보호 공시를 반드시 해야 하는 의무대상 기업 후보 62...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220314kong-s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[bnTV] 다크웹 소재의 해킹·보안 드라마, 이거 실화냐?]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105391&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105391&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Sun, 13 Mar 2022 02:09:12 GMT</pubDate>
+            <content:encoded><![CDATA[드라마들 보면 해킹을 하는 과정에 대한 영화는 꽤 많이 나오고 있어요. 그런데 해커를 잡는 방법에 대해서는 제 기억에는 그렇게 많지 않았던 것 같아서 그런 부분들...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220312dark.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[아직도 취약한 로그4j 패키지들이 40% 정도 다운로드 되고 있다]]></title>
@@ -72,20 +72,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/nis_031401_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[점점 고립되는 러시아, 정보통신망도 가닥가닥 끊어지고 있어]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105335&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105335&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Thu, 10 Mar 2022 09:16:23 GMT</pubDate>
-            <content:encoded><![CDATA[러시아를 경제적으로 고립시키려는 국제적인 움직임이 이어지고 있는 가운데, 러시아의 통신망을 고립시키려는 시도도 발현되고 있다. 이는 클라우드 서비스로의 접근까지도...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/cut-thumb-0309.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[최악의 보안 취약점 ‘Log4j’, 남은 이슈와 보안담당자들의 과제]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105394&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105394&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Mon, 14 Mar 2022 21:15:57 GMT</pubDate>
             <content:encoded><![CDATA[2021년 12월 처음 발견돼 사상 최악의 보안 취약점으로 불리는 Log4j 취약점(일명 Log4Shell)이 올해도 가장 큰 보안 위협 가운데 하나로 지목되고 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220313log-s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[점점 고립되는 러시아, 정보통신망도 가닥가닥 끊어지고 있어]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105335&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105335&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Thu, 10 Mar 2022 09:16:23 GMT</pubDate>
+            <content:encoded><![CDATA[러시아를 경제적으로 고립시키려는 국제적인 움직임이 이어지고 있는 가운데, 러시아의 통신망을 고립시키려는 시도도 발현되고 있다. 이는 클라우드 서비스로의 접근까지도...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/cut-thumb-0309.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[어나니머스, 러시아인들에 “푸틴을 제거하라”고 촉구]]></title>

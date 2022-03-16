@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-03-16T03:22:11.018Z</updated>
+    <updated>2022-03-16T04:22:30.103Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[우크라이나에서 발견된 데이터 삭제 멀웨어, 드라이브도 지운다]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=105471&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=105471&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-03-16T04:20:36.888Z</updated>
+        <content type="html"><![CDATA[IT 외신인 PC매거진에 의하면 우크라이나에서 또 다른 파일 삭제형 멀웨어가 발견됐다고 한다. 보안 업체 이셋(ESET)이 찾아낸 것으로, 데이터만이 아니라 시스템에 첨부된 스토리지 장비와 드라이브들도 삭제하는 것으로 분석됐다. 이셋은 이 멀웨어에 캐디와이퍼(Caddy...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[독일 당국, 카스퍼스키 제품 사용하지 말라고 권고]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=105470&amp;page=1&amp;mkind=1&amp;kind=1</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=105443&amp;page=1&amp;mkind=1&amp;kind=3"/>
         <updated>2022-03-15T03:18:10.710Z</updated>
         <content type="html"><![CDATA[클라우드 데이터 보안 스타트업 스파이스웨어는 제로 트러스트(Zero Trust)로 서비스 영역을 확대하고 신제품 ‘스파이스웨어 원(Spiceware One)’을 런칭했다고 15일 밝혔다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이니텍, 금융 ITO 사업 확장을 위한 첫 포문... 원티드랩과 ‘맞손’]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=105442&amp;page=1&amp;mkind=1&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=105442&amp;page=1&amp;mkind=1&amp;kind=3"/>
-        <updated>2022-03-15T03:18:10.711Z</updated>
-        <content type="html"><![CDATA[KT그룹사이자 금융보안 전문기업 이니텍(대표 강석모)은 HR테크 기업 원티드랩(대표 이복기)과 우수 인재 확보를 위한 MOU를 체결했다고 밝혔다.]]></content>
     </entry>
 </feed>
