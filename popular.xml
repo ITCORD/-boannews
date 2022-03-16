@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Mar 2022 06:22:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Mar 2022 07:19:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -96,20 +96,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/elim-thumb-0314.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[보안 취약점에 대한 대처, 공격자에 비해 느려도 너무 느리다]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105378&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105378&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Sun, 13 Mar 2022 14:16:15 GMT</pubDate>
-            <content:encoded><![CDATA[공격자들이 새로운 취약점을 익스플로잇 하는 데에는 보통 수일에서 수주 정도 걸린다. 그런데 방어자들이 새로운 취약점 소식을 접하고 연구하고 필요한 대책을 마련하는...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/slow-thumb-0311.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[올해부터 한국판 뉴딜 사업 디지털 트윈국토 현실화]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105380&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105380&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
             <pubDate>Sun, 13 Mar 2022 15:15:59 GMT</pubDate>
             <content:encoded><![CDATA[안도걸 기획재정부 제2차관은 지난 11일 한국국토정보공사 경기북부지역본부(남양주) 개청식에 앞서 한국판 뉴딜의 대표과제인 ‘디지털 트윈국토’를 주제로 정책 간담회...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/3-122(295).jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[보안 취약점에 대한 대처, 공격자에 비해 느려도 너무 느리다]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105378&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105378&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Sun, 13 Mar 2022 14:16:15 GMT</pubDate>
+            <content:encoded><![CDATA[공격자들이 새로운 취약점을 익스플로잇 하는 데에는 보통 수일에서 수주 정도 걸린다. 그런데 방어자들이 새로운 취약점 소식을 접하고 연구하고 필요한 대책을 마련하는...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/slow-thumb-0311.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Weekly Security Premium Report 제41호 발간! 재택근무 보안 솔루션 ‘SASE’ 집중탐구]]></title>

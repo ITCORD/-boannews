@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=2</id>
     <title>보안뉴스 ─ IT</title>
-    <updated>2022-03-16T06:22:08.289Z</updated>
+    <updated>2022-03-16T07:19:04.551Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[폴리텍-포스텍, 인공지능 공동연구센터 운영한다]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=105457&amp;page=1&amp;mkind=2&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=105457&amp;page=1&amp;mkind=2&amp;kind=2"/>
+        <updated>2022-03-16T07:17:23.251Z</updated>
+        <content type="html"><![CDATA[국책 특수대학 한국폴리텍대학과 국내 최초 연구중심대학 포항공과대(포스텍)가 인공지능(AI)·데이터(DATA) 산업 전문인력 양성을 위해 머리를 맞댄다. 양 기관은 지난 15일 ‘인재 양성 및 학술 교류 활성화를 위한 업무협약’을 체결했다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[산업부, ‘산업데이터 계약 가이드라인’ 제정 착수]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=105458&amp;page=1&amp;mkind=2&amp;kind=2</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=105435&amp;page=1&amp;mkind=2&amp;kind=2"/>
         <updated>2022-03-15T01:04:10.385Z</updated>
         <content type="html"><![CDATA[부산시는 지역 중소기업의 비대면 근무환경 조성을 위한 ‘2022년 비대면 전환 솔루션 지원 사업’을 추진하고 참여기업을 모집한다고 밝혔다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[경기도, 민간 전문가와 디지털 전환 정책 마련한다]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=105436&amp;page=1&amp;mkind=2&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=105436&amp;page=1&amp;mkind=2&amp;kind=2"/>
-        <updated>2022-03-15T01:04:10.387Z</updated>
-        <content type="html"><![CDATA[경기도가 4차 산업혁명에 대응하는 디지털 도정을 위해 구성한 ‘경기도 디지털 대전환 위원회’가 지난 11일 첫 회의를 열고 공식 출범했다.]]></content>
     </entry>
 </feed>

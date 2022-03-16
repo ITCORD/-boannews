@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-03-16T06:22:08.290Z</updated>
+    <updated>2022-03-16T07:19:04.629Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[화웨이, 글로벌 통신 장비 시장에서 견고한 1위 유지]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=105474&amp;page=1&amp;mkind=1&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=105474&amp;page=1&amp;mkind=1&amp;kind=3"/>
+        <updated>2022-03-16T07:17:12.714Z</updated>
+        <content type="html"><![CDATA[화웨이가 5G 등 글로벌 무선 통신장비 시장의 선두 자리를 굳건히 하고 있는 것으로 나타났다. 글로벌 시장조사기관 델오로 그룹(Dell’Oro Group)에 따르면 광대역 액세스, 마이크로웨이브 및 옵티컬 전송, 모바일 코어 네트워크(MCN), 무선 액세스 네트워크(R...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[기업들, 엔터프라이즈 오픈소스 고려할 때 ‘보안’ 꼭 확인한다]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=105468&amp;page=1&amp;mkind=1&amp;kind=3</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=105448&amp;page=1&amp;mkind=1&amp;kind=1"/>
         <updated>2022-03-15T05:15:47.899Z</updated>
         <content type="html"><![CDATA[보안 외신 해커뉴스에 의하면 프랑스의 대형 게임사인 유비소프트(Ubisoft)가 얼마 전 해킹 공격을 당해 제대로 된 서비스를 제공할 수 없었다는 것을 인정했다고 한다. 현재 수사가 진행되고 있다고 하며, 유비소프트 측은 전사적으로 모든 임직원 계정의 비밀번호 재설정 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영국 법원, 어산지의 항소 시도 기각시켜]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=105447&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=105447&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-03-15T03:18:10.705Z</updated>
-        <content type="html"><![CDATA[영국 일간지 가디언에 의하면 위키리크스(WikiLeaks)의 창립자인 줄리안 어산지(Julian Assange)의 미국 인도 가능성이 한층 더 높아졌다고 한다. 어산지는 미국으로의 범죄자 인도를 거부하는 항소를 제기했는데, 영국 대법원이 이를 기각시킨 것이다. 대법원은...]]></content>
     </entry>
 </feed>
