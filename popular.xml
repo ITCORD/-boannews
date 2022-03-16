@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Mar 2022 20:20:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Mar 2022 21:18:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -64,20 +64,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/dec-thumb-031.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[국정원, 정보보호 및 취약점 분석 전문가 채용 나섰다]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105409&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105409&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
-            <pubDate>Tue, 15 Mar 2022 01:03:52 GMT</pubDate>
-            <content:encoded><![CDATA[국가정보원이 ‘2022년도 국가정보원 경력경쟁채용 공고’를 내고 특정직 5급과 6급 채용에 나섰다. 특히 이번 채용 공고에는 정보보호, 취약점분석, 네트워크 구축...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/nis_031401_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[최악의 보안 취약점 ‘Log4j’, 남은 이슈와 보안담당자들의 과제]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105394&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105394&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Mon, 14 Mar 2022 21:15:57 GMT</pubDate>
             <content:encoded><![CDATA[2021년 12월 처음 발견돼 사상 최악의 보안 취약점으로 불리는 Log4j 취약점(일명 Log4Shell)이 올해도 가장 큰 보안 위협 가운데 하나로 지목되고 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220313log-s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[국정원, 정보보호 및 취약점 분석 전문가 채용 나섰다]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105409&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105409&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
+            <pubDate>Tue, 15 Mar 2022 01:03:52 GMT</pubDate>
+            <content:encoded><![CDATA[국가정보원이 ‘2022년도 국가정보원 경력경쟁채용 공고’를 내고 특정직 5급과 6급 채용에 나섰다. 특히 이번 채용 공고에는 정보보호, 취약점분석, 네트워크 구축...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/nis_031401_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[어나니머스, 러시아인들에 “푸틴을 제거하라”고 촉구]]></title>
