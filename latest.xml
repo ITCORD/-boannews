@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Mar 2022 05:18:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Mar 2022 06:22:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -86,6 +86,14 @@
             <pubDate>Tue, 15 Mar 2022 08:20:09 GMT</pubDate>
             <content:encoded><![CDATA[모바일 생태계를 위협하는 요인들이 기하급수적으로 늘어나고 있다. 뿐만 아니라 점점 더 고급화되고 있기도 하다. 어느 정도냐 하면 제로데이 취약점 익스플로잇...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/mob-thumb-0315.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[CJ올리브네트웍스, 2022년 신입사원 공개채용 실시]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105476&amp;page=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105476&amp;page=1&amp;kind=3</guid>
+            <pubDate>Wed, 16 Mar 2022 06:19:57 GMT</pubDate>
+            <content:encoded><![CDATA[CJ올리브네트웍스(대표이사 차인혁)가 2022년 신입사원 공개채용을 시작했다. 신입사원 모집분야는 △AI △클라우드 서비스 △비즈니스 시스템 △글로벌 시스...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/CJ_031601_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[피앤피시큐어, 금융권 클라우드 통합접근제어 구축 사업 잇따라 수주]]></title>
@@ -230,14 +238,6 @@
             <pubDate>Tue, 15 Mar 2022 03:17:51 GMT</pubDate>
             <content:encoded><![CDATA[메타버스 플랫폼이 확대되고, 가상 경제가 발전하기 시작하면서 핵심 거래 및 소유수단으로 NFT(대체 불가능 토큰)이 화두가 되고 있다. 이와 함께 사이버보...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220315CISO1-S.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[강력한 디도스 공격, 이스라엘 정부 웹사이트 마비시켜]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105450&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105450&amp;page=1&amp;kind=1</guid>
-            <pubDate>Tue, 15 Mar 2022 03:17:51 GMT</pubDate>
-            <content:encoded><![CDATA[보안 블로그 시큐리티어페어즈에 의하면 이스라엘 정부 기관들을 겨냥한 디도스 공격이 발견됐다고 한다. 이 때문에 다수의 정부 사이트들이 마비됐는데, 보건, ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/isr-thumb-0315.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
