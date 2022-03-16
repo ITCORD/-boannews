@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Mar 2022 23:19:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Mar 2022 01:06:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -56,20 +56,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/40-thumb-0311.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[데이터를 모아야 결정을 내릴 수 있다? 아니, 일단 반대로 해 봐야]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105390&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105390&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
-            <pubDate>Sun, 13 Mar 2022 04:20:36 GMT</pubDate>
-            <content:encoded><![CDATA[그 때는 진짜 대단해 보였다. 데이터를 모으고, 신기술로 분석하고, 그럼으로써 통찰을 이끌어내서 사업에 접목하고, 올바른 결정을 내릴 수 있다니, ‘와’하는 소리...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/dec-thumb-031.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[2022년 보안업계 변화를 이끌 ‘새로운 CEO’들]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105406&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105406&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
             <pubDate>Tue, 15 Mar 2022 03:18:01 GMT</pubDate>
             <content:encoded><![CDATA[최근 국내외 대표 보안기업들의 CEO나 지사장들이 바뀌거나 새로 내정되며 보안산업에 변화의 바람이 불고 있다. 특히, 이들은 국내 정보보안은 물론 물리보안 분야를...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/ceo_0315_main2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[데이터를 모아야 결정을 내릴 수 있다? 아니, 일단 반대로 해 봐야]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105390&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105390&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
+            <pubDate>Sun, 13 Mar 2022 04:20:36 GMT</pubDate>
+            <content:encoded><![CDATA[그 때는 진짜 대단해 보였다. 데이터를 모으고, 신기술로 분석하고, 그럼으로써 통찰을 이끌어내서 사업에 접목하고, 올바른 결정을 내릴 수 있다니, ‘와’하는 소리...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/dec-thumb-031.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[용인시, 전국 최초 ‘월패드 해킹’ 방지 제도 도입]]></title>
@@ -88,14 +88,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/cut-thumb-0309.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[최악의 보안 취약점 ‘Log4j’, 남은 이슈와 보안담당자들의 과제]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105394&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105394&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Mon, 14 Mar 2022 21:15:57 GMT</pubDate>
-            <content:encoded><![CDATA[2021년 12월 처음 발견돼 사상 최악의 보안 취약점으로 불리는 Log4j 취약점(일명 Log4Shell)이 올해도 가장 큰 보안 위협 가운데 하나로 지목되고 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220313log-s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[국정원, 정보보호 및 취약점 분석 전문가 채용 나섰다]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105409&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105409&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
@@ -104,12 +96,12 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/nis_031401_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[올해 지자체 지능형 교통체계 구축 지원 사업 방향과 규모는?]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105326&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105326&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
-            <pubDate>Thu, 10 Mar 2022 13:22:15 GMT</pubDate>
-            <content:encoded><![CDATA[국토교통부는 전국 지자체를 대상으로 올해 지능형 교통체계(ITS) 공모사업 선정 방향과 선정 대상, 지원 규모 및 절차 등을 안내하고 지역의 현장 의견을 수렴하기...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/3-99(295).jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[최악의 보안 취약점 ‘Log4j’, 남은 이슈와 보안담당자들의 과제]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105394&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105394&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Mon, 14 Mar 2022 21:15:57 GMT</pubDate>
+            <content:encoded><![CDATA[2021년 12월 처음 발견돼 사상 최악의 보안 취약점으로 불리는 Log4j 취약점(일명 Log4Shell)이 올해도 가장 큰 보안 위협 가운데 하나로 지목되고 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220313log-s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[보안 취약점에 대한 대처, 공격자에 비해 느려도 너무 느리다]]></title>
@@ -166,6 +158,14 @@
             <pubDate>Tue, 15 Mar 2022 13:22:44 GMT</pubDate>
             <content:encoded><![CDATA[최근 많은 조직들에서 로우코드 도구들을 도입하고 있다. 누구나 전문적인 개발 교육을 받지 않고도(아니면 조금만 받고도) 애플리케이션을 개발할 수 있게 된다고 하니...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/dev-thumb-0313.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[점점 더 복잡해지는 컴퓨터 네트워크, 보안의 가장 큰 적]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105412&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105412&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Wed, 16 Mar 2022 01:04:37 GMT</pubDate>
+            <content:encoded><![CDATA[복잡한 시스템들일수록 보호하기가 힘들다. 그런데 우리의 컴퓨팅 환경은 점점 더 복잡해지고 있다. 그러니 더 불안해지고 더 연약해지는 것이다. 필자는 이 지면을 통...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/comp-thumb0314.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
