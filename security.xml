@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-03-16T23:19:05.811Z</updated>
+    <updated>2022-03-17T01:05:18.484Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[모바일 애플리케이션 백엔드 정보, 무방비로 노출되어 있다]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=105481&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=105481&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-03-17T01:03:24.739Z</updated>
+        <content type="html"><![CDATA[공개된 파이어베이스(Firebase) 데이터베이스를 간단히 검색했더니 2100개가 넘는 모바일 에플리케이션용 데이터저장소가 있는 그대로 노출되어 있다는 사실이 발견됐다. 이를 통해 기업의 민감한 정보인 은행 잔액, 가족 사진, 건강 관련 정보 등을 손쉽게 구할 수 있는...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한국마이크로소프트, 고용부와 함께 청년 IT 인재 육성 앞장선다]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=105480&amp;page=1&amp;mkind=1&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=105480&amp;page=1&amp;mkind=1&amp;kind=3"/>
+        <updated>2022-03-17T01:03:24.740Z</updated>
+        <content type="html"><![CDATA[한국마이크로소프트가 16일 고용노동부가 추진하는 ‘청년고용 응원 프로젝트’ 멤버십 15번째 기업으로 가입, 청년 인재 양성을 위한 ICT기술교육 프로그램을 개설한다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[지난 주 발견된 더티파이프 취약점, 큐냅 NAS 장비들에서도 추가로 발견돼]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=105477&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=105477&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-03-17T01:03:24.742Z</updated>
+        <content type="html"><![CDATA[대만의 NAS 제조사인 큐냅(QNAP)이 자사 제품 일부에서 심각한 리눅스 관련 취약점을 발견했다고 발표했다. 이 취약점은 더티파이프(Dirty Pipe)라고 불리며, 지난 주에 처음으로 발견됐다. 더티파이프 취약점의 영향력 혹은 파급력이 매우 넓을 수 있음을 시사하는...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CJ올리브네트웍스, 2022년 신입사원 공개채용 실시]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=105476&amp;page=1&amp;mkind=1&amp;kind=3</id>
@@ -102,26 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=105452&amp;page=1&amp;mkind=1&amp;kind=1"/>
         <updated>2022-03-16T02:45:02.044Z</updated>
         <content type="html"><![CDATA[모바일 생태계를 위협하는 요인들이 기하급수적으로 늘어나고 있다. 뿐만 아니라 점점 더 고급화되고 있기도 하다. 어느 정도냐 하면 제로데이 취약점 익스플로잇 공격의 1/3이 모바일 장비를 겨냥하여 발생한다고 할 정도다. 이런 상황에 대해 보안 업체 짐페리움(Zimperi...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[러시아의 우크라이나 침공 후 본격화 된 IT 기업들의 ‘ESG 프로젝트’]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=105413&amp;page=1&amp;mkind=1&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=105413&amp;page=1&amp;mkind=1&amp;kind=3"/>
-        <updated>2022-03-16T02:45:02.054Z</updated>
-        <content type="html"><![CDATA[러시아의 우크라이나 침공 후 전쟁이 3주째 이어지고 있다. 그러면서 여러 IT 기업들이 자신들이 할 수 있는 일을 함으로써 러시아에 대한 경제적 압박 수위를 높여가는 중이다. 서방 세계의 IT 기술에 대한 의존도가 높지 않은 나라는 손에 꼽을 정도이므로 러시아도 적잖은...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[한국정보보호학회 칼럼] 6G와 양자보안 선도 위한 정보보안의 환경 변화]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=105400&amp;page=1&amp;mkind=1&amp;kind=6</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=105400&amp;page=1&amp;mkind=1&amp;kind=6"/>
-        <updated>2022-03-15T11:14:34.377Z</updated>
-        <content type="html"><![CDATA[현재의 5G 통신망은 지표면 통신으로 미래의 자율비행을 위한 공간, 해상 및 수중 등의 3차원 통신을 지원하지 못하는 한계를 갖고 있으나, 위성과 Flying 기지국 등의 새로운 기술을 바탕으로 진정한 의미의 3차원 공간을 위한 6G 통신이 2028년에 등장할 것으로 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제116차 CISO포럼, 최근 화두인 NFT와 사이버보안의 변화상 논의]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=105449&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=105449&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-03-15T08:20:28.012Z</updated>
-        <content type="html"><![CDATA[메타버스 플랫폼이 확대되고, 가상 경제가 발전하기 시작하면서 핵심 거래 및 소유수단으로 NFT(대체 불가능 토큰)이 화두가 되고 있다. 이와 함께 사이버보안 분야에서도 새 정부 출범과 함께 커다란 변화가 예상되는 만큼 변화에 대응하기 위해 판을 확장해야 한다는 주장이 ...]]></content>
     </entry>
 </feed>
