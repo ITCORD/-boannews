@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Mar 2022 13:25:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Mar 2022 16:24:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[사이버 보안, 청년들이 진출하기 가장 좋은 분야 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105512&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105512&amp;page=1&amp;kind=1</guid>
+            <pubDate>Thu, 17 Mar 2022 16:22:33 GMT</pubDate>
+            <content:encoded><![CDATA[사이버 보안 업계는 인재 부족을 겪고 있으며 272만 명에 달하는 글로벌 인력 격차를 해소하기 위해 전문가들을 찾고 있다. 중요한 자산을 적절히 보호해야 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/hard-thumb-0317.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Weekly Security Premium Report 제42호 발간! 최악의 취약점 Log4j (보안뉴스 ─ 전체기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105509&amp;page=1&amp;kind=1</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 16 Mar 2022 14:18:56 GMT</pubDate>
             <content:encoded><![CDATA[공개된 파이어베이스(Firebase) 데이터베이스를 간단히 검색했더니 2100개가 넘는 모바일 에플리케이션용 데이터저장소가 있는 그대로 노출되어 있다는 사...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/clo-thumb-0316.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사이버전 대비, 합동작전환경 고려한 진화가 시급하다 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105478&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105478&amp;page=1&amp;kind=2</guid>
-            <pubDate>Wed, 16 Mar 2022 08:19:40 GMT</pubDate>
-            <content:encoded><![CDATA[국가 사이버군 발전을 위해 설립된 사이버군협회가 창립 10주년을 맞아 ‘사이버공간레터 2호’를 발간해 자축했다. 특히 이번 사이버공간레터에서는 우리나라 사...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20298542_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[부고] 한국정보보호학회 수석부회장 원유재 교수 부친상 (보안뉴스 ─ 전체기사)]]></title>
@@ -295,20 +295,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/nis_031401_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[데이터를 모아야 결정을 내릴 수 있다? 아니, 일단 반대로 해 봐야 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105390&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105390&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
-            <pubDate>Sun, 13 Mar 2022 04:20:36 GMT</pubDate>
-            <content:encoded><![CDATA[그 때는 진짜 대단해 보였다. 데이터를 모으고, 신기술로 분석하고, 그럼으로써 통찰을 이끌어내서 사업에 접목하고, 올바른 결정을 내릴 수 있다니, ‘와’하는 소리...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/dec-thumb-031.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[지난 주 발견된 더티파이프 취약점, 큐냅 NAS 장비들에서도 추가로 발견돼 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105477&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105477&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Thu, 17 Mar 2022 01:03:14 GMT</pubDate>
             <content:encoded><![CDATA[대만의 NAS 제조사인 큐냅(QNAP)이 자사 제품 일부에서 심각한 리눅스 관련 취약점을 발견했다고 발표했다. 이 취약점은 더티파이프(Dirty Pipe)라고 불...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/pipe-thumb-0316.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[데이터를 모아야 결정을 내릴 수 있다? 아니, 일단 반대로 해 봐야 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105390&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105390&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
+            <pubDate>Sun, 13 Mar 2022 04:20:36 GMT</pubDate>
+            <content:encoded><![CDATA[그 때는 진짜 대단해 보였다. 데이터를 모으고, 신기술로 분석하고, 그럼으로써 통찰을 이끌어내서 사업에 접목하고, 올바른 결정을 내릴 수 있다니, ‘와’하는 소리...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/dec-thumb-031.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[어나니머스, 러시아인들에 “푸틴을 제거하라”고 촉구 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
@@ -351,6 +351,14 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/dev-thumb-0313.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[독일 당국, 카스퍼스키 제품 사용하지 말라고 권고 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105470&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105470&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Thu, 17 Mar 2022 06:19:31 GMT</pubDate>
+            <content:encoded><![CDATA[보안 외신 핵리드에 의하면 독일 연방 정부가 보안 업체 카스퍼스키(Kaspersky) 제품을 시스템에서 제거하라고 촉구했다고 한다. 카스퍼스키 대신 다른 백신 및...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/kas-thumb-0316.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[점점 더 복잡해지는 컴퓨터 네트워크, 보안의 가장 큰 적 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105412&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105412&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
@@ -367,12 +375,12 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220315CISO1-S.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
-            <title><![CDATA[독일 당국, 카스퍼스키 제품 사용하지 말라고 권고 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105470&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105470&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Thu, 17 Mar 2022 06:19:31 GMT</pubDate>
-            <content:encoded><![CDATA[보안 외신 핵리드에 의하면 독일 연방 정부가 보안 업체 카스퍼스키(Kaspersky) 제품을 시스템에서 제거하라고 촉구했다고 한다. 카스퍼스키 대신 다른 백신 및...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/kas-thumb-0316.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[모바일 애플리케이션 백엔드 정보, 무방비로 노출되어 있다 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105481&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105481&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Thu, 17 Mar 2022 12:28:34 GMT</pubDate>
+            <content:encoded><![CDATA[공개된 파이어베이스(Firebase) 데이터베이스를 간단히 검색했더니 2100개가 넘는 모바일 에플리케이션용 데이터저장소가 있는 그대로 노출되어 있다는 사실이 발...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/clo-thumb-0316.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[대구시, 인공지능 기반 스마트 교통체계 본격 확산 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
@@ -383,20 +391,19 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/3-125(295).jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[모바일 애플리케이션 백엔드 정보, 무방비로 노출되어 있다 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105481&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105481&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Thu, 17 Mar 2022 12:28:34 GMT</pubDate>
-            <content:encoded><![CDATA[공개된 파이어베이스(Firebase) 데이터베이스를 간단히 검색했더니 2100개가 넘는 모바일 에플리케이션용 데이터저장소가 있는 그대로 노출되어 있다는 사실이 발...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/clo-thumb-0316.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[크롬 브라우저에서 제로데이 취약점이 폭증하는 이유 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105405&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105405&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Thu, 17 Mar 2022 08:20:00 GMT</pubDate>
             <content:encoded><![CDATA[구글이 최근 폭증하고 있는 크롬 제로데이 취약점에 대해 발표했다고 보안 매체 시큐리티위크가 보도했다. 구글은 구글이 자사 제품과 서비스에 대한 취약점을 투명하게 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/zer-thumb-0314.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[미국에서 시행되기 시작한 ‘사건 고지 의무화’ 규정, 어떤 의미인가? (보안뉴스 ─ SECURITY)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105507&amp;page=1&amp;mkind=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105507&amp;page=1&amp;mkind=1&amp;kind=1</guid>
+            <pubDate>Thu, 17 Mar 2022 16:22:53 GMT</pubDate>
+            <content:encoded><![CDATA[이번 주 미국의 바이든 대통령은 새로운 법안에 서명을 했다. 그러면서 ‘사이버 사건 보고 법(Cyber Incident Reporting Act)’이라는 규정을 시행하기 시작했다. 사이버 사건 보고 법이란, 사회 기반 시설에 해당하거나 그러한 시설을 관리하는 기업들에서...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[새로운 리눅스 봇넷, DNS 터널 활용해 로그4j 익스플로잇 해 (보안뉴스 ─ SECURITY)]]></title>
@@ -509,13 +516,6 @@
             <guid>https://www.boannews.com/media/view.asp?idx=105475&amp;page=1&amp;mkind=1&amp;kind=1</guid>
             <pubDate>Wed, 16 Mar 2022 09:16:42 GMT</pubDate>
             <content:encoded><![CDATA[Unified-IAM(U-IAM, 통합접근제어) 솔루션 전문기업 피앤피시큐어(대표이사 박천오)는 KB국민은행 ‘KB원 클라우드(KB One Cloud)’ 사업에서 통합접근제어 (DB접근제어+시스템접근제어+계정관리) 시스템 구축을 완료했다고 밝혔다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[화웨이, 글로벌 통신 장비 시장에서 견고한 1위 유지 (보안뉴스 ─ SECURITY)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105474&amp;page=1&amp;mkind=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105474&amp;page=1&amp;mkind=1&amp;kind=3</guid>
-            <pubDate>Wed, 16 Mar 2022 07:17:12 GMT</pubDate>
-            <content:encoded><![CDATA[화웨이가 5G 등 글로벌 무선 통신장비 시장의 선두 자리를 굳건히 하고 있는 것으로 나타났다. 글로벌 시장조사기관 델오로 그룹(Dell’Oro Group)에 따르면 광대역 액세스, 마이크로웨이브 및 옵티컬 전송, 모바일 코어 네트워크(MCN), 무선 액세스 네트워크(R...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[데이터와 인공지능, 영농 현장에서 꽃피운다 (보안뉴스 ─ IT)]]></title>
@@ -1892,6 +1892,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/free_012601_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[사이버 보안, 청년들이 진출하기 가장 좋은 분야 (보안뉴스 ─ 국제)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105512&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105512&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
+            <pubDate>Thu, 17 Mar 2022 16:24:11 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/view.asp?idx=105512&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
+					
+					<img src="/media/upFiles2/2022/03/hard-thumb-0317.jpg" alt="" class="news_img" height="70">
+					
+					<span class="news_txt">사이버 보안, 청년들이 진출하기 가장 좋은 분야</span>
+					</a><br>
+					<a href="/media/view.asp?idx=105512&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">사이버 보안 업계는 인재 부족을 겪고 있으며 272만 명에 달하는 글로벌 인력 격차를 해소하기 위해 전문가들을 찾고 있다. 중요한 자산을 적절히 보호해야 한다는,...</a> <span class="news_writer">문가용 기자 | 2022년 03월 17일 23:27</span>]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/hard-thumb-0317.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[러시아 정부가 정보를 통제하기 시작하자 VPN 사용량 크게 늘어 (보안뉴스 ─ 국제)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105508&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105508&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
@@ -2156,20 +2170,6 @@
 					</a><br>
 					<a href="/media/view.asp?idx=105444&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">블리핑컴퓨터에 의하면 우크라이나의 CERT가 가짜 윈도 백신 업데이트가 유포되고 있다고 경고했다고 한다. 이 캠페인의 목적은 코발트 스트라이크(Cobalt Str...</a> <span class="news_writer">문가용 기자 | 2022년 03월 15일 11:48</span>]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/ukr-thumb-0315.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[점점 더 복잡해지는 컴퓨터 네트워크, 보안의 가장 큰 적 (보안뉴스 ─ 국제)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105412&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105412&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
-            <pubDate>Mon, 14 Mar 2022 09:17:31 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/view.asp?idx=105412&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
-					
-					<img src="/media/upFiles2/2022/03/comp-thumb0314.jpg" alt="" class="news_img" height="70">
-					
-					<span class="news_txt">점점 더 복잡해지는 컴퓨터 네트워크, 보안의 가장 큰 적</span>
-					</a><br>
-					<a href="/media/view.asp?idx=105412&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">복잡한 시스템들일수록 보호하기가 힘들다. 그런데 우리의 컴퓨팅 환경은 점점 더 복잡해지고 있다. 그러니 더 불안해지고 더 연약해지는 것이다. 필자는 이 지면을 통...</a> <span class="news_writer">문가용 기자 | 2022년 03월 14일 17:55</span>]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/comp-thumb0314.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[통합보안 3사 에스원·SK쉴더스·KT텔레캅, 소비자의 생각과 선택은? (보안뉴스 ─ 기획특집)]]></title>
