@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Mar 2022 05:17:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Mar 2022 06:21:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[미국에서 시행되기 시작한 ‘사건 고지 의무화’ 규정, 어떤 의미인가? (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105507&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105507&amp;page=1&amp;kind=1</guid>
+            <pubDate>Thu, 17 Mar 2022 06:19:22 GMT</pubDate>
+            <content:encoded><![CDATA[이번 주 미국의 바이든 대통령은 새로운 법안에 서명을 했다. 그러면서 ‘사이버 사건 보고 법(Cyber Incident Reporting Act)’이라는 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/rep-thumb-0317.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[새로운 리눅스 봇넷, DNS 터널 활용해 로그4j 익스플로잇 해 (보안뉴스 ─ 전체기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105506&amp;page=1&amp;kind=1</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 16 Mar 2022 05:15:56 GMT</pubDate>
             <content:encoded><![CDATA[러시아의 석유와 가스, 석탄 수입이 중단되면서 미국 내 연료비가 급등하는 중이다. 이에 미국 내 에너지 산업은 디지털 자원들을 가지고 변화에 대응하려 하고...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/oil-thumb-0314.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[기업들, 엔터프라이즈 오픈소스 고려할 때 ‘보안’ 꼭 확인한다 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105468&amp;page=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105468&amp;page=1&amp;kind=3</guid>
-            <pubDate>Wed, 16 Mar 2022 04:20:17 GMT</pubDate>
-            <content:encoded><![CDATA[글로벌 오픈소스 솔루션 선도기업 레드햇은 ‘2022 엔터프라이즈 오픈소스 현황 보고서’를 발표했다. 전 세계의 중견 및 대기업 IT 결정권자 1,300명의...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/21082481_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[부고] 한국정보보호학회 수석부회장 원유재 교수 부친상 (보안뉴스 ─ 전체기사)]]></title>
@@ -327,20 +327,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/pipe-thumb-0316.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[올해부터 한국판 뉴딜 사업 디지털 트윈국토 현실화 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105380&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105380&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
-            <pubDate>Sun, 13 Mar 2022 15:15:59 GMT</pubDate>
-            <content:encoded><![CDATA[안도걸 기획재정부 제2차관은 지난 11일 한국국토정보공사 경기북부지역본부(남양주) 개청식에 앞서 한국판 뉴딜의 대표과제인 ‘디지털 트윈국토’를 주제로 정책 간담회...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/3-122(295).jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Weekly Security Premium Report 제41호 발간! 재택근무 보안 솔루션 ‘SASE’ 집중탐구 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105348&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105348&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
             <pubDate>Tue, 15 Mar 2022 01:03:52 GMT</pubDate>
             <content:encoded><![CDATA[3월 10일 발간된 ‘Weekly Security Premium Report’ 제41호에는 &lt;보안 심층 리포트&gt; 코너에서 코로나19가 장기화됨에 따라 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220310report-sm.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[올해부터 한국판 뉴딜 사업 디지털 트윈국토 현실화 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105380&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105380&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
+            <pubDate>Sun, 13 Mar 2022 15:15:59 GMT</pubDate>
+            <content:encoded><![CDATA[안도걸 기획재정부 제2차관은 지난 11일 한국국토정보공사 경기북부지역본부(남양주) 개청식에 앞서 한국판 뉴딜의 대표과제인 ‘디지털 트윈국토’를 주제로 정책 간담회...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/3-122(295).jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[보안 취약점에 대한 대처, 공격자에 비해 느려도 너무 느리다 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
@@ -351,20 +351,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/slow-thumb-0311.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[로우코드와 노코드 개발 프로젝트, 실패하는 주요 이유 4 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105392&amp;page=1&amp;kind=4&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105392&amp;page=1&amp;kind=4&amp;search=title&amp;find=</guid>
-            <pubDate>Tue, 15 Mar 2022 13:22:44 GMT</pubDate>
-            <content:encoded><![CDATA[최근 많은 조직들에서 로우코드 도구들을 도입하고 있다. 누구나 전문적인 개발 교육을 받지 않고도(아니면 조금만 받고도) 애플리케이션을 개발할 수 있게 된다고 하니...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/dev-thumb-0313.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[“엄마~ 나 핸드폰 떨어뜨려서...” 자녀 사칭 스미싱, 지금도 계속된다 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105395&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105395&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Tue, 15 Mar 2022 08:20:19 GMT</pubDate>
             <content:encoded><![CDATA[휴대폰이 고장났다는 메시지를 부모에게 보낸 뒤 수리비 등의 명목으로 급하게 돈이 필요하다며 금품을 요구하는 스미싱이 끊임없이 유포되고 있다. 최근 유포된 문자 메...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220313SMI-SM.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[로우코드와 노코드 개발 프로젝트, 실패하는 주요 이유 4 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105392&amp;page=1&amp;kind=4&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105392&amp;page=1&amp;kind=4&amp;search=title&amp;find=</guid>
+            <pubDate>Tue, 15 Mar 2022 13:22:44 GMT</pubDate>
+            <content:encoded><![CDATA[최근 많은 조직들에서 로우코드 도구들을 도입하고 있다. 누구나 전문적인 개발 교육을 받지 않고도(아니면 조금만 받고도) 애플리케이션을 개발할 수 있게 된다고 하니...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/dev-thumb-0313.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[점점 더 복잡해지는 컴퓨터 네트워크, 보안의 가장 큰 적 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
@@ -391,12 +391,19 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/3-125(295).jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[크롬 브라우저에서 제로데이 취약점이 폭증하는 이유 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105405&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105405&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Thu, 17 Mar 2022 05:15:49 GMT</pubDate>
-            <content:encoded><![CDATA[구글이 최근 폭증하고 있는 크롬 제로데이 취약점에 대해 발표했다고 보안 매체 시큐리티위크가 보도했다. 구글은 구글이 자사 제품과 서비스에 대한 취약점을 투명하게 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/zer-thumb-0314.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[독일 당국, 카스퍼스키 제품 사용하지 말라고 권고 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105470&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105470&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Thu, 17 Mar 2022 06:19:31 GMT</pubDate>
+            <content:encoded><![CDATA[보안 외신 핵리드에 의하면 독일 연방 정부가 보안 업체 카스퍼스키(Kaspersky) 제품을 시스템에서 제거하라고 촉구했다고 한다. 카스퍼스키 대신 다른 백신 및...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/kas-thumb-0316.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[부고] 한국정보보호학회 수석부회장 원유재 교수 부친상 (보안뉴스 ─ SECURITY)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105505&amp;page=1&amp;mkind=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105505&amp;page=1&amp;mkind=1&amp;kind=1</guid>
+            <pubDate>Thu, 17 Mar 2022 06:19:39 GMT</pubDate>
+            <content:encoded><![CDATA[△내 용 : 충남대학교 원유재 교수 부친상 △빈 소 : 충남 아산 신정장례문화원 VIP 2호  △발 인 : 2022년 3월 19일(토) △장 지 : 아산시 신창면 선영]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[구글, 크롬 99 업데이트 하며 초고위험도 취약점 패치해 (보안뉴스 ─ SECURITY)]]></title>
@@ -509,13 +516,6 @@
             <guid>https://www.boannews.com/media/view.asp?idx=105473&amp;page=1&amp;mkind=1&amp;kind=2</guid>
             <pubDate>Wed, 16 Mar 2022 05:16:17 GMT</pubDate>
             <content:encoded><![CDATA[한국인터넷진흥원(KISA, 원장 이원태)은 과학기술정보통신부(장관 임혜숙)와 블록체인 산업의 지역 균형발전 및 기술활용 지원을 위한 ‘지역 블록체인 기술혁신지원센터 구축 사업’에 참여할 광역지방자치단체를 모집한다고 3월 16일(수) 밝혔다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[주니퍼 네트웍스, 앱스트라 소프트웨어 최신 기능 발표 (보안뉴스 ─ SECURITY)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105472&amp;page=1&amp;mkind=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105472&amp;page=1&amp;mkind=1&amp;kind=3</guid>
-            <pubDate>Wed, 16 Mar 2022 05:16:17 GMT</pubDate>
-            <content:encoded><![CDATA[안전한 AI 기반 네트워크 전문업체 주니퍼 네트웍스가 데이터센터 네트워크의 구축, 문제 해결, 운영을 더욱 간소화하는 앱스트라(Apstra) 플랫폼 최신 기능을 발표했다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[데이터와 인공지능, 영농 현장에서 꽃피운다 (보안뉴스 ─ IT)]]></title>
@@ -1892,6 +1892,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/free_012601_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[미국에서 시행되기 시작한 ‘사건 고지 의무화’ 규정, 어떤 의미인가? (보안뉴스 ─ 국제)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105507&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105507&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
+            <pubDate>Thu, 17 Mar 2022 06:20:57 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/view.asp?idx=105507&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
+					
+					<img src="/media/upFiles2/2022/03/rep-thumb-0317.jpg" alt="" class="news_img" height="70">
+					
+					<span class="news_txt">미국에서 시행되기 시작한 ‘사건 고지 의무화’ 규정, 어떤 의미인가?</span>
+					</a><br>
+					<a href="/media/view.asp?idx=105507&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">이번 주 미국의 바이든 대통령은 새로운 법안에 서명을 했다. 그러면서 ‘사이버 사건 보고 법(Cyber Incident Reporting Act)’이라는 규정을 ...</a> <span class="news_writer">문가용 기자 | 2022년 03월 17일 14:45</span>]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/rep-thumb-0317.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[새로운 리눅스 봇넷, DNS 터널 활용해 로그4j 익스플로잇 해 (보안뉴스 ─ 국제)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105506&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105506&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
@@ -2156,20 +2170,6 @@
 					</a><br>
 					<a href="/media/view.asp?idx=105408&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">팬데믹은 원격 근무 체제를 활성화시켰고, 그러면서 클라우드의 도입을 가속화했다. 이제 어느 조직이나 원격 근무자들을 위한 디지털 인프라를 갖추려 하고 있다. 하지...</a> <span class="news_writer">문가용 기자 | 2022년 03월 14일 16:37</span>]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/iden-thumb-0314.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[크롬 브라우저에서 제로데이 취약점이 폭증하는 이유 (보안뉴스 ─ 국제)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105405&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105405&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
-            <pubDate>Mon, 14 Mar 2022 03:20:02 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/view.asp?idx=105405&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
-					
-					<img src="/media/upFiles2/2022/03/zer-thumb-0314.jpg" alt="" class="news_img" height="70">
-					
-					<span class="news_txt">크롬 브라우저에서 제로데이 취약점이 폭증하는 이유</span>
-					</a><br>
-					<a href="/media/view.asp?idx=105405&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">구글이 최근 폭증하고 있는 크롬 제로데이 취약점에 대해 발표했다고 보안 매체 시큐리티위크가 보도했다. 구글은 구글이 자사 제품과 서비스에 대한 취약점을 투명하게 ...</a> <span class="news_writer">문가용 기자 | 2022년 03월 14일 12:18</span>]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/zer-thumb-0314.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[통합보안 3사 에스원·SK쉴더스·KT텔레캅, 소비자의 생각과 선택은? (보안뉴스 ─ 기획특집)]]></title>
