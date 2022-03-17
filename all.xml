@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Mar 2022 06:21:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Mar 2022 07:19:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[러시아 정부가 정보를 통제하기 시작하자 VPN 사용량 크게 늘어 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105508&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105508&amp;page=1&amp;kind=1</guid>
+            <pubDate>Thu, 17 Mar 2022 07:16:47 GMT</pubDate>
+            <content:encoded><![CDATA[러시아 정부가 우크라이나를 침략하면서 동시에 자국 정보 통제를 강화했기 때문에 소셜미디어에 접속하거나 국제적인 뉴스를 접하고 싶어 하는 러시아 국민들은 V...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/no-thumb-0317.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[미국에서 시행되기 시작한 ‘사건 고지 의무화’ 규정, 어떤 의미인가? (보안뉴스 ─ 전체기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105507&amp;page=1&amp;kind=1</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 16 Mar 2022 07:16:50 GMT</pubDate>
             <content:encoded><![CDATA[대만의 NAS 제조사인 큐냅(QNAP)이 자사 제품 일부에서 심각한 리눅스 관련 취약점을 발견했다고 발표했다. 이 취약점은 더티파이프(Dirty Pipe)...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/pipe-thumb-0316.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[러시아 석유 제재를 계기로 디지털화 모색하는 미국 에너지 산업 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105415&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105415&amp;page=1&amp;kind=1</guid>
-            <pubDate>Wed, 16 Mar 2022 05:15:56 GMT</pubDate>
-            <content:encoded><![CDATA[러시아의 석유와 가스, 석탄 수입이 중단되면서 미국 내 연료비가 급등하는 중이다. 이에 미국 내 에너지 산업은 디지털 자원들을 가지고 변화에 대응하려 하고...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/oil-thumb-0314.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[부고] 한국정보보호학회 수석부회장 원유재 교수 부친상 (보안뉴스 ─ 전체기사)]]></title>
@@ -327,14 +327,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/pipe-thumb-0316.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Weekly Security Premium Report 제41호 발간! 재택근무 보안 솔루션 ‘SASE’ 집중탐구 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105348&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105348&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
-            <pubDate>Tue, 15 Mar 2022 01:03:52 GMT</pubDate>
-            <content:encoded><![CDATA[3월 10일 발간된 ‘Weekly Security Premium Report’ 제41호에는 &lt;보안 심층 리포트&gt; 코너에서 코로나19가 장기화됨에 따라 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220310report-sm.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
             <title><![CDATA[올해부터 한국판 뉴딜 사업 디지털 트윈국토 현실화 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105380&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105380&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
@@ -397,6 +389,21 @@
             <pubDate>Thu, 17 Mar 2022 06:19:31 GMT</pubDate>
             <content:encoded><![CDATA[보안 외신 핵리드에 의하면 독일 연방 정부가 보안 업체 카스퍼스키(Kaspersky) 제품을 시스템에서 제거하라고 촉구했다고 한다. 카스퍼스키 대신 다른 백신 및...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/kas-thumb-0316.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[크롬 브라우저에서 제로데이 취약점이 폭증하는 이유 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105405&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105405&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Thu, 17 Mar 2022 07:16:59 GMT</pubDate>
+            <content:encoded><![CDATA[구글이 최근 폭증하고 있는 크롬 제로데이 취약점에 대해 발표했다고 보안 매체 시큐리티위크가 보도했다. 구글은 구글이 자사 제품과 서비스에 대한 취약점을 투명하게 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/zer-thumb-0314.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[크립토롬 사기술, 사이드 로딩 기법 통해 되살아나 (보안뉴스 ─ SECURITY)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105504&amp;page=1&amp;mkind=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105504&amp;page=1&amp;mkind=1&amp;kind=1</guid>
+            <pubDate>Thu, 17 Mar 2022 07:17:10 GMT</pubDate>
+            <content:encoded><![CDATA[보안 외신 쓰레트포스트에 의하면 사이버 공격자들이 암호화폐를 훔치는 기법 중 하나인 크립토롬(CryptoRom)을 다시 사용하기 시작했다고 한다. 이번 공격자들은 테스트플라이트(TestFlight)와 웹클립스(WebClips)라는 iOS 기능들을 악용하여 공식 앱스토어...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[부고] 한국정보보호학회 수석부회장 원유재 교수 부친상 (보안뉴스 ─ SECURITY)]]></title>
@@ -509,13 +516,6 @@
             <guid>https://www.boannews.com/media/view.asp?idx=105468&amp;page=1&amp;mkind=1&amp;kind=3</guid>
             <pubDate>Wed, 16 Mar 2022 06:20:16 GMT</pubDate>
             <content:encoded><![CDATA[글로벌 오픈소스 솔루션 선도기업 레드햇은 ‘2022 엔터프라이즈 오픈소스 현황 보고서’를 발표했다. 전 세계의 중견 및 대기업 IT 결정권자 1,300명의 설문조사에 기반한 이번 보고서에 따르면 기업이 엔터프라이즈 오픈소스를 고려할 때 △오픈소스 기여도와 △오픈소스 개...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[KISA, ‘지역 블록체인 기술혁신지원센터 구축 사업’ 공모 (보안뉴스 ─ SECURITY)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105473&amp;page=1&amp;mkind=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105473&amp;page=1&amp;mkind=1&amp;kind=2</guid>
-            <pubDate>Wed, 16 Mar 2022 05:16:17 GMT</pubDate>
-            <content:encoded><![CDATA[한국인터넷진흥원(KISA, 원장 이원태)은 과학기술정보통신부(장관 임혜숙)와 블록체인 산업의 지역 균형발전 및 기술활용 지원을 위한 ‘지역 블록체인 기술혁신지원센터 구축 사업’에 참여할 광역지방자치단체를 모집한다고 3월 16일(수) 밝혔다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[데이터와 인공지능, 영농 현장에서 꽃피운다 (보안뉴스 ─ IT)]]></title>
@@ -1892,6 +1892,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/free_012601_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[러시아 정부가 정보를 통제하기 시작하자 VPN 사용량 크게 늘어 (보안뉴스 ─ 국제)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105508&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105508&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
+            <pubDate>Thu, 17 Mar 2022 07:18:30 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/view.asp?idx=105508&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
+					
+					<img src="/media/upFiles2/2022/03/no-thumb-0317.jpg" alt="" class="news_img" height="70">
+					
+					<span class="news_txt">러시아 정부가 정보를 통제하기 시작하자 VPN 사용량 크게 늘어</span>
+					</a><br>
+					<a href="/media/view.asp?idx=105508&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">러시아 정부가 우크라이나를 침략하면서 동시에 자국 정보 통제를 강화했기 때문에 소셜미디어에 접속하거나 국제적인 뉴스를 접하고 싶어 하는 러시아 국민들은 VPN을 ...</a> <span class="news_writer">문가용 기자 | 2022년 03월 17일 15:46</span>]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/no-thumb-0317.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[미국에서 시행되기 시작한 ‘사건 고지 의무화’ 규정, 어떤 의미인가? (보안뉴스 ─ 국제)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105507&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105507&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
@@ -2156,20 +2170,6 @@
 					</a><br>
 					<a href="/media/view.asp?idx=105412&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">복잡한 시스템들일수록 보호하기가 힘들다. 그런데 우리의 컴퓨팅 환경은 점점 더 복잡해지고 있다. 그러니 더 불안해지고 더 연약해지는 것이다. 필자는 이 지면을 통...</a> <span class="news_writer">문가용 기자 | 2022년 03월 14일 17:55</span>]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/comp-thumb0314.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이젠 사람의 아이덴티티만이 아니라 ‘워크로드 아이덴티티’도 보호해야 한다 (보안뉴스 ─ 국제)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105408&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105408&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
-            <pubDate>Mon, 14 Mar 2022 08:21:54 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/view.asp?idx=105408&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
-					
-					<img src="/media/upFiles2/2022/03/iden-thumb-0314.jpg" alt="" class="news_img" height="70">
-					
-					<span class="news_txt">이젠 사람의 아이덴티티만이 아니라 ‘워크로드 아이덴티티’도 보호해야 한다</span>
-					</a><br>
-					<a href="/media/view.asp?idx=105408&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">팬데믹은 원격 근무 체제를 활성화시켰고, 그러면서 클라우드의 도입을 가속화했다. 이제 어느 조직이나 원격 근무자들을 위한 디지털 인프라를 갖추려 하고 있다. 하지...</a> <span class="news_writer">문가용 기자 | 2022년 03월 14일 16:37</span>]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/iden-thumb-0314.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[통합보안 3사 에스원·SK쉴더스·KT텔레캅, 소비자의 생각과 선택은? (보안뉴스 ─ 기획특집)]]></title>
