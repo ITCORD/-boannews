@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Mar 2022 11:15:51 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Mar 2022 12:30:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -367,14 +367,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220315CISO1-S.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
-            <title><![CDATA[대구시, 인공지능 기반 스마트 교통체계 본격 확산 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105383&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105383&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
-            <pubDate>Mon, 14 Mar 2022 22:16:35 GMT</pubDate>
-            <content:encoded><![CDATA[대구시는 국토교통부가 주관하는 ‘스마트시티 챌린지’의 본사업 대상도시로 선정돼 인공지능(AI) 기반 스마트교통체계를 본격 확산한다고 밝혔다.]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/3-125(295).jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[독일 당국, 카스퍼스키 제품 사용하지 말라고 권고 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105470&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105470&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
@@ -383,20 +375,28 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/kas-thumb-0316.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[대구시, 인공지능 기반 스마트 교통체계 본격 확산 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105383&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105383&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
+            <pubDate>Mon, 14 Mar 2022 22:16:35 GMT</pubDate>
+            <content:encoded><![CDATA[대구시는 국토교통부가 주관하는 ‘스마트시티 챌린지’의 본사업 대상도시로 선정돼 인공지능(AI) 기반 스마트교통체계를 본격 확산한다고 밝혔다.]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/3-125(295).jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[모바일 애플리케이션 백엔드 정보, 무방비로 노출되어 있다 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105481&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105481&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Thu, 17 Mar 2022 12:28:34 GMT</pubDate>
+            <content:encoded><![CDATA[공개된 파이어베이스(Firebase) 데이터베이스를 간단히 검색했더니 2100개가 넘는 모바일 에플리케이션용 데이터저장소가 있는 그대로 노출되어 있다는 사실이 발...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/clo-thumb-0316.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[크롬 브라우저에서 제로데이 취약점이 폭증하는 이유 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105405&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105405&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Thu, 17 Mar 2022 08:20:00 GMT</pubDate>
             <content:encoded><![CDATA[구글이 최근 폭증하고 있는 크롬 제로데이 취약점에 대해 발표했다고 보안 매체 시큐리티위크가 보도했다. 구글은 구글이 자사 제품과 서비스에 대한 취약점을 투명하게 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/zer-thumb-0314.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[도심공원 내 CCTV, 효율적 설치·운영으로 안전 사각지대 해소해야 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105387&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105387&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
-            <pubDate>Thu, 17 Mar 2022 08:20:00 GMT</pubDate>
-            <content:encoded><![CDATA[범죄 예방이나 시설안전 관리 등의 목적으로 생활 주변 곳곳에 공공 CCTV 설치가 확대되는 가운데 한국소비자원이 방범용 CCTV 설치에 대한 소비자 인식과 수도권...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/3-129(295).jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[새로운 리눅스 봇넷, DNS 터널 활용해 로그4j 익스플로잇 해 (보안뉴스 ─ SECURITY)]]></title>
