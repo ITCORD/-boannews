@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Mar 2022 08:22:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Mar 2022 09:18:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Weekly Security Premium Report 제42호 발간! 최악의 취약점 Log4j (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105509&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105509&amp;page=1&amp;kind=1</guid>
+            <pubDate>Thu, 17 Mar 2022 09:16:27 GMT</pubDate>
+            <content:encoded><![CDATA[국내 최대 보안전문 인터넷신문 &lt;보안뉴스&gt;와 보안종합 월간지 &lt;시큐리티월드&gt;의 베테랑 전문기자들이 매일, 매주 제공하는 &lt;보안뉴...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/premium_031701_main.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[러시아 정부가 정보를 통제하기 시작하자 VPN 사용량 크게 늘어 (보안뉴스 ─ 전체기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105508&amp;page=1&amp;kind=1</link>
@@ -52,7 +60,7 @@
             <link>https://www.boannews.com/media/view.asp?idx=105501&amp;page=1&amp;kind=3</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105501&amp;page=1&amp;kind=3</guid>
             <pubDate>Thu, 17 Mar 2022 02:40:23 GMT</pubDate>
-            <content:encoded><![CDATA[최근 파일공유 사이트에 ‘불법 윈도우 정품인증 툴’로 위장한 파일을 올려 악성코드를 유포하는 사례가 발견돼 사용자의 주의를 당부된다.]]></content:encoded>
+            <content:encoded><![CDATA[최근 파일공유 사이트에 ‘불법 윈도우 정품인증 툴’로 위장한 파일을 올려 악성코드를 유포하는 사례가 발견돼 사용자의 주의가 당부된다.]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/ahn_031701_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 16 Mar 2022 08:19:40 GMT</pubDate>
             <content:encoded><![CDATA[국가 사이버군 발전을 위해 설립된 사이버군협회가 창립 10주년을 맞아 ‘사이버공간레터 2호’를 발간해 자축했다. 특히 이번 사이버공간레터에서는 우리나라 사...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20298542_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지난 주 발견된 더티파이프 취약점, 큐냅 NAS 장비들에서도 추가로 발견돼 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105477&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105477&amp;page=1&amp;kind=1</guid>
-            <pubDate>Wed, 16 Mar 2022 07:16:50 GMT</pubDate>
-            <content:encoded><![CDATA[대만의 NAS 제조사인 큐냅(QNAP)이 자사 제품 일부에서 심각한 리눅스 관련 취약점을 발견했다고 발표했다. 이 취약점은 더티파이프(Dirty Pipe)...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/pipe-thumb-0316.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[부고] 한국정보보호학회 수석부회장 원유재 교수 부친상 (보안뉴스 ─ 전체기사)]]></title>
@@ -303,20 +303,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/dec-thumb-031.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[어나니머스, 러시아인들에 “푸틴을 제거하라”고 촉구 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105403&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105403&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Tue, 15 Mar 2022 05:15:39 GMT</pubDate>
-            <content:encoded><![CDATA[어나니머스(Anonymous)라는 유명 핵티비스트들이 러시아인들에게 메시지를 보냈다고 보안 블로그 시큐리티어페어즈가 보도했다. 러시아 국민들에게 고통을 안겨다 주...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/elim-thumb-0314.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[지난 주 발견된 더티파이프 취약점, 큐냅 NAS 장비들에서도 추가로 발견돼 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105477&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105477&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Thu, 17 Mar 2022 01:03:14 GMT</pubDate>
             <content:encoded><![CDATA[대만의 NAS 제조사인 큐냅(QNAP)이 자사 제품 일부에서 심각한 리눅스 관련 취약점을 발견했다고 발표했다. 이 취약점은 더티파이프(Dirty Pipe)라고 불...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/pipe-thumb-0316.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[어나니머스, 러시아인들에 “푸틴을 제거하라”고 촉구 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105403&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105403&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Tue, 15 Mar 2022 05:15:39 GMT</pubDate>
+            <content:encoded><![CDATA[어나니머스(Anonymous)라는 유명 핵티비스트들이 러시아인들에게 메시지를 보냈다고 보안 블로그 시큐리티어페어즈가 보도했다. 러시아 국민들에게 고통을 안겨다 주...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/elim-thumb-0314.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[올해부터 한국판 뉴딜 사업 디지털 트윈국토 현실화 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
@@ -399,6 +399,13 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/3-129(295).jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[새로운 리눅스 봇넷, DNS 터널 활용해 로그4j 익스플로잇 해 (보안뉴스 ─ SECURITY)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105506&amp;page=1&amp;mkind=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105506&amp;page=1&amp;mkind=1&amp;kind=1</guid>
+            <pubDate>Thu, 17 Mar 2022 09:16:49 GMT</pubDate>
+            <content:encoded><![CDATA[보안 외신 해커뉴스에 의하면 새로운 리눅스 봇넷이 나타났다고 한다. 이름은 비트쏘트웬티(B1txor20)이며, DNS 터널(DNS Tunnel)이라는 기술을 활용하여 로그4j 취약점을 익스플로잇 하는 것으로 분석됐다. 보안 업체 치후360(Qihoo 360)에서 발견한...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[크립토롬 사기술, 사이드 로딩 기법 통해 되살아나 (보안뉴스 ─ SECURITY)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105504&amp;page=1&amp;mkind=1&amp;kind=1</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105504&amp;page=1&amp;mkind=1&amp;kind=1</guid>
@@ -438,7 +445,7 @@
             <link>https://www.boannews.com/media/view.asp?idx=105501&amp;page=1&amp;mkind=1&amp;kind=3</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105501&amp;page=1&amp;mkind=1&amp;kind=3</guid>
             <pubDate>Thu, 17 Mar 2022 02:40:42 GMT</pubDate>
-            <content:encoded><![CDATA[최근 파일공유 사이트에 ‘불법 윈도우 정품인증 툴’로 위장한 파일을 올려 악성코드를 유포하는 사례가 발견돼 사용자의 주의를 당부된다.]]></content:encoded>
+            <content:encoded><![CDATA[최근 파일공유 사이트에 ‘불법 윈도우 정품인증 툴’로 위장한 파일을 올려 악성코드를 유포하는 사례가 발견돼 사용자의 주의가 당부된다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[시큐아이, 정삼용 신임 대표이사 선임 (보안뉴스 ─ SECURITY)]]></title>
@@ -509,13 +516,6 @@
             <guid>https://www.boannews.com/media/view.asp?idx=105474&amp;page=1&amp;mkind=1&amp;kind=3</guid>
             <pubDate>Wed, 16 Mar 2022 07:17:12 GMT</pubDate>
             <content:encoded><![CDATA[화웨이가 5G 등 글로벌 무선 통신장비 시장의 선두 자리를 굳건히 하고 있는 것으로 나타났다. 글로벌 시장조사기관 델오로 그룹(Dell’Oro Group)에 따르면 광대역 액세스, 마이크로웨이브 및 옵티컬 전송, 모바일 코어 네트워크(MCN), 무선 액세스 네트워크(R...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[기업들, 엔터프라이즈 오픈소스 고려할 때 ‘보안’ 꼭 확인한다 (보안뉴스 ─ SECURITY)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105468&amp;page=1&amp;mkind=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105468&amp;page=1&amp;mkind=1&amp;kind=3</guid>
-            <pubDate>Wed, 16 Mar 2022 06:20:16 GMT</pubDate>
-            <content:encoded><![CDATA[글로벌 오픈소스 솔루션 선도기업 레드햇은 ‘2022 엔터프라이즈 오픈소스 현황 보고서’를 발표했다. 전 세계의 중견 및 대기업 IT 결정권자 1,300명의 설문조사에 기반한 이번 보고서에 따르면 기업이 엔터프라이즈 오픈소스를 고려할 때 △오픈소스 기여도와 △오픈소스 개...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[데이터와 인공지능, 영농 현장에서 꽃피운다 (보안뉴스 ─ IT)]]></title>
@@ -772,6 +772,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/22031503ss.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[새로운 리눅스 봇넷, DNS 터널 활용해 로그4j 익스플로잇 해 (보안뉴스 ─ 취약점 경고 및 버그리포트)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105506&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105506&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=</guid>
+            <pubDate>Thu, 17 Mar 2022 09:17:30 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/view.asp?idx=105506&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=">
+					
+					<img src="/media/upFiles2/2022/03/pan-thumb0-0317.jpg" alt="" class="news_img" height="70">
+					
+					<span class="news_txt">새로운 리눅스 봇넷, DNS 터널 활용해 로그4j 익스플로잇 해</span>
+					</a><br>
+					<a href="/media/view.asp?idx=105506&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=">보안 외신 해커뉴스에 의하면 새로운 리눅스 봇넷이 나타났다고 한다. 이름은 비트쏘트웬티(B1txor20)이며, DNS 터널(DNS Tunnel)이라는 기술을 활용...</a> <span class="news_writer">문가용 기자 | 2022년 03월 17일 11:30</span>]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/pan-thumb0-0317.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[불법 윈도우 정품인증 툴 받았다간 개인정보 탈취당한다! (보안뉴스 ─ 취약점 경고 및 버그리포트)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105501&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=5&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105501&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=5&amp;search=title&amp;find=</guid>
@@ -782,7 +796,7 @@
 					
 					<span class="news_txt">불법 윈도우 정품인증 툴 받았다간 개인정보 탈취당한다!</span>
 					</a><br>
-					<a href="/media/view.asp?idx=105501&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=5&amp;search=title&amp;find=">최근 파일공유 사이트에 ‘불법 윈도우 정품인증 툴’로 위장한 파일을 올려 악성코드를 유포하는 사례가 발견돼 사용자의 주의를 당부된다.</a> <span class="news_writer">원병철 기자 | 2022년 03월 17일 10:20</span>]]></content:encoded>
+					<a href="/media/view.asp?idx=105501&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=5&amp;search=title&amp;find=">최근 파일공유 사이트에 ‘불법 윈도우 정품인증 툴’로 위장한 파일을 올려 악성코드를 유포하는 사례가 발견돼 사용자의 주의가 당부된다.</a> <span class="news_writer">원병철 기자 | 2022년 03월 17일 10:20</span>]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/ahn_031701_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -1036,20 +1050,6 @@
 					</a><br>
 					<a href="/media/view.asp?idx=105156&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=">MS가 우크라이나의 디지털 인프라를 겨냥한 것으로 보이는 멀웨어를 발견했다고 발표했다. 이름은 폭스플레이드(FoxBlade)이며, 러시아가 우크라이나를 침공하기 ...</a> <span class="news_writer">문가용 기자 | 2022년 03월 02일 12:10</span>]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/fox-thumb-0302.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[bnTV] 인터넷의 근간이 흔들릴 수 있는 해킹 사건의 전말은? (보안뉴스 ─ 취약점 경고 및 버그리포트)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105123&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105123&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=</guid>
-            <pubDate>Mon, 28 Feb 2022 06:22:05 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/view.asp?idx=105123&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=">
-					
-					<img src="/media/upFiles2/2022/02/20220228DARK-S.JPG" alt="" class="news_img" height="70">
-					
-					<span class="news_txt">[bnTV] 인터넷의 근간이 흔들릴 수 있는 해킹 사건의 전말은? </span>
-					</a><br>
-					<a href="/media/view.asp?idx=105123&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=">‘BGP Hijacking’이라고 하는 게 뭐냐면 쉽게 말씀드리면 저희가 도로에서 운전을 할 때 도로 표지판이 있지 않습니까? 저희가 사용하는 인터넷에도 그런 표...</a> <span class="news_writer">권준  기자 | 2022년 02월 28일 15:08</span>]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/20220228DARK-S.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[[최정식 발행인 칼럼] <시큐리티월드> 통권 300호를 맞아 드리는 감사의 말씀 (보안뉴스 ─ 오피니언)]]></title>

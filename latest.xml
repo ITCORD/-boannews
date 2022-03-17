@@ -4,9 +4,17 @@
         <title>보안뉴스 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Mar 2022 08:22:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Mar 2022 09:18:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Weekly Security Premium Report 제42호 발간! 최악의 취약점 Log4j]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105509&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105509&amp;page=1&amp;kind=1</guid>
+            <pubDate>Thu, 17 Mar 2022 09:16:27 GMT</pubDate>
+            <content:encoded><![CDATA[국내 최대 보안전문 인터넷신문 &lt;보안뉴스&gt;와 보안종합 월간지 &lt;시큐리티월드&gt;의 베테랑 전문기자들이 매일, 매주 제공하는 &lt;보안뉴...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/premium_031701_main.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[러시아 정부가 정보를 통제하기 시작하자 VPN 사용량 크게 늘어]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105508&amp;page=1&amp;kind=1</link>
@@ -52,7 +60,7 @@
             <link>https://www.boannews.com/media/view.asp?idx=105501&amp;page=1&amp;kind=3</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105501&amp;page=1&amp;kind=3</guid>
             <pubDate>Thu, 17 Mar 2022 02:40:23 GMT</pubDate>
-            <content:encoded><![CDATA[최근 파일공유 사이트에 ‘불법 윈도우 정품인증 툴’로 위장한 파일을 올려 악성코드를 유포하는 사례가 발견돼 사용자의 주의를 당부된다.]]></content:encoded>
+            <content:encoded><![CDATA[최근 파일공유 사이트에 ‘불법 윈도우 정품인증 툴’로 위장한 파일을 올려 악성코드를 유포하는 사례가 발견돼 사용자의 주의가 당부된다.]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/ahn_031701_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 16 Mar 2022 08:19:40 GMT</pubDate>
             <content:encoded><![CDATA[국가 사이버군 발전을 위해 설립된 사이버군협회가 창립 10주년을 맞아 ‘사이버공간레터 2호’를 발간해 자축했다. 특히 이번 사이버공간레터에서는 우리나라 사...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20298542_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지난 주 발견된 더티파이프 취약점, 큐냅 NAS 장비들에서도 추가로 발견돼]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105477&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105477&amp;page=1&amp;kind=1</guid>
-            <pubDate>Wed, 16 Mar 2022 07:16:50 GMT</pubDate>
-            <content:encoded><![CDATA[대만의 NAS 제조사인 큐냅(QNAP)이 자사 제품 일부에서 심각한 리눅스 관련 취약점을 발견했다고 발표했다. 이 취약점은 더티파이프(Dirty Pipe)...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/pipe-thumb-0316.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[부고] 한국정보보호학회 수석부회장 원유재 교수 부친상]]></title>
