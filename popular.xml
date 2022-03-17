@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Mar 2022 02:42:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Mar 2022 03:19:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -64,20 +64,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220313log-s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[데이터를 모아야 결정을 내릴 수 있다? 아니, 일단 반대로 해 봐야]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105390&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105390&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
-            <pubDate>Sun, 13 Mar 2022 04:20:36 GMT</pubDate>
-            <content:encoded><![CDATA[그 때는 진짜 대단해 보였다. 데이터를 모으고, 신기술로 분석하고, 그럼으로써 통찰을 이끌어내서 사업에 접목하고, 올바른 결정을 내릴 수 있다니, ‘와’하는 소리...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/dec-thumb-031.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[국정원, 정보보호 및 취약점 분석 전문가 채용 나섰다]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105409&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105409&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
             <pubDate>Tue, 15 Mar 2022 01:03:52 GMT</pubDate>
             <content:encoded><![CDATA[국가정보원이 ‘2022년도 국가정보원 경력경쟁채용 공고’를 내고 특정직 5급과 6급 채용에 나섰다. 특히 이번 채용 공고에는 정보보호, 취약점분석, 네트워크 구축...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/nis_031401_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[데이터를 모아야 결정을 내릴 수 있다? 아니, 일단 반대로 해 봐야]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105390&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105390&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
+            <pubDate>Sun, 13 Mar 2022 04:20:36 GMT</pubDate>
+            <content:encoded><![CDATA[그 때는 진짜 대단해 보였다. 데이터를 모으고, 신기술로 분석하고, 그럼으로써 통찰을 이끌어내서 사업에 접목하고, 올바른 결정을 내릴 수 있다니, ‘와’하는 소리...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/dec-thumb-031.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[어나니머스, 러시아인들에 “푸틴을 제거하라”고 촉구]]></title>
@@ -112,6 +112,14 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/slow-thumb-0311.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[지난 주 발견된 더티파이프 취약점, 큐냅 NAS 장비들에서도 추가로 발견돼]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105477&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105477&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Thu, 17 Mar 2022 01:03:14 GMT</pubDate>
+            <content:encoded><![CDATA[대만의 NAS 제조사인 큐냅(QNAP)이 자사 제품 일부에서 심각한 리눅스 관련 취약점을 발견했다고 발표했다. 이 취약점은 더티파이프(Dirty Pipe)라고 불...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/pipe-thumb-0316.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[로우코드와 노코드 개발 프로젝트, 실패하는 주요 이유 4]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105392&amp;page=1&amp;kind=4&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105392&amp;page=1&amp;kind=4&amp;search=title&amp;find=</guid>
@@ -126,14 +134,6 @@
             <pubDate>Tue, 15 Mar 2022 08:20:19 GMT</pubDate>
             <content:encoded><![CDATA[휴대폰이 고장났다는 메시지를 부모에게 보낸 뒤 수리비 등의 명목으로 급하게 돈이 필요하다며 금품을 요구하는 스미싱이 끊임없이 유포되고 있다. 최근 유포된 문자 메...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220313SMI-SM.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지난 주 발견된 더티파이프 취약점, 큐냅 NAS 장비들에서도 추가로 발견돼]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105477&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105477&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Thu, 17 Mar 2022 01:03:14 GMT</pubDate>
-            <content:encoded><![CDATA[대만의 NAS 제조사인 큐냅(QNAP)이 자사 제품 일부에서 심각한 리눅스 관련 취약점을 발견했다고 발표했다. 이 취약점은 더티파이프(Dirty Pipe)라고 불...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/pipe-thumb-0316.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[점점 더 복잡해지는 컴퓨터 네트워크, 보안의 가장 큰 적]]></title>
