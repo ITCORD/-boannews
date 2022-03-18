@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Mar 2022 12:50:13 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Mar 2022 13:34:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -352,20 +352,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/3-122(295).jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[점점 더 복잡해지는 컴퓨터 네트워크, 보안의 가장 큰 적 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105412&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105412&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Wed, 16 Mar 2022 01:04:37 GMT</pubDate>
-            <content:encoded><![CDATA[복잡한 시스템들일수록 보호하기가 힘들다. 그런데 우리의 컴퓨팅 환경은 점점 더 복잡해지고 있다. 그러니 더 불안해지고 더 연약해지는 것이다. 필자는 이 지면을 통...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/comp-thumb0314.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[제116차 CISO포럼, 최근 화두인 NFT와 사이버보안의 변화상 논의 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105449&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105449&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Wed, 16 Mar 2022 11:15:00 GMT</pubDate>
             <content:encoded><![CDATA[메타버스 플랫폼이 확대되고, 가상 경제가 발전하기 시작하면서 핵심 거래 및 소유수단으로 NFT(대체 불가능 토큰)이 화두가 되고 있다. 이와 함께 사이버보안 분야...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220315CISO1-S.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[점점 더 복잡해지는 컴퓨터 네트워크, 보안의 가장 큰 적 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105412&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105412&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Wed, 16 Mar 2022 01:04:37 GMT</pubDate>
+            <content:encoded><![CDATA[복잡한 시스템들일수록 보호하기가 힘들다. 그런데 우리의 컴퓨팅 환경은 점점 더 복잡해지고 있다. 그러니 더 불안해지고 더 연약해지는 것이다. 필자는 이 지면을 통...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/comp-thumb0314.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[대구시, 인공지능 기반 스마트 교통체계 본격 확산 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
