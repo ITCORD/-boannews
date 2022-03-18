@@ -2,9 +2,65 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-03-18T01:16:52.096Z</updated>
+    <updated>2022-03-18T02:44:59.803Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[유명 npm 패키지 개발자, 러시아 노리고 악성 버전 업로드 해]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=105529&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=105529&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-03-18T02:43:19.572Z</updated>
+        <content type="html"><![CDATA[보안 블로그 시큐리티어페어즈에 의하면 유명 npm 패키지인 node-ipc의 개발자 RIAEangelist가 일부러 ‘악성 버전’을 업로드했다고 한다. 러시아의 우크라이나 침략에 항의하는 의미에서다. 러시아와 벨라루스에 있는 시스템들에서 이 패키지가 다운로드 되면 데이...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[소리소문 없이 성장하는 CDN 시장의 현황과 큰 줄기의 트렌드]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=105510&amp;page=1&amp;mkind=1&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=105510&amp;page=1&amp;mkind=1&amp;kind=3"/>
+        <updated>2022-03-18T02:43:19.574Z</updated>
+        <content type="html"><![CDATA[콘텐츠 배포 네트워크(CDN)는 세기가 바뀔 무렵에 등장한 서비스로, 당시는 전자상거래와 온라인 동영상이라는 것이 한창 인기를 얻어가면서 각종 실험이 진행되고 시행착오가 있었던 때였다. 그리고 지금까지 계속해서 진화를 거듭하고 있다. 최근 몇 년 동안은 CDN 시장이 ...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IPA, 2022년 사이버 위기대응 훈련 실시]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=105526&amp;page=1&amp;mkind=1&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=105526&amp;page=1&amp;mkind=1&amp;kind=2"/>
+        <updated>2022-03-18T02:43:19.576Z</updated>
+        <content type="html"><![CDATA[인천항만공사(IPA)는 최근 공공기관을 대상으로 한 사이버 공격과 개인정보 유출 시도가 급증함에 따라 자체 ‘사이버 위기대응 훈련’을 실시했다고 밝혔다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[경기도일자리재단, 경기도 주관 공공기관 정보보안 관리실태 평가 1위]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=105525&amp;page=1&amp;mkind=1&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=105525&amp;page=1&amp;mkind=1&amp;kind=2"/>
+        <updated>2022-03-18T02:43:19.578Z</updated>
+        <content type="html"><![CDATA[경기도일자리재단이 2022년 경기도 공공기관 정보보안 관리실태 평가에서 경기도 내 공공기관 중 ‘최우수기관’으로 선정됐다고 밝혔다. 재단은 개인정보보호, 인적보안, 정보자산 보안, 사이버 위기관리 등의 분야에서 높은 점수를 받았다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[심평원, 의약단체와 의약 분야 개인정보보호 협력 강화]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=105524&amp;page=1&amp;mkind=1&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=105524&amp;page=1&amp;mkind=1&amp;kind=2"/>
+        <updated>2022-03-18T02:43:19.579Z</updated>
+        <content type="html"><![CDATA[건강보험심사평가원은 11일 올해 병·의원 및 약국의 개인정보보호 관리수준 향상을 위해 의약단체와 ‘요양기관 개인정보 자율보호 실무추진단’ 회의를 개최했다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[통일부 ‘남북관계 주요일지’ 사칭한 해킹 발견... 北 연계 해킹 위협 적신호]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=105528&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=105528&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-03-18T02:43:19.580Z</updated>
+        <content type="html"><![CDATA[최근 통일부 남북관계 주요일지 2월호 내용처럼 위장한 北 연계 해킹 공격이 연이어 발견되고 있다며, 각별한 주의가 요구된다고 보안 전문 기업 이스트시큐리티(대표 정상원)가 18일 밝혔다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[명품 쇼핑몰 발란, 해킹으로 고객 개인정보 유출]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=105527&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=105527&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-03-18T02:43:19.582Z</updated>
+        <content type="html"><![CDATA[명품 쇼핑몰 ‘발란(BALAAN)’이 해킹으로 고객 개인정보가 유출됐다고 밝혔다. 발란은 유출된 정보는 닉네임과 이메일, 전화번호 등이며 구매내역과 결제정보는 유출되지 않았다고 밝혔다. 그러나 고객정보 몇 건이 유출됐지는 밝히지 않았다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[사이버 보안, 청년들이 진출하기 가장 좋은 분야]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=105512&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=105512&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-03-18T02:43:19.583Z</updated>
+        <content type="html"><![CDATA[사이버 보안 업계는 인재 부족을 겪고 있으며 272만 명에 달하는 글로벌 인력 격차를 해소하기 위해 전문가들을 찾고 있다. 중요한 자산을 적절히 보호해야 한다는, 모든 조직들의 당면 과제를 수행하려면 젊은 사람들이 계속해서 유입되어야 한다. 보안 교육 전문 업체인 (I...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Weekly Security Premium Report 제42호 발간! 최악의 취약점 Log4j]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=105509&amp;page=1&amp;mkind=1&amp;kind=1</id>
@@ -67,61 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=105502&amp;page=1&amp;mkind=1&amp;kind=3"/>
         <updated>2022-03-17T02:40:42.453Z</updated>
         <content type="html"><![CDATA[AI 서비스 전문 기업 이스트소프트(대표 정상원)는 스마트워크 협업 솔루션 팀업의 새로운 버전인 '팀업 4.0'을 출시했다고 17일 밝혔다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[불법 윈도우 정품인증 툴 받았다간 개인정보 탈취당한다!]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=105501&amp;page=1&amp;mkind=1&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=105501&amp;page=1&amp;mkind=1&amp;kind=3"/>
-        <updated>2022-03-17T02:40:42.455Z</updated>
-        <content type="html"><![CDATA[최근 파일공유 사이트에 ‘불법 윈도우 정품인증 툴’로 위장한 파일을 올려 악성코드를 유포하는 사례가 발견돼 사용자의 주의가 당부된다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[시큐아이, 정삼용 신임 대표이사 선임]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=105500&amp;page=1&amp;mkind=1&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=105500&amp;page=1&amp;mkind=1&amp;kind=3"/>
-        <updated>2022-03-17T02:40:42.461Z</updated>
-        <content type="html"><![CDATA[정보보안 전문기업 시큐아이는 지난 16일 이사회 및 주주총회를 열고 정삼용 신임 대표이사를 선임했다고 17일 밝혔다. 정삼용 신임 대표이사는 1992년 삼성SDS에 입사해 삼성SDS 베트남법인장과 부품/제조사업팀 팀장을 역임했고, 일리노이대학교 컴퓨터공학 석사를 마쳤다...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국수력원자력, 원자력 사이버보안 강화 업무협약 체결]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=105496&amp;page=1&amp;mkind=1&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=105496&amp;page=1&amp;mkind=1&amp;kind=2"/>
-        <updated>2022-03-17T02:40:42.462Z</updated>
-        <content type="html"><![CDATA[한국수력원자력이 지난 16일 경북도, 국정원, 경주시, 한국전력기술, 한국원자력환경공단 등 지역 내 5개 유관기관과 ‘원자력 사이버보안 공조 체계 구축을 위한 업무협약’을 체결했다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[센티넬원, 아티보 네트웍스를 인수하며 XDR를 위한 아이덴티티 획득]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=105499&amp;page=1&amp;mkind=1&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=105499&amp;page=1&amp;mkind=1&amp;kind=3"/>
-        <updated>2022-03-17T02:40:42.465Z</updated>
-        <content type="html"><![CDATA[사이버 보안 플랫폼 업체인 센티넬원(SentinelOne)이 아이덴티티 보안 및 내부망 이동 보호 업체인 아티보 네트웍스(Attivo Networks) 인수를 위한 최종 계약을 체결했다고 발표했다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[센티넬원, 2022년 4분기 재무결과 발표]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=105498&amp;page=1&amp;mkind=1&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=105498&amp;page=1&amp;mkind=1&amp;kind=3"/>
-        <updated>2022-03-17T02:40:42.467Z</updated>
-        <content type="html"><![CDATA[AI엔진을 통해 엔드포인트를 보호하고 랜섬웨어 특화 솔루션을 제공하는 센티넬원(SentinelOne)이 2022년 1월 31일로 마감되는 회계연도 2022년 4분기 재무결과를 발표했다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[모바일 애플리케이션 백엔드 정보, 무방비로 노출되어 있다]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=105481&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=105481&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-03-17T01:03:24.739Z</updated>
-        <content type="html"><![CDATA[공개된 파이어베이스(Firebase) 데이터베이스를 간단히 검색했더니 2100개가 넘는 모바일 에플리케이션용 데이터저장소가 있는 그대로 노출되어 있다는 사실이 발견됐다. 이를 통해 기업의 민감한 정보인 은행 잔액, 가족 사진, 건강 관련 정보 등을 손쉽게 구할 수 있는...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국마이크로소프트, 고용부와 함께 청년 IT 인재 육성 앞장선다]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=105480&amp;page=1&amp;mkind=1&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=105480&amp;page=1&amp;mkind=1&amp;kind=3"/>
-        <updated>2022-03-17T01:03:24.740Z</updated>
-        <content type="html"><![CDATA[한국마이크로소프트가 16일 고용노동부가 추진하는 ‘청년고용 응원 프로젝트’ 멤버십 15번째 기업으로 가입, 청년 인재 양성을 위한 ICT기술교육 프로그램을 개설한다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지난 주 발견된 더티파이프 취약점, 큐냅 NAS 장비들에서도 추가로 발견돼]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=105477&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=105477&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-03-17T01:03:24.742Z</updated>
-        <content type="html"><![CDATA[대만의 NAS 제조사인 큐냅(QNAP)이 자사 제품 일부에서 심각한 리눅스 관련 취약점을 발견했다고 발표했다. 이 취약점은 더티파이프(Dirty Pipe)라고 불리며, 지난 주에 처음으로 발견됐다. 더티파이프 취약점의 영향력 혹은 파급력이 매우 넓을 수 있음을 시사하는...]]></content>
     </entry>
 </feed>
