@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Mar 2022 23:19:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Mar 2022 01:16:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -40,12 +40,12 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/ceo_0315_main2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[아직도 취약한 로그4j 패키지들이 40% 정도 다운로드 되고 있다]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105377&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105377&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Sat, 12 Mar 2022 03:17:01 GMT</pubDate>
-            <content:encoded><![CDATA[아파치재단(Apache Foundation)이 로그4j(Log4j)의 취약점인 CVE-2021-44228을 공개한 지 3달이 지났다. 하지만 아직도 자바 패키지 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/40-thumb-0311.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[불법 윈도우 정품인증 툴 받았다간 개인정보 탈취당한다!]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105501&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105501&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
+            <pubDate>Thu, 17 Mar 2022 22:19:54 GMT</pubDate>
+            <content:encoded><![CDATA[최근 파일공유 사이트에 ‘불법 윈도우 정품인증 툴’로 위장한 파일을 올려 악성코드를 유포하는 사례가 발견돼 사용자의 주의가 당부된다.]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/ahn_031701_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[지난 주 발견된 더티파이프 취약점, 큐냅 NAS 장비들에서도 추가로 발견돼]]></title>
@@ -54,6 +54,14 @@
             <pubDate>Thu, 17 Mar 2022 01:03:14 GMT</pubDate>
             <content:encoded><![CDATA[대만의 NAS 제조사인 큐냅(QNAP)이 자사 제품 일부에서 심각한 리눅스 관련 취약점을 발견했다고 발표했다. 이 취약점은 더티파이프(Dirty Pipe)라고 불...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/pipe-thumb-0316.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아직도 취약한 로그4j 패키지들이 40% 정도 다운로드 되고 있다]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105377&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105377&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Sat, 12 Mar 2022 03:17:01 GMT</pubDate>
+            <content:encoded><![CDATA[아파치재단(Apache Foundation)이 로그4j(Log4j)의 취약점인 CVE-2021-44228을 공개한 지 3달이 지났다. 하지만 아직도 자바 패키지 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/40-thumb-0311.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[최악의 보안 취약점 ‘Log4j’, 남은 이슈와 보안담당자들의 과제]]></title>
@@ -88,14 +96,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/elim-thumb-0314.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[불법 윈도우 정품인증 툴 받았다간 개인정보 탈취당한다!]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105501&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105501&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
-            <pubDate>Thu, 17 Mar 2022 22:19:54 GMT</pubDate>
-            <content:encoded><![CDATA[최근 파일공유 사이트에 ‘불법 윈도우 정품인증 툴’로 위장한 파일을 올려 악성코드를 유포하는 사례가 발견돼 사용자의 주의가 당부된다.]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/ahn_031701_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[모바일 애플리케이션 백엔드 정보, 무방비로 노출되어 있다]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105481&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105481&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
@@ -104,20 +104,28 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/clo-thumb-0316.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[올해부터 한국판 뉴딜 사업 디지털 트윈국토 현실화]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105380&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105380&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
-            <pubDate>Sun, 13 Mar 2022 15:15:59 GMT</pubDate>
-            <content:encoded><![CDATA[안도걸 기획재정부 제2차관은 지난 11일 한국국토정보공사 경기북부지역본부(남양주) 개청식에 앞서 한국판 뉴딜의 대표과제인 ‘디지털 트윈국토’를 주제로 정책 간담회...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/3-122(295).jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[보안 취약점에 대한 대처, 공격자에 비해 느려도 너무 느리다]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105378&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105378&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Sun, 13 Mar 2022 14:16:15 GMT</pubDate>
             <content:encoded><![CDATA[공격자들이 새로운 취약점을 익스플로잇 하는 데에는 보통 수일에서 수주 정도 걸린다. 그런데 방어자들이 새로운 취약점 소식을 접하고 연구하고 필요한 대책을 마련하는...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/slow-thumb-0311.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[독일 당국, 카스퍼스키 제품 사용하지 말라고 권고]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105470&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105470&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Thu, 17 Mar 2022 06:19:31 GMT</pubDate>
+            <content:encoded><![CDATA[보안 외신 핵리드에 의하면 독일 연방 정부가 보안 업체 카스퍼스키(Kaspersky) 제품을 시스템에서 제거하라고 촉구했다고 한다. 카스퍼스키 대신 다른 백신 및...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/kas-thumb-0316.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[올해부터 한국판 뉴딜 사업 디지털 트윈국토 현실화]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105380&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105380&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
+            <pubDate>Sun, 13 Mar 2022 15:15:59 GMT</pubDate>
+            <content:encoded><![CDATA[안도걸 기획재정부 제2차관은 지난 11일 한국국토정보공사 경기북부지역본부(남양주) 개청식에 앞서 한국판 뉴딜의 대표과제인 ‘디지털 트윈국토’를 주제로 정책 간담회...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/3-122(295).jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[로우코드와 노코드 개발 프로젝트, 실패하는 주요 이유 4]]></title>
@@ -134,14 +142,6 @@
             <pubDate>Tue, 15 Mar 2022 08:20:19 GMT</pubDate>
             <content:encoded><![CDATA[휴대폰이 고장났다는 메시지를 부모에게 보낸 뒤 수리비 등의 명목으로 급하게 돈이 필요하다며 금품을 요구하는 스미싱이 끊임없이 유포되고 있다. 최근 유포된 문자 메...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220313SMI-SM.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[독일 당국, 카스퍼스키 제품 사용하지 말라고 권고]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105470&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105470&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Thu, 17 Mar 2022 06:19:31 GMT</pubDate>
-            <content:encoded><![CDATA[보안 외신 핵리드에 의하면 독일 연방 정부가 보안 업체 카스퍼스키(Kaspersky) 제품을 시스템에서 제거하라고 촉구했다고 한다. 카스퍼스키 대신 다른 백신 및...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/kas-thumb-0316.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[제116차 CISO포럼, 최근 화두인 NFT와 사이버보안의 변화상 논의]]></title>
