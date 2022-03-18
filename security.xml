@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-03-18T08:20:54.436Z</updated>
+    <updated>2022-03-18T09:48:56.828Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[쿤텍, 모바일 보안 기업 ‘짐페리움’ 솔루션 국내 공급]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=105535&amp;page=1&amp;mkind=1&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=105535&amp;page=1&amp;mkind=1&amp;kind=3"/>
+        <updated>2022-03-18T09:46:50.664Z</updated>
+        <content type="html"><![CDATA[융합 보안 선도 기업 쿤텍(대표 방혁준)은 애플리케이션 쉴드와 화이트박스 암호 보안 분야의 선도 기업인 짐페리움(Zimperium)의 앱 소스코드 변조 공격의 사전 차단 솔루션인 ‘지쉴드(zShield)’와 암호 보호 솔루션인 ‘지키박스(zKeyBox)’를 국내에 공급...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[우크라이나 매체, 해킹 공격 당한 뒤 딥페이크 영상 송출해]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=105533&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=105533&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-03-18T09:46:50.666Z</updated>
+        <content type="html"><![CDATA[우크라이나의 주요 뉴스 채널인 우크레인24(Ukraine24)가 3월 16일 해킹 당한 뒤 가짜 메시지를 페이스북 페이지를 통해 유포하기 시작했다. 젤렌스키 대통령의 연설 내용이 담긴 영상 메시지였다. 그런데 이 영상은 딥페이크 기술로 만든 가짜 영상이었다. 다행히 정...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[더티모 봇넷, 새로운 익스플로잇 통해 더 빠르게 확산돼]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=105532&amp;page=1&amp;mkind=1&amp;kind=1</id>
@@ -109,19 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=105506&amp;page=1&amp;mkind=1&amp;kind=1"/>
         <updated>2022-03-17T10:18:51.109Z</updated>
         <content type="html"><![CDATA[보안 외신 해커뉴스에 의하면 새로운 리눅스 봇넷이 나타났다고 한다. 이름은 비트쏘트웬티(B1txor20)이며, DNS 터널(DNS Tunnel)이라는 기술을 활용하여 로그4j 취약점을 익스플로잇 하는 것으로 분석됐다. 보안 업체 치후360(Qihoo 360)에서 발견한...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[크립토롬 사기술, 사이드 로딩 기법 통해 되살아나]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=105504&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=105504&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-03-17T08:20:11.150Z</updated>
-        <content type="html"><![CDATA[보안 외신 쓰레트포스트에 의하면 사이버 공격자들이 암호화폐를 훔치는 기법 중 하나인 크립토롬(CryptoRom)을 다시 사용하기 시작했다고 한다. 이번 공격자들은 테스트플라이트(TestFlight)와 웹클립스(WebClips)라는 iOS 기능들을 악용하여 공식 앱스토어...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[부고] 한국정보보호학회 수석부회장 원유재 교수 부친상]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=105505&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=105505&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-03-17T06:19:39.928Z</updated>
-        <content type="html"><![CDATA[△내 용 : 충남대학교 원유재 교수 부친상 △빈 소 : 충남 아산 신정장례문화원 VIP 2호  △발 인 : 2022년 3월 19일(토) △장 지 : 아산시 신창면 선영]]></content>
     </entry>
 </feed>
