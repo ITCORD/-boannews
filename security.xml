@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-03-18T03:41:04.217Z</updated>
+    <updated>2022-03-18T04:38:01.350Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[더티모 봇넷, 새로운 익스플로잇 통해 더 빠르게 확산돼]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=105532&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=105532&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-03-18T04:36:00.615Z</updated>
+        <content type="html"><![CDATA[보안 외신인 해커뉴스에 의하면 더티모(DirtyMoe)라는 멀웨어가 업그레이드 됐다고 한다. 웜처럼 스스로 증식할 수 있는 기능으로, 더티모에 의한 피해가 빠르게 퍼져나갈 것으로 예상된다. 이 ‘웜 모듈’은 익히 알려진 취약점인 이터널블루(EternalBlue)와 핫포...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[마이크로소프트, 미크로틱 라우터 보호 위한 오픈소스 도구 공개]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=105531&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=105531&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-03-18T04:36:00.616Z</updated>
+        <content type="html"><![CDATA[보안 외신 시큐리티위크에 의하면 마이크로소프트가 방어 도구 하나를 오픈소스로 전환해 공개했다고 한다. 미크로틱(MikroTik)에서 만든 라우터들을 보호하고, 트릭봇(TrickBot) 멀웨어 탐지에 도움을 주는 도구라고 한다. 트릭봇이 미크로틱 라우터들을 침해하여 C&amp;...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[새로운 유닉스 룻키트, ATM 기계들을 공격해]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=105530&amp;page=1&amp;mkind=1&amp;kind=1</id>
@@ -109,19 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=105505&amp;page=1&amp;mkind=1&amp;kind=1"/>
         <updated>2022-03-17T06:19:39.928Z</updated>
         <content type="html"><![CDATA[△내 용 : 충남대학교 원유재 교수 부친상 △빈 소 : 충남 아산 신정장례문화원 VIP 2호  △발 인 : 2022년 3월 19일(토) △장 지 : 아산시 신창면 선영]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[구글, 크롬 99 업데이트 하며 초고위험도 취약점 패치해]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=105503&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=105503&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-03-17T02:40:42.449Z</updated>
-        <content type="html"><![CDATA[보안 외신 시큐리티위크에 의하면 구글이 크롬 브라우저 99를 발표했다고 한다. 그러면서 전 버전에서 발견됐던 초고위험도 취약점을 해결했음을 알렸다. 문제의 취약점은 CVE-2022-0971로, 블링크 레이아웃(Blink Layout)이라는 요소에 존재하는 UaF 취약점...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[식약처, 의료기기 사이버보안 온라인 업무설명회 개최]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=105492&amp;page=1&amp;mkind=1&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=105492&amp;page=1&amp;mkind=1&amp;kind=2"/>
-        <updated>2022-03-17T02:40:42.452Z</updated>
-        <content type="html"><![CDATA[식품의약품안전처는 의료기기 연구개발자 등이 사이버보안에 대해 잘 이해할 수 있도록 ‘의료기기 사이버보안 온라인 업무설명회’를 지난 16일 개최했다.]]></content>
     </entry>
 </feed>
