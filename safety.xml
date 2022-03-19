@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=4</id>
     <title>보안뉴스 ─ SAFETY</title>
-    <updated>2022-03-18T23:19:06.503Z</updated>
+    <updated>2022-03-19T01:01:46.266Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[고용부, ‘중앙행정기관 중대재해 예방 매뉴얼’ 제작·배포]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=105518&amp;page=1&amp;mkind=4&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=105518&amp;page=1&amp;mkind=4&amp;kind=2"/>
+        <updated>2022-03-19T01:00:15.637Z</updated>
+        <content type="html"><![CDATA[고용부는 중앙행정기관의 산업안전보건법 및 중대재해처벌법령에 대한 이해를 높이고, 중앙행정기관들이 안전보건관리체계를 구축해 체계적인 안전보건관리를 할 수 있도록 지원하기 위해 ‘중앙행정기관 중대재해 예방 매뉴얼’을 발간했다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[인천소방·SKT 협업, 119출동정보를 신고자 스마트폰 화면으로 본다]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=105514&amp;page=1&amp;mkind=4&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=105514&amp;page=1&amp;mkind=4&amp;kind=2"/>
+        <updated>2022-03-19T01:00:15.639Z</updated>
+        <content type="html"><![CDATA[인천소방과 SK텔레콤이 손잡고 스마트폰 애플리케이션(앱) 서비스 ‘T전화’에 119신고자에게 출동정보를 알려 주는 119이(e)음콜 서비스를 추가하고 18일부터 인천지역에서 시범 운영을 시작한다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[인천시, 범죄예방시설물 늘려 시민 안전에 만전]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=105513&amp;page=1&amp;mkind=4&amp;kind=2</id>
@@ -109,19 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=105362&amp;page=1&amp;mkind=4&amp;kind=2"/>
         <updated>2022-03-11T01:06:09.585Z</updated>
         <content type="html"><![CDATA[한국남동발전은 행정안전부 주관 2021년 재난 대응 안전한국훈련 평가에서 우수기관 선정 및 행정안전부 장관 표창을 수상했다고 밝혔다. 이번 수상은 지난해 11월 25일 경기도 성남시 한국남동발전 분당발전본부에서 열린 ‘2021년 재난대응 안전한국훈련’에 대한 평가에서 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[밀양시, 화재 없는 안전한 전통시장 만들다]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=105361&amp;page=1&amp;mkind=4&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=105361&amp;page=1&amp;mkind=4&amp;kind=2"/>
-        <updated>2022-03-11T01:06:09.585Z</updated>
-        <content type="html"><![CDATA[밀양시는 밀양전통시장에 첨단 IoT 기능을 활용한 전기화재 감시시스템을 도입해 올해 1월부터 정상적인 서비스를 운영하고 있다고 밝혔다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[소방청, 공동주택 특성에 맞게 화재 안전 관리]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=105357&amp;page=1&amp;mkind=4&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=105357&amp;page=1&amp;mkind=4&amp;kind=2"/>
-        <updated>2022-03-11T01:06:09.586Z</updated>
-        <content type="html"><![CDATA[소방청은 업무시설·공장 등 일반 소방안전관리대상물과 다른 특성을 가진 공동주택에 주거하는 비율이 계속 증가함에 따라 ‘공동주택용 소방계획서’와 ‘피난시설 사용법 안내 영상’을 제작해 국민들에게 제공하고 있다고 밝혔다.]]></content>
     </entry>
 </feed>
