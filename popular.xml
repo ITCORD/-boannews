@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 19 Mar 2022 01:01:46 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Mar 2022 02:17:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -160,12 +160,12 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/zer-thumb-0314.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[도심공원 내 CCTV, 효율적 설치·운영으로 안전 사각지대 해소해야]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105387&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105387&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
-            <pubDate>Fri, 18 Mar 2022 08:19:07 GMT</pubDate>
-            <content:encoded><![CDATA[범죄 예방이나 시설안전 관리 등의 목적으로 생활 주변 곳곳에 공공 CCTV 설치가 확대되는 가운데 한국소비자원이 방범용 CCTV 설치에 대한 소비자 인식과 수도권...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/3-129(295).jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[카드뉴스] 최악의 보안 취약점 Log4j]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105393&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105393&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Sat, 19 Mar 2022 02:15:08 GMT</pubDate>
+            <content:encoded><![CDATA[Log4j 취약점은 2021년 12월 처음 발견됐으며, 공격자가 원격으로 감염시키는 해킹 방법이 공개되면서 화두가 되기 시작했다. 해당 취약점을 악용해 공격자가 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220313card-sm.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
