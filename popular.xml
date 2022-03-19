@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 19 Mar 2022 09:18:02 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Mar 2022 10:20:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,14 +30,6 @@
             <pubDate>Mon, 14 Mar 2022 03:18:44 GMT</pubDate>
             <content:encoded><![CDATA[기업의 정보보호 관련 현황을 공개하는 정보보호 공시제도가 올해부터 크게 달라지는 가운데 6월 30일까지 정보보호 공시를 반드시 해야 하는 의무대상 기업 후보 62...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220314kong-s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[bnTV] 다크웹 소재의 해킹·보안 드라마, 이거 실화냐?]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105391&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105391&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Sun, 13 Mar 2022 02:09:12 GMT</pubDate>
-            <content:encoded><![CDATA[드라마들 보면 해킹을 하는 과정에 대한 영화는 꽤 많이 나오고 있어요. 그런데 해커를 잡는 방법에 대해서는 제 기억에는 그렇게 많지 않았던 것 같아서 그런 부분들...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220312dark.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[2022년 보안업계 변화를 이끌 ‘새로운 CEO’들]]></title>
@@ -166,6 +158,14 @@
             <pubDate>Sat, 19 Mar 2022 08:18:53 GMT</pubDate>
             <content:encoded><![CDATA[보안 블로그 시큐리티어페어즈에 의하면 이스라엘 정부 기관들을 겨냥한 디도스 공격이 발견됐다고 한다. 이 때문에 다수의 정부 사이트들이 마비됐는데, 보건, 내무, ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/isr-thumb-0315.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[러시아 정부가 정보를 통제하기 시작하자 VPN 사용량 크게 늘어]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105508&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105508&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Sat, 19 Mar 2022 10:18:02 GMT</pubDate>
+            <content:encoded><![CDATA[러시아 정부가 우크라이나를 침략하면서 동시에 자국 정보 통제를 강화했기 때문에 소셜미디어에 접속하거나 국제적인 뉴스를 접하고 싶어 하는 러시아 국민들은 VPN을 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/no-thumb-0317.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
