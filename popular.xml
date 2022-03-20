@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 19 Mar 2022 23:18:26 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Mar 2022 01:04:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -144,14 +144,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/hard-thumb-0317.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[크롬 브라우저에서 제로데이 취약점이 폭증하는 이유]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105405&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105405&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Fri, 18 Mar 2022 02:43:10 GMT</pubDate>
-            <content:encoded><![CDATA[구글이 최근 폭증하고 있는 크롬 제로데이 취약점에 대해 발표했다고 보안 매체 시큐리티위크가 보도했다. 구글은 구글이 자사 제품과 서비스에 대한 취약점을 투명하게 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/zer-thumb-0314.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[카드뉴스] 최악의 보안 취약점 Log4j]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105393&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105393&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
@@ -160,12 +152,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220313card-sm.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[강력한 디도스 공격, 이스라엘 정부 웹사이트 마비시켜]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105450&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105450&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Sat, 19 Mar 2022 08:18:53 GMT</pubDate>
-            <content:encoded><![CDATA[보안 블로그 시큐리티어페어즈에 의하면 이스라엘 정부 기관들을 겨냥한 디도스 공격이 발견됐다고 한다. 이 때문에 다수의 정부 사이트들이 마비됐는데, 보건, 내무, ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/isr-thumb-0315.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[크롬 브라우저에서 제로데이 취약점이 폭증하는 이유]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105405&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105405&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Fri, 18 Mar 2022 02:43:10 GMT</pubDate>
+            <content:encoded><![CDATA[구글이 최근 폭증하고 있는 크롬 제로데이 취약점에 대해 발표했다고 보안 매체 시큐리티위크가 보도했다. 구글은 구글이 자사 제품과 서비스에 대한 취약점을 투명하게 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/zer-thumb-0314.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[사이버 공간은 전쟁터, 많은 보안 서비스가 무료로 풀려야 한다]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105538&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105538&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Sun, 20 Mar 2022 01:02:21 GMT</pubDate>
+            <content:encoded><![CDATA[지난 2016년 악명 높은 해킹 그룹인 라자루스(Lazarus)는 SWIFT라는 국제 은행 간 통신 시스템으로부터 10억 달러를 훔치려고 했었다. 어떤 공격 기법...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/muryo-thumb00318.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
