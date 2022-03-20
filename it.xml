@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=2</id>
     <title>보안뉴스 ─ IT</title>
-    <updated>2022-03-20T14:20:00.310Z</updated>
+    <updated>2022-03-20T15:20:33.489Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[과기정통부, 제1차 한-콜롬비아 정보통신기술 정책 토론회 개최]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=105541&amp;page=1&amp;mkind=2&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=105541&amp;page=1&amp;mkind=2&amp;kind=2"/>
+        <updated>2022-03-20T15:18:50.086Z</updated>
+        <content type="html"><![CDATA[과학기술정보통신부는 콜롬비아 정보통신기술부와 지난 18일 제1차 한-콜롬비아 정보통신기술(ICT) 정책 포럼(이하 포럼)을 화상으로 개최했다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[벤처기업 지원으로 지식재산 경영 새로운 활력 불어넣는다]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=105540&amp;page=1&amp;mkind=2&amp;kind=2</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=105494&amp;page=1&amp;mkind=2&amp;kind=2"/>
         <updated>2022-03-17T02:40:53.717Z</updated>
         <content type="html"><![CDATA[한국지능정보사회진흥원(NIA)은 지난 14일 디지털 대전환과 초혁신을 주제로 ‘디지털 르네상스 시대 초혁신을 향한 거대한 변화’를 발간했다고 밝혔다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[성남시, 의료 빅데이터 플랫폼 구축해 바이오헬스 경쟁력 강화한다]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=105495&amp;page=1&amp;mkind=2&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=105495&amp;page=1&amp;mkind=2&amp;kind=2"/>
-        <updated>2022-03-17T02:40:53.718Z</updated>
-        <content type="html"><![CDATA[성남시가 분당서울대병원 등 8곳 의료기관, 네이버 클라우드와 손잡고 의료 빅데이터 플랫폼 구축에 나선다. 백신, 치료제 등의 의약품과 각종 의료기기 개발에 활용해 바이오헬스 산업 경쟁력을 높이기 위해서다.]]></content>
     </entry>
 </feed>

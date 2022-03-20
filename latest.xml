@@ -4,9 +4,25 @@
         <title>보안뉴스 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Mar 2022 14:20:00 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Mar 2022 15:20:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[탄소배출 전문기업 대상 ‘골드 드래곤’ 악성코드 공격 발견]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105551&amp;page=1&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105551&amp;page=1&amp;kind=2</guid>
+            <pubDate>Sun, 20 Mar 2022 15:18:18 GMT</pubDate>
+            <content:encoded><![CDATA[최근 탄소배출 전문기업을 대상으로 문서형 APT 공격이 이뤄진 정황이 발견돼 관련 기업들의 주의가 요구된다. 특히, 이번 공격에서 발견된 ‘골드 드래곤(G...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/ahnlab_032001_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[대 퇴직의 시대, CIO들의 새로운 역할은 ‘직원들 붙잡기’]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105549&amp;page=1&amp;kind=4</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105549&amp;page=1&amp;kind=4</guid>
+            <pubDate>Sun, 20 Mar 2022 15:18:18 GMT</pubDate>
+            <content:encoded><![CDATA[팬데믹이 진행되는 기간 동안 직장인들은 새로운 기술을 터득함으로써 새로운 기회를 찾아 떠나기 위해 여러 가지 방법을 알아보고 노력했다. 기업들도 직원들의 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/cio-thumb0318.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[우크라이나 정부에 얼굴인식 기술 무료로 제공한 클리어뷰, 왜?]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105511&amp;page=1&amp;kind=1</link>
@@ -70,22 +86,6 @@
             <pubDate>Fri, 18 Mar 2022 02:43:02 GMT</pubDate>
             <content:encoded><![CDATA[IT 외신인 블리핑컴퓨터에 의하면 라이트베이진(LightBasin)이라는 사이버 공격 단체들이 새로운 공격 무기를 개발해 사용하고 있다고 한다. 이 무기는...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/atm-thumb-0318.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유명 npm 패키지 개발자, 러시아 노리고 악성 버전 업로드 해]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105529&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105529&amp;page=1&amp;kind=1</guid>
-            <pubDate>Fri, 18 Mar 2022 02:43:02 GMT</pubDate>
-            <content:encoded><![CDATA[보안 블로그 시큐리티어페어즈에 의하면 유명 npm 패키지인 node-ipc의 개발자 RIAEangelist가 일부러 ‘악성 버전’을 업로드했다고 한다. 러...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/npm-thumb-0318.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[소리소문 없이 성장하는 CDN 시장의 현황과 큰 줄기의 트렌드]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105510&amp;page=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105510&amp;page=1&amp;kind=3</guid>
-            <pubDate>Fri, 18 Mar 2022 02:43:02 GMT</pubDate>
-            <content:encoded><![CDATA[콘텐츠 배포 네트워크(CDN)는 세기가 바뀔 무렵에 등장한 서비스로, 당시는 전자상거래와 온라인 동영상이라는 것이 한창 인기를 얻어가면서 각종 실험이 진행...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/cdn-thumb-0317.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[대구소방, 주택용 소방시설 보급률 올해 70% 이상 목표]]></title>
@@ -179,6 +179,22 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/coontec_031801_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[유명 npm 패키지 개발자, 러시아 노리고 악성 버전 업로드 해]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105529&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105529&amp;page=1&amp;kind=1</guid>
+            <pubDate>Fri, 18 Mar 2022 02:43:02 GMT</pubDate>
+            <content:encoded><![CDATA[보안 블로그 시큐리티어페어즈에 의하면 유명 npm 패키지인 node-ipc의 개발자 RIAEangelist가 일부러 ‘악성 버전’을 업로드했다고 한다. 러...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/npm-thumb-0318.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[소리소문 없이 성장하는 CDN 시장의 현황과 큰 줄기의 트렌드]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105510&amp;page=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105510&amp;page=1&amp;kind=3</guid>
+            <pubDate>Fri, 18 Mar 2022 02:43:02 GMT</pubDate>
+            <content:encoded><![CDATA[콘텐츠 배포 네트워크(CDN)는 세기가 바뀔 무렵에 등장한 서비스로, 당시는 전자상거래와 온라인 동영상이라는 것이 한창 인기를 얻어가면서 각종 실험이 진행...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/cdn-thumb-0317.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[IPA, 2022년 사이버 위기대응 훈련 실시]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105526&amp;page=1&amp;kind=2</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105526&amp;page=1&amp;kind=2</guid>
@@ -220,21 +236,6 @@
             <guid>https://www.boannews.com/media/view.asp?idx=105518&amp;page=1&amp;kind=2</guid>
             <pubDate>Fri, 18 Mar 2022 02:43:02 GMT</pubDate>
             <content:encoded><![CDATA[고용부는 중앙행정기관의 산업안전보건법 및 중대재해처벌법령에 대한 이해를 높이고, 중앙행정기관들이 안전보건관리체계를 구축해 체계적인 안전보건관리를 할 수 있...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[부천시, 우리카드와 스마트시티 사업 협력 기대]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105517&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105517&amp;page=1&amp;kind=2</guid>
-            <pubDate>Fri, 18 Mar 2022 01:14:26 GMT</pubDate>
-            <content:encoded><![CDATA[부천시는 지난 17일 우리카드와 스마트시티 챌린지 사업 컨소시엄 대표사 데이터얼라이언스와 함께 부천시가 추진하고 있는 다양한 스마트시티 사업 활성화를 도모...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/3-180(295).jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전주시, 드론산업 ‘날개 달았다’]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105516&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105516&amp;page=1&amp;kind=2</guid>
-            <pubDate>Fri, 18 Mar 2022 01:14:26 GMT</pubDate>
-            <content:encoded><![CDATA[드론을 활용한 스마트 안전도시를 구축하고 드론축구를 세계적인 레저스포츠로 키우려는 전주시의 계획이 탄력을 받게 됐다. 시는 올해 국토교통부와 항공안전기술원...]]></content:encoded>
         </item>
     </channel>
 </rss>
