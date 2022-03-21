@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Mar 2022 02:52:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Mar 2022 03:26:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -80,20 +80,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/ai-thumb-0317.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[어나니머스, 러시아인들에 “푸틴을 제거하라”고 촉구]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105403&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105403&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Tue, 15 Mar 2022 05:15:39 GMT</pubDate>
-            <content:encoded><![CDATA[어나니머스(Anonymous)라는 유명 핵티비스트들이 러시아인들에게 메시지를 보냈다고 보안 블로그 시큐리티어페어즈가 보도했다. 러시아 국민들에게 고통을 안겨다 주...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/elim-thumb-0314.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[미국에서 시행되기 시작한 ‘사건 고지 의무화’ 규정, 어떤 의미인가?]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105507&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105507&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Sat, 19 Mar 2022 08:18:53 GMT</pubDate>
             <content:encoded><![CDATA[이번 주 미국의 바이든 대통령은 새로운 법안에 서명을 했다. 그러면서 ‘사이버 사건 보고 법(Cyber Incident Reporting Act)’이라는 규정을 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/rep-thumb-0317.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[명품 쇼핑몰 발란, 해킹으로 고객 개인정보 유출]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105527&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105527&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Sun, 20 Mar 2022 17:15:15 GMT</pubDate>
+            <content:encoded><![CDATA[명품 쇼핑몰 ‘발란(BALAAN)’이 해킹으로 고객 개인정보가 유출됐다고 밝혔다. 발란은 유출된 정보는 닉네임과 이메일, 전화번호 등이며 구매내역과 결제정보는 유...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/balaan_031801_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[점점 더 복잡해지는 컴퓨터 네트워크, 보안의 가장 큰 적]]></title>
@@ -110,14 +110,6 @@
             <pubDate>Wed, 16 Mar 2022 11:15:00 GMT</pubDate>
             <content:encoded><![CDATA[메타버스 플랫폼이 확대되고, 가상 경제가 발전하기 시작하면서 핵심 거래 및 소유수단으로 NFT(대체 불가능 토큰)이 화두가 되고 있다. 이와 함께 사이버보안 분야...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220315CISO1-S.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[명품 쇼핑몰 발란, 해킹으로 고객 개인정보 유출]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105527&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105527&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Sun, 20 Mar 2022 17:15:15 GMT</pubDate>
-            <content:encoded><![CDATA[명품 쇼핑몰 ‘발란(BALAAN)’이 해킹으로 고객 개인정보가 유출됐다고 밝혔다. 발란은 유출된 정보는 닉네임과 이메일, 전화번호 등이며 구매내역과 결제정보는 유...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/balaan_031801_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[사이버 보안, 청년들이 진출하기 가장 좋은 분야]]></title>
@@ -152,20 +144,28 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220318univer-s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[크롬 브라우저에서 제로데이 취약점이 폭증하는 이유]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105405&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105405&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Sun, 20 Mar 2022 13:21:00 GMT</pubDate>
-            <content:encoded><![CDATA[구글이 최근 폭증하고 있는 크롬 제로데이 취약점에 대해 발표했다고 보안 매체 시큐리티위크가 보도했다. 구글은 구글이 자사 제품과 서비스에 대한 취약점을 투명하게 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/zer-thumb-0314.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[러시아 정부가 정보를 통제하기 시작하자 VPN 사용량 크게 늘어]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105508&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105508&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Mon, 21 Mar 2022 02:50:59 GMT</pubDate>
             <content:encoded><![CDATA[러시아 정부가 우크라이나를 침략하면서 동시에 자국 정보 통제를 강화했기 때문에 소셜미디어에 접속하거나 국제적인 뉴스를 접하고 싶어 하는 러시아 국민들은 VPN을 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/no-thumb-0317.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[강력한 디도스 공격, 이스라엘 정부 웹사이트 마비시켜]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105450&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105450&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Mon, 21 Mar 2022 03:24:23 GMT</pubDate>
+            <content:encoded><![CDATA[보안 블로그 시큐리티어페어즈에 의하면 이스라엘 정부 기관들을 겨냥한 디도스 공격이 발견됐다고 한다. 이 때문에 다수의 정부 사이트들이 마비됐는데, 보건, 내무, ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/isr-thumb-0315.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[우크라이나 매체, 해킹 공격 당한 뒤 딥페이크 영상 송출해]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105533&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105533&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Mon, 21 Mar 2022 03:24:23 GMT</pubDate>
+            <content:encoded><![CDATA[우크라이나의 주요 뉴스 채널인 우크레인24(Ukraine24)가 3월 16일 해킹 당한 뒤 가짜 메시지를 페이스북 페이지를 통해 유포하기 시작했다. 젤렌스키 대통...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/fake-thumb-0318.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

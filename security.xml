@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-03-21T02:52:56.794Z</updated>
+    <updated>2022-03-21T03:26:23.470Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[어나니머스, 러시아 파이프라인 회사의 데이터 유출시켜]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=105558&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=105558&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-03-21T03:24:32.592Z</updated>
+        <content type="html"><![CDATA[보안 블로그 시큐리티어페어즈에 의하면 러시아와의 전쟁을 선포한 어나니머스(Anonymous)가 러시아의 석유 파이프라인 대기업인 트랜스네프트(Transneft)의 연구 조직인 오메가컴파니(Omega Company)를 공격했다고 한다. 그리고 이 과정에서 취득한 정부를 ...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘포티넷 Secure OT Summit 2022 Korea 디지털 컨퍼런스’ 개최]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=105556&amp;page=1&amp;mkind=1&amp;kind=3</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=105529&amp;page=1&amp;mkind=1&amp;kind=1"/>
         <updated>2022-03-18T02:43:19.572Z</updated>
         <content type="html"><![CDATA[보안 블로그 시큐리티어페어즈에 의하면 유명 npm 패키지인 node-ipc의 개발자 RIAEangelist가 일부러 ‘악성 버전’을 업로드했다고 한다. 러시아의 우크라이나 침략에 항의하는 의미에서다. 러시아와 벨라루스에 있는 시스템들에서 이 패키지가 다운로드 되면 데이...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[소리소문 없이 성장하는 CDN 시장의 현황과 큰 줄기의 트렌드]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=105510&amp;page=1&amp;mkind=1&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=105510&amp;page=1&amp;mkind=1&amp;kind=3"/>
-        <updated>2022-03-18T02:43:19.574Z</updated>
-        <content type="html"><![CDATA[콘텐츠 배포 네트워크(CDN)는 세기가 바뀔 무렵에 등장한 서비스로, 당시는 전자상거래와 온라인 동영상이라는 것이 한창 인기를 얻어가면서 각종 실험이 진행되고 시행착오가 있었던 때였다. 그리고 지금까지 계속해서 진화를 거듭하고 있다. 최근 몇 년 동안은 CDN 시장이 ...]]></content>
     </entry>
 </feed>
