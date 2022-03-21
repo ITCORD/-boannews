@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Mar 2022 08:24:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Mar 2022 09:21:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,28 +24,12 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/pipe-thumb-0316.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[2022년 보안업계 변화를 이끌 ‘새로운 CEO’들]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105406&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105406&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
-            <pubDate>Tue, 15 Mar 2022 03:18:01 GMT</pubDate>
-            <content:encoded><![CDATA[최근 국내외 대표 보안기업들의 CEO나 지사장들이 바뀌거나 새로 내정되며 보안산업에 변화의 바람이 불고 있다. 특히, 이들은 국내 정보보안은 물론 물리보안 분야를...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/ceo_0315_main2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[해커들을 공격하는 해커! 악성코드 제작 툴 위장 악성코드 유포]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105537&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105537&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Sat, 19 Mar 2022 13:20:14 GMT</pubDate>
             <content:encoded><![CDATA[최근 악성코드 제작 툴로 위장한 ‘ClipBanker’ 악성코드가 유포되고 있는 것으로 드러났다. ‘ClipBanker’ 악성코드는 감염 시스템의 클립보드를 모니...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220318AHN-S.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[국정원, 정보보호 및 취약점 분석 전문가 채용 나섰다]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105409&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105409&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
-            <pubDate>Tue, 15 Mar 2022 01:03:52 GMT</pubDate>
-            <content:encoded><![CDATA[국가정보원이 ‘2022년도 국가정보원 경력경쟁채용 공고’를 내고 특정직 5급과 6급 채용에 나섰다. 특히 이번 채용 공고에는 정보보호, 취약점분석, 네트워크 구축...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/nis_031401_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[모바일 애플리케이션 백엔드 정보, 무방비로 노출되어 있다]]></title>
@@ -94,14 +78,6 @@
             <pubDate>Sun, 20 Mar 2022 17:15:15 GMT</pubDate>
             <content:encoded><![CDATA[명품 쇼핑몰 ‘발란(BALAAN)’이 해킹으로 고객 개인정보가 유출됐다고 밝혔다. 발란은 유출된 정보는 닉네임과 이메일, 전화번호 등이며 구매내역과 결제정보는 유...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/balaan_031801_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[점점 더 복잡해지는 컴퓨터 네트워크, 보안의 가장 큰 적]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105412&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105412&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Wed, 16 Mar 2022 01:04:37 GMT</pubDate>
-            <content:encoded><![CDATA[복잡한 시스템들일수록 보호하기가 힘들다. 그런데 우리의 컴퓨팅 환경은 점점 더 복잡해지고 있다. 그러니 더 불안해지고 더 연약해지는 것이다. 필자는 이 지면을 통...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/comp-thumb0314.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[제116차 CISO포럼, 최근 화두인 NFT와 사이버보안의 변화상 논의]]></title>
@@ -166,6 +142,30 @@
             <pubDate>Mon, 21 Mar 2022 03:24:23 GMT</pubDate>
             <content:encoded><![CDATA[보안 블로그 시큐리티어페어즈에 의하면 이스라엘 정부 기관들을 겨냥한 디도스 공격이 발견됐다고 한다. 이 때문에 다수의 정부 사이트들이 마비됐는데, 보건, 내무, ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/isr-thumb-0315.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[우크라이나에서 발견된 데이터 삭제 멀웨어, 드라이브도 지운다]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105471&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105471&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Mon, 21 Mar 2022 09:19:30 GMT</pubDate>
+            <content:encoded><![CDATA[IT 외신인 PC매거진에 의하면 우크라이나에서 또 다른 파일 삭제형 멀웨어가 발견됐다고 한다. 보안 업체 이셋(ESET)이 찾아낸 것으로, 데이터만이 아니라 시스...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/del-thumb-0316.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[새로운 리눅스 봇넷, DNS 터널 활용해 로그4j 익스플로잇 해]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105506&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105506&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Mon, 21 Mar 2022 09:19:30 GMT</pubDate>
+            <content:encoded><![CDATA[보안 외신 해커뉴스에 의하면 새로운 리눅스 봇넷이 나타났다고 한다. 이름은 비트쏘트웬티(B1txor20)이며, DNS 터널(DNS Tunnel)이라는 기술을 활용...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/pan-thumb0-0317.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[스파이웨어에 대한 책임, 각국의 정부가 져야 한다]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105454&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105454&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Mon, 21 Mar 2022 09:19:30 GMT</pubDate>
+            <content:encoded><![CDATA[이스라엘의 경찰 역시 스파이웨어 개발사인 NSO그룹(NSO Group)의 페가수스(Pegasus)를 남용하고 있었다는 보도가 나오면서(그 대상은 당연히 이스라엘 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/jet-thumb-0315.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
