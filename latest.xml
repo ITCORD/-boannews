@@ -4,9 +4,17 @@
         <title>보안뉴스 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Mar 2022 04:25:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Mar 2022 05:17:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[과기정통부, 하이브 랜섬웨어 ‘암호키 복구 도구 개발·배포’ 시작]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105557&amp;page=1&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105557&amp;page=1&amp;kind=2</guid>
+            <pubDate>Mon, 21 Mar 2022 05:15:25 GMT</pubDate>
+            <content:encoded><![CDATA[지난 2월 현대삼호중공업을 해킹했다고 주장하던 하이브 랜섬웨어를 복호화히는 데 성공했다고 정부가 밝혔다. 과학기술정보통신부(장관 임혜숙, 이하 ‘과기정통부...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/hive_032101_main.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[다크호텔 APT, 마카오의 호텔들 공격해 숙박객 데이터 훔쳐내]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105561&amp;page=1&amp;kind=1</link>
@@ -80,12 +88,12 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/muryo-thumb00318.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[해커들을 공격하는 해커! 악성코드 제작 툴 위장 악성코드 유포]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105537&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105537&amp;page=1&amp;kind=1</guid>
-            <pubDate>Fri, 18 Mar 2022 09:46:27 GMT</pubDate>
-            <content:encoded><![CDATA[최근 악성코드 제작 툴로 위장한 ‘ClipBanker’ 악성코드가 유포되고 있는 것으로 드러났다. ‘ClipBanker’ 악성코드는 감염 시스템의 클립보드...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220318AHN-S.JPG" length="0" type="image/JPG"/>
+            <title><![CDATA[넷앤드, ‘APAC 지역 2022 디지털 계정관리 탑 벤더’ 선정]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105562&amp;page=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105562&amp;page=1&amp;kind=3</guid>
+            <pubDate>Mon, 21 Mar 2022 05:15:25 GMT</pubDate>
+            <content:encoded><![CDATA[글로벌 정보보안 전문 매거진인 엔터프라이즈 시큐리티 매거진(Enterprise Security Magazine)이 국내 통합 접근 및 계정관리 기업 넷앤드...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/Cover%20story_NETAND_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘포티넷 Secure OT Summit 2022 Korea 디지털 컨퍼런스’ 개최]]></title>
@@ -195,6 +203,14 @@
             <content:encoded><![CDATA[한국교통안전공단은 국토교통부와 2021년 ‘철도안전 자율보고’를 운영한 결과, 총 70건의 철도안전 위험요인을 찾아냈다고 밝혔다. 철도안전 자율보고는 안전...]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[해커들을 공격하는 해커! 악성코드 제작 툴 위장 악성코드 유포]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105537&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105537&amp;page=1&amp;kind=1</guid>
+            <pubDate>Fri, 18 Mar 2022 09:46:27 GMT</pubDate>
+            <content:encoded><![CDATA[최근 악성코드 제작 툴로 위장한 ‘ClipBanker’ 악성코드가 유포되고 있는 것으로 드러났다. ‘ClipBanker’ 악성코드는 감염 시스템의 클립보드...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220318AHN-S.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
             <title><![CDATA[[정재동의 창업에세이-3] 창업활동으로 대학이 바뀔 수 있다]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105534&amp;page=1&amp;kind=6</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105534&amp;page=1&amp;kind=6</guid>
@@ -225,22 +241,6 @@
             <pubDate>Fri, 18 Mar 2022 03:38:52 GMT</pubDate>
             <content:encoded><![CDATA[우크라이나의 주요 뉴스 채널인 우크레인24(Ukraine24)가 3월 16일 해킹 당한 뒤 가짜 메시지를 페이스북 페이지를 통해 유포하기 시작했다. 젤렌스...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/fake-thumb-0318.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[더티모 봇넷, 새로운 익스플로잇 통해 더 빠르게 확산돼]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105532&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105532&amp;page=1&amp;kind=1</guid>
-            <pubDate>Fri, 18 Mar 2022 02:43:02 GMT</pubDate>
-            <content:encoded><![CDATA[보안 외신인 해커뉴스에 의하면 더티모(DirtyMoe)라는 멀웨어가 업그레이드 됐다고 한다. 웜처럼 스스로 증식할 수 있는 기능으로, 더티모에 의한 피해가...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/worm-thumb-0318.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마이크로소프트, 미크로틱 라우터 보호 위한 오픈소스 도구 공개]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105531&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105531&amp;page=1&amp;kind=1</guid>
-            <pubDate>Fri, 18 Mar 2022 02:43:02 GMT</pubDate>
-            <content:encoded><![CDATA[보안 외신 시큐리티위크에 의하면 마이크로소프트가 방어 도구 하나를 오픈소스로 전환해 공개했다고 한다. 미크로틱(MikroTik)에서 만든 라우터들을 보호하...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/free-thumb-0318.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
