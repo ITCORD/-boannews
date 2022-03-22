@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Mar 2022 16:32:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Mar 2022 18:21:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -56,20 +56,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/clo-thumb-0316.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[독일 당국, 카스퍼스키 제품 사용하지 말라고 권고]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105470&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105470&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Thu, 17 Mar 2022 06:19:31 GMT</pubDate>
-            <content:encoded><![CDATA[보안 외신 핵리드에 의하면 독일 연방 정부가 보안 업체 카스퍼스키(Kaspersky) 제품을 시스템에서 제거하라고 촉구했다고 한다. 카스퍼스키 대신 다른 백신 및...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/kas-thumb-0316.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[미국에서 시행되기 시작한 ‘사건 고지 의무화’ 규정, 어떤 의미인가?]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105507&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105507&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Sat, 19 Mar 2022 08:18:53 GMT</pubDate>
             <content:encoded><![CDATA[이번 주 미국의 바이든 대통령은 새로운 법안에 서명을 했다. 그러면서 ‘사이버 사건 보고 법(Cyber Incident Reporting Act)’이라는 규정을 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/rep-thumb-0317.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[독일 당국, 카스퍼스키 제품 사용하지 말라고 권고]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105470&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105470&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Thu, 17 Mar 2022 06:19:31 GMT</pubDate>
+            <content:encoded><![CDATA[보안 외신 핵리드에 의하면 독일 연방 정부가 보안 업체 카스퍼스키(Kaspersky) 제품을 시스템에서 제거하라고 촉구했다고 한다. 카스퍼스키 대신 다른 백신 및...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/kas-thumb-0316.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[명품 쇼핑몰 발란, 해킹으로 고객 개인정보 유출]]></title>
@@ -136,6 +136,14 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/no-thumb-0317.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[과기정통부, 하이브 랜섬웨어 ‘암호키 복구 도구 개발·배포’ 시작]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105557&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105557&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
+            <pubDate>Tue, 22 Mar 2022 14:16:55 GMT</pubDate>
+            <content:encoded><![CDATA[지난 2월 현대삼호중공업을 해킹했다고 주장하던 하이브 랜섬웨어를 복호화히는 데 성공했다고 정부가 밝혔다. 과학기술정보통신부(장관 임혜숙, 이하 ‘과기정통부’)는 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/hive_032101_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[우크라이나에서 발견된 데이터 삭제 멀웨어, 드라이브도 지운다]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105471&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105471&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
@@ -150,14 +158,6 @@
             <pubDate>Tue, 22 Mar 2022 03:25:26 GMT</pubDate>
             <content:encoded><![CDATA[보안 외신 해커뉴스에 의하면 새로운 리눅스 봇넷이 나타났다고 한다. 이름은 비트쏘트웬티(B1txor20)이며, DNS 터널(DNS Tunnel)이라는 기술을 활용...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/pan-thumb0-0317.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[과기정통부, 하이브 랜섬웨어 ‘암호키 복구 도구 개발·배포’ 시작]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105557&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105557&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
-            <pubDate>Tue, 22 Mar 2022 14:16:55 GMT</pubDate>
-            <content:encoded><![CDATA[지난 2월 현대삼호중공업을 해킹했다고 주장하던 하이브 랜섬웨어를 복호화히는 데 성공했다고 정부가 밝혔다. 과학기술정보통신부(장관 임혜숙, 이하 ‘과기정통부’)는 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/hive_032101_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[지스트 블록체인지능융합센터, SCI급 저널에 논문 게재]]></title>
