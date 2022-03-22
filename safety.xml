@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=4</id>
     <title>보안뉴스 ─ SAFETY</title>
-    <updated>2022-03-21T23:19:28.877Z</updated>
+    <updated>2022-03-22T01:07:46.437Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[경기도 북부소방재난본부, 지역 맞춤형 공장화재 안전관리 대책 추진]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=105546&amp;page=1&amp;mkind=4&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=105546&amp;page=1&amp;mkind=4&amp;kind=2"/>
+        <updated>2022-03-22T01:06:10.941Z</updated>
+        <content type="html"><![CDATA[경기도 북부소방재난본부는 올해 경기북부 지역 특성에 적합한 맞춤형 공장화재 안전관리 대책을 추진한다고 밝혔다. 이는 경기북부 지역 공장에서의 대형 화재 발생을 예방하기 위한 것으로, 실제 공장 현황과 최근 5년(2016~2021년)간 화재 통계 분석을 토대로 대책을 수...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[교통안전공단, ‘철도안전 자율보고’로 사고 발생 요인 사전에 방지한다]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=105539&amp;page=1&amp;mkind=4&amp;kind=2</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=105365&amp;page=1&amp;mkind=4&amp;kind=2"/>
         <updated>2022-03-12T08:19:47.285Z</updated>
         <content type="html"><![CDATA[한국교통안전공단은 “기계식주차장에서 관리자와 이용자의 부주의 등으로 인해 발생하는 사고를 예방하기 위해 기계식주차장 안전 대책을 강화한다”고 밝혔다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[울산시, ‘울산시 재난안전연구센터’ 2022년도 사업 착수]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=105364&amp;page=1&amp;mkind=4&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=105364&amp;page=1&amp;mkind=4&amp;kind=2"/>
-        <updated>2022-03-12T07:15:21.134Z</updated>
-        <content type="html"><![CDATA[울산시는 지난 10일 ‘2022년 울산시 재난안전연구센터 사업 착수 보고회’를 갖고 올해 사업을 시작한다고 밝혔다. ‘울산시 재난안전연구센터’는 울산시와 울산연구원이 지난 2019년 10월 위·수탁 협약을 체결해, 2020년 7월부터 울산연구원 내 부설센터로 운영하고 ...]]></content>
     </entry>
 </feed>
