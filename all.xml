@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Mar 2022 03:27:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Mar 2022 04:22:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[해킹그룹 랩서스 LG전자 해킹 발표... 러시아와의 연관성 있을까? (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105593&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105593&amp;page=1&amp;kind=1</guid>
+            <pubDate>Tue, 22 Mar 2022 04:20:27 GMT</pubDate>
+            <content:encoded><![CDATA[최근 삼성전자와 엔비디아 등을 해킹한 해외 해킹그룹 랩서스(LAPSUS$)가 22일 LG전자도 해킹했다고 밝혔다. 랩서스는 텔레그램을 통해 LG전자의 해시...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/lge_032201_main.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[랜섬웨어에 걸린 브릿지스톤, 토요타 공급망에 또 다른 차질 빚어 (보안뉴스 ─ 전체기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105592&amp;page=1&amp;kind=1</link>
@@ -80,12 +88,12 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/blue_032101_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[클라우드 회사에서 날아온 복잡한 청구서 관리하기 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105550&amp;page=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105550&amp;page=1&amp;kind=3</guid>
-            <pubDate>Mon, 21 Mar 2022 09:19:19 GMT</pubDate>
-            <content:encoded><![CDATA[클라우드 서비스는 확장성, 절감된 인프라 운영 비용, 업데이트 문제 해결, 즉시 사용성, 향상된 보안 등 사용자들에게 꽤나 많은 장점을 가져다 준다. 하지...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/clo-thumb-0318.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[알체라, 산불 잡는 AI 솔루션 ‘FireScout’ 미국 ABC 집중 조명 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105587&amp;page=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105587&amp;page=1&amp;kind=3</guid>
+            <pubDate>Tue, 22 Mar 2022 04:20:27 GMT</pubDate>
+            <content:encoded><![CDATA[영상인식 AI 기업 알체라가 미국 3대 지상파 방송사 중 하나인 ABC 방송의 특집 다큐 ‘STAYING ALERT: Wildfire Prevention’...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/22032201ss.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[울산시, 인공지능 기반 지능형 횡단보도 체계 시범 구축 (보안뉴스 ─ 전체기사)]]></title>
@@ -198,6 +206,14 @@
             <content:encoded><![CDATA[과학기술정보통신부와 정보통신산업진흥원(NIPA)은 지난 21일부터 ‘2022년 클라우드 서비스 품질·성능 검증 사업’ 지원 기업을 모집한다고 밝혔다.]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[클라우드 회사에서 날아온 복잡한 청구서 관리하기 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105550&amp;page=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105550&amp;page=1&amp;kind=3</guid>
+            <pubDate>Mon, 21 Mar 2022 09:19:19 GMT</pubDate>
+            <content:encoded><![CDATA[클라우드 서비스는 확장성, 절감된 인프라 운영 비용, 업데이트 문제 해결, 즉시 사용성, 향상된 보안 등 사용자들에게 꽤나 많은 장점을 가져다 준다. 하지...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/clo-thumb-0318.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[북한, 미세탁 가상자산 1억 7,000만 달러 있다 (보안뉴스 ─ 전체기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105565&amp;page=1&amp;kind=1</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105565&amp;page=1&amp;kind=1</guid>
@@ -220,22 +236,6 @@
             <pubDate>Mon, 21 Mar 2022 06:21:27 GMT</pubDate>
             <content:encoded><![CDATA[소프트웨어 개발보안 전문 업체 트리니티소프트가 한국인터넷진흥원(KISA)으로부터 자사의 시큐어코딩 솔루션인 코드레이에 대한 클라우드 서비스 보안인증(CSA...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/tri_032101_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[과기정통부, 하이브 랜섬웨어 ‘암호키 복구 도구 개발·배포’ 시작 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105557&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105557&amp;page=1&amp;kind=2</guid>
-            <pubDate>Mon, 21 Mar 2022 05:15:25 GMT</pubDate>
-            <content:encoded><![CDATA[지난 2월 현대삼호중공업을 해킹했다고 주장하던 하이브 랜섬웨어를 복호화히는 데 성공했다고 정부가 밝혔다. 과학기술정보통신부(장관 임혜숙, 이하 ‘과기정통부...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/hive_032101_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[넷앤드, ‘APAC 지역 2022 디지털 계정관리 탑 벤더’ 선정 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105562&amp;page=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105562&amp;page=1&amp;kind=3</guid>
-            <pubDate>Mon, 21 Mar 2022 05:15:25 GMT</pubDate>
-            <content:encoded><![CDATA[글로벌 정보보안 전문 매거진인 엔터프라이즈 시큐리티 매거진(Enterprise Security Magazine)이 국내 통합 접근 및 계정관리 기업 넷앤드...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/Cover%20story_NETAND_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[불법 윈도우 정품인증 툴 받았다간 개인정보 탈취당한다! (보안뉴스 ─ 가장 많이 본 기사)]]></title>
@@ -262,20 +262,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220318AHN-S.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
-            <title><![CDATA[모바일 애플리케이션 백엔드 정보, 무방비로 노출되어 있다 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105481&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105481&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Thu, 17 Mar 2022 12:28:34 GMT</pubDate>
-            <content:encoded><![CDATA[공개된 파이어베이스(Firebase) 데이터베이스를 간단히 검색했더니 2100개가 넘는 모바일 에플리케이션용 데이터저장소가 있는 그대로 노출되어 있다는 사실이 발...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/clo-thumb-0316.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[우크라이나 정부에 얼굴인식 기술 무료로 제공한 클리어뷰, 왜? (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105511&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105511&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Sun, 20 Mar 2022 09:18:32 GMT</pubDate>
             <content:encoded><![CDATA[이번 주 인공지능 업체인 클리어뷰에이아이(Cleaview AI)가 우크라이나 정부에 자사 얼굴인식 기술을 무료로 제공했다고 발표했다. 이 기술은 러시아의 스파이나...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/ai-thumb-0317.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[모바일 애플리케이션 백엔드 정보, 무방비로 노출되어 있다 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105481&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105481&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Thu, 17 Mar 2022 12:28:34 GMT</pubDate>
+            <content:encoded><![CDATA[공개된 파이어베이스(Firebase) 데이터베이스를 간단히 검색했더니 2100개가 넘는 모바일 에플리케이션용 데이터저장소가 있는 그대로 노출되어 있다는 사실이 발...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/clo-thumb-0316.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[사이버 공간은 전쟁터, 많은 보안 서비스가 무료로 풀려야 한다 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
@@ -374,6 +374,14 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/del-thumb-0316.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[러시아에 항의한다면서 소프트웨어 공급망 공격을 한 개발자 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105567&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105567&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Tue, 22 Mar 2022 04:20:38 GMT</pubDate>
+            <content:encoded><![CDATA[윈도, 리눅스, 환경에서 널리 사용되는 오픈소스 모듈의 관리자가 최근 우크라이나에서 러시아가 전쟁을 일으킨 것에 항의한다는 의미로 악성 기능을 업로드한 사실이 밝...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/supply-thumb-0321.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[지스트 블록체인지능융합센터, SCI급 저널에 논문 게재 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105544&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105544&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
@@ -390,12 +398,11 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/pan-thumb0-0317.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[정보보호 공시 의무화 D-106일, 현재까지 참여기업은 어디? (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105451&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105451&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
-            <pubDate>Tue, 22 Mar 2022 03:25:26 GMT</pubDate>
-            <content:encoded><![CDATA[정보보호산업의 진흥에 관한 법률 시행령 일부 개정령이 입법예고되면서 삼성전자와 SK하이닉스, 현대자동차 등 국내 대표 대기업은 물론 구글과 마이크로소프트, 메타 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20445960_main.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[안드로이드 비밀번호 탈취 멀웨어, 10만 명 구글 사용자 감염시켜 (보안뉴스 ─ SECURITY)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105590&amp;page=1&amp;mkind=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105590&amp;page=1&amp;mkind=1&amp;kind=1</guid>
+            <pubDate>Tue, 22 Mar 2022 04:20:47 GMT</pubDate>
+            <content:encoded><![CDATA[IT 외신인 블리핑컴퓨터에 의하면 안드로이드의 공식 앱 스토어인 플레이 스토어에 새로운 멀웨어가 출현했고, 이미 10만 번 이상 다운로드 됐다고 한다. 이 앱은 사진을 만화 그림체로 변형시켜주는 Craftsart Cartoon Photo Tools라는 이름으로 위장되어...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[새로운 BitB 공격, 피싱을 보이지 않게 만들어 (보안뉴스 ─ SECURITY)]]></title>
@@ -508,13 +515,6 @@
             <guid>https://www.boannews.com/media/view.asp?idx=105559&amp;page=1&amp;mkind=1&amp;kind=1</guid>
             <pubDate>Mon, 21 Mar 2022 05:15:44 GMT</pubDate>
             <content:encoded><![CDATA[콘티(Conti) 랜섬웨어 갱단이 러시아 정부를 위해 싸우기로 천명하자 그에 대한 보복으로 우크라이나의 보안 연구원이 콘티의 소스코드 최신 버전을 유출했다. 이 보안 연구원은 아예 ‘콘티 유출(Conti Leaks)’이라는 이름으로 활동하고 있으며, 러시아의 편을 드는...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[어나니머스, 러시아 파이프라인 회사의 데이터 유출시켜 (보안뉴스 ─ SECURITY)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105558&amp;page=1&amp;mkind=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105558&amp;page=1&amp;mkind=1&amp;kind=1</guid>
-            <pubDate>Mon, 21 Mar 2022 03:24:32 GMT</pubDate>
-            <content:encoded><![CDATA[보안 블로그 시큐리티어페어즈에 의하면 러시아와의 전쟁을 선포한 어나니머스(Anonymous)가 러시아의 석유 파이프라인 대기업인 트랜스네프트(Transneft)의 연구 조직인 오메가컴파니(Omega Company)를 공격했다고 한다. 그리고 이 과정에서 취득한 정부를 ...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[전통시장 및 상점가에 연구개발 도입해 지역경제 활력 이끈다 (보안뉴스 ─ IT)]]></title>
@@ -755,6 +755,14 @@
             <content:encoded><![CDATA[대구시는 화재취약계층이 거주하는 주택의 화재로 인한 인명피해를 최소화하고 주거공간의 안전성을 제고하기 위해 6,000가구에 주택용 소방시설을 무상 보급한다.]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[알체라, 산불 잡는 AI 솔루션 ‘FireScout... (보안뉴스 ─ Security World)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105587&amp;mkind=5</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105587&amp;mkind=5</guid>
+            <pubDate>Tue, 22 Mar 2022 04:21:17 GMT</pubDate>
+            <content:encoded><![CDATA[영상인식 AI 기업 알체라가 미국 3대 지상파 방송사 중 하나인 ABC 방송의 특집 다큐 ‘STAYING ALERT: Wildfire Prevention’...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/22032201ss.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[인텔리빅스, Vision AI 기술 기반 CCTV ... (보안뉴스 ─ Security World)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105563&amp;mkind=5</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105563&amp;mkind=5</guid>
@@ -763,12 +771,18 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/22032102ss.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[우크라이나 정부에 얼굴인식 기술 무료로 제공한 클리... (보안뉴스 ─ Security World)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105511&amp;mkind=5</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105511&amp;mkind=5</guid>
-            <pubDate>Sat, 19 Mar 2022 02:15:47 GMT</pubDate>
-            <content:encoded><![CDATA[이번 주 인공지능 업체인 클리어뷰에이아이(Cleaview AI)가 우크라이나 정부에 자사 얼굴인식 기술을 무료로 제공했다고 발표했다. 이 기술은 러시아의 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/ai-thumb-0317.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[해킹그룹 랩서스 LG전자 해킹 발표... 러시아와의 연관성 있을까? (보안뉴스 ─ 취약점 경고 및 버그리포트)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105593&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105593&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=</guid>
+            <pubDate>Tue, 22 Mar 2022 04:21:27 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/view.asp?idx=105593&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=">
+					
+					<img src="/media/upFiles2/2022/03/lge_032201_main.jpg" alt="" class="news_img" height="70">
+					
+					<span class="news_txt">해킹그룹 랩서스 LG전자 해킹 발표... 러시아와의 연관성 있을까?</span>
+					</a><br>
+					<a href="/media/view.asp?idx=105593&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=">최근 삼성전자와 엔비디아 등을 해킹한 해외 해킹그룹 랩서스(LAPSUS$)가 22일 LG전자도 해킹했다고 밝혔다. 랩서스는 텔레그램을 통해 LG전자의 해시를 덤프...</a> <span class="news_writer">원병철 기자 | 2022년 03월 22일 13:14</span>]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/lge_032201_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[과기정통부, 하이브 랜섬웨어 ‘암호키 복구 도구 개발·배포’ 시작 (보안뉴스 ─ 취약점 경고 및 버그리포트)]]></title>
@@ -1035,20 +1049,6 @@
 					</a><br>
 					<a href="/media/view.asp?idx=105280&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=">삼성전자가 7일 오후 사내공지를 통해 해킹 공격을 당한 것을 인정하고, 임직원 및 고객의 개인정보가 유출된 것은 없다고 밝혔다. 지난 주말 해외 해킹그룹 ‘랩서스...</a> <span class="news_writer">원병철 기자 | 2022년 03월 07일 18:21</span>]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/21531056_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성 갤럭시 스마트폰, 3연속 악재 터졌다! 치팅 → 백도어 → 해킹 (보안뉴스 ─ 취약점 경고 및 버그리포트)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105262&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105262&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=</guid>
-            <pubDate>Sat, 05 Mar 2022 17:15:56 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/view.asp?idx=105262&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=">
-					
-					<img src="/media/upFiles2/2022/03/sam-thumb-0304.jpg" alt="" class="news_img" height="70">
-					
-					<span class="news_txt">삼성 갤럭시 스마트폰, 3연속 악재 터졌다! 치팅 → 백도어 → 해킹 </span>
-					</a><br>
-					<a href="/media/view.asp?idx=105262&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=">최근 신규 스마트폰과 태블릿 라인업을 발표하여 모바일 기기 시장에서 많은 집중을 받고 있던 삼성이, 최근 세 가지 이슈가 연속해서 터지면서 그 어느 때보다 소비자...</a> <span class="news_writer">문가용 기자 | 2022년 03월 06일 01:25</span>]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/sam-thumb-0304.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[최정식 발행인 칼럼] <시큐리티월드> 통권 300호를 맞아 드리는 감사의 말씀 (보안뉴스 ─ 오피니언)]]></title>
@@ -2448,6 +2448,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2021/11/21113014ss.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[알체라, 산불 잡는 AI 솔루션 ‘FireScout’ 미국 ABC 집중 조명 (보안뉴스 ─ 기업뉴스)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105587&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105587&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=</guid>
+            <pubDate>Tue, 22 Mar 2022 04:22:28 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/view.asp?idx=105587&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=">
+					
+					<img src="/media/upFiles2/2022/03/22032201ss.jpg" alt="" class="news_img" height="70">
+					
+					<span class="news_txt">알체라, 산불 잡는 AI 솔루션 ‘FireScout’ 미국 ABC 집중 조명</span>
+					</a><br>
+					<a href="/media/view.asp?idx=105587&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=">영상인식 AI 기업 알체라가 미국 3대 지상파 방송사 중 하나인 ABC 방송의 특집 다큐 ‘STAYING ALERT: Wildfire Prevention’를 통해...</a> <span class="news_writer">엄호식 기자 | 2022년 03월 22일 12:45</span>]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/22032201ss.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[스마트키퍼, 물리적 PC·서버 포트보안팩 출시 (보안뉴스 ─ 기업뉴스)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105585&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105585&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=</guid>
@@ -2709,20 +2723,6 @@
 					</a><br>
 					<a href="/media/view.asp?idx=105442&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=">KT그룹사이자 금융보안 전문기업 이니텍(대표 강석모)은 HR테크 기업 원티드랩(대표 이복기)과 우수 인재 확보를 위한 MOU를 체결했다고 밝혔다.</a> <span class="news_writer">원병철 기자 | 2022년 03월 15일 11:25</span>]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/ini_031501_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이글루시큐리티, SIEM 특허 3건 취득 ‘효율성 및 편의성’ 향상 (보안뉴스 ─ 기업뉴스)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105441&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105441&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=</guid>
-            <pubDate>Tue, 15 Mar 2022 01:05:29 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/view.asp?idx=105441&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=">
-					
-					<img src="/media/upFiles2/2022/03/iglooCI_031501_main.jpg" alt="" class="news_img" height="70">
-					
-					<span class="news_txt">이글루시큐리티, SIEM 특허 3건 취득 ‘효율성 및 편의성’ 향상</span>
-					</a><br>
-					<a href="/media/view.asp?idx=105441&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=">인공지능(AI) 기반 정보보호 선도 기업 이글루시큐리티(대표이사 이득춘)는 통합보안관제(SIEM) 분야에 특화된 3건의 특허 등록을 완료했다고 밝혔다. 이글루시큐...</a> <span class="news_writer">원병철 기자 | 2022년 03월 15일 09:50</span>]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/iglooCI_031501_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[부고] 한국정보보호학회 수석부회장 원유재 교수 부친상 (보안뉴스 ─ 인사 부고)]]></title>
