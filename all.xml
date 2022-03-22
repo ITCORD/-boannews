@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Mar 2022 08:25:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Mar 2022 09:20:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[北 김수키, 코인관련 내용의 워드 문서를 이용한 APT 공격중 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105599&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105599&amp;page=1&amp;kind=1</guid>
+            <pubDate>Tue, 22 Mar 2022 09:17:44 GMT</pubDate>
+            <content:encoded><![CDATA[미국이 북한의 해킹그룹으로 지목한 김수키(Kimsuky) 그룹이 코인관련 내용의 워드문서로 APT 공격을 수행중인 것을 안랩 ASEC 분석팀이 확인했다고 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/kimsuky_032201_main.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[누군지도 모르겠고 왜인지도 모르겠는데 아무튼 희한한 해커들 (보안뉴스 ─ 전체기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105598&amp;page=1&amp;kind=1</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 22 Mar 2022 02:52:04 GMT</pubDate>
             <content:encoded><![CDATA[정부가 글로벌 유망 AI 기반 보안 기업 60개사 육성을 위해 상용제품 제작 및 해외진출을 지원하는 사업을 추진하고, 관련 기업을 대상으로 지원사업 설명회...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/kisa_032201_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[암호화폐 관련 행정명령 내린 바이든 정부, 앞으로의 전망은? (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105568&amp;page=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105568&amp;page=1&amp;kind=3</guid>
-            <pubDate>Tue, 22 Mar 2022 02:52:04 GMT</pubDate>
-            <content:encoded><![CDATA[디지털 자산을 보호하기 위해 정부 차원의 전략이 필요하다며 바이든 미국 대통령이 이번 달 초 행정명령을 내렸다. 이로써 암호화폐 생태계에 정부 차원의 규제...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/block-thumb-0321.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[화웨이 인터내셔널, 싱가포르 IMDA로부터 ‘데이터 보호 신뢰 마크’ 인증 획득 (보안뉴스 ─ 전체기사)]]></title>
@@ -170,6 +170,14 @@
             <content:encoded><![CDATA[중소벤처기업부는 다수의 제조 중소기업이 인공지능(AI)·데이터를 활용해 디지털 전환을 가속화할 수 있도록 공동 활용 모델을 개발하기 위한 ‘제조데이터 공동...]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[암호화폐 관련 행정명령 내린 바이든 정부, 앞으로의 전망은? (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105568&amp;page=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105568&amp;page=1&amp;kind=3</guid>
+            <pubDate>Tue, 22 Mar 2022 02:52:04 GMT</pubDate>
+            <content:encoded><![CDATA[디지털 자산을 보호하기 위해 정부 차원의 전략이 필요하다며 바이든 미국 대통령이 이번 달 초 행정명령을 내렸다. 이로써 암호화폐 생태계에 정부 차원의 규제...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/block-thumb-0321.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[스마트키퍼, 물리적 PC·서버 포트보안팩 출시 (보안뉴스 ─ 전체기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105585&amp;page=1&amp;kind=3</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105585&amp;page=1&amp;kind=3</guid>
@@ -228,14 +236,6 @@
             <guid>https://www.boannews.com/media/view.asp?idx=105583&amp;page=1&amp;kind=2</guid>
             <pubDate>Tue, 22 Mar 2022 01:05:29 GMT</pubDate>
             <content:encoded><![CDATA[과학기술정보통신부와 정보통신산업진흥원(NIPA)은 지난 21일부터 ‘2022년 클라우드 서비스 품질·성능 검증 사업’ 지원 기업을 모집한다고 밝혔다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[러시아에 항의한다면서 소프트웨어 공급망 공격을 한 개발자 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105567&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105567&amp;page=1&amp;kind=1</guid>
-            <pubDate>Mon, 21 Mar 2022 11:17:53 GMT</pubDate>
-            <content:encoded><![CDATA[윈도, 리눅스, 환경에서 널리 사용되는 오픈소스 모듈의 관리자가 최근 우크라이나에서 러시아가 전쟁을 일으킨 것에 항의한다는 의미로 악성 기능을 업로드한 사...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/supply-thumb-0321.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[불법 윈도우 정품인증 툴 받았다간 개인정보 탈취당한다! (보안뉴스 ─ 가장 많이 본 기사)]]></title>
@@ -334,20 +334,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/ahnlab_032001_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[정재동의 창업에세이-3] 창업활동으로 대학이 바뀔 수 있다 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105534&amp;page=1&amp;kind=6&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105534&amp;page=1&amp;kind=6&amp;search=title&amp;find=</guid>
-            <pubDate>Sun, 20 Mar 2022 15:18:29 GMT</pubDate>
-            <content:encoded><![CDATA[대학이 변해야 한다고 말하는 이들이 많다. 변해야 하는 이유는 학생 수가 줄어들고 있어서 생존을 위한 경쟁이 심화될 것이기 때문에 그렇다고 한다. 우리나라 인구구...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220318univer-s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[러시아에 항의한다면서 소프트웨어 공급망 공격을 한 개발자 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105567&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105567&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Tue, 22 Mar 2022 04:20:38 GMT</pubDate>
             <content:encoded><![CDATA[윈도, 리눅스, 환경에서 널리 사용되는 오픈소스 모듈의 관리자가 최근 우크라이나에서 러시아가 전쟁을 일으킨 것에 항의한다는 의미로 악성 기능을 업로드한 사실이 밝...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/supply-thumb-0321.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[정재동의 창업에세이-3] 창업활동으로 대학이 바뀔 수 있다 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105534&amp;page=1&amp;kind=6&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105534&amp;page=1&amp;kind=6&amp;search=title&amp;find=</guid>
+            <pubDate>Sun, 20 Mar 2022 15:18:29 GMT</pubDate>
+            <content:encoded><![CDATA[대학이 변해야 한다고 말하는 이들이 많다. 변해야 하는 이유는 학생 수가 줄어들고 있어서 생존을 위한 경쟁이 심화될 것이기 때문에 그렇다고 한다. 우리나라 인구구...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220318univer-s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[우크라이나 매체, 해킹 공격 당한 뒤 딥페이크 영상 송출해 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
@@ -396,6 +396,13 @@
             <pubDate>Tue, 22 Mar 2022 05:15:42 GMT</pubDate>
             <content:encoded><![CDATA[정보보호산업의 진흥에 관한 법률 시행령 일부 개정령이 입법예고되면서 삼성전자와 SK하이닉스, 현대자동차 등 국내 대표 대기업은 물론 구글과 마이크로소프트, 메타 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20445960_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[스파이스웨어, NHN 마켓플레이스 등록... 공공 클라우드 보안시장 공략 박차 (보안뉴스 ─ SECURITY)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105595&amp;page=1&amp;mkind=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105595&amp;page=1&amp;mkind=1&amp;kind=3</guid>
+            <pubDate>Tue, 22 Mar 2022 09:18:06 GMT</pubDate>
+            <content:encoded><![CDATA[제로 트러스트 보안 스타트업 스파이스웨어는 ‘스파이스웨어 원(One)과 ‘스파이스웨어 PII ANP’가 NHN 클라우드 마켓플레이스에 등록됐다고 22일 밝혔다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[공공분야에 체계적이고 엄격한 개인정보보호 추진한다 (보안뉴스 ─ SECURITY)]]></title>
@@ -508,13 +515,6 @@
             <guid>https://www.boannews.com/media/view.asp?idx=105564&amp;page=1&amp;mkind=1&amp;kind=3</guid>
             <pubDate>Mon, 21 Mar 2022 09:19:41 GMT</pubDate>
             <content:encoded><![CDATA[소프트웨어 개발보안 전문 업체 트리니티소프트가 한국인터넷진흥원(KISA)으로부터 자사의 시큐어코딩 솔루션인 코드레이에 대한 클라우드 서비스 보안인증(CSAP: Cloud Security Assurance Program)을 획득했다고 밝혔다. 시큐어코딩 솔루션 중 Saa...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[과기정통부, 하이브 랜섬웨어 ‘암호키 복구 도구 개발·배포’ 시작 (보안뉴스 ─ SECURITY)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105557&amp;page=1&amp;mkind=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105557&amp;page=1&amp;mkind=1&amp;kind=2</guid>
-            <pubDate>Mon, 21 Mar 2022 09:19:41 GMT</pubDate>
-            <content:encoded><![CDATA[지난 2월 현대삼호중공업을 해킹했다고 주장하던 하이브 랜섬웨어를 복호화히는 데 성공했다고 정부가 밝혔다. 과학기술정보통신부(장관 임혜숙, 이하 ‘과기정통부’)는 한국인터넷진흥원(원장 이원태, 이하 ‘KISA’)과 함께 랜섬웨어 복구 도구를 개발해 배포한다고 밝혔다. 랜...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[4차 산업혁명 시대 미래 역량 교육으로 지역 성장 이끈다 (보안뉴스 ─ IT)]]></title>
@@ -771,6 +771,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/22032102ss.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[北 김수키, 코인관련 내용의 워드 문서를 이용한 APT 공격중 (보안뉴스 ─ 취약점 경고 및 버그리포트)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105599&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105599&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=</guid>
+            <pubDate>Tue, 22 Mar 2022 09:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/view.asp?idx=105599&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=">
+					
+					<img src="/media/upFiles2/2022/03/kimsuky_032201_main.jpg" alt="" class="news_img" height="70">
+					
+					<span class="news_txt">北 김수키, 코인관련 내용의 워드 문서를 이용한 APT 공격중</span>
+					</a><br>
+					<a href="/media/view.asp?idx=105599&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=">미국이 북한의 해킹그룹으로 지목한 김수키(Kimsuky) 그룹이 코인관련 내용의 워드문서로 APT 공격을 수행중인 것을 안랩 ASEC 분석팀이 확인했다고 밝혔다....</a> <span class="news_writer">원병철 기자 | 2022년 03월 22일 17:33</span>]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/kimsuky_032201_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[해킹그룹 랩서스 LG전자 해킹 발표... 러시아와의 연관성 있을까? (보안뉴스 ─ 취약점 경고 및 버그리포트)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105593&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105593&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=</guid>
@@ -783,6 +797,20 @@
 					</a><br>
 					<a href="/media/view.asp?idx=105593&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=">최근 삼성전자와 엔비디아 등을 해킹한 해외 해킹그룹 랩서스(LAPSUS$)가 22일 LG전자도 해킹했다고 밝혔다. 랩서스는 텔레그램을 통해 LG전자의 해시를 덤프...</a> <span class="news_writer">원병철 기자 | 2022년 03월 22일 13:14</span>]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/lge_032201_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[안드로이드 비밀번호 탈취 멀웨어, 10만 명 구글 사용자 감염시켜 (보안뉴스 ─ 취약점 경고 및 버그리포트)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105590&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105590&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=</guid>
+            <pubDate>Tue, 22 Mar 2022 09:18:49 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/view.asp?idx=105590&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=">
+					
+					<img src="/media/upFiles2/2022/03/pass-thumb-0322.jpg" alt="" class="news_img" height="70">
+					
+					<span class="news_txt">안드로이드 비밀번호 탈취 멀웨어, 10만 명 구글 사용자 감염시켜</span>
+					</a><br>
+					<a href="/media/view.asp?idx=105590&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=">IT 외신인 블리핑컴퓨터에 의하면 안드로이드의 공식 앱 스토어인 플레이 스토어에 새로운 멀웨어가 출현했고, 이미 10만 번 이상 다운로드 됐다고 한다. 이 앱은 ...</a> <span class="news_writer">문가용 기자 | 2022년 03월 22일 11:41</span>]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/pass-thumb-0322.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[과기정통부, 하이브 랜섬웨어 ‘암호키 복구 도구 개발·배포’ 시작 (보안뉴스 ─ 취약점 경고 및 버그리포트)]]></title>
@@ -1021,34 +1049,6 @@
 					</a><br>
 					<a href="/media/view.asp?idx=105313&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=">보안 외신 쓰레트포스트에 의하면 해킹 단체 랩서스(Lapsus$)가 2월 23일 엔비디아로부터 1TB에 달하는 정보들을 훔쳐냈는데, 그 중에 코드 서명 인증서들도...</a> <span class="news_writer">문가용 기자 | 2022년 03월 08일 11:49</span>]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/sign-thumb-0308.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한국도로공사 통행료 납부 안내문? 네이버 계정 탈취 위한 피싱 메일 (보안뉴스 ─ 취약점 경고 및 버그리포트)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105311&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105311&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=</guid>
-            <pubDate>Tue, 08 Mar 2022 03:17:52 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/view.asp?idx=105311&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=">
-					
-					<img src="/media/upFiles2/2022/03/20220310_report-S.JPG" alt="" class="news_img" height="70">
-					
-					<span class="news_txt">한국도로공사 통행료 납부 안내문? 네이버 계정 탈취 위한 피싱 메일  </span>
-					</a><br>
-					<a href="/media/view.asp?idx=105311&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=">지난 3일부터 한국도로공사 통행료 납부를 위장한 피싱 메일이 대량으로 유포되고 있어 사용자들의 주의가 필요하다. 해당 피싱 메일은 ‘회원님께 도착한 새 전자문서를...</a> <span class="news_writer">권준  기자 | 2022년 03월 08일 11:36</span>]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220310_report-S.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성전자, 사내공지로 해킹 시인... 국정원, 공공기관 피해 가능성 여부 조사 (보안뉴스 ─ 취약점 경고 및 버그리포트)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105280&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105280&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=</guid>
-            <pubDate>Mon, 07 Mar 2022 10:18:13 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/view.asp?idx=105280&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=">
-					
-					<img src="/media/upFiles2/2022/03/21531056_main.jpg" alt="" class="news_img" height="70">
-					
-					<span class="news_txt">삼성전자, 사내공지로 해킹 시인... 국정원, 공공기관 피해 가능성 여부 조사 </span>
-					</a><br>
-					<a href="/media/view.asp?idx=105280&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=">삼성전자가 7일 오후 사내공지를 통해 해킹 공격을 당한 것을 인정하고, 임직원 및 고객의 개인정보가 유출된 것은 없다고 밝혔다. 지난 주말 해외 해킹그룹 ‘랩서스...</a> <span class="news_writer">원병철 기자 | 2022년 03월 07일 18:21</span>]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/21531056_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[최정식 발행인 칼럼] <시큐리티월드> 통권 300호를 맞아 드리는 감사의 말씀 (보안뉴스 ─ 오피니언)]]></title>
