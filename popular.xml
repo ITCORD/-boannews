@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Mar 2022 04:22:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Mar 2022 05:17:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,14 +104,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/ahnlab_032001_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[러시아의 우크라이나 침공 후 본격화 된 IT 기업들의 ‘ESG 프로젝트’]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105413&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105413&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
-            <pubDate>Fri, 18 Mar 2022 06:19:37 GMT</pubDate>
-            <content:encoded><![CDATA[러시아의 우크라이나 침공 후 전쟁이 3주째 이어지고 있다. 그러면서 여러 IT 기업들이 자신들이 할 수 있는 일을 함으로써 러시아에 대한 경제적 압박 수위를 높여...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220315uk-s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[정재동의 창업에세이-3] 창업활동으로 대학이 바뀔 수 있다]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105534&amp;page=1&amp;kind=6&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105534&amp;page=1&amp;kind=6&amp;search=title&amp;find=</guid>
@@ -136,20 +128,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/no-thumb-0317.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[우크라이나에서 발견된 데이터 삭제 멀웨어, 드라이브도 지운다]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105471&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105471&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Mon, 21 Mar 2022 09:19:30 GMT</pubDate>
-            <content:encoded><![CDATA[IT 외신인 PC매거진에 의하면 우크라이나에서 또 다른 파일 삭제형 멀웨어가 발견됐다고 한다. 보안 업체 이셋(ESET)이 찾아낸 것으로, 데이터만이 아니라 시스...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/del-thumb-0316.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[러시아에 항의한다면서 소프트웨어 공급망 공격을 한 개발자]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105567&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105567&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Tue, 22 Mar 2022 04:20:38 GMT</pubDate>
             <content:encoded><![CDATA[윈도, 리눅스, 환경에서 널리 사용되는 오픈소스 모듈의 관리자가 최근 우크라이나에서 러시아가 전쟁을 일으킨 것에 항의한다는 의미로 악성 기능을 업로드한 사실이 밝...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/supply-thumb-0321.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[우크라이나에서 발견된 데이터 삭제 멀웨어, 드라이브도 지운다]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105471&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105471&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Mon, 21 Mar 2022 09:19:30 GMT</pubDate>
+            <content:encoded><![CDATA[IT 외신인 PC매거진에 의하면 우크라이나에서 또 다른 파일 삭제형 멀웨어가 발견됐다고 한다. 보안 업체 이셋(ESET)이 찾아낸 것으로, 데이터만이 아니라 시스...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/del-thumb-0316.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[지스트 블록체인지능융합센터, SCI급 저널에 논문 게재]]></title>
@@ -166,6 +158,14 @@
             <pubDate>Tue, 22 Mar 2022 03:25:26 GMT</pubDate>
             <content:encoded><![CDATA[보안 외신 해커뉴스에 의하면 새로운 리눅스 봇넷이 나타났다고 한다. 이름은 비트쏘트웬티(B1txor20)이며, DNS 터널(DNS Tunnel)이라는 기술을 활용...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/pan-thumb0-0317.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[정보보호 공시 의무화 D-106일, 현재까지 참여기업은 어디?]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105451&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105451&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
+            <pubDate>Tue, 22 Mar 2022 05:15:42 GMT</pubDate>
+            <content:encoded><![CDATA[정보보호산업의 진흥에 관한 법률 시행령 일부 개정령이 입법예고되면서 삼성전자와 SK하이닉스, 현대자동차 등 국내 대표 대기업은 물론 구글과 마이크로소프트, 메타 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20445960_main.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
