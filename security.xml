@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-03-22T06:23:46.277Z</updated>
+    <updated>2022-03-22T07:19:17.062Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[해킹그룹 랩서스 LG전자 해킹 발표... 러시아와의 연관성 있을까?]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=105593&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=105593&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-03-22T07:17:16.441Z</updated>
+        <content type="html"><![CDATA[최근 삼성전자와 엔비디아 등을 해킹한 해외 해킹그룹 랩서스(LAPSUS$)가 22일 LG전자도 해킹했다고 밝혔다. 랩서스는 텔레그램을 통해 LG전자의 해시를 덤프했다고 공지했다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[랜섬웨어에 걸린 브릿지스톤, 토요타 공급망에 또 다른 차질 빚어]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=105592&amp;page=1&amp;mkind=1&amp;kind=1</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=105562&amp;page=1&amp;mkind=1&amp;kind=3"/>
         <updated>2022-03-21T08:21:54.800Z</updated>
         <content type="html"><![CDATA[글로벌 정보보안 전문 매거진인 엔터프라이즈 시큐리티 매거진(Enterprise Security Magazine)이 국내 통합 접근 및 계정관리 기업 넷앤드를 아태지역 2022 디지털 계정관리 부문 수상 벤더(Top Digital Identity Solutions Pro...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[다크호텔 APT, 마카오의 호텔들 공격해 숙박객 데이터 훔쳐내]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=105561&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=105561&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-03-21T06:21:48.933Z</updated>
-        <content type="html"><![CDATA[다크호텔(Dark Hotel)이라는 APT 단체가 마카오를 공격했다. 이곳의 고급 호텔 체인들을 침해해서 숙박객 데이터를 훔쳐낸 것으로 보인다. 윈 팰러스(Wynn Palace)와 그랜드 콜로안 리조트(Grand Coloane Resort)다 당했다고 한다. 보안 업체...]]></content>
     </entry>
 </feed>
