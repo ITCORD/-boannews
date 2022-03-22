@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Mar 2022 22:19:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Mar 2022 23:20:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -374,20 +374,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/hive_032101_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[우크라이나에서 발견된 데이터 삭제 멀웨어, 드라이브도 지운다 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105471&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105471&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Mon, 21 Mar 2022 09:19:30 GMT</pubDate>
-            <content:encoded><![CDATA[IT 외신인 PC매거진에 의하면 우크라이나에서 또 다른 파일 삭제형 멀웨어가 발견됐다고 한다. 보안 업체 이셋(ESET)이 찾아낸 것으로, 데이터만이 아니라 시스...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/del-thumb-0316.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[새로운 리눅스 봇넷, DNS 터널 활용해 로그4j 익스플로잇 해 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105506&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105506&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Tue, 22 Mar 2022 03:25:26 GMT</pubDate>
             <content:encoded><![CDATA[보안 외신 해커뉴스에 의하면 새로운 리눅스 봇넷이 나타났다고 한다. 이름은 비트쏘트웬티(B1txor20)이며, DNS 터널(DNS Tunnel)이라는 기술을 활용...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/pan-thumb0-0317.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[우크라이나에서 발견된 데이터 삭제 멀웨어, 드라이브도 지운다 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105471&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105471&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Mon, 21 Mar 2022 09:19:30 GMT</pubDate>
+            <content:encoded><![CDATA[IT 외신인 PC매거진에 의하면 우크라이나에서 또 다른 파일 삭제형 멀웨어가 발견됐다고 한다. 보안 업체 이셋(ESET)이 찾아낸 것으로, 데이터만이 아니라 시스...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/del-thumb-0316.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[지스트 블록체인지능융합센터, SCI급 저널에 논문 게재 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
