@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Mar 2022 07:19:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Mar 2022 08:25:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[누군지도 모르겠고 왜인지도 모르겠는데 아무튼 희한한 해커들 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105598&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105598&amp;page=1&amp;kind=1</guid>
+            <pubDate>Tue, 22 Mar 2022 08:23:16 GMT</pubDate>
+            <content:encoded><![CDATA[고급 위협 행위자로 추정되는 한 해킹 단체가 새로운 공격 기법으로 프랑스의 정부 기관과 부동산 업체, 건설 회사들을 공략했다. 이 단체는 오픈소스 도구들과...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/qm-thumb-0322.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[공공분야에 체계적이고 엄격한 개인정보보호 추진한다 (보안뉴스 ─ 전체기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105594&amp;page=1&amp;kind=2</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 22 Mar 2022 02:52:04 GMT</pubDate>
             <content:encoded><![CDATA[디지털 자산을 보호하기 위해 정부 차원의 전략이 필요하다며 바이든 미국 대통령이 이번 달 초 행정명령을 내렸다. 이로써 암호화폐 생태계에 정부 차원의 규제...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/block-thumb-0321.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[러시아에 항의한다면서 소프트웨어 공급망 공격을 한 개발자 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105567&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105567&amp;page=1&amp;kind=1</guid>
-            <pubDate>Mon, 21 Mar 2022 11:17:53 GMT</pubDate>
-            <content:encoded><![CDATA[윈도, 리눅스, 환경에서 널리 사용되는 오픈소스 모듈의 관리자가 최근 우크라이나에서 러시아가 전쟁을 일으킨 것에 항의한다는 의미로 악성 기능을 업로드한 사...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/supply-thumb-0321.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[화웨이 인터내셔널, 싱가포르 IMDA로부터 ‘데이터 보호 신뢰 마크’ 인증 획득 (보안뉴스 ─ 전체기사)]]></title>
@@ -230,12 +230,12 @@
             <content:encoded><![CDATA[과학기술정보통신부와 정보통신산업진흥원(NIPA)은 지난 21일부터 ‘2022년 클라우드 서비스 품질·성능 검증 사업’ 지원 기업을 모집한다고 밝혔다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[문재인 정부 “국방부 이전 계획 무리... 안보문제 등 검토해야” (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105566&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105566&amp;page=1&amp;kind=2</guid>
-            <pubDate>Mon, 21 Mar 2022 09:19:19 GMT</pubDate>
-            <content:encoded><![CDATA[청와대가 NSC 확대관계장관회의를 개최하고 차기정부의 국방부 집무실 이전과 관련해 촉박한 이전은 안보 공백우려가 있을 수 있다고 지적했다. 다만 문재인 대...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/blue_032101_main.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[러시아에 항의한다면서 소프트웨어 공급망 공격을 한 개발자 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105567&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105567&amp;page=1&amp;kind=1</guid>
+            <pubDate>Mon, 21 Mar 2022 11:17:53 GMT</pubDate>
+            <content:encoded><![CDATA[윈도, 리눅스, 환경에서 널리 사용되는 오픈소스 모듈의 관리자가 최근 우크라이나에서 러시아가 전쟁을 일으킨 것에 항의한다는 의미로 악성 기능을 업로드한 사...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/supply-thumb-0321.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[불법 윈도우 정품인증 툴 받았다간 개인정보 탈취당한다! (보안뉴스 ─ 가장 많이 본 기사)]]></title>
@@ -398,6 +398,13 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20445960_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[공공분야에 체계적이고 엄격한 개인정보보호 추진한다 (보안뉴스 ─ SECURITY)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105594&amp;page=1&amp;mkind=1&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105594&amp;page=1&amp;mkind=1&amp;kind=2</guid>
+            <pubDate>Tue, 22 Mar 2022 08:23:37 GMT</pubDate>
+            <content:encoded><![CDATA[최근 공공기관에서 개인정보보호 유출사고가 발생하는 등 개인정보보호의 엄중함을 인식하고 국민의 민감한 개인정보를 다수 취급하고 있는 65개 소속·산하기관을 대상으로 개인정보보호를 위한 실행계획을 수립했다고 과학기술정보통신부(장관 임혜숙, 이하 ‘과기정통부’)가 밝혔다.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[해킹그룹 랩서스 LG전자 해킹 발표... 러시아와의 연관성 있을까? (보안뉴스 ─ SECURITY)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105593&amp;page=1&amp;mkind=1&amp;kind=1</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105593&amp;page=1&amp;mkind=1&amp;kind=1</guid>
@@ -508,13 +515,6 @@
             <guid>https://www.boannews.com/media/view.asp?idx=105557&amp;page=1&amp;mkind=1&amp;kind=2</guid>
             <pubDate>Mon, 21 Mar 2022 09:19:41 GMT</pubDate>
             <content:encoded><![CDATA[지난 2월 현대삼호중공업을 해킹했다고 주장하던 하이브 랜섬웨어를 복호화히는 데 성공했다고 정부가 밝혔다. 과학기술정보통신부(장관 임혜숙, 이하 ‘과기정통부’)는 한국인터넷진흥원(원장 이원태, 이하 ‘KISA’)과 함께 랜섬웨어 복구 도구를 개발해 배포한다고 밝혔다. 랜...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[넷앤드, ‘APAC 지역 2022 디지털 계정관리 탑 벤더’ 선정 (보안뉴스 ─ SECURITY)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105562&amp;page=1&amp;mkind=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105562&amp;page=1&amp;mkind=1&amp;kind=3</guid>
-            <pubDate>Mon, 21 Mar 2022 08:21:54 GMT</pubDate>
-            <content:encoded><![CDATA[글로벌 정보보안 전문 매거진인 엔터프라이즈 시큐리티 매거진(Enterprise Security Magazine)이 국내 통합 접근 및 계정관리 기업 넷앤드를 아태지역 2022 디지털 계정관리 부문 수상 벤더(Top Digital Identity Solutions Pro...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[4차 산업혁명 시대 미래 역량 교육으로 지역 성장 이끈다 (보안뉴스 ─ IT)]]></title>
