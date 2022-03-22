@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Mar 2022 02:54:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Mar 2022 03:27:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -88,14 +88,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/est_031801_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[제116차 CISO포럼, 최근 화두인 NFT와 사이버보안의 변화상 논의]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105449&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105449&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Wed, 16 Mar 2022 11:15:00 GMT</pubDate>
-            <content:encoded><![CDATA[메타버스 플랫폼이 확대되고, 가상 경제가 발전하기 시작하면서 핵심 거래 및 소유수단으로 NFT(대체 불가능 토큰)이 화두가 되고 있다. 이와 함께 사이버보안 분야...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220315CISO1-S.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
             <title><![CDATA[사이버 보안, 청년들이 진출하기 가장 좋은 분야]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105512&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105512&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
@@ -144,14 +136,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/no-thumb-0317.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[강력한 디도스 공격, 이스라엘 정부 웹사이트 마비시켜]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105450&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105450&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Mon, 21 Mar 2022 03:24:23 GMT</pubDate>
-            <content:encoded><![CDATA[보안 블로그 시큐리티어페어즈에 의하면 이스라엘 정부 기관들을 겨냥한 디도스 공격이 발견됐다고 한다. 이 때문에 다수의 정부 사이트들이 마비됐는데, 보건, 내무, ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/isr-thumb-0315.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[우크라이나에서 발견된 데이터 삭제 멀웨어, 드라이브도 지운다]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105471&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105471&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
@@ -166,6 +150,22 @@
             <pubDate>Tue, 22 Mar 2022 01:05:40 GMT</pubDate>
             <content:encoded><![CDATA[지스트(광주과학기술원) 블록체인지능융합센터의 연구 성과가 SCI급 학술지에 잇달아 게재되며 성과를 인정받았다. 블록체인지능융합센터(BIC)는 지난해 7월, 과학기...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/3-193(295).jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[새로운 리눅스 봇넷, DNS 터널 활용해 로그4j 익스플로잇 해]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105506&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105506&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Tue, 22 Mar 2022 03:25:26 GMT</pubDate>
+            <content:encoded><![CDATA[보안 외신 해커뉴스에 의하면 새로운 리눅스 봇넷이 나타났다고 한다. 이름은 비트쏘트웬티(B1txor20)이며, DNS 터널(DNS Tunnel)이라는 기술을 활용...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/pan-thumb0-0317.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[정보보호 공시 의무화 D-106일, 현재까지 참여기업은 어디?]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105451&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105451&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
+            <pubDate>Tue, 22 Mar 2022 03:25:26 GMT</pubDate>
+            <content:encoded><![CDATA[정보보호산업의 진흥에 관한 법률 시행령 일부 개정령이 입법예고되면서 삼성전자와 SK하이닉스, 현대자동차 등 국내 대표 대기업은 물론 구글과 마이크로소프트, 메타 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20445960_main.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
