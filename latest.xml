@@ -4,9 +4,17 @@
         <title>보안뉴스 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Mar 2022 05:17:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Mar 2022 06:23:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[공공분야에 체계적이고 엄격한 개인정보보호 추진한다]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105594&amp;page=1&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105594&amp;page=1&amp;kind=2</guid>
+            <pubDate>Tue, 22 Mar 2022 06:21:23 GMT</pubDate>
+            <content:encoded><![CDATA[최근 공공기관에서 개인정보보호 유출사고가 발생하는 등 개인정보보호의 엄중함을 인식하고 국민의 민감한 개인정보를 다수 취급하고 있는 65개 소속·산하기관을 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20153718_main.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[해킹그룹 랩서스 LG전자 해킹 발표... 러시아와의 연관성 있을까?]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105593&amp;page=1&amp;kind=1</link>
@@ -80,12 +88,12 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/supply-thumb-0321.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[문재인 정부 “국방부 이전 계획 무리... 안보문제 등 검토해야”]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105566&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105566&amp;page=1&amp;kind=2</guid>
-            <pubDate>Mon, 21 Mar 2022 09:19:19 GMT</pubDate>
-            <content:encoded><![CDATA[청와대가 NSC 확대관계장관회의를 개최하고 차기정부의 국방부 집무실 이전과 관련해 촉박한 이전은 안보 공백우려가 있을 수 있다고 지적했다. 다만 문재인 대...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/blue_032101_main.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[스파이스웨어, NHN 마켓플레이스 등록... 공공 클라우드 보안시장 공략 박차]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105595&amp;page=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105595&amp;page=1&amp;kind=3</guid>
+            <pubDate>Tue, 22 Mar 2022 06:21:23 GMT</pubDate>
+            <content:encoded><![CDATA[제로 트러스트 보안 스타트업 스파이스웨어는 ‘스파이스웨어 원(One)과 ‘스파이스웨어 PII ANP’가 NHN 클라우드 마켓플레이스에 등록됐다고 22일 밝...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/spice_032201_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[알체라, 산불 잡는 AI 솔루션 ‘FireScout’ 미국 ABC 집중 조명]]></title>
@@ -206,6 +214,14 @@
             <content:encoded><![CDATA[과학기술정보통신부와 정보통신산업진흥원(NIPA)은 지난 21일부터 ‘2022년 클라우드 서비스 품질·성능 검증 사업’ 지원 기업을 모집한다고 밝혔다.]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[문재인 정부 “국방부 이전 계획 무리... 안보문제 등 검토해야”]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105566&amp;page=1&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105566&amp;page=1&amp;kind=2</guid>
+            <pubDate>Mon, 21 Mar 2022 09:19:19 GMT</pubDate>
+            <content:encoded><![CDATA[청와대가 NSC 확대관계장관회의를 개최하고 차기정부의 국방부 집무실 이전과 관련해 촉박한 이전은 안보 공백우려가 있을 수 있다고 지적했다. 다만 문재인 대...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/blue_032101_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[클라우드 회사에서 날아온 복잡한 청구서 관리하기]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105550&amp;page=1&amp;kind=3</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105550&amp;page=1&amp;kind=3</guid>
@@ -220,22 +236,6 @@
             <pubDate>Mon, 21 Mar 2022 08:21:28 GMT</pubDate>
             <content:encoded><![CDATA[북한이 해킹으로 탈취한 가상자산 중 아직 1억 7,000만 달러가 세탁되지 않은 것으로 알려졌다. 블록체인 데이터 플랫폼 기업 체이널리시스(한국지사장 백용...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/chain_0321_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[인텔리빅스, Vision AI 기술 기반 CCTV & 드론 활용 화재 감지 솔루션 눈길]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105563&amp;page=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105563&amp;page=1&amp;kind=3</guid>
-            <pubDate>Mon, 21 Mar 2022 06:21:27 GMT</pubDate>
-            <content:encoded><![CDATA[Vision AI 전문업체 인텔리빅스는 CCTV 영상뿐만 아니라 이동형 드론을 활용해 실시간으로 불꽃 및 연기를 감지하는 솔루션을 상용화해 제공하고 있다....]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/22032102ss.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[트리니티소프트, ‘코드레이 클라우드’ 국내 최초 CSAP 인증 획득]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105564&amp;page=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105564&amp;page=1&amp;kind=3</guid>
-            <pubDate>Mon, 21 Mar 2022 06:21:27 GMT</pubDate>
-            <content:encoded><![CDATA[소프트웨어 개발보안 전문 업체 트리니티소프트가 한국인터넷진흥원(KISA)으로부터 자사의 시큐어코딩 솔루션인 코드레이에 대한 클라우드 서비스 보안인증(CSA...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/tri_032101_main.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
