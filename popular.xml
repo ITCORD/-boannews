@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Mar 2022 21:16:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Mar 2022 22:22:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -112,6 +112,14 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/hive_032101_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[北 김수키, 코인관련 내용의 워드 문서를 이용한 APT 공격중]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105599&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105599&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Wed, 23 Mar 2022 08:22:30 GMT</pubDate>
+            <content:encoded><![CDATA[미국이 북한의 해킹그룹으로 지목한 김수키(Kimsuky) 그룹이 코인관련 내용의 워드문서로 APT 공격을 수행중인 것을 안랩 ASEC 분석팀이 확인했다고 밝혔다....]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/kimsuky_032201_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[우크라이나 매체, 해킹 공격 당한 뒤 딥페이크 영상 송출해]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105533&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105533&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
@@ -126,14 +134,6 @@
             <pubDate>Mon, 21 Mar 2022 02:50:59 GMT</pubDate>
             <content:encoded><![CDATA[러시아 정부가 우크라이나를 침략하면서 동시에 자국 정보 통제를 강화했기 때문에 소셜미디어에 접속하거나 국제적인 뉴스를 접하고 싶어 하는 러시아 국민들은 VPN을 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/no-thumb-0317.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[北 김수키, 코인관련 내용의 워드 문서를 이용한 APT 공격중]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105599&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105599&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Wed, 23 Mar 2022 08:22:30 GMT</pubDate>
-            <content:encoded><![CDATA[미국이 북한의 해킹그룹으로 지목한 김수키(Kimsuky) 그룹이 코인관련 내용의 워드문서로 APT 공격을 수행중인 것을 안랩 ASEC 분석팀이 확인했다고 밝혔다....]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/kimsuky_032201_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[북한, 미세탁 가상자산 1억 7,000만 달러 있다]]></title>
