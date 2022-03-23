@@ -4,9 +4,23 @@
         <title>보안뉴스 ─ 정책</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Mar 2022 08:24:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Mar 2022 09:19:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘보안 취약점 정보 포털’ 오픈한다는데... 버그바운티가 더 중요해지는 이유]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105627&amp;page=1&amp;mkind=&amp;kind=2&amp;skind=6&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105627&amp;page=1&amp;mkind=&amp;kind=2&amp;skind=6&amp;search=title&amp;find=</guid>
+            <pubDate>Wed, 23 Mar 2022 09:18:59 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/view.asp?idx=105627&amp;page=1&amp;mkind=&amp;kind=2&amp;skind=6&amp;search=title&amp;find=">
+					
+					<img src="/media/upFiles2/2022/03/20220323bug-s.jpg" alt="" class="news_img" height="70">
+					
+					<span class="news_txt">‘보안 취약점 정보 포털’ 오픈한다는데... 버그바운티가 더 중요해지는 이유 </span>
+					</a><br>
+					<a href="/media/view.asp?idx=105627&amp;page=1&amp;mkind=&amp;kind=2&amp;skind=6&amp;search=title&amp;find=">사이버위협의 주요 요인이 되고 있는 보안 취약점은 무엇보다 신속하게 발견하여 조치하는 것이 중요하다. 이에 정부는 국가 차원에서 국내·외 보안 취약점을 체계적으로...</a> <span class="news_writer">권준  기자 | 2022년 03월 23일 17:45</span>]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220323bug-s.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[보안 취약점 수집·관리 위한 ‘사이버보안 취약점 정보포털’ 나온다]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105618&amp;page=1&amp;mkind=&amp;kind=2&amp;skind=6&amp;search=title&amp;find=</link>
@@ -272,20 +286,6 @@
 					</a><br>
 					<a href="/media/view.asp?idx=104488&amp;page=1&amp;mkind=&amp;kind=2&amp;skind=6&amp;search=title&amp;find=">지갑 속에 넣어 지니고 다녀야 했던 운전면허증을 스마트폰에 저장하여 사용할 수 있게 됨으로써 본격적인 모바일 신분증 시대가 열린다. 행정안전부와 경찰청은 국민에게...</a> <span class="news_writer">박미영 기자 | 2022년 01월 28일 09:35</span>]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/20220128MOBILE-S.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[과기정통부, 10대 필수전략기술인 양자기술 육성 본격 추진한다]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104432&amp;page=1&amp;mkind=&amp;kind=2&amp;skind=6&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104432&amp;page=1&amp;mkind=&amp;kind=2&amp;skind=6&amp;search=title&amp;find=</guid>
-            <pubDate>Thu, 27 Jan 2022 00:53:18 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/view.asp?idx=104432&amp;page=1&amp;mkind=&amp;kind=2&amp;skind=6&amp;search=title&amp;find=">
-					
-					<img src="/media/upFiles2/2022/01/1-290(295).jpg" alt="" class="news_img" height="70">
-					
-					<span class="news_txt">과기정통부, 10대 필수전략기술인 양자기술 육성 본격 추진한다</span>
-					</a><br>
-					<a href="/media/view.asp?idx=104432&amp;page=1&amp;mkind=&amp;kind=2&amp;skind=6&amp;search=title&amp;find=">과학기술정보통신부는 지난 26일 10대 필수전략기술인 양자기술을 집중 육성하기 위해 그간의 양자암호통신·양자센서 등 양자 분야 기술개발 및 상용화 성과를 확인하고...</a> <span class="news_writer">박미영 기자 | 2022년 01월 27일 09:42</span>]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/1-290(295).jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
