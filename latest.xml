@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Mar 2022 10:22:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Mar 2022 11:16:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -86,6 +86,14 @@
             <pubDate>Wed, 23 Mar 2022 03:29:51 GMT</pubDate>
             <content:encoded><![CDATA[지난 3개월 동안 많은 변화가 있었다. 특히 기업용 ‘사설 5G 네트워크 서비스’라는 기술에 있어서 더 그랬다. 하지만 그 변화라는 것이 아직 보편화나 일...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/5gb-thumb-0322.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[씨게이트, 스카이호크 AI 20TB 드라이브로 엣지 보안 애플리케이션 지원]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105629&amp;page=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105629&amp;page=1&amp;kind=3</guid>
+            <pubDate>Wed, 23 Mar 2022 11:14:37 GMT</pubDate>
+            <content:encoded><![CDATA[전 세계 대용량 데이터 스토리지 인프라 솔루션을 선도하는 씨게이트 테크놀로지(Seagate® Technology Holdings plc)가 미국 네바다 주...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/22032302ss.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[차세대 보안리더 양성 프로그램 ‘BoB 10기’ 온라인 인증식 개최]]></title>
@@ -231,14 +239,6 @@
             <pubDate>Tue, 22 Mar 2022 08:23:16 GMT</pubDate>
             <content:encoded><![CDATA[고급 위협 행위자로 추정되는 한 해킹 단체가 새로운 공격 기법으로 프랑스의 정부 기관과 부동산 업체, 건설 회사들을 공략했다. 이 단체는 오픈소스 도구들과...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/qm-thumb-0322.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[화웨이 인터내셔널, 싱가포르 IMDA로부터 ‘데이터 보호 신뢰 마크’ 인증 획득]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105597&amp;page=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105597&amp;page=1&amp;kind=3</guid>
-            <pubDate>Tue, 22 Mar 2022 07:16:50 GMT</pubDate>
-            <content:encoded><![CDATA[화웨이는 싱가포르 자회사인 화웨이 인터내셔널이 싱가포르 정보통신 미디어 개발청(Infocomm Media Development Authority, IMDA...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/huawei_032201_main.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
