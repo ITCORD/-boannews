@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Mar 2022 12:30:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Mar 2022 13:28:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -32,14 +32,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/ai-thumb-0317.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[사이버 공간은 전쟁터, 많은 보안 서비스가 무료로 풀려야 한다]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105538&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105538&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Sun, 20 Mar 2022 01:02:21 GMT</pubDate>
-            <content:encoded><![CDATA[지난 2016년 악명 높은 해킹 그룹인 라자루스(Lazarus)는 SWIFT라는 국제 은행 간 통신 시스템으로부터 10억 달러를 훔치려고 했었다. 어떤 공격 기법...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/muryo-thumb00318.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[러시아에 항의한다면서 소프트웨어 공급망 공격을 한 개발자]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105567&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105567&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
@@ -48,20 +40,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/supply-thumb-0321.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[사이버 공간은 전쟁터, 많은 보안 서비스가 무료로 풀려야 한다]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105538&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105538&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Sun, 20 Mar 2022 01:02:21 GMT</pubDate>
+            <content:encoded><![CDATA[지난 2016년 악명 높은 해킹 그룹인 라자루스(Lazarus)는 SWIFT라는 국제 은행 간 통신 시스템으로부터 10억 달러를 훔치려고 했었다. 어떤 공격 기법...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/muryo-thumb00318.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[미국에서 시행되기 시작한 ‘사건 고지 의무화’ 규정, 어떤 의미인가?]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105507&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105507&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Sat, 19 Mar 2022 08:18:53 GMT</pubDate>
             <content:encoded><![CDATA[이번 주 미국의 바이든 대통령은 새로운 법안에 서명을 했다. 그러면서 ‘사이버 사건 보고 법(Cyber Incident Reporting Act)’이라는 규정을 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/rep-thumb-0317.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[모바일 애플리케이션 백엔드 정보, 무방비로 노출되어 있다]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105481&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105481&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Thu, 17 Mar 2022 12:28:34 GMT</pubDate>
-            <content:encoded><![CDATA[공개된 파이어베이스(Firebase) 데이터베이스를 간단히 검색했더니 2100개가 넘는 모바일 에플리케이션용 데이터저장소가 있는 그대로 노출되어 있다는 사실이 발...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/clo-thumb-0316.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[해킹그룹 랩서스 LG전자 해킹 발표... 러시아와의 연관성 있을까?]]></title>
@@ -152,6 +144,14 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/pan-thumb0-0317.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[北 김수키, 코인관련 내용의 워드 문서를 이용한 APT 공격중]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105599&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105599&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Wed, 23 Mar 2022 08:22:30 GMT</pubDate>
+            <content:encoded><![CDATA[미국이 북한의 해킹그룹으로 지목한 김수키(Kimsuky) 그룹이 코인관련 내용의 워드문서로 APT 공격을 수행중인 것을 안랩 ASEC 분석팀이 확인했다고 밝혔다....]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/kimsuky_032201_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[지스트 블록체인지능융합센터, SCI급 저널에 논문 게재]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105544&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105544&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
@@ -160,12 +160,12 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/3-193(295).jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[北 김수키, 코인관련 내용의 워드 문서를 이용한 APT 공격중]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105599&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105599&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Wed, 23 Mar 2022 08:22:30 GMT</pubDate>
-            <content:encoded><![CDATA[미국이 북한의 해킹그룹으로 지목한 김수키(Kimsuky) 그룹이 코인관련 내용의 워드문서로 APT 공격을 수행중인 것을 안랩 ASEC 분석팀이 확인했다고 밝혔다....]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/kimsuky_032201_main.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[문재인 정부 “국방부 이전 계획 무리... 안보문제 등 검토해야”]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105566&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105566&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
+            <pubDate>Wed, 23 Mar 2022 13:26:40 GMT</pubDate>
+            <content:encoded><![CDATA[청와대가 NSC 확대관계장관회의를 개최하고 차기정부의 국방부 집무실 이전과 관련해 촉박한 이전은 안보 공백우려가 있을 수 있다고 지적했다. 다만 문재인 대통령도 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/blue_032101_main.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
