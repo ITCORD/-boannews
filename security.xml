@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-03-23T06:24:18.940Z</updated>
+    <updated>2022-03-23T07:19:50.160Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[KISA, 올해 기업의 최정예 정보보호 전문인력 1,000명 양성한다]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=105617&amp;page=1&amp;mkind=1&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=105617&amp;page=1&amp;mkind=1&amp;kind=2"/>
+        <updated>2022-03-23T07:17:45.818Z</updated>
+        <content type="html"><![CDATA[한국인터넷진흥원(KISA, 원장 이원태)은 고용노동부, 한국산업인력공단과 함께 정보보호 분야 재직자의 직무 전문성 향상을 위한 2022년 ‘최정예 정보보호 전문인력(K-Shield, 케이쉴드) 양성 교육’을 오는 4월 13일(수)부터 실시한다고 밝혔다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[어나니머스, 네슬레 해킹해 10GB 데이터 유출해]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=105621&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=105621&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-03-23T07:17:45.830Z</updated>
+        <content type="html"><![CDATA[국제적인 핵티비스트 단체인 어나니머스가 스위스의 음식료품 회사인 네슬레를 해킹해 10GB의 데이터를 유출했다. 네슬레가 우크라이나를 침공한 러시아에서 계속해서 사업을 이어가고 있기 때문이라고 주장했다. 그러면서 어나니머스는 앞으로 러시아에서 사업을 진행하는 모든 기업들...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[마이크로소프트도 랩서스에 해킹 당했다?]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=105620&amp;page=1&amp;mkind=1&amp;kind=1</id>
@@ -109,19 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=105590&amp;page=1&amp;mkind=1&amp;kind=1"/>
         <updated>2022-03-22T04:20:47.606Z</updated>
         <content type="html"><![CDATA[IT 외신인 블리핑컴퓨터에 의하면 안드로이드의 공식 앱 스토어인 플레이 스토어에 새로운 멀웨어가 출현했고, 이미 10만 번 이상 다운로드 됐다고 한다. 이 앱은 사진을 만화 그림체로 변형시켜주는 Craftsart Cartoon Photo Tools라는 이름으로 위장되어...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[새로운 BitB 공격, 피싱을 보이지 않게 만들어]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=105589&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=105589&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-03-22T02:52:27.116Z</updated>
-        <content type="html"><![CDATA[보안 외신 해커뉴스에 의하면 ‘브라우저 인더 브라우저(Browser in the Browser)’라는 공격 기법이 나타났다고 한다. 브라우저 창 안에서 또 다른 브라우저 창이 열린 것처럼 꾸밈으로써 사용자들을 속이는 것이다. 이는 ‘싱글사인온(SSO)’ 옵션이 임베드 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[울산시, 인공지능 기반 지능형 횡단보도 체계 시범 구축]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=105569&amp;page=1&amp;mkind=1&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=105569&amp;page=1&amp;mkind=1&amp;kind=2"/>
-        <updated>2022-03-22T02:52:27.118Z</updated>
-        <content type="html"><![CDATA[울산시는 교통약자 및 보행자의 도로 보행안전을 위한 ‘지능형(스마트) 횡단보도 체계(시스템)’를 시청 앞 횡단보도에 시범 구축하고 운영에 들어간다고 밝혔다.]]></content>
     </entry>
 </feed>

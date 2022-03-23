@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Mar 2022 06:24:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Mar 2022 07:19:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,14 +14,6 @@
             <pubDate>Thu, 17 Mar 2022 22:19:54 GMT</pubDate>
             <content:encoded><![CDATA[최근 파일공유 사이트에 ‘불법 윈도우 정품인증 툴’로 위장한 파일을 올려 악성코드를 유포하는 사례가 발견돼 사용자의 주의가 당부된다.]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/ahn_031701_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지난 주 발견된 더티파이프 취약점, 큐냅 NAS 장비들에서도 추가로 발견돼]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105477&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105477&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Thu, 17 Mar 2022 01:03:14 GMT</pubDate>
-            <content:encoded><![CDATA[대만의 NAS 제조사인 큐냅(QNAP)이 자사 제품 일부에서 심각한 리눅스 관련 취약점을 발견했다고 발표했다. 이 취약점은 더티파이프(Dirty Pipe)라고 불...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/pipe-thumb-0316.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[해커들을 공격하는 해커! 악성코드 제작 툴 위장 악성코드 유포]]></title>
@@ -166,6 +158,14 @@
             <pubDate>Wed, 23 Mar 2022 03:30:02 GMT</pubDate>
             <content:encoded><![CDATA[지스트(광주과학기술원) 블록체인지능융합센터의 연구 성과가 SCI급 학술지에 잇달아 게재되며 성과를 인정받았다. 블록체인지능융합센터(BIC)는 지난해 7월, 과학기...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/3-193(295).jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[문재인 정부 “국방부 이전 계획 무리... 안보문제 등 검토해야”]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105566&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105566&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
+            <pubDate>Wed, 23 Mar 2022 07:17:34 GMT</pubDate>
+            <content:encoded><![CDATA[청와대가 NSC 확대관계장관회의를 개최하고 차기정부의 국방부 집무실 이전과 관련해 촉박한 이전은 안보 공백우려가 있을 수 있다고 지적했다. 다만 문재인 대통령도 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/blue_032101_main.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

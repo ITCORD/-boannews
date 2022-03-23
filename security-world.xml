@@ -4,9 +4,17 @@
         <title>보안뉴스 ─ Security World</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 23 Mar 2022 06:24:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Mar 2022 07:19:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[캡스텍, ‘캡스클린케어’ 서비스 BI 교체하고 마스...]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105622&amp;mkind=5</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105622&amp;mkind=5</guid>
+            <pubDate>Wed, 23 Mar 2022 07:18:17 GMT</pubDate>
+            <content:encoded><![CDATA[종합시설관리 전문기업 캡스텍(대표이사 천세훈)은 전문 살균 방제 서비스 ‘캡스클린케어’의 브랜드 아이덴티티(Brand Identity, 이하 BI)를 교...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/22032301ss.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[알체라, 산불 잡는 AI 솔루션 ‘FireScout...]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105587&amp;mkind=5</link>
@@ -14,14 +22,6 @@
             <pubDate>Tue, 22 Mar 2022 04:21:17 GMT</pubDate>
             <content:encoded><![CDATA[영상인식 AI 기업 알체라가 미국 3대 지상파 방송사 중 하나인 ABC 방송의 특집 다큐 ‘STAYING ALERT: Wildfire Prevention’...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/22032201ss.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[인텔리빅스, Vision AI 기술 기반 CCTV ...]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105563&amp;mkind=5</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105563&amp;mkind=5</guid>
-            <pubDate>Mon, 21 Mar 2022 06:22:15 GMT</pubDate>
-            <content:encoded><![CDATA[Vision AI 전문업체 인텔리빅스는 CCTV 영상뿐만 아니라 이동형 드론을 활용해 실시간으로 불꽃 및 연기를 감지하는 솔루션을 상용화해 제공하고 있다....]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/22032102ss.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
