@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-03-24T06:23:37.929Z</updated>
+    <updated>2022-03-24T07:18:01.638Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[국내 정보보호 기업, 북미시장에서 혁신기술 선보인다]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=105653&amp;page=1&amp;mkind=1&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=105653&amp;page=1&amp;mkind=1&amp;kind=3"/>
+        <updated>2022-03-24T07:16:03.335Z</updated>
+        <content type="html"><![CDATA[한국정보보호산업협회(KISIA, 회장 이동범)와 KOTRA(사장 유정열)는 3월 23일부터 25일(현지시간)까지 미국 라스베이거스에서 열리는 ‘ISC WEST 2022’ 전시회에서 한국공동관을 운영한다고 밝혔다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한국화웨이 손루원 CEO, ‘데이터센터 산업이 지능화, 저탄소화로 발전토록 적극 지원’]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=105652&amp;page=1&amp;mkind=1&amp;kind=3</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=105618&amp;page=1&amp;mkind=1&amp;kind=2"/>
         <updated>2022-03-23T08:22:41.102Z</updated>
         <content type="html"><![CDATA[국가 차원에서 국내·외 보안 취약점을 체계적으로 수집·관리하고 수집된 정보를 다양한 이용자가 편리하게 확인·개선할 수 있도록 하는 ‘사이버보안 취약점 정보포털(이하 ‘취약점 정보포털’)’ 서비스가 3월 24일부터 본격 개시한다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KISA, 올해 기업의 최정예 정보보호 전문인력 1,000명 양성한다]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=105617&amp;page=1&amp;mkind=1&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=105617&amp;page=1&amp;mkind=1&amp;kind=2"/>
-        <updated>2022-03-23T07:17:45.818Z</updated>
-        <content type="html"><![CDATA[한국인터넷진흥원(KISA, 원장 이원태)은 고용노동부, 한국산업인력공단과 함께 정보보호 분야 재직자의 직무 전문성 향상을 위한 2022년 ‘최정예 정보보호 전문인력(K-Shield, 케이쉴드) 양성 교육’을 오는 4월 13일(수)부터 실시한다고 밝혔다.]]></content>
     </entry>
 </feed>
