@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=4</id>
     <title>보안뉴스 ─ SAFETY</title>
-    <updated>2022-03-23T23:20:09.763Z</updated>
+    <updated>2022-03-24T01:08:40.152Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[대구소방, 주택용 소방시설 보급률 올해 70% 이상 목표]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=105548&amp;page=1&amp;mkind=4&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=105548&amp;page=1&amp;mkind=4&amp;kind=2"/>
+        <updated>2022-03-24T01:06:51.359Z</updated>
+        <content type="html"><![CDATA[대구소방안전본부는 올해 주택용 소방시설 보급률 70% 이상을 목표로 3만여가구에 보급한다고 밝혔다. 최근 10년간 대구지역 화재 1만5,415건 가운데 주택화재는 2,371건으로 전체 화재의 15.4%가량을 차지했다. 그에 비해 주택화재로 인한 사망자는 46명으로 전체...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[공항철도, ‘안전한국훈련’ 대통령 기관표창]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=105547&amp;page=1&amp;mkind=4&amp;kind=2</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=105379&amp;page=1&amp;mkind=4&amp;kind=2"/>
         <updated>2022-03-15T02:40:54.452Z</updated>
         <content type="html"><![CDATA[서울시 소방재난본부는 증가하는 구급출동 수요에 대응해 구급차 안전 관리를 강화하기 위한 구급차 전담 정비센터를 운영한다고 밝혔다. 구급차 전담 정비센터는 도봉구에 위치한 기존 소방차량 정비센터를 전환한 시설로, 구급차 전용 정비에 필요한 장비 등을 갖추고 자동차 정비 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대구시, 화재취약계층에 주택용 소방시설 무상 보급]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=105366&amp;page=1&amp;mkind=4&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=105366&amp;page=1&amp;mkind=4&amp;kind=2"/>
-        <updated>2022-03-15T02:40:54.452Z</updated>
-        <content type="html"><![CDATA[대구시는 화재취약계층이 거주하는 주택의 화재로 인한 인명피해를 최소화하고 주거공간의 안전성을 제고하기 위해 6,000가구에 주택용 소방시설을 무상 보급한다.]]></content>
     </entry>
 </feed>

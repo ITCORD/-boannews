@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-03-23T23:20:09.752Z</updated>
+    <updated>2022-03-24T01:08:40.151Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[웹하드에서 ‘오피스+정품 인증 툴’ 받다간 악성코드 감염된다!]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=105626&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=105626&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-03-24T01:06:28.446Z</updated>
+        <content type="html"><![CDATA[최근 ‘윈도우 정품인증 툴’로 위장한 BitRAT 악성코드가 이번에는 ‘오피스 정품인증 툴’로 위장해 유포되고 있어 사용자들의 주의가 요구된다. 안랩 ASEC 분석팀은 BitRAT 악성코드가 유포 파일을 변경해 오피스 설치 프로그램을 통해 피해자들을 유인하고 있다고 밝...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[삼성과 LG 해킹한 랩서스, 옥타와 마이크로소프트도 뚫었다]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=105625&amp;page=1&amp;mkind=1&amp;kind=1</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=105595&amp;page=1&amp;mkind=1&amp;kind=3"/>
         <updated>2022-03-22T09:18:06.791Z</updated>
         <content type="html"><![CDATA[제로 트러스트 보안 스타트업 스파이스웨어는 ‘스파이스웨어 원(One)과 ‘스파이스웨어 PII ANP’가 NHN 클라우드 마켓플레이스에 등록됐다고 22일 밝혔다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[공공분야에 체계적이고 엄격한 개인정보보호 추진한다]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=105594&amp;page=1&amp;mkind=1&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=105594&amp;page=1&amp;mkind=1&amp;kind=2"/>
-        <updated>2022-03-22T08:23:37.455Z</updated>
-        <content type="html"><![CDATA[최근 공공기관에서 개인정보보호 유출사고가 발생하는 등 개인정보보호의 엄중함을 인식하고 국민의 민감한 개인정보를 다수 취급하고 있는 65개 소속·산하기관을 대상으로 개인정보보호를 위한 실행계획을 수립했다고 과학기술정보통신부(장관 임혜숙, 이하 ‘과기정통부’)가 밝혔다.]]></content>
     </entry>
 </feed>
