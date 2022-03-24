@@ -4,9 +4,25 @@
         <title>보안뉴스 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Mar 2022 05:18:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Mar 2022 06:23:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[위조 프린터 부품·소모품 얼마나 있을까? 팬데믹으로 판매 확산중]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105655&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105655&amp;page=1&amp;kind=1</guid>
+            <pubDate>Thu, 24 Mar 2022 06:21:12 GMT</pubDate>
+            <content:encoded><![CDATA[프린터는 자체의 판매보다는 사용하면서 쓰게 될 부품과 잉크 등 소모품의 판매가 핵심인 제품이다. 때문에 일부 사용자들은 가격 등의 이유로 재생품 혹은 무한...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20947297_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[쿠바 랜섬웨어 조직, 현대파워텍 해킹해 내부 파일 유출 주장]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105654&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105654&amp;page=1&amp;kind=1</guid>
+            <pubDate>Thu, 24 Mar 2022 06:21:12 GMT</pubDate>
+            <content:encoded><![CDATA[쿠바 랜섬웨어 해커조직이 현대파워텍의 내부 파일을 해킹으로 유출했다고 공지했다. 이들은 피해기업을 공개하는 릭(leak) 페이지에 현대파워텍의 회사 소개와...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220324CUBA-S.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[모든 네트워크에서 빠르게 늘어나는 ‘비밀’, 엑셀표로는 지킬 수 없다]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105628&amp;page=1&amp;kind=1</link>
@@ -70,22 +86,6 @@
             <pubDate>Wed, 23 Mar 2022 14:15:16 GMT</pubDate>
             <content:encoded><![CDATA[미국의 사모펀드인 심포니테크놀로지그룹(Symphony Technology Group, STG)이 새로운 보안 회사를 런칭했다. 이름은 스카이하이 시큐리티(...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/div-thumb-0323.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘보안 취약점 정보 포털’ 오픈한다는데... 버그바운티가 더 중요해지는 이유]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105627&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105627&amp;page=1&amp;kind=2</guid>
-            <pubDate>Wed, 23 Mar 2022 09:17:21 GMT</pubDate>
-            <content:encoded><![CDATA[사이버위협의 주요 요인이 되고 있는 보안 취약점은 무엇보다 신속하게 발견하여 조치하는 것이 중요하다. 이에 정부는 국가 차원에서 국내·외 보안 취약점을 체...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220323bug-s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[웹하드에서 ‘오피스+정품 인증 툴’ 받다간 악성코드 감염된다!]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105626&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105626&amp;page=1&amp;kind=1</guid>
-            <pubDate>Wed, 23 Mar 2022 09:17:21 GMT</pubDate>
-            <content:encoded><![CDATA[최근 ‘윈도우 정품인증 툴’로 위장한 BitRAT 악성코드가 이번에는 ‘오피스 정품인증 툴’로 위장해 유포되고 있어 사용자들의 주의가 요구된다. 안랩 AS...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/ahn_032301_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[국내 정보보호 기업, 북미시장에서 혁신기술 선보인다]]></title>
@@ -218,28 +218,28 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/22032302ss.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[‘보안 취약점 정보 포털’ 오픈한다는데... 버그바운티가 더 중요해지는 이유]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105627&amp;page=1&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105627&amp;page=1&amp;kind=2</guid>
+            <pubDate>Wed, 23 Mar 2022 09:17:21 GMT</pubDate>
+            <content:encoded><![CDATA[사이버위협의 주요 요인이 되고 있는 보안 취약점은 무엇보다 신속하게 발견하여 조치하는 것이 중요하다. 이에 정부는 국가 차원에서 국내·외 보안 취약점을 체...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220323bug-s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[웹하드에서 ‘오피스+정품 인증 툴’ 받다간 악성코드 감염된다!]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105626&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105626&amp;page=1&amp;kind=1</guid>
+            <pubDate>Wed, 23 Mar 2022 09:17:21 GMT</pubDate>
+            <content:encoded><![CDATA[최근 ‘윈도우 정품인증 툴’로 위장한 BitRAT 악성코드가 이번에는 ‘오피스 정품인증 툴’로 위장해 유포되고 있어 사용자들의 주의가 요구된다. 안랩 AS...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/ahn_032301_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[삼성과 LG 해킹한 랩서스, 옥타와 마이크로소프트도 뚫었다]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105625&amp;page=1&amp;kind=1</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105625&amp;page=1&amp;kind=1</guid>
             <pubDate>Wed, 23 Mar 2022 08:22:19 GMT</pubDate>
             <content:encoded><![CDATA[최근 활동력을 높이고 있는 랜섬웨어 그룹 랩서스(LAPSUS$)가 이번 주 마이크로소프트로부터 소스코드와 옥타의 관리자 계정 크리덴셜을 훔치는 데 성공했다...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/aut-thumb-0323.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[차세대 보안리더 양성 프로그램 ‘BoB 10기’ 온라인 인증식 개최]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105624&amp;page=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105624&amp;page=1&amp;kind=3</guid>
-            <pubDate>Wed, 23 Mar 2022 07:17:23 GMT</pubDate>
-            <content:encoded><![CDATA[과학기술정보통신부(장관 임혜숙)가 주최하고 한국정보기술연구원(원장 유준상, 이하 KITRI)이 주관하는 차세대 보안리더 양성 프로그램 Best of the...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/bob_032301_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[캡스텍, ‘캡스클린케어’ 서비스 BI 교체하고 마스코트 도입]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105622&amp;page=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105622&amp;page=1&amp;kind=3</guid>
-            <pubDate>Wed, 23 Mar 2022 07:17:23 GMT</pubDate>
-            <content:encoded><![CDATA[종합시설관리 전문기업 캡스텍(대표이사 천세훈)은 전문 살균 방제 서비스 ‘캡스클린케어’의 브랜드 아이덴티티(Brand Identity, 이하 BI)를 교...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/22032301ss.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

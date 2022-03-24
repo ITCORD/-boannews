@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-03-24T05:18:40.980Z</updated>
+    <updated>2022-03-24T06:23:37.929Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한국화웨이 손루원 CEO, ‘데이터센터 산업이 지능화, 저탄소화로 발전토록 적극 지원’]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=105652&amp;page=1&amp;mkind=1&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=105652&amp;page=1&amp;mkind=1&amp;kind=3"/>
+        <updated>2022-03-24T06:21:36.637Z</updated>
+        <content type="html"><![CDATA[한국화웨이는 지난 22일, ‘지능형 데이터 센터, 미래를 짓다’라는 주제로 ‘2022 화웨이코리아 IDC 에너지 서밋’을 성황리에 개최했다고 밝혔다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[모든 네트워크에서 빠르게 늘어나는 ‘비밀’, 엑셀표로는 지킬 수 없다]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=105628&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=105628&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-03-24T06:21:36.637Z</updated>
+        <content type="html"><![CDATA[오늘날의 디지털 사업 환경에서 우리는 상업적으로 개발된 기성 애플리케이션이나 회사 내부에서 직접 생산된 애플리케이션들에 대한 의존도를 점점 높이는 중이다. 또한 더 많은 결과물을 더 빨리 시장에 내놓아야 경쟁이 되는 시대이기 때문에 IT 인프라에는 점점 더 많은 자동화...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[삼성·LG전자부터 MS·옥타까지 뚫렸다! ‘랩서스’ 해커그룹 집중 추적기]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=105642&amp;page=1&amp;mkind=1&amp;kind=1</id>
@@ -109,19 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=105617&amp;page=1&amp;mkind=1&amp;kind=2"/>
         <updated>2022-03-23T07:17:45.818Z</updated>
         <content type="html"><![CDATA[한국인터넷진흥원(KISA, 원장 이원태)은 고용노동부, 한국산업인력공단과 함께 정보보호 분야 재직자의 직무 전문성 향상을 위한 2022년 ‘최정예 정보보호 전문인력(K-Shield, 케이쉴드) 양성 교육’을 오는 4월 13일(수)부터 실시한다고 밝혔다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어나니머스, 네슬레 해킹해 10GB 데이터 유출해]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=105621&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=105621&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-03-23T07:17:45.830Z</updated>
-        <content type="html"><![CDATA[국제적인 핵티비스트 단체인 어나니머스가 스위스의 음식료품 회사인 네슬레를 해킹해 10GB의 데이터를 유출했다. 네슬레가 우크라이나를 침공한 러시아에서 계속해서 사업을 이어가고 있기 때문이라고 주장했다. 그러면서 어나니머스는 앞으로 러시아에서 사업을 진행하는 모든 기업들...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마이크로소프트도 랩서스에 해킹 당했다?]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=105620&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=105620&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-03-23T03:30:13.216Z</updated>
-        <content type="html"><![CDATA[보안 외신 핵리드에 의하면 랩서스 해커들의 거침없는 진격이 이어지고 있다고 한다. 랩서스는 최근 마이크로소프트로부터 각종 데이터를 훔쳐냈다고 주장하고 나섰다. 주로 마이크로소프트 애저의 데브옵스 계정들에 관한 데이터들이라고 한다. 마이크로소프트는 사실 확인에 나섰고, ...]]></content>
     </entry>
 </feed>
