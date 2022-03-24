@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-03-24T07:18:01.638Z</updated>
+    <updated>2022-03-24T08:23:30.369Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[위조 프린터 부품·소모품 얼마나 있을까? 팬데믹으로 판매 확산중]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=105655&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=105655&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-03-24T08:21:22.333Z</updated>
+        <content type="html"><![CDATA[프린터는 자체의 판매보다는 사용하면서 쓰게 될 부품과 잉크 등 소모품의 판매가 핵심인 제품이다. 때문에 일부 사용자들은 가격 등의 이유로 재생품 혹은 무한잉크라 불리는 대체품이나 위조품을 사용하며, 제조사들은 위조품의 적발에 노력하고 있다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[쿠바 랜섬웨어 조직, 현대파워텍 해킹해 내부 파일 유출 주장]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=105654&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=105654&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-03-24T08:21:22.335Z</updated>
+        <content type="html"><![CDATA[쿠바 랜섬웨어 해커조직이 현대파워텍의 내부 파일을 해킹으로 유출했다고 공지했다. 이들은 피해기업을 공개하는 릭(leak) 페이지에 현대파워텍의 회사 소개와 함께 웹사이트, 유출 파일을 다운로드 할 수 있는 기한, 그리고 유출 파일 종류에 대해 나열하고 다운로드 링크를 ...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[국내 정보보호 기업, 북미시장에서 혁신기술 선보인다]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=105653&amp;page=1&amp;mkind=1&amp;kind=3</id>
@@ -109,19 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=105624&amp;page=1&amp;mkind=1&amp;kind=3"/>
         <updated>2022-03-23T09:17:43.599Z</updated>
         <content type="html"><![CDATA[과학기술정보통신부(장관 임혜숙)가 주최하고 한국정보기술연구원(원장 유준상, 이하 KITRI)이 주관하는 차세대 보안리더 양성 프로그램 Best of the Best(이하 BoB)의 10기 인증식을 오는 3월 31일(목), CCMM빌딩(국민일보 사옥) 12층 그랜드볼룸에...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[클라우드 서비스 사용시 안전한 인증수단 안쓰면 해킹당할 가능성 높다]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=105623&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=105623&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-03-23T09:17:43.600Z</updated>
-        <content type="html"><![CDATA[최근 디지털 전환 등의 이유로 클라우드 서비스 이용이 늘어나고 있는 상황에서 안전한 인증수단을 쓰지 않아 해커에게 관리자 권한을 탈취당한 기업들이 고객정보를 유출해 큰 충격을 주고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[보안 취약점 수집·관리 위한 ‘사이버보안 취약점 정보포털’ 나온다]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=105618&amp;page=1&amp;mkind=1&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=105618&amp;page=1&amp;mkind=1&amp;kind=2"/>
-        <updated>2022-03-23T08:22:41.102Z</updated>
-        <content type="html"><![CDATA[국가 차원에서 국내·외 보안 취약점을 체계적으로 수집·관리하고 수집된 정보를 다양한 이용자가 편리하게 확인·개선할 수 있도록 하는 ‘사이버보안 취약점 정보포털(이하 ‘취약점 정보포털’)’ 서비스가 3월 24일부터 본격 개시한다.]]></content>
     </entry>
 </feed>
