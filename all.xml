@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 24 Mar 2022 03:26:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Mar 2022 04:24:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[삼성·LG전자부터 MS·옥타까지 뚫렸다! ‘랩서스’ 해커그룹 집중 추적기 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105642&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105642&amp;page=1&amp;kind=1</guid>
+            <pubDate>Thu, 24 Mar 2022 04:22:20 GMT</pubDate>
+            <content:encoded><![CDATA[최근 엔비디아(NVIDIA)와 유비소프트(UBISOFT) 등 글로벌 기업은 물론 삼성전자와 LG전자 등 한국기업을 해킹해 유명세를 떨친 랩서스(LAPSUS...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/s2w_032401_main.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[FBI, 러시아 사이버 범죄 시장 운영자를 ‘수배자 명단’에 올려 (보안뉴스 ─ 전체기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105647&amp;page=1&amp;kind=1</link>
@@ -80,12 +88,36 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/aut-thumb-0323.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[클라우드 서비스 사용시 안전한 인증수단 안쓰면 해킹당할 가능성 높다 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105623&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105623&amp;page=1&amp;kind=1</guid>
-            <pubDate>Wed, 23 Mar 2022 07:17:23 GMT</pubDate>
-            <content:encoded><![CDATA[최근 디지털 전환 등의 이유로 클라우드 서비스 이용이 늘어나고 있는 상황에서 안전한 인증수단을 쓰지 않아 해커에게 관리자 권한을 탈취당한 기업들이 고객정보...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20739731_main.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[SK쉴더스, ‘산업제어시스템’ 보안 특허 취득하며 안전한 스마트공장 구축 선도 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105651&amp;page=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105651&amp;page=1&amp;kind=3</guid>
+            <pubDate>Thu, 24 Mar 2022 04:22:20 GMT</pubDate>
+            <content:encoded><![CDATA[SK쉴더스(대표이사 박진효)는 산업제어시스템(Industry Control System. 이하 ICS) 통합 보안 관리와 관련한 특허 취득을 완료했다고 2...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/22032404ss.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[유니온커뮤니티, ‘ISC WEST 2022’에서 트리플모달 생체인식 단말기 선보여 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105650&amp;page=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105650&amp;page=1&amp;kind=3</guid>
+            <pubDate>Thu, 24 Mar 2022 04:22:20 GMT</pubDate>
+            <content:encoded><![CDATA[국내 최대 멀티모달 생체인식 보안 솔루션기업 유니온커뮤니티(대표이사 신요식)가 3월 23일부터 25일까지 미국, 라스베가스에서 열리는 보안 전시회 ‘ISC...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/22032403ss.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[슈프리마, 미국 최대 규모 보안 전시회 참여하며 북미 시장 공략 선언 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105649&amp;page=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105649&amp;page=1&amp;kind=3</guid>
+            <pubDate>Thu, 24 Mar 2022 04:22:20 GMT</pubDate>
+            <content:encoded><![CDATA[바이오인식 및 통합보안 전문기업 슈프리마(대표 이재원, 김한철)가 3월 23일부터 25일까지 미국 라스베이거스에서 진행되는 미국 최대 규모의 보안 전시회 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/22032401ss.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한화테크윈, 美 라스베가스에서 AI 영상 솔루션 선봬 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105648&amp;page=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105648&amp;page=1&amp;kind=3</guid>
+            <pubDate>Thu, 24 Mar 2022 04:22:20 GMT</pubDate>
+            <content:encoded><![CDATA[글로벌 영상솔루션 기업 한화테크윈(대표이사 안순홍)이 23일부터 25일까지 미국 라스베가스에서 열리는 미국 최대 보안 전시회 ‘ISC West 2022’에...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/22032402ss.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[경기도, 도내 중소기업에 데이터 활용·디지털 전환 지원 (보안뉴스 ─ 전체기사)]]></title>
@@ -186,6 +218,14 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/22032301ss.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[클라우드 서비스 사용시 안전한 인증수단 안쓰면 해킹당할 가능성 높다 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105623&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105623&amp;page=1&amp;kind=1</guid>
+            <pubDate>Wed, 23 Mar 2022 07:17:23 GMT</pubDate>
+            <content:encoded><![CDATA[최근 디지털 전환 등의 이유로 클라우드 서비스 이용이 늘어나고 있는 상황에서 안전한 인증수단을 쓰지 않아 해커에게 관리자 권한을 탈취당한 기업들이 고객정보...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20739731_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[보안 취약점 수집·관리 위한 ‘사이버보안 취약점 정보포털’ 나온다 (보안뉴스 ─ 전체기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105618&amp;page=1&amp;kind=2</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105618&amp;page=1&amp;kind=2</guid>
@@ -200,46 +240,6 @@
             <pubDate>Wed, 23 Mar 2022 03:29:51 GMT</pubDate>
             <content:encoded><![CDATA[한국인터넷진흥원(KISA, 원장 이원태)은 고용노동부, 한국산업인력공단과 함께 정보보호 분야 재직자의 직무 전문성 향상을 위한 2022년 ‘최정예 정보보호...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/K-Shield_032301_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[어나니머스, 네슬레 해킹해 10GB 데이터 유출해 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105621&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105621&amp;page=1&amp;kind=1</guid>
-            <pubDate>Wed, 23 Mar 2022 03:29:51 GMT</pubDate>
-            <content:encoded><![CDATA[국제적인 핵티비스트 단체인 어나니머스가 스위스의 음식료품 회사인 네슬레를 해킹해 10GB의 데이터를 유출했다. 네슬레가 우크라이나를 침공한 러시아에서 계속...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/nes-thumb-0323.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마이크로소프트도 랩서스에 해킹 당했다? (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105620&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105620&amp;page=1&amp;kind=1</guid>
-            <pubDate>Wed, 23 Mar 2022 03:29:51 GMT</pubDate>
-            <content:encoded><![CDATA[보안 외신 핵리드에 의하면 랩서스 해커들의 거침없는 진격이 이어지고 있다고 한다. 랩서스는 최근 마이크로소프트로부터 각종 데이터를 훔쳐냈다고 주장하고 나섰...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/breach-thumb-0323.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[옥타, 랩서스 그룹의 데이터 침해 주장에 대한 조사 시작 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105619&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105619&amp;page=1&amp;kind=1</guid>
-            <pubDate>Wed, 23 Mar 2022 03:29:51 GMT</pubDate>
-            <content:encoded><![CDATA[IT 외신 블리핑컴퓨터에 의하면 엔비디아, 삼성, LG 등을 해킹한 그룹인 랩서스(Lapsus$)가 텔레그램에 사진을 하나 업로드 했다고 한다. 인증과 접...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/hacked-thumb-0323.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[새롭게 떠오르는 통신 서비스, ‘사설 5G 네트워크’ (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105584&amp;page=1&amp;kind=4</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105584&amp;page=1&amp;kind=4</guid>
-            <pubDate>Wed, 23 Mar 2022 03:29:51 GMT</pubDate>
-            <content:encoded><![CDATA[지난 3개월 동안 많은 변화가 있었다. 특히 기업용 ‘사설 5G 네트워크 서비스’라는 기술에 있어서 더 그랬다. 하지만 그 변화라는 것이 아직 보편화나 일...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/5gb-thumb-0322.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[컴트루테크놀로지, ‘이미지 속 개인정보 진단 캠페인’ 4월말까지 진행 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105616&amp;page=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105616&amp;page=1&amp;kind=3</guid>
-            <pubDate>Wed, 23 Mar 2022 03:29:51 GMT</pubDate>
-            <content:encoded><![CDATA[인공지능 및 정보보안 전문 기업인 컴트루테크놀로지(대표 박노현)는 전국 지자체, 공공기관, 정보보호 공시제도 의무 기업을 대상으로 개인정보 유출 방지를 위...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/com_032301_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[해커들을 공격하는 해커! 악성코드 제작 툴 위장 악성코드 유포 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
@@ -266,20 +266,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/ai-thumb-0317.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[미국에서 시행되기 시작한 ‘사건 고지 의무화’ 규정, 어떤 의미인가? (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105507&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105507&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Sat, 19 Mar 2022 08:18:53 GMT</pubDate>
-            <content:encoded><![CDATA[이번 주 미국의 바이든 대통령은 새로운 법안에 서명을 했다. 그러면서 ‘사이버 사건 보고 법(Cyber Incident Reporting Act)’이라는 규정을 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/rep-thumb-0317.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[해킹그룹 랩서스 LG전자 해킹 발표... 러시아와의 연관성 있을까? (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105593&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105593&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Wed, 23 Mar 2022 01:15:05 GMT</pubDate>
             <content:encoded><![CDATA[최근 삼성전자와 엔비디아 등을 해킹한 해외 해킹그룹 랩서스(LAPSUS$)가 22일 LG전자도 해킹했다고 밝혔다. 랩서스는 텔레그램을 통해 LG전자의 해시를 덤프...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/lge_032201_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[미국에서 시행되기 시작한 ‘사건 고지 의무화’ 규정, 어떤 의미인가? (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105507&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105507&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Sat, 19 Mar 2022 08:18:53 GMT</pubDate>
+            <content:encoded><![CDATA[이번 주 미국의 바이든 대통령은 새로운 법안에 서명을 했다. 그러면서 ‘사이버 사건 보고 법(Cyber Incident Reporting Act)’이라는 규정을 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/rep-thumb-0317.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[사이버 공간은 전쟁터, 많은 보안 서비스가 무료로 풀려야 한다 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
@@ -322,20 +322,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/hard-thumb-0317.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[정재동의 창업에세이-3] 창업활동으로 대학이 바뀔 수 있다 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105534&amp;page=1&amp;kind=6&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105534&amp;page=1&amp;kind=6&amp;search=title&amp;find=</guid>
-            <pubDate>Sun, 20 Mar 2022 15:18:29 GMT</pubDate>
-            <content:encoded><![CDATA[대학이 변해야 한다고 말하는 이들이 많다. 변해야 하는 이유는 학생 수가 줄어들고 있어서 생존을 위한 경쟁이 심화될 것이기 때문에 그렇다고 한다. 우리나라 인구구...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220318univer-s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[北 김수키, 코인관련 내용의 워드 문서를 이용한 APT 공격중 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105599&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105599&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Wed, 23 Mar 2022 08:22:30 GMT</pubDate>
             <content:encoded><![CDATA[미국이 북한의 해킹그룹으로 지목한 김수키(Kimsuky) 그룹이 코인관련 내용의 워드문서로 APT 공격을 수행중인 것을 안랩 ASEC 분석팀이 확인했다고 밝혔다....]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/kimsuky_032201_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[정재동의 창업에세이-3] 창업활동으로 대학이 바뀔 수 있다 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105534&amp;page=1&amp;kind=6&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105534&amp;page=1&amp;kind=6&amp;search=title&amp;find=</guid>
+            <pubDate>Sun, 20 Mar 2022 15:18:29 GMT</pubDate>
+            <content:encoded><![CDATA[대학이 변해야 한다고 말하는 이들이 많다. 변해야 하는 이유는 학생 수가 줄어들고 있어서 생존을 위한 경쟁이 심화될 것이기 때문에 그렇다고 한다. 우리나라 인구구...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220318univer-s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[과기정통부, 하이브 랜섬웨어 ‘암호키 복구 도구 개발·배포’ 시작 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
@@ -400,6 +400,13 @@
             <pubDate>Thu, 24 Mar 2022 02:49:03 GMT</pubDate>
             <content:encoded><![CDATA[청와대가 NSC 확대관계장관회의를 개최하고 차기정부의 국방부 집무실 이전과 관련해 촉박한 이전은 안보 공백우려가 있을 수 있다고 지적했다. 다만 문재인 대통령도 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/blue_032101_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[부활한 데드볼트 랜섬웨어, 큐냅 장비들 다시 공격 (보안뉴스 ─ SECURITY)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105645&amp;page=1&amp;mkind=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105645&amp;page=1&amp;mkind=1&amp;kind=1</guid>
+            <pubDate>Thu, 24 Mar 2022 04:22:44 GMT</pubDate>
+            <content:encoded><![CDATA[보안 외신 쓰레트포스트에 의하면 데드볼트(Deadbolt)라는 랜섬웨어가 다시 활동을 시작했다고 한다. 이전에도 그랬듯 대만의 NAS 제조사인 큐냅(QNAP)을 노리고 있으며, 이미 3월 중반부터 피해자들이 나타나고 있는 상황이라고 보안 업체 센시스(Censys)가 경...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[중국의 해킹 그룹 무스탕판다, 새로운 멀웨어 활용 중 (보안뉴스 ─ SECURITY)]]></title>
@@ -512,13 +519,6 @@
             <guid>https://www.boannews.com/media/view.asp?idx=105615&amp;page=1&amp;mkind=1&amp;kind=3</guid>
             <pubDate>Wed, 23 Mar 2022 03:30:13 GMT</pubDate>
             <content:encoded><![CDATA[정보보안 토털서비스 전문기업인 티앤디소프트(대표 최성묵)와 클라우드 보안 솔루션 스타트업 아스트론시큐리티(대표 조근석)는 클라우드 운영 보안시장을 공동으로 확대하기로 하고 22일 솔루션 파트너 제휴 협약식을 맺었다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[온실 가스 줄이기라는 궁극의 목표, 보안 업계의 도움이 필요하다? (보안뉴스 ─ SECURITY)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105614&amp;page=1&amp;mkind=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105614&amp;page=1&amp;mkind=1&amp;kind=3</guid>
-            <pubDate>Wed, 23 Mar 2022 03:30:13 GMT</pubDate>
-            <content:encoded><![CDATA[점점 더 많은 기업들이 ‘지속 가능성’이라는 개념을 사업 행위 안에서 실현시키기 위해 노력하고 있다. 그러면서 온실 가스 배출에 대해 조금 더 신경을 쓰기 시작했는데, 이 때문에 ‘도대체 우리 회사가 얼마나 많은 온실 가스를 배출하고 있는 거야?’라는 질문에 답을 제공...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[식약처, 차세대 의료기기 전 주기 통합 서비스 구축 사업 착수 (보안뉴스 ─ IT)]]></title>
@@ -759,20 +759,34 @@
             <content:encoded><![CDATA[서울시 소방재난본부는 증가하는 구급출동 수요에 대응해 구급차 안전 관리를 강화하기 위한 구급차 전담 정비센터를 운영한다고 밝혔다. 구급차 전담 정비센터는 도봉구에 위치한 기존 소방차량 정비센터를 전환한 시설로, 구급차 전용 정비에 필요한 장비 등을 갖추고 자동차 정비 ...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[씨게이트, 스카이호크 AI 20TB 드라이브로 엣지... (보안뉴스 ─ Security World)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105629&amp;mkind=5</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105629&amp;mkind=5</guid>
-            <pubDate>Wed, 23 Mar 2022 11:15:30 GMT</pubDate>
-            <content:encoded><![CDATA[전 세계 대용량 데이터 스토리지 인프라 솔루션을 선도하는 씨게이트 테크놀로지(Seagate® Technology Holdings plc)가 미국 네바다 주...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/22032302ss.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[SK쉴더스, ‘산업제어시스템’ 보안 특허 취득하며 ... (보안뉴스 ─ Security World)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105651&amp;mkind=5</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105651&amp;mkind=5</guid>
+            <pubDate>Thu, 24 Mar 2022 04:23:16 GMT</pubDate>
+            <content:encoded><![CDATA[SK쉴더스(대표이사 박진효)는 산업제어시스템(Industry Control System. 이하 ICS) 통합 보안 관리와 관련한 특허 취득을 완료했다고 2...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/22032404ss.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[캡스텍, ‘캡스클린케어’ 서비스 BI 교체하고 마스... (보안뉴스 ─ Security World)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105622&amp;mkind=5</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105622&amp;mkind=5</guid>
-            <pubDate>Wed, 23 Mar 2022 07:18:17 GMT</pubDate>
-            <content:encoded><![CDATA[종합시설관리 전문기업 캡스텍(대표이사 천세훈)은 전문 살균 방제 서비스 ‘캡스클린케어’의 브랜드 아이덴티티(Brand Identity, 이하 BI)를 교...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/22032301ss.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[유니온커뮤니티, ‘ISC WEST 2022’에서 트... (보안뉴스 ─ Security World)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105650&amp;mkind=5</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105650&amp;mkind=5</guid>
+            <pubDate>Thu, 24 Mar 2022 04:23:16 GMT</pubDate>
+            <content:encoded><![CDATA[국내 최대 멀티모달 생체인식 보안 솔루션기업 유니온커뮤니티(대표이사 신요식)가 3월 23일부터 25일까지 미국, 라스베가스에서 열리는 보안 전시회 ‘ISC...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/22032403ss.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[삼성·LG전자부터 MS·옥타까지 뚫렸다! ‘랩서스’ 해커그룹 집중 추적기 (보안뉴스 ─ 취약점 경고 및 버그리포트)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105642&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105642&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=</guid>
+            <pubDate>Thu, 24 Mar 2022 04:23:27 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/view.asp?idx=105642&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=">
+					
+					<img src="/media/upFiles2/2022/03/s2w_032401_main.jpg" alt="" class="news_img" height="70">
+					
+					<span class="news_txt">삼성·LG전자부터 MS·옥타까지 뚫렸다! ‘랩서스’ 해커그룹 집중 추적기 </span>
+					</a><br>
+					<a href="/media/view.asp?idx=105642&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=">최근 엔비디아(NVIDIA)와 유비소프트(UBISOFT) 등 글로벌 기업은 물론 삼성전자와 LG전자 등 한국기업을 해킹해 유명세를 떨친 랩서스(LAPSUS$)가 ...</a> <span class="news_writer">원병철 기자 | 2022년 03월 24일 12:42</span>]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/s2w_032401_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[웹하드에서 ‘오피스+정품 인증 툴’ 받다간 악성코드 감염된다! (보안뉴스 ─ 취약점 경고 및 버그리포트)]]></title>
@@ -1039,20 +1053,6 @@
 					</a><br>
 					<a href="/media/view.asp?idx=105393&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=">Log4j 취약점은 2021년 12월 처음 발견됐으며, 공격자가 원격으로 감염시키는 해킹 방법이 공개되면서 화두가 되기 시작했다. 해당 취약점을 악용해 공격자가 ...</a> <span class="news_writer">권준  기자 | 2022년 03월 13일 21:35</span>]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220313card-sm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지멘스, 서드파티 요소들에 영향 주는 취약점 90개 넘게 패치해 (보안뉴스 ─ 취약점 경고 및 버그리포트)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105341&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105341&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=</guid>
-            <pubDate>Thu, 10 Mar 2022 09:17:10 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/view.asp?idx=105341&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=">
-					
-					<img src="/media/upFiles2/2022/03/pat-thbm-0310.jpg" alt="" class="news_img" height="70">
-					
-					<span class="news_txt">지멘스, 서드파티 요소들에 영향 주는 취약점 90개 넘게 패치해</span>
-					</a><br>
-					<a href="/media/view.asp?idx=105341&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=">보안 외신 시큐리티위크에 의하면 지멘스가 고객들을 위해 15개의 새로운 보안 권고문을 발표했다고 한다. 그러면서 100개가 넘는 취약점들을 다뤘는데, 이 중 90...</a> <span class="news_writer">문가용 기자 | 2022년 03월 10일 11:27</span>]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/pat-thbm-0310.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[최정식 발행인 칼럼] <시큐리티월드> 통권 300호를 맞아 드리는 감사의 말씀 (보안뉴스 ─ 오피니언)]]></title>
@@ -2455,6 +2455,62 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2021/11/21113014ss.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[SK쉴더스, ‘산업제어시스템’ 보안 특허 취득하며 안전한 스마트공장 구축 선도 (보안뉴스 ─ 기업뉴스)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105651&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105651&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=</guid>
+            <pubDate>Thu, 24 Mar 2022 04:24:34 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/view.asp?idx=105651&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=">
+					
+					<img src="/media/upFiles2/2022/03/22032404ss.jpg" alt="" class="news_img" height="70">
+					
+					<span class="news_txt">SK쉴더스, ‘산업제어시스템’ 보안 특허 취득하며 안전한 스마트공장 구축 선도</span>
+					</a><br>
+					<a href="/media/view.asp?idx=105651&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=">SK쉴더스(대표이사 박진효)는 산업제어시스템(Industry Control System. 이하 ICS) 통합 보안 관리와 관련한 특허 취득을 완료했다고 24일 밝...</a> <span class="news_writer">엄호식 기자 | 2022년 03월 24일 13:21</span>]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/22032404ss.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[유니온커뮤니티, ‘ISC WEST 2022’에서 트리플모달 생체인식 단말기 선보여 (보안뉴스 ─ 기업뉴스)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105650&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105650&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=</guid>
+            <pubDate>Thu, 24 Mar 2022 04:24:34 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/view.asp?idx=105650&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=">
+					
+					<img src="/media/upFiles2/2022/03/22032403ss.jpg" alt="" class="news_img" height="70">
+					
+					<span class="news_txt">유니온커뮤니티, ‘ISC WEST 2022’에서 트리플모달 생체인식 단말기 선보여</span>
+					</a><br>
+					<a href="/media/view.asp?idx=105650&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=">국내 최대 멀티모달 생체인식 보안 솔루션기업 유니온커뮤니티(대표이사 신요식)가 3월 23일부터 25일까지 미국, 라스베가스에서 열리는 보안 전시회 ‘ISC WES...</a> <span class="news_writer">엄호식 기자 | 2022년 03월 24일 13:18</span>]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/22032403ss.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[슈프리마, 미국 최대 규모 보안 전시회 참여하며 북미 시장 공략 선언 (보안뉴스 ─ 기업뉴스)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105649&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105649&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=</guid>
+            <pubDate>Thu, 24 Mar 2022 04:24:34 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/view.asp?idx=105649&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=">
+					
+					<img src="/media/upFiles2/2022/03/22032401ss.jpg" alt="" class="news_img" height="70">
+					
+					<span class="news_txt">슈프리마, 미국 최대 규모 보안 전시회 참여하며 북미 시장 공략 선언</span>
+					</a><br>
+					<a href="/media/view.asp?idx=105649&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=">바이오인식 및 통합보안 전문기업 슈프리마(대표 이재원, 김한철)가 3월 23일부터 25일까지 미국 라스베이거스에서 진행되는 미국 최대 규모의 보안 전시회 ‘ISC...</a> <span class="news_writer">엄호식 기자 | 2022년 03월 24일 13:14</span>]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/22032401ss.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한화테크윈, 美 라스베가스에서 AI 영상 솔루션 선봬 (보안뉴스 ─ 기업뉴스)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105648&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105648&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=</guid>
+            <pubDate>Thu, 24 Mar 2022 04:24:34 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/view.asp?idx=105648&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=">
+					
+					<img src="/media/upFiles2/2022/03/22032402ss.jpg" alt="" class="news_img" height="70">
+					
+					<span class="news_txt">한화테크윈, 美 라스베가스에서 AI 영상 솔루션 선봬</span>
+					</a><br>
+					<a href="/media/view.asp?idx=105648&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=">글로벌 영상솔루션 기업 한화테크윈(대표이사 안순홍)이 23일부터 25일까지 미국 라스베가스에서 열리는 미국 최대 보안 전시회 ‘ISC West 2022’에 참가한...</a> <span class="news_writer">엄호식 기자 | 2022년 03월 24일 13:10</span>]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/22032402ss.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[컴트루테크놀로지, ‘이미지 속 개인정보 진단 캠페인’ 4월말까지 진행 (보안뉴스 ─ 기업뉴스)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105616&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105616&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=</guid>
@@ -2677,59 +2733,6 @@
 					</a><br>
 					<a href="/media/view.asp?idx=105480&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=">한국마이크로소프트가 16일 고용노동부가 추진하는 ‘청년고용 응원 프로젝트’ 멤버십 15번째 기업으로 가입, 청년 인재 양성을 위한 ICT기술교육 프로그램을 개설한...</a> <span class="news_writer">원병철 기자 | 2022년 03월 16일 17:20</span>]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/ms_031601_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[CJ올리브네트웍스, 2022년 신입사원 공개채용 실시 (보안뉴스 ─ 기업뉴스)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105476&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105476&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=</guid>
-            <pubDate>Wed, 16 Mar 2022 06:21:57 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/view.asp?idx=105476&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=">
-					
-					<img src="/media/upFiles2/2022/03/CJ_031601_main.jpg" alt="" class="news_img" height="70">
-					
-					<span class="news_txt">CJ올리브네트웍스, 2022년 신입사원 공개채용 실시</span>
-					</a><br>
-					<a href="/media/view.asp?idx=105476&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=">CJ올리브네트웍스(대표이사 차인혁)가 2022년 신입사원 공개채용을 시작했다. 신입사원 모집분야는 △AI △클라우드 서비스 △비즈니스 시스템 △글로벌 시스템 등 ...</a> <span class="news_writer">원병철 기자 | 2022년 03월 16일 14:29</span>]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/CJ_031601_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[피앤피시큐어, 금융권 클라우드 통합접근제어 구축 사업 잇따라 수주 (보안뉴스 ─ 기업뉴스)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105475&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=8&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105475&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=8&amp;search=title&amp;find=</guid>
-            <pubDate>Wed, 16 Mar 2022 05:18:02 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/view.asp?idx=105475&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=8&amp;search=title&amp;find=">
-					
-					<img src="/media/upFiles2/2022/03/pnp_031601_main.jpg" alt="" class="news_img" height="70">
-					
-					<span class="news_txt">피앤피시큐어, 금융권 클라우드 통합접근제어 구축 사업 잇따라 수주</span>
-					</a><br>
-					<a href="/media/view.asp?idx=105475&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=8&amp;search=title&amp;find=">Unified-IAM(U-IAM, 통합접근제어) 솔루션 전문기업 피앤피시큐어(대표이사 박천오)는 KB국민은행 ‘KB원 클라우드(KB One Cloud)’ 사업에서...</a> <span class="news_writer">원병철 기자 | 2022년 03월 16일 14:10</span>]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/pnp_031601_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[화웨이, 글로벌 통신 장비 시장에서 견고한 1위 유지 (보안뉴스 ─ 기업뉴스)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105474&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105474&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=</guid>
-            <pubDate>Wed, 16 Mar 2022 05:18:02 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/view.asp?idx=105474&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=">
-					
-					<img src="/media/upFiles2/2022/03/huawei_031601_main.jpg" alt="" class="news_img" height="70">
-					
-					<span class="news_txt">화웨이, 글로벌 통신 장비 시장에서 견고한 1위 유지</span>
-					</a><br>
-					<a href="/media/view.asp?idx=105474&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=">화웨이가 5G 등 글로벌 무선 통신장비 시장의 선두 자리를 굳건히 하고 있는 것으로 나타났다. 글로벌 시장조사기관 델오로 그룹(Dell’Oro Group)에 따르...</a> <span class="news_writer">원병철 기자 | 2022년 03월 16일 14:01</span>]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/huawei_031601_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[주니퍼 네트웍스, 앱스트라 소프트웨어 최신 기능 발표 (보안뉴스 ─ 기업뉴스)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105472&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105472&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=</guid>
-            <pubDate>Wed, 16 Mar 2022 02:46:41 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/view.asp?idx=105472&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=">
-					
-					<span class="news_txt">주니퍼 네트웍스, 앱스트라 소프트웨어 최신 기능 발표 </span>
-					</a><br>
-					<a href="/media/view.asp?idx=105472&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=">안전한 AI 기반 네트워크 전문업체 주니퍼 네트웍스가 데이터센터 네트워크의 구축, 문제 해결, 운영을 더욱 간소화하는 앱스트라(Apstra) 플랫폼 최신 기능을 ...</a> <span class="news_writer">원병철 기자 | 2022년 03월 16일 11:28</span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[부고] 한국정보보호학회 수석부회장 원유재 교수 부친상 (보안뉴스 ─ 인사 부고)]]></title>
