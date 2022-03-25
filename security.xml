@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-03-25T08:23:08.459Z</updated>
+    <updated>2022-03-25T09:19:09.619Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한국인터넷정보센터(KRNIC) 사칭 정보수집 악성 이메일 유포]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=105691&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=105691&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-03-25T09:16:50.880Z</updated>
+        <content type="html"><![CDATA[최근 한국인터넷정보센터(KRNIC)를 사칭한 악성 이메일이 발견되어 사용자들의 각별한 주의가 요구된다. 한국인터넷진흥원(KISA)이 운영하는 한국인터넷정보센터는 국내 인터넷주소자원 관리와 IP 주소 및 도메인 등록 업무 등을 담당하고 있다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[대형 도소매 체인 월마트, IT 전문가 5천 명 채용한다]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=105680&amp;page=1&amp;mkind=1&amp;kind=4</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=105658&amp;page=1&amp;mkind=1&amp;kind=3"/>
         <updated>2022-03-24T14:18:43.240Z</updated>
         <content type="html"><![CDATA[3월 24일 발간된 ‘Weekly Security Premium Report’ 제43호에는 &lt;보안 심층 리포트&gt; 코너에서 코로나19 사태의 장기화로 원격 및 재택근무가 확산되면서 직원들이 회사를 대거 퇴직하는 이른바 대 퇴직의 시대가 도래한 상황에서 인력이 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[두 개로 갈라진 보안 업체 에프시큐어, 위드시큐어라는 이름으로 새출발]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=105656&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=105656&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-03-24T09:16:50.387Z</updated>
-        <content type="html"><![CDATA[보안 업체 에프시큐어(F-Secure)가 소비자용 서비스 사업부와 기업용 서비스 사업부를 나누면서 사명을 바꿨다. 에프시큐어라는 이름은 사라지고 위드시큐어(WithSecure)가 새롭게 시작됐으며, 이는 기존 에프시큐어의 기업용 서비스 사업부를 전신으로 삼는다. 특히 ...]]></content>
     </entry>
 </feed>
