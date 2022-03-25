@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Mar 2022 04:25:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Mar 2022 05:18:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -296,20 +296,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/kimsuky_032201_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[정재동의 창업에세이-3] 창업활동으로 대학이 바뀔 수 있다 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105534&amp;page=1&amp;kind=6&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105534&amp;page=1&amp;kind=6&amp;search=title&amp;find=</guid>
-            <pubDate>Sun, 20 Mar 2022 15:18:29 GMT</pubDate>
-            <content:encoded><![CDATA[대학이 변해야 한다고 말하는 이들이 많다. 변해야 하는 이유는 학생 수가 줄어들고 있어서 생존을 위한 경쟁이 심화될 것이기 때문에 그렇다고 한다. 우리나라 인구구...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220318univer-s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[과기정통부, 하이브 랜섬웨어 ‘암호키 복구 도구 개발·배포’ 시작 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105557&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105557&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
             <pubDate>Tue, 22 Mar 2022 14:16:55 GMT</pubDate>
             <content:encoded><![CDATA[지난 2월 현대삼호중공업을 해킹했다고 주장하던 하이브 랜섬웨어를 복호화히는 데 성공했다고 정부가 밝혔다. 과학기술정보통신부(장관 임혜숙, 이하 ‘과기정통부’)는 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/hive_032101_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[삼성·LG전자부터 MS·옥타까지 뚫렸다! ‘랩서스’ 해커그룹 집중 추적기 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105642&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105642&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Fri, 25 Mar 2022 01:03:48 GMT</pubDate>
+            <content:encoded><![CDATA[최근 엔비디아(NVIDIA)와 유비소프트(UBISOFT) 등 글로벌 기업은 물론 삼성전자와 LG전자 등 한국기업을 해킹해 유명세를 떨친 랩서스(LAPSUS$)가 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/s2w_032401_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[삼성과 LG 해킹한 랩서스, 옥타와 마이크로소프트도 뚫었다 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
@@ -326,14 +326,6 @@
             <pubDate>Wed, 23 Mar 2022 03:30:02 GMT</pubDate>
             <content:encoded><![CDATA[북한이 해킹으로 탈취한 가상자산 중 아직 1억 7,000만 달러가 세탁되지 않은 것으로 알려졌다. 블록체인 데이터 플랫폼 기업 체이널리시스(한국지사장 백용기)는 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/chain_0321_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성·LG전자부터 MS·옥타까지 뚫렸다! ‘랩서스’ 해커그룹 집중 추적기 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105642&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105642&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Fri, 25 Mar 2022 01:03:48 GMT</pubDate>
-            <content:encoded><![CDATA[최근 엔비디아(NVIDIA)와 유비소프트(UBISOFT) 등 글로벌 기업은 물론 삼성전자와 LG전자 등 한국기업을 해킹해 유명세를 떨친 랩서스(LAPSUS$)가 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/s2w_032401_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[누군지도 모르겠고 왜인지도 모르겠는데 아무튼 희한한 해커들 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
@@ -398,6 +390,14 @@
             <pubDate>Fri, 25 Mar 2022 02:45:05 GMT</pubDate>
             <content:encoded><![CDATA[국제적인 핵티비스트 단체인 어나니머스가 스위스의 음식료품 회사인 네슬레를 해킹해 10GB의 데이터를 유출했다. 네슬레가 우크라이나를 침공한 러시아에서 계속해서 사...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/nes-thumb-0323.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[쿠바 랜섬웨어 조직, 현대파워텍 해킹해 내부 파일 유출 주장 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105654&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105654&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Fri, 25 Mar 2022 05:16:30 GMT</pubDate>
+            <content:encoded><![CDATA[쿠바 랜섬웨어 해커조직이 현대파워텍의 내부 파일을 해킹으로 유출했다고 공지했다. 이들은 피해기업을 공개하는 릭(leak) 페이지에 현대파워텍의 회사 소개와 함께 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220324CUBA-S.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[미국, 과거 해킹 혐의로 러시아 정부 요원 4명 기소 (보안뉴스 ─ SECURITY)]]></title>
