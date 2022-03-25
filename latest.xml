@@ -4,9 +4,57 @@
         <title>보안뉴스 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Mar 2022 01:06:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Mar 2022 02:47:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[영국 경찰, 랩서스 갱단으로 보이는 용의자 7명 체포]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105689&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105689&amp;page=1&amp;kind=1</guid>
+            <pubDate>Fri, 25 Mar 2022 02:44:53 GMT</pubDate>
+            <content:encoded><![CDATA[보안 외신 쓰레트포스트에 의하면 영국 경찰이 최근 전 세계적인 해킹 사고를 일으켜 문제가 되고 있는 랩서스(Lapsus$)의 일원으로 보이는 용의자 7명을...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/arre-thumb-0325.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[북한 해커들, 자기들끼리 크롬 제로데이 취약점 공유]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105688&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105688&amp;page=1&amp;kind=1</guid>
+            <pubDate>Fri, 25 Mar 2022 02:44:53 GMT</pubDate>
+            <content:encoded><![CDATA[북한 정부의 지원을 받는 해커들이 크롬 브라우저의 제로데이 취약점을 서로 공유하고 있다는 사실이 드러났다. 보안 외신 시큐리티위크에 의하면 문제의 크롬 제...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/brow-thumb-0325.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[200개가 넘는 NPM 패키지, 애저 개발자들 노리고 있어]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105687&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105687&amp;page=1&amp;kind=1</guid>
+            <pubDate>Fri, 25 Mar 2022 02:44:53 GMT</pubDate>
+            <content:encoded><![CDATA[애저 개발자들을 노리는 대형 공급망 공격이 발견됐다. 보안 외신 해커뉴스에 의하면 218개의 NPM 패키지들에서 그러한 흔적이 발견됐다고 한다. 여기서 말...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/npm-thumb-0325.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[미국, 과거 해킹 혐의로 러시아 정부 요원 4명 기소]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105686&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105686&amp;page=1&amp;kind=1</guid>
+            <pubDate>Fri, 25 Mar 2022 02:44:53 GMT</pubDate>
+            <content:encoded><![CDATA[IT 외신 블리핑컴퓨터에 의하면 미국 사법부가 러시아 정부 요원 4명을 해킹 혐의로 기소했다고 한다. 2012년부터 2018년까지 전 세계 135개국 에너...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/char-thumb-0325.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[인도 경찰, 온라인 헬리콥터 탑승 사기단 검거]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105685&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105685&amp;page=1&amp;kind=1</guid>
+            <pubDate>Fri, 25 Mar 2022 02:44:53 GMT</pubDate>
+            <content:encoded><![CDATA[인도의 사이버 경찰이 가짜 웹사이트를 운영하던 온라인 사기단들을 검거했다고 보안 외신 인포시큐리티가 보도했다. 이 사기단들은 성지 순례를 하는 종교인들을 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/helli-thumb-0325.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[LG CNS, ‘간편인증’ 서비스 심각한 보안 취약점 경고]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105660&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105660&amp;page=1&amp;kind=1</guid>
+            <pubDate>Fri, 25 Mar 2022 02:44:53 GMT</pubDate>
+            <content:encoded><![CDATA[DX전문기업 LG CNS가 온라인상의 신원을 확인하고 인증하는 ‘간편인증’ 서비스의 심각한 보안 취약점을 경고하고, 이에 대한 대응책을 제시했다. LG C...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/lg_032801_main.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[서울시, 스토킹 피해 신변보호대상자에 주거침입 예방 ‘안심장비 3종’ 첫 지원]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105666&amp;page=1&amp;kind=2</link>
@@ -40,52 +88,102 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220324report-sm.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[두 개로 갈라진 보안 업체 에프시큐어, 위드시큐어라는 이름으로 새출발]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105656&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105656&amp;page=1&amp;kind=1</guid>
-            <pubDate>Thu, 24 Mar 2022 07:15:42 GMT</pubDate>
-            <content:encoded><![CDATA[보안 업체 에프시큐어(F-Secure)가 소비자용 서비스 사업부와 기업용 서비스 사업부를 나누면서 사명을 바꿨다. 에프시큐어라는 이름은 사라지고 위드시큐어...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/bye-thumb0-0324.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[인포트렌드 EonStor CS, 스토리지 효율성 최적화한 오토 티어링 도입]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105683&amp;page=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105683&amp;page=1&amp;kind=3</guid>
+            <pubDate>Fri, 25 Mar 2022 02:44:53 GMT</pubDate>
+            <content:encoded><![CDATA[스토리지 전문 기업인 인포트렌드는 25일 자사의 스케일아웃 NAS 스토리지 EonStor CS 제품에 오토 티어링 기능을 추가했다고 밝혔다. 이번 업데이트...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/22032501ss.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[위조 프린터 부품·소모품 얼마나 있을까? 팬데믹으로 판매 확산중]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105655&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105655&amp;page=1&amp;kind=1</guid>
-            <pubDate>Thu, 24 Mar 2022 06:21:12 GMT</pubDate>
-            <content:encoded><![CDATA[프린터는 자체의 판매보다는 사용하면서 쓰게 될 부품과 잉크 등 소모품의 판매가 핵심인 제품이다. 때문에 일부 사용자들은 가격 등의 이유로 재생품 혹은 무한...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20947297_main.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[인공지능(AI)으로 ‘똑똑하게’ 특허 심사한다]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105670&amp;page=1&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105670&amp;page=1&amp;kind=2</guid>
+            <pubDate>Fri, 25 Mar 2022 02:44:53 GMT</pubDate>
+            <content:encoded><![CDATA[특허청은 ‘인공지능(AI) 기술이 적용된 특허 검색 시스템’을 심사 업무에 활용할 수 있도록 특허청 심사관을 대상으로 시범 서비스를 25일 개통했다.]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/3-239(295).jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[쿠바 랜섬웨어 조직, 현대파워텍 해킹해 내부 파일 유출 주장]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105654&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105654&amp;page=1&amp;kind=1</guid>
-            <pubDate>Thu, 24 Mar 2022 06:21:12 GMT</pubDate>
-            <content:encoded><![CDATA[쿠바 랜섬웨어 해커조직이 현대파워텍의 내부 파일을 해킹으로 유출했다고 공지했다. 이들은 피해기업을 공개하는 릭(leak) 페이지에 현대파워텍의 회사 소개와...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220324CUBA-S.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[과기정통부, 2021년 디지털 격차 등 실태조사 결과 발표]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105671&amp;page=1&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105671&amp;page=1&amp;kind=2</guid>
+            <pubDate>Fri, 25 Mar 2022 02:44:53 GMT</pubDate>
+            <content:encoded><![CDATA[과학기술정보통신부는 디지털 사회 문제 현황 진단을 위해 디지털정보격차, 접근성, 스마트폰과의존 분야 2021년도 실태조사 결과를 발표했다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[모든 네트워크에서 빠르게 늘어나는 ‘비밀’, 엑셀표로는 지킬 수 없다]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105628&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105628&amp;page=1&amp;kind=1</guid>
-            <pubDate>Thu, 24 Mar 2022 05:16:16 GMT</pubDate>
-            <content:encoded><![CDATA[오늘날의 디지털 사업 환경에서 우리는 상업적으로 개발된 기성 애플리케이션이나 회사 내부에서 직접 생산된 애플리케이션들에 대한 의존도를 점점 높이는 중이다....]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/sec-thumb-0323.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[과기정통부, 올해 정보통신기술 분야 대학생 대상 기업 인턴 본격 지원]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105672&amp;page=1&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105672&amp;page=1&amp;kind=2</guid>
+            <pubDate>Fri, 25 Mar 2022 02:44:53 GMT</pubDate>
+            <content:encoded><![CDATA[과학기술정보통신부는 정보통신기술 분야 전공 대학생 345명을 대상으로 중소·중견 정보통신기술 기업 등의 직무 프로젝트 기반 인턴십을 지원하는 ‘정보통신기술...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[삼성·LG전자부터 MS·옥타까지 뚫렸다! ‘랩서스’ 해커그룹 집중 추적기]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105642&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105642&amp;page=1&amp;kind=1</guid>
-            <pubDate>Thu, 24 Mar 2022 04:22:20 GMT</pubDate>
-            <content:encoded><![CDATA[최근 엔비디아(NVIDIA)와 유비소프트(UBISOFT) 등 글로벌 기업은 물론 삼성전자와 LG전자 등 한국기업을 해킹해 유명세를 떨친 랩서스(LAPSUS...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/s2w_032401_main.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[봄 산행, 실족과 조난에 주의하세요]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105673&amp;page=1&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105673&amp;page=1&amp;kind=2</guid>
+            <pubDate>Fri, 25 Mar 2022 02:44:53 GMT</pubDate>
+            <content:encoded><![CDATA[행정안전부는 봄을 맞아 산행에 나서는 분들이 많아질 것으로 예상됨에 따라 등산사고 예방에 각별한 주의를 요청했다. 지난 2020년에 발생한 등산사고는 총 ...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[FBI, 러시아 사이버 범죄 시장 운영자를 ‘수배자 명단’에 올려]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105647&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105647&amp;page=1&amp;kind=1</guid>
-            <pubDate>Thu, 24 Mar 2022 03:23:57 GMT</pubDate>
-            <content:encoded><![CDATA[IT 외신 블리핑컴퓨터에 의하면 FBI가 악명 높은 사이버 범죄자 한 사람을 수배자 명단에 올렸다고 한다. 이름은 이고르 데크티야르추크(Igor Dekht...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/wanted-thumb-0324.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[국가적 현안 과제, 데이터에 기반해 과학적으로 대응한다]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105674&amp;page=1&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105674&amp;page=1&amp;kind=2</guid>
+            <pubDate>Fri, 25 Mar 2022 02:44:53 GMT</pubDate>
+            <content:encoded><![CDATA[앞으로는 국정과제, 국가적 현안, 미래 이슈 등에 대해 데이터에 기반해 관계 부처가 참여하는 범정부 데이터 분석 체계를 통해 과학적으로 대응해 나간다. 행...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[방사청, ‘미래 국방 2030 기술전략-국방드론’ 발간]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105675&amp;page=1&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105675&amp;page=1&amp;kind=2</guid>
+            <pubDate>Fri, 25 Mar 2022 02:44:53 GMT</pubDate>
+            <content:encoded><![CDATA[국방기술진흥연구소는 4차 산업혁명과 관련된 대표적 신기술, 신산업 분야인 국방 드론 개발을 선도하기 위한 핵심 기술을 도출하고 기술 확보 전략을 제시하는 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/3-244(295).jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방사청, 방산혁신클러스터 신규 지역 선정 공모]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105676&amp;page=1&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105676&amp;page=1&amp;kind=2</guid>
+            <pubDate>Fri, 25 Mar 2022 02:44:53 GMT</pubDate>
+            <content:encoded><![CDATA[방위사업청은 오는 5월 4일까지 222년 방산혁신클러스터 신규 지역 공모를 진행한다고 밝혔다. 2022년 방산혁신클러스터 사업은 국방 5대 신산업(우주, ...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[KT, 시스코와 글로벌 SD-WAN 사업 협력]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105677&amp;page=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105677&amp;page=1&amp;kind=3</guid>
+            <pubDate>Fri, 25 Mar 2022 02:44:53 GMT</pubDate>
+            <content:encoded><![CDATA[KT가 시스코와 국내 기업의 글로벌 진출을 지원하고, 소프트웨어 정의 광대역 네트워크(SD-WAN)에 기반을 둔 글로벌 데이터 서비스 시장 활성화를 위한 ...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[LG CNS, ‘청소년에 AI 교육’ 나선다]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105678&amp;page=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105678&amp;page=1&amp;kind=3</guid>
+            <pubDate>Fri, 25 Mar 2022 02:44:53 GMT</pubDate>
+            <content:encoded><![CDATA[DX 전문 기업 LG CNS가 중학생 대상 AI 교육 프로그램 ‘AI지니어스’를 실시한다. AI지니어스는 IT 꿈나무 육성을 위해 LG CNS가 자체 개발...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/3-247(295).jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[과기정책연, PIPC와 특허 빅데이터 공유 및 공동 연구 수행을 위한 MOU 체결]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105679&amp;page=1&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105679&amp;page=1&amp;kind=2</guid>
+            <pubDate>Fri, 25 Mar 2022 02:44:53 GMT</pubDate>
+            <content:encoded><![CDATA[과학기술정책연구원(STEPI, 이하 과기정책연)은 특허정보진흥센터(이하 PIPC)와 지난 24일 특허 빅데이터 공유 및 공동 연구 수행 등을 위한 업무협약...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/3-248(295).jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ETRI 김형준 소장, ITU 사물인터넷 및 스마트시티 연구반 의장 선임]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105669&amp;page=1&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105669&amp;page=1&amp;kind=2</guid>
+            <pubDate>Fri, 25 Mar 2022 02:44:53 GMT</pubDate>
+            <content:encoded><![CDATA[한국전자통신연구원(ETRI)은 지능화융합연구소 김형준 소장이 지난 9일 개최된 국제전기통신연합(ITU) 세계전기통신표준화총회(WTSA-20)에서 사물인터넷...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/3-238(295).jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[부산 블록체인 특구도시 성장동력 확보 위한 창업생태계 조성]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105668&amp;page=1&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105668&amp;page=1&amp;kind=2</guid>
+            <pubDate>Fri, 25 Mar 2022 02:44:53 GMT</pubDate>
+            <content:encoded><![CDATA[부산시는 지난 24일 블록체인 특화 벤처컨벤션 ‘비스페이스’를 열고 블록체인 창업기업 육성에 박차를 가한다고 밝혔다. 시는 지난해 선정된 중소벤처기업부 ‘...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/3-237(295).jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[IBM, 하이브리드 멀티클라우드 내 데이터 보안 위해 기업들에 제어권 부여]]></title>
@@ -140,110 +238,6 @@
             <pubDate>Thu, 24 Mar 2022 09:16:28 GMT</pubDate>
             <content:encoded><![CDATA[강한친구들(대표 채규칠)은 아티스트와 관객 및 VIP 고객이 바이러스와 감염병원으로부터 안전할 수 있도록 DiH® 공간멸균 독자기술을 보유한 감염관리 서비...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220324STRONG-S.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지란지교소프트, 비대면 서비스 바우처 사업 공급기업 선정]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105659&amp;page=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105659&amp;page=1&amp;kind=3</guid>
-            <pubDate>Thu, 24 Mar 2022 08:21:00 GMT</pubDate>
-            <content:encoded><![CDATA[지란지교소프트가 중소기업벤처부 주관 ‘비대면 서비스 바우처 사업’의 공급기업으로 선정됐다고 24일 밝혔다.]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/jiran_032401_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[밀레시스텍, 샤시문 도어락 MS300S 출시]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105657&amp;page=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105657&amp;page=1&amp;kind=3</guid>
-            <pubDate>Thu, 24 Mar 2022 08:21:00 GMT</pubDate>
-            <content:encoded><![CDATA[디지털도어락 전문 기업 밀레시스텍은 샤시문에 특화된 설계로 설치성이 우수한 도어락 ‘MS300S’를 출시했다고 밝혔다. 신제품 ‘MS300S’는 기존 보조...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/22032405ss.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국내 정보보호 기업, 북미시장에서 혁신기술 선보인다]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105653&amp;page=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105653&amp;page=1&amp;kind=3</guid>
-            <pubDate>Thu, 24 Mar 2022 05:16:16 GMT</pubDate>
-            <content:encoded><![CDATA[한국정보보호산업협회(KISIA, 회장 이동범)와 KOTRA(사장 유정열)는 3월 23일부터 25일(현지시간)까지 미국 라스베이거스에서 열리는 ‘ISC W...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/ISC%20WEST%20032401_MAIN.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한국화웨이 손루원 CEO, ‘데이터센터 산업이 지능화, 저탄소화로 발전토록 적극 지원’]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105652&amp;page=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105652&amp;page=1&amp;kind=3</guid>
-            <pubDate>Thu, 24 Mar 2022 05:16:16 GMT</pubDate>
-            <content:encoded><![CDATA[한국화웨이는 지난 22일, ‘지능형 데이터 센터, 미래를 짓다’라는 주제로 ‘2022 화웨이코리아 IDC 에너지 서밋’을 성황리에 개최했다고 밝혔다.]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/huawei_032401_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SK쉴더스, ‘산업제어시스템’ 보안 특허 취득하며 안전한 스마트공장 구축 선도]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105651&amp;page=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105651&amp;page=1&amp;kind=3</guid>
-            <pubDate>Thu, 24 Mar 2022 04:22:20 GMT</pubDate>
-            <content:encoded><![CDATA[SK쉴더스(대표이사 박진효)는 산업제어시스템(Industry Control System. 이하 ICS) 통합 보안 관리와 관련한 특허 취득을 완료했다고 2...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/22032404ss.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[유니온커뮤니티, ‘ISC WEST 2022’에서 트리플모달 생체인식 단말기 선보여]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105650&amp;page=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105650&amp;page=1&amp;kind=3</guid>
-            <pubDate>Thu, 24 Mar 2022 04:22:20 GMT</pubDate>
-            <content:encoded><![CDATA[국내 최대 멀티모달 생체인식 보안 솔루션기업 유니온커뮤니티(대표이사 신요식)가 3월 23일부터 25일까지 미국, 라스베가스에서 열리는 보안 전시회 ‘ISC...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/22032403ss.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[슈프리마, 미국 최대 규모 보안 전시회 참여하며 북미 시장 공략 선언]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105649&amp;page=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105649&amp;page=1&amp;kind=3</guid>
-            <pubDate>Thu, 24 Mar 2022 04:22:20 GMT</pubDate>
-            <content:encoded><![CDATA[바이오인식 및 통합보안 전문기업 슈프리마(대표 이재원, 김한철)가 3월 23일부터 25일까지 미국 라스베이거스에서 진행되는 미국 최대 규모의 보안 전시회 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/22032401ss.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한화테크윈, 美 라스베가스에서 AI 영상 솔루션 선봬]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105648&amp;page=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105648&amp;page=1&amp;kind=3</guid>
-            <pubDate>Thu, 24 Mar 2022 04:22:20 GMT</pubDate>
-            <content:encoded><![CDATA[글로벌 영상솔루션 기업 한화테크윈(대표이사 안순홍)이 23일부터 25일까지 미국 라스베가스에서 열리는 미국 최대 보안 전시회 ‘ISC West 2022’에...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/22032402ss.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[중국의 사이버 정찰 단체, 새로운 맥OS 멀웨어 들고 나타나]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105646&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105646&amp;page=1&amp;kind=1</guid>
-            <pubDate>Thu, 24 Mar 2022 03:23:57 GMT</pubDate>
-            <content:encoded><![CDATA[보안 외신 시큐리티위크에 의하면 중국의 APT 단체인 스톰클라우드(Storm Cloud)가 새로운 맥OS용 멀웨어인 기믹(Gimmick)을 활용하는 모습이...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/storm-thumb-0324.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[부활한 데드볼트 랜섬웨어, 큐냅 장비들 다시 공격]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105645&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105645&amp;page=1&amp;kind=1</guid>
-            <pubDate>Thu, 24 Mar 2022 03:23:57 GMT</pubDate>
-            <content:encoded><![CDATA[보안 외신 쓰레트포스트에 의하면 데드볼트(Deadbolt)라는 랜섬웨어가 다시 활동을 시작했다고 한다. 이전에도 그랬듯 대만의 NAS 제조사인 큐냅(QNA...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/bolt-thumb-0324.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[중국의 해킹 그룹 무스탕판다, 새로운 멀웨어 활용 중]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105644&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105644&amp;page=1&amp;kind=1</guid>
-            <pubDate>Thu, 24 Mar 2022 03:23:57 GMT</pubDate>
-            <content:encoded><![CDATA[보안 외신 해커뉴스에 의하면 중국의 APT 그룹인 무스탕판다(Mustang Panda)가 새로운 멀웨어를 활용하고 있다는 사실이 드러났다고 한다. 플러그엑...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/panda-thumb-0324.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우크라이나 기업들, 더블제로 와이퍼에 공격당해]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105643&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105643&amp;page=1&amp;kind=1</guid>
-            <pubDate>Thu, 24 Mar 2022 03:23:57 GMT</pubDate>
-            <content:encoded><![CDATA[보안 블로그 시큐리티어페어즈에 의하면 더블제로(DoubleZero)라는 삭제형 멀웨어가 우크라이나 기업들을 폭격하는 중이라고 한다. 우크라이나 정부 산하 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/del-thumb-0324.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[경기도, 도내 중소기업에 데이터 활용·디지털 전환 지원]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105640&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105640&amp;page=1&amp;kind=2</guid>
-            <pubDate>Thu, 24 Mar 2022 01:06:05 GMT</pubDate>
-            <content:encoded><![CDATA[경기도와 경기도경제과학진흥원은 데이터 산업 활성화와 제조업의 디지털 전환을 위해 ‘2022년 데이터 산업 육성 지원 사업’을 시행한다고 밝혔다.]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/3-233(295).jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

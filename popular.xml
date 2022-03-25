@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Mar 2022 01:06:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Mar 2022 02:47:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,20 +104,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/qm-thumb-0322.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[우크라이나 매체, 해킹 공격 당한 뒤 딥페이크 영상 송출해]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105533&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105533&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Mon, 21 Mar 2022 03:24:23 GMT</pubDate>
-            <content:encoded><![CDATA[우크라이나의 주요 뉴스 채널인 우크레인24(Ukraine24)가 3월 16일 해킹 당한 뒤 가짜 메시지를 페이스북 페이지를 통해 유포하기 시작했다. 젤렌스키 대통...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/fake-thumb-0318.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[‘보안 취약점 정보 포털’ 오픈한다는데... 버그바운티가 더 중요해지는 이유]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105627&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105627&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
             <pubDate>Thu, 24 Mar 2022 12:28:07 GMT</pubDate>
             <content:encoded><![CDATA[사이버위협의 주요 요인이 되고 있는 보안 취약점은 무엇보다 신속하게 발견하여 조치하는 것이 중요하다. 이에 정부는 국가 차원에서 국내·외 보안 취약점을 체계적으로...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220323bug-s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[삼성·LG전자부터 MS·옥타까지 뚫렸다! ‘랩서스’ 해커그룹 집중 추적기]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105642&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105642&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Fri, 25 Mar 2022 01:03:48 GMT</pubDate>
+            <content:encoded><![CDATA[최근 엔비디아(NVIDIA)와 유비소프트(UBISOFT) 등 글로벌 기업은 물론 삼성전자와 LG전자 등 한국기업을 해킹해 유명세를 떨친 랩서스(LAPSUS$)가 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/s2w_032401_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[공공분야에 체계적이고 엄격한 개인정보보호 추진한다]]></title>
@@ -152,20 +152,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/msit_032301_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[삼성·LG전자부터 MS·옥타까지 뚫렸다! ‘랩서스’ 해커그룹 집중 추적기]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105642&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105642&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Fri, 25 Mar 2022 01:03:48 GMT</pubDate>
-            <content:encoded><![CDATA[최근 엔비디아(NVIDIA)와 유비소프트(UBISOFT) 등 글로벌 기업은 물론 삼성전자와 LG전자 등 한국기업을 해킹해 유명세를 떨친 랩서스(LAPSUS$)가 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/s2w_032401_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[공공 및 민간분야 사이버위기 경보 단계 ‘관심’에서 ‘주의’로 상향]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105552&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105552&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Fri, 25 Mar 2022 01:03:48 GMT</pubDate>
             <content:encoded><![CDATA[최근 우크라이나 사태 관련 사이버전 확산, 국내 기업을 대상으로 하는 랜섬웨어, 정보유출 사고 발생 등 국내·외 사이버위협 우려가 고조됨에 따라 선제적이고 체계적...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/nis_032101_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[어나니머스, 네슬레 해킹해 10GB 데이터 유출해]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105621&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105621&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Fri, 25 Mar 2022 02:45:05 GMT</pubDate>
+            <content:encoded><![CDATA[국제적인 핵티비스트 단체인 어나니머스가 스위스의 음식료품 회사인 네슬레를 해킹해 10GB의 데이터를 유출했다. 네슬레가 우크라이나를 침공한 러시아에서 계속해서 사...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/nes-thumb-0323.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
