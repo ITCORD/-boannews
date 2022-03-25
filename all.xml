@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Mar 2022 02:47:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Mar 2022 03:23:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,7 +48,7 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/helli-thumb-0325.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[LG CNS, ‘간편인증’ 서비스 심각한 보안 취약점 경고 (보안뉴스 ─ 전체기사)]]></title>
+            <title><![CDATA[LG CNS, ‘간편인증’ 보안 취약점 가이드 제시 (보안뉴스 ─ 전체기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105660&amp;page=1&amp;kind=1</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105660&amp;page=1&amp;kind=1</guid>
             <pubDate>Fri, 25 Mar 2022 02:44:53 GMT</pubDate>
@@ -336,20 +336,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/qm-thumb-0322.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[‘보안 취약점 정보 포털’ 오픈한다는데... 버그바운티가 더 중요해지는 이유 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105627&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105627&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
-            <pubDate>Thu, 24 Mar 2022 12:28:07 GMT</pubDate>
-            <content:encoded><![CDATA[사이버위협의 주요 요인이 되고 있는 보안 취약점은 무엇보다 신속하게 발견하여 조치하는 것이 중요하다. 이에 정부는 국가 차원에서 국내·외 보안 취약점을 체계적으로...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220323bug-s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[삼성·LG전자부터 MS·옥타까지 뚫렸다! ‘랩서스’ 해커그룹 집중 추적기 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105642&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105642&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Fri, 25 Mar 2022 01:03:48 GMT</pubDate>
             <content:encoded><![CDATA[최근 엔비디아(NVIDIA)와 유비소프트(UBISOFT) 등 글로벌 기업은 물론 삼성전자와 LG전자 등 한국기업을 해킹해 유명세를 떨친 랩서스(LAPSUS$)가 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/s2w_032401_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘보안 취약점 정보 포털’ 오픈한다는데... 버그바운티가 더 중요해지는 이유 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105627&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105627&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
+            <pubDate>Thu, 24 Mar 2022 12:28:07 GMT</pubDate>
+            <content:encoded><![CDATA[사이버위협의 주요 요인이 되고 있는 보안 취약점은 무엇보다 신속하게 발견하여 조치하는 것이 중요하다. 이에 정부는 국가 차원에서 국내·외 보안 취약점을 체계적으로...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220323bug-s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[공공분야에 체계적이고 엄격한 개인정보보호 추진한다 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
@@ -414,7 +414,7 @@
             <content:encoded><![CDATA[인도의 사이버 경찰이 가짜 웹사이트를 운영하던 온라인 사기단들을 검거했다고 보안 외신 인포시큐리티가 보도했다. 이 사기단들은 성지 순례를 하는 종교인들을 대상으로 사기를 기획했고, 특히 순례자들의 장거리 이동을 돕기 위해 헬리콥터를 운행한다는 식으로 속여 사람들의 돈을...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[LG CNS, ‘간편인증’ 서비스 심각한 보안 취약점 경고 (보안뉴스 ─ SECURITY)]]></title>
+            <title><![CDATA[LG CNS, ‘간편인증’ 보안 취약점 가이드 제시 (보안뉴스 ─ SECURITY)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105660&amp;page=1&amp;mkind=1&amp;kind=1</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105660&amp;page=1&amp;mkind=1&amp;kind=1</guid>
             <pubDate>Fri, 25 Mar 2022 02:45:16 GMT</pubDate>
