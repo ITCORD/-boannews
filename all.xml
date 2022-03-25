@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Mar 2022 15:20:03 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Mar 2022 16:26:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -298,20 +298,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/aut-thumb-0323.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[‘보안 취약점 정보 포털’ 오픈한다는데... 버그바운티가 더 중요해지는 이유 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105627&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105627&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
-            <pubDate>Thu, 24 Mar 2022 12:28:07 GMT</pubDate>
-            <content:encoded><![CDATA[사이버위협의 주요 요인이 되고 있는 보안 취약점은 무엇보다 신속하게 발견하여 조치하는 것이 중요하다. 이에 정부는 국가 차원에서 국내·외 보안 취약점을 체계적으로...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220323bug-s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[옥타, 하루 만에 말 바꾸며 “336개 고객사에 영향 있을지도...” (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105662&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105662&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Fri, 25 Mar 2022 06:21:22 GMT</pubDate>
             <content:encoded><![CDATA[2022년 1월 말 경, 세계적인 인증 서비스 업체인 옥타(Okta)에서 보안 사고가 발생했다. 하지만 옥타는 두 달 정도가 지난 바로 어제에 와서야 해당 사건에...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/comp-thumb-0324.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘보안 취약점 정보 포털’ 오픈한다는데... 버그바운티가 더 중요해지는 이유 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105627&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105627&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
+            <pubDate>Thu, 24 Mar 2022 12:28:07 GMT</pubDate>
+            <content:encoded><![CDATA[사이버위협의 주요 요인이 되고 있는 보안 취약점은 무엇보다 신속하게 발견하여 조치하는 것이 중요하다. 이에 정부는 국가 차원에서 국내·외 보안 취약점을 체계적으로...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220323bug-s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[과기정통부, 하이브 랜섬웨어 ‘암호키 복구 도구 개발·배포’ 시작 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
@@ -338,6 +338,14 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/qm-thumb-0322.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[쿠바 랜섬웨어 조직, 현대파워텍 해킹해 내부 파일 유출 주장 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105654&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105654&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Fri, 25 Mar 2022 05:16:30 GMT</pubDate>
+            <content:encoded><![CDATA[쿠바 랜섬웨어 해커조직이 현대파워텍의 내부 파일을 해킹으로 유출했다고 공지했다. 이들은 피해기업을 공개하는 릭(leak) 페이지에 현대파워텍의 회사 소개와 함께 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220324CUBA-S.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[보안 취약점 수집·관리 위한 ‘사이버보안 취약점 정보포털’ 나온다 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105618&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105618&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
@@ -354,12 +362,12 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20153718_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[쿠바 랜섬웨어 조직, 현대파워텍 해킹해 내부 파일 유출 주장 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105654&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105654&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Fri, 25 Mar 2022 05:16:30 GMT</pubDate>
-            <content:encoded><![CDATA[쿠바 랜섬웨어 해커조직이 현대파워텍의 내부 파일을 해킹으로 유출했다고 공지했다. 이들은 피해기업을 공개하는 릭(leak) 페이지에 현대파워텍의 회사 소개와 함께 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220324CUBA-S.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[어나니머스, 네슬레 해킹해 10GB 데이터 유출해 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105621&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105621&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Fri, 25 Mar 2022 02:45:05 GMT</pubDate>
+            <content:encoded><![CDATA[국제적인 핵티비스트 단체인 어나니머스가 스위스의 음식료품 회사인 네슬레를 해킹해 10GB의 데이터를 유출했다. 네슬레가 우크라이나를 침공한 러시아에서 계속해서 사...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/nes-thumb-0323.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[지스트 블록체인지능융합센터, SCI급 저널에 논문 게재 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
@@ -368,14 +376,6 @@
             <pubDate>Wed, 23 Mar 2022 03:30:02 GMT</pubDate>
             <content:encoded><![CDATA[지스트(광주과학기술원) 블록체인지능융합센터의 연구 성과가 SCI급 학술지에 잇달아 게재되며 성과를 인정받았다. 블록체인지능융합센터(BIC)는 지난해 7월, 과학기...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/3-193(295).jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[어나니머스, 네슬레 해킹해 10GB 데이터 유출해 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105621&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105621&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Fri, 25 Mar 2022 02:45:05 GMT</pubDate>
-            <content:encoded><![CDATA[국제적인 핵티비스트 단체인 어나니머스가 스위스의 음식료품 회사인 네슬레를 해킹해 10GB의 데이터를 유출했다. 네슬레가 우크라이나를 침공한 러시아에서 계속해서 사...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/nes-thumb-0323.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[문재인 정부 “국방부 이전 계획 무리... 안보문제 등 검토해야” (보안뉴스 ─ 가장 많이 본 기사)]]></title>
