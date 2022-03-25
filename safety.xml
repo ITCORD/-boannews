@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=4</id>
     <title>보안뉴스 ─ SAFETY</title>
-    <updated>2022-03-24T23:19:57.564Z</updated>
+    <updated>2022-03-25T01:06:06.062Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[해양경찰청, ‘제8회 해양안전 포스터 디자인 공모전’ 개최]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=105578&amp;page=1&amp;mkind=4&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=105578&amp;page=1&amp;mkind=4&amp;kind=2"/>
+        <updated>2022-03-25T01:04:22.760Z</updated>
+        <content type="html"><![CDATA[해양경찰청은 오는 5월 2일까지 ‘제8회 해양안전 포스터 디자인 공모전’을 개최한다고 밝혔다. ‘해양안전 포스터 디자인 공모전’은 2015년부터 매년 개최돼 올해로 8회째로, 그동안 다양한 작품 공모 및 전시를 통해 해양안전에 관한 관심과 실천의 중요성을 알려 왔다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[대구소방, 주택용 소방시설 보급률 올해 70% 이상 목표]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=105548&amp;page=1&amp;mkind=4&amp;kind=2</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=105381&amp;page=1&amp;mkind=4&amp;kind=2"/>
         <updated>2022-03-16T01:05:05.911Z</updated>
         <content type="html"><![CDATA[농촌지역 교통사고 예방 사업의 일환으로 추진 중인 ‘2022년 농촌지역 교통안전 지원 사업’이 이달 31일까지 추진된다. 농촌진흥청과 국토교통부는 농촌지역 교통사고를 줄이기 위해 2013년 업무협약을 맺고 해마다 농촌지역 교통안전 지원 사업을 추진하고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서울시, 전국 최초 구급차 전담 정비센터 운영해 구급차 안전 관리 강화]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=105379&amp;page=1&amp;mkind=4&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=105379&amp;page=1&amp;mkind=4&amp;kind=2"/>
-        <updated>2022-03-15T02:40:54.452Z</updated>
-        <content type="html"><![CDATA[서울시 소방재난본부는 증가하는 구급출동 수요에 대응해 구급차 안전 관리를 강화하기 위한 구급차 전담 정비센터를 운영한다고 밝혔다. 구급차 전담 정비센터는 도봉구에 위치한 기존 소방차량 정비센터를 전환한 시설로, 구급차 전용 정비에 필요한 장비 등을 갖추고 자동차 정비 ...]]></content>
     </entry>
 </feed>

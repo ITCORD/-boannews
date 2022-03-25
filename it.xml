@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=2</id>
     <title>보안뉴스 ─ IT</title>
-    <updated>2022-03-24T23:19:57.576Z</updated>
+    <updated>2022-03-25T01:06:06.040Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[LG AI연구원, ‘글로벌 AI 연구 허브’로 도약]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=105637&amp;page=1&amp;mkind=2&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=105637&amp;page=1&amp;mkind=2&amp;kind=3"/>
+        <updated>2022-03-25T01:04:11.750Z</updated>
+        <content type="html"><![CDATA[LG AI연구원이 지난 23일 미국 미시간주 앤아버에 ‘LG AI 리서치 센터(LG AI Research Center, Ann Arbor)’를 신설하며 글로벌 AI 연구 네트워크를 확장한다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[식약처, 차세대 의료기기 전 주기 통합 서비스 구축 사업 착수]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=105636&amp;page=1&amp;mkind=2&amp;kind=2</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=105610&amp;page=1&amp;mkind=2&amp;kind=2"/>
         <updated>2022-03-23T01:15:36.069Z</updated>
         <content type="html"><![CDATA[KT와 신한은행이 AI 인재 양성 분야에서도 협력을 강화하며 미래 금융 디지털 전환 선도에 박차를 가한다고 밝혔다. 양사는 지난 1월 미래 성장 DX 사업을 위해 전략적 파트너십을 맺고 금융 디지털 전환과 플랫폼 기반의 신사업 등의 사업 분야에서 중장기적 협력을 추진하...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ETRI, 중기와 함께 5G 광통신 핵심 부품 ‘기술 독립’]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=105612&amp;page=1&amp;mkind=2&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=105612&amp;page=1&amp;mkind=2&amp;kind=2"/>
-        <updated>2022-03-23T01:15:36.073Z</updated>
-        <content type="html"><![CDATA[한국전자통신연구원(ETRI)은 광통신 부품 중소기업 ㈜오이솔루션 등 9개사와 함께 31종의 부품을 개발, 21종 제품의 사업화에 성공했다고 밝혔다. 이를 통해 현재까지 약 57억원의 매출을 달성했으며, 87명의 고용 창출도 이뤄냈다.]]></content>
     </entry>
 </feed>
