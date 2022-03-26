@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-03-26T05:17:24.334Z</updated>
+    <updated>2022-03-26T06:21:53.294Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[팬데믹 기간 동안 악화된 인재난, 당분간 악순환 예상된다]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=105694&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=105694&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-03-26T06:19:51.917Z</updated>
+        <content type="html"><![CDATA[코로나 바이러스가 창궐하고서 2년이 지났다. 그 사이 많은 기업들이 보안 전문가를 찾느라 애를 먹고 있다. 아니, 심지어 이미 근무하는 보안 담당자들이 죄나 나간다고 해서 더 골치가 아픈 상황이다. 이러한 현황에 대해 IT 산업 협회 중 하나인 ISACA가 보고서를 작...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[단독] 지방세입 고지서·네이버 포인트 위장 해킹 공격, ‘대북 관계자’ 노렸다]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=105693&amp;page=1&amp;mkind=1&amp;kind=1</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=105663&amp;page=1&amp;mkind=1&amp;kind=1"/>
         <updated>2022-03-25T01:04:00.965Z</updated>
         <content type="html"><![CDATA[3월 24일 북한이 동해상으로 ICBM 미사일을 발사하고, 정권교체기인 우리나라를 대상으로 한 사이버공격을 가속화하고 있는 가운데 글로벌 보안기업 맨디언트가 북한 해킹 조직에 대한 상세 보고서를 발표해 관심이 모아지고 있다. 흔히 ‘라자루스’라고 알려진 해킹 부대는 사...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[옥타, 하루 만에 말 바꾸며 “336개 고객사에 영향 있을지도...”]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=105662&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=105662&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-03-25T01:04:00.966Z</updated>
-        <content type="html"><![CDATA[2022년 1월 말 경, 세계적인 인증 서비스 업체인 옥타(Okta)에서 보안 사고가 발생했다. 하지만 옥타는 두 달 정도가 지난 바로 어제에 와서야 해당 사건에 대해 발표하며 “서드파티 고객 지원 엔지니어의 랩톱 한 대에 침해 시도가 있었을 뿐이고 그나마도 성공하지 ...]]></content>
     </entry>
 </feed>

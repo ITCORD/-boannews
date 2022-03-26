@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 26 Mar 2022 05:17:24 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Mar 2022 06:21:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -88,20 +88,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/chain_0321_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[누군지도 모르겠고 왜인지도 모르겠는데 아무튼 희한한 해커들]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105598&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105598&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Wed, 23 Mar 2022 14:15:27 GMT</pubDate>
-            <content:encoded><![CDATA[고급 위협 행위자로 추정되는 한 해킹 단체가 새로운 공격 기법으로 프랑스의 정부 기관과 부동산 업체, 건설 회사들을 공략했다. 이 단체는 오픈소스 도구들과 스테가...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/qm-thumb-0322.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[쿠바 랜섬웨어 조직, 현대파워텍 해킹해 내부 파일 유출 주장]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105654&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105654&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Fri, 25 Mar 2022 05:16:30 GMT</pubDate>
             <content:encoded><![CDATA[쿠바 랜섬웨어 해커조직이 현대파워텍의 내부 파일을 해킹으로 유출했다고 공지했다. 이들은 피해기업을 공개하는 릭(leak) 페이지에 현대파워텍의 회사 소개와 함께 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220324CUBA-S.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[누군지도 모르겠고 왜인지도 모르겠는데 아무튼 희한한 해커들]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105598&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105598&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Wed, 23 Mar 2022 14:15:27 GMT</pubDate>
+            <content:encoded><![CDATA[고급 위협 행위자로 추정되는 한 해킹 단체가 새로운 공격 기법으로 프랑스의 정부 기관과 부동산 업체, 건설 회사들을 공략했다. 이 단체는 오픈소스 도구들과 스테가...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/qm-thumb-0322.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[보안 취약점 수집·관리 위한 ‘사이버보안 취약점 정보포털’ 나온다]]></title>
@@ -144,6 +144,14 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/blue_032101_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[화웨이 인터내셔널, 싱가포르 IMDA로부터 ‘데이터 보호 신뢰 마크’ 인증 획득]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105597&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105597&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
+            <pubDate>Sat, 26 Mar 2022 01:04:15 GMT</pubDate>
+            <content:encoded><![CDATA[화웨이는 싱가포르 자회사인 화웨이 인터내셔널이 싱가포르 정보통신 미디어 개발청(Infocomm Media Development Authority, IMDA)으로부...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/huawei_032201_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[웹하드에서 ‘오피스+정품 인증 툴’ 받다간 악성코드 감염된다!]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105626&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105626&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 25 Mar 2022 08:20:48 GMT</pubDate>
             <content:encoded><![CDATA[최근 우크라이나 사태 관련 사이버전 확산, 국내 기업을 대상으로 하는 랜섬웨어, 정보유출 사고 발생 등 국내·외 사이버위협 우려가 고조됨에 따라 선제적이고 체계적...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/nis_032101_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[화웨이 인터내셔널, 싱가포르 IMDA로부터 ‘데이터 보호 신뢰 마크’ 인증 획득]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105597&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105597&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
-            <pubDate>Sat, 26 Mar 2022 01:04:15 GMT</pubDate>
-            <content:encoded><![CDATA[화웨이는 싱가포르 자회사인 화웨이 인터내셔널이 싱가포르 정보통신 미디어 개발청(Infocomm Media Development Authority, IMDA)으로부...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/huawei_032201_main.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

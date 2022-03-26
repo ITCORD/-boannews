@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 26 Mar 2022 05:17:24 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Mar 2022 06:21:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[주말판] 팬데믹과 전쟁으로 악화된 공급망 위기, 3D 프린터로 해결하자 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105709&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105709&amp;page=1&amp;kind=1</guid>
+            <pubDate>Sat, 26 Mar 2022 06:19:30 GMT</pubDate>
+            <content:encoded><![CDATA[지구의 여러 지역에서 벌어진 갖가지 사건들 때문에 공급망 위기가 전 세계를 덮치고 있다. 팬데믹의 악영향은 이루 말할 것도 없고, 우크라이나에서 벌어지고 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/3d-thumb-0326.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[우크라이나 사태로 보안위협 고조! 주요기관 사이버보안 점검 나섰다 (보안뉴스 ─ 전체기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105708&amp;page=1&amp;kind=1</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 25 Mar 2022 06:21:12 GMT</pubDate>
             <content:encoded><![CDATA[최근 코로나19로 매출이 줄어든 소상공인 등 금전적 어려움을 겪는 서민들이 늘어난 요즘, 이들을 대상으로 대출을 미끼로한 악성행위를 하는 앱이 늘어나고 있...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/est_032502_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영국 경찰, 랩서스 갱단으로 보이는 용의자 7명 체포 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105689&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105689&amp;page=1&amp;kind=1</guid>
-            <pubDate>Fri, 25 Mar 2022 02:44:53 GMT</pubDate>
-            <content:encoded><![CDATA[보안 외신 쓰레트포스트에 의하면 영국 경찰이 최근 전 세계적인 해킹 사고를 일으켜 문제가 되고 있는 랩서스(Lapsus$)의 일원으로 보이는 용의자 7명을...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/arre-thumb-0325.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[전주시, ‘드론산업 거점’ 드론산업혁신지원센터 개소 (보안뉴스 ─ 전체기사)]]></title>
@@ -162,6 +162,14 @@
             <content:encoded><![CDATA[천안시가 행정안전부로부터 ‘재난대응 안전한국 훈련 우수기관’으로 선정돼 지난 15일 장관 표창을 받았다. 천안시가 매년 주최하는 재난대응 안전한국 훈련은 ...]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[영국 경찰, 랩서스 갱단으로 보이는 용의자 7명 체포 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105689&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105689&amp;page=1&amp;kind=1</guid>
+            <pubDate>Fri, 25 Mar 2022 02:44:53 GMT</pubDate>
+            <content:encoded><![CDATA[보안 외신 쓰레트포스트에 의하면 영국 경찰이 최근 전 세계적인 해킹 사고를 일으켜 문제가 되고 있는 랩서스(Lapsus$)의 일원으로 보이는 용의자 7명을...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/arre-thumb-0325.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[북한 해커들, 자기들끼리 크롬 제로데이 취약점 공유 (보안뉴스 ─ 전체기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105688&amp;page=1&amp;kind=1</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105688&amp;page=1&amp;kind=1</guid>
@@ -230,13 +238,6 @@
             <guid>https://www.boannews.com/media/view.asp?idx=105672&amp;page=1&amp;kind=2</guid>
             <pubDate>Fri, 25 Mar 2022 02:44:53 GMT</pubDate>
             <content:encoded><![CDATA[과학기술정보통신부는 정보통신기술 분야 전공 대학생 345명을 대상으로 중소·중견 정보통신기술 기업 등의 직무 프로젝트 기반 인턴십을 지원하는 ‘정보통신기술...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[봄 산행, 실족과 조난에 주의하세요 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105673&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105673&amp;page=1&amp;kind=2</guid>
-            <pubDate>Fri, 25 Mar 2022 02:44:53 GMT</pubDate>
-            <content:encoded><![CDATA[행정안전부는 봄을 맞아 산행에 나서는 분들이 많아질 것으로 예상됨에 따라 등산사고 예방에 각별한 주의를 요청했다. 지난 2020년에 발생한 등산사고는 총 ...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[러시아에 항의한다면서 소프트웨어 공급망 공격을 한 개발자 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
@@ -319,20 +320,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/chain_0321_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[누군지도 모르겠고 왜인지도 모르겠는데 아무튼 희한한 해커들 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105598&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105598&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Wed, 23 Mar 2022 14:15:27 GMT</pubDate>
-            <content:encoded><![CDATA[고급 위협 행위자로 추정되는 한 해킹 단체가 새로운 공격 기법으로 프랑스의 정부 기관과 부동산 업체, 건설 회사들을 공략했다. 이 단체는 오픈소스 도구들과 스테가...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/qm-thumb-0322.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[쿠바 랜섬웨어 조직, 현대파워텍 해킹해 내부 파일 유출 주장 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105654&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105654&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Fri, 25 Mar 2022 05:16:30 GMT</pubDate>
             <content:encoded><![CDATA[쿠바 랜섬웨어 해커조직이 현대파워텍의 내부 파일을 해킹으로 유출했다고 공지했다. 이들은 피해기업을 공개하는 릭(leak) 페이지에 현대파워텍의 회사 소개와 함께 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220324CUBA-S.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[누군지도 모르겠고 왜인지도 모르겠는데 아무튼 희한한 해커들 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105598&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105598&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Wed, 23 Mar 2022 14:15:27 GMT</pubDate>
+            <content:encoded><![CDATA[고급 위협 행위자로 추정되는 한 해킹 단체가 새로운 공격 기법으로 프랑스의 정부 기관과 부동산 업체, 건설 회사들을 공략했다. 이 단체는 오픈소스 도구들과 스테가...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/qm-thumb-0322.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[보안 취약점 수집·관리 위한 ‘사이버보안 취약점 정보포털’ 나온다 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
@@ -375,6 +376,14 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/blue_032101_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[화웨이 인터내셔널, 싱가포르 IMDA로부터 ‘데이터 보호 신뢰 마크’ 인증 획득 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105597&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105597&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
+            <pubDate>Sat, 26 Mar 2022 01:04:15 GMT</pubDate>
+            <content:encoded><![CDATA[화웨이는 싱가포르 자회사인 화웨이 인터내셔널이 싱가포르 정보통신 미디어 개발청(Infocomm Media Development Authority, IMDA)으로부...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/huawei_032201_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[웹하드에서 ‘오피스+정품 인증 툴’ 받다간 악성코드 감염된다! (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105626&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105626&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
@@ -391,12 +400,11 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/nis_032101_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[화웨이 인터내셔널, 싱가포르 IMDA로부터 ‘데이터 보호 신뢰 마크’ 인증 획득 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105597&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105597&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
-            <pubDate>Sat, 26 Mar 2022 01:04:15 GMT</pubDate>
-            <content:encoded><![CDATA[화웨이는 싱가포르 자회사인 화웨이 인터내셔널이 싱가포르 정보통신 미디어 개발청(Infocomm Media Development Authority, IMDA)으로부...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/huawei_032201_main.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[팬데믹 기간 동안 악화된 인재난, 당분간 악순환 예상된다 (보안뉴스 ─ SECURITY)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105694&amp;page=1&amp;mkind=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105694&amp;page=1&amp;mkind=1&amp;kind=1</guid>
+            <pubDate>Sat, 26 Mar 2022 06:19:51 GMT</pubDate>
+            <content:encoded><![CDATA[코로나 바이러스가 창궐하고서 2년이 지났다. 그 사이 많은 기업들이 보안 전문가를 찾느라 애를 먹고 있다. 아니, 심지어 이미 근무하는 보안 담당자들이 죄나 나간다고 해서 더 골치가 아픈 상황이다. 이러한 현황에 대해 IT 산업 협회 중 하나인 ISACA가 보고서를 작...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[단독] 지방세입 고지서·네이버 포인트 위장 해킹 공격, ‘대북 관계자’ 노렸다 (보안뉴스 ─ SECURITY)]]></title>
@@ -509,13 +517,6 @@
             <guid>https://www.boannews.com/media/view.asp?idx=105663&amp;page=1&amp;mkind=1&amp;kind=1</guid>
             <pubDate>Fri, 25 Mar 2022 01:04:00 GMT</pubDate>
             <content:encoded><![CDATA[3월 24일 북한이 동해상으로 ICBM 미사일을 발사하고, 정권교체기인 우리나라를 대상으로 한 사이버공격을 가속화하고 있는 가운데 글로벌 보안기업 맨디언트가 북한 해킹 조직에 대한 상세 보고서를 발표해 관심이 모아지고 있다. 흔히 ‘라자루스’라고 알려진 해킹 부대는 사...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[옥타, 하루 만에 말 바꾸며 “336개 고객사에 영향 있을지도...” (보안뉴스 ─ SECURITY)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105662&amp;page=1&amp;mkind=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105662&amp;page=1&amp;mkind=1&amp;kind=1</guid>
-            <pubDate>Fri, 25 Mar 2022 01:04:00 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 1월 말 경, 세계적인 인증 서비스 업체인 옥타(Okta)에서 보안 사고가 발생했다. 하지만 옥타는 두 달 정도가 지난 바로 어제에 와서야 해당 사건에 대해 발표하며 “서드파티 고객 지원 엔지니어의 랩톱 한 대에 침해 시도가 있었을 뿐이고 그나마도 성공하지 ...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[광주시, 드론·도심항공교통 신산업 융합 로드맵 만든다 (보안뉴스 ─ IT)]]></title>
@@ -1892,6 +1893,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/yoon_012801_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[주말판] 팬데믹과 전쟁으로 악화된 공급망 위기, 3D 프린터로 해결하자 (보안뉴스 ─ 국제)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105709&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105709&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
+            <pubDate>Sat, 26 Mar 2022 06:21:19 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/view.asp?idx=105709&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
+					
+					<img src="/media/upFiles2/2022/03/3d-thumb-0326.jpg" alt="" class="news_img" height="70">
+					
+					<span class="news_txt">[주말판] 팬데믹과 전쟁으로 악화된 공급망 위기, 3D 프린터로 해결하자</span>
+					</a><br>
+					<a href="/media/view.asp?idx=105709&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">지구의 여러 지역에서 벌어진 갖가지 사건들 때문에 공급망 위기가 전 세계를 덮치고 있다. 팬데믹의 악영향은 이루 말할 것도 없고, 우크라이나에서 벌어지고 있는 전...</a> <span class="news_writer">문가용 기자 | 2022년 03월 26일 14:49</span>]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/3d-thumb-0326.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[팬데믹 기간 동안 악화된 인재난, 당분간 악순환 예상된다 (보안뉴스 ─ 국제)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105694&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105694&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
@@ -2156,20 +2171,6 @@
 					</a><br>
 					<a href="/media/view.asp?idx=105621&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">국제적인 핵티비스트 단체인 어나니머스가 스위스의 음식료품 회사인 네슬레를 해킹해 10GB의 데이터를 유출했다. 네슬레가 우크라이나를 침공한 러시아에서 계속해서 사...</a> <span class="news_writer">문가용 기자 | 2022년 03월 23일 11:33</span>]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/nes-thumb-0323.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마이크로소프트도 랩서스에 해킹 당했다? (보안뉴스 ─ 국제)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105620&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105620&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
-            <pubDate>Wed, 23 Mar 2022 03:31:39 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/view.asp?idx=105620&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
-					
-					<img src="/media/upFiles2/2022/03/breach-thumb-0323.jpg" alt="" class="news_img" height="70">
-					
-					<span class="news_txt">마이크로소프트도 랩서스에 해킹 당했다?</span>
-					</a><br>
-					<a href="/media/view.asp?idx=105620&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">보안 외신 핵리드에 의하면 랩서스 해커들의 거침없는 진격이 이어지고 있다고 한다. 랩서스는 최근 마이크로소프트로부터 각종 데이터를 훔쳐냈다고 주장하고 나섰다. 주...</a> <span class="news_writer">문가용 기자 | 2022년 03월 23일 11:32</span>]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/breach-thumb-0323.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[통합보안 3사 에스원·SK쉴더스·KT텔레캅, 소비자의 생각과 선택은? (보안뉴스 ─ 기획특집)]]></title>
