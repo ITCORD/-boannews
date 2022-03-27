@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Mar 2022 03:23:19 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Mar 2022 04:23:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -384,20 +384,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/nes-thumb-0323.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[웹하드에서 ‘오피스+정품 인증 툴’ 받다간 악성코드 감염된다! (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105626&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105626&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Fri, 25 Mar 2022 09:16:38 GMT</pubDate>
-            <content:encoded><![CDATA[최근 ‘윈도우 정품인증 툴’로 위장한 BitRAT 악성코드가 이번에는 ‘오피스 정품인증 툴’로 위장해 유포되고 있어 사용자들의 주의가 요구된다. 안랩 ASEC 분...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/ahn_032301_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[우크라이나 사태로 보안위협 고조! 주요기관 사이버보안 점검 나섰다 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105708&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105708&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Sun, 27 Mar 2022 03:21:06 GMT</pubDate>
             <content:encoded><![CDATA[21일 공공분야 사이버위기경보를 ‘관심’에서 ‘주의’ 단계로 상향한 국가정보원(이하 국정원)이 외교·안보 부처와 원전·가스공사 등 핵심 기반시설을 대상으로 사이버...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220326nis-s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[웹하드에서 ‘오피스+정품 인증 툴’ 받다간 악성코드 감염된다! (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105626&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105626&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Fri, 25 Mar 2022 09:16:38 GMT</pubDate>
+            <content:encoded><![CDATA[최근 ‘윈도우 정품인증 툴’로 위장한 BitRAT 악성코드가 이번에는 ‘오피스 정품인증 툴’로 위장해 유포되고 있어 사용자들의 주의가 요구된다. 안랩 ASEC 분...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/ahn_032301_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[팬데믹 기간 동안 악화된 인재난, 당분간 악순환 예상된다 (보안뉴스 ─ SECURITY)]]></title>
