@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Mar 2022 14:17:56 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Mar 2022 15:19:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,14 +30,6 @@
             <pubDate>Fri, 25 Mar 2022 06:21:22 GMT</pubDate>
             <content:encoded><![CDATA[2022년 1월 말 경, 세계적인 인증 서비스 업체인 옥타(Okta)에서 보안 사고가 발생했다. 하지만 옥타는 두 달 정도가 지난 바로 어제에 와서야 해당 사건에...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/comp-thumb-0324.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[탄소배출 전문기업 대상 ‘골드 드래곤’ 악성코드 공격 발견]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105551&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105551&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
-            <pubDate>Mon, 21 Mar 2022 12:31:58 GMT</pubDate>
-            <content:encoded><![CDATA[최근 탄소배출 전문기업을 대상으로 문서형 APT 공격이 이뤄진 정황이 발견돼 관련 기업들의 주의가 요구된다. 특히, 이번 공격에서 발견된 ‘골드 드래곤(Gold ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/ahnlab_032001_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[삼성·LG전자부터 MS·옥타까지 뚫렸다! ‘랩서스’ 해커그룹 집중 추적기]]></title>
@@ -80,20 +72,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/esrc2_0325001_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[쿠바 랜섬웨어 조직, 현대파워텍 해킹해 내부 파일 유출 주장]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105654&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105654&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Fri, 25 Mar 2022 05:16:30 GMT</pubDate>
-            <content:encoded><![CDATA[쿠바 랜섬웨어 해커조직이 현대파워텍의 내부 파일을 해킹으로 유출했다고 공지했다. 이들은 피해기업을 공개하는 릭(leak) 페이지에 현대파워텍의 회사 소개와 함께 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220324CUBA-S.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[팬데믹 기간 동안 악화된 인재난, 당분간 악순환 예상된다]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105694&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105694&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Sat, 26 Mar 2022 15:17:22 GMT</pubDate>
             <content:encoded><![CDATA[코로나 바이러스가 창궐하고서 2년이 지났다. 그 사이 많은 기업들이 보안 전문가를 찾느라 애를 먹고 있다. 아니, 심지어 이미 근무하는 보안 담당자들이 죄나 나간...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/emp-thumb-0325.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[쿠바 랜섬웨어 조직, 현대파워텍 해킹해 내부 파일 유출 주장]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105654&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105654&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Fri, 25 Mar 2022 05:16:30 GMT</pubDate>
+            <content:encoded><![CDATA[쿠바 랜섬웨어 해커조직이 현대파워텍의 내부 파일을 해킹으로 유출했다고 공지했다. 이들은 피해기업을 공개하는 릭(leak) 페이지에 현대파워텍의 회사 소개와 함께 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220324CUBA-S.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[우크라이나 사태로 보안위협 고조! 주요기관 사이버보안 점검 나섰다]]></title>
@@ -166,6 +158,14 @@
             <pubDate>Fri, 25 Mar 2022 09:16:38 GMT</pubDate>
             <content:encoded><![CDATA[최근 ‘윈도우 정품인증 툴’로 위장한 BitRAT 악성코드가 이번에는 ‘오피스 정품인증 툴’로 위장해 유포되고 있어 사용자들의 주의가 요구된다. 안랩 ASEC 분...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/ahn_032301_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[문재인 정부 “국방부 이전 계획 무리... 안보문제 등 검토해야”]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105566&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105566&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
+            <pubDate>Sun, 27 Mar 2022 15:17:27 GMT</pubDate>
+            <content:encoded><![CDATA[청와대가 NSC 확대관계장관회의를 개최하고 차기정부의 국방부 집무실 이전과 관련해 촉박한 이전은 안보 공백우려가 있을 수 있다고 지적했다. 다만 문재인 대통령도 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/blue_032101_main.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
