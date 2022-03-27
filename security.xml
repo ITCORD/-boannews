@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-03-27T15:19:38.734Z</updated>
+    <updated>2022-03-27T16:25:39.058Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[대구시, 대구·경북 사이버보안 연구회 발족식 개최]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=105701&amp;page=1&amp;mkind=1&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=105701&amp;page=1&amp;mkind=1&amp;kind=2"/>
+        <updated>2022-03-27T16:23:35.506Z</updated>
+        <content type="html"><![CDATA[대구시는 지난 24일 대구·경북 지역대학의 사이버보안 인재 육성 및 사이버침해 대응역량 강화를 위해 경북도·국가정보원·지역 5개 대학 등 유관기관과 함께 ‘대구·경북 사이버보안 연구회’의 발족식을 개최했다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[팬데믹 기간 동안 악화된 인재난, 당분간 악순환 예상된다]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=105694&amp;page=1&amp;mkind=1&amp;kind=1</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=105667&amp;page=1&amp;mkind=1&amp;kind=2"/>
         <updated>2022-03-25T01:04:00.962Z</updated>
         <content type="html"><![CDATA[한국조폐공사는 ‘정보보안 및 개인정보보호 실천 다짐대회’를 개최한데 이어 보안 의식과 역량 강화를 위한 각 부서별 릴레이 캠페인을 올 연말까지 전개한다고 밝혔다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ICBM 쏘고 물밑에선 사이버전... 북한 해킹 조직 집중 해부하다]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=105663&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=105663&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-03-25T01:04:00.965Z</updated>
-        <content type="html"><![CDATA[3월 24일 북한이 동해상으로 ICBM 미사일을 발사하고, 정권교체기인 우리나라를 대상으로 한 사이버공격을 가속화하고 있는 가운데 글로벌 보안기업 맨디언트가 북한 해킹 조직에 대한 상세 보고서를 발표해 관심이 모아지고 있다. 흔히 ‘라자루스’라고 알려진 해킹 부대는 사...]]></content>
     </entry>
 </feed>
