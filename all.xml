@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Mar 2022 12:31:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Mar 2022 13:27:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -340,6 +340,14 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/msit_032301_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[기업 사용자 노린 악성 워드 문서 또 발견! 국내 기업 해킹 타깃 되나 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105710&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105710&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Mon, 28 Mar 2022 09:19:27 GMT</pubDate>
+            <content:encoded><![CDATA[최근 삼성전자와 LG전자를 비롯해 마이크로소프트와 옥타 등 글로벌 대기업들이 랩서스에게 해킹 피해를 당하는 등 기업들을 타깃으로 한 사이버 공격이 거세지고 있는 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220327ahn-s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[주말판] 팬데믹과 전쟁으로 악화된 공급망 위기, 3D 프린터로 해결하자 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105709&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105709&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
@@ -354,14 +362,6 @@
             <pubDate>Wed, 23 Mar 2022 14:15:27 GMT</pubDate>
             <content:encoded><![CDATA[고급 위협 행위자로 추정되는 한 해킹 단체가 새로운 공격 기법으로 프랑스의 정부 기관과 부동산 업체, 건설 회사들을 공략했다. 이 단체는 오픈소스 도구들과 스테가...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/qm-thumb-0322.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[기업 사용자 노린 악성 워드 문서 또 발견! 국내 기업 해킹 타깃 되나 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105710&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105710&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Mon, 28 Mar 2022 09:19:27 GMT</pubDate>
-            <content:encoded><![CDATA[최근 삼성전자와 LG전자를 비롯해 마이크로소프트와 옥타 등 글로벌 대기업들이 랩서스에게 해킹 피해를 당하는 등 기업들을 타깃으로 한 사이버 공격이 거세지고 있는 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220327ahn-s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[웹하드에서 ‘오피스+정품 인증 툴’ 받다간 악성코드 감염된다! (보안뉴스 ─ 가장 많이 본 기사)]]></title>
