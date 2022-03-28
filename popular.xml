@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Mar 2022 08:24:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Mar 2022 09:21:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -112,20 +112,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/msit_032301_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[누군지도 모르겠고 왜인지도 모르겠는데 아무튼 희한한 해커들]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105598&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105598&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Wed, 23 Mar 2022 14:15:27 GMT</pubDate>
-            <content:encoded><![CDATA[고급 위협 행위자로 추정되는 한 해킹 단체가 새로운 공격 기법으로 프랑스의 정부 기관과 부동산 업체, 건설 회사들을 공략했다. 이 단체는 오픈소스 도구들과 스테가...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/qm-thumb-0322.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[주말판] 팬데믹과 전쟁으로 악화된 공급망 위기, 3D 프린터로 해결하자]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105709&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105709&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Sun, 27 Mar 2022 22:18:01 GMT</pubDate>
             <content:encoded><![CDATA[지구의 여러 지역에서 벌어진 갖가지 사건들 때문에 공급망 위기가 전 세계를 덮치고 있다. 팬데믹의 악영향은 이루 말할 것도 없고, 우크라이나에서 벌어지고 있는 전...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/3d-thumb-0326.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[누군지도 모르겠고 왜인지도 모르겠는데 아무튼 희한한 해커들]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105598&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105598&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Wed, 23 Mar 2022 14:15:27 GMT</pubDate>
+            <content:encoded><![CDATA[고급 위협 행위자로 추정되는 한 해킹 단체가 새로운 공격 기법으로 프랑스의 정부 기관과 부동산 업체, 건설 회사들을 공략했다. 이 단체는 오픈소스 도구들과 스테가...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/qm-thumb-0322.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[웹하드에서 ‘오피스+정품 인증 툴’ 받다간 악성코드 감염된다!]]></title>
@@ -144,14 +144,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/3-255(295).jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[문재인 정부 “국방부 이전 계획 무리... 안보문제 등 검토해야”]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105566&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105566&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
-            <pubDate>Mon, 28 Mar 2022 04:22:36 GMT</pubDate>
-            <content:encoded><![CDATA[청와대가 NSC 확대관계장관회의를 개최하고 차기정부의 국방부 집무실 이전과 관련해 촉박한 이전은 안보 공백우려가 있을 수 있다고 지적했다. 다만 문재인 대통령도 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/blue_032101_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[공공분야에 체계적이고 엄격한 개인정보보호 추진한다]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105594&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105594&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
@@ -166,6 +158,14 @@
             <pubDate>Mon, 28 Mar 2022 08:22:18 GMT</pubDate>
             <content:encoded><![CDATA[국제적인 핵티비스트 단체인 어나니머스가 스위스의 음식료품 회사인 네슬레를 해킹해 10GB의 데이터를 유출했다. 네슬레가 우크라이나를 침공한 러시아에서 계속해서 사...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/nes-thumb-0323.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[기업 사용자 노린 악성 워드 문서 또 발견! 국내 기업 해킹 타깃 되나]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105710&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105710&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Mon, 28 Mar 2022 09:19:27 GMT</pubDate>
+            <content:encoded><![CDATA[최근 삼성전자와 LG전자를 비롯해 마이크로소프트와 옥타 등 글로벌 대기업들이 랩서스에게 해킹 피해를 당하는 등 기업들을 타깃으로 한 사이버 공격이 거세지고 있는 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220327ahn-s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
