@@ -4,9 +4,17 @@
         <title>보안뉴스 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Mar 2022 04:24:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Mar 2022 05:18:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘과학치안실용화사업’ 추진으로 치안산업 진흥 터전 마련]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105723&amp;page=1&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105723&amp;page=1&amp;kind=2</guid>
+            <pubDate>Mon, 28 Mar 2022 05:16:06 GMT</pubDate>
+            <content:encoded><![CDATA[과학기술정보통신부(장관 임혜숙, 이하‘과기정통부’)와 경찰청(청장 김창룡)은 공공연구성과와 과학치안 수요를 연계해 첨단 과학수사 기법, 장비 연구개발 등에...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20514182_main.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2022년 공공부문 정보보호 예산 7,411억 확정]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105722&amp;page=1&amp;kind=2</link>
@@ -80,12 +88,11 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220326nis-s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[대구시, 대구·경북 사이버보안 연구회 발족식 개최]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105701&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105701&amp;page=1&amp;kind=2</guid>
-            <pubDate>Sat, 26 Mar 2022 02:47:34 GMT</pubDate>
-            <content:encoded><![CDATA[대구시는 지난 24일 대구·경북 지역대학의 사이버보안 인재 육성 및 사이버침해 대응역량 강화를 위해 경북도·국가정보원·지역 5개 대학 등 유관기관과 함께 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/3-255(295).jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[국내 대학에서 개인정보 보호·활용 전문가 양성한다]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105724&amp;page=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105724&amp;page=1&amp;kind=3</guid>
+            <pubDate>Mon, 28 Mar 2022 05:16:07 GMT</pubDate>
+            <content:encoded><![CDATA[개인정보보호위원회(위원장 윤종인, 이하 ‘개인정보위’)는 국내 대학을 대상으로 ‘개인정보보호 특화 교과과정’ 개발‧운영을 지원하는 ‘개인정보보호...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[델 테크놀로지스-SK텔레콤, 통신서비스사업자를 위한 5G MEC 통합 솔루션 출시]]></title>
@@ -180,6 +187,14 @@
             <content:encoded><![CDATA[대구시는 화재에 취약한 기존 건축물의 화재안전 성능을 향상시켜 대형 인명 피해를 줄이고 건축물 화재로부터 시민의 안전을 확보하는 등 보강 사업이 원활히 이...]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[대구시, 대구·경북 사이버보안 연구회 발족식 개최]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105701&amp;page=1&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105701&amp;page=1&amp;kind=2</guid>
+            <pubDate>Sat, 26 Mar 2022 02:47:34 GMT</pubDate>
+            <content:encoded><![CDATA[대구시는 지난 24일 대구·경북 지역대학의 사이버보안 인재 육성 및 사이버침해 대응역량 강화를 위해 경북도·국가정보원·지역 5개 대학 등 유관기관과 함께 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/3-255(295).jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[대한항공, 항공안전기술원과 ‘UAM 운용 안전 기술 개발’ 협력]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105700&amp;page=1&amp;kind=2</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105700&amp;page=1&amp;kind=2</guid>
@@ -223,22 +238,6 @@
             <guid>https://www.boannews.com/media/view.asp?idx=105695&amp;page=1&amp;kind=2</guid>
             <pubDate>Sat, 26 Mar 2022 02:47:34 GMT</pubDate>
             <content:encoded><![CDATA[천안시가 행정안전부로부터 ‘재난대응 안전한국 훈련 우수기관’으로 선정돼 지난 15일 장관 표창을 받았다. 천안시가 매년 주최하는 재난대응 안전한국 훈련은 ...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[팬데믹 기간 동안 악화된 인재난, 당분간 악순환 예상된다]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105694&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105694&amp;page=1&amp;kind=1</guid>
-            <pubDate>Fri, 25 Mar 2022 09:16:25 GMT</pubDate>
-            <content:encoded><![CDATA[코로나 바이러스가 창궐하고서 2년이 지났다. 그 사이 많은 기업들이 보안 전문가를 찾느라 애를 먹고 있다. 아니, 심지어 이미 근무하는 보안 담당자들이 죄...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/emp-thumb-0325.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[단독] 지방세입 고지서·네이버 포인트 위장 해킹 공격, ‘대북 관계자’ 노렸다]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105693&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105693&amp;page=1&amp;kind=1</guid>
-            <pubDate>Fri, 25 Mar 2022 08:20:37 GMT</pubDate>
-            <content:encoded><![CDATA[3월 24일 대북 관계자를 노린 지방세입 고지서 사칭 해킹공격이 발생해 관계자들의 주의가 요구된다. 특히, 이번 공격은 지난 2월 발생했던 북한 언론매체 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/esrc2_0325001_main.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

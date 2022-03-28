@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-03-28T04:24:46.658Z</updated>
+    <updated>2022-03-28T05:18:28.852Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[허브스팟 데이터 유출 사고, 암호화폐 업계 전체에 파장 미쳐]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=105720&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=105720&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-03-28T05:16:31.868Z</updated>
+        <content type="html"><![CDATA[마케팅, 영업, 고객 서비스 플랫폼인 허브스팟에서 데이터 유출 사고가 발생했다고 보안 외신 쓰레트포스트가 보도했다. 허브스폿의 직원 계정을 확보한 누군가가 암호화폐 분야의 고객사들의 데이터를 집중적으로 빼간 것으로 보인다고 한다. 허브스팟과의 계약서 정보가 특히나 주요...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[미국 통신위원회, 카스퍼스키를 국가 안보 위협으로 지정]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=105719&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=105719&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-03-28T05:16:31.870Z</updated>
+        <content type="html"><![CDATA[미국의 연방통신위원회(FCC)가 국가 안보를 위협하는 기업들의 목록에 러시아의 보안 업체 카스퍼스키(Kaspersky)를 추가했다고 해커뉴스가 보도했다. 이 목록에 러시아 기업이 포함된 건 이번이 처음이다. 보통은 차이나텔레콤(China Telecom), 차이나 모바일...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[하이브 랜섬웨어, 리눅스 VM웨어 ESXi 인크립터를 러스트로 포팅]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=105718&amp;page=1&amp;mkind=1&amp;kind=1</id>
@@ -109,19 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=105692&amp;page=1&amp;mkind=1&amp;kind=1"/>
         <updated>2022-03-26T02:47:56.112Z</updated>
         <content type="html"><![CDATA[2022년 3월 셋째 주, 우리나라에 가장 많이 유포된 악성코드 유형은 1~2년간 가장 높은 비율을 차지하고 있는 개인정보 및 계정정보 탈취 목적의 인포스틸러 악성코드인 것으로 분석됐다. 보안전문 업체 안랩의 ASEC 분석팀이 ASEC 자동 분석 시스템 ‘RAPIT’를...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국인터넷정보센터(KRNIC) 사칭 정보수집 악성 이메일 유포]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=105691&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=105691&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-03-25T09:16:50.880Z</updated>
-        <content type="html"><![CDATA[최근 한국인터넷정보센터(KRNIC)를 사칭한 악성 이메일이 발견되어 사용자들의 각별한 주의가 요구된다. 한국인터넷진흥원(KISA)이 운영하는 한국인터넷정보센터는 국내 인터넷주소자원 관리와 IP 주소 및 도메인 등록 업무 등을 담당하고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대형 도소매 체인 월마트, IT 전문가 5천 명 채용한다]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=105680&amp;page=1&amp;mkind=1&amp;kind=4</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=105680&amp;page=1&amp;mkind=1&amp;kind=4"/>
-        <updated>2022-03-25T08:20:59.642Z</updated>
-        <content type="html"><![CDATA[미국의 대형 스토어 체인인 월마트(월마트 글로벌 테크, Walmart Global Tech)가 IT 인력들을 대거 모집하고 있다. 대거가 어느 정도냐고? 무려 5천 명이다. 5천 명의 소프트웨어 엔지니어, 개발자, IT 아키텍트, 데이터 과학자, 데이터 엔지니어 등을 ...]]></content>
     </entry>
 </feed>
