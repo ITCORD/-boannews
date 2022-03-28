@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Mar 2022 07:22:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Mar 2022 08:24:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,14 +104,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/huawei_032201_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[북한, 미세탁 가상자산 1억 7,000만 달러 있다]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105565&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105565&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Wed, 23 Mar 2022 03:30:02 GMT</pubDate>
-            <content:encoded><![CDATA[북한이 해킹으로 탈취한 가상자산 중 아직 1억 7,000만 달러가 세탁되지 않은 것으로 알려졌다. 블록체인 데이터 플랫폼 기업 체이널리시스(한국지사장 백용기)는 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/chain_0321_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[보안 취약점 수집·관리 위한 ‘사이버보안 취약점 정보포털’ 나온다]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105618&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105618&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
@@ -128,20 +120,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/qm-thumb-0322.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[웹하드에서 ‘오피스+정품 인증 툴’ 받다간 악성코드 감염된다!]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105626&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105626&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Mon, 28 Mar 2022 03:34:03 GMT</pubDate>
-            <content:encoded><![CDATA[최근 ‘윈도우 정품인증 툴’로 위장한 BitRAT 악성코드가 이번에는 ‘오피스 정품인증 툴’로 위장해 유포되고 있어 사용자들의 주의가 요구된다. 안랩 ASEC 분...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/ahn_032301_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[주말판] 팬데믹과 전쟁으로 악화된 공급망 위기, 3D 프린터로 해결하자]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105709&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105709&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Sun, 27 Mar 2022 22:18:01 GMT</pubDate>
             <content:encoded><![CDATA[지구의 여러 지역에서 벌어진 갖가지 사건들 때문에 공급망 위기가 전 세계를 덮치고 있다. 팬데믹의 악영향은 이루 말할 것도 없고, 우크라이나에서 벌어지고 있는 전...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/3d-thumb-0326.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[웹하드에서 ‘오피스+정품 인증 툴’ 받다간 악성코드 감염된다!]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105626&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105626&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Mon, 28 Mar 2022 03:34:03 GMT</pubDate>
+            <content:encoded><![CDATA[최근 ‘윈도우 정품인증 툴’로 위장한 BitRAT 악성코드가 이번에는 ‘오피스 정품인증 툴’로 위장해 유포되고 있어 사용자들의 주의가 요구된다. 안랩 ASEC 분...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/ahn_032301_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[대구시, 대구·경북 사이버보안 연구회 발족식 개최]]></title>
@@ -166,6 +158,14 @@
             <pubDate>Thu, 24 Mar 2022 02:49:03 GMT</pubDate>
             <content:encoded><![CDATA[최근 공공기관에서 개인정보보호 유출사고가 발생하는 등 개인정보보호의 엄중함을 인식하고 국민의 민감한 개인정보를 다수 취급하고 있는 65개 소속·산하기관을 대상으로...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20153718_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[어나니머스, 네슬레 해킹해 10GB 데이터 유출해]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105621&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105621&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Mon, 28 Mar 2022 08:22:18 GMT</pubDate>
+            <content:encoded><![CDATA[국제적인 핵티비스트 단체인 어나니머스가 스위스의 음식료품 회사인 네슬레를 해킹해 10GB의 데이터를 유출했다. 네슬레가 우크라이나를 침공한 러시아에서 계속해서 사...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/nes-thumb-0323.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Mar 2022 07:22:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Mar 2022 08:24:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -86,6 +86,14 @@
             <pubDate>Sat, 26 Mar 2022 06:19:30 GMT</pubDate>
             <content:encoded><![CDATA[지구의 여러 지역에서 벌어진 갖가지 사건들 때문에 공급망 위기가 전 세계를 덮치고 있다. 팬데믹의 악영향은 이루 말할 것도 없고, 우크라이나에서 벌어지고 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/3d-thumb-0326.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NNSP 중동지역 최대 사이버보안 행사 ‘GISEC Global 2022’ 참가 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105728&amp;page=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105728&amp;page=1&amp;kind=3</guid>
+            <pubDate>Mon, 28 Mar 2022 08:22:07 GMT</pubDate>
+            <content:encoded><![CDATA[중동지역에서 가장 크게 열리는 사이버보안 엑스포인 GISEC Global 2022 행사가 UAE(아랍 에미리트) 두바이 월드트레이드센터에서 3월 21일부터...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/nnsp_032801_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[KISIA, 정보보호산업 맞춤형 인재 양성과정 교육생 모집 (보안뉴스 ─ 전체기사)]]></title>
@@ -236,13 +244,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/3-253(295).jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[서울시, 장애인 디지털 격차 해소 위해 4,800명에 무료 정보화 교육 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105698&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105698&amp;page=1&amp;kind=2</guid>
-            <pubDate>Sat, 26 Mar 2022 02:47:34 GMT</pubDate>
-            <content:encoded><![CDATA[서울시는 장애인의 디지털 격차 해소를 위해 ‘2022년 장애인 집합정보화교육사업’을 추진한다. 이번 교육은 서울시에 거주하는 장애인 약 4,800여명을 대...]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[러시아에 항의한다면서 소프트웨어 공급망 공격을 한 개발자 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105567&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105567&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
@@ -339,14 +340,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/huawei_032201_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[북한, 미세탁 가상자산 1억 7,000만 달러 있다 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105565&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105565&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Wed, 23 Mar 2022 03:30:02 GMT</pubDate>
-            <content:encoded><![CDATA[북한이 해킹으로 탈취한 가상자산 중 아직 1억 7,000만 달러가 세탁되지 않은 것으로 알려졌다. 블록체인 데이터 플랫폼 기업 체이널리시스(한국지사장 백용기)는 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/chain_0321_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[보안 취약점 수집·관리 위한 ‘사이버보안 취약점 정보포털’ 나온다 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105618&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105618&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
@@ -363,20 +356,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/qm-thumb-0322.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[웹하드에서 ‘오피스+정품 인증 툴’ 받다간 악성코드 감염된다! (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105626&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105626&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Mon, 28 Mar 2022 03:34:03 GMT</pubDate>
-            <content:encoded><![CDATA[최근 ‘윈도우 정품인증 툴’로 위장한 BitRAT 악성코드가 이번에는 ‘오피스 정품인증 툴’로 위장해 유포되고 있어 사용자들의 주의가 요구된다. 안랩 ASEC 분...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/ahn_032301_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[주말판] 팬데믹과 전쟁으로 악화된 공급망 위기, 3D 프린터로 해결하자 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105709&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105709&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Sun, 27 Mar 2022 22:18:01 GMT</pubDate>
             <content:encoded><![CDATA[지구의 여러 지역에서 벌어진 갖가지 사건들 때문에 공급망 위기가 전 세계를 덮치고 있다. 팬데믹의 악영향은 이루 말할 것도 없고, 우크라이나에서 벌어지고 있는 전...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/3d-thumb-0326.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[웹하드에서 ‘오피스+정품 인증 툴’ 받다간 악성코드 감염된다! (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105626&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105626&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Mon, 28 Mar 2022 03:34:03 GMT</pubDate>
+            <content:encoded><![CDATA[최근 ‘윈도우 정품인증 툴’로 위장한 BitRAT 악성코드가 이번에는 ‘오피스 정품인증 툴’로 위장해 유포되고 있어 사용자들의 주의가 요구된다. 안랩 ASEC 분...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/ahn_032301_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[대구시, 대구·경북 사이버보안 연구회 발족식 개최 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
@@ -401,6 +394,21 @@
             <pubDate>Thu, 24 Mar 2022 02:49:03 GMT</pubDate>
             <content:encoded><![CDATA[최근 공공기관에서 개인정보보호 유출사고가 발생하는 등 개인정보보호의 엄중함을 인식하고 국민의 민감한 개인정보를 다수 취급하고 있는 65개 소속·산하기관을 대상으로...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20153718_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[어나니머스, 네슬레 해킹해 10GB 데이터 유출해 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105621&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105621&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Mon, 28 Mar 2022 08:22:18 GMT</pubDate>
+            <content:encoded><![CDATA[국제적인 핵티비스트 단체인 어나니머스가 스위스의 음식료품 회사인 네슬레를 해킹해 10GB의 데이터를 유출했다. 네슬레가 우크라이나를 침공한 러시아에서 계속해서 사...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/nes-thumb-0323.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[시큐레터, 2년 연속 중기부 ‘비대면 바우처 서비스’ 네트워크 보안 분야 공급기업 선정 (보안뉴스 ─ SECURITY)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105725&amp;page=1&amp;mkind=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105725&amp;page=1&amp;mkind=1&amp;kind=1</guid>
+            <pubDate>Mon, 28 Mar 2022 08:22:29 GMT</pubDate>
+            <content:encoded><![CDATA[악성코드 탐지 및 차단 전문기업 시큐레터(대표 임차성)가 중소벤처기업부 ‘K비대면 바우처 플랫폼’ 네트워크 (보안 솔루션) 분야의 ‘랜섬웨어 이메일 탐지 서비스’ 공급기업으로 선정 되었다고 28일 밝혔다. 지난해에 이어 올해까지 2년 연속이다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[국내 대학에서 개인정보 보호·활용 전문가 양성한다 (보안뉴스 ─ SECURITY)]]></title>
@@ -513,13 +521,6 @@
             <guid>https://www.boannews.com/media/view.asp?idx=105708&amp;page=1&amp;mkind=1&amp;kind=1</guid>
             <pubDate>Mon, 28 Mar 2022 01:15:26 GMT</pubDate>
             <content:encoded><![CDATA[21일 공공분야 사이버위기경보를 ‘관심’에서 ‘주의’ 단계로 상향한 국가정보원(이하 국정원)이 외교·안보 부처와 원전·가스공사 등 핵심 기반시설을 대상으로 사이버 취약요인 및 대비태세 점검에 나섰다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[대구시, 대구·경북 사이버보안 연구회 발족식 개최 (보안뉴스 ─ SECURITY)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105701&amp;page=1&amp;mkind=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105701&amp;page=1&amp;mkind=1&amp;kind=2</guid>
-            <pubDate>Sun, 27 Mar 2022 16:23:35 GMT</pubDate>
-            <content:encoded><![CDATA[대구시는 지난 24일 대구·경북 지역대학의 사이버보안 인재 육성 및 사이버침해 대응역량 강화를 위해 경북도·국가정보원·지역 5개 대학 등 유관기관과 함께 ‘대구·경북 사이버보안 연구회’의 발족식을 개최했다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[코이카-통계청, 개발도상국 디지털 전환 지원 MOU 체결 (보안뉴스 ─ IT)]]></title>
@@ -2456,6 +2457,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2021/11/21113014ss.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[NNSP 중동지역 최대 사이버보안 행사 ‘GISEC Global 2022’ 참가 (보안뉴스 ─ 기업뉴스)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105728&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105728&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=</guid>
+            <pubDate>Mon, 28 Mar 2022 08:24:17 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/view.asp?idx=105728&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=">
+					
+					<img src="/media/upFiles2/2022/03/nnsp_032801_main.jpg" alt="" class="news_img" height="70">
+					
+					<span class="news_txt">NNSP 중동지역 최대 사이버보안 행사 ‘GISEC Global 2022’ 참가  </span>
+					</a><br>
+					<a href="/media/view.asp?idx=105728&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=">중동지역에서 가장 크게 열리는 사이버보안 엑스포인 GISEC Global 2022 행사가 UAE(아랍 에미리트) 두바이 월드트레이드센터에서 3월 21일부터 3월 ...</a> <span class="news_writer">원병철 기자 | 2022년 03월 28일 17:01</span>]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/nnsp_032801_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[시큐레터, 2년 연속 중기부 ‘비대면 바우처 서비스’ 네트워크 보안 분야 공급기업 선정 (보안뉴스 ─ 기업뉴스)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105725&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=8&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105725&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=8&amp;search=title&amp;find=</guid>
@@ -2720,20 +2735,6 @@
 					</a><br>
 					<a href="/media/view.asp?idx=105597&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=">화웨이는 싱가포르 자회사인 화웨이 인터내셔널이 싱가포르 정보통신 미디어 개발청(Infocomm Media Development Authority, IMDA)으로부...</a> <span class="news_writer">원병철 기자 | 2022년 03월 22일 15:46</span>]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/huawei_032201_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[코리아엑스퍼트, 보험업계 최초로 영업현장의 질병 인수심사 자동화 체계 완성 (보안뉴스 ─ 기업뉴스)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105596&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105596&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=</guid>
-            <pubDate>Tue, 22 Mar 2022 07:19:05 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/view.asp?idx=105596&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=">
-					
-					<img src="/media/upFiles2/2022/03/korea_032201_main.jpg" alt="" class="news_img" height="70">
-					
-					<span class="news_txt">코리아엑스퍼트, 보험업계 최초로 영업현장의 질병 인수심사 자동화 체계 완성 </span>
-					</a><br>
-					<a href="/media/view.asp?idx=105596&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=">코리아엑스퍼트는 DB손해보험손보, 롯데손해보험 외 5개의 보험사(S생명, W보험, K생명, H생명, N생명 등)에 질병 인수심사 자동화 솔루션 NexS3-EUS(...</a> <span class="news_writer">원병철 기자 | 2022년 03월 22일 15:23</span>]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/korea_032201_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[인사] 투데이신문 (보안뉴스 ─ 인사 부고)]]></title>
