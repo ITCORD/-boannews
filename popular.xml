@@ -4,17 +4,9 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Mar 2022 03:35:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Mar 2022 04:23:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[해킹그룹 랩서스 LG전자 해킹 발표... 러시아와의 연관성 있을까?]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105593&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105593&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Wed, 23 Mar 2022 01:15:05 GMT</pubDate>
-            <content:encoded><![CDATA[최근 삼성전자와 엔비디아 등을 해킹한 해외 해킹그룹 랩서스(LAPSUS$)가 22일 LG전자도 해킹했다고 밝혔다. 랩서스는 텔레그램을 통해 LG전자의 해시를 덤프...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/lge_032201_main.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[우크라이나 사태로 보안위협 고조! 주요기관 사이버보안 점검 나섰다]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105708&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
@@ -166,6 +158,14 @@
             <pubDate>Mon, 28 Mar 2022 11:17:10 GMT</pubDate>
             <content:encoded><![CDATA[3월 24일 북한이 동해상으로 ICBM 미사일을 발사하고, 정권교체기인 우리나라를 대상으로 한 사이버공격을 가속화하고 있는 가운데 글로벌 보안기업 맨디언트가 북한...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/nk-thumb-0324.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한국인터넷정보센터(KRNIC) 사칭 정보수집 악성 이메일 유포]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105691&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105691&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Tue, 29 Mar 2022 04:21:33 GMT</pubDate>
+            <content:encoded><![CDATA[최근 한국인터넷정보센터(KRNIC)를 사칭한 악성 이메일이 발견되어 사용자들의 각별한 주의가 요구된다. 한국인터넷진흥원(KISA)이 운영하는 한국인터넷정보센터는 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220325esrc-S.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
