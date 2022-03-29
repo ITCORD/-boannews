@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=2</id>
     <title>보안뉴스 ─ IT</title>
-    <updated>2022-03-29T04:23:45.019Z</updated>
+    <updated>2022-03-29T05:19:58.578Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[삐 소리에 로봇 손이 움직였다!]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=105737&amp;page=1&amp;mkind=2&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=105737&amp;page=1&amp;mkind=2&amp;kind=2"/>
+        <updated>2022-03-29T05:18:09.868Z</updated>
+        <content type="html"><![CDATA[UNIST 고현협(에너지화학공학과)·김재준(전기전자공학과) 교수팀은 사람 동작, 촉감, 소리 등을 모두 인식해 기계에 전달할 수 있는 사람-기계 인터페이스를 개발했다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[지능형 해외기술규제 대응 등 국가 디지털 전환에 197억원 투입한다]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=105738&amp;page=1&amp;mkind=2&amp;kind=2</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=105670&amp;page=1&amp;mkind=2&amp;kind=2"/>
         <updated>2022-03-26T02:48:07.906Z</updated>
         <content type="html"><![CDATA[특허청은 ‘인공지능(AI) 기술이 적용된 특허 검색 시스템’을 심사 업무에 활용할 수 있도록 특허청 심사관을 대상으로 시범 서비스를 25일 개통했다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[과기정통부, 2021년 디지털 격차 등 실태조사 결과 발표]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=105671&amp;page=1&amp;mkind=2&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=105671&amp;page=1&amp;mkind=2&amp;kind=2"/>
-        <updated>2022-03-26T02:48:07.906Z</updated>
-        <content type="html"><![CDATA[과학기술정보통신부는 디지털 사회 문제 현황 진단을 위해 디지털정보격차, 접근성, 스마트폰과의존 분야 2021년도 실태조사 결과를 발표했다.]]></content>
     </entry>
 </feed>
