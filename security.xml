@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-03-29T06:23:37.582Z</updated>
+    <updated>2022-03-29T07:20:23.761Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[NPM 통한 공급망 공격에 자동화 기술 도입한 공격자들]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=105765&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=105765&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-03-29T07:18:10.977Z</updated>
+        <content type="html"><![CDATA[보안 업체 체크막스(Checkmarx)는 “공격자들이 NPM 생태계에 악성 패키지들이 수백~수천 개씩 유입되고 있다”고 경고했다. 공격자들이 자동화 기술을 사용해 악성 패키지를 퍼트리고 있기 때문에 수량이 급증했다는 것이다. 체크막스의 설명에 의하면 공격자들은 소프트웨...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[옥타, “최근 랩서스의 사이버 공격을 처리하는 데 있어 실수 있었다”]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=105764&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=105764&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-03-29T07:18:10.980Z</updated>
+        <content type="html"><![CDATA[보안 외신 쓰레트포스트에 의하면 세계적인 인증 서비스 제공 업체인 옥타(Okta)가 최근 랩서스(Lapsus$) 해킹 그룹의 공격을 처리하는 데에 있어 실수가 있었음을 인정했다고 한다. 옥타는 랩서스 공격자들이 서드파티 고객 지원 엔지니어의 컴퓨터에만 겨우 침투했었다고...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[우크라이나, 5개의 허위 정보 유포 캠페인 봉쇄시켜]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=105763&amp;page=1&amp;mkind=1&amp;kind=1</id>
@@ -109,19 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=105728&amp;page=1&amp;mkind=1&amp;kind=3"/>
         <updated>2022-03-29T01:11:37.815Z</updated>
         <content type="html"><![CDATA[중동지역에서 가장 크게 열리는 사이버보안 엑스포인 GISEC Global 2022 행사가 UAE(아랍 에미리트) 두바이 월드트레이드센터에서 3월 21일부터 3월 23일까지 3일간 73개 국가, 182개 사이버보안 회사들이 참가한 가운데 성황리에 개최됐다. 앤앤에스피(N...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미국에서 공개된 기소장 통해 러시아 공격자들의 집요함 드러나]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=105727&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=105727&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-03-29T01:11:37.815Z</updated>
-        <content type="html"><![CDATA[이번 주 미국 사법부가 2021년의 기소장 하나를 공개했다. 한 러시아인이 2017년 사우디아라비아의 정유 공장을 공격했다는 내용을 담고 있는데, 이를 통해 국가의 지원을 받고 있는 공격자들이 어떤 방식을 접근하고, 또 얼마나 열심히 공격을 시도하는지를 엿볼 수 있다....]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KISIA, 정보보호산업 맞춤형 인재 양성과정 교육생 모집]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=105726&amp;page=1&amp;mkind=1&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=105726&amp;page=1&amp;mkind=1&amp;kind=3"/>
-        <updated>2022-03-28T09:19:38.352Z</updated>
-        <content type="html"><![CDATA[한국정보보호산업협회(KISIA, 회장 이동범)가 4월 18일(월)까지 ‘정보보호산업 맞춤형 인재 양성과정’ 교육생을 모집한다고 밝혔다. 정보보호산업 맞춤형 인재 양성과정은 서울시가 지원하는 민간기업 맞춤형 뉴딜일자리 사업의 일환으로, 정보보호산업의 차세대 전문인력을 양...]]></content>
     </entry>
 </feed>

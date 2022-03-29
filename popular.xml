@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Mar 2022 06:23:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Mar 2022 07:20:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,20 +16,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220326nis-s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[옥타, 하루 만에 말 바꾸며 “336개 고객사에 영향 있을지도...”]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105662&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105662&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Fri, 25 Mar 2022 06:21:22 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 1월 말 경, 세계적인 인증 서비스 업체인 옥타(Okta)에서 보안 사고가 발생했다. 하지만 옥타는 두 달 정도가 지난 바로 어제에 와서야 해당 사건에...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/comp-thumb-0324.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[기업 사용자 노린 악성 워드 문서 또 발견! 국내 기업 해킹 타깃 되나]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105710&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105710&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Mon, 28 Mar 2022 09:19:27 GMT</pubDate>
             <content:encoded><![CDATA[최근 삼성전자와 LG전자를 비롯해 마이크로소프트와 옥타 등 글로벌 대기업들이 랩서스에게 해킹 피해를 당하는 등 기업들을 타깃으로 한 사이버 공격이 거세지고 있는 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220327ahn-s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[옥타, 하루 만에 말 바꾸며 “336개 고객사에 영향 있을지도...”]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105662&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105662&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Fri, 25 Mar 2022 06:21:22 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 1월 말 경, 세계적인 인증 서비스 업체인 옥타(Okta)에서 보안 사고가 발생했다. 하지만 옥타는 두 달 정도가 지난 바로 어제에 와서야 해당 사건에...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/comp-thumb-0324.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[삼성·LG전자부터 MS·옥타까지 뚫렸다! ‘랩서스’ 해커그룹 집중 추적기]]></title>
@@ -54,14 +54,6 @@
             <pubDate>Sat, 26 Mar 2022 15:17:22 GMT</pubDate>
             <content:encoded><![CDATA[코로나 바이러스가 창궐하고서 2년이 지났다. 그 사이 많은 기업들이 보안 전문가를 찾느라 애를 먹고 있다. 아니, 심지어 이미 근무하는 보안 담당자들이 죄나 나간...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/emp-thumb-0325.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[화웨이 인터내셔널, 싱가포르 IMDA로부터 ‘데이터 보호 신뢰 마크’ 인증 획득]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105597&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105597&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
-            <pubDate>Sat, 26 Mar 2022 01:04:15 GMT</pubDate>
-            <content:encoded><![CDATA[화웨이는 싱가포르 자회사인 화웨이 인터내셔널이 싱가포르 정보통신 미디어 개발청(Infocomm Media Development Authority, IMDA)으로부...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/huawei_032201_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[쿠바 랜섬웨어 조직, 현대파워텍 해킹해 내부 파일 유출 주장]]></title>
@@ -152,6 +144,14 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220325esrc-S.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[2022년 3월 셋째 주, 국내에 가장 많이 유포된 악성코드 TOP 5]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105692&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105692&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Tue, 29 Mar 2022 06:21:34 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 3월 셋째 주, 우리나라에 가장 많이 유포된 악성코드 유형은 1~2년간 가장 높은 비율을 차지하고 있는 개인정보 및 계정정보 탈취 목적의 인포스틸러 악...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220325AHN-S.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[ICBM 쏘고 물밑에선 사이버전... 북한 해킹 조직 집중 해부하다]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105663&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105663&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
@@ -160,12 +160,12 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/nk-thumb-0324.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[2022년 3월 셋째 주, 국내에 가장 많이 유포된 악성코드 TOP 5]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105692&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105692&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Tue, 29 Mar 2022 06:21:34 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 3월 셋째 주, 우리나라에 가장 많이 유포된 악성코드 유형은 1~2년간 가장 높은 비율을 차지하고 있는 개인정보 및 계정정보 탈취 목적의 인포스틸러 악...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220325AHN-S.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[자원봉사·재난 분야 55개 기관, ‘재난으로부터 안전한 도시 서울’ 위해 협력한다]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105697&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105697&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
+            <pubDate>Tue, 29 Mar 2022 07:18:00 GMT</pubDate>
+            <content:encoded><![CDATA[서울시자원봉사센터와 자치구자원봉사센터, 재난 관련 기관 55개가 업무협약을 통해 주거환경, 건강돌봄, 식사, 의료 등 재난 발생 시 시민이 어려움을 겪는 분야를 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/3-251(295).jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
