@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-03-29T01:13:41.542Z</updated>
+    <updated>2022-03-29T03:01:50.295Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[안랩, ‘2022년 비대면 서비스 바우처 지원사업’ 공급기업으로 선정]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=105756&amp;page=1&amp;mkind=1&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=105756&amp;page=1&amp;mkind=1&amp;kind=3"/>
+        <updated>2022-03-29T02:59:50.885Z</updated>
+        <content type="html"><![CDATA[안랩(대표 강석균)이 2022년 ‘비대면 서비스 바우처 지원사업’ 공급기업으로 선정되어 중소·벤처기업을 대상으로 보안 솔루션을 제공한다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KT, 서울-부산 구간 양자암호통신 품질평가 시행]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=105743&amp;page=1&amp;mkind=1&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=105743&amp;page=1&amp;mkind=1&amp;kind=3"/>
+        <updated>2022-03-29T02:59:50.887Z</updated>
+        <content type="html"><![CDATA[KT가 서울-부산 구간에 구축한 양자암호통신 설비에 대한 품질 평가를 다음 달 15일까지 3주 동안 진행한다고 밝혔다. KT는 이번 품질 평가에 독자 개발한 ‘양자암호 서비스 품질 파라미터(QoS Parameter)’를 활용한다. ‘양자암호 서비스 품질 파라미터’는 지...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[공공 누리집에서 이용 가능한 민간 인증서 11종으로 확대된다]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=105750&amp;page=1&amp;mkind=1&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=105750&amp;page=1&amp;mkind=1&amp;kind=2"/>
+        <updated>2022-03-29T02:59:50.895Z</updated>
+        <content type="html"><![CDATA[행정안전부는 공공 누리집에 적용하는 민간 간편인증에 하나은행과 드림인증 인증서를 추가하기로 하고, 이와 관련해 지난 28일 하나은행·드림인증과 업무협약(MOU)을 체결했다고 밝혔다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[김부겸 국무총리, 제28차 4차산업혁명위원회 주재]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=105752&amp;page=1&amp;mkind=1&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=105752&amp;page=1&amp;mkind=1&amp;kind=2"/>
+        <updated>2022-03-29T02:59:50.895Z</updated>
+        <content type="html"><![CDATA[4차산업혁명위원회(이하 4차위)는 지난 28일 제28차 전체회의를 개최했다. 이번 회의에는 김부겸 국무총리, 윤성로 민간위원장 공동 주재로 정부위원, 민간위원 약 30명이 참석했으며 ‘4차 산업혁명 성과와 향후 과제’ 안건을 심의·의결했다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[화웨이 2021년 연례 보고서 발표, ‘122조 1,319억원’ 매출 올렸다]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=105753&amp;page=1&amp;mkind=1&amp;kind=3</id>
@@ -95,33 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=105717&amp;page=1&amp;mkind=1&amp;kind=1"/>
         <updated>2022-03-28T02:58:42.636Z</updated>
         <content type="html"><![CDATA[보안 외신 시큐리티위크에 따르면 구글이 긴급 패치를 배포하기 시작했다고 한다. 크롬 브라우저에서 제로데이 취약점이 발견됐기 때문이다. 이 취약점은 CVE-2022-1096으로, 이미 해커들 사이에서는 익스플로잇이 돌아다니고 있었다. 취약점의 위치는 V8 자바스크립트(V...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[화웨이-UAE 사이버 보안 위원회, 사이버 보안 전략·생태계 강화 MOU]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=105716&amp;page=1&amp;mkind=1&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=105716&amp;page=1&amp;mkind=1&amp;kind=3"/>
-        <updated>2022-03-28T02:58:42.637Z</updated>
-        <content type="html"><![CDATA[화웨이와 아랍에미레이트트(UAE) 사이버 보안 위원회가 GISEC 2022(Gulf Information Security Expo &amp; Conference) 사이버 보안 컨퍼런스에서 업무 협약(MOU)을 체결하고, UAE 사이버 보안 전략 및 생태계 강화에 힘쓰기로 했다...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[파수, K비대면 서비스 바우처 공급 기업으로 선정]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=105715&amp;page=1&amp;mkind=1&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=105715&amp;page=1&amp;mkind=1&amp;kind=3"/>
-        <updated>2022-03-28T02:58:42.641Z</updated>
-        <content type="html"><![CDATA[데이터 보안 업계를 선도하고 있는 파수(대표 조규곤)가 중소벤처기업부 주관 ‘2022년 K-비대면 서비스 바우처 사업’의 공급기업으로 선정됐다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[쿤텍, AI 라벨링 전문 기업 ‘슈퍼브에이아이’와 파트너십 체결]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=105714&amp;page=1&amp;mkind=1&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=105714&amp;page=1&amp;mkind=1&amp;kind=3"/>
-        <updated>2022-03-28T02:58:42.644Z</updated>
-        <content type="html"><![CDATA[데이터 인사이트 전문 기업 쿤텍(대표 방혁준)은 AI 데이터 구축 선도 기업인 ‘슈퍼브에이아이(Superb AI, 대표 김현수)’와 파트너십을 체결하여 다양한 AI 기반 데이터 분석을 통해 고객의 비즈니스 의사 결정을 도울 수 있는 맞춤형 인사이트 정보를 제공할 계획이...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어떻게 해야 돈 낭비 없이 클라우드를 선택할 수 있을까?]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=105707&amp;page=1&amp;mkind=1&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=105707&amp;page=1&amp;mkind=1&amp;kind=3"/>
-        <updated>2022-03-28T02:58:42.645Z</updated>
-        <content type="html"><![CDATA[혹자는 이미 클라우드 2.0의 시대로 접어들었다고 말하기도 한다. 과거에 등장했던 모든 신기술들과 마찬가지로 클라우드도 어느 덧 무르익어가고 있다. 또한 클라우드를 최종 목적지로 인식하고 있는 시각도 감소하고 있다. 이제 클라우드는 그 자체로 목적이 아니다. 불가능했던...]]></content>
     </entry>
 </feed>
