@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Mar 2022 08:22:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Mar 2022 09:20:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -70,14 +70,6 @@
             <pubDate>Thu, 24 Mar 2022 12:28:07 GMT</pubDate>
             <content:encoded><![CDATA[사이버위협의 주요 요인이 되고 있는 보안 취약점은 무엇보다 신속하게 발견하여 조치하는 것이 중요하다. 이에 정부는 국가 차원에서 국내·외 보안 취약점을 체계적으로...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220323bug-s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[北 김수키, 코인관련 내용의 워드 문서를 이용한 APT 공격중]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105599&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105599&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Wed, 23 Mar 2022 08:22:30 GMT</pubDate>
-            <content:encoded><![CDATA[미국이 북한의 해킹그룹으로 지목한 김수키(Kimsuky) 그룹이 코인관련 내용의 워드문서로 APT 공격을 수행중인 것을 안랩 ASEC 분석팀이 확인했다고 밝혔다....]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/kimsuky_032201_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[삼성과 LG 해킹한 랩서스, 옥타와 마이크로소프트도 뚫었다]]></title>
@@ -166,6 +158,14 @@
             <pubDate>Tue, 29 Mar 2022 08:20:06 GMT</pubDate>
             <content:encoded><![CDATA[미국의 사모펀드인 심포니테크놀로지그룹(Symphony Technology Group, STG)이 새로운 보안 회사를 런칭했다. 이름은 스카이하이 시큐리티(Skyh...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/div-thumb-0323.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[KISA, 올해 기업의 최정예 정보보호 전문인력 1,000명 양성한다]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105617&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105617&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
+            <pubDate>Tue, 29 Mar 2022 09:18:15 GMT</pubDate>
+            <content:encoded><![CDATA[한국인터넷진흥원(KISA, 원장 이원태)은 고용노동부, 한국산업인력공단과 함께 정보보호 분야 재직자의 직무 전문성 향상을 위한 2022년 ‘최정예 정보보호 전문인...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/K-Shield_032301_main.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

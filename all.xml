@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Mar 2022 08:22:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Mar 2022 09:20:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -307,14 +307,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220323bug-s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[北 김수키, 코인관련 내용의 워드 문서를 이용한 APT 공격중 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105599&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105599&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Wed, 23 Mar 2022 08:22:30 GMT</pubDate>
-            <content:encoded><![CDATA[미국이 북한의 해킹그룹으로 지목한 김수키(Kimsuky) 그룹이 코인관련 내용의 워드문서로 APT 공격을 수행중인 것을 안랩 ASEC 분석팀이 확인했다고 밝혔다....]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/kimsuky_032201_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[삼성과 LG 해킹한 랩서스, 옥타와 마이크로소프트도 뚫었다 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105625&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105625&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
@@ -401,6 +393,14 @@
             <pubDate>Tue, 29 Mar 2022 08:20:06 GMT</pubDate>
             <content:encoded><![CDATA[미국의 사모펀드인 심포니테크놀로지그룹(Symphony Technology Group, STG)이 새로운 보안 회사를 런칭했다. 이름은 스카이하이 시큐리티(Skyh...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/div-thumb-0323.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[KISA, 올해 기업의 최정예 정보보호 전문인력 1,000명 양성한다 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105617&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105617&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
+            <pubDate>Tue, 29 Mar 2022 09:18:15 GMT</pubDate>
+            <content:encoded><![CDATA[한국인터넷진흥원(KISA, 원장 이원태)은 고용노동부, 한국산업인력공단과 함께 정보보호 분야 재직자의 직무 전문성 향상을 위한 2022년 ‘최정예 정보보호 전문인...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/K-Shield_032301_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[NPM 통한 공급망 공격에 자동화 기술 도입한 공격자들 (보안뉴스 ─ SECURITY)]]></title>
@@ -515,7 +515,7 @@
             <content:encoded><![CDATA[‘대 퇴직의 시대’가 시작된 데에는 분명한 이유가 있다. 팬데믹이니 재택 근무니 여러 가지 추측들이 나오고 있지만, 사실 그 바탕에는 단 하나의 원인이 있으나 바로 ‘번아웃’이다. 직원들은 이미 상당히 지쳐있었고, 팬데믹이라는 현실이 덮치는 바람에 그 지친 느낌은 가중...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[NNSP 중동지역 최대 사이버보안 행사 ‘GISEC Global 2022’ 참가 (보안뉴스 ─ SECURITY)]]></title>
+            <title><![CDATA[NNSP, 중동지역 최대 사이버보안 행사 ‘GISEC Global 2022’ 참가 (보안뉴스 ─ SECURITY)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105728&amp;page=1&amp;mkind=1&amp;kind=3</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105728&amp;page=1&amp;mkind=1&amp;kind=3</guid>
             <pubDate>Tue, 29 Mar 2022 01:11:37 GMT</pubDate>
@@ -790,6 +790,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/asec_032901_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[‘대화 하이재킹’ 기법 사용한 피싱 캠페인 발견돼 (보안뉴스 ─ 취약점 경고 및 버그리포트)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105761&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105761&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=</guid>
+            <pubDate>Tue, 29 Mar 2022 09:19:06 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/view.asp?idx=105761&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=">
+					
+					<img src="/media/upFiles2/2022/03/mail-thumb-0329.jpg" alt="" class="news_img" height="70">
+					
+					<span class="news_txt">‘대화 하이재킹’ 기법 사용한 피싱 캠페인 발견돼</span>
+					</a><br>
+					<a href="/media/view.asp?idx=105761&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=">새로운 악성 메일 캠페인이 발견됐다. 공격자들의 궁극적인 표적은 패치가 되지 않은 채 공공 인터넷에 연결된 마이크로소프트 익스체인지 서버들이며, 여기에 정보 탈취...</a> <span class="news_writer">문가용 기자 | 2022년 03월 29일 13:59</span>]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/mail-thumb-0329.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[구글, 크롬에서 발견된 제로데이 취약점 긴급히 패치 (보안뉴스 ─ 취약점 경고 및 버그리포트)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105717&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105717&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=</guid>
@@ -1040,20 +1054,6 @@
 					</a><br>
 					<a href="/media/view.asp?idx=105552&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=">최근 우크라이나 사태 관련 사이버전 확산, 국내 기업을 대상으로 하는 랜섬웨어, 정보유출 사고 발생 등 국내·외 사이버위협 우려가 고조됨에 따라 선제적이고 체계적...</a> <span class="news_writer">원병철 기자 | 2022년 03월 21일 09:32</span>]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/nis_032101_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[탄소배출 전문기업 대상 ‘골드 드래곤’ 악성코드 공격 발견 (보안뉴스 ─ 취약점 경고 및 버그리포트)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105551&amp;page=1&amp;mkind=&amp;kind=2&amp;skind=5&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105551&amp;page=1&amp;mkind=&amp;kind=2&amp;skind=5&amp;search=title&amp;find=</guid>
-            <pubDate>Sun, 20 Mar 2022 15:19:19 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/view.asp?idx=105551&amp;page=1&amp;mkind=&amp;kind=2&amp;skind=5&amp;search=title&amp;find=">
-					
-					<img src="/media/upFiles2/2022/03/ahnlab_032001_main.jpg" alt="" class="news_img" height="70">
-					
-					<span class="news_txt">탄소배출 전문기업 대상 ‘골드 드래곤’ 악성코드 공격 발견</span>
-					</a><br>
-					<a href="/media/view.asp?idx=105551&amp;page=1&amp;mkind=&amp;kind=2&amp;skind=5&amp;search=title&amp;find=">최근 탄소배출 전문기업을 대상으로 문서형 APT 공격이 이뤄진 정황이 발견돼 관련 기업들의 주의가 요구된다. 특히, 이번 공격에서 발견된 ‘골드 드래곤(Gold ...</a> <span class="news_writer">원병철 기자 | 2022년 03월 20일 23:56</span>]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/ahnlab_032001_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[최정식 발행인 칼럼] <시큐리티월드> 통권 300호를 맞아 드리는 감사의 말씀 (보안뉴스 ─ 오피니언)]]></title>
@@ -2498,7 +2498,7 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/huawei_0329_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[NNSP 중동지역 최대 사이버보안 행사 ‘GISEC Global 2022’ 참가 (보안뉴스 ─ 기업뉴스)]]></title>
+            <title><![CDATA[NNSP, 중동지역 최대 사이버보안 행사 ‘GISEC Global 2022’ 참가 (보안뉴스 ─ 기업뉴스)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105728&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105728&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=</guid>
             <pubDate>Mon, 28 Mar 2022 08:24:17 GMT</pubDate>
@@ -2506,7 +2506,7 @@
 					
 					<img src="/media/upFiles2/2022/03/nnsp_032801_main.jpg" alt="" class="news_img" height="70">
 					
-					<span class="news_txt">NNSP 중동지역 최대 사이버보안 행사 ‘GISEC Global 2022’ 참가  </span>
+					<span class="news_txt">NNSP, 중동지역 최대 사이버보안 행사 ‘GISEC Global 2022’ 참가  </span>
 					</a><br>
 					<a href="/media/view.asp?idx=105728&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=">중동지역에서 가장 크게 열리는 사이버보안 엑스포인 GISEC Global 2022 행사가 UAE(아랍 에미리트) 두바이 월드트레이드센터에서 3월 21일부터 3월 ...</a> <span class="news_writer">원병철 기자 | 2022년 03월 28일 17:01</span>]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/nnsp_032801_main.jpg" length="0" type="image/jpg"/>
