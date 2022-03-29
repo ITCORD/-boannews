@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Mar 2022 16:27:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Mar 2022 17:22:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -152,20 +152,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/3-251(295).jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[역사 속으로 사라진 맥아피, 이제는 트렐릭스와 스카이하이다]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105641&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105641&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Tue, 29 Mar 2022 08:20:06 GMT</pubDate>
-            <content:encoded><![CDATA[미국의 사모펀드인 심포니테크놀로지그룹(Symphony Technology Group, STG)이 새로운 보안 회사를 런칭했다. 이름은 스카이하이 시큐리티(Skyh...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/div-thumb-0323.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[미국에서 공개된 기소장 통해 러시아 공격자들의 집요함 드러나]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105727&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105727&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Tue, 29 Mar 2022 14:20:00 GMT</pubDate>
             <content:encoded><![CDATA[이번 주 미국 사법부가 2021년의 기소장 하나를 공개했다. 한 러시아인이 2017년 사우디아라비아의 정유 공장을 공격했다는 내용을 담고 있는데, 이를 통해 국가...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/oil-thumb-0328.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[역사 속으로 사라진 맥아피, 이제는 트렐릭스와 스카이하이다]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105641&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105641&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Tue, 29 Mar 2022 08:20:06 GMT</pubDate>
+            <content:encoded><![CDATA[미국의 사모펀드인 심포니테크놀로지그룹(Symphony Technology Group, STG)이 새로운 보안 회사를 런칭했다. 이름은 스카이하이 시큐리티(Skyh...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/div-thumb-0323.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
