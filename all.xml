@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Mar 2022 05:19:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Mar 2022 06:23:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[대북 방송 출연하라고? 탈북자 노려 이력서 양식 악성코드 유포 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105766&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105766&amp;page=1&amp;kind=1</guid>
+            <pubDate>Tue, 29 Mar 2022 06:21:23 GMT</pubDate>
+            <content:encoded><![CDATA[최근 대북 관련 내용의 피싱 메일을 통해 정보 유출 목적의 악성코드가 유포되고 있다고 안랩 ASEC 분석팀이 밝혔다. 대북 관련 방송의 섭외 내용을 담고 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/asec_032901_main.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[NPM 통한 공급망 공격에 자동화 기술 도입한 공격자들 (보안뉴스 ─ 전체기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105765&amp;page=1&amp;kind=1</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 28 Mar 2022 09:19:16 GMT</pubDate>
             <content:encoded><![CDATA[‘대 퇴직의 시대’가 시작된 데에는 분명한 이유가 있다. 팬데믹이니 재택 근무니 여러 가지 추측들이 나오고 있지만, 사실 그 바탕에는 단 하나의 원인이 있...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/rem-thumb-0328.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미국에서 공개된 기소장 통해 러시아 공격자들의 집요함 드러나 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105727&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105727&amp;page=1&amp;kind=1</guid>
-            <pubDate>Mon, 28 Mar 2022 07:20:20 GMT</pubDate>
-            <content:encoded><![CDATA[이번 주 미국 사법부가 2021년의 기소장 하나를 공개했다. 한 러시아인이 2017년 사우디아라비아의 정유 공장을 공격했다는 내용을 담고 있는데, 이를 통...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/oil-thumb-0328.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[워터월시스템즈, ‘2022 클라우드 서비스 바우처 사업’ 공급기업 선정 (보안뉴스 ─ 전체기사)]]></title>
@@ -259,20 +259,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/comp-thumb-0324.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[삼성·LG전자부터 MS·옥타까지 뚫렸다! ‘랩서스’ 해커그룹 집중 추적기 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105642&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105642&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Fri, 25 Mar 2022 01:03:48 GMT</pubDate>
-            <content:encoded><![CDATA[최근 엔비디아(NVIDIA)와 유비소프트(UBISOFT) 등 글로벌 기업은 물론 삼성전자와 LG전자 등 한국기업을 해킹해 유명세를 떨친 랩서스(LAPSUS$)가 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/s2w_032401_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[기업 사용자 노린 악성 워드 문서 또 발견! 국내 기업 해킹 타깃 되나 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105710&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105710&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Mon, 28 Mar 2022 09:19:27 GMT</pubDate>
             <content:encoded><![CDATA[최근 삼성전자와 LG전자를 비롯해 마이크로소프트와 옥타 등 글로벌 대기업들이 랩서스에게 해킹 피해를 당하는 등 기업들을 타깃으로 한 사이버 공격이 거세지고 있는 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220327ahn-s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[삼성·LG전자부터 MS·옥타까지 뚫렸다! ‘랩서스’ 해커그룹 집중 추적기 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105642&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105642&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Fri, 25 Mar 2022 01:03:48 GMT</pubDate>
+            <content:encoded><![CDATA[최근 엔비디아(NVIDIA)와 유비소프트(UBISOFT) 등 글로벌 기업은 물론 삼성전자와 LG전자 등 한국기업을 해킹해 유명세를 떨친 랩서스(LAPSUS$)가 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/s2w_032401_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[단독] 지방세입 고지서·네이버 포인트 위장 해킹 공격, ‘대북 관계자’ 노렸다 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
@@ -307,20 +307,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220324CUBA-S.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[北 김수키, 코인관련 내용의 워드 문서를 이용한 APT 공격중 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105599&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105599&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Wed, 23 Mar 2022 08:22:30 GMT</pubDate>
-            <content:encoded><![CDATA[미국이 북한의 해킹그룹으로 지목한 김수키(Kimsuky) 그룹이 코인관련 내용의 워드문서로 APT 공격을 수행중인 것을 안랩 ASEC 분석팀이 확인했다고 밝혔다....]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/kimsuky_032201_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[‘보안 취약점 정보 포털’ 오픈한다는데... 버그바운티가 더 중요해지는 이유 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105627&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105627&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
             <pubDate>Thu, 24 Mar 2022 12:28:07 GMT</pubDate>
             <content:encoded><![CDATA[사이버위협의 주요 요인이 되고 있는 보안 취약점은 무엇보다 신속하게 발견하여 조치하는 것이 중요하다. 이에 정부는 국가 차원에서 국내·외 보안 취약점을 체계적으로...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220323bug-s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[北 김수키, 코인관련 내용의 워드 문서를 이용한 APT 공격중 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105599&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105599&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Wed, 23 Mar 2022 08:22:30 GMT</pubDate>
+            <content:encoded><![CDATA[미국이 북한의 해킹그룹으로 지목한 김수키(Kimsuky) 그룹이 코인관련 내용의 워드문서로 APT 공격을 수행중인 것을 안랩 ASEC 분석팀이 확인했다고 밝혔다....]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/kimsuky_032201_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[삼성과 LG 해킹한 랩서스, 옥타와 마이크로소프트도 뚫었다 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
@@ -379,14 +379,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/nes-thumb-0323.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[공공분야에 체계적이고 엄격한 개인정보보호 추진한다 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105594&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105594&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
-            <pubDate>Thu, 24 Mar 2022 02:49:03 GMT</pubDate>
-            <content:encoded><![CDATA[최근 공공기관에서 개인정보보호 유출사고가 발생하는 등 개인정보보호의 엄중함을 인식하고 국민의 민감한 개인정보를 다수 취급하고 있는 65개 소속·산하기관을 대상으로...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20153718_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[한국인터넷정보센터(KRNIC) 사칭 정보수집 악성 이메일 유포 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105691&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105691&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
@@ -401,6 +393,21 @@
             <pubDate>Mon, 28 Mar 2022 11:17:10 GMT</pubDate>
             <content:encoded><![CDATA[3월 24일 북한이 동해상으로 ICBM 미사일을 발사하고, 정권교체기인 우리나라를 대상으로 한 사이버공격을 가속화하고 있는 가운데 글로벌 보안기업 맨디언트가 북한...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/nk-thumb-0324.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022년 3월 셋째 주, 국내에 가장 많이 유포된 악성코드 TOP 5 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105692&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105692&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Tue, 29 Mar 2022 06:21:34 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 3월 셋째 주, 우리나라에 가장 많이 유포된 악성코드 유형은 1~2년간 가장 높은 비율을 차지하고 있는 개인정보 및 계정정보 탈취 목적의 인포스틸러 악...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220325AHN-S.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[우크라이나, 5개의 허위 정보 유포 캠페인 봉쇄시켜 (보안뉴스 ─ SECURITY)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105763&amp;page=1&amp;mkind=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105763&amp;page=1&amp;mkind=1&amp;kind=1</guid>
+            <pubDate>Tue, 29 Mar 2022 06:21:44 GMT</pubDate>
+            <content:encoded><![CDATA[IT 외신 블리핑컴퓨터에 의하면 우크라이나 안보부(SSU)가 러시아의 침공이 시작된 이후 다섯 개의 ‘봇 농장(bot farm)’을 찾아내 폐쇄시켰다고 발표했다고 한다. 이 봇 농장은 총 10만 개 이상의 가짜 소셜미디어 계정들을 운영하고 있었고, 이 계정들을 통해 각...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[어나니머스, “러시아 날려버릴 정보 유출 준비 중이다” (보안뉴스 ─ SECURITY)]]></title>
@@ -513,13 +520,6 @@
             <guid>https://www.boannews.com/media/view.asp?idx=105726&amp;page=1&amp;mkind=1&amp;kind=3</guid>
             <pubDate>Mon, 28 Mar 2022 09:19:38 GMT</pubDate>
             <content:encoded><![CDATA[한국정보보호산업협회(KISIA, 회장 이동범)가 4월 18일(월)까지 ‘정보보호산업 맞춤형 인재 양성과정’ 교육생을 모집한다고 밝혔다. 정보보호산업 맞춤형 인재 양성과정은 서울시가 지원하는 민간기업 맞춤형 뉴딜일자리 사업의 일환으로, 정보보호산업의 차세대 전문인력을 양...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[시큐레터, 2년 연속 중기부 ‘비대면 바우처 서비스’ 네트워크 보안 분야 공급기업 선정 (보안뉴스 ─ SECURITY)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105725&amp;page=1&amp;mkind=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105725&amp;page=1&amp;mkind=1&amp;kind=1</guid>
-            <pubDate>Mon, 28 Mar 2022 08:22:29 GMT</pubDate>
-            <content:encoded><![CDATA[악성코드 탐지 및 차단 전문기업 시큐레터(대표 임차성)가 중소벤처기업부 ‘K비대면 바우처 플랫폼’ 네트워크 (보안 솔루션) 분야의 ‘랜섬웨어 이메일 탐지 서비스’ 공급기업으로 선정 되었다고 28일 밝혔다. 지난해에 이어 올해까지 2년 연속이다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[삐 소리에 로봇 손이 움직였다! (보안뉴스 ─ IT)]]></title>
@@ -774,6 +774,20 @@
             <pubDate>Tue, 29 Mar 2022 01:12:10 GMT</pubDate>
             <content:encoded><![CDATA[종합 안심솔루션 기업 에스원(대표 남궁범)이 보안업계 ESG 경영의 패러다임을 제시하고, ESG 리딩컴퍼니로 자리매김하겠다고 밝혔다. 에스원은 보안업계 E...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/22032902ss.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[대북 방송 출연하라고? 탈북자 노려 이력서 양식 악성코드 유포 (보안뉴스 ─ 취약점 경고 및 버그리포트)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105766&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105766&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=</guid>
+            <pubDate>Tue, 29 Mar 2022 06:22:24 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/view.asp?idx=105766&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=">
+					
+					<img src="/media/upFiles2/2022/03/asec_032901_main.jpg" alt="" class="news_img" height="70">
+					
+					<span class="news_txt">대북 방송 출연하라고? 탈북자 노려 이력서 양식 악성코드 유포 </span>
+					</a><br>
+					<a href="/media/view.asp?idx=105766&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=">최근 대북 관련 내용의 피싱 메일을 통해 정보 유출 목적의 악성코드가 유포되고 있다고 안랩 ASEC 분석팀이 밝혔다. 대북 관련 방송의 섭외 내용을 담고 있으며,...</a> <span class="news_writer">원병철 기자 | 2022년 03월 29일 15:19</span>]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/asec_032901_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[구글, 크롬에서 발견된 제로데이 취약점 긴급히 패치 (보안뉴스 ─ 취약점 경고 및 버그리포트)]]></title>
@@ -1040,20 +1054,6 @@
 					</a><br>
 					<a href="/media/view.asp?idx=105551&amp;page=1&amp;mkind=&amp;kind=2&amp;skind=5&amp;search=title&amp;find=">최근 탄소배출 전문기업을 대상으로 문서형 APT 공격이 이뤄진 정황이 발견돼 관련 기업들의 주의가 요구된다. 특히, 이번 공격에서 발견된 ‘골드 드래곤(Gold ...</a> <span class="news_writer">원병철 기자 | 2022년 03월 20일 23:56</span>]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/ahnlab_032001_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[해커들을 공격하는 해커! 악성코드 제작 툴 위장 악성코드 유포 (보안뉴스 ─ 취약점 경고 및 버그리포트)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105537&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105537&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=</guid>
-            <pubDate>Fri, 18 Mar 2022 09:47:33 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/view.asp?idx=105537&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=">
-					
-					<img src="/media/upFiles2/2022/03/20220318AHN-S.JPG" alt="" class="news_img" height="70">
-					
-					<span class="news_txt">해커들을 공격하는 해커! 악성코드 제작 툴 위장 악성코드 유포 </span>
-					</a><br>
-					<a href="/media/view.asp?idx=105537&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=">최근 악성코드 제작 툴로 위장한 ‘ClipBanker’ 악성코드가 유포되고 있는 것으로 드러났다. ‘ClipBanker’ 악성코드는 감염 시스템의 클립보드를 모니...</a> <span class="news_writer">권준  기자 | 2022년 03월 18일 17:20</span>]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220318AHN-S.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[[최정식 발행인 칼럼] <시큐리티월드> 통권 300호를 맞아 드리는 감사의 말씀 (보안뉴스 ─ 오피니언)]]></title>

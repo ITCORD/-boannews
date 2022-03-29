@@ -4,9 +4,17 @@
         <title>보안뉴스 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 29 Mar 2022 05:19:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Mar 2022 06:23:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[대북 방송 출연하라고? 탈북자 노려 이력서 양식 악성코드 유포]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105766&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105766&amp;page=1&amp;kind=1</guid>
+            <pubDate>Tue, 29 Mar 2022 06:21:23 GMT</pubDate>
+            <content:encoded><![CDATA[최근 대북 관련 내용의 피싱 메일을 통해 정보 유출 목적의 악성코드가 유포되고 있다고 안랩 ASEC 분석팀이 밝혔다. 대북 관련 방송의 섭외 내용을 담고 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/asec_032901_main.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[NPM 통한 공급망 공격에 자동화 기술 도입한 공격자들]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105765&amp;page=1&amp;kind=1</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 28 Mar 2022 09:19:16 GMT</pubDate>
             <content:encoded><![CDATA[‘대 퇴직의 시대’가 시작된 데에는 분명한 이유가 있다. 팬데믹이니 재택 근무니 여러 가지 추측들이 나오고 있지만, 사실 그 바탕에는 단 하나의 원인이 있...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/rem-thumb-0328.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미국에서 공개된 기소장 통해 러시아 공격자들의 집요함 드러나]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105727&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105727&amp;page=1&amp;kind=1</guid>
-            <pubDate>Mon, 28 Mar 2022 07:20:20 GMT</pubDate>
-            <content:encoded><![CDATA[이번 주 미국 사법부가 2021년의 기소장 하나를 공개했다. 한 러시아인이 2017년 사우디아라비아의 정유 공장을 공격했다는 내용을 담고 있는데, 이를 통...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/oil-thumb-0328.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[워터월시스템즈, ‘2022 클라우드 서비스 바우처 사업’ 공급기업 선정]]></title>
