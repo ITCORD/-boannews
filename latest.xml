@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Mar 2022 10:20:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Mar 2022 11:17:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -86,6 +86,13 @@
             <pubDate>Tue, 29 Mar 2022 07:17:48 GMT</pubDate>
             <content:encoded><![CDATA[2021년 한 해 동안 익스플로잇 된 제로데이 취약점의 수는 2020년의 2배라는 연구 결과가 발표됐다. 또한 가장 충격이 컸던 취약점 익스플로잇 공격의 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/threat-thumb-0329.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[데이터 경제의 핵심 기반인 빅데이터 플랫폼 및 센터 확대된다]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105783&amp;page=1&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105783&amp;page=1&amp;kind=2</guid>
+            <pubDate>Wed, 30 Mar 2022 11:15:12 GMT</pubDate>
+            <content:encoded><![CDATA[과학기술정보통신부와 한국지능정보사회진흥원은 공공과 민간의 긴밀한 협력을 통해 경제·사회 전반에 양질의 데이터를 공급하고 국민과 기업의 데이터 활용을 촉진하...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[과기정통부 공공기술사업화 1호 기금, 기술혁신 기업에 본격 투자한다]]></title>
@@ -233,14 +240,6 @@
             <pubDate>Tue, 29 Mar 2022 05:17:34 GMT</pubDate>
             <content:encoded><![CDATA[보안 업체 체크막스(Checkmarx)는 “공격자들이 NPM 생태계에 악성 패키지들이 수백~수천 개씩 유입되고 있다”고 경고했다. 공격자들이 자동화 기술을...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/code-thumb-0329.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[옥타, “최근 랩서스의 사이버 공격을 처리하는 데 있어 실수 있었다”]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105764&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105764&amp;page=1&amp;kind=1</guid>
-            <pubDate>Tue, 29 Mar 2022 05:17:34 GMT</pubDate>
-            <content:encoded><![CDATA[보안 외신 쓰레트포스트에 의하면 세계적인 인증 서비스 제공 업체인 옥타(Okta)가 최근 랩서스(Lapsus$) 해킹 그룹의 공격을 처리하는 데에 있어 실...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/mis-thumb-0329.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
