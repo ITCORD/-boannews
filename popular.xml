@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Mar 2022 13:28:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Mar 2022 14:18:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -136,14 +136,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/asec_032901_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[역사 속으로 사라진 맥아피, 이제는 트렐릭스와 스카이하이다]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105641&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105641&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Wed, 30 Mar 2022 02:56:04 GMT</pubDate>
-            <content:encoded><![CDATA[미국의 사모펀드인 심포니테크놀로지그룹(Symphony Technology Group, STG)이 새로운 보안 회사를 런칭했다. 이름은 스카이하이 시큐리티(Skyh...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/div-thumb-0323.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[2022년 공공부문 정보보호 예산 7,411억 확정]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105722&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105722&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
@@ -166,6 +158,14 @@
             <pubDate>Wed, 30 Mar 2022 09:16:38 GMT</pubDate>
             <content:encoded><![CDATA[보안 외신 쓰레트포스트에 의하면 영국 경찰이 최근 전 세계적인 해킹 사고를 일으켜 문제가 되고 있는 랩서스(Lapsus$)의 일원으로 보이는 용의자 7명을 체포하...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/arre-thumb-0325.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[LG CNS, ‘간편인증’ 보안 취약점 가이드 제시]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105660&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105660&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Wed, 30 Mar 2022 14:15:59 GMT</pubDate>
+            <content:encoded><![CDATA[DX전문기업 LG CNS가 온라인상의 신원을 확인하고 인증하는 ‘간편인증’ 서비스의 심각한 보안 취약점을 경고하고, 이에 대한 대응책을 제시했다. LG CNS의 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/lg_032801_main.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
