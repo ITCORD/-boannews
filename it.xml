@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=2</id>
     <title>보안뉴스 ─ IT</title>
-    <updated>2022-03-30T01:11:54.686Z</updated>
+    <updated>2022-03-30T02:58:30.445Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[서울시, 중소·벤처·창업기업 기술 경쟁력 키운다]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=105733&amp;page=1&amp;mkind=2&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=105733&amp;page=1&amp;mkind=2&amp;kind=2"/>
+        <updated>2022-03-30T02:56:27.659Z</updated>
+        <content type="html"><![CDATA[서울시와 서울산업진흥원은 급속도로 발전하는 기술경쟁 시대 속에 우리 기업들의 경쟁력을 강화하기 위해 한층 더 전략적인 기술개발(R&amp;D) 지원에 나선다. 올 한 해만 383억원의 기술개발(R&amp;D) 예산을 집중 투입해 서울의 새로운 일자리 창출과 미래 경제로의 도약을 견인...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[삐 소리에 로봇 손이 움직였다!]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=105737&amp;page=1&amp;mkind=2&amp;kind=2</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=105698&amp;page=1&amp;mkind=2&amp;kind=2"/>
         <updated>2022-03-26T02:48:07.885Z</updated>
         <content type="html"><![CDATA[서울시는 장애인의 디지털 격차 해소를 위해 ‘2022년 장애인 집합정보화교육사업’을 추진한다. 이번 교육은 서울시에 거주하는 장애인 약 4,800여명을 대상으로 4월부터 11월까지 약 8개월간 진행된다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인공지능(AI)으로 ‘똑똑하게’ 특허 심사한다]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=105670&amp;page=1&amp;mkind=2&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=105670&amp;page=1&amp;mkind=2&amp;kind=2"/>
-        <updated>2022-03-26T02:48:07.906Z</updated>
-        <content type="html"><![CDATA[특허청은 ‘인공지능(AI) 기술이 적용된 특허 검색 시스템’을 심사 업무에 활용할 수 있도록 특허청 심사관을 대상으로 시범 서비스를 25일 개통했다.]]></content>
     </entry>
 </feed>

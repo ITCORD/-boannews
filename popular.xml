@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Mar 2022 01:11:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Mar 2022 02:58:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -120,14 +120,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/rem-thumb-0328.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[어나니머스, 네슬레 해킹해 10GB 데이터 유출해]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105621&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105621&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Mon, 28 Mar 2022 08:22:18 GMT</pubDate>
-            <content:encoded><![CDATA[국제적인 핵티비스트 단체인 어나니머스가 스위스의 음식료품 회사인 네슬레를 해킹해 10GB의 데이터를 유출했다. 네슬레가 우크라이나를 침공한 러시아에서 계속해서 사...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/nes-thumb-0323.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[한국인터넷정보센터(KRNIC) 사칭 정보수집 악성 이메일 유포]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105691&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105691&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
@@ -166,6 +158,14 @@
             <pubDate>Tue, 29 Mar 2022 07:18:00 GMT</pubDate>
             <content:encoded><![CDATA[서울시자원봉사센터와 자치구자원봉사센터, 재난 관련 기관 55개가 업무협약을 통해 주거환경, 건강돌봄, 식사, 의료 등 재난 발생 시 시민이 어려움을 겪는 분야를 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/3-251(295).jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[역사 속으로 사라진 맥아피, 이제는 트렐릭스와 스카이하이다]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105641&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105641&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Wed, 30 Mar 2022 02:56:04 GMT</pubDate>
+            <content:encoded><![CDATA[미국의 사모펀드인 심포니테크놀로지그룹(Symphony Technology Group, STG)이 새로운 보안 회사를 런칭했다. 이름은 스카이하이 시큐리티(Skyh...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/div-thumb-0323.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
