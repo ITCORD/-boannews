@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Mar 2022 07:19:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Mar 2022 08:23:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -70,14 +70,6 @@
             <pubDate>Thu, 24 Mar 2022 12:28:07 GMT</pubDate>
             <content:encoded><![CDATA[사이버위협의 주요 요인이 되고 있는 보안 취약점은 무엇보다 신속하게 발견하여 조치하는 것이 중요하다. 이에 정부는 국가 차원에서 국내·외 보안 취약점을 체계적으로...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220323bug-s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성과 LG 해킹한 랩서스, 옥타와 마이크로소프트도 뚫었다]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105625&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105625&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Thu, 24 Mar 2022 06:21:23 GMT</pubDate>
-            <content:encoded><![CDATA[최근 활동력을 높이고 있는 랜섬웨어 그룹 랩서스(LAPSUS$)가 이번 주 마이크로소프트로부터 소스코드와 옥타의 관리자 계정 크리덴셜을 훔치는 데 성공했다고 발표...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/aut-thumb-0323.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[대 퇴직의 시대, 인사부 혼자서 해결할 수 없는 거대한 흐름]]></title>
@@ -166,6 +158,14 @@
             <pubDate>Wed, 30 Mar 2022 07:17:09 GMT</pubDate>
             <content:encoded><![CDATA[2022년 공공부문의 정보보호 예산이 7,411억원으로 확정됐다. 과학기술정보통신부(장관 임혜숙, 이하 ‘과기정통부’)는 3월 29일 ‘2022년 공공부문 소프트...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/21869477_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[코로나 대출 사기 증가... 서민 노린 악성앱 판친다]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105690&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105690&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Wed, 30 Mar 2022 08:20:59 GMT</pubDate>
+            <content:encoded><![CDATA[최근 코로나19로 매출이 줄어든 소상공인 등 금전적 어려움을 겪는 서민들이 늘어난 요즘, 이들을 대상으로 대출을 미끼로한 악성행위를 하는 앱이 늘어나고 있어 주의...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/est_032502_main.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
