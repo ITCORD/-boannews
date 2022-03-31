@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 31 Mar 2022 12:32:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Mar 2022 13:29:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -88,14 +88,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/asec_032901_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[ICBM 쏘고 물밑에선 사이버전... 북한 해킹 조직 집중 해부하다]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105663&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105663&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Mon, 28 Mar 2022 11:17:10 GMT</pubDate>
-            <content:encoded><![CDATA[3월 24일 북한이 동해상으로 ICBM 미사일을 발사하고, 정권교체기인 우리나라를 대상으로 한 사이버공격을 가속화하고 있는 가운데 글로벌 보안기업 맨디언트가 북한...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/nk-thumb-0324.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[미국에서 공개된 기소장 통해 러시아 공격자들의 집요함 드러나]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105727&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105727&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
@@ -158,6 +150,14 @@
             <pubDate>Thu, 31 Mar 2022 04:20:29 GMT</pubDate>
             <content:encoded><![CDATA[보안 외신 시큐리티위크에 따르면 구글이 긴급 패치를 배포하기 시작했다고 한다. 크롬 브라우저에서 제로데이 취약점이 발견됐기 때문이다. 이 취약점은 CVE-2022...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/crack-thumb-0328.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[로그4셸과 닮은꼴? 웹 앱 프레임워크인 스프링에서 나온 스프링4셸]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105823&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105823&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Thu, 31 Mar 2022 13:27:13 GMT</pubDate>
+            <content:encoded><![CDATA[인기 높은 웹 애플리케이션 개발 프레임워크인 스프링(Spring)에서 제로데이 취약점이 발견됐다. 많은 개발자들이 스프링을 사용해 앱을 개발하기 때문에 수많은 웹...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/hole-thumb-0331.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[LG CNS, ‘간편인증’ 보안 취약점 가이드 제시]]></title>
