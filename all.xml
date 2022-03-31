@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 31 Mar 2022 04:22:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Mar 2022 05:17:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[로그4셸과 닮은꼴? 웹 앱 프레임워크인 스프링에서 나온 스프링4셸 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105823&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105823&amp;page=1&amp;kind=1</guid>
+            <pubDate>Thu, 31 Mar 2022 05:15:22 GMT</pubDate>
+            <content:encoded><![CDATA[인기 높은 웹 애플리케이션 개발 프레임워크인 스프링(Spring)에서 제로데이 취약점이 발견됐다. 많은 개발자들이 스프링을 사용해 앱을 개발하기 때문에 수...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/hole-thumb-0331.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[중소기업 사이버보안 면역력 강화 ‘내서버 돌보미’로 지원한다 (보안뉴스 ─ 전체기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105814&amp;page=1&amp;kind=2</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 31 Mar 2022 01:07:09 GMT</pubDate>
             <content:encoded><![CDATA[최근 러시아-우크라이나 전쟁으로 사이버 전장이 확대되고 사이버 위기감이 고조되고 있는 가운데, 국가정보원 지부와 충정지역 보안전문가들은 미래사회 융복합 신...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220331mirae-s.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[보다폰 포르투갈의 해킹 사건으로 나타난 여론 조성 공격의 편린 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105803&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105803&amp;page=1&amp;kind=1</guid>
-            <pubDate>Wed, 30 Mar 2022 08:20:46 GMT</pubDate>
-            <content:encoded><![CDATA[2월 7일 대형 통신사인 보다폰(Vodafone)의 포르투갈 지부가 사이버 공격을 받았고, 서비스에 큰 차질이 빚어졌다. 이 때문에 포르투갈에서는 일부 긴...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/por-thumb-0330.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[미리보는 SECON & eGISEC 2022] 넥스지·넷앤드·두루안 (보안뉴스 ─ 전체기사)]]></title>
@@ -275,20 +275,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/comp-thumb-0324.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[팬데믹 기간 동안 악화된 인재난, 당분간 악순환 예상된다 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105694&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105694&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Sat, 26 Mar 2022 15:17:22 GMT</pubDate>
-            <content:encoded><![CDATA[코로나 바이러스가 창궐하고서 2년이 지났다. 그 사이 많은 기업들이 보안 전문가를 찾느라 애를 먹고 있다. 아니, 심지어 이미 근무하는 보안 담당자들이 죄나 나간...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/emp-thumb-0325.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[대 퇴직의 시대, 인사부 혼자서 해결할 수 없는 거대한 흐름 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105729&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105729&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Tue, 29 Mar 2022 18:20:28 GMT</pubDate>
             <content:encoded><![CDATA[‘대 퇴직의 시대’가 시작된 데에는 분명한 이유가 있다. 팬데믹이니 재택 근무니 여러 가지 추측들이 나오고 있지만, 사실 그 바탕에는 단 하나의 원인이 있으나 바...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/rem-thumb-0328.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[팬데믹 기간 동안 악화된 인재난, 당분간 악순환 예상된다 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105694&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105694&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Sat, 26 Mar 2022 15:17:22 GMT</pubDate>
+            <content:encoded><![CDATA[코로나 바이러스가 창궐하고서 2년이 지났다. 그 사이 많은 기업들이 보안 전문가를 찾느라 애를 먹고 있다. 아니, 심지어 이미 근무하는 보안 담당자들이 죄나 나간...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/emp-thumb-0325.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[쿠바 랜섬웨어 조직, 현대파워텍 해킹해 내부 파일 유출 주장 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
@@ -403,6 +403,13 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/crack-thumb-0328.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[혼다 어큐라 차량의 취약점, 원격 제어 가능케 해 (보안뉴스 ─ SECURITY)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105819&amp;page=1&amp;mkind=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105819&amp;page=1&amp;mkind=1&amp;kind=1</guid>
+            <pubDate>Thu, 31 Mar 2022 05:15:42 GMT</pubDate>
+            <content:encoded><![CDATA[보안 외신 해커뉴스에 의하면 두 명의 보안 전문가들이 일본 혼다의 어큐라 차량을 해킹하는 데 성공했다고 한다. 연구원들은 열쇠 없이 차량을 잠그거나 열고, 심지어 시동을 거는 데에까지 성공했다고 발표했다. 공격 성공의 이유는 CVE-2022-27254라는 원격 무선 키...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[구글 크롬 브라우저, 대규모 보안 업데이트 실시 (보안뉴스 ─ SECURITY)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105818&amp;page=1&amp;mkind=1&amp;kind=1</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105818&amp;page=1&amp;mkind=1&amp;kind=1</guid>
@@ -513,13 +520,6 @@
             <guid>https://www.boannews.com/media/view.asp?idx=105792&amp;page=1&amp;mkind=1&amp;kind=1</guid>
             <pubDate>Wed, 30 Mar 2022 07:17:18 GMT</pubDate>
             <content:encoded><![CDATA[보안 외신 해커뉴스에 의하면 강력한 기능을 자랑하는 새로운 로더 멀웨어가 나타났다고 한다. 이름은 버블콘(Verblecon)으로, 현재 각종 PC들에 암호화폐 채굴 코드를 심고 있다고 한다. 주로 디스코드(Discord)라는 토큰을 노리는 것으로 분석되고 있다. 버블콘...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[VM웨어 서버 덮친 채굴 멀웨어와 백도어, 로그4셸 취약점이 사용돼 (보안뉴스 ─ SECURITY)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105791&amp;page=1&amp;mkind=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105791&amp;page=1&amp;mkind=1&amp;kind=1</guid>
-            <pubDate>Wed, 30 Mar 2022 05:15:42 GMT</pubDate>
-            <content:encoded><![CDATA[보안 외신 쓰레트포스트에 의하면 최악의 취약점이라고 꼽히는 로그4셸(Log4Shell)을 활용한 대형 공격 캠페인이 발견됐다고 한다. 공격자들은 로그4셸을 VM웨어 호라이즌(VMware Horizon) 서버들에서 찾아내 익스플로잇 하며, 뚫린 시스템에 백도어와 암호화폐...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[KT, 신사업 파트너사 확대 위해 7개 협회와 맞손 (보안뉴스 ─ IT)]]></title>
@@ -1896,6 +1896,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/20824554_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[로그4셸과 닮은꼴? 웹 앱 프레임워크인 스프링에서 나온 스프링4셸 (보안뉴스 ─ 국제)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105823&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105823&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
+            <pubDate>Thu, 31 Mar 2022 05:17:02 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/view.asp?idx=105823&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
+					
+					<img src="/media/upFiles2/2022/03/hole-thumb-0331.jpg" alt="" class="news_img" height="70">
+					
+					<span class="news_txt">로그4셸과 닮은꼴? 웹 앱 프레임워크인 스프링에서 나온 스프링4셸</span>
+					</a><br>
+					<a href="/media/view.asp?idx=105823&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">인기 높은 웹 애플리케이션 개발 프레임워크인 스프링(Spring)에서 제로데이 취약점이 발견됐다. 많은 개발자들이 스프링을 사용해 앱을 개발하기 때문에 수많은 웹...</a> <span class="news_writer">문가용 기자 | 2022년 03월 31일 14:00</span>]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/hole-thumb-0331.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[사이버 공격자들, 무정전 전원 공급 장비들 공략해 (보안뉴스 ─ 국제)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105820&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105820&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
@@ -2160,20 +2174,6 @@
 					</a><br>
 					<a href="/media/view.asp?idx=105761&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">새로운 악성 메일 캠페인이 발견됐다. 공격자들의 궁극적인 표적은 패치가 되지 않은 채 공공 인터넷에 연결된 마이크로소프트 익스체인지 서버들이며, 여기에 정보 탈취...</a> <span class="news_writer">문가용 기자 | 2022년 03월 29일 13:59</span>]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/mail-thumb-0329.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[노코드와 로우코드 기반으로 날아오른 돈푸즈의 플랫폼 구축기 (보안뉴스 ─ 국제)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105730&amp;page=1&amp;mkind=&amp;kind=4&amp;skind=D&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105730&amp;page=1&amp;mkind=&amp;kind=4&amp;skind=D&amp;search=title&amp;find=</guid>
-            <pubDate>Tue, 29 Mar 2022 05:19:25 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/view.asp?idx=105730&amp;page=1&amp;mkind=&amp;kind=4&amp;skind=D&amp;search=title&amp;find=">
-					
-					<img src="/media/upFiles2/2022/03/bak-thumb-0328.jpg" alt="" class="news_img" height="70">
-					
-					<span class="news_txt">노코드와 로우코드 기반으로 날아오른 돈푸즈의 플랫폼 구축기</span>
-					</a><br>
-					<a href="/media/view.asp?idx=105730&amp;page=1&amp;mkind=&amp;kind=4&amp;skind=D&amp;search=title&amp;find=">팬데믹으로 인해 디지털 변혁의 속도가 빨라진 가운데 제빵용 식재료 유통사인 돈푸즈(Dawn Foods)가 지능형 실험 자동화 기술 기업인 메이블(Mabl)과 손을...</a> <span class="news_writer">문가용 기자 | 2022년 03월 29일 13:35</span>]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/bak-thumb-0328.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[통합보안 3사 에스원·SK쉴더스·KT텔레캅, 소비자의 생각과 선택은? (보안뉴스 ─ 기획특집)]]></title>
