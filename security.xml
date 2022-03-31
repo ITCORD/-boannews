@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-03-31T08:21:03.003Z</updated>
+    <updated>2022-03-31T09:19:46.565Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[클라우드에 빈틈만 보이면 암호화폐 채굴을 시작하는 사이버 공격자들]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=105830&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=105830&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-03-31T09:17:49.818Z</updated>
+        <content type="html"><![CDATA[사이버 공격자들이 클라우드 계정들을 공략하고 있다. 그 목적은 암호화폐 채굴이다. 클라우드를 통해 워크로드를 분산시켜 암호화폐 채굴을 활성화 하는 것이 공격자들 사이에서 나타나는 최신 추세라고 한다. 이 때 공격자들의 주요 수법은 환경설정 오류나 취약한 클라우드 인스턴...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[로그4셸과 닮은꼴? 웹 앱 프레임워크인 스프링에서 나온 스프링4셸]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=105823&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=105823&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-03-31T09:17:49.822Z</updated>
+        <content type="html"><![CDATA[인기 높은 웹 애플리케이션 개발 프레임워크인 스프링(Spring)에서 제로데이 취약점이 발견됐다. 많은 개발자들이 스프링을 사용해 앱을 개발하기 때문에 수많은 웹 애플리케이션들이 취약할 것으로 예상되고 있다. 이 제로데이 취약점은 원격 공격을 가능하게 하는 성질을 가지...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[중소기업 사이버보안 면역력 강화 ‘내서버 돌보미’로 지원한다]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=105814&amp;page=1&amp;mkind=1&amp;kind=2</id>
@@ -109,19 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=105802&amp;page=1&amp;mkind=1&amp;kind=1"/>
         <updated>2022-03-31T01:07:34.443Z</updated>
         <content type="html"><![CDATA[많은 기업들이 사용하고 있는 VM웨어 호라이즌(VMware Horizon) 서버는 공격자들의 잦은 표적이 된다. 기업 내 중요 앱들에 언제 어디서나 접근할 수 있도록 해 주는 서버이니 그럴 만도 하다. 그런 가운데 최근 로그4j(Logj4)의 취약점을 익스플로잇 하려는...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[랩서스, 이번엔 글로벌 IT 기업 ‘Globant’ 공격 발표]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=105796&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=105796&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-03-31T01:07:34.444Z</updated>
-        <content type="html"><![CDATA[최근 국내외 대기업들을 공격해 관심이 집중되고 있는 해킹그룹 랩서스(LAPSUS$)가 글로벌 IT 기업 ‘글로반트(Globant)’를 공격해 관리자 계정과 고객 정보를 유출했다고 밝혔다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[중소기업 정보보호 위해 ‘컨설팅·솔루션’과 ‘클라우드 백업’ 지원한다]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=105788&amp;page=1&amp;mkind=1&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=105788&amp;page=1&amp;mkind=1&amp;kind=2"/>
-        <updated>2022-03-30T08:21:11.476Z</updated>
-        <content type="html"><![CDATA[나날이 늘어나는 사이버보안 위협으로부터 중소기업을 보호하기 위한 ‘정보보호 역량강화’ 사업이 추진된다. 과학기술정보통신부(장관 임혜숙, 이하 과기정통부)와 한국인터넷진흥원(원장 이원태, 이하 KISA), 한국정보보호산업협회(회장 이동범, 이하  KISIA)는 중소기업 ...]]></content>
     </entry>
 </feed>
