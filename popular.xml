@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 31 Mar 2022 01:09:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Mar 2022 02:55:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,6 +104,14 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220325esrc-S.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[대북 방송 출연하라고? 탈북자 노려 이력서 양식 악성코드 유포]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105766&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105766&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Wed, 30 Mar 2022 09:16:38 GMT</pubDate>
+            <content:encoded><![CDATA[최근 대북 관련 내용의 피싱 메일을 통해 정보 유출 목적의 악성코드가 유포되고 있다고 안랩 ASEC 분석팀이 밝혔다. 대북 관련 방송의 섭외 내용을 담고 있으며,...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/asec_032901_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[ICBM 쏘고 물밑에선 사이버전... 북한 해킹 조직 집중 해부하다]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105663&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105663&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
@@ -118,14 +126,6 @@
             <pubDate>Tue, 29 Mar 2022 14:20:00 GMT</pubDate>
             <content:encoded><![CDATA[이번 주 미국 사법부가 2021년의 기소장 하나를 공개했다. 한 러시아인이 2017년 사우디아라비아의 정유 공장을 공격했다는 내용을 담고 있는데, 이를 통해 국가...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/oil-thumb-0328.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[대북 방송 출연하라고? 탈북자 노려 이력서 양식 악성코드 유포]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105766&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105766&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Wed, 30 Mar 2022 09:16:38 GMT</pubDate>
-            <content:encoded><![CDATA[최근 대북 관련 내용의 피싱 메일을 통해 정보 유출 목적의 악성코드가 유포되고 있다고 안랩 ASEC 분석팀이 밝혔다. 대북 관련 방송의 섭외 내용을 담고 있으며,...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/asec_032901_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[자원봉사·재난 분야 55개 기관, ‘재난으로부터 안전한 도시 서울’ 위해 협력한다]]></title>
@@ -152,20 +152,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/est_032502_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[영국 경찰, 랩서스 갱단으로 보이는 용의자 7명 체포]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105689&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105689&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Wed, 30 Mar 2022 09:16:38 GMT</pubDate>
-            <content:encoded><![CDATA[보안 외신 쓰레트포스트에 의하면 영국 경찰이 최근 전 세계적인 해킹 사고를 일으켜 문제가 되고 있는 랩서스(Lapsus$)의 일원으로 보이는 용의자 7명을 체포하...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/arre-thumb-0325.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[팬데믹 지나며 더 살벌해진 사이버 공간, 취약점 관리 더 철저해야 한다]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105769&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105769&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Wed, 30 Mar 2022 23:16:45 GMT</pubDate>
             <content:encoded><![CDATA[2021년 한 해 동안 익스플로잇 된 제로데이 취약점의 수는 2020년의 2배라는 연구 결과가 발표됐다. 또한 가장 충격이 컸던 취약점 익스플로잇 공격의 절반 이...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/threat-thumb-0329.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[영국 경찰, 랩서스 갱단으로 보이는 용의자 7명 체포]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105689&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105689&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Wed, 30 Mar 2022 09:16:38 GMT</pubDate>
+            <content:encoded><![CDATA[보안 외신 쓰레트포스트에 의하면 영국 경찰이 최근 전 세계적인 해킹 사고를 일으켜 문제가 되고 있는 랩서스(Lapsus$)의 일원으로 보이는 용의자 7명을 체포하...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/arre-thumb-0325.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
