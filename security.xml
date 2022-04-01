@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-04-01T09:17:47.499Z</updated>
+    <updated>2022-04-01T10:21:32.408Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[마이크로소프트, ‘사이버 보안 스킬 캠페인’ 한국 포함 23개국 확대]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=105848&amp;page=1&amp;mkind=1&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=105848&amp;page=1&amp;mkind=1&amp;kind=3"/>
+        <updated>2022-04-01T10:19:37.000Z</updated>
+        <content type="html"><![CDATA[마이크로소프트가 ‘사이버 보안 스킬 캠페인(Cybersecurity Skills Campaign)’을 올해부터 한국 포함 전 세계 23개국으로 확대, 보안 기술 격차 해소에 앞장선다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[화웨이 클라우드엔진 데이터센터 스위치, CC인증 최고 레벨인 EAL4+ 취득]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=105847&amp;page=1&amp;mkind=1&amp;kind=3</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=105820&amp;page=1&amp;mkind=1&amp;kind=1"/>
         <updated>2022-03-31T07:16:40.103Z</updated>
         <content type="html"><![CDATA[사회 기반 시설 및 중요 유틸리티들에서 가동되고 있는 무정전 전원 공급 장치(UPS)가 사이버 공격자들의 표적이 되고 있다고 보안 외신 쓰레트포스트가 보도했다. UPS는 말 그대로 전력 공급이 원활치 않을 때 가동되는 부차적 장치다. 미국의 사이버 보안 전담 기관인 C...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[혼다 어큐라 차량의 취약점, 원격 제어 가능케 해]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=105819&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=105819&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-03-31T05:15:42.728Z</updated>
-        <content type="html"><![CDATA[보안 외신 해커뉴스에 의하면 두 명의 보안 전문가들이 일본 혼다의 어큐라 차량을 해킹하는 데 성공했다고 한다. 연구원들은 열쇠 없이 차량을 잠그거나 열고, 심지어 시동을 거는 데에까지 성공했다고 발표했다. 공격 성공의 이유는 CVE-2022-27254라는 원격 무선 키...]]></content>
     </entry>
 </feed>
