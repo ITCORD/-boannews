@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-04-01T07:18:56.224Z</updated>
+    <updated>2022-04-01T08:23:59.783Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[화웨이 클라우드엔진 데이터센터 스위치, CC인증 최고 레벨인 EAL4+ 취득]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=105847&amp;page=1&amp;mkind=1&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=105847&amp;page=1&amp;mkind=1&amp;kind=3"/>
+        <updated>2022-04-01T08:22:02.580Z</updated>
+        <content type="html"><![CDATA[화웨이의 데이터센터 스위치인 클라우드엔진(CloudEngine) 16800, 8800, 6800 시리즈가 국제 사이버 보안 평가 연구소인 SGS 브라이트사이트(SGS Brightsight)의 보안 테스트를 통과하며, 국제 보안 공통 평가 기준(Common Criteri...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[새로운 파이선 기반 랜섬웨어, 주피터랩 웹 노트북  공격 중]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=105846&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=105846&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-04-01T08:22:02.580Z</updated>
+        <content type="html"><![CDATA[웹 기반 컴퓨팅 플랫폼인 주피터(Jupyter) 노트북을 겨냥한 파이선 기반 랜섬웨어가 출현했다고 보안 외신 해커뉴스가 보도했다. 주피터 노트북은 데이터 분석가들을 위한 특수 장비로, 이를 겨냥한 랜섬웨어가 나타난 건 이번이 처음이다. 이 랜섬웨어를 발견한 보안 업체 ...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[애플, 맥OS와 iOS의 제로데이 취약점 해결하기 위해 긴급 패치 배포]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=105845&amp;page=1&amp;mkind=1&amp;kind=1</id>
@@ -109,19 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=105819&amp;page=1&amp;mkind=1&amp;kind=1"/>
         <updated>2022-03-31T05:15:42.728Z</updated>
         <content type="html"><![CDATA[보안 외신 해커뉴스에 의하면 두 명의 보안 전문가들이 일본 혼다의 어큐라 차량을 해킹하는 데 성공했다고 한다. 연구원들은 열쇠 없이 차량을 잠그거나 열고, 심지어 시동을 거는 데에까지 성공했다고 발표했다. 공격 성공의 이유는 CVE-2022-27254라는 원격 무선 키...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[구글 크롬 브라우저, 대규모 보안 업데이트 실시]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=105818&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=105818&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-03-31T03:28:42.434Z</updated>
-        <content type="html"><![CDATA[보안 외신 시큐리티위크에 따르면 이번 주 구글이 자사의 크롬 브라우저를 위한 대규모 패치를 실시했다고 한다. 이번에 해결된 취약점은 총 28개인데 이 중 꽤나 위험도가 높은 것들도 포함되어 있다고 구글은 경고했다. 현재까지 발견된 취약점이 모두 해결된 크롬 버전은 10...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[러시아 해커들, NATO의 네트워크 겨냥한 공격 실시 중]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=105817&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=105817&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-03-31T02:53:53.459Z</updated>
-        <content type="html"><![CDATA[러시아의 해커들이 NATO의 네트워크를 뚫기 위한 시도를 최근 진행했다고 구글의 위협분석그룹(TAG)이 발표했다. 특히 동유럽 국가들의 군대들이 주요 표적인 것으로 보인다고 하는데, 국가의 이름이 구체적으로 공개되지는 않았다. 로이터에 따르면 공격자들은 새롭게 지메일 ...]]></content>
     </entry>
 </feed>
