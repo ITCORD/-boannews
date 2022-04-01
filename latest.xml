@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Apr 2022 04:25:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Apr 2022 05:17:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -86,6 +86,22 @@
             <pubDate>Thu, 31 Mar 2022 07:16:20 GMT</pubDate>
             <content:encoded><![CDATA[사이버 공격자들이 클라우드 계정들을 공략하고 있다. 그 목적은 암호화폐 채굴이다. 클라우드를 통해 워크로드를 분산시켜 암호화폐 채굴을 활성화 하는 것이 공...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/mine-thumb-0331.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[마이크로소프트, ‘사이버 보안 스킬 캠페인’ 한국 포함 23개국 확대]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105848&amp;page=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105848&amp;page=1&amp;kind=3</guid>
+            <pubDate>Fri, 01 Apr 2022 05:15:13 GMT</pubDate>
+            <content:encoded><![CDATA[마이크로소프트가 ‘사이버 보안 스킬 캠페인(Cybersecurity Skills Campaign)’을 올해부터 한국 포함 전 세계 23개국으로 확대, 보안...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/20220401ms-s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[화웨이 클라우드엔진 데이터센터 스위치, CC인증 최고 레벨인 EAL4+ 취득]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105847&amp;page=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105847&amp;page=1&amp;kind=3</guid>
+            <pubDate>Fri, 01 Apr 2022 05:15:13 GMT</pubDate>
+            <content:encoded><![CDATA[화웨이의 데이터센터 스위치인 클라우드엔진(CloudEngine) 16800, 8800, 6800 시리즈가 국제 사이버 보안 평가 연구소인 SGS 브라이트사...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/20220401huawei-s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[미리보는 SECON & eGISEC 2022] 모니터랩·새빛엠엔에스·센티넬원·소프트캠프]]></title>
@@ -230,22 +246,6 @@
             <pubDate>Thu, 31 Mar 2022 02:53:32 GMT</pubDate>
             <content:encoded><![CDATA[보안전문기업 KT텔레캅(대표이사 장지호)은 새마을금고중앙회(회장 박차훈)와 새마을금고 내 안전관리 강화를 위한 업무협약(MOU)을 체결했다고 31일 밝혔다...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/22033101ss.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[미리보는 SECON & eGISEC 2022] 데이터프로텍·듀얼아이·디지탈센스]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105815&amp;page=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105815&amp;page=1&amp;kind=3</guid>
-            <pubDate>Thu, 31 Mar 2022 02:53:32 GMT</pubDate>
-            <content:encoded><![CDATA[물리보안과 사이버보안을 아우르는 국내 최대 통합보안 전시회인 제21회 세계보안엑스포(SECON &amp; eGISEC 2022)는 4월 20일부터 22일까지 3일...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220331secon.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[미리보는 SECON & eGISEC 2022] 가나이엔지·경인씨엔에스·기가정보]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105794&amp;page=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105794&amp;page=1&amp;kind=3</guid>
-            <pubDate>Thu, 31 Mar 2022 02:53:32 GMT</pubDate>
-            <content:encoded><![CDATA[물리보안과 사이버보안을 아우르는 국내 최대 통합보안 전시회인 제21회 세계보안엑스포(SECON &amp; eGISEC 2022)는 4월 20일부터 22일까지 3일...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/SECON%20eGISEC%202022.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

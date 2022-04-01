@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Apr 2022 04:25:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Apr 2022 05:17:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -40,20 +40,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/rem-thumb-0328.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[팬데믹 기간 동안 악화된 인재난, 당분간 악순환 예상된다]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105694&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105694&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Sat, 26 Mar 2022 15:17:22 GMT</pubDate>
-            <content:encoded><![CDATA[코로나 바이러스가 창궐하고서 2년이 지났다. 그 사이 많은 기업들이 보안 전문가를 찾느라 애를 먹고 있다. 아니, 심지어 이미 근무하는 보안 담당자들이 죄나 나간...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/emp-thumb-0325.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[로그4셸과 닮은꼴? 웹 앱 프레임워크인 스프링에서 나온 스프링4셸]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105823&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105823&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Thu, 31 Mar 2022 13:27:13 GMT</pubDate>
             <content:encoded><![CDATA[인기 높은 웹 애플리케이션 개발 프레임워크인 스프링(Spring)에서 제로데이 취약점이 발견됐다. 많은 개발자들이 스프링을 사용해 앱을 개발하기 때문에 수많은 웹...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/hole-thumb-0331.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[팬데믹 기간 동안 악화된 인재난, 당분간 악순환 예상된다]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105694&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105694&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Sat, 26 Mar 2022 15:17:22 GMT</pubDate>
+            <content:encoded><![CDATA[코로나 바이러스가 창궐하고서 2년이 지났다. 그 사이 많은 기업들이 보안 전문가를 찾느라 애를 먹고 있다. 아니, 심지어 이미 근무하는 보안 담당자들이 죄나 나간...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/emp-thumb-0325.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[주말판] 팬데믹과 전쟁으로 악화된 공급망 위기, 3D 프린터로 해결하자]]></title>
@@ -104,6 +104,14 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/oil-thumb-0328.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[새로운 로그4셸? 스프링에서 스프링4셸 취약점 발견돼]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105816&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105816&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Fri, 01 Apr 2022 01:19:05 GMT</pubDate>
+            <content:encoded><![CDATA[스프링(Spring)이라는 인기 높은 자바 애플리케이션 프레임워크에서 제로데이 취약점이 발견됐다. 이 취약점에는 스프링4셸(Spring4Shell)이라는 이름이 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/spr-thumb-0331.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[코로나 대출 사기 증가... 서민 노린 악성앱 판친다]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105690&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105690&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
@@ -118,14 +126,6 @@
             <pubDate>Wed, 30 Mar 2022 07:17:09 GMT</pubDate>
             <content:encoded><![CDATA[2022년 공공부문의 정보보호 예산이 7,411억원으로 확정됐다. 과학기술정보통신부(장관 임혜숙, 이하 ‘과기정통부’)는 3월 29일 ‘2022년 공공부문 소프트...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/21869477_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[새로운 로그4셸? 스프링에서 스프링4셸 취약점 발견돼]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105816&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105816&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Fri, 01 Apr 2022 01:19:05 GMT</pubDate>
-            <content:encoded><![CDATA[스프링(Spring)이라는 인기 높은 자바 애플리케이션 프레임워크에서 제로데이 취약점이 발견됐다. 이 취약점에는 스프링4셸(Spring4Shell)이라는 이름이 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/spr-thumb-0331.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[자원봉사·재난 분야 55개 기관, ‘재난으로부터 안전한 도시 서울’ 위해 협력한다]]></title>
