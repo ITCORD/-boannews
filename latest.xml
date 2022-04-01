@@ -4,9 +4,17 @@
         <title>보안뉴스 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 31 Mar 2022 23:19:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Apr 2022 01:21:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[대한임상건강증진학회 ‘코로나19 백신 알림’ 사칭 北 연계 해킹 공격]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105840&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105840&amp;page=1&amp;kind=1</guid>
+            <pubDate>Fri, 01 Apr 2022 01:18:54 GMT</pubDate>
+            <content:encoded><![CDATA[최근 대한임상건강증진학회의 코로나19 백신 알림으로 위장한 北 연계 해킹 공격이 발견돼 각별한 주의가 요구된다고 보안 전문 기업 이스트시큐리티(대표 정진일...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/est_040101_main.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[디지털 대전환 시대를 선도할 정보보안 리더 양성! BoB 10기 인증식 개최]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105837&amp;page=1&amp;kind=2</link>
@@ -80,12 +88,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/nato-thumb0331.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[새로운 로그4셸? 스프링에서 스프링4셸 취약점 발견돼]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105816&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105816&amp;page=1&amp;kind=1</guid>
-            <pubDate>Thu, 31 Mar 2022 02:53:32 GMT</pubDate>
-            <content:encoded><![CDATA[스프링(Spring)이라는 인기 높은 자바 애플리케이션 프레임워크에서 제로데이 취약점이 발견됐다. 이 취약점에는 스프링4셸(Spring4Shell)이라는 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/spr-thumb-0331.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[미리보는 SECON & eGISEC 2022] 다원테크·딥노이드·마일스톤 시스템즈]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105797&amp;page=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105797&amp;page=1&amp;kind=3</guid>
+            <pubDate>Fri, 01 Apr 2022 01:18:54 GMT</pubDate>
+            <content:encoded><![CDATA[물리보안과 사이버보안을 아우르는 국내 최대 통합보안 전시회인 제21회 세계보안엑스포(SECON &amp; eGISEC 2022)는 4월 20일부터 22일까지 3일...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/SECON%20eGISEC%202022(1).jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[위젯누리, 2022 K-비대면 바우처 공급기업 2년 연속 선정]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105833&amp;page=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105833&amp;page=1&amp;kind=3</guid>
+            <pubDate>Fri, 01 Apr 2022 01:18:54 GMT</pubDate>
+            <content:encoded><![CDATA[위젯누리가 중소기업벤처부에서 주관하는 2022년 비대면 바우처 플랫폼 사업에 공급 기업으로 선정됐다고 밝혔다.]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/wejet_033101_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[미리보는 SECON & eGISEC 2022] 라온시큐어·마이더스AI·매그넷]]></title>
@@ -110,6 +126,14 @@
             <pubDate>Thu, 31 Mar 2022 09:17:28 GMT</pubDate>
             <content:encoded><![CDATA[한편, 물리보안과 사이버보안을 아우르는 국내 최대 통합보안 전시회인 제21회 세계보안엑스포(SECON &amp; eGISEC 2022)는 4월 20일부터 22일까...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/SECON%20eGISEC%202022(0).jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[새로운 로그4셸? 스프링에서 스프링4셸 취약점 발견돼]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105816&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105816&amp;page=1&amp;kind=1</guid>
+            <pubDate>Thu, 31 Mar 2022 02:53:32 GMT</pubDate>
+            <content:encoded><![CDATA[스프링(Spring)이라는 인기 높은 자바 애플리케이션 프레임워크에서 제로데이 취약점이 발견됐다. 이 취약점에는 스프링4셸(Spring4Shell)이라는 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/spr-thumb-0331.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[당연한 얘기지만 개발자들도 보안을 생각하고 있다]]></title>
@@ -219,30 +243,6 @@
             <guid>https://www.boannews.com/media/view.asp?idx=105781&amp;page=1&amp;kind=2</guid>
             <pubDate>Wed, 30 Mar 2022 10:18:09 GMT</pubDate>
             <content:encoded><![CDATA[행정안전부는 재난에 취약한 계층의 안전교육 사각지대 해소를 위해 20개 자치단체(7개 시·도, 13개 시·군·구)와 함께 ‘2022년 찾아가는 안전취약계층...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[국토부, 2022년도 ‘K-City Network’ 국제공모 실시]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105780&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105780&amp;page=1&amp;kind=2</guid>
-            <pubDate>Wed, 30 Mar 2022 10:18:09 GMT</pubDate>
-            <content:encoded><![CDATA[국토교통부는 정부 간 스마트시티 협력 사업을 발굴하고, 우리 기업의 해외 진출을 지원하기 위한 ‘K-City Network’ 사업의 제3회 국제공모를 지난...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/3-294(295).jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제주도, 응급환자 이송 어려움을 닥터헬기로 극복한다]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105779&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105779&amp;page=1&amp;kind=2</guid>
-            <pubDate>Wed, 30 Mar 2022 10:18:09 GMT</pubDate>
-            <content:encoded><![CDATA[보건복지부는 8번째 응급의료 전용 헬기(이하 닥터헬기) 배치 지역으로 제주도(배치 병원: 제주한라병원)가 선정됐다고 밝혔다. ‘응급의료 전용 헬기’는 응급...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/3-293(295).jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[KT, 신사업 파트너사 확대 위해 7개 협회와 맞손]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105778&amp;page=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105778&amp;page=1&amp;kind=3</guid>
-            <pubDate>Wed, 30 Mar 2022 10:18:09 GMT</pubDate>
-            <content:encoded><![CDATA[KT는 한국디지털헬스산업협회, 한국블록체인산업진흥협회, 한국스마트홈산업협회, 한국인공지능협회, 한국자율주행산업협회, 한국클라우드산업협회, 한국통합물류협회 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/3-292(295).jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

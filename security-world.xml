@@ -4,9 +4,17 @@
         <title>보안뉴스 ─ Security World</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 31 Mar 2022 23:19:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Apr 2022 01:21:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[미리보는 SECON & eGISEC 2022] 다...]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105797&amp;mkind=5</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105797&amp;mkind=5</guid>
+            <pubDate>Fri, 01 Apr 2022 01:19:44 GMT</pubDate>
+            <content:encoded><![CDATA[물리보안과 사이버보안을 아우르는 국내 최대 통합보안 전시회인 제21회 세계보안엑스포(SECON &amp; eGISEC 2022)는 4월 20일부터 22일까지 3일...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/SECON%20eGISEC%202022(1).jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[미리보는 SECON & eGISEC 2022] 경...]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105838&amp;mkind=5</link>
@@ -14,14 +22,6 @@
             <pubDate>Thu, 31 Mar 2022 09:18:20 GMT</pubDate>
             <content:encoded><![CDATA[물리보안과 사이버보안을 아우르는 국내 최대 통합보안 전시회인 제21회 세계보안엑스포(SECON &amp; eGISEC 2022)는 4월 20일부터 22일까지 3일...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220331secon(0).jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[미리보는 SECON & eGISEC 2022] 나...]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105795&amp;mkind=5</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105795&amp;mkind=5</guid>
-            <pubDate>Thu, 31 Mar 2022 09:18:20 GMT</pubDate>
-            <content:encoded><![CDATA[한편, 물리보안과 사이버보안을 아우르는 국내 최대 통합보안 전시회인 제21회 세계보안엑스포(SECON &amp; eGISEC 2022)는 4월 20일부터 22일까...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/SECON%20eGISEC%202022(0).jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
