@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Apr 2022 12:27:35 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Apr 2022 13:23:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -344,20 +344,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/21869477_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[팬데믹 지나며 더 살벌해진 사이버 공간, 취약점 관리 더 철저해야 한다 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105769&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105769&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Wed, 30 Mar 2022 23:16:45 GMT</pubDate>
-            <content:encoded><![CDATA[2021년 한 해 동안 익스플로잇 된 제로데이 취약점의 수는 2020년의 2배라는 연구 결과가 발표됐다. 또한 가장 충격이 컸던 취약점 익스플로잇 공격의 절반 이...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/threat-thumb-0329.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[애플, 맥OS와 iOS의 제로데이 취약점 해결하기 위해 긴급 패치 배포 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105845&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105845&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Sat, 02 Apr 2022 02:53:43 GMT</pubDate>
             <content:encoded><![CDATA[보안 외신 시큐리티위크에 의하면 애플의 iOS와 맥OS, iPadOS에서 현재 활발하게 익스플로잇 되고 있는 취약점들이 발견돼, 애플이 긴급하게 보안 패치를 배포...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/apple-thumb-0401.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[팬데믹 지나며 더 살벌해진 사이버 공간, 취약점 관리 더 철저해야 한다 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105769&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105769&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Wed, 30 Mar 2022 23:16:45 GMT</pubDate>
+            <content:encoded><![CDATA[2021년 한 해 동안 익스플로잇 된 제로데이 취약점의 수는 2020년의 2배라는 연구 결과가 발표됐다. 또한 가장 충격이 컸던 취약점 익스플로잇 공격의 절반 이...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/threat-thumb-0329.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[구글, 크롬에서 발견된 제로데이 취약점 긴급히 패치 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
