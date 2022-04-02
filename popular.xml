@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Apr 2022 21:17:26 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Apr 2022 22:19:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -40,20 +40,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/spring-thumb-0401.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[대북 방송 출연하라고? 탈북자 노려 이력서 양식 악성코드 유포]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105766&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105766&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Wed, 30 Mar 2022 09:16:38 GMT</pubDate>
-            <content:encoded><![CDATA[최근 대북 관련 내용의 피싱 메일을 통해 정보 유출 목적의 악성코드가 유포되고 있다고 안랩 ASEC 분석팀이 밝혔다. 대북 관련 방송의 섭외 내용을 담고 있으며,...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/asec_032901_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[새로운 파이선 기반 랜섬웨어, 주피터랩 웹 노트북  공격 중]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105846&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105846&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Sat, 02 Apr 2022 02:53:43 GMT</pubDate>
             <content:encoded><![CDATA[웹 기반 컴퓨팅 플랫폼인 주피터(Jupyter) 노트북을 겨냥한 파이선 기반 랜섬웨어가 출현했다고 보안 외신 해커뉴스가 보도했다. 주피터 노트북은 데이터 분석가들...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/jup-thumb-0401.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[대북 방송 출연하라고? 탈북자 노려 이력서 양식 악성코드 유포]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105766&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105766&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Wed, 30 Mar 2022 09:16:38 GMT</pubDate>
+            <content:encoded><![CDATA[최근 대북 관련 내용의 피싱 메일을 통해 정보 유출 목적의 악성코드가 유포되고 있다고 안랩 ASEC 분석팀이 밝혔다. 대북 관련 방송의 섭외 내용을 담고 있으며,...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/asec_032901_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[새로운 로그4셸? 스프링에서 스프링4셸 취약점 발견돼]]></title>
@@ -104,20 +104,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/apple-thumb-0401.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[2022년 공공부문 정보보호 예산 7,411억 확정]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105722&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105722&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
-            <pubDate>Wed, 30 Mar 2022 07:17:09 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 공공부문의 정보보호 예산이 7,411억원으로 확정됐다. 과학기술정보통신부(장관 임혜숙, 이하 ‘과기정통부’)는 3월 29일 ‘2022년 공공부문 소프트...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/21869477_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[우크라이나 국방부, 러시아 FSB의 요원 620명의 개인정보 유출시켜]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105844&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105844&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Sat, 02 Apr 2022 02:53:43 GMT</pubDate>
             <content:encoded><![CDATA[우크라이나 국방부가 3월 28일 600명이 넘는 러시아 연방보안국(FSB) 소속 요원들의 개인정보라고 주장하며 방대한 데이터를 온라인에 공개했다고 보안 외신 핵리...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/rus-uk-thumb-0401.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022년 공공부문 정보보호 예산 7,411억 확정]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105722&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105722&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
+            <pubDate>Wed, 30 Mar 2022 07:17:09 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 공공부문의 정보보호 예산이 7,411억원으로 확정됐다. 과학기술정보통신부(장관 임혜숙, 이하 ‘과기정통부’)는 3월 29일 ‘2022년 공공부문 소프트...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/21869477_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[팬데믹 지나며 더 살벌해진 사이버 공간, 취약점 관리 더 철저해야 한다]]></title>
