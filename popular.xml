@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Apr 2022 03:30:17 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Apr 2022 04:22:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -56,20 +56,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/spr-thumb-0331.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[미국에서 공개된 기소장 통해 러시아 공격자들의 집요함 드러나]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105727&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105727&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Tue, 29 Mar 2022 14:20:00 GMT</pubDate>
-            <content:encoded><![CDATA[이번 주 미국 사법부가 2021년의 기소장 하나를 공개했다. 한 러시아인이 2017년 사우디아라비아의 정유 공장을 공격했다는 내용을 담고 있는데, 이를 통해 국가...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/oil-thumb-0328.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[클라우드에 빈틈만 보이면 암호화폐 채굴을 시작하는 사이버 공격자들]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105830&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105830&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Fri, 01 Apr 2022 07:16:48 GMT</pubDate>
             <content:encoded><![CDATA[사이버 공격자들이 클라우드 계정들을 공략하고 있다. 그 목적은 암호화폐 채굴이다. 클라우드를 통해 워크로드를 분산시켜 암호화폐 채굴을 활성화 하는 것이 공격자들 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/mine-thumb-0331.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[미국에서 공개된 기소장 통해 러시아 공격자들의 집요함 드러나]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105727&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105727&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Tue, 29 Mar 2022 14:20:00 GMT</pubDate>
+            <content:encoded><![CDATA[이번 주 미국 사법부가 2021년의 기소장 하나를 공개했다. 한 러시아인이 2017년 사우디아라비아의 정유 공장을 공격했다는 내용을 담고 있는데, 이를 통해 국가...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/oil-thumb-0328.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2022년 공공부문 정보보호 예산 7,411억 확정]]></title>
@@ -88,14 +88,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/threat-thumb-0329.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[구글, 크롬에서 발견된 제로데이 취약점 긴급히 패치]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105717&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105717&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Thu, 31 Mar 2022 04:20:29 GMT</pubDate>
-            <content:encoded><![CDATA[보안 외신 시큐리티위크에 따르면 구글이 긴급 패치를 배포하기 시작했다고 한다. 크롬 브라우저에서 제로데이 취약점이 발견됐기 때문이다. 이 취약점은 CVE-2022...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/crack-thumb-0328.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[중소기업 사이버보안 면역력 강화 ‘내서버 돌보미’로 지원한다]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105814&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105814&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
@@ -112,12 +104,12 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/BoB%2010_033101_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[첫 대규모 로그4j 캠페인? VM웨어 호라이즌 생태계에 빨간 불]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105802&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105802&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Fri, 01 Apr 2022 03:15:37 GMT</pubDate>
-            <content:encoded><![CDATA[많은 기업들이 사용하고 있는 VM웨어 호라이즌(VMware Horizon) 서버는 공격자들의 잦은 표적이 된다. 기업 내 중요 앱들에 언제 어디서나 접근할 수 있...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/red-thumb-0330.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[구글, 크롬에서 발견된 제로데이 취약점 긴급히 패치]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105717&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105717&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Thu, 31 Mar 2022 04:20:29 GMT</pubDate>
+            <content:encoded><![CDATA[보안 외신 시큐리티위크에 따르면 구글이 긴급 패치를 배포하기 시작했다고 한다. 크롬 브라우저에서 제로데이 취약점이 발견됐기 때문이다. 이 취약점은 CVE-2022...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/crack-thumb-0328.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[자바 웹 애플리케이션 프레임워크 스프링, 제로데이 취약점 패치해]]></title>
@@ -126,6 +118,14 @@
             <pubDate>Sat, 02 Apr 2022 02:53:43 GMT</pubDate>
             <content:encoded><![CDATA[유명 자바 애플리케이션 프레임워크인 스프링(Spring)의 개발 팀이 스프링4셸(Spring4Shell) 혹은 스프링셸(SpringShell)이라고 알려진 제로데...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/spring-thumb-0401.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[첫 대규모 로그4j 캠페인? VM웨어 호라이즌 생태계에 빨간 불]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105802&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105802&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Fri, 01 Apr 2022 03:15:37 GMT</pubDate>
+            <content:encoded><![CDATA[많은 기업들이 사용하고 있는 VM웨어 호라이즌(VMware Horizon) 서버는 공격자들의 잦은 표적이 된다. 기업 내 중요 앱들에 언제 어디서나 접근할 수 있...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/red-thumb-0330.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[새로운 파이선 기반 랜섬웨어, 주피터랩 웹 노트북  공격 중]]></title>
@@ -144,14 +144,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/lapsus_033001_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[2022년 4월, 국내 물리·정보보안 기업 인력 구인현황 총정리]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105758&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105758&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
-            <pubDate>Sat, 02 Apr 2022 02:53:43 GMT</pubDate>
-            <content:encoded><![CDATA[화사한 꽃들이 얼굴을 내밀고 나무들도 푸르름을 더해가는 4월이 코앞으로 다가왔다. 4월에는 20일부터 22일까지 일산 킨텍스에서 아시아 최대 보안전시회인 제21회...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/22032903ss.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[애플, 맥OS와 iOS의 제로데이 취약점 해결하기 위해 긴급 패치 배포]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105845&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105845&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
@@ -166,6 +158,14 @@
             <pubDate>Sat, 02 Apr 2022 02:53:43 GMT</pubDate>
             <content:encoded><![CDATA[우크라이나 국방부가 3월 28일 600명이 넘는 러시아 연방보안국(FSB) 소속 요원들의 개인정보라고 주장하며 방대한 데이터를 온라인에 공개했다고 보안 외신 핵리...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/rus-uk-thumb-0401.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022년 4월, 국내 물리·정보보안 기업 인력 구인현황 총정리]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105758&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105758&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
+            <pubDate>Sat, 02 Apr 2022 02:53:43 GMT</pubDate>
+            <content:encoded><![CDATA[화사한 꽃들이 얼굴을 내밀고 나무들도 푸르름을 더해가는 4월이 코앞으로 다가왔다. 4월에는 20일부터 22일까지 일산 킨텍스에서 아시아 최대 보안전시회인 제21회...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/22032903ss.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
