@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Apr 2022 16:23:56 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Apr 2022 17:18:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -32,20 +32,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/rem-thumb-0328.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[대북 방송 출연하라고? 탈북자 노려 이력서 양식 악성코드 유포]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105766&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105766&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Wed, 30 Mar 2022 09:16:38 GMT</pubDate>
-            <content:encoded><![CDATA[최근 대북 관련 내용의 피싱 메일을 통해 정보 유출 목적의 악성코드가 유포되고 있다고 안랩 ASEC 분석팀이 밝혔다. 대북 관련 방송의 섭외 내용을 담고 있으며,...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/asec_032901_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[자바 웹 애플리케이션 프레임워크 스프링, 제로데이 취약점 패치해]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105852&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105852&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Sat, 02 Apr 2022 02:53:43 GMT</pubDate>
             <content:encoded><![CDATA[유명 자바 애플리케이션 프레임워크인 스프링(Spring)의 개발 팀이 스프링4셸(Spring4Shell) 혹은 스프링셸(SpringShell)이라고 알려진 제로데...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/spring-thumb-0401.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[대북 방송 출연하라고? 탈북자 노려 이력서 양식 악성코드 유포]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105766&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105766&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Wed, 30 Mar 2022 09:16:38 GMT</pubDate>
+            <content:encoded><![CDATA[최근 대북 관련 내용의 피싱 메일을 통해 정보 유출 목적의 악성코드가 유포되고 있다고 안랩 ASEC 분석팀이 밝혔다. 대북 관련 방송의 섭외 내용을 담고 있으며,...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/asec_032901_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[새로운 로그4셸? 스프링에서 스프링4셸 취약점 발견돼]]></title>
@@ -136,20 +136,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/crack-thumb-0328.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[첫 대규모 로그4j 캠페인? VM웨어 호라이즌 생태계에 빨간 불]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105802&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105802&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Fri, 01 Apr 2022 03:15:37 GMT</pubDate>
-            <content:encoded><![CDATA[많은 기업들이 사용하고 있는 VM웨어 호라이즌(VMware Horizon) 서버는 공격자들의 잦은 표적이 된다. 기업 내 중요 앱들에 언제 어디서나 접근할 수 있...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/red-thumb-0330.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[고스트라이터 캠페인 운영자들, 최신식 피싱 기법인 BitB까지 활용해]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105851&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105851&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Sat, 02 Apr 2022 07:15:28 GMT</pubDate>
             <content:encoded><![CDATA[벨라루스를 근거지로 하여 활동하는 해킹 조직들 중 고스트라이터(Ghostwriter)라고 불리는 자들이 있다. 이들은 유럽에 가짜뉴스와 허위 정보를 살포하는데, ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/writer-thumb-0401.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[첫 대규모 로그4j 캠페인? VM웨어 호라이즌 생태계에 빨간 불]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105802&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105802&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Fri, 01 Apr 2022 03:15:37 GMT</pubDate>
+            <content:encoded><![CDATA[많은 기업들이 사용하고 있는 VM웨어 호라이즌(VMware Horizon) 서버는 공격자들의 잦은 표적이 된다. 기업 내 중요 앱들에 언제 어디서나 접근할 수 있...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/red-thumb-0330.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[마이크로소프트, ‘사이버 보안 스킬 캠페인’ 한국 포함 23개국 확대]]></title>
