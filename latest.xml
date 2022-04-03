@@ -4,9 +4,17 @@
         <title>보안뉴스 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Apr 2022 13:23:48 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Apr 2022 14:17:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[긴급] 이메일로 윈도우 도움말 파일 ‘.chm’ 받았다면? 악성코드 감염 조심]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105855&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105855&amp;page=1&amp;kind=1</guid>
+            <pubDate>Sun, 03 Apr 2022 14:14:56 GMT</pubDate>
+            <content:encoded><![CDATA[최근 윈도우 도움말 파일(chm)을 이용한 악성 이메일이 지속적으로 발견되고 있어 사용자들의 주의가 필요하다. 이스트시큐리티 시큐리티대응센터(ESRC)에 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/esrc_040301_main.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[게임 기술? 일하는 방식을 완전히 바꿔놓을 기술! 가상현실]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105836&amp;page=1&amp;kind=4</link>
@@ -80,14 +88,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/bg-tumb-0401.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[제품리뷰] 씨게이트가 제시하는 다양한 데이터 저장 생태계]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105770&amp;page=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105770&amp;page=1&amp;kind=3</guid>
-            <pubDate>Fri, 01 Apr 2022 03:15:24 GMT</pubDate>
-            <content:encoded><![CDATA[지금까지 ICT 인프라는 다양한 기술적 발달을 토대로 끊임없이 개선돼 왔지만 그 개선의 이면엔 한 가지 주목할 만한 특징이 있다. 그것은 바로 SW로 구현...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/22032907ss.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[SK쉴더스, 증권신고서 제출... 5월 중 상장 목표]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105850&amp;page=1&amp;kind=3</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105850&amp;page=1&amp;kind=3</guid>
@@ -118,6 +118,14 @@
             <pubDate>Fri, 01 Apr 2022 05:15:13 GMT</pubDate>
             <content:encoded><![CDATA[화웨이의 데이터센터 스위치인 클라우드엔진(CloudEngine) 16800, 8800, 6800 시리즈가 국제 사이버 보안 평가 연구소인 SGS 브라이트사...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/20220401huawei-s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[제품리뷰] 씨게이트가 제시하는 다양한 데이터 저장 생태계]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105770&amp;page=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105770&amp;page=1&amp;kind=3</guid>
+            <pubDate>Fri, 01 Apr 2022 03:15:24 GMT</pubDate>
+            <content:encoded><![CDATA[지금까지 ICT 인프라는 다양한 기술적 발달을 토대로 끊임없이 개선돼 왔지만 그 개선의 이면엔 한 가지 주목할 만한 특징이 있다. 그것은 바로 SW로 구현...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/22032907ss.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[미리보는 SECON & eGISEC 2022] 모니터랩·새빛엠엔에스·센티넬원·소프트캠프]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Thu, 31 Mar 2022 02:53:32 GMT</pubDate>
             <content:encoded><![CDATA[보안 외신 해커뉴스에 의하면 두 명의 보안 전문가들이 일본 혼다의 어큐라 차량을 해킹하는 데 성공했다고 한다. 연구원들은 열쇠 없이 차량을 잠그거나 열고,...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/fob-thumb-0331.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[구글 크롬 브라우저, 대규모 보안 업데이트 실시]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105818&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105818&amp;page=1&amp;kind=1</guid>
-            <pubDate>Thu, 31 Mar 2022 02:53:32 GMT</pubDate>
-            <content:encoded><![CDATA[보안 외신 시큐리티위크에 따르면 이번 주 구글이 자사의 크롬 브라우저를 위한 대규모 패치를 실시했다고 한다. 이번에 해결된 취약점은 총 28개인데 이 중 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/up-thumb-0331.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
