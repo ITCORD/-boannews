@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Apr 2022 01:14:19 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Apr 2022 02:54:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -32,20 +32,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/rem-thumb-0328.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[자바 웹 애플리케이션 프레임워크 스프링, 제로데이 취약점 패치해]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105852&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105852&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Sat, 02 Apr 2022 02:53:43 GMT</pubDate>
-            <content:encoded><![CDATA[유명 자바 애플리케이션 프레임워크인 스프링(Spring)의 개발 팀이 스프링4셸(Spring4Shell) 혹은 스프링셸(SpringShell)이라고 알려진 제로데...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/spring-thumb-0401.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[새로운 파이선 기반 랜섬웨어, 주피터랩 웹 노트북  공격 중]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105846&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105846&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Sat, 02 Apr 2022 02:53:43 GMT</pubDate>
             <content:encoded><![CDATA[웹 기반 컴퓨팅 플랫폼인 주피터(Jupyter) 노트북을 겨냥한 파이선 기반 랜섬웨어가 출현했다고 보안 외신 해커뉴스가 보도했다. 주피터 노트북은 데이터 분석가들...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/jup-thumb-0401.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[자바 웹 애플리케이션 프레임워크 스프링, 제로데이 취약점 패치해]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105852&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105852&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Sat, 02 Apr 2022 02:53:43 GMT</pubDate>
+            <content:encoded><![CDATA[유명 자바 애플리케이션 프레임워크인 스프링(Spring)의 개발 팀이 스프링4셸(Spring4Shell) 혹은 스프링셸(SpringShell)이라고 알려진 제로데...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/spring-thumb-0401.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[대북 방송 출연하라고? 탈북자 노려 이력서 양식 악성코드 유포]]></title>
@@ -120,20 +120,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/21869477_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[팬데믹 지나며 더 살벌해진 사이버 공간, 취약점 관리 더 철저해야 한다]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105769&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105769&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Wed, 30 Mar 2022 23:16:45 GMT</pubDate>
-            <content:encoded><![CDATA[2021년 한 해 동안 익스플로잇 된 제로데이 취약점의 수는 2020년의 2배라는 연구 결과가 발표됐다. 또한 가장 충격이 컸던 취약점 익스플로잇 공격의 절반 이...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/threat-thumb-0329.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[고스트라이터 캠페인 운영자들, 최신식 피싱 기법인 BitB까지 활용해]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105851&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105851&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Sat, 02 Apr 2022 07:15:28 GMT</pubDate>
             <content:encoded><![CDATA[벨라루스를 근거지로 하여 활동하는 해킹 조직들 중 고스트라이터(Ghostwriter)라고 불리는 자들이 있다. 이들은 유럽에 가짜뉴스와 허위 정보를 살포하는데, ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/writer-thumb-0401.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[팬데믹 지나며 더 살벌해진 사이버 공간, 취약점 관리 더 철저해야 한다]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105769&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105769&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Wed, 30 Mar 2022 23:16:45 GMT</pubDate>
+            <content:encoded><![CDATA[2021년 한 해 동안 익스플로잇 된 제로데이 취약점의 수는 2020년의 2배라는 연구 결과가 발표됐다. 또한 가장 충격이 컸던 취약점 익스플로잇 공격의 절반 이...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/threat-thumb-0329.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[구글, 크롬에서 발견된 제로데이 취약점 긴급히 패치]]></title>
