@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Apr 2022 11:16:32 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Apr 2022 12:28:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -368,6 +368,14 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/21869477_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[구글, 크롬에서 발견된 제로데이 취약점 긴급히 패치 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105717&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105717&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Thu, 31 Mar 2022 04:20:29 GMT</pubDate>
+            <content:encoded><![CDATA[보안 외신 시큐리티위크에 따르면 구글이 긴급 패치를 배포하기 시작했다고 한다. 크롬 브라우저에서 제로데이 취약점이 발견됐기 때문이다. 이 취약점은 CVE-2022...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/crack-thumb-0328.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[팬데믹 지나며 더 살벌해진 사이버 공간, 취약점 관리 더 철저해야 한다 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105769&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105769&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
@@ -382,14 +390,6 @@
             <pubDate>Sat, 02 Apr 2022 15:16:31 GMT</pubDate>
             <content:encoded><![CDATA[마이크로소프트가 ‘사이버 보안 스킬 캠페인(Cybersecurity Skills Campaign)’을 올해부터 한국 포함 전 세계 23개국으로 확대, 보안 기술 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/20220401ms-s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[구글, 크롬에서 발견된 제로데이 취약점 긴급히 패치 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105717&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105717&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Thu, 31 Mar 2022 04:20:29 GMT</pubDate>
-            <content:encoded><![CDATA[보안 외신 시큐리티위크에 따르면 구글이 긴급 패치를 배포하기 시작했다고 한다. 크롬 브라우저에서 제로데이 취약점이 발견됐기 때문이다. 이 취약점은 CVE-2022...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/crack-thumb-0328.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[SK쉴더스, 랩서스 해킹조직 공격기법과 대응 전략 공개 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
