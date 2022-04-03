@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=2</id>
     <title>보안뉴스 ─ IT</title>
-    <updated>2022-04-03T14:17:09.691Z</updated>
+    <updated>2022-04-03T15:19:14.600Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[과기정통부 공공기술사업화 1호 기금, 기술혁신 기업에 본격 투자한다]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=105782&amp;page=1&amp;mkind=2&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=105782&amp;page=1&amp;mkind=2&amp;kind=2"/>
+        <updated>2022-04-03T15:17:12.809Z</updated>
+        <content type="html"><![CDATA[과학기술정보통신부는 2021년 11월 민·관 합동으로 신규 조성한 공공기술사업화 펀드(200억원 규모)의 첫 번째 투자 심의가 성공리에 이뤄져, 공공연구성과 기술혁신 기업에 투자하는 본격적인 신호탄을 쏘아 올렸다고 밝혔다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[국토부, 2022년도 ‘K-City Network’ 국제공모 실시]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=105780&amp;page=1&amp;mkind=2&amp;kind=2</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=105747&amp;page=1&amp;mkind=2&amp;kind=2"/>
         <updated>2022-03-29T01:11:48.934Z</updated>
         <content type="html"><![CDATA[과학기술정보통신부(이하 과기정통부)는 다양한 세계관의 청년들을 맞춤형 교육을 통해 확장가상세계 전문가로 양성하는 ‘확장가상세계 아카데미’ 제1기 교육생과 전문 강사·길잡이, 협력기업을 오는 4월 25일까지 모집한다고 밝혔다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국토부, 1/1,000 전자지도 구축으로 ‘디지털 플랫폼 정부’ 교두보 마련]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=105749&amp;page=1&amp;mkind=2&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=105749&amp;page=1&amp;mkind=2&amp;kind=2"/>
-        <updated>2022-03-29T01:11:48.934Z</updated>
-        <content type="html"><![CDATA[국토교통부 국토지리정보원은 현존하는 가장 정확한 지도인 1/1,000 전자지도를 올해 33개 지자체와 함께 구축하기로 업무협약을 체결했다. 또 이와 관련한 추진 전략과 고도화 방안에 대해 산업계와 지자체를 대상으로 ‘디지털 플랫폼 정부’ 실현을 위한‘1/1,000 전자...]]></content>
     </entry>
 </feed>
