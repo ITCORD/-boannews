@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=2</id>
     <title>보안뉴스 ─ IT</title>
-    <updated>2022-04-04T05:19:28.081Z</updated>
+    <updated>2022-04-04T06:24:47.614Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[게임 기술? 일하는 방식을 완전히 바꿔놓을 기술! 가상현실]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=105836&amp;page=1&amp;mkind=2&amp;kind=4</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=105836&amp;page=1&amp;mkind=2&amp;kind=4"/>
+        <updated>2022-04-04T06:22:16.663Z</updated>
+        <content type="html"><![CDATA[지금쯤 메타버스라는 말을 못 들어본 사람은 없을 것이다. 사용자들끼리 실제 물리적 공간에서 있을 법한 경험을 하게 되는 가상현실의 세계 말이다. 거기에는 이 세상에 실제로 존재하는 명소들과 평범한 장소들의 디지털 버전이 존재하며, 우리의 아바타는 그 공간에 들어가 실제...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[데이터 경제의 핵심 기반인 빅데이터 플랫폼 및 센터 확대된다]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=105783&amp;page=1&amp;mkind=2&amp;kind=2</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=105744&amp;page=1&amp;mkind=2&amp;kind=2"/>
         <updated>2022-03-29T03:00:01.628Z</updated>
         <content type="html"><![CDATA[외교부는 아세안 국가 중 최초로 태국과 ‘제1차 한-태국 사이버안보대화’를 화상으로 개최해 사이버안보 분야에서 양국 협력 증진 방안에 대해 논의했다고 밝혔다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[민간 SW 개발자 주도로 디지털 정부 서비스 개선한다]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=105746&amp;page=1&amp;mkind=2&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=105746&amp;page=1&amp;mkind=2&amp;kind=2"/>
-        <updated>2022-03-29T01:11:48.932Z</updated>
-        <content type="html"><![CDATA[행정안전부와 한국지능정보사회진흥원(NIA)은 전자정부 서비스 개발에 민간 소프트웨어(SW) 개발자의 아이디어와 기능 개선 의견을 반영하기 위해 ‘제2회 전자정부 표준프레임워크 컨트리뷰션’을 개최한다고 밝혔다.]]></content>
     </entry>
 </feed>

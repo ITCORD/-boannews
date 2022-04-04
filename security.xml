@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-04-04T05:19:28.076Z</updated>
+    <updated>2022-04-04T06:24:47.611Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[중소·영세기업 대상 ISMS-P 구축·운영 지원한다]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=105866&amp;page=1&amp;mkind=1&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=105866&amp;page=1&amp;mkind=1&amp;kind=2"/>
+        <updated>2022-04-04T06:22:05.591Z</updated>
+        <content type="html"><![CDATA[한국인터넷진흥원(KISA, 원장 이원태)은 중소·영세기업 대상으로 정보보호 활동 지원 사업인 ‘정보보호 및 개인정보보호 관리체계(ISMS-P)’의 구축·운영 교육을 실시할 예정이며, 4월 4일부터 교육생을 모집한다고 밝혔다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FBI, 지역 정부 기관 공격하는 랜섬웨어에 대한 경고 발표]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=105865&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=105865&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-04-04T06:22:05.592Z</updated>
+        <content type="html"><![CDATA[보안 외신 시큐리티위크에 의하면 미국의 FBI가 새로운 랜섬웨어 공격 캠페인에 대한 경고를 발표했다고 한다. 이 때문에 지역 정부 기관이 관리하는 사회 기반 시설이나 교육, 금융, 긴급 서비스가 마비될 수 있고, 이는 안전 문제를 야기하거나 금전적 피해를 발생시킬 수 ...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[새로운 보랏 멀웨어, 간편하고 효과적인 사용성 자랑해]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=105864&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=105864&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-04-04T06:22:05.593Z</updated>
+        <content type="html"><![CDATA[IT 외신인 블리핑컴퓨터에 따르면 다크웹에 새로운 멀웨어가 등장했다고 한다. 이름은 보랏(Borat)이며, 일종의 원격 접근 트로이목마다. 운영자들은 사용이 편리하다는 걸 앞세워 공격적으로 광고하고 있으며, 디도스 공격, UAC 우회, 랜섬웨어 페이로드 전파 등의 기능...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[15년된 버그, 피어 PHP 리포지터리에서 발견돼]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=105863&amp;page=1&amp;mkind=1&amp;kind=1</id>
@@ -102,26 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=105845&amp;page=1&amp;mkind=1&amp;kind=1"/>
         <updated>2022-04-01T05:15:35.546Z</updated>
         <content type="html"><![CDATA[보안 외신 시큐리티위크에 의하면 애플의 iOS와 맥OS, iPadOS에서 현재 활발하게 익스플로잇 되고 있는 취약점들이 발견돼, 애플이 긴급하게 보안 패치를 배포 중에 있다고 한다.  이 취약점은 CVE-2022-22675와 CVE-2022-22674로 커널 메모리를 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우크라이나 국방부, 러시아 FSB의 요원 620명의 개인정보 유출시켜]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=105844&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=105844&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-04-01T05:15:35.551Z</updated>
-        <content type="html"><![CDATA[우크라이나 국방부가 3월 28일 600명이 넘는 러시아 연방보안국(FSB) 소속 요원들의 개인정보라고 주장하며 방대한 데이터를 온라인에 공개했다고 보안 외신 핵리드가 보도했다. 이름, 전화번호, 주소, 차량 등록 번호, 심카드, 생년월일, 서명, 여권번호 등 적지 않은...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[러-우 전쟁에서 파생된 사이버 공격 캠페인, BitB 기법 사용]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=105843&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=105843&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-04-01T04:23:22.761Z</updated>
-        <content type="html"><![CDATA[고스트라이터(Ghostwriter)라는 해킹 단체가 '브라우저 내 브라우저(BitB)' 기법을 활용한 피싱 공격을 실시해 크리덴셜을 훔치는 것이 발견됐다고 구글의 위협분석그룹(TAG)이 경고했다. 고스트라이터는 벨라루시아 정부와 관련이 있는 것으로 알려진 해킹 단체인데...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[새로운 정보 탈취 멀웨어, 다크웹에서 활발히 판매되는 중]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=105842&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=105842&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-04-01T04:23:22.773Z</updated>
-        <content type="html"><![CDATA[외신인 블리핑컴퓨터(BleepingComputer)에 의하면 다크웹에 새로운 멀웨어가 나타나 해커들의 주목을 받고 있다고 한다. 이름은 블랙가드(BlackGuard)로, 정보를 탈취하는 유형의 멀웨어다. 이미 다크웹 내 여러 매장에서 판매되는 중이며, 한 달 200달러...]]></content>
     </entry>
 </feed>
