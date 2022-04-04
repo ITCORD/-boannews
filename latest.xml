@@ -4,9 +4,17 @@
         <title>보안뉴스 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Apr 2022 07:20:31 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Apr 2022 08:23:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[록웰오토메이션 PLC 장비에서 스턱스넷 공격 가능하게 하는 취약점 발견]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105872&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105872&amp;page=1&amp;kind=1</guid>
+            <pubDate>Mon, 04 Apr 2022 08:20:10 GMT</pubDate>
+            <content:encoded><![CDATA[유명 산업 장비 제조사인 록웰오토메이션(Rockwell Automation)의 PLC 플랫폼에서 두 개의 고위험군 취약점이 발견됐다. 이 취약점들을 익스플...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/plc-thumb-0404.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[와이파이 기술의 최신 트렌드, 미래를 구현하기 위한 발맞춤]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105856&amp;page=1&amp;kind=4</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 04 Apr 2022 03:02:57 GMT</pubDate>
             <content:encoded><![CDATA[최근 발견된 스프링 클라우드(Spring Cloud)의 취약점을 공격하기 위한 스캔시도가 시작되고 있어 사용자들의 조속한 패치가 요구된다고 영남이공대학교(...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/20220404springm-s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[IT 인재 영입에 나선 기업들, 대학 학위 중요하게 봐야 하나]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105853&amp;page=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105853&amp;page=1&amp;kind=3</guid>
-            <pubDate>Sun, 03 Apr 2022 15:16:36 GMT</pubDate>
-            <content:encoded><![CDATA[IT 직군에서 일하고 싶은 구직자라면 대학교 졸업증이 있어야 유리하다는 데에 부정적인 의견을 표출할 사람은 거의 없다. 그런데 진지하게 한 번 생각해 볼 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/grad-thumb-0402.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[센티넬원, 100% 예방·탐지 등 모든 항목 최고 점수로 ‘MITRE Engenuity ATT&CK’ 선도]]></title>
@@ -168,6 +168,14 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220331secon(1).jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[IT 인재 영입에 나선 기업들, 대학 학위 중요하게 봐야 하나]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105853&amp;page=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105853&amp;page=1&amp;kind=3</guid>
+            <pubDate>Sun, 03 Apr 2022 15:16:36 GMT</pubDate>
+            <content:encoded><![CDATA[IT 직군에서 일하고 싶은 구직자라면 대학교 졸업증이 있어야 유리하다는 데에 부정적인 의견을 표출할 사람은 거의 없다. 그런데 진지하게 한 번 생각해 볼 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/grad-thumb-0402.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[긴급] 이메일로 윈도우 도움말 파일 ‘.chm’ 받았다면? 악성코드 감염 조심]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105855&amp;page=1&amp;kind=1</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105855&amp;page=1&amp;kind=1</guid>
@@ -238,14 +246,6 @@
             <pubDate>Fri, 01 Apr 2022 05:15:13 GMT</pubDate>
             <content:encoded><![CDATA[화웨이의 데이터센터 스위치인 클라우드엔진(CloudEngine) 16800, 8800, 6800 시리즈가 국제 사이버 보안 평가 연구소인 SGS 브라이트사...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/20220401huawei-s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[새로운 파이선 기반 랜섬웨어, 주피터랩 웹 노트북  공격 중]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105846&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105846&amp;page=1&amp;kind=1</guid>
-            <pubDate>Fri, 01 Apr 2022 04:23:02 GMT</pubDate>
-            <content:encoded><![CDATA[웹 기반 컴퓨팅 플랫폼인 주피터(Jupyter) 노트북을 겨냥한 파이선 기반 랜섬웨어가 출현했다고 보안 외신 해커뉴스가 보도했다. 주피터 노트북은 데이터 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/jup-thumb-0401.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

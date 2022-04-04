@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-04-04T07:20:31.496Z</updated>
+    <updated>2022-04-04T08:23:28.416Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[디지털금융 및 금융보안 분야 논문공모전 열린다]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=105869&amp;page=1&amp;mkind=1&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=105869&amp;page=1&amp;mkind=1&amp;kind=2"/>
+        <updated>2022-04-04T08:20:39.101Z</updated>
+        <content type="html"><![CDATA[금융보안원(원장 김철웅)은 디지털금융 및 다양한 금융보안 분야에 대한 우수한 논문을 발굴하고, 국민적 관심을 고취하기 위해 2022년도 ‘제6회 금융보안원 논문공모전’을 개최한다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022년에만 벌써 4개! 애플의 제로데이 고통은 올해에도 이어진다]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=105868&amp;page=1&amp;mkind=1&amp;kind=1</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=105847&amp;page=1&amp;mkind=1&amp;kind=3"/>
         <updated>2022-04-01T08:22:02.580Z</updated>
         <content type="html"><![CDATA[화웨이의 데이터센터 스위치인 클라우드엔진(CloudEngine) 16800, 8800, 6800 시리즈가 국제 사이버 보안 평가 연구소인 SGS 브라이트사이트(SGS Brightsight)의 보안 테스트를 통과하며, 국제 보안 공통 평가 기준(Common Criteri...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[새로운 파이선 기반 랜섬웨어, 주피터랩 웹 노트북  공격 중]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=105846&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=105846&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-04-01T08:22:02.580Z</updated>
-        <content type="html"><![CDATA[웹 기반 컴퓨팅 플랫폼인 주피터(Jupyter) 노트북을 겨냥한 파이선 기반 랜섬웨어가 출현했다고 보안 외신 해커뉴스가 보도했다. 주피터 노트북은 데이터 분석가들을 위한 특수 장비로, 이를 겨냥한 랜섬웨어가 나타난 건 이번이 처음이다. 이 랜섬웨어를 발견한 보안 업체 ...]]></content>
     </entry>
 </feed>
