@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=2</id>
     <title>보안뉴스 ─ IT</title>
-    <updated>2022-04-04T04:23:35.361Z</updated>
+    <updated>2022-04-04T05:19:28.081Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[데이터 경제의 핵심 기반인 빅데이터 플랫폼 및 센터 확대된다]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=105783&amp;page=1&amp;mkind=2&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=105783&amp;page=1&amp;mkind=2&amp;kind=2"/>
+        <updated>2022-04-04T05:16:28.681Z</updated>
+        <content type="html"><![CDATA[과학기술정보통신부와 한국지능정보사회진흥원은 공공과 민간의 긴밀한 협력을 통해 경제·사회 전반에 양질의 데이터를 공급하고 국민과 기업의 데이터 활용을 촉진하기 위해 분야별 ‘빅데이터 플랫폼 및 센터’ 확대를 추진한다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[과기정통부 공공기술사업화 1호 기금, 기술혁신 기업에 본격 투자한다]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=105782&amp;page=1&amp;mkind=2&amp;kind=2</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=105746&amp;page=1&amp;mkind=2&amp;kind=2"/>
         <updated>2022-03-29T01:11:48.932Z</updated>
         <content type="html"><![CDATA[행정안전부와 한국지능정보사회진흥원(NIA)은 전자정부 서비스 개발에 민간 소프트웨어(SW) 개발자의 아이디어와 기능 개선 의견을 반영하기 위해 ‘제2회 전자정부 표준프레임워크 컨트리뷰션’을 개최한다고 밝혔다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[과기정통부, ‘메타버스 아카데미’와 함께할 주역들을 찾습니다]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=105747&amp;page=1&amp;mkind=2&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=105747&amp;page=1&amp;mkind=2&amp;kind=2"/>
-        <updated>2022-03-29T01:11:48.934Z</updated>
-        <content type="html"><![CDATA[과학기술정보통신부(이하 과기정통부)는 다양한 세계관의 청년들을 맞춤형 교육을 통해 확장가상세계 전문가로 양성하는 ‘확장가상세계 아카데미’ 제1기 교육생과 전문 강사·길잡이, 협력기업을 오는 4월 25일까지 모집한다고 밝혔다.]]></content>
     </entry>
 </feed>

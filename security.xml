@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-04-04T04:23:35.336Z</updated>
+    <updated>2022-04-04T05:19:28.076Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[15년된 버그, 피어 PHP 리포지터리에서 발견돼]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=105863&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=105863&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-04-04T05:16:12.907Z</updated>
+        <content type="html"><![CDATA[보안 외신 해커뉴스에 의하면 피어(PEAR)라는 유명 PHP 리포지터리에서 15년 된 버그가 발견됐다고 한다. 이 취약점을 익스플로잇 하면 아무나 악성 패키지를 배포함으로써 각종 악성 행위를 사용자의 프로젝트에 심을 수 있게 된다고 한다. 즉 공급망 공격이 가능하다는 ...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[러시아와 관련 있는 악성 안드로이드 멀웨어, 피해자 엿듣는다]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=105862&amp;page=1&amp;mkind=1&amp;kind=1</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=105842&amp;page=1&amp;mkind=1&amp;kind=1"/>
         <updated>2022-04-01T04:23:22.773Z</updated>
         <content type="html"><![CDATA[외신인 블리핑컴퓨터(BleepingComputer)에 의하면 다크웹에 새로운 멀웨어가 나타나 해커들의 주목을 받고 있다고 한다. 이름은 블랙가드(BlackGuard)로, 정보를 탈취하는 유형의 멀웨어다. 이미 다크웹 내 여러 매장에서 판매되는 중이며, 한 달 200달러...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[미리보는 SECON & eGISEC 2022] 모니터랩·새빛엠엔에스·센티넬원·소프트캠프]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=105839&amp;page=1&amp;mkind=1&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=105839&amp;page=1&amp;mkind=1&amp;kind=3"/>
-        <updated>2022-04-01T04:23:22.773Z</updated>
-        <content type="html"><![CDATA[물리보안과 사이버보안을 아우르는 국내 최대 통합보안 전시회인 제21회 세계보안엑스포(SECON &amp; eGISEC 2022)는 4월 20일부터 22일까지 3일간 일산 킨텍스 제1전시장 3~5홀에서 개최된다. SECON &amp; eGISEC 2022는 공식 홈페이지를 통해 사전등...]]></content>
     </entry>
 </feed>
