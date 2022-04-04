@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Apr 2022 03:05:30 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Apr 2022 04:23:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -128,14 +128,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/22033001ss.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[2022년 공공부문 정보보호 예산 7,411억 확정]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105722&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105722&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
-            <pubDate>Wed, 30 Mar 2022 07:17:09 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 공공부문의 정보보호 예산이 7,411억원으로 확정됐다. 과학기술정보통신부(장관 임혜숙, 이하 ‘과기정통부’)는 3월 29일 ‘2022년 공공부문 소프트...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/21869477_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[팬데믹 지나며 더 살벌해진 사이버 공간, 취약점 관리 더 철저해야 한다]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105769&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105769&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
@@ -166,6 +158,14 @@
             <pubDate>Mon, 04 Apr 2022 03:03:08 GMT</pubDate>
             <content:encoded><![CDATA[보안 외신 시큐리티위크에 따르면 이번 주 구글이 자사의 크롬 브라우저를 위한 대규모 패치를 실시했다고 한다. 이번에 해결된 취약점은 총 28개인데 이 중 꽤나 위...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/up-thumb-0331.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[긴급] 이메일로 윈도우 도움말 파일 ‘.chm’ 받았다면? 악성코드 감염 조심]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105855&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105855&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Mon, 04 Apr 2022 04:20:35 GMT</pubDate>
+            <content:encoded><![CDATA[최근 윈도우 도움말 파일(chm)을 이용한 악성 이메일이 지속적으로 발견되고 있어 사용자들의 주의가 필요하다. 이스트시큐리티 시큐리티대응센터(ESRC)에 따르면 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/esrc_040301_main.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
