@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Apr 2022 08:23:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Apr 2022 09:20:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,14 +22,6 @@
             <pubDate>Sat, 02 Apr 2022 02:53:43 GMT</pubDate>
             <content:encoded><![CDATA[유명 자바 애플리케이션 프레임워크인 스프링(Spring)의 개발 팀이 스프링4셸(Spring4Shell) 혹은 스프링셸(SpringShell)이라고 알려진 제로데...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/spring-thumb-0401.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[대 퇴직의 시대, 인사부 혼자서 해결할 수 없는 거대한 흐름]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105729&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105729&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Tue, 29 Mar 2022 18:20:28 GMT</pubDate>
-            <content:encoded><![CDATA[‘대 퇴직의 시대’가 시작된 데에는 분명한 이유가 있다. 팬데믹이니 재택 근무니 여러 가지 추측들이 나오고 있지만, 사실 그 바탕에는 단 하나의 원인이 있으나 바...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/rem-thumb-0328.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[새로운 파이선 기반 랜섬웨어, 주피터랩 웹 노트북  공격 중]]></title>
@@ -136,20 +128,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/threat-thumb-0329.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[첫 대규모 로그4j 캠페인? VM웨어 호라이즌 생태계에 빨간 불]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105802&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105802&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Fri, 01 Apr 2022 03:15:37 GMT</pubDate>
-            <content:encoded><![CDATA[많은 기업들이 사용하고 있는 VM웨어 호라이즌(VMware Horizon) 서버는 공격자들의 잦은 표적이 된다. 기업 내 중요 앱들에 언제 어디서나 접근할 수 있...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/red-thumb-0330.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[구글 크롬 브라우저, 대규모 보안 업데이트 실시]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105818&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105818&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Mon, 04 Apr 2022 03:03:08 GMT</pubDate>
             <content:encoded><![CDATA[보안 외신 시큐리티위크에 따르면 이번 주 구글이 자사의 크롬 브라우저를 위한 대규모 패치를 실시했다고 한다. 이번에 해결된 취약점은 총 28개인데 이 중 꽤나 위...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/up-thumb-0331.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[첫 대규모 로그4j 캠페인? VM웨어 호라이즌 생태계에 빨간 불]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105802&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105802&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Fri, 01 Apr 2022 03:15:37 GMT</pubDate>
+            <content:encoded><![CDATA[많은 기업들이 사용하고 있는 VM웨어 호라이즌(VMware Horizon) 서버는 공격자들의 잦은 표적이 된다. 기업 내 중요 앱들에 언제 어디서나 접근할 수 있...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/red-thumb-0330.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[랩서스, 이번엔 글로벌 IT 기업 ‘Globant’ 공격 발표]]></title>
@@ -166,6 +158,14 @@
             <pubDate>Mon, 04 Apr 2022 07:17:38 GMT</pubDate>
             <content:encoded><![CDATA[시놀로지가 온라인 기자간담회를 통해 NAS의 전반적인 시스템 보호, 관리 효율성이 향상된 DiskStation Manager 7.1(DSM 7.1) 버전, 높은 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/22033017ss.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[충청권역 사이버보안·융합 전문가-국정원 지부, ‘사이버 미래혁신융합 연구회’ 발족]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105809&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105809&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
+            <pubDate>Mon, 04 Apr 2022 09:17:15 GMT</pubDate>
+            <content:encoded><![CDATA[최근 러시아-우크라이나 전쟁으로 사이버 전장이 확대되고 사이버 위기감이 고조되고 있는 가운데, 국가정보원 지부와 충정지역 보안전문가들은 미래사회 융복합 신기술에 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220331mirae-s.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
