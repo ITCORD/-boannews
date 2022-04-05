@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-04-05T09:19:49.731Z</updated>
+    <updated>2022-04-05T10:19:38.273Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[VM웨어, 스프링4셸 취약점에 대한 패치 대량으로 배포 중]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=105885&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=105885&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-04-05T10:16:50.301Z</updated>
+        <content type="html"><![CDATA[보안 블로그 시큐리티어페어즈가 VM웨어(VMware)의 패치에 대한 소식을 전달하고 있다. 최근 발견된 스프링4셸(Spring4Shell) 취약점을 자사 제품들로부터 없애기 위해서라고 한다. 패치가 아직 개발되지 않은 제품의 경우, VM웨어는 패치에 준하는 보호 대책을...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[전기자동차 충전 독 CCS, 해킹 공격에 취약할 수 있어]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=105884&amp;page=1&amp;mkind=1&amp;kind=1</id>
@@ -39,13 +46,6 @@
         <link href="https://www.boannews.com/media/view.asp?idx=105876&amp;page=1&amp;mkind=1&amp;kind=3"/>
         <updated>2022-04-05T02:54:05.297Z</updated>
         <content type="html"><![CDATA[IT 통합보안·인증기업 라온시큐어(대표 이순형)는 급변하는 시장에 효율적으로 대응하고, 미래 성장 동력 확보를 통한 시장 경쟁력을 강화하고자 자회사 라온화이트햇이 라온에스엔씨를 흡수 합병한다고 밝혔다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스패로우, 클라우드 서비스 바우처 사업 공급기업 선정]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=105875&amp;page=1&amp;mkind=1&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=105875&amp;page=1&amp;mkind=1&amp;kind=3"/>
-        <updated>2022-04-05T02:54:05.306Z</updated>
-        <content type="html"><![CDATA[스패로우(대표 장일수)는 정부가 주관하는 ‘2022년 중소기업 클라우드 서비스 바우처 사업’의 공급 기업으로 선정됐다. 해당 사업의 공급 기업으로 3년 연속 선정된 스패로우는 소스코드 보안 취약점 점검 및 웹취약점 점검 클라우드 서비스 ‘스패로우 클라우드’를 제공, 중...]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[이글루코퍼레이션, 과기정통부-KISA ‘내서버 돌보미’ 사업 진행]]></title>
