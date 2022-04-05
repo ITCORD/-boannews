@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Apr 2022 01:09:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Apr 2022 02:57:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -64,20 +64,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/spr-thumb-0331.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[애플, 맥OS와 iOS의 제로데이 취약점 해결하기 위해 긴급 패치 배포]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105845&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105845&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Sat, 02 Apr 2022 02:53:43 GMT</pubDate>
-            <content:encoded><![CDATA[보안 외신 시큐리티위크에 의하면 애플의 iOS와 맥OS, iPadOS에서 현재 활발하게 익스플로잇 되고 있는 취약점들이 발견돼, 애플이 긴급하게 보안 패치를 배포...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/apple-thumb-0401.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[긴급] 이메일로 윈도우 도움말 파일 ‘.chm’ 받았다면? 악성코드 감염 조심]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105855&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105855&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Mon, 04 Apr 2022 04:20:35 GMT</pubDate>
             <content:encoded><![CDATA[최근 윈도우 도움말 파일(chm)을 이용한 악성 이메일이 지속적으로 발견되고 있어 사용자들의 주의가 필요하다. 이스트시큐리티 시큐리티대응센터(ESRC)에 따르면 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/esrc_040301_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[애플, 맥OS와 iOS의 제로데이 취약점 해결하기 위해 긴급 패치 배포]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105845&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105845&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Sat, 02 Apr 2022 02:53:43 GMT</pubDate>
+            <content:encoded><![CDATA[보안 외신 시큐리티위크에 의하면 애플의 iOS와 맥OS, iPadOS에서 현재 활발하게 익스플로잇 되고 있는 취약점들이 발견돼, 애플이 긴급하게 보안 패치를 배포...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/apple-thumb-0401.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[대북 방송 출연하라고? 탈북자 노려 이력서 양식 악성코드 유포]]></title>

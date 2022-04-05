@@ -4,9 +4,65 @@
         <title>보안뉴스 ─ 국제</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Apr 2022 01:09:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Apr 2022 02:57:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[VM웨어, 스프링4셸 취약점에 대한 패치 대량으로 배포 중]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105885&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105885&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
+            <pubDate>Tue, 05 Apr 2022 02:56:18 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/view.asp?idx=105885&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
+					
+					<img src="/media/upFiles2/2022/04/spring-thumb-0405.jpg" alt="" class="news_img" height="70">
+					
+					<span class="news_txt">VM웨어, 스프링4셸 취약점에 대한 패치 대량으로 배포 중</span>
+					</a><br>
+					<a href="/media/view.asp?idx=105885&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">보안 블로그 시큐리티어페어즈가 VM웨어(VMware)의 패치에 대한 소식을 전달하고 있다. 최근 발견된 스프링4셸(Spring4Shell) 취약점을 자사 제품들로...</a> <span class="news_writer">문가용 기자 | 2022년 04월 05일 11:47</span>]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/spring-thumb-0405.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[전기자동차 충전 독 CCS, 해킹 공격에 취약할 수 있어]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105884&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105884&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
+            <pubDate>Tue, 05 Apr 2022 02:56:18 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/view.asp?idx=105884&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
+					
+					<img src="/media/upFiles2/2022/04/charge-thumb-0405.jpg" alt="" class="news_img" height="70">
+					
+					<span class="news_txt">전기자동차 충전 독 CCS, 해킹 공격에 취약할 수 있어</span>
+					</a><br>
+					<a href="/media/view.asp?idx=105884&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find="> 보안 외신 해커뉴스에 의하면 옥스포드대학의 연구원들이 CCS라는 전기자동차 충전 독에 대한 해킹 공격 기법을 발견했다고 한다. 이 공격에 성공할 경우 CCS를 ...</a> <span class="news_writer">문가용 기자 | 2022년 04월 05일 11:46</span>]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/charge-thumb-0405.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[비스트모드 봇넷, 토토링크 라우터들을 집중적으로 노려]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105883&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105883&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
+            <pubDate>Tue, 05 Apr 2022 02:56:18 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/view.asp?idx=105883&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
+					
+					<img src="/media/upFiles2/2022/04/bm-thumb-0405.jpg" alt="" class="news_img" height="70">
+					
+					<span class="news_txt">비스트모드 봇넷, 토토링크 라우터들을 집중적으로 노려</span>
+					</a><br>
+					<a href="/media/view.asp?idx=105883&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">보안 외신 시큐리트위크가 새롭게 나타난 비스트모드(Beastmode) 봇넷에 대하여 보도했다. 이에 의하면 비스트모드는 디도스 공격을 전문으로 하는 유명 봇넷 미...</a> <span class="news_writer">문가용 기자 | 2022년 04월 05일 11:45</span>]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/bm-thumb-0405.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[깃허브, API 키와 인증 토큰 포함된 커밋들을 자동으로 차단]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105882&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105882&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
+            <pubDate>Tue, 05 Apr 2022 02:56:18 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/view.asp?idx=105882&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
+					
+					<img src="/media/upFiles2/2022/04/scan-thumb-0405.jpg" alt="" class="news_img" height="70">
+					
+					<span class="news_txt">깃허브, API 키와 인증 토큰 포함된 커밋들을 자동으로 차단</span>
+					</a><br>
+					<a href="/media/view.asp?idx=105882&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find="> IT 외신인 블리핑컴퓨터에 의하면 코드 공유 사이트인 깃허브(GitHub)가 새로운 기능을 도입했다고 한다. 푸시 프로텍션(Push Protection)이라고 ...</a> <span class="news_writer">문가용 기자 | 2022년 04월 05일 11:43</span>]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/scan-thumb-0405.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[월드오브워크래프트와 포트나이트는 미래 메타버스의 힌트다]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105854&amp;page=1&amp;mkind=&amp;kind=4&amp;skind=D&amp;search=title&amp;find=</link>
@@ -230,62 +286,6 @@
 					</a><br>
 					<a href="/media/view.asp?idx=105846&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">웹 기반 컴퓨팅 플랫폼인 주피터(Jupyter) 노트북을 겨냥한 파이선 기반 랜섬웨어가 출현했다고 보안 외신 해커뉴스가 보도했다. 주피터 노트북은 데이터 분석가들...</a> <span class="news_writer">문가용 기자 | 2022년 04월 01일 13:02</span>]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/jup-thumb-0401.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[애플, 맥OS와 iOS의 제로데이 취약점 해결하기 위해 긴급 패치 배포]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105845&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105845&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
-            <pubDate>Fri, 01 Apr 2022 04:24:43 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/view.asp?idx=105845&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
-					
-					<img src="/media/upFiles2/2022/04/apple-thumb-0401.jpg" alt="" class="news_img" height="70">
-					
-					<span class="news_txt">애플, 맥OS와 iOS의 제로데이 취약점 해결하기 위해 긴급 패치 배포</span>
-					</a><br>
-					<a href="/media/view.asp?idx=105845&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">보안 외신 시큐리티위크에 의하면 애플의 iOS와 맥OS, iPadOS에서 현재 활발하게 익스플로잇 되고 있는 취약점들이 발견돼, 애플이 긴급하게 보안 패치를 배포...</a> <span class="news_writer">문가용 기자 | 2022년 04월 01일 12:54</span>]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/apple-thumb-0401.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우크라이나 국방부, 러시아 FSB의 요원 620명의 개인정보 유출시켜]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105844&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105844&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
-            <pubDate>Fri, 01 Apr 2022 04:24:43 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/view.asp?idx=105844&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
-					
-					<img src="/media/upFiles2/2022/04/rus-uk-thumb-0401.jpg" alt="" class="news_img" height="70">
-					
-					<span class="news_txt">우크라이나 국방부, 러시아 FSB의 요원 620명의 개인정보 유출시켜</span>
-					</a><br>
-					<a href="/media/view.asp?idx=105844&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">우크라이나 국방부가 3월 28일 600명이 넘는 러시아 연방보안국(FSB) 소속 요원들의 개인정보라고 주장하며 방대한 데이터를 온라인에 공개했다고 보안 외신 핵리...</a> <span class="news_writer">문가용 기자 | 2022년 04월 01일 12:52</span>]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/rus-uk-thumb-0401.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[러-우 전쟁에서 파생된 사이버 공격 캠페인, BitB 기법 사용]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105843&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105843&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
-            <pubDate>Fri, 01 Apr 2022 04:24:43 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/view.asp?idx=105843&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
-					
-					<img src="/media/upFiles2/2022/04/bitb-thumb-0401.jpg" alt="" class="news_img" height="70">
-					
-					<span class="news_txt">러-우 전쟁에서 파생된 사이버 공격 캠페인, BitB 기법 사용</span>
-					</a><br>
-					<a href="/media/view.asp?idx=105843&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">고스트라이터(Ghostwriter)라는 해킹 단체가 '브라우저 내 브라우저(BitB)' 기법을 활용한 피싱 공격을 실시해 크리덴셜을 훔치는 것이 발견됐다고 구글의...</a> <span class="news_writer">문가용 기자 | 2022년 04월 01일 12:48</span>]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/bitb-thumb-0401.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[새로운 정보 탈취 멀웨어, 다크웹에서 활발히 판매되는 중]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105842&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105842&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
-            <pubDate>Fri, 01 Apr 2022 04:24:43 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/view.asp?idx=105842&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
-					
-					<img src="/media/upFiles2/2022/04/bg-tumb-0401.jpg" alt="" class="news_img" height="70">
-					
-					<span class="news_txt">새로운 정보 탈취 멀웨어, 다크웹에서 활발히 판매되는 중</span>
-					</a><br>
-					<a href="/media/view.asp?idx=105842&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">외신인 블리핑컴퓨터(BleepingComputer)에 의하면 다크웹에 새로운 멀웨어가 나타나 해커들의 주목을 받고 있다고 한다. 이름은 블랙가드(BlackGuar...</a> <span class="news_writer">문가용 기자 | 2022년 04월 01일 12:45</span>]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/bg-tumb-0401.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
