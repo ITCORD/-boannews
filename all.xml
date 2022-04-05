@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Apr 2022 10:19:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Apr 2022 11:16:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -352,20 +352,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/rus-uk-thumb-0401.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[구글 크롬 브라우저, 대규모 보안 업데이트 실시 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105818&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105818&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Mon, 04 Apr 2022 03:03:08 GMT</pubDate>
-            <content:encoded><![CDATA[보안 외신 시큐리티위크에 따르면 이번 주 구글이 자사의 크롬 브라우저를 위한 대규모 패치를 실시했다고 한다. 이번에 해결된 취약점은 총 28개인데 이 중 꽤나 위...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/up-thumb-0331.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[긴급] 스프링 클라우드의 신규 취약점 스캔 공격 시작! 보안 패치 시급 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105859&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105859&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Tue, 05 Apr 2022 05:15:32 GMT</pubDate>
             <content:encoded><![CDATA[최근 발견된 스프링 클라우드(Spring Cloud)의 취약점을 공격하기 위한 스캔시도가 시작되고 있어 사용자들의 조속한 패치가 요구된다고 영남이공대학교(총장 이...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/20220404springm-s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[구글 크롬 브라우저, 대규모 보안 업데이트 실시 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105818&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105818&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Mon, 04 Apr 2022 03:03:08 GMT</pubDate>
+            <content:encoded><![CDATA[보안 외신 시큐리티위크에 따르면 이번 주 구글이 자사의 크롬 브라우저를 위한 대규모 패치를 실시했다고 한다. 이번에 해결된 취약점은 총 28개인데 이 중 꽤나 위...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/up-thumb-0331.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[시놀로지, 기업 데이터 관리 수요 충족할 다양한 신제품 출시 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
@@ -376,12 +376,12 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/22033017ss.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[첫 대규모 로그4j 캠페인? VM웨어 호라이즌 생태계에 빨간 불 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105802&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105802&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Fri, 01 Apr 2022 03:15:37 GMT</pubDate>
-            <content:encoded><![CDATA[많은 기업들이 사용하고 있는 VM웨어 호라이즌(VMware Horizon) 서버는 공격자들의 잦은 표적이 된다. 기업 내 중요 앱들에 언제 어디서나 접근할 수 있...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/red-thumb-0330.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[2022년에만 벌써 4개! 애플의 제로데이 고통은 올해에도 이어진다 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105868&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105868&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Tue, 05 Apr 2022 07:16:11 GMT</pubDate>
+            <content:encoded><![CDATA[애플의 장비와 기술들이 점점 더 많은 비즈니스 현장에 도입되고 있다. 그에 따라 보안 전문가들의 관심을 요구하는 사건들 역시 점점 늘어나고 있다. 그 중 가장 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/apple-thumb-0404.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[충청권역 사이버보안·융합 전문가-국정원 지부, ‘사이버 미래혁신융합 연구회’ 발족 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
@@ -392,12 +392,12 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220331mirae-s.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
-            <title><![CDATA[2022년에만 벌써 4개! 애플의 제로데이 고통은 올해에도 이어진다 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105868&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105868&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Tue, 05 Apr 2022 07:16:11 GMT</pubDate>
-            <content:encoded><![CDATA[애플의 장비와 기술들이 점점 더 많은 비즈니스 현장에 도입되고 있다. 그에 따라 보안 전문가들의 관심을 요구하는 사건들 역시 점점 늘어나고 있다. 그 중 가장 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/apple-thumb-0404.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[첫 대규모 로그4j 캠페인? VM웨어 호라이즌 생태계에 빨간 불 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105802&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105802&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Fri, 01 Apr 2022 03:15:37 GMT</pubDate>
+            <content:encoded><![CDATA[많은 기업들이 사용하고 있는 VM웨어 호라이즌(VMware Horizon) 서버는 공격자들의 잦은 표적이 된다. 기업 내 중요 앱들에 언제 어디서나 접근할 수 있...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/red-thumb-0330.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[랩서스, 이번엔 글로벌 IT 기업 ‘Globant’ 공격 발표 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
