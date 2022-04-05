@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Apr 2022 15:21:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Apr 2022 16:27:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -376,20 +376,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/up-thumb-0331.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[시놀로지, 기업 데이터 관리 수요 충족할 다양한 신제품 출시 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105804&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105804&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
-            <pubDate>Mon, 04 Apr 2022 07:17:38 GMT</pubDate>
-            <content:encoded><![CDATA[시놀로지가 온라인 기자간담회를 통해 NAS의 전반적인 시스템 보호, 관리 효율성이 향상된 DiskStation Manager 7.1(DSM 7.1) 버전, 높은 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/22033017ss.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[로크웰오토메이션 PLC 장비에서 스턱스넷 공격 가능하게 하는 취약점 발견 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105872&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105872&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Tue, 05 Apr 2022 13:26:32 GMT</pubDate>
             <content:encoded><![CDATA[유명 산업 장비 제조사인 로크웰오토메이션(Rockwell Automation)의 PLC 플랫폼에서 두 개의 고위험군 취약점이 발견됐다. 이 취약점들을 익스플로잇 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/plc-thumb-0404.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[시놀로지, 기업 데이터 관리 수요 충족할 다양한 신제품 출시 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105804&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105804&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
+            <pubDate>Mon, 04 Apr 2022 07:17:38 GMT</pubDate>
+            <content:encoded><![CDATA[시놀로지가 온라인 기자간담회를 통해 NAS의 전반적인 시스템 보호, 관리 효율성이 향상된 DiskStation Manager 7.1(DSM 7.1) 버전, 높은 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/22033017ss.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[랩서스, 이번엔 글로벌 IT 기업 ‘Globant’ 공격 발표 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
