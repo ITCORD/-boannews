@@ -4,9 +4,17 @@
         <title>보안뉴스 ─ Security World</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Apr 2022 04:23:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Apr 2022 05:19:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[AIS테크놀러지, 델 테크놀로지스 차세대 스토리지 ...]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105881&amp;mkind=5</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105881&amp;mkind=5</guid>
+            <pubDate>Tue, 05 Apr 2022 05:16:32 GMT</pubDate>
+            <content:encoded><![CDATA[델 테크놀로지스(Dell Technologies)의 티타늄(Titanium) 파트너사이자 나라장터 조달사업 공식 파트너사인 AIS테크놀러지(대표 이영섭, ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/22040503ss.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[하이크비전, 산림 ICT 플랫폼 구축 위한 산불 감...]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105880&amp;mkind=5</link>
@@ -14,14 +22,6 @@
             <pubDate>Tue, 05 Apr 2022 02:54:55 GMT</pubDate>
             <content:encoded><![CDATA[하이크비전 산불 감지 열화상 카메라는 고성능 GPU 및 화재 감지, 온도 측정, 경계 감지 등 다양한 딥러닝 AI 알고리즘을 내장하고 있다. 별도 알고리즘...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/22040502ss.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[인도, 국가 차원의 보안산업 재정비에 따라 생체인식...]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105822&amp;mkind=5</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105822&amp;mkind=5</guid>
-            <pubDate>Tue, 05 Apr 2022 01:07:48 GMT</pubDate>
-            <content:encoded><![CDATA[인도의 ‘디지털 인디아(Digital India)’ 정책 하에 보안 인프라를 강화하기 위해 노력하고 있다. 인도 정부는 ‘디지털 인디아’ 정책 내에 스마트...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/22033106ss.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

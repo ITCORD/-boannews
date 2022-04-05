@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-04-05T04:23:26.203Z</updated>
+    <updated>2022-04-05T05:19:03.469Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[비스트모드 봇넷, 토토링크 라우터들을 집중적으로 노려]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=105883&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=105883&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-04-05T05:15:47.677Z</updated>
+        <content type="html"><![CDATA[보안 외신 시큐리트위크가 새롭게 나타난 비스트모드(Beastmode) 봇넷에 대하여 보도했다. 이에 의하면 비스트모드는 디도스 공격을 전문으로 하는 유명 봇넷 미라이(Mirai)를 기반으로 하고 있으며, 현재 토토링크(TOTOLINK)의 라우터들을 집중적으로 공략해 봇...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[깃허브, API 키와 인증 토큰 포함된 커밋들을 자동으로 차단]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=105882&amp;page=1&amp;mkind=1&amp;kind=1</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=105861&amp;page=1&amp;mkind=1&amp;kind=1"/>
         <updated>2022-04-04T04:20:45.887Z</updated>
         <content type="html"><![CDATA[중국의 APT 단체인 딥판다(Deep Panda)가 VM웨어 호라이즌(VMware Horizon) 서버를 공략하기 위해 새로운 윈도 룻키트를 사용했다고 보안 블로그 시큐리티어페어즈가 보도했다. 이 룻키트의 이름은 파이어칠리(Fire Chili)이며, 로그4셸(Log4S...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[빗썸, ‘자금세탁방지의 날’ 캠페인 첫 시행]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=105860&amp;page=1&amp;mkind=1&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=105860&amp;page=1&amp;mkind=1&amp;kind=3"/>
-        <updated>2022-04-04T04:20:45.888Z</updated>
-        <content type="html"><![CDATA[국내 대표 가상자산 거래소 빗썸(대표 허백영)이 자금세탁방지(AML) 제도에 대한 임직원의 인식 제고를 위해 사내 캠페인 ‘제1회 자금세탁방지의 날’을 시행했다고 4일 밝혔다.]]></content>
     </entry>
 </feed>
