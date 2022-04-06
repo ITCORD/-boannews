@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Apr 2022 18:24:30 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2022 19:17:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -56,20 +56,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/BoB%2010_033101_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[중소기업 사이버보안 면역력 강화 ‘내서버 돌보미’로 지원한다]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105814&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105814&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
-            <pubDate>Fri, 01 Apr 2022 08:21:52 GMT</pubDate>
-            <content:encoded><![CDATA[과학기술정보통신부(장관 임혜숙, 이하 ‘과기정통부’)는 한국인터넷진흥원(원장 이원태, 이하 ‘KISA’)과 함께 중소기업의 사이버보안 면역력 강화를 위해 기업 서...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/msit_033102_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[2022년에만 벌써 4개! 애플의 제로데이 고통은 올해에도 이어진다]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105868&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105868&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Tue, 05 Apr 2022 07:16:11 GMT</pubDate>
             <content:encoded><![CDATA[애플의 장비와 기술들이 점점 더 많은 비즈니스 현장에 도입되고 있다. 그에 따라 보안 전문가들의 관심을 요구하는 사건들 역시 점점 늘어나고 있다. 그 중 가장 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/apple-thumb-0404.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[중소기업 사이버보안 면역력 강화 ‘내서버 돌보미’로 지원한다]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105814&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105814&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
+            <pubDate>Fri, 01 Apr 2022 08:21:52 GMT</pubDate>
+            <content:encoded><![CDATA[과학기술정보통신부(장관 임혜숙, 이하 ‘과기정통부’)는 한국인터넷진흥원(원장 이원태, 이하 ‘KISA’)과 함께 중소기업의 사이버보안 면역력 강화를 위해 기업 서...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/msit_033102_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[마이크로소프트, ‘사이버 보안 스킬 캠페인’ 한국 포함 23개국 확대]]></title>
@@ -104,20 +104,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/apple-thumb-0401.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[고스트라이터 캠페인 운영자들, 최신식 피싱 기법인 BitB까지 활용해]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105851&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105851&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Sat, 02 Apr 2022 07:15:28 GMT</pubDate>
-            <content:encoded><![CDATA[벨라루스를 근거지로 하여 활동하는 해킹 조직들 중 고스트라이터(Ghostwriter)라고 불리는 자들이 있다. 이들은 유럽에 가짜뉴스와 허위 정보를 살포하는데, ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/writer-thumb-0401.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[스프링4셸 취약점, 전제 조건 많이 붙어 익스플로잇 까다로워]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105890&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105890&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Wed, 06 Apr 2022 02:54:57 GMT</pubDate>
             <content:encoded><![CDATA[이번 주 월요일 보안 업체들이 스프링 프레임워크(Spring Framework)로 만들어진 애플리케이션들 중 최근 발견된 취약점인 스프링4셸(Spring4Shel...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/spring-thumb-040501.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[고스트라이터 캠페인 운영자들, 최신식 피싱 기법인 BitB까지 활용해]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105851&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105851&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Sat, 02 Apr 2022 07:15:28 GMT</pubDate>
+            <content:encoded><![CDATA[벨라루스를 근거지로 하여 활동하는 해킹 조직들 중 고스트라이터(Ghostwriter)라고 불리는 자들이 있다. 이들은 유럽에 가짜뉴스와 허위 정보를 살포하는데, ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/writer-thumb-0401.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[로크웰오토메이션 PLC 장비에서 스턱스넷 공격 가능하게 하는 취약점 발견]]></title>
@@ -160,12 +160,12 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220403cctv-s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[러-우 전쟁에서 파생된 사이버 공격 캠페인, BitB 기법 사용]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105843&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105843&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Wed, 06 Apr 2022 10:19:30 GMT</pubDate>
-            <content:encoded><![CDATA[고스트라이터(Ghostwriter)라는 해킹 단체가 '브라우저 내 브라우저(BitB)' 기법을 활용한 피싱 공격을 실시해 크리덴셜을 훔치는 것이 발견됐다고 구글의...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/bitb-thumb-0401.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[월드오브워크래프트와 포트나이트는 미래 메타버스의 힌트다]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105854&amp;page=1&amp;kind=4&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105854&amp;page=1&amp;kind=4&amp;search=title&amp;find=</guid>
+            <pubDate>Wed, 06 Apr 2022 19:14:05 GMT</pubDate>
+            <content:encoded><![CDATA[최근 에픽게임즈(Epic Games)의 CEO인 팀 스위니(Tim Sweeney)는 메타버스가 수십 년 안에 수조 달러의 경제 규모를 갖출 것이라고 말했다. 뭐,...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/game-thumb-0403.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
