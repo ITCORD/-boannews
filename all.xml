@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Apr 2022 02:57:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2022 03:33:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -312,20 +312,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/mine-thumb-0331.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[새로운 로그4셸? 스프링에서 스프링4셸 취약점 발견돼 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105816&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105816&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Fri, 01 Apr 2022 01:19:05 GMT</pubDate>
-            <content:encoded><![CDATA[스프링(Spring)이라는 인기 높은 자바 애플리케이션 프레임워크에서 제로데이 취약점이 발견됐다. 이 취약점에는 스프링4셸(Spring4Shell)이라는 이름이 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/spr-thumb-0331.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[2022년에만 벌써 4개! 애플의 제로데이 고통은 올해에도 이어진다 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105868&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105868&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Tue, 05 Apr 2022 07:16:11 GMT</pubDate>
             <content:encoded><![CDATA[애플의 장비와 기술들이 점점 더 많은 비즈니스 현장에 도입되고 있다. 그에 따라 보안 전문가들의 관심을 요구하는 사건들 역시 점점 늘어나고 있다. 그 중 가장 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/apple-thumb-0404.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[새로운 로그4셸? 스프링에서 스프링4셸 취약점 발견돼 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105816&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105816&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Fri, 01 Apr 2022 01:19:05 GMT</pubDate>
+            <content:encoded><![CDATA[스프링(Spring)이라는 인기 높은 자바 애플리케이션 프레임워크에서 제로데이 취약점이 발견됐다. 이 취약점에는 스프링4셸(Spring4Shell)이라는 이름이 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/spr-thumb-0331.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[마이크로소프트, ‘사이버 보안 스킬 캠페인’ 한국 포함 23개국 확대 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
