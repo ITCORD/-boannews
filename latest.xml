@@ -4,9 +4,49 @@
         <title>보안뉴스 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Apr 2022 07:19:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2022 08:23:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[현실화된 OT보안 위협, 광범위하고 통합적이며 자동화된 대응이 필요하다]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105908&amp;page=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105908&amp;page=1&amp;kind=3</guid>
+            <pubDate>Wed, 06 Apr 2022 08:19:42 GMT</pubDate>
+            <content:encoded><![CDATA[코로나19로 인해 다양한 산업에서 디지털 전환이 빠르게 이뤄지고 있다. 특히 스마트 인프라 분야에서의 전환은 빠르게 이뤄지고 있는데, 대표적인 적이 바로 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/fortinet_040601_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[시큐어 코딩을 정착시키기 위해서는 조직 전체가 움직여야]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105907&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105907&amp;page=1&amp;kind=1</guid>
+            <pubDate>Wed, 06 Apr 2022 08:19:42 GMT</pubDate>
+            <content:encoded><![CDATA[시큐어 코딩이라는 문화가 개발자와 기업들에 정착하기까지는 아직 한참 남은 것으로 보인다. 하지만 희망은 있다. 조금씩 그 방향으로의 진전이 분명히 이뤄지고...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/coding-thumb-0406.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[중국 해커들, VLC 미디어 플레이어 통해 멀웨어 퍼트려]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105906&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105906&amp;page=1&amp;kind=1</guid>
+            <pubDate>Wed, 06 Apr 2022 08:19:42 GMT</pubDate>
+            <content:encoded><![CDATA[중국 해커들의 오래된 공격 캠페인이 발견됐다고 IT 외신 블리핑컴퓨터가 보도했다. 이 캠페인에서 중국 해커들이 악용한 건 유명 미디어 플레이어 앱인 VLC...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/med-thumb-0406.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NSO그룹, 페가수스 사태 터졌어도 계속 거래 진행했다]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105905&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105905&amp;page=1&amp;kind=1</guid>
+            <pubDate>Wed, 06 Apr 2022 08:19:42 GMT</pubDate>
+            <content:encoded><![CDATA[영국 일간지 가디언에 의하면 페가수스(Pegasus) 스파이웨어에 감염됐던 아이폰 사용자들이, 작년 전 세계가 페가수스 사태에 놀라고 애플이 페가수스의 개...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/pega-thumb-0406.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[국제 공조로 최장수 다크웹 시장인 하이드라 폐쇄돼]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105904&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105904&amp;page=1&amp;kind=1</guid>
+            <pubDate>Wed, 06 Apr 2022 08:19:42 GMT</pubDate>
+            <content:encoded><![CDATA[IT 외신인 더레지스터에 의하면 미국과 독일의 국제 공조로 다크웹 내 최장기 마약 거래 시장인 하이드라(Hydra)가 폐쇄됐다고 한다. 하이드라는 마약만이...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/20220406drug-s.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[산불 피해 기부 영수증? 열어 보니 악성 문서 파일]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105896&amp;page=1&amp;kind=1</link>
@@ -46,46 +86,6 @@
             <pubDate>Tue, 05 Apr 2022 02:53:33 GMT</pubDate>
             <content:encoded><![CDATA[보안 외신 해커뉴스에 의하면 옥스포드대학의 연구원들이 CCS라는 전기자동차 충전 독에 대한 해킹 공격 기법을 발견했다고 한다. 이 공격에 성공할 경우 C...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/charge-thumb-0405.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[비스트모드 봇넷, 토토링크 라우터들을 집중적으로 노려]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105883&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105883&amp;page=1&amp;kind=1</guid>
-            <pubDate>Tue, 05 Apr 2022 02:53:33 GMT</pubDate>
-            <content:encoded><![CDATA[보안 외신 시큐리트위크가 새롭게 나타난 비스트모드(Beastmode) 봇넷에 대하여 보도했다. 이에 의하면 비스트모드는 디도스 공격을 전문으로 하는 유명 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/bm-thumb-0405.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[깃허브, API 키와 인증 토큰 포함된 커밋들을 자동으로 차단]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105882&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105882&amp;page=1&amp;kind=1</guid>
-            <pubDate>Tue, 05 Apr 2022 02:53:33 GMT</pubDate>
-            <content:encoded><![CDATA[IT 외신인 블리핑컴퓨터에 의하면 코드 공유 사이트인 깃허브(GitHub)가 새로운 기능을 도입했다고 한다. 푸시 프로텍션(Push Protection)...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/scan-thumb-0405.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[월드오브워크래프트와 포트나이트는 미래 메타버스의 힌트다]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105854&amp;page=1&amp;kind=4</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105854&amp;page=1&amp;kind=4</guid>
-            <pubDate>Tue, 05 Apr 2022 01:06:49 GMT</pubDate>
-            <content:encoded><![CDATA[최근 에픽게임즈(Epic Games)의 CEO인 팀 스위니(Tim Sweeney)는 메타버스가 수십 년 안에 수조 달러의 경제 규모를 갖출 것이라고 말했다...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/game-thumb-0403.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[인도, 국가 차원의 보안산업 재정비에 따라 생체인식 수요 증가]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105822&amp;page=1&amp;kind=4</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105822&amp;page=1&amp;kind=4</guid>
-            <pubDate>Tue, 05 Apr 2022 01:06:49 GMT</pubDate>
-            <content:encoded><![CDATA[인도의 ‘디지털 인디아(Digital India)’ 정책 하에 보안 인프라를 강화하기 위해 노력하고 있다. 인도 정부는 ‘디지털 인디아’ 정책 내에 스마트...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/22033106ss.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[로크웰오토메이션 PLC 장비에서 스턱스넷 공격 가능하게 하는 취약점 발견]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105872&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105872&amp;page=1&amp;kind=1</guid>
-            <pubDate>Mon, 04 Apr 2022 08:20:10 GMT</pubDate>
-            <content:encoded><![CDATA[유명 산업 장비 제조사인 로크웰오토메이션(Rockwell Automation)의 PLC 플랫폼에서 두 개의 고위험군 취약점이 발견됐다. 이 취약점들을 익스...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/plc-thumb-0404.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한국인터넷진흥원, 울진 산불피해 복구를 위한 성금 전달]]></title>
@@ -199,12 +199,28 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/22040503ss.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[비스트모드 봇넷, 토토링크 라우터들을 집중적으로 노려]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105883&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105883&amp;page=1&amp;kind=1</guid>
+            <pubDate>Tue, 05 Apr 2022 02:53:33 GMT</pubDate>
+            <content:encoded><![CDATA[보안 외신 시큐리트위크가 새롭게 나타난 비스트모드(Beastmode) 봇넷에 대하여 보도했다. 이에 의하면 비스트모드는 디도스 공격을 전문으로 하는 유명 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/bm-thumb-0405.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[하이크비전, 산림 ICT 플랫폼 구축 위한 산불 감지 열화상 솔루션 출시]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105880&amp;page=1&amp;kind=3</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105880&amp;page=1&amp;kind=3</guid>
             <pubDate>Tue, 05 Apr 2022 02:53:33 GMT</pubDate>
             <content:encoded><![CDATA[하이크비전 산불 감지 열화상 카메라는 고성능 GPU 및 화재 감지, 온도 측정, 경계 감지 등 다양한 딥러닝 AI 알고리즘을 내장하고 있다. 별도 알고리즘...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/22040502ss.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[깃허브, API 키와 인증 토큰 포함된 커밋들을 자동으로 차단]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105882&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105882&amp;page=1&amp;kind=1</guid>
+            <pubDate>Tue, 05 Apr 2022 02:53:33 GMT</pubDate>
+            <content:encoded><![CDATA[IT 외신인 블리핑컴퓨터에 의하면 코드 공유 사이트인 깃허브(GitHub)가 새로운 기능을 도입했다고 한다. 푸시 프로텍션(Push Protection)...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/scan-thumb-0405.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[SR, 공공기관 최초 정보보호 인증 7종 획득]]></title>
@@ -229,22 +245,6 @@
             <pubDate>Tue, 05 Apr 2022 01:06:49 GMT</pubDate>
             <content:encoded><![CDATA[정보보호 투자가 어려운 중소기업들의 보안 수준을 높이는 보안 점검 서비스가 운영된다. 시큐리티·인텔리전스 기업 이글루코퍼레이션(대표 이득춘)은 과학기술정보...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/egloo_040501_main2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[미리보는 SECON & eGISEC 2022] 아이쓰리시스템·앤다스·에스카]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105828&amp;page=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105828&amp;page=1&amp;kind=3</guid>
-            <pubDate>Tue, 05 Apr 2022 01:06:49 GMT</pubDate>
-            <content:encoded><![CDATA[물리보안과 사이버보안을 아우르는 국내 최대 통합보안 전시회인 제21회 세계보안엑스포(SECON &amp; eGISEC 2022)는 4월 20일부터 22일까지 3일...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/SECON%20eGISEC%202022(7).jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[미리보는 SECON & eGISEC 2022] 아마노코리아·아이닉스·아이디스]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105827&amp;page=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105827&amp;page=1&amp;kind=3</guid>
-            <pubDate>Tue, 05 Apr 2022 01:06:49 GMT</pubDate>
-            <content:encoded><![CDATA[물리보안과 사이버보안을 아우르는 국내 최대 통합보안 전시회인 제21회 세계보안엑스포(SECON &amp; eGISEC 2022)는 4월 20일부터 22일까지 3일...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/SECON%20eGISEC%202022(6).jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

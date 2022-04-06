@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Apr 2022 07:19:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2022 08:23:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -136,20 +136,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/up-thumb-0331.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[시놀로지, 기업 데이터 관리 수요 충족할 다양한 신제품 출시]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105804&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105804&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
-            <pubDate>Mon, 04 Apr 2022 07:17:38 GMT</pubDate>
-            <content:encoded><![CDATA[시놀로지가 온라인 기자간담회를 통해 NAS의 전반적인 시스템 보호, 관리 효율성이 향상된 DiskStation Manager 7.1(DSM 7.1) 버전, 높은 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/22033017ss.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[스프링4셸 취약점, 전제 조건 많이 붙어 익스플로잇 까다로워]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105890&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105890&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Wed, 06 Apr 2022 02:54:57 GMT</pubDate>
             <content:encoded><![CDATA[이번 주 월요일 보안 업체들이 스프링 프레임워크(Spring Framework)로 만들어진 애플리케이션들 중 최근 발견된 취약점인 스프링4셸(Spring4Shel...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/spring-thumb-040501.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[시놀로지, 기업 데이터 관리 수요 충족할 다양한 신제품 출시]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105804&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105804&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
+            <pubDate>Mon, 04 Apr 2022 07:17:38 GMT</pubDate>
+            <content:encoded><![CDATA[시놀로지가 온라인 기자간담회를 통해 NAS의 전반적인 시스템 보호, 관리 효율성이 향상된 DiskStation Manager 7.1(DSM 7.1) 버전, 높은 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/22033017ss.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[충청권역 사이버보안·융합 전문가-국정원 지부, ‘사이버 미래혁신융합 연구회’ 발족]]></title>
