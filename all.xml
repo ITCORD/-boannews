@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Apr 2022 09:19:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2022 10:22:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[윈도 보안, 단순하되 강력하게, 칩셋부터 클라우드까지 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105909&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105909&amp;page=1&amp;kind=1</guid>
+            <pubDate>Wed, 06 Apr 2022 10:19:15 GMT</pubDate>
+            <content:encoded><![CDATA[마이크로소프트가 이번 주 화요일(미국 기준) 윈도 11 장비에 탑재될 다양한 보안 기능들에 대하여 발표했다. 윈도 11의 보안은 전체적으로 하이브리드 환경...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/win-thumb-0406.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[현실화된 OT보안 위협, 광범위하고 통합적이며 자동화된 대응이 필요하다 (보안뉴스 ─ 전체기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105908&amp;page=1&amp;kind=3</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 05 Apr 2022 02:53:33 GMT</pubDate>
             <content:encoded><![CDATA[보안 블로그 시큐리티어페어즈가 VM웨어(VMware)의 패치에 대한 소식을 전달하고 있다. 최근 발견된 스프링4셸(Spring4Shell) 취약점을 자사 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/spring-thumb-0405.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전기자동차 충전 독 CCS, 해킹 공격에 취약할 수 있어 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105884&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105884&amp;page=1&amp;kind=1</guid>
-            <pubDate>Tue, 05 Apr 2022 02:53:33 GMT</pubDate>
-            <content:encoded><![CDATA[보안 외신 해커뉴스에 의하면 옥스포드대학의 연구원들이 CCS라는 전기자동차 충전 독에 대한 해킹 공격 기법을 발견했다고 한다. 이 공격에 성공할 경우 C...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/charge-thumb-0405.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[미리보는 SECON & eGISEC 2022] 시큐어가드테크놀러지·아스트론시큐리티·ICTK홀딩스 (보안뉴스 ─ 전체기사)]]></title>
@@ -223,6 +223,14 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/22040503ss.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[전기자동차 충전 독 CCS, 해킹 공격에 취약할 수 있어 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105884&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105884&amp;page=1&amp;kind=1</guid>
+            <pubDate>Tue, 05 Apr 2022 02:53:33 GMT</pubDate>
+            <content:encoded><![CDATA[보안 외신 해커뉴스에 의하면 옥스포드대학의 연구원들이 CCS라는 전기자동차 충전 독에 대한 해킹 공격 기법을 발견했다고 한다. 이 공격에 성공할 경우 C...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/charge-thumb-0405.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[비스트모드 봇넷, 토토링크 라우터들을 집중적으로 노려 (보안뉴스 ─ 전체기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105883&amp;page=1&amp;kind=1</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105883&amp;page=1&amp;kind=1</guid>
@@ -237,14 +245,6 @@
             <pubDate>Tue, 05 Apr 2022 02:53:33 GMT</pubDate>
             <content:encoded><![CDATA[하이크비전 산불 감지 열화상 카메라는 고성능 GPU 및 화재 감지, 온도 측정, 경계 감지 등 다양한 딥러닝 AI 알고리즘을 내장하고 있다. 별도 알고리즘...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/22040502ss.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[깃허브, API 키와 인증 토큰 포함된 커밋들을 자동으로 차단 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105882&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105882&amp;page=1&amp;kind=1</guid>
-            <pubDate>Tue, 05 Apr 2022 02:53:33 GMT</pubDate>
-            <content:encoded><![CDATA[IT 외신인 블리핑컴퓨터에 의하면 코드 공유 사이트인 깃허브(GitHub)가 새로운 기능을 도입했다고 한다. 푸시 프로텍션(Push Protection)...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/scan-thumb-0405.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[로그4셸과 닮은꼴? 웹 앱 프레임워크인 스프링에서 나온 스프링4셸 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
@@ -383,14 +383,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/up-thumb-0331.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[시놀로지, 기업 데이터 관리 수요 충족할 다양한 신제품 출시 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105804&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105804&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
-            <pubDate>Mon, 04 Apr 2022 07:17:38 GMT</pubDate>
-            <content:encoded><![CDATA[시놀로지가 온라인 기자간담회를 통해 NAS의 전반적인 시스템 보호, 관리 효율성이 향상된 DiskStation Manager 7.1(DSM 7.1) 버전, 높은 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/22033017ss.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[충청권역 사이버보안·융합 전문가-국정원 지부, ‘사이버 미래혁신융합 연구회’ 발족 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105809&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105809&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
@@ -405,6 +397,21 @@
             <pubDate>Wed, 06 Apr 2022 07:16:22 GMT</pubDate>
             <content:encoded><![CDATA[아제르바이잔은 남캅카스에 위치한 카스피해의 연안국으로 수도는 카스피해 서쪽 연안에 있는 항구도시인 바쿠(Baku)이다. 산유국이기 때문에 ‘불의 나라(Odlar ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220403cctv-s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[러-우 전쟁에서 파생된 사이버 공격 캠페인, BitB 기법 사용 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105843&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105843&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Wed, 06 Apr 2022 10:19:30 GMT</pubDate>
+            <content:encoded><![CDATA[고스트라이터(Ghostwriter)라는 해킹 단체가 '브라우저 내 브라우저(BitB)' 기법을 활용한 피싱 공격을 실시해 크리덴셜을 훔치는 것이 발견됐다고 구글의...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/bitb-thumb-0401.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[시큐어 코딩을 정착시키기 위해서는 조직 전체가 움직여야 (보안뉴스 ─ SECURITY)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105907&amp;page=1&amp;mkind=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105907&amp;page=1&amp;mkind=1&amp;kind=1</guid>
+            <pubDate>Wed, 06 Apr 2022 10:19:43 GMT</pubDate>
+            <content:encoded><![CDATA[시큐어 코딩이라는 문화가 개발자와 기업들에 정착하기까지는 아직 한참 남은 것으로 보인다. 하지만 희망은 있다. 조금씩 그 방향으로의 진전이 분명히 이뤄지고 있다는 증거들이 나오기 시작했기 때문이다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[중국 해커들, VLC 미디어 플레이어 통해 멀웨어 퍼트려 (보안뉴스 ─ SECURITY)]]></title>
@@ -517,13 +524,6 @@
             <guid>https://www.boannews.com/media/view.asp?idx=105882&amp;page=1&amp;mkind=1&amp;kind=1</guid>
             <pubDate>Tue, 05 Apr 2022 02:54:05 GMT</pubDate>
             <content:encoded><![CDATA[IT 외신인 블리핑컴퓨터에 의하면 코드 공유 사이트인 깃허브(GitHub)가 새로운 기능을 도입했다고 한다. 푸시 프로텍션(Push Protection)이라고 불리는 이 기능은 한 마디로 말해 코드 스캔 기능을 보강한 것인데, 이를 통해 비밀 정보들이 실수로 새나가는...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[SR, 공공기관 최초 정보보호 인증 7종 획득 (보안뉴스 ─ SECURITY)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105879&amp;page=1&amp;mkind=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105879&amp;page=1&amp;mkind=1&amp;kind=3</guid>
-            <pubDate>Tue, 05 Apr 2022 02:54:05 GMT</pubDate>
-            <content:encoded><![CDATA[SRT 운영사 SR(대표 이종국)은 개인정보보호 인증인 ‘ePRIVACY Plus’ 인증을 받으며 공공기관 최초로 국내외 정보보호 인증 7종을 획득했다고 5일(화) 밝혔다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[지란지교소프트, 나라장터 상생세일 참여... ‘나모 크로스에디터4’ 할인 판매 (보안뉴스 ─ IT)]]></title>
@@ -1900,6 +1900,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/night_030201_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[윈도 보안, 단순하되 강력하게, 칩셋부터 클라우드까지 (보안뉴스 ─ 국제)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105909&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105909&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
+            <pubDate>Wed, 06 Apr 2022 10:21:46 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/view.asp?idx=105909&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
+					
+					<img src="/media/upFiles2/2022/04/win-thumb-0406.jpg" alt="" class="news_img" height="70">
+					
+					<span class="news_txt">윈도 보안, 단순하되 강력하게, 칩셋부터 클라우드까지</span>
+					</a><br>
+					<a href="/media/view.asp?idx=105909&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">마이크로소프트가 이번 주 화요일(미국 기준) 윈도 11 장비에 탑재될 다양한 보안 기능들에 대하여 발표했다. 윈도 11의 보안은 전체적으로 하이브리드 환경에서 사...</a> <span class="news_writer">문가용 기자 | 2022년 04월 06일 18:20</span>]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/win-thumb-0406.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[시큐어 코딩을 정착시키기 위해서는 조직 전체가 움직여야 (보안뉴스 ─ 국제)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105907&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105907&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
@@ -2164,20 +2178,6 @@
 					</a><br>
 					<a href="/media/view.asp?idx=105862&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">새로운 안드로이드 스파이웨어가 발견됐다고 IT 외신 핫하드웨어가 보도했다. 이 스파이웨어는 프로세스 관리자(Process Manager)라는 앱으로 위장되어 있으...</a> <span class="news_writer">문가용 기자 | 2022년 04월 04일 12:43</span>]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/dochung-thumb-0404.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[중국의 APT 단체, 새로운 윈도 룻키트 사용하기 시작 (보안뉴스 ─ 국제)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105861&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105861&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
-            <pubDate>Mon, 04 Apr 2022 04:22:37 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/view.asp?idx=105861&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
-					
-					<img src="/media/upFiles2/2022/04/chili-thumb-0404.jpg" alt="" class="news_img" height="70">
-					
-					<span class="news_txt">중국의 APT 단체, 새로운 윈도 룻키트 사용하기 시작</span>
-					</a><br>
-					<a href="/media/view.asp?idx=105861&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">중국의 APT 단체인 딥판다(Deep Panda)가 VM웨어 호라이즌(VMware Horizon) 서버를 공략하기 위해 새로운 윈도 룻키트를 사용했다고 보안 블로...</a> <span class="news_writer">문가용 기자 | 2022년 04월 04일 12:40</span>]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/chili-thumb-0404.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[통합보안 3사 에스원·SK쉴더스·KT텔레캅, 소비자의 생각과 선택은? (보안뉴스 ─ 기획특집)]]></title>

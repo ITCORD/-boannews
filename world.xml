@@ -4,9 +4,23 @@
         <title>보안뉴스 ─ 국제</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Apr 2022 09:19:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2022 10:22:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[윈도 보안, 단순하되 강력하게, 칩셋부터 클라우드까지]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105909&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105909&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
+            <pubDate>Wed, 06 Apr 2022 10:21:46 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/view.asp?idx=105909&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
+					
+					<img src="/media/upFiles2/2022/04/win-thumb-0406.jpg" alt="" class="news_img" height="70">
+					
+					<span class="news_txt">윈도 보안, 단순하되 강력하게, 칩셋부터 클라우드까지</span>
+					</a><br>
+					<a href="/media/view.asp?idx=105909&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">마이크로소프트가 이번 주 화요일(미국 기준) 윈도 11 장비에 탑재될 다양한 보안 기능들에 대하여 발표했다. 윈도 11의 보안은 전체적으로 하이브리드 환경에서 사...</a> <span class="news_writer">문가용 기자 | 2022년 04월 06일 18:20</span>]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/win-thumb-0406.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[시큐어 코딩을 정착시키기 위해서는 조직 전체가 움직여야]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105907&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
@@ -272,20 +286,6 @@
 					</a><br>
 					<a href="/media/view.asp?idx=105862&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">새로운 안드로이드 스파이웨어가 발견됐다고 IT 외신 핫하드웨어가 보도했다. 이 스파이웨어는 프로세스 관리자(Process Manager)라는 앱으로 위장되어 있으...</a> <span class="news_writer">문가용 기자 | 2022년 04월 04일 12:43</span>]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/dochung-thumb-0404.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[중국의 APT 단체, 새로운 윈도 룻키트 사용하기 시작]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105861&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105861&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
-            <pubDate>Mon, 04 Apr 2022 04:22:37 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/view.asp?idx=105861&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
-					
-					<img src="/media/upFiles2/2022/04/chili-thumb-0404.jpg" alt="" class="news_img" height="70">
-					
-					<span class="news_txt">중국의 APT 단체, 새로운 윈도 룻키트 사용하기 시작</span>
-					</a><br>
-					<a href="/media/view.asp?idx=105861&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">중국의 APT 단체인 딥판다(Deep Panda)가 VM웨어 호라이즌(VMware Horizon) 서버를 공략하기 위해 새로운 윈도 룻키트를 사용했다고 보안 블로...</a> <span class="news_writer">문가용 기자 | 2022년 04월 04일 12:40</span>]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/chili-thumb-0404.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

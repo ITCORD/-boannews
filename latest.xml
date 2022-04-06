@@ -4,9 +4,17 @@
         <title>보안뉴스 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Apr 2022 09:19:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2022 10:22:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[윈도 보안, 단순하되 강력하게, 칩셋부터 클라우드까지]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105909&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105909&amp;page=1&amp;kind=1</guid>
+            <pubDate>Wed, 06 Apr 2022 10:19:15 GMT</pubDate>
+            <content:encoded><![CDATA[마이크로소프트가 이번 주 화요일(미국 기준) 윈도 11 장비에 탑재될 다양한 보안 기능들에 대하여 발표했다. 윈도 11의 보안은 전체적으로 하이브리드 환경...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/win-thumb-0406.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[현실화된 OT보안 위협, 광범위하고 통합적이며 자동화된 대응이 필요하다]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105908&amp;page=1&amp;kind=3</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 05 Apr 2022 02:53:33 GMT</pubDate>
             <content:encoded><![CDATA[보안 블로그 시큐리티어페어즈가 VM웨어(VMware)의 패치에 대한 소식을 전달하고 있다. 최근 발견된 스프링4셸(Spring4Shell) 취약점을 자사 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/spring-thumb-0405.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전기자동차 충전 독 CCS, 해킹 공격에 취약할 수 있어]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105884&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105884&amp;page=1&amp;kind=1</guid>
-            <pubDate>Tue, 05 Apr 2022 02:53:33 GMT</pubDate>
-            <content:encoded><![CDATA[보안 외신 해커뉴스에 의하면 옥스포드대학의 연구원들이 CCS라는 전기자동차 충전 독에 대한 해킹 공격 기법을 발견했다고 한다. 이 공격에 성공할 경우 C...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/charge-thumb-0405.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[미리보는 SECON & eGISEC 2022] 시큐어가드테크놀러지·아스트론시큐리티·ICTK홀딩스]]></title>
@@ -223,6 +223,14 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/22040503ss.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[전기자동차 충전 독 CCS, 해킹 공격에 취약할 수 있어]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105884&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105884&amp;page=1&amp;kind=1</guid>
+            <pubDate>Tue, 05 Apr 2022 02:53:33 GMT</pubDate>
+            <content:encoded><![CDATA[보안 외신 해커뉴스에 의하면 옥스포드대학의 연구원들이 CCS라는 전기자동차 충전 독에 대한 해킹 공격 기법을 발견했다고 한다. 이 공격에 성공할 경우 C...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/charge-thumb-0405.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[비스트모드 봇넷, 토토링크 라우터들을 집중적으로 노려]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105883&amp;page=1&amp;kind=1</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105883&amp;page=1&amp;kind=1</guid>
@@ -237,14 +245,6 @@
             <pubDate>Tue, 05 Apr 2022 02:53:33 GMT</pubDate>
             <content:encoded><![CDATA[하이크비전 산불 감지 열화상 카메라는 고성능 GPU 및 화재 감지, 온도 측정, 경계 감지 등 다양한 딥러닝 AI 알고리즘을 내장하고 있다. 별도 알고리즘...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/22040502ss.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[깃허브, API 키와 인증 토큰 포함된 커밋들을 자동으로 차단]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105882&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105882&amp;page=1&amp;kind=1</guid>
-            <pubDate>Tue, 05 Apr 2022 02:53:33 GMT</pubDate>
-            <content:encoded><![CDATA[IT 외신인 블리핑컴퓨터에 의하면 코드 공유 사이트인 깃허브(GitHub)가 새로운 기능을 도입했다고 한다. 푸시 프로텍션(Push Protection)...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/scan-thumb-0405.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
