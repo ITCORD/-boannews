@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-04-06T06:22:47.050Z</updated>
+    <updated>2022-04-06T07:19:24.446Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[스파이스웨어, 비대면 서비스 바우처와 클라우드 서비스 바우처 공급기업 동시 선정]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=105895&amp;page=1&amp;mkind=1&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=105895&amp;page=1&amp;mkind=1&amp;kind=3"/>
+        <updated>2022-04-06T07:16:37.538Z</updated>
+        <content type="html"><![CDATA[제로 트러스트 보안 스타트업 스파이스웨어는 정부의 비대면 서비스 바우처 사업과 클라우드 서비스 바우처 사업의 공급 기업으로 동시 선정됐다고 6일 밝혔다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[체크포인트 소프트웨어 테크놀로지스, 전수홍 지사장 선임]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=105894&amp;page=1&amp;mkind=1&amp;kind=3</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=105869&amp;page=1&amp;mkind=1&amp;kind=2"/>
         <updated>2022-04-04T08:20:39.101Z</updated>
         <content type="html"><![CDATA[금융보안원(원장 김철웅)은 디지털금융 및 다양한 금융보안 분야에 대한 우수한 논문을 발굴하고, 국민적 관심을 고취하기 위해 2022년도 ‘제6회 금융보안원 논문공모전’을 개최한다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022년에만 벌써 4개! 애플의 제로데이 고통은 올해에도 이어진다]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=105868&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=105868&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-04-04T07:17:51.651Z</updated>
-        <content type="html"><![CDATA[애플의 장비와 기술들이 점점 더 많은 비즈니스 현장에 도입되고 있다. 그에 따라 보안 전문가들의 관심을 요구하는 사건들 역시 점점 늘어나고 있다. 그 중 가장 눈에 띄는 건 애플의 맥OS와 iOS 생태계에서 최근 들어 급증하고 있는 제로데이 취약점들이다. 지난 주만 ...]]></content>
     </entry>
 </feed>
