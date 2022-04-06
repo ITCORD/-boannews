@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-04-06T08:23:14.365Z</updated>
+    <updated>2022-04-06T09:19:10.207Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[중국 해커들, VLC 미디어 플레이어 통해 멀웨어 퍼트려]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=105906&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=105906&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-04-06T09:16:49.877Z</updated>
+        <content type="html"><![CDATA[중국 해커들의 오래된 공격 캠페인이 발견됐다고 IT 외신 블리핑컴퓨터가 보도했다. 이 캠페인에서 중국 해커들이 악용한 건 유명 미디어 플레이어 앱인 VLC 미디어 플레이어(VLC Media Player)다. 최대 3개 대륙에서 정부 기관, 법률 기관, 종교 단체, NG...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NSO그룹, 페가수스 사태 터졌어도 계속 거래 진행했다]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=105905&amp;page=1&amp;mkind=1&amp;kind=1</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=105879&amp;page=1&amp;mkind=1&amp;kind=3"/>
         <updated>2022-04-05T02:54:05.293Z</updated>
         <content type="html"><![CDATA[SRT 운영사 SR(대표 이종국)은 개인정보보호 인증인 ‘ePRIVACY Plus’ 인증을 받으며 공공기관 최초로 국내외 정보보호 인증 7종을 획득했다고 5일(화) 밝혔다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[라온시큐어, 자회사 라온화이트햇의 라온에스엔씨 흡수 합병 결정]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=105876&amp;page=1&amp;mkind=1&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=105876&amp;page=1&amp;mkind=1&amp;kind=3"/>
-        <updated>2022-04-05T02:54:05.297Z</updated>
-        <content type="html"><![CDATA[IT 통합보안·인증기업 라온시큐어(대표 이순형)는 급변하는 시장에 효율적으로 대응하고, 미래 성장 동력 확보를 통한 시장 경쟁력을 강화하고자 자회사 라온화이트햇이 라온에스엔씨를 흡수 합병한다고 밝혔다.]]></content>
     </entry>
 </feed>

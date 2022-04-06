@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Apr 2022 08:23:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2022 09:19:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -128,20 +128,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/plc-thumb-0404.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[구글 크롬 브라우저, 대규모 보안 업데이트 실시]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105818&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105818&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Mon, 04 Apr 2022 03:03:08 GMT</pubDate>
-            <content:encoded><![CDATA[보안 외신 시큐리티위크에 따르면 이번 주 구글이 자사의 크롬 브라우저를 위한 대규모 패치를 실시했다고 한다. 이번에 해결된 취약점은 총 28개인데 이 중 꽤나 위...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/up-thumb-0331.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[스프링4셸 취약점, 전제 조건 많이 붙어 익스플로잇 까다로워]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105890&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105890&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Wed, 06 Apr 2022 02:54:57 GMT</pubDate>
             <content:encoded><![CDATA[이번 주 월요일 보안 업체들이 스프링 프레임워크(Spring Framework)로 만들어진 애플리케이션들 중 최근 발견된 취약점인 스프링4셸(Spring4Shel...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/spring-thumb-040501.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[구글 크롬 브라우저, 대규모 보안 업데이트 실시]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105818&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105818&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Mon, 04 Apr 2022 03:03:08 GMT</pubDate>
+            <content:encoded><![CDATA[보안 외신 시큐리티위크에 따르면 이번 주 구글이 자사의 크롬 브라우저를 위한 대규모 패치를 실시했다고 한다. 이번에 해결된 취약점은 총 28개인데 이 중 꽤나 위...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/up-thumb-0331.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[시놀로지, 기업 데이터 관리 수요 충족할 다양한 신제품 출시]]></title>
