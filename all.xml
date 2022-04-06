@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Apr 2022 04:23:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Apr 2022 05:18:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -264,20 +264,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/spring-thumb-0401.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[새로운 파이선 기반 랜섬웨어, 주피터랩 웹 노트북  공격 중 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105846&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105846&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Sat, 02 Apr 2022 02:53:43 GMT</pubDate>
-            <content:encoded><![CDATA[웹 기반 컴퓨팅 플랫폼인 주피터(Jupyter) 노트북을 겨냥한 파이선 기반 랜섬웨어가 출현했다고 보안 외신 해커뉴스가 보도했다. 주피터 노트북은 데이터 분석가들...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/jup-thumb-0401.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[긴급] 이메일로 윈도우 도움말 파일 ‘.chm’ 받았다면? 악성코드 감염 조심 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105855&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105855&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Mon, 04 Apr 2022 04:20:35 GMT</pubDate>
             <content:encoded><![CDATA[최근 윈도우 도움말 파일(chm)을 이용한 악성 이메일이 지속적으로 발견되고 있어 사용자들의 주의가 필요하다. 이스트시큐리티 시큐리티대응센터(ESRC)에 따르면 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/esrc_040301_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[새로운 파이선 기반 랜섬웨어, 주피터랩 웹 노트북  공격 중 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105846&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105846&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Sat, 02 Apr 2022 02:53:43 GMT</pubDate>
+            <content:encoded><![CDATA[웹 기반 컴퓨팅 플랫폼인 주피터(Jupyter) 노트북을 겨냥한 파이선 기반 랜섬웨어가 출현했다고 보안 외신 해커뉴스가 보도했다. 주피터 노트북은 데이터 분석가들...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/jup-thumb-0401.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[긴급] 스프링 클라우드의 신규 취약점 스캔 공격 시작! 보안 패치 시급 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
@@ -334,14 +334,6 @@
             <pubDate>Sat, 02 Apr 2022 15:16:31 GMT</pubDate>
             <content:encoded><![CDATA[마이크로소프트가 ‘사이버 보안 스킬 캠페인(Cybersecurity Skills Campaign)’을 올해부터 한국 포함 전 세계 23개국으로 확대, 보안 기술 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/20220401ms-s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SK쉴더스, 랩서스 해킹조직 공격기법과 대응 전략 공개 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105785&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105785&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
-            <pubDate>Sat, 02 Apr 2022 21:15:22 GMT</pubDate>
-            <content:encoded><![CDATA[SK쉴더스(대표이사 박진효)는 최근 엔비디아, 삼성, LG, 마이크로소프트를 해킹한 것으로 알려진 ‘랩서스’의 공격 기법과 대응 전략을 30일 공개했다. SK쉴더...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/22033001ss.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[애플, 맥OS와 iOS의 제로데이 취약점 해결하기 위해 긴급 패치 배포 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
@@ -406,6 +398,14 @@
             <pubDate>Mon, 04 Apr 2022 23:17:51 GMT</pubDate>
             <content:encoded><![CDATA[최근 러시아-우크라이나 전쟁으로 사이버 전장이 확대되고 사이버 위기감이 고조되고 있는 가운데, 국가정보원 지부와 충정지역 보안전문가들은 미래사회 융복합 신기술에 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220331mirae-s.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[랩서스, 이번엔 글로벌 IT 기업 ‘Globant’ 공격 발표 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105796&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105796&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Wed, 06 Apr 2022 05:15:54 GMT</pubDate>
+            <content:encoded><![CDATA[최근 국내외 대기업들을 공격해 관심이 집중되고 있는 해킹그룹 랩서스(LAPSUS$)가 글로벌 IT 기업 ‘글로반트(Globant)’를 공격해 관리자 계정과 고객 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/lapsus_033001_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[사람 중심 글로벌 사이버 보안 기업 프루프포인트, 한국 시장 본격 진출 (보안뉴스 ─ SECURITY)]]></title>
