@@ -4,9 +4,17 @@
         <title>보안뉴스 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Apr 2022 07:19:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Apr 2022 08:23:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Weekly Security Premium Report 제45호 발간! 스프링4셸 취약점 등장]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105929&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105929&amp;page=1&amp;kind=1</guid>
+            <pubDate>Thu, 07 Apr 2022 08:20:53 GMT</pubDate>
+            <content:encoded><![CDATA[국내 최대 보안전문 인터넷신문 &lt;보안뉴스&gt;와 보안종합 월간지 &lt;시큐리티월드&gt;의 베테랑 전문기자들이 매일, 매주 제공하는 &lt;보안뉴...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/Weekly%20Security%20Premium%20Report_45_main.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[팬데믹 통해 떠오른 줌, 버그바운티 상금도 4배나 많이 지출해]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105927&amp;page=1&amp;kind=1</link>
@@ -80,12 +88,28 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/21092760_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[‘방역 수칙 위반 경찰서 출석요구서’ 사칭한 악성메일 유포중]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105915&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105915&amp;page=1&amp;kind=1</guid>
-            <pubDate>Thu, 07 Apr 2022 02:53:00 GMT</pubDate>
-            <content:encoded><![CDATA[최근 코로나19 방역 수칙 위반 경찰서 출석요구서나 긴급재난지원금 신청서 등을 사칭한 악성 메일이 발견돼 사용자들의 주의가 요구된다. 보안 전문 기업 이스...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/est_040701_main.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[미리보는 SECON & eGISEC 2022] HM COMPANY·엑사비스·엑스게이트]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105930&amp;page=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105930&amp;page=1&amp;kind=3</guid>
+            <pubDate>Thu, 07 Apr 2022 08:20:53 GMT</pubDate>
+            <content:encoded><![CDATA[물리보안과 사이버보안을 아우르는 국내 최대 통합보안 전시회인 제21회 세계보안엑스포(SECON &amp; eGISEC 2022)는 4월 20일부터 22일까지 3일...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/seocn&egisec_2022(5).jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[미리보는 SECON & eGISEC 2022] 에스지에이솔루션즈·에이쓰리시큐리티·AI Spera]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105923&amp;page=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105923&amp;page=1&amp;kind=3</guid>
+            <pubDate>Thu, 07 Apr 2022 08:20:53 GMT</pubDate>
+            <content:encoded><![CDATA[물리보안과 사이버보안을 아우르는 국내 최대 통합보안 전시회인 제21회 세계보안엑스포(SECON &amp; eGISEC 2022)는 4월 20일부터 22일까지 3일...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/seocn&egisec_2022(4).jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[미리보는 SECON & eGISEC 2022] 에스에스알·에스에스앤씨·에스엔솔루션즈]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105922&amp;page=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105922&amp;page=1&amp;kind=3</guid>
+            <pubDate>Thu, 07 Apr 2022 08:20:53 GMT</pubDate>
+            <content:encoded><![CDATA[물리보안과 사이버보안을 아우르는 국내 최대 통합보안 전시회인 제21회 세계보안엑스포(SECON &amp; eGISEC 2022)는 4월 20일부터 22일까지 3일...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/seocn&egisec_2022(3).jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[원모어시큐리티, 클라우드 기반 구독형 온라인 인증 서비스 출시]]></title>
@@ -117,6 +141,14 @@
             <pubDate>Thu, 07 Apr 2022 02:53:00 GMT</pubDate>
             <content:encoded><![CDATA[광범위하고 자동화된 통합 사이버보안 분야의 글로벌 리더인 포티넷코리아(조원균 대표)는 SK텔레콤(대표이사 사장 유영상)이 양자암호 통신장비에 자사의 IPs...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/forti_040701_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘방역 수칙 위반 경찰서 출석요구서’ 사칭한 악성메일 유포중]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105915&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105915&amp;page=1&amp;kind=1</guid>
+            <pubDate>Thu, 07 Apr 2022 02:53:00 GMT</pubDate>
+            <content:encoded><![CDATA[최근 코로나19 방역 수칙 위반 경찰서 출석요구서나 긴급재난지원금 신청서 등을 사칭한 악성 메일이 발견돼 사용자들의 주의가 요구된다. 보안 전문 기업 이스...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/est_040701_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[FBI, 러시아 군 소속 해커들이 사용하려던 봇넷 무력화 했다고 주장]]></title>
@@ -213,37 +245,6 @@
             <pubDate>Wed, 06 Apr 2022 08:19:42 GMT</pubDate>
             <content:encoded><![CDATA[시큐어 코딩이라는 문화가 개발자와 기업들에 정착하기까지는 아직 한참 남은 것으로 보인다. 하지만 희망은 있다. 조금씩 그 방향으로의 진전이 분명히 이뤄지고...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/coding-thumb-0406.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[중국 해커들, VLC 미디어 플레이어 통해 멀웨어 퍼트려]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105906&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105906&amp;page=1&amp;kind=1</guid>
-            <pubDate>Wed, 06 Apr 2022 08:19:42 GMT</pubDate>
-            <content:encoded><![CDATA[중국 해커들의 오래된 공격 캠페인이 발견됐다고 IT 외신 블리핑컴퓨터가 보도했다. 이 캠페인에서 중국 해커들이 악용한 건 유명 미디어 플레이어 앱인 VLC...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/med-thumb-0406.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[NSO그룹, 페가수스 사태 터졌어도 계속 거래 진행했다]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105905&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105905&amp;page=1&amp;kind=1</guid>
-            <pubDate>Wed, 06 Apr 2022 08:19:42 GMT</pubDate>
-            <content:encoded><![CDATA[영국 일간지 가디언에 의하면 페가수스(Pegasus) 스파이웨어에 감염됐던 아이폰 사용자들이, 작년 전 세계가 페가수스 사태에 놀라고 애플이 페가수스의 개...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/pega-thumb-0406.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국제 공조로 최장수 다크웹 시장인 하이드라 폐쇄돼]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105904&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105904&amp;page=1&amp;kind=1</guid>
-            <pubDate>Wed, 06 Apr 2022 08:19:42 GMT</pubDate>
-            <content:encoded><![CDATA[IT 외신인 더레지스터에 의하면 미국과 독일의 국제 공조로 다크웹 내 최장기 마약 거래 시장인 하이드라(Hydra)가 폐쇄됐다고 한다. 하이드라는 마약만이...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/20220406drug-s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한국인터넷진흥원, 울진 산불피해 복구를 위한 성금 전달]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105903&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105903&amp;page=1&amp;kind=2</guid>
-            <pubDate>Wed, 06 Apr 2022 07:16:11 GMT</pubDate>
-            <content:encoded><![CDATA[한국인터넷진흥원(KISA, 원장 이원태)이 울진 산불피해 지역 복구를 위해 성금 500만 원을 전달했다고 4월 6일(수) 밝혔다.]]></content:encoded>
         </item>
     </channel>
 </rss>
