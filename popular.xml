@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Apr 2022 23:19:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Apr 2022 01:13:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -144,14 +144,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/up-thumb-0331.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[충청권역 사이버보안·융합 전문가-국정원 지부, ‘사이버 미래혁신융합 연구회’ 발족]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105809&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105809&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
-            <pubDate>Mon, 04 Apr 2022 23:17:51 GMT</pubDate>
-            <content:encoded><![CDATA[최근 러시아-우크라이나 전쟁으로 사이버 전장이 확대되고 사이버 위기감이 고조되고 있는 가운데, 국가정보원 지부와 충정지역 보안전문가들은 미래사회 융복합 신기술에 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220331mirae-s.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
             <title><![CDATA[월드오브워크래프트와 포트나이트는 미래 메타버스의 힌트다]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105854&amp;page=1&amp;kind=4&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105854&amp;page=1&amp;kind=4&amp;search=title&amp;find=</guid>
@@ -166,6 +158,14 @@
             <pubDate>Wed, 06 Apr 2022 07:16:22 GMT</pubDate>
             <content:encoded><![CDATA[아제르바이잔은 남캅카스에 위치한 카스피해의 연안국으로 수도는 카스피해 서쪽 연안에 있는 항구도시인 바쿠(Baku)이다. 산유국이기 때문에 ‘불의 나라(Odlar ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220403cctv-s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[러-우 전쟁에서 파생된 사이버 공격 캠페인, BitB 기법 사용]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105843&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105843&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Thu, 07 Apr 2022 01:10:41 GMT</pubDate>
+            <content:encoded><![CDATA[고스트라이터(Ghostwriter)라는 해킹 단체가 '브라우저 내 브라우저(BitB)' 기법을 활용한 피싱 공격을 실시해 크리덴셜을 훔치는 것이 발견됐다고 구글의...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/bitb-thumb-0401.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

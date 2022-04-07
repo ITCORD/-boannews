@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Apr 2022 23:19:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Apr 2022 01:13:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -86,6 +86,14 @@
             <pubDate>Tue, 05 Apr 2022 02:53:33 GMT</pubDate>
             <content:encoded><![CDATA[보안 블로그 시큐리티어페어즈가 VM웨어(VMware)의 패치에 대한 소식을 전달하고 있다. 최근 발견된 스프링4셸(Spring4Shell) 취약점을 자사 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/spring-thumb-0405.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[IBM, 차세대 시스템 IBM z16 공개... 업계 최초 양자 내성 시스템 탑재 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105912&amp;page=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105912&amp;page=1&amp;kind=3</guid>
+            <pubDate>Thu, 07 Apr 2022 01:10:31 GMT</pubDate>
+            <content:encoded><![CDATA[IBM은 7일 온칩(On-Chip) 인공지능(AI) 가속기를 탑재해 최적의 레이턴시 추론을 제공하는 차세대 시스템 ‘IBM® z16™’를 출시한다고 발표했...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/IBM_040701_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[미리보는 SECON & eGISEC 2022] 시큐어가드테크놀러지·아스트론시큐리티·ICTK홀딩스 (보안뉴스 ─ 전체기사)]]></title>
@@ -239,14 +247,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/bm-thumb-0405.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[하이크비전, 산림 ICT 플랫폼 구축 위한 산불 감지 열화상 솔루션 출시 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105880&amp;page=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105880&amp;page=1&amp;kind=3</guid>
-            <pubDate>Tue, 05 Apr 2022 02:53:33 GMT</pubDate>
-            <content:encoded><![CDATA[하이크비전 산불 감지 열화상 카메라는 고성능 GPU 및 화재 감지, 온도 측정, 경계 감지 등 다양한 딥러닝 AI 알고리즘을 내장하고 있다. 별도 알고리즘...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/22040502ss.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[로그4셸과 닮은꼴? 웹 앱 프레임워크인 스프링에서 나온 스프링4셸 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105823&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105823&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
@@ -383,14 +383,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/up-thumb-0331.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[충청권역 사이버보안·융합 전문가-국정원 지부, ‘사이버 미래혁신융합 연구회’ 발족 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105809&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105809&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
-            <pubDate>Mon, 04 Apr 2022 23:17:51 GMT</pubDate>
-            <content:encoded><![CDATA[최근 러시아-우크라이나 전쟁으로 사이버 전장이 확대되고 사이버 위기감이 고조되고 있는 가운데, 국가정보원 지부와 충정지역 보안전문가들은 미래사회 융복합 신기술에 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220331mirae-s.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
             <title><![CDATA[월드오브워크래프트와 포트나이트는 미래 메타버스의 힌트다 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105854&amp;page=1&amp;kind=4&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105854&amp;page=1&amp;kind=4&amp;search=title&amp;find=</guid>
@@ -405,6 +397,21 @@
             <pubDate>Wed, 06 Apr 2022 07:16:22 GMT</pubDate>
             <content:encoded><![CDATA[아제르바이잔은 남캅카스에 위치한 카스피해의 연안국으로 수도는 카스피해 서쪽 연안에 있는 항구도시인 바쿠(Baku)이다. 산유국이기 때문에 ‘불의 나라(Odlar ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220403cctv-s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[러-우 전쟁에서 파생된 사이버 공격 캠페인, BitB 기법 사용 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105843&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105843&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Thu, 07 Apr 2022 01:10:41 GMT</pubDate>
+            <content:encoded><![CDATA[고스트라이터(Ghostwriter)라는 해킹 단체가 '브라우저 내 브라우저(BitB)' 기법을 활용한 피싱 공격을 실시해 크리덴셜을 훔치는 것이 발견됐다고 구글의...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/bitb-thumb-0401.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[현실화된 OT보안 위협, 광범위하고 통합적이며 자동화된 대응이 필요하다 (보안뉴스 ─ SECURITY)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105908&amp;page=1&amp;mkind=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105908&amp;page=1&amp;mkind=1&amp;kind=3</guid>
+            <pubDate>Thu, 07 Apr 2022 01:10:53 GMT</pubDate>
+            <content:encoded><![CDATA[코로나19로 인해 다양한 산업에서 디지털 전환이 빠르게 이뤄지고 있다. 특히 스마트 인프라 분야에서의 전환은 빠르게 이뤄지고 있는데, 대표적인 적이 바로 스마트 팩토리다. 문제는 이러한 스마트 인프라의 보안, 특히 IT가 아닌 OT 분야에서의 보안은 IT 보안과 달리 ...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[시큐어 코딩을 정착시키기 위해서는 조직 전체가 움직여야 (보안뉴스 ─ SECURITY)]]></title>
@@ -517,13 +524,6 @@
             <guid>https://www.boannews.com/media/view.asp?idx=105883&amp;page=1&amp;mkind=1&amp;kind=1</guid>
             <pubDate>Tue, 05 Apr 2022 05:15:47 GMT</pubDate>
             <content:encoded><![CDATA[보안 외신 시큐리트위크가 새롭게 나타난 비스트모드(Beastmode) 봇넷에 대하여 보도했다. 이에 의하면 비스트모드는 디도스 공격을 전문으로 하는 유명 봇넷 미라이(Mirai)를 기반으로 하고 있으며, 현재 토토링크(TOTOLINK)의 라우터들을 집중적으로 공략해 봇...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[깃허브, API 키와 인증 토큰 포함된 커밋들을 자동으로 차단 (보안뉴스 ─ SECURITY)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105882&amp;page=1&amp;mkind=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105882&amp;page=1&amp;mkind=1&amp;kind=1</guid>
-            <pubDate>Tue, 05 Apr 2022 02:54:05 GMT</pubDate>
-            <content:encoded><![CDATA[IT 외신인 블리핑컴퓨터에 의하면 코드 공유 사이트인 깃허브(GitHub)가 새로운 기능을 도입했다고 한다. 푸시 프로텍션(Push Protection)이라고 불리는 이 기능은 한 마디로 말해 코드 스캔 기능을 보강한 것인데, 이를 통해 비밀 정보들이 실수로 새나가는...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[지란지교소프트, 나라장터 상생세일 참여... ‘나모 크로스에디터4’ 할인 판매 (보안뉴스 ─ IT)]]></title>
@@ -2460,6 +2460,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2021/11/21113014ss.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[IBM, 차세대 시스템 IBM z16 공개... 업계 최초 양자 내성 시스템 탑재 (보안뉴스 ─ 기업뉴스)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105912&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105912&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=</guid>
+            <pubDate>Thu, 07 Apr 2022 01:13:02 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/view.asp?idx=105912&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=">
+					
+					<img src="/media/upFiles2/2022/04/IBM_040701_main.jpg" alt="" class="news_img" height="70">
+					
+					<span class="news_txt">IBM, 차세대 시스템 IBM z16 공개... 업계 최초 양자 내성 시스템 탑재</span>
+					</a><br>
+					<a href="/media/view.asp?idx=105912&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=">IBM은 7일 온칩(On-Chip) 인공지능(AI) 가속기를 탑재해 최적의 레이턴시 추론을 제공하는 차세대 시스템 ‘IBM® z16™’를 출시한다고 발표했다. 신...</a> <span class="news_writer">원병철 기자 | 2022년 04월 07일 09:23</span>]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/IBM_040701_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[퀀텀, 스토리지 자산 관리 온라인 포털 ‘마이퀀텀’ 발표 (보안뉴스 ─ 기업뉴스)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105897&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105897&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=</guid>
@@ -2724,20 +2738,6 @@
 					</a><br>
 					<a href="/media/view.asp?idx=105810&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=">안랩(대표 강석균)이 ‘복지포인트 기부’, ‘창립기념 행사 연계 기부 독려’ 등 기부 이벤트로 사내 기부 문화 확산에 나서고 있다. </a> <span class="news_writer">원병철 기자 | 2022년 03월 31일 09:41</span>]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/ahn_033101_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[진앤현시큐리티, 환경부 친환경 캠페인 ‘고고챌린지’ 동참 (보안뉴스 ─ 기업뉴스)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105808&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105808&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=</guid>
-            <pubDate>Thu, 31 Mar 2022 01:09:42 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/view.asp?idx=105808&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=">
-					
-					<img src="/media/upFiles2/2022/03/jh_033101_main.jpg" alt="" class="news_img" height="70">
-					
-					<span class="news_txt">진앤현시큐리티, 환경부 친환경 캠페인 ‘고고챌린지’ 동참</span>
-					</a><br>
-					<a href="/media/view.asp?idx=105808&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=">보안운영 전문기업 진앤현시큐리티(대표이사 김병익)가 환경부에서 전개하는 친환경 캠페인 ‘고고챌린지’에 동참했다고 밝혔다. </a> <span class="news_writer">원병철 기자 | 2022년 03월 31일 09:33</span>]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/jh_033101_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[인사] 투데이신문 (보안뉴스 ─ 인사 부고)]]></title>

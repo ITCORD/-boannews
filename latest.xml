@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Apr 2022 23:19:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Apr 2022 01:13:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -86,6 +86,14 @@
             <pubDate>Tue, 05 Apr 2022 02:53:33 GMT</pubDate>
             <content:encoded><![CDATA[보안 블로그 시큐리티어페어즈가 VM웨어(VMware)의 패치에 대한 소식을 전달하고 있다. 최근 발견된 스프링4셸(Spring4Shell) 취약점을 자사 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/spring-thumb-0405.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[IBM, 차세대 시스템 IBM z16 공개... 업계 최초 양자 내성 시스템 탑재]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105912&amp;page=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105912&amp;page=1&amp;kind=3</guid>
+            <pubDate>Thu, 07 Apr 2022 01:10:31 GMT</pubDate>
+            <content:encoded><![CDATA[IBM은 7일 온칩(On-Chip) 인공지능(AI) 가속기를 탑재해 최적의 레이턴시 추론을 제공하는 차세대 시스템 ‘IBM® z16™’를 출시한다고 발표했...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/IBM_040701_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[미리보는 SECON & eGISEC 2022] 시큐어가드테크놀러지·아스트론시큐리티·ICTK홀딩스]]></title>
@@ -237,14 +245,6 @@
             <pubDate>Tue, 05 Apr 2022 02:53:33 GMT</pubDate>
             <content:encoded><![CDATA[보안 외신 시큐리트위크가 새롭게 나타난 비스트모드(Beastmode) 봇넷에 대하여 보도했다. 이에 의하면 비스트모드는 디도스 공격을 전문으로 하는 유명 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/bm-thumb-0405.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[하이크비전, 산림 ICT 플랫폼 구축 위한 산불 감지 열화상 솔루션 출시]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105880&amp;page=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105880&amp;page=1&amp;kind=3</guid>
-            <pubDate>Tue, 05 Apr 2022 02:53:33 GMT</pubDate>
-            <content:encoded><![CDATA[하이크비전 산불 감지 열화상 카메라는 고성능 GPU 및 화재 감지, 온도 측정, 경계 감지 등 다양한 딥러닝 AI 알고리즘을 내장하고 있다. 별도 알고리즘...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/22040502ss.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
