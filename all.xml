@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Apr 2022 15:19:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Apr 2022 16:26:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[bnTV] 지구는 지금 사이버 세계대전! 우크라이나 전쟁과 다크웹, 그리고 랩서스 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105933&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105933&amp;page=1&amp;kind=1</guid>
+            <pubDate>Thu, 07 Apr 2022 16:23:05 GMT</pubDate>
+            <content:encoded><![CDATA[다크웹에서 우크라이나, 러시아 쪽 공격에 대한 관심들은 굉장히 많은 상황이고 전반적으로 사이버전 양상들을 보시게 되면은 주변국으로 확대되고 있는 모양새에요...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/20220407dark.JPG" length="0" type="image/JPG"/>
+        </item>
         <item>
             <title><![CDATA[Weekly Security Premium Report 제45호 발간! 스프링4셸 취약점 등장 (보안뉴스 ─ 전체기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105929&amp;page=1&amp;kind=1</link>
@@ -80,14 +88,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/rus-thumb-0407.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[하마스의 해커들, 아름다운 여성 사진 이용한 피싱 공격 벌여 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105917&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105917&amp;page=1&amp;kind=1</guid>
-            <pubDate>Thu, 07 Apr 2022 02:53:00 GMT</pubDate>
-            <content:encoded><![CDATA[보안 외신 시큐리티위크에 의하면 이스라엘 고위 관리들을 노리는 하마스의 해커인 APT-C-23이 미인계를 쓰기 시작했다고 한다. 페이스북에서 아름다운 여성...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/21092760_copy_295x190_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[미리보는 SECON & eGISEC 2022] HM COMPANY·엑사비스·엑스게이트 (보안뉴스 ─ 전체기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105930&amp;page=1&amp;kind=3</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105930&amp;page=1&amp;kind=3</guid>
@@ -141,6 +141,14 @@
             <pubDate>Thu, 07 Apr 2022 02:53:00 GMT</pubDate>
             <content:encoded><![CDATA[광범위하고 자동화된 통합 사이버보안 분야의 글로벌 리더인 포티넷코리아(조원균 대표)는 SK텔레콤(대표이사 사장 유영상)이 양자암호 통신장비에 자사의 IPs...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/forti_040701_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[하마스의 해커들, 아름다운 여성 사진 이용한 피싱 공격 벌여 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105917&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105917&amp;page=1&amp;kind=1</guid>
+            <pubDate>Thu, 07 Apr 2022 02:53:00 GMT</pubDate>
+            <content:encoded><![CDATA[보안 외신 시큐리티위크에 의하면 이스라엘 고위 관리들을 노리는 하마스의 해커인 APT-C-23이 미인계를 쓰기 시작했다고 한다. 페이스북에서 아름다운 여성...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/21092760_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘방역 수칙 위반 경찰서 출석요구서’ 사칭한 악성메일 유포중 (보안뉴스 ─ 전체기사)]]></title>
@@ -239,14 +247,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/fortinet_040601_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[시큐어 코딩을 정착시키기 위해서는 조직 전체가 움직여야 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105907&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105907&amp;page=1&amp;kind=1</guid>
-            <pubDate>Wed, 06 Apr 2022 08:19:42 GMT</pubDate>
-            <content:encoded><![CDATA[시큐어 코딩이라는 문화가 개발자와 기업들에 정착하기까지는 아직 한참 남은 것으로 보인다. 하지만 희망은 있다. 조금씩 그 방향으로의 진전이 분명히 이뤄지고...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/coding-thumb-0406.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[자바 웹 애플리케이션 프레임워크 스프링, 제로데이 취약점 패치해 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105852&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105852&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
@@ -335,20 +335,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/rus-uk-thumb-0401.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[월드오브워크래프트와 포트나이트는 미래 메타버스의 힌트다 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105854&amp;page=1&amp;kind=4&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105854&amp;page=1&amp;kind=4&amp;search=title&amp;find=</guid>
-            <pubDate>Wed, 06 Apr 2022 19:14:05 GMT</pubDate>
-            <content:encoded><![CDATA[최근 에픽게임즈(Epic Games)의 CEO인 팀 스위니(Tim Sweeney)는 메타버스가 수십 년 안에 수조 달러의 경제 규모를 갖출 것이라고 말했다. 뭐,...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/game-thumb-0403.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[2022년도 ‘ISMS-P 신규 인증심사원’ 자격검정 시행 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105911&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105911&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
             <pubDate>Thu, 07 Apr 2022 09:16:40 GMT</pubDate>
             <content:encoded><![CDATA[한국인터넷진흥원(KISA, 원장 이원태)은 2022년도 ‘정보보호 및 개인정보보호 관리체계(ISMS-P)’의 신규 인증심사원 자격검정을 7월에 실시하고, 이에 앞...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/kisa_040701_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[월드오브워크래프트와 포트나이트는 미래 메타버스의 힌트다 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105854&amp;page=1&amp;kind=4&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105854&amp;page=1&amp;kind=4&amp;search=title&amp;find=</guid>
+            <pubDate>Wed, 06 Apr 2022 19:14:05 GMT</pubDate>
+            <content:encoded><![CDATA[최근 에픽게임즈(Epic Games)의 CEO인 팀 스위니(Tim Sweeney)는 메타버스가 수십 년 안에 수조 달러의 경제 규모를 갖출 것이라고 말했다. 뭐,...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/game-thumb-0403.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[CCTV·IP 카메라 설치 급증... 아제르바이잔 보안시장 진단 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
@@ -405,6 +405,13 @@
             <pubDate>Thu, 07 Apr 2022 08:21:07 GMT</pubDate>
             <content:encoded><![CDATA[보안 외신 해커뉴스에 의하면 옥스포드대학의 연구원들이 CCS라는 전기자동차 충전 독에 대한 해킹 공격 기법을 발견했다고 한다. 이 공격에 성공할 경우 CCS를 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/charge-thumb-0405.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[미리보는 SECON & eGISEC 2022] 에스에스알·에스에스앤씨·에스엔솔루션즈 (보안뉴스 ─ SECURITY)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105922&amp;page=1&amp;mkind=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105922&amp;page=1&amp;mkind=1&amp;kind=3</guid>
+            <pubDate>Thu, 07 Apr 2022 16:23:29 GMT</pubDate>
+            <content:encoded><![CDATA[물리보안과 사이버보안을 아우르는 국내 최대 통합보안 전시회인 제21회 세계보안엑스포(SECON &amp; eGISEC 2022)는 4월 20일부터 22일까지 3일간 일산 킨텍스 제1전시장 3~5홀에서 개최된다. SECON &amp; eGISEC 2022는 공식 홈페이지를 통해 사전등...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[Weekly Security Premium Report 제45호 발간! 스프링4셸 취약점 등장 (보안뉴스 ─ SECURITY)]]></title>
@@ -517,13 +524,6 @@
             <guid>https://www.boannews.com/media/view.asp?idx=105899&amp;page=1&amp;mkind=1&amp;kind=3</guid>
             <pubDate>Thu, 07 Apr 2022 02:53:27 GMT</pubDate>
             <content:encoded><![CDATA[물리보안과 사이버보안을 아우르는 국내 최대 통합보안 전시회인 제21회 세계보안엑스포(SECON &amp; eGISEC 2022)는 4월 20일부터 22일까지 3일간 일산 킨텍스 제1전시장 3~5홀에서 개최된다. SECON &amp; eGISEC 2022는 공식 홈페이지를 통해 사전등...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[국가정보원, 국내 가상자산거래소와 사이버위협정보 공유 및 협력 (보안뉴스 ─ SECURITY)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105914&amp;page=1&amp;mkind=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105914&amp;page=1&amp;mkind=1&amp;kind=2</guid>
-            <pubDate>Thu, 07 Apr 2022 02:53:27 GMT</pubDate>
-            <content:encoded><![CDATA[국가정보원은 가상자산을 노린 국제 및 국가배후 해킹조직의 사이버 위협이 증가함에 따라 국내 대형 가상자산거래소와 국내외 주요 사이버 위협정보를 제공하는 등 정보공유 서비스를 확대하고 있다. 국정원은 최근 국내 가상자산거래소 4곳(업비트·빗썸·코빗·코인원)을 국정원의 ‘...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[와이파이 기술의 최신 트렌드, 미래를 구현하기 위한 발맞춤 (보안뉴스 ─ IT)]]></title>
@@ -778,6 +778,20 @@
             <pubDate>Thu, 07 Apr 2022 02:53:56 GMT</pubDate>
             <content:encoded><![CDATA[물리보안과 사이버보안을 아우르는 국내 최대 통합보안 전시회인 제21회 세계보안엑스포(SECON &amp; eGISEC 2022)는 4월 20일부터 22일까지 3일...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/SECON%20eGISEC%202022(1).jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[bnTV] 지구는 지금 사이버 세계대전! 우크라이나 전쟁과 다크웹, 그리고 랩서스 (보안뉴스 ─ 취약점 경고 및 버그리포트)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105933&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105933&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=</guid>
+            <pubDate>Thu, 07 Apr 2022 16:24:17 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/view.asp?idx=105933&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=">
+					
+					<img src="/media/upFiles2/2022/04/20220407dark.JPG" alt="" class="news_img" height="70">
+					
+					<span class="news_txt">[bnTV] 지구는 지금 사이버 세계대전! 우크라이나 전쟁과 다크웹, 그리고 랩서스   </span>
+					</a><br>
+					<a href="/media/view.asp?idx=105933&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=">다크웹에서 우크라이나, 러시아 쪽 공격에 대한 관심들은 굉장히 많은 상황이고 전반적으로 사이버전 양상들을 보시게 되면은 주변국으로 확대되고 있는 모양새에요. 공격...</a> <span class="news_writer">권준  기자 | 2022년 04월 08일 01:15</span>]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/20220407dark.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[최근 기업 타깃 해킹 공격 급증... 정부가 제시한 기업의 대응방안은? (보안뉴스 ─ 취약점 경고 및 버그리포트)]]></title>
@@ -1044,20 +1058,6 @@
 					</a><br>
 					<a href="/media/view.asp?idx=105692&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=">2022년 3월 셋째 주, 우리나라에 가장 많이 유포된 악성코드 유형은 1~2년간 가장 높은 비율을 차지하고 있는 개인정보 및 계정정보 탈취 목적의 인포스틸러 악...</a> <span class="news_writer">권준  기자 | 2022년 03월 25일 16:34</span>]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220325AHN-S.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한국인터넷정보센터(KRNIC) 사칭 정보수집 악성 이메일 유포 (보안뉴스 ─ 취약점 경고 및 버그리포트)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105691&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105691&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=</guid>
-            <pubDate>Fri, 25 Mar 2022 07:17:45 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/view.asp?idx=105691&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=">
-					
-					<img src="/media/upFiles2/2022/03/20220325esrc-S.jpg" alt="" class="news_img" height="70">
-					
-					<span class="news_txt">한국인터넷정보센터(KRNIC) 사칭 정보수집 악성 이메일 유포 </span>
-					</a><br>
-					<a href="/media/view.asp?idx=105691&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=">최근 한국인터넷정보센터(KRNIC)를 사칭한 악성 이메일이 발견되어 사용자들의 각별한 주의가 요구된다. 한국인터넷진흥원(KISA)이 운영하는 한국인터넷정보센터는 ...</a> <span class="news_writer">권준  기자 | 2022년 03월 25일 16:12</span>]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220325esrc-S.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[최정식 발행인 칼럼] <시큐리티월드> 통권 300호를 맞아 드리는 감사의 말씀 (보안뉴스 ─ 오피니언)]]></title>

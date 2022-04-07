@@ -4,9 +4,17 @@
         <title>보안뉴스 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Apr 2022 15:19:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Apr 2022 16:26:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[bnTV] 지구는 지금 사이버 세계대전! 우크라이나 전쟁과 다크웹, 그리고 랩서스]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105933&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105933&amp;page=1&amp;kind=1</guid>
+            <pubDate>Thu, 07 Apr 2022 16:23:05 GMT</pubDate>
+            <content:encoded><![CDATA[다크웹에서 우크라이나, 러시아 쪽 공격에 대한 관심들은 굉장히 많은 상황이고 전반적으로 사이버전 양상들을 보시게 되면은 주변국으로 확대되고 있는 모양새에요...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/20220407dark.JPG" length="0" type="image/JPG"/>
+        </item>
         <item>
             <title><![CDATA[Weekly Security Premium Report 제45호 발간! 스프링4셸 취약점 등장]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105929&amp;page=1&amp;kind=1</link>
@@ -80,14 +88,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/rus-thumb-0407.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[하마스의 해커들, 아름다운 여성 사진 이용한 피싱 공격 벌여]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105917&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105917&amp;page=1&amp;kind=1</guid>
-            <pubDate>Thu, 07 Apr 2022 02:53:00 GMT</pubDate>
-            <content:encoded><![CDATA[보안 외신 시큐리티위크에 의하면 이스라엘 고위 관리들을 노리는 하마스의 해커인 APT-C-23이 미인계를 쓰기 시작했다고 한다. 페이스북에서 아름다운 여성...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/21092760_copy_295x190_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[미리보는 SECON & eGISEC 2022] HM COMPANY·엑사비스·엑스게이트]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105930&amp;page=1&amp;kind=3</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105930&amp;page=1&amp;kind=3</guid>
@@ -141,6 +141,14 @@
             <pubDate>Thu, 07 Apr 2022 02:53:00 GMT</pubDate>
             <content:encoded><![CDATA[광범위하고 자동화된 통합 사이버보안 분야의 글로벌 리더인 포티넷코리아(조원균 대표)는 SK텔레콤(대표이사 사장 유영상)이 양자암호 통신장비에 자사의 IPs...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/forti_040701_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[하마스의 해커들, 아름다운 여성 사진 이용한 피싱 공격 벌여]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105917&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105917&amp;page=1&amp;kind=1</guid>
+            <pubDate>Thu, 07 Apr 2022 02:53:00 GMT</pubDate>
+            <content:encoded><![CDATA[보안 외신 시큐리티위크에 의하면 이스라엘 고위 관리들을 노리는 하마스의 해커인 APT-C-23이 미인계를 쓰기 시작했다고 한다. 페이스북에서 아름다운 여성...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/21092760_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘방역 수칙 위반 경찰서 출석요구서’ 사칭한 악성메일 유포중]]></title>
@@ -237,14 +245,6 @@
             <pubDate>Wed, 06 Apr 2022 08:19:42 GMT</pubDate>
             <content:encoded><![CDATA[코로나19로 인해 다양한 산업에서 디지털 전환이 빠르게 이뤄지고 있다. 특히 스마트 인프라 분야에서의 전환은 빠르게 이뤄지고 있는데, 대표적인 적이 바로 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/fortinet_040601_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[시큐어 코딩을 정착시키기 위해서는 조직 전체가 움직여야]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105907&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105907&amp;page=1&amp;kind=1</guid>
-            <pubDate>Wed, 06 Apr 2022 08:19:42 GMT</pubDate>
-            <content:encoded><![CDATA[시큐어 코딩이라는 문화가 개발자와 기업들에 정착하기까지는 아직 한참 남은 것으로 보인다. 하지만 희망은 있다. 조금씩 그 방향으로의 진전이 분명히 이뤄지고...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/coding-thumb-0406.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
