@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-04-07T04:23:30.768Z</updated>
+    <updated>2022-04-07T05:18:20.225Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[최근 기업 타깃 해킹 공격 급증... 정부가 제시한 기업의 대응방안은?]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=105913&amp;page=1&amp;mkind=1&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=105913&amp;page=1&amp;mkind=1&amp;kind=2"/>
+        <updated>2022-04-07T05:15:49.219Z</updated>
+        <content type="html"><![CDATA[최근 러시아와 우크라이나 전쟁으로 인한 사이버공격이 늘어나고, 코로나19로 인한 재택근무에 따른 보안위협이 증가하면서, 기업의 보안위협에 대해 정부가 지원에 나섰다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022년도 ‘ISMS-P 신규 인증심사원’ 자격검정 시행]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=105911&amp;page=1&amp;mkind=1&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=105911&amp;page=1&amp;mkind=1&amp;kind=2"/>
+        <updated>2022-04-07T05:15:49.220Z</updated>
+        <content type="html"><![CDATA[한국인터넷진흥원(KISA, 원장 이원태)은 2022년도 ‘정보보호 및 개인정보보호 관리체계(ISMS-P)’의 신규 인증심사원 자격검정을 7월에 실시하고, 이에 앞서 서류전형 접수를 오는 4월 18일(월)부터 진행한다고 밝혔다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[블록, 이전 근무자가 저지른 악성 행위로 일부 정보 유출돼]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=105921&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=105921&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-04-07T05:15:49.221Z</updated>
+        <content type="html"><![CDATA[간편 금융 앱인 캐시앱(Cash App)의 개발사 블록(Block)이 데이터 유출 사고를 겪었다고 보안 외신 해커뉴스가 보도했다. 블록에 의하면 전 근무자가 캐시앱과 관련된 내부 정보를 다운로드 받은 것이 사건의 전말이라고 한다. 근무자가 다운로드 받은 정보는 블록 고...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[포티넷코리아, SK텔레콤의 양자 암호 통신 장비에 IPsec 게이트웨이 서비스 구축]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=105920&amp;page=1&amp;mkind=1&amp;kind=3</id>
@@ -102,26 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=105907&amp;page=1&amp;mkind=1&amp;kind=1"/>
         <updated>2022-04-06T10:19:43.860Z</updated>
         <content type="html"><![CDATA[시큐어 코딩이라는 문화가 개발자와 기업들에 정착하기까지는 아직 한참 남은 것으로 보인다. 하지만 희망은 있다. 조금씩 그 방향으로의 진전이 분명히 이뤄지고 있다는 증거들이 나오기 시작했기 때문이다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[중국 해커들, VLC 미디어 플레이어 통해 멀웨어 퍼트려]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=105906&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=105906&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-04-06T09:16:49.877Z</updated>
-        <content type="html"><![CDATA[중국 해커들의 오래된 공격 캠페인이 발견됐다고 IT 외신 블리핑컴퓨터가 보도했다. 이 캠페인에서 중국 해커들이 악용한 건 유명 미디어 플레이어 앱인 VLC 미디어 플레이어(VLC Media Player)다. 최대 3개 대륙에서 정부 기관, 법률 기관, 종교 단체, NG...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NSO그룹, 페가수스 사태 터졌어도 계속 거래 진행했다]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=105905&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=105905&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-04-06T08:20:10.835Z</updated>
-        <content type="html"><![CDATA[영국 일간지 가디언에 의하면 페가수스(Pegasus) 스파이웨어에 감염됐던 아이폰 사용자들이, 작년 전 세계가 페가수스 사태에 놀라고 애플이 페가수스의 개발사인 NSO그룹(NSO Group)을 고소한 후에도 계속해서 해킹 공격에 노출됐다고 한다. 소송이 진행되는 와중에...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국제 공조로 최장수 다크웹 시장인 하이드라 폐쇄돼]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=105904&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=105904&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-04-06T08:20:10.837Z</updated>
-        <content type="html"><![CDATA[IT 외신인 더레지스터에 의하면 미국과 독일의 국제 공조로 다크웹 내 최장기 마약 거래 시장인 하이드라(Hydra)가 폐쇄됐다고 한다. 하이드라는 마약만이 아니라 자금 세탁 서비스 업자들도 적잖이 활동했던 곳이라고 한다. 공조팀은 이 과정에서 하이드라의 서버, 암호화폐...]]></content>
     </entry>
 </feed>
