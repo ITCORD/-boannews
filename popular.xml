@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Apr 2022 01:13:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Apr 2022 02:56:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -88,14 +88,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/mine-thumb-0331.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[새로운 로그4셸? 스프링에서 스프링4셸 취약점 발견돼]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105816&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105816&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Fri, 01 Apr 2022 01:19:05 GMT</pubDate>
-            <content:encoded><![CDATA[스프링(Spring)이라는 인기 높은 자바 애플리케이션 프레임워크에서 제로데이 취약점이 발견됐다. 이 취약점에는 스프링4셸(Spring4Shell)이라는 이름이 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/spr-thumb-0331.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[스프링4셸 취약점, 전제 조건 많이 붙어 익스플로잇 까다로워]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105890&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105890&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
@@ -136,14 +128,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/rus-uk-thumb-0401.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[구글 크롬 브라우저, 대규모 보안 업데이트 실시]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105818&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105818&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Mon, 04 Apr 2022 03:03:08 GMT</pubDate>
-            <content:encoded><![CDATA[보안 외신 시큐리티위크에 따르면 이번 주 구글이 자사의 크롬 브라우저를 위한 대규모 패치를 실시했다고 한다. 이번에 해결된 취약점은 총 28개인데 이 중 꽤나 위...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/up-thumb-0331.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[월드오브워크래프트와 포트나이트는 미래 메타버스의 힌트다]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105854&amp;page=1&amp;kind=4&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105854&amp;page=1&amp;kind=4&amp;search=title&amp;find=</guid>
@@ -160,12 +144,28 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220403cctv-s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[대한임상건강증진학회 ‘코로나19 백신 알림’ 사칭 北 연계 해킹 공격]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105840&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105840&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Thu, 07 Apr 2022 02:53:14 GMT</pubDate>
+            <content:encoded><![CDATA[최근 대한임상건강증진학회의 코로나19 백신 알림으로 위장한 北 연계 해킹 공격이 발견돼 각별한 주의가 요구된다고 보안 전문 기업 이스트시큐리티(대표 정진일)가 밝...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/est_040101_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[러-우 전쟁에서 파생된 사이버 공격 캠페인, BitB 기법 사용]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105843&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105843&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Thu, 07 Apr 2022 01:10:41 GMT</pubDate>
             <content:encoded><![CDATA[고스트라이터(Ghostwriter)라는 해킹 단체가 '브라우저 내 브라우저(BitB)' 기법을 활용한 피싱 공격을 실시해 크리덴셜을 훔치는 것이 발견됐다고 구글의...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/bitb-thumb-0401.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[게임 기술? 일하는 방식을 완전히 바꿔놓을 기술! 가상현실]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105836&amp;page=1&amp;kind=4&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105836&amp;page=1&amp;kind=4&amp;search=title&amp;find=</guid>
+            <pubDate>Thu, 07 Apr 2022 02:53:14 GMT</pubDate>
+            <content:encoded><![CDATA[지금쯤 메타버스라는 말을 못 들어본 사람은 없을 것이다. 사용자들끼리 실제 물리적 공간에서 있을 법한 경험을 하게 되는 가상현실의 세계 말이다. 거기에는 이 세상...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/vr-thumb-0331.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
