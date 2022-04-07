@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Apr 2022 02:56:16 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Apr 2022 03:31:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[최근 기업 타깃 해킹 공격 급증... 정부가 제시한 기업의 대응방안은? (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105913&amp;page=1&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105913&amp;page=1&amp;kind=2</guid>
+            <pubDate>Thu, 07 Apr 2022 03:28:15 GMT</pubDate>
+            <content:encoded><![CDATA[최근 러시아와 우크라이나 전쟁으로 인한 사이버공격이 늘어나고, 코로나19로 인한 재택근무에 따른 보안위협이 증가하면서, 기업의 보안위협에 대해 정부가 지원...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/20799393_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022년도 ‘ISMS-P 신규 인증심사원’ 자격검정 시행 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105911&amp;page=1&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105911&amp;page=1&amp;kind=2</guid>
+            <pubDate>Thu, 07 Apr 2022 03:28:15 GMT</pubDate>
+            <content:encoded><![CDATA[한국인터넷진흥원(KISA, 원장 이원태)은 2022년도 ‘정보보호 및 개인정보보호 관리체계(ISMS-P)’의 신규 인증심사원 자격검정을 7월에 실시하고, ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/kisa_040701_main.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[블록, 이전 근무자가 저지른 악성 행위로 일부 정보 유출돼 (보안뉴스 ─ 전체기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105921&amp;page=1&amp;kind=1</link>
@@ -72,22 +88,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/nis_040701_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[윈도 보안, 단순하되 강력하게, 칩셋부터 클라우드까지 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105909&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105909&amp;page=1&amp;kind=1</guid>
-            <pubDate>Wed, 06 Apr 2022 10:19:15 GMT</pubDate>
-            <content:encoded><![CDATA[마이크로소프트가 이번 주 화요일(미국 기준) 윈도 11 장비에 탑재될 다양한 보안 기능들에 대하여 발표했다. 윈도 11의 보안은 전체적으로 하이브리드 환경...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/win-thumb-0406.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[현실화된 OT보안 위협, 광범위하고 통합적이며 자동화된 대응이 필요하다 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105908&amp;page=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105908&amp;page=1&amp;kind=3</guid>
-            <pubDate>Wed, 06 Apr 2022 08:19:42 GMT</pubDate>
-            <content:encoded><![CDATA[코로나19로 인해 다양한 산업에서 디지털 전환이 빠르게 이뤄지고 있다. 특히 스마트 인프라 분야에서의 전환은 빠르게 이뤄지고 있는데, 대표적인 적이 바로 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/fortinet_040601_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[포티넷코리아, SK텔레콤의 양자 암호 통신 장비에 IPsec 게이트웨이 서비스 구축 (보안뉴스 ─ 전체기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105920&amp;page=1&amp;kind=3</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105920&amp;page=1&amp;kind=3</guid>
@@ -128,6 +128,14 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/IBM_040701_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[윈도 보안, 단순하되 강력하게, 칩셋부터 클라우드까지 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105909&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105909&amp;page=1&amp;kind=1</guid>
+            <pubDate>Wed, 06 Apr 2022 10:19:15 GMT</pubDate>
+            <content:encoded><![CDATA[마이크로소프트가 이번 주 화요일(미국 기준) 윈도 11 장비에 탑재될 다양한 보안 기능들에 대하여 발표했다. 윈도 11의 보안은 전체적으로 하이브리드 환경...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/win-thumb-0406.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[미리보는 SECON & eGISEC 2022] 시큐어가드테크놀러지·아스트론시큐리티·ICTK홀딩스 (보안뉴스 ─ 전체기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105898&amp;page=1&amp;kind=3</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105898&amp;page=1&amp;kind=3</guid>
@@ -150,6 +158,14 @@
             <pubDate>Wed, 06 Apr 2022 09:16:17 GMT</pubDate>
             <content:encoded><![CDATA[물리보안과 사이버보안을 아우르는 국내 최대 통합보안 전시회인 제21회 세계보안엑스포(SECON &amp; eGISEC 2022)는 4월 20일부터 22일까지 3일...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/SECON%20eGISEC%202022.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[현실화된 OT보안 위협, 광범위하고 통합적이며 자동화된 대응이 필요하다 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105908&amp;page=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105908&amp;page=1&amp;kind=3</guid>
+            <pubDate>Wed, 06 Apr 2022 08:19:42 GMT</pubDate>
+            <content:encoded><![CDATA[코로나19로 인해 다양한 산업에서 디지털 전환이 빠르게 이뤄지고 있다. 특히 스마트 인프라 분야에서의 전환은 빠르게 이뤄지고 있는데, 대표적인 적이 바로 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/fortinet_040601_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[시큐어 코딩을 정착시키기 위해서는 조직 전체가 움직여야 (보안뉴스 ─ 전체기사)]]></title>
@@ -231,22 +247,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/ahn_0406_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[스파이스웨어, 비대면 서비스 바우처와 클라우드 서비스 바우처 공급기업 동시 선정 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105895&amp;page=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105895&amp;page=1&amp;kind=3</guid>
-            <pubDate>Wed, 06 Apr 2022 01:10:57 GMT</pubDate>
-            <content:encoded><![CDATA[제로 트러스트 보안 스타트업 스파이스웨어는 정부의 비대면 서비스 바우처 사업과 클라우드 서비스 바우처 사업의 공급 기업으로 동시 선정됐다고 6일 밝혔다.]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/spice_040601_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[체크포인트 소프트웨어 테크놀로지스, 전수홍 지사장 선임 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105894&amp;page=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105894&amp;page=1&amp;kind=3</guid>
-            <pubDate>Wed, 06 Apr 2022 01:10:57 GMT</pubDate>
-            <content:encoded><![CDATA[글로벌 사이버 보안 선도기업 체크포인트 소프트웨어 테크놀로지스(지사장 전수홍)가 한국 지사의 비즈니스를 이끌 수장으로 전수홍 지사장을 선임했다. 전수홍 지...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/check_040601_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[로그4셸과 닮은꼴? 웹 앱 프레임워크인 스프링에서 나온 스프링4셸 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105823&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105823&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
@@ -301,14 +301,6 @@
             <pubDate>Tue, 05 Apr 2022 07:16:11 GMT</pubDate>
             <content:encoded><![CDATA[애플의 장비와 기술들이 점점 더 많은 비즈니스 현장에 도입되고 있다. 그에 따라 보안 전문가들의 관심을 요구하는 사건들 역시 점점 늘어나고 있다. 그 중 가장 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/apple-thumb-0404.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[중소기업 사이버보안 면역력 강화 ‘내서버 돌보미’로 지원한다 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105814&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105814&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
-            <pubDate>Fri, 01 Apr 2022 08:21:52 GMT</pubDate>
-            <content:encoded><![CDATA[과학기술정보통신부(장관 임혜숙, 이하 ‘과기정통부’)는 한국인터넷진흥원(원장 이원태, 이하 ‘KISA’)과 함께 중소기업의 사이버보안 면역력 강화를 위해 기업 서...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/msit_033102_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[마이크로소프트, ‘사이버 보안 스킬 캠페인’ 한국 포함 23개국 확대 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
@@ -405,6 +397,28 @@
             <pubDate>Thu, 07 Apr 2022 02:53:14 GMT</pubDate>
             <content:encoded><![CDATA[지금쯤 메타버스라는 말을 못 들어본 사람은 없을 것이다. 사용자들끼리 실제 물리적 공간에서 있을 법한 경험을 하게 되는 가상현실의 세계 말이다. 거기에는 이 세상...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/vr-thumb-0331.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Weekly Security Premium Report 제44호 발간! 클라우드 도입요령과 비용절감 방안 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105834&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105834&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
+            <pubDate>Thu, 07 Apr 2022 03:28:32 GMT</pubDate>
+            <content:encoded><![CDATA[3월 31일 발간된 ‘Weekly Security Premium Report’ 제44호에는 &lt;보안 심층 리포트&gt; 코너에서는  최근 디지털 대전환 시대와...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220331REPORT-SM.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[포티넷코리아, SK텔레콤의 양자 암호 통신 장비에 IPsec 게이트웨이 서비스 구축 (보안뉴스 ─ SECURITY)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105920&amp;page=1&amp;mkind=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105920&amp;page=1&amp;mkind=1&amp;kind=3</guid>
+            <pubDate>Thu, 07 Apr 2022 03:28:48 GMT</pubDate>
+            <content:encoded><![CDATA[광범위하고 자동화된 통합 사이버보안 분야의 글로벌 리더인 포티넷코리아(조원균 대표)는 SK텔레콤(대표이사 사장 유영상)이 양자암호 통신장비에 자사의 IPsec 게이트웨이(Gateway, GW)를 구축해 보다 강력하고 차별화된 보안환경을 구현했다고 밝혔다.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[팔로알토의 방화벽과 VPN, 오픈SSL 버그에 취약해 (보안뉴스 ─ SECURITY)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105919&amp;page=1&amp;mkind=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105919&amp;page=1&amp;mkind=1&amp;kind=1</guid>
+            <pubDate>Thu, 07 Apr 2022 03:28:48 GMT</pubDate>
+            <content:encoded><![CDATA[보안 업체 팔로알토 네트웍스(Palo Alto Networks)가 고객들에게 경고문을 발송했다고 IT 외신인 블리핑컴퓨터가 보도했다. 팔로알토에서 만든 방화벽과 VPN 제품 일부에서 고위험군 오픈SSL(OpenSSL) 취약점이 발견됐다는 내용이다. 문제의 취약점은 CV...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[왓츠앱 음성 메시지 기능 활용한 악성 피싱 캠페인 발견돼 (보안뉴스 ─ SECURITY)]]></title>
@@ -510,20 +524,6 @@
             <guid>https://www.boannews.com/media/view.asp?idx=105904&amp;page=1&amp;mkind=1&amp;kind=1</guid>
             <pubDate>Wed, 06 Apr 2022 08:20:10 GMT</pubDate>
             <content:encoded><![CDATA[IT 외신인 더레지스터에 의하면 미국과 독일의 국제 공조로 다크웹 내 최장기 마약 거래 시장인 하이드라(Hydra)가 폐쇄됐다고 한다. 하이드라는 마약만이 아니라 자금 세탁 서비스 업자들도 적잖이 활동했던 곳이라고 한다. 공조팀은 이 과정에서 하이드라의 서버, 암호화폐...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[한국인터넷진흥원, 울진 산불피해 복구를 위한 성금 전달 (보안뉴스 ─ SECURITY)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105903&amp;page=1&amp;mkind=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105903&amp;page=1&amp;mkind=1&amp;kind=2</guid>
-            <pubDate>Wed, 06 Apr 2022 08:20:10 GMT</pubDate>
-            <content:encoded><![CDATA[한국인터넷진흥원(KISA, 원장 이원태)이 울진 산불피해 지역 복구를 위해 성금 500만 원을 전달했다고 4월 6일(수) 밝혔다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[미리보는 SECON & eGISEC 2022] 스패로우·시큐레이어·시큐레터 (보안뉴스 ─ SECURITY)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105878&amp;page=1&amp;mkind=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105878&amp;page=1&amp;mkind=1&amp;kind=3</guid>
-            <pubDate>Wed, 06 Apr 2022 08:20:10 GMT</pubDate>
-            <content:encoded><![CDATA[물리보안과 사이버보안을 아우르는 국내 최대 통합보안 전시회인 제21회 세계보안엑스포(SECON &amp; eGISEC 2022)는 4월 20일부터 22일까지 3일간 일산 킨텍스 제1전시장 3~5홀에서 개최된다. SECON &amp; eGISEC 2022는 공식 홈페이지를 통해 사전등...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[와이파이 기술의 최신 트렌드, 미래를 구현하기 위한 발맞춤 (보안뉴스 ─ IT)]]></title>
@@ -778,6 +778,20 @@
             <pubDate>Thu, 07 Apr 2022 02:53:56 GMT</pubDate>
             <content:encoded><![CDATA[물리보안과 사이버보안을 아우르는 국내 최대 통합보안 전시회인 제21회 세계보안엑스포(SECON &amp; eGISEC 2022)는 4월 20일부터 22일까지 3일...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/SECON%20eGISEC%202022(1).jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[최근 기업 타깃 해킹 공격 급증... 정부가 제시한 기업의 대응방안은? (보안뉴스 ─ 취약점 경고 및 버그리포트)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105913&amp;page=1&amp;mkind=&amp;kind=2&amp;skind=5&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105913&amp;page=1&amp;mkind=&amp;kind=2&amp;skind=5&amp;search=title&amp;find=</guid>
+            <pubDate>Thu, 07 Apr 2022 03:29:35 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/view.asp?idx=105913&amp;page=1&amp;mkind=&amp;kind=2&amp;skind=5&amp;search=title&amp;find=">
+					
+					<img src="/media/upFiles2/2022/04/20799393_main.jpg" alt="" class="news_img" height="70">
+					
+					<span class="news_txt">최근 기업 타깃 해킹 공격 급증... 정부가 제시한 기업의 대응방안은? </span>
+					</a><br>
+					<a href="/media/view.asp?idx=105913&amp;page=1&amp;mkind=&amp;kind=2&amp;skind=5&amp;search=title&amp;find=">최근 러시아와 우크라이나 전쟁으로 인한 사이버공격이 늘어나고, 코로나19로 인한 재택근무에 따른 보안위협이 증가하면서, 기업의 보안위협에 대해 정부가 지원에 나섰...</a> <span class="news_writer">원병철 기자 | 2022년 04월 07일 12:09</span>]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/20799393_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘방역 수칙 위반 경찰서 출석요구서’ 사칭한 악성메일 유포중 (보안뉴스 ─ 취약점 경고 및 버그리포트)]]></title>
@@ -1044,20 +1058,6 @@
 					</a><br>
 					<a href="/media/view.asp?idx=105690&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=">최근 코로나19로 매출이 줄어든 소상공인 등 금전적 어려움을 겪는 서민들이 늘어난 요즘, 이들을 대상으로 대출을 미끼로한 악성행위를 하는 앱이 늘어나고 있어 주의...</a> <span class="news_writer">원병철 기자 | 2022년 03월 25일 14:21</span>]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/est_032502_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LG CNS, ‘간편인증’ 보안 취약점 가이드 제시 (보안뉴스 ─ 취약점 경고 및 버그리포트)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105660&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105660&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=</guid>
-            <pubDate>Fri, 25 Mar 2022 02:46:00 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/view.asp?idx=105660&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=">
-					
-					<img src="/media/upFiles2/2022/03/lg_032801_main.jpg" alt="" class="news_img" height="70">
-					
-					<span class="news_txt">LG CNS, ‘간편인증’ 보안 취약점 가이드 제시</span>
-					</a><br>
-					<a href="/media/view.asp?idx=105660&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=">DX전문기업 LG CNS가 온라인상의 신원을 확인하고 인증하는 ‘간편인증’ 서비스의 심각한 보안 취약점을 경고하고, 이에 대한 대응책을 제시했다. LG CNS의 ...</a> <span class="news_writer">원병철 기자 | 2022년 03월 25일 11:06</span>]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/lg_032801_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[최정식 발행인 칼럼] <시큐리티월드> 통권 300호를 맞아 드리는 감사의 말씀 (보안뉴스 ─ 오피니언)]]></title>
@@ -1620,6 +1620,34 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2021/08/jung_083101_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[최근 기업 타깃 해킹 공격 급증... 정부가 제시한 기업의 대응방안은? (보안뉴스 ─ 정책)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105913&amp;page=1&amp;mkind=&amp;kind=2&amp;skind=6&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105913&amp;page=1&amp;mkind=&amp;kind=2&amp;skind=6&amp;search=title&amp;find=</guid>
+            <pubDate>Thu, 07 Apr 2022 03:30:11 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/view.asp?idx=105913&amp;page=1&amp;mkind=&amp;kind=2&amp;skind=6&amp;search=title&amp;find=">
+					
+					<img src="/media/upFiles2/2022/04/20799393_main.jpg" alt="" class="news_img" height="70">
+					
+					<span class="news_txt">최근 기업 타깃 해킹 공격 급증... 정부가 제시한 기업의 대응방안은? </span>
+					</a><br>
+					<a href="/media/view.asp?idx=105913&amp;page=1&amp;mkind=&amp;kind=2&amp;skind=6&amp;search=title&amp;find=">최근 러시아와 우크라이나 전쟁으로 인한 사이버공격이 늘어나고, 코로나19로 인한 재택근무에 따른 보안위협이 증가하면서, 기업의 보안위협에 대해 정부가 지원에 나섰...</a> <span class="news_writer">원병철 기자 | 2022년 04월 07일 12:09</span>]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/20799393_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022년도 ‘ISMS-P 신규 인증심사원’ 자격검정 시행 (보안뉴스 ─ 정책)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105911&amp;page=1&amp;mkind=&amp;kind=2&amp;skind=6&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105911&amp;page=1&amp;mkind=&amp;kind=2&amp;skind=6&amp;search=title&amp;find=</guid>
+            <pubDate>Thu, 07 Apr 2022 03:30:11 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/view.asp?idx=105911&amp;page=1&amp;mkind=&amp;kind=2&amp;skind=6&amp;search=title&amp;find=">
+					
+					<img src="/media/upFiles2/2022/04/kisa_040701_main.jpg" alt="" class="news_img" height="70">
+					
+					<span class="news_txt">2022년도 ‘ISMS-P 신규 인증심사원’ 자격검정 시행</span>
+					</a><br>
+					<a href="/media/view.asp?idx=105911&amp;page=1&amp;mkind=&amp;kind=2&amp;skind=6&amp;search=title&amp;find=">한국인터넷진흥원(KISA, 원장 이원태)은 2022년도 ‘정보보호 및 개인정보보호 관리체계(ISMS-P)’의 신규 인증심사원 자격검정을 7월에 실시하고, 이에 앞...</a> <span class="news_writer">원병철 기자 | 2022년 04월 07일 12:02</span>]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/kisa_040701_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[국가정보원, 국내 가상자산거래소와 사이버위협정보 공유 및 협력 (보안뉴스 ─ 정책)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105914&amp;page=1&amp;mkind=&amp;kind=2&amp;skind=6&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105914&amp;page=1&amp;mkind=&amp;kind=2&amp;skind=6&amp;search=title&amp;find=</guid>
@@ -1870,34 +1898,6 @@
 					</a><br>
 					<a href="/media/view.asp?idx=105264&amp;page=1&amp;mkind=&amp;kind=2&amp;skind=6&amp;search=title&amp;find=">최첨단 디지털 기술과 인공지능(AI)을 적용한 자율운항선박의 개념이 조선해양 및 해운항만 분야에 등장하면서 자율운항선박 시대 도입을 위한 보안체계 준비가 시급해졌...</a> <span class="news_writer">원병철 기자 | 2022년 03월 07일 00:09</span>]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/21767900_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전체 방산업체 대상 사이버보안 취약점 진단 사업 실시 (보안뉴스 ─ 정책)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105245&amp;page=1&amp;mkind=&amp;kind=2&amp;skind=6&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105245&amp;page=1&amp;mkind=&amp;kind=2&amp;skind=6&amp;search=title&amp;find=</guid>
-            <pubDate>Sat, 05 Mar 2022 02:37:17 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/view.asp?idx=105245&amp;page=1&amp;mkind=&amp;kind=2&amp;skind=6&amp;search=title&amp;find=">
-					
-					<img src="/media/upFiles2/2022/03/20220305army-s.jpg" alt="" class="news_img" height="70">
-					
-					<span class="news_txt">전체 방산업체 대상 사이버보안 취약점 진단 사업 실시</span>
-					</a><br>
-					<a href="/media/view.asp?idx=105245&amp;page=1&amp;mkind=&amp;kind=2&amp;skind=6&amp;search=title&amp;find=">방위사업청은 모든 방산업체(현재 85개)를 대상으로 한 사이버보안 취약점 진단 사업을 실시한다고 밝혔다. 사이버보안 취약점 진단 사업은 방산업체에서 운영 중인 인...</a> <span class="news_writer">박미영 기자 | 2022년 03월 05일 10:48</span>]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220305army-s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[읽지 않고 동의하는 ‘개인정보 동의서’ 확 바뀐다 (보안뉴스 ─ 정책)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105199&amp;page=1&amp;mkind=&amp;kind=2&amp;skind=6&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105199&amp;page=1&amp;mkind=&amp;kind=2&amp;skind=6&amp;search=title&amp;find=</guid>
-            <pubDate>Thu, 03 Mar 2022 04:21:17 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/view.asp?idx=105199&amp;page=1&amp;mkind=&amp;kind=2&amp;skind=6&amp;search=title&amp;find=">
-					
-					<img src="/media/upFiles2/2022/03/20220303privacy-s.jpg" alt="" class="news_img" height="70">
-					
-					<span class="news_txt">읽지 않고 동의하는 ‘개인정보 동의서’ 확 바뀐다 </span>
-					</a><br>
-					<a href="/media/view.asp?idx=105199&amp;page=1&amp;mkind=&amp;kind=2&amp;skind=6&amp;search=title&amp;find=">그동안 귀찮아서, 혹은 글자가 너무 많거나 작아서 제대로 읽지 않고 동의하던 ‘개인정보 동의서’가 앞으로 확 바뀔 전망이다. 개인정보보호위원회(위원장 윤종인, 이...</a> <span class="news_writer">원병철 기자 | 2022년 03월 03일 13:12</span>]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220303privacy-s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[블록, 이전 근무자가 저지른 악성 행위로 일부 정보 유출돼 (보안뉴스 ─ 국제)]]></title>
