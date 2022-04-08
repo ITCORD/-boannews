@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Apr 2022 23:20:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Apr 2022 01:10:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -120,14 +120,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220403cctv-s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[대한임상건강증진학회 ‘코로나19 백신 알림’ 사칭 北 연계 해킹 공격]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105840&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105840&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Thu, 07 Apr 2022 02:53:14 GMT</pubDate>
-            <content:encoded><![CDATA[최근 대한임상건강증진학회의 코로나19 백신 알림으로 위장한 北 연계 해킹 공격이 발견돼 각별한 주의가 요구된다고 보안 전문 기업 이스트시큐리티(대표 정진일)가 밝...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/est_040101_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[러-우 전쟁에서 파생된 사이버 공격 캠페인, BitB 기법 사용]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105843&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105843&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
@@ -166,6 +158,14 @@
             <pubDate>Thu, 07 Apr 2022 08:21:07 GMT</pubDate>
             <content:encoded><![CDATA[보안 외신 해커뉴스에 의하면 옥스포드대학의 연구원들이 CCS라는 전기자동차 충전 독에 대한 해킹 공격 기법을 발견했다고 한다. 이 공격에 성공할 경우 CCS를 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/charge-thumb-0405.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[애플의 맥 사용하는 사람들 중 최대 40%가 제로데이 공격에 노출돼]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105925&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105925&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Fri, 08 Apr 2022 01:08:00 GMT</pubDate>
+            <content:encoded><![CDATA[전 세계 맥 시스템의 35~40%가 침해의 가능성에 노출되어 있다는 경고가 나왔다. 두 가지 제로데이 취약점 때문이다. 두 개 다 실제 해킹 공격에 악용되고 있으...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/apple-thumb-0407.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
