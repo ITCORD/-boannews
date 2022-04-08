@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-04-08T01:10:37.489Z</updated>
+    <updated>2022-04-08T03:04:23.651Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[줌, 지난 한 해 버그바운티로 180만 달러 지급]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=105938&amp;page=1&amp;mkind=1&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=105938&amp;page=1&amp;mkind=1&amp;kind=3"/>
+        <updated>2022-04-08T03:01:09.647Z</updated>
+        <content type="html"><![CDATA[줌(Zoom Video Communications)이 2019년 버그바운티 프로그램을 시작한 이래 버그 리포트에 대한 보상으로 미화 240만 달러(한화 약 29억 2,000만원)가 넘는 상금과 선물을 지불했다고 밝혔다. 특히 줌은 2021년 401개 리포트에 대한 보상...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[케이사인, PKI기반 블록체인 솔루션 ‘위즈체인’ 조달 등록]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=105937&amp;page=1&amp;mkind=1&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=105937&amp;page=1&amp;mkind=1&amp;kind=3"/>
+        <updated>2022-04-08T03:01:09.647Z</updated>
+        <content type="html"><![CDATA[정보보안 전문업체 케이사인(대표 최승락)은 블록체인 구축 및 관리 솔루션 ‘위즈체인(WizChain)’을 개발하고 조달청 국가종합전자조달시스템인 나라장터에 등재했다고 8일 밝혔다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[고려대 융합보안대학원 컴퓨터보안 전공, 2022학년도 후기 신입생 모집]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=105935&amp;page=1&amp;mkind=1&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=105935&amp;page=1&amp;mkind=1&amp;kind=3"/>
+        <updated>2022-04-08T03:01:09.650Z</updated>
+        <content type="html"><![CDATA[고려대학교 융합보안대학원(일반대학원 컴퓨터학과 컴퓨터보안전공)이 2022학년도 후기 석·박사 과정 신입생을 모집한다. 원서접수 기간은 4월 4일부터 4월 18일 오후 5시까지다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[bnTV] 지구는 지금 사이버 세계대전! 우크라 전쟁과 다크웹, 그리고 랩서스]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=105933&amp;page=1&amp;mkind=1&amp;kind=1</id>
@@ -102,26 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=105920&amp;page=1&amp;mkind=1&amp;kind=3"/>
         <updated>2022-04-07T03:28:48.112Z</updated>
         <content type="html"><![CDATA[광범위하고 자동화된 통합 사이버보안 분야의 글로벌 리더인 포티넷코리아(조원균 대표)는 SK텔레콤(대표이사 사장 유영상)이 양자암호 통신장비에 자사의 IPsec 게이트웨이(Gateway, GW)를 구축해 보다 강력하고 차별화된 보안환경을 구현했다고 밝혔다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[팔로알토의 방화벽과 VPN, 오픈SSL 버그에 취약해]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=105919&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=105919&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-04-07T03:28:48.112Z</updated>
-        <content type="html"><![CDATA[보안 업체 팔로알토 네트웍스(Palo Alto Networks)가 고객들에게 경고문을 발송했다고 IT 외신인 블리핑컴퓨터가 보도했다. 팔로알토에서 만든 방화벽과 VPN 제품 일부에서 고위험군 오픈SSL(OpenSSL) 취약점이 발견됐다는 내용이다. 문제의 취약점은 CV...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[왓츠앱 음성 메시지 기능 활용한 악성 피싱 캠페인 발견돼]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=105918&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=105918&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-04-07T02:53:27.618Z</updated>
-        <content type="html"><![CDATA[보안 외신 스레트포스트가 최근 발견된 악성 피싱 캠페인에 대해 보도했다. 공격자들이 노리는 건 마이크로소프트 365와 구글 워크스페이스 계정들이다. 공격자들은 모스크바에 있는 것으로 알려진 교통안전센터(Center for Road Safety)의 정상 도메인으로부터 피...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[하마스의 해커들, 아름다운 여성 사진 이용한 피싱 공격 벌여]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=105917&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=105917&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-04-07T02:53:27.622Z</updated>
-        <content type="html"><![CDATA[보안 외신 시큐리티위크에 의하면 이스라엘 고위 관리들을 노리는 하마스의 해커인 APT-C-23이 미인계를 쓰기 시작했다고 한다. 페이스북에서 아름다운 여성으로 둔갑하여 표적들에 접근한 뒤 멀웨어를 퍼트리는 작전을 펼치는 중이다. 먼저는 비밀리에 대화를 나눌 수 있다며 ...]]></content>
     </entry>
 </feed>

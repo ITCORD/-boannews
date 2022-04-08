@@ -4,9 +4,65 @@
         <title>보안뉴스 ─ 국제</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Apr 2022 01:10:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Apr 2022 03:04:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[수많은 삼성 안드로이드 장비들에서 위험한 취약점 발견돼]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105944&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105944&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
+            <pubDate>Fri, 08 Apr 2022 03:03:30 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/view.asp?idx=105944&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
+					
+					<img src="/media/upFiles2/2022/04/android-thumb-0408.jpg" alt="" class="news_img" height="70">
+					
+					<span class="news_txt">수많은 삼성 안드로이드 장비들에서 위험한 취약점 발견돼</span>
+					</a><br>
+					<a href="/media/view.asp?idx=105944&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">보안 블로그 시큐리티어페어즈에 의하면 안드로이드 9, 10, 11, 12를 기반으로 한 장비들에서 CVE-2022-22292라는 취약점이 발견됐다고 한다. 익스플...</a> <span class="news_writer">문가용 기자 | 2022년 04월 08일 12:02</span>]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/android-thumb-0408.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[AWS 람다 서버리스 플랫폼 노리는 최초의 멀웨어 발견돼]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105943&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105943&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
+            <pubDate>Fri, 08 Apr 2022 03:03:30 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/view.asp?idx=105943&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
+					
+					<img src="/media/upFiles2/2022/04/serverless-thumb-0408.jpg" alt="" class="news_img" height="70">
+					
+					<span class="news_txt">AWS 람다 서버리스 플랫폼 노리는 최초의 멀웨어 발견돼</span>
+					</a><br>
+					<a href="/media/view.asp?idx=105943&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">보안 외신 해커뉴스에 의하면 AWS 람다(AWS Lambda)라는 서버리스 플랫폼을 전문적으로 겨냥하는 멀웨어가 최초로 발견됐다고 한다. 이 플랫폼만을 노리는 멀...</a> <span class="news_writer">문가용 기자 | 2022년 04월 08일 12:00</span>]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/serverless-thumb-0408.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[핀7 해킹 그룹 일원, 미국에서 5년 형 선고 받아]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105942&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105942&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
+            <pubDate>Fri, 08 Apr 2022 03:03:30 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/view.asp?idx=105942&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
+					
+					<img src="/media/upFiles2/2022/04/arrest-thumb-0408.jpg" alt="" class="news_img" height="70">
+					
+					<span class="news_txt">핀7 해킹 그룹 일원, 미국에서 5년 형 선고 받아</span>
+					</a><br>
+					<a href="/media/view.asp?idx=105942&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find="> 악명 높은 해킹 범죄 단체인 핀7(FIN7)에 소속되어 침투 테스트를 담당했던 인물인 데니스 이아르막(Denys Iarmak)이 미국 법정에서 5년 형을 선고받...</a> <span class="news_writer">문가용 기자 | 2022년 04월 08일 11:59</span>]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/arrest-thumb-0408.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[유명 핀테크 플랫폼의 API에서 SSRF 오류 발견돼]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105941&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105941&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
+            <pubDate>Fri, 08 Apr 2022 03:03:30 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/view.asp?idx=105941&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
+					
+					<img src="/media/upFiles2/2022/04/fin-thumb-0408.jpg" alt="" class="news_img" height="70">
+					
+					<span class="news_txt">유명 핀테크 플랫폼의 API에서 SSRF 오류 발견돼</span>
+					</a><br>
+					<a href="/media/view.asp?idx=105941&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">유명 금융 및 핀테크 플랫폼의 API에서 서버 사이드 요청 조작(Server Side Request Forgery, SSRF) 취약점이 발견됐다고 보안 외신 쓰레...</a> <span class="news_writer">문가용 기자 | 2022년 04월 08일 11:57</span>]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/fin-thumb-0408.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[팬데믹 통해 떠오른 줌, 버그바운티 상금도 4배나 많이 지출해]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105927&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
@@ -230,62 +286,6 @@
 					</a><br>
 					<a href="/media/view.asp?idx=105885&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">보안 블로그 시큐리티어페어즈가 VM웨어(VMware)의 패치에 대한 소식을 전달하고 있다. 최근 발견된 스프링4셸(Spring4Shell) 취약점을 자사 제품들로...</a> <span class="news_writer">문가용 기자 | 2022년 04월 05일 11:47</span>]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/spring-thumb-0405.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전기자동차 충전 독 CCS, 해킹 공격에 취약할 수 있어]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105884&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105884&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
-            <pubDate>Tue, 05 Apr 2022 02:56:18 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/view.asp?idx=105884&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
-					
-					<img src="/media/upFiles2/2022/04/charge-thumb-0405.jpg" alt="" class="news_img" height="70">
-					
-					<span class="news_txt">전기자동차 충전 독 CCS, 해킹 공격에 취약할 수 있어</span>
-					</a><br>
-					<a href="/media/view.asp?idx=105884&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find="> 보안 외신 해커뉴스에 의하면 옥스포드대학의 연구원들이 CCS라는 전기자동차 충전 독에 대한 해킹 공격 기법을 발견했다고 한다. 이 공격에 성공할 경우 CCS를 ...</a> <span class="news_writer">문가용 기자 | 2022년 04월 05일 11:46</span>]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/charge-thumb-0405.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[비스트모드 봇넷, 토토링크 라우터들을 집중적으로 노려]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105883&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105883&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
-            <pubDate>Tue, 05 Apr 2022 02:56:18 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/view.asp?idx=105883&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
-					
-					<img src="/media/upFiles2/2022/04/bm-thumb-0405.jpg" alt="" class="news_img" height="70">
-					
-					<span class="news_txt">비스트모드 봇넷, 토토링크 라우터들을 집중적으로 노려</span>
-					</a><br>
-					<a href="/media/view.asp?idx=105883&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">보안 외신 시큐리트위크가 새롭게 나타난 비스트모드(Beastmode) 봇넷에 대하여 보도했다. 이에 의하면 비스트모드는 디도스 공격을 전문으로 하는 유명 봇넷 미...</a> <span class="news_writer">문가용 기자 | 2022년 04월 05일 11:45</span>]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/bm-thumb-0405.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[깃허브, API 키와 인증 토큰 포함된 커밋들을 자동으로 차단]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105882&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105882&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
-            <pubDate>Tue, 05 Apr 2022 02:56:18 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/view.asp?idx=105882&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
-					
-					<img src="/media/upFiles2/2022/04/scan-thumb-0405.jpg" alt="" class="news_img" height="70">
-					
-					<span class="news_txt">깃허브, API 키와 인증 토큰 포함된 커밋들을 자동으로 차단</span>
-					</a><br>
-					<a href="/media/view.asp?idx=105882&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find="> IT 외신인 블리핑컴퓨터에 의하면 코드 공유 사이트인 깃허브(GitHub)가 새로운 기능을 도입했다고 한다. 푸시 프로텍션(Push Protection)이라고 ...</a> <span class="news_writer">문가용 기자 | 2022년 04월 05일 11:43</span>]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/scan-thumb-0405.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[월드오브워크래프트와 포트나이트는 미래 메타버스의 힌트다]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105854&amp;page=1&amp;mkind=&amp;kind=4&amp;skind=D&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105854&amp;page=1&amp;mkind=&amp;kind=4&amp;skind=D&amp;search=title&amp;find=</guid>
-            <pubDate>Tue, 05 Apr 2022 01:08:43 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/view.asp?idx=105854&amp;page=1&amp;mkind=&amp;kind=4&amp;skind=D&amp;search=title&amp;find=">
-					
-					<img src="/media/upFiles2/2022/04/game-thumb-0403.jpg" alt="" class="news_img" height="70">
-					
-					<span class="news_txt">월드오브워크래프트와 포트나이트는 미래 메타버스의 힌트다</span>
-					</a><br>
-					<a href="/media/view.asp?idx=105854&amp;page=1&amp;mkind=&amp;kind=4&amp;skind=D&amp;search=title&amp;find=">최근 에픽게임즈(Epic Games)의 CEO인 팀 스위니(Tim Sweeney)는 메타버스가 수십 년 안에 수조 달러의 경제 규모를 갖출 것이라고 말했다. 뭐,...</a> <span class="news_writer">문가용 기자 | 2022년 04월 05일 09:25</span>]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/game-thumb-0403.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
