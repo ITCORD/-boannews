@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Apr 2022 05:18:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Apr 2022 06:22:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -86,6 +86,14 @@
             <pubDate>Thu, 07 Apr 2022 03:28:15 GMT</pubDate>
             <content:encoded><![CDATA[최근 러시아와 우크라이나 전쟁으로 인한 사이버공격이 늘어나고, 코로나19로 인한 재택근무에 따른 보안위협이 증가하면서, 기업의 보안위협에 대해 정부가 지원...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/20799393_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[KISA-서울지방변호사회, 온라인광고 피해예방·피해구제 지원 MOU 체결 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105947&amp;page=1&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105947&amp;page=1&amp;kind=2</guid>
+            <pubDate>Fri, 08 Apr 2022 06:20:18 GMT</pubDate>
+            <content:encoded><![CDATA[한국인터넷진흥원(KISA, 원장 이원태)은 서울지방변호사회(회장 김정욱)와 온라인광고 피해예방 및 피해구제 지원 강화를 위한 업무협약(MOU)을 4월 8일...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/kisa_040801_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[SR, ‘2022년 국가산업대상’ 정보보안 부문 대상 수상 (보안뉴스 ─ 전체기사)]]></title>
@@ -239,14 +247,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/rus-thumb-0407.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[하마스의 해커들, 아름다운 여성 사진 이용한 피싱 공격 벌여 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105917&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105917&amp;page=1&amp;kind=1</guid>
-            <pubDate>Thu, 07 Apr 2022 02:53:00 GMT</pubDate>
-            <content:encoded><![CDATA[보안 외신 시큐리티위크에 의하면 이스라엘 고위 관리들을 노리는 하마스의 해커인 APT-C-23이 미인계를 쓰기 시작했다고 한다. 페이스북에서 아름다운 여성...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/21092760_copy_295x190_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[자바 웹 애플리케이션 프레임워크 스프링, 제로데이 취약점 패치해 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105852&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105852&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
@@ -351,20 +351,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/20220404KISA-S.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
-            <title><![CDATA[전기자동차 충전 독 CCS, 해킹 공격에 취약할 수 있어 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105884&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105884&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Thu, 07 Apr 2022 08:21:07 GMT</pubDate>
-            <content:encoded><![CDATA[보안 외신 해커뉴스에 의하면 옥스포드대학의 연구원들이 CCS라는 전기자동차 충전 독에 대한 해킹 공격 기법을 발견했다고 한다. 이 공격에 성공할 경우 CCS를 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/charge-thumb-0405.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[최근 기업 타깃 해킹 공격 급증... 정부가 제시한 기업의 대응방안은? (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105913&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105913&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
             <pubDate>Fri, 08 Apr 2022 04:20:25 GMT</pubDate>
             <content:encoded><![CDATA[최근 러시아와 우크라이나 전쟁으로 인한 사이버공격이 늘어나고, 코로나19로 인한 재택근무에 따른 보안위협이 증가하면서, 기업의 보안위협에 대해 정부가 지원에 나섰...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/20799393_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[전기자동차 충전 독 CCS, 해킹 공격에 취약할 수 있어 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105884&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105884&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Thu, 07 Apr 2022 08:21:07 GMT</pubDate>
+            <content:encoded><![CDATA[보안 외신 해커뉴스에 의하면 옥스포드대학의 연구원들이 CCS라는 전기자동차 충전 독에 대한 해킹 공격 기법을 발견했다고 한다. 이 공격에 성공할 경우 CCS를 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/charge-thumb-0405.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[비스트모드 봇넷, 토토링크 라우터들을 집중적으로 노려 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
@@ -391,6 +391,14 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/ahn_0406_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[시큐어 코딩을 정착시키기 위해서는 조직 전체가 움직여야 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105907&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105907&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Fri, 08 Apr 2022 05:15:17 GMT</pubDate>
+            <content:encoded><![CDATA[시큐어 코딩이라는 문화가 개발자와 기업들에 정착하기까지는 아직 한참 남은 것으로 보인다. 하지만 희망은 있다. 조금씩 그 방향으로의 진전이 분명히 이뤄지고 있다는...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/coding-thumb-0406.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[KT텔레캅-한양대, 국내대학 최고 수준 보안인프라 구축 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105849&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105849&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
@@ -399,12 +407,11 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/ktt_040101_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[시큐어 코딩을 정착시키기 위해서는 조직 전체가 움직여야 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105907&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105907&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Fri, 08 Apr 2022 05:15:17 GMT</pubDate>
-            <content:encoded><![CDATA[시큐어 코딩이라는 문화가 개발자와 기업들에 정착하기까지는 아직 한참 남은 것으로 보인다. 하지만 희망은 있다. 조금씩 그 방향으로의 진전이 분명히 이뤄지고 있다는...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/coding-thumb-0406.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[수많은 삼성 안드로이드 장비들에서 위험한 취약점 발견돼 (보안뉴스 ─ SECURITY)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105944&amp;page=1&amp;mkind=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105944&amp;page=1&amp;mkind=1&amp;kind=1</guid>
+            <pubDate>Fri, 08 Apr 2022 06:20:39 GMT</pubDate>
+            <content:encoded><![CDATA[보안 블로그 시큐리티어페어즈에 의하면 안드로이드 9, 10, 11, 12를 기반으로 한 장비들에서 CVE-2022-22292라는 취약점이 발견됐다고 한다. 익스플로잇에 성공할 경우 공격자는 장비의 공장 초기화, 전화 걸기, 앱 설치와 삭제, HTTPS 보안 기능 약화,...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[AWS 람다 서버리스 플랫폼 노리는 최초의 멀웨어 발견돼 (보안뉴스 ─ SECURITY)]]></title>
@@ -517,13 +524,6 @@
             <guid>https://www.boannews.com/media/view.asp?idx=105925&amp;page=1&amp;mkind=1&amp;kind=1</guid>
             <pubDate>Thu, 07 Apr 2022 07:16:45 GMT</pubDate>
             <content:encoded><![CDATA[전 세계 맥 시스템의 35~40%가 침해의 가능성에 노출되어 있다는 경고가 나왔다. 두 가지 제로데이 취약점 때문이다. 두 개 다 실제 해킹 공격에 악용되고 있으며 아직 애플은 패치를 일부만 발표한 상태다. 이 두 가지 취약점은 CVE-2022-22675와 CVE-20...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[SK쉴더스-군인공제회C&C, ‘국방 분야 클라우드 도입 및 전환’ 업무협약 체결 (보안뉴스 ─ SECURITY)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105924&amp;page=1&amp;mkind=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105924&amp;page=1&amp;mkind=1&amp;kind=3</guid>
-            <pubDate>Thu, 07 Apr 2022 06:20:40 GMT</pubDate>
-            <content:encoded><![CDATA[라이프 케어 플랫폼 기업 SK쉴더스가 지난 4월 1일 군인공제회C&amp;C와 업무협약을 맺고, 국방 분야에 아마존웹서비스(Amazon Web Services, 이하 AWS) 기반의 클라우드 기술 도입 협력에 나선다고 7일 밝혔다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[와이파이 기술의 최신 트렌드, 미래를 구현하기 위한 발맞춤 (보안뉴스 ─ IT)]]></title>

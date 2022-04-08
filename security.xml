@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-04-08T05:18:00.988Z</updated>
+    <updated>2022-04-08T06:22:55.585Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[수많은 삼성 안드로이드 장비들에서 위험한 취약점 발견돼]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=105944&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=105944&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-04-08T06:20:39.219Z</updated>
+        <content type="html"><![CDATA[보안 블로그 시큐리티어페어즈에 의하면 안드로이드 9, 10, 11, 12를 기반으로 한 장비들에서 CVE-2022-22292라는 취약점이 발견됐다고 한다. 익스플로잇에 성공할 경우 공격자는 장비의 공장 초기화, 전화 걸기, 앱 설치와 삭제, HTTPS 보안 기능 약화,...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AWS 람다 서버리스 플랫폼 노리는 최초의 멀웨어 발견돼]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=105943&amp;page=1&amp;mkind=1&amp;kind=1</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=105925&amp;page=1&amp;mkind=1&amp;kind=1"/>
         <updated>2022-04-07T07:16:45.581Z</updated>
         <content type="html"><![CDATA[전 세계 맥 시스템의 35~40%가 침해의 가능성에 노출되어 있다는 경고가 나왔다. 두 가지 제로데이 취약점 때문이다. 두 개 다 실제 해킹 공격에 악용되고 있으며 아직 애플은 패치를 일부만 발표한 상태다. 이 두 가지 취약점은 CVE-2022-22675와 CVE-20...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SK쉴더스-군인공제회C&C, ‘국방 분야 클라우드 도입 및 전환’ 업무협약 체결]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=105924&amp;page=1&amp;mkind=1&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=105924&amp;page=1&amp;mkind=1&amp;kind=3"/>
-        <updated>2022-04-07T06:20:40.769Z</updated>
-        <content type="html"><![CDATA[라이프 케어 플랫폼 기업 SK쉴더스가 지난 4월 1일 군인공제회C&amp;C와 업무협약을 맺고, 국방 분야에 아마존웹서비스(Amazon Web Services, 이하 AWS) 기반의 클라우드 기술 도입 협력에 나선다고 7일 밝혔다.]]></content>
     </entry>
 </feed>
