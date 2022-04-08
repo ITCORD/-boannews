@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Apr 2022 03:41:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Apr 2022 04:23:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -263,14 +263,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/esrc_040301_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[새로운 파이선 기반 랜섬웨어, 주피터랩 웹 노트북  공격 중 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105846&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105846&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Sat, 02 Apr 2022 02:53:43 GMT</pubDate>
-            <content:encoded><![CDATA[웹 기반 컴퓨팅 플랫폼인 주피터(Jupyter) 노트북을 겨냥한 파이선 기반 랜섬웨어가 출현했다고 보안 외신 해커뉴스가 보도했다. 주피터 노트북은 데이터 분석가들...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/jup-thumb-0401.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[긴급] 스프링 클라우드의 신규 취약점 스캔 공격 시작! 보안 패치 시급 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105859&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105859&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
@@ -287,20 +279,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/apple-thumb-0404.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[마이크로소프트, ‘사이버 보안 스킬 캠페인’ 한국 포함 23개국 확대 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105848&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105848&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
-            <pubDate>Sat, 02 Apr 2022 15:16:31 GMT</pubDate>
-            <content:encoded><![CDATA[마이크로소프트가 ‘사이버 보안 스킬 캠페인(Cybersecurity Skills Campaign)’을 올해부터 한국 포함 전 세계 23개국으로 확대, 보안 기술 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/20220401ms-s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[스프링4셸 취약점, 전제 조건 많이 붙어 익스플로잇 까다로워 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105890&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105890&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Wed, 06 Apr 2022 02:54:57 GMT</pubDate>
             <content:encoded><![CDATA[이번 주 월요일 보안 업체들이 스프링 프레임워크(Spring Framework)로 만들어진 애플리케이션들 중 최근 발견된 취약점인 스프링4셸(Spring4Shel...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/spring-thumb-040501.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[마이크로소프트, ‘사이버 보안 스킬 캠페인’ 한국 포함 23개국 확대 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105848&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105848&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
+            <pubDate>Sat, 02 Apr 2022 15:16:31 GMT</pubDate>
+            <content:encoded><![CDATA[마이크로소프트가 ‘사이버 보안 스킬 캠페인(Cybersecurity Skills Campaign)’을 올해부터 한국 포함 전 세계 23개국으로 확대, 보안 기술 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/20220401ms-s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[로크웰오토메이션 PLC 장비에서 스턱스넷 공격 가능하게 하는 취약점 발견 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
@@ -311,28 +303,12 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/plc-thumb-0404.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[애플, 맥OS와 iOS의 제로데이 취약점 해결하기 위해 긴급 패치 배포 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105845&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105845&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Sat, 02 Apr 2022 02:53:43 GMT</pubDate>
-            <content:encoded><![CDATA[보안 외신 시큐리티위크에 의하면 애플의 iOS와 맥OS, iPadOS에서 현재 활발하게 익스플로잇 되고 있는 취약점들이 발견돼, 애플이 긴급하게 보안 패치를 배포...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/apple-thumb-0401.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[고스트라이터 캠페인 운영자들, 최신식 피싱 기법인 BitB까지 활용해 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105851&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105851&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Sat, 02 Apr 2022 07:15:28 GMT</pubDate>
             <content:encoded><![CDATA[벨라루스를 근거지로 하여 활동하는 해킹 조직들 중 고스트라이터(Ghostwriter)라고 불리는 자들이 있다. 이들은 유럽에 가짜뉴스와 허위 정보를 살포하는데, ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/writer-thumb-0401.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우크라이나 국방부, 러시아 FSB의 요원 620명의 개인정보 유출시켜 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105844&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105844&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Sat, 02 Apr 2022 02:53:43 GMT</pubDate>
-            <content:encoded><![CDATA[우크라이나 국방부가 3월 28일 600명이 넘는 러시아 연방보안국(FSB) 소속 요원들의 개인정보라고 주장하며 방대한 데이터를 온라인에 공개했다고 보안 외신 핵리...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/rus-uk-thumb-0401.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2022년도 ‘ISMS-P 신규 인증심사원’ 자격검정 시행 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
@@ -351,14 +327,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/game-thumb-0403.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[CCTV·IP 카메라 설치 급증... 아제르바이잔 보안시장 진단 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105821&amp;page=1&amp;kind=4&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105821&amp;page=1&amp;kind=4&amp;search=title&amp;find=</guid>
-            <pubDate>Wed, 06 Apr 2022 07:16:22 GMT</pubDate>
-            <content:encoded><![CDATA[아제르바이잔은 남캅카스에 위치한 카스피해의 연안국으로 수도는 카스피해 서쪽 연안에 있는 항구도시인 바쿠(Baku)이다. 산유국이기 때문에 ‘불의 나라(Odlar ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220403cctv-s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[애플의 맥 사용하는 사람들 중 최대 40%가 제로데이 공격에 노출돼 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105925&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105925&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
@@ -367,12 +335,12 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/apple-thumb-0407.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[러-우 전쟁에서 파생된 사이버 공격 캠페인, BitB 기법 사용 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105843&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105843&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Thu, 07 Apr 2022 01:10:41 GMT</pubDate>
-            <content:encoded><![CDATA[고스트라이터(Ghostwriter)라는 해킹 단체가 '브라우저 내 브라우저(BitB)' 기법을 활용한 피싱 공격을 실시해 크리덴셜을 훔치는 것이 발견됐다고 구글의...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/bitb-thumb-0401.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[CCTV·IP 카메라 설치 급증... 아제르바이잔 보안시장 진단 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105821&amp;page=1&amp;kind=4&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105821&amp;page=1&amp;kind=4&amp;search=title&amp;find=</guid>
+            <pubDate>Wed, 06 Apr 2022 07:16:22 GMT</pubDate>
+            <content:encoded><![CDATA[아제르바이잔은 남캅카스에 위치한 카스피해의 연안국으로 수도는 카스피해 서쪽 연안에 있는 항구도시인 바쿠(Baku)이다. 산유국이기 때문에 ‘불의 나라(Odlar ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220403cctv-s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[게임 기술? 일하는 방식을 완전히 바꿔놓을 기술! 가상현실 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
@@ -405,6 +373,38 @@
             <pubDate>Thu, 07 Apr 2022 07:16:35 GMT</pubDate>
             <content:encoded><![CDATA[보안 외신 시큐리트위크가 새롭게 나타난 비스트모드(Beastmode) 봇넷에 대하여 보도했다. 이에 의하면 비스트모드는 디도스 공격을 전문으로 하는 유명 봇넷 미...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/bm-thumb-0405.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[최근 기업 타깃 해킹 공격 급증... 정부가 제시한 기업의 대응방안은? (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105913&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105913&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
+            <pubDate>Fri, 08 Apr 2022 04:20:25 GMT</pubDate>
+            <content:encoded><![CDATA[최근 러시아와 우크라이나 전쟁으로 인한 사이버공격이 늘어나고, 코로나19로 인한 재택근무에 따른 보안위협이 증가하면서, 기업의 보안위협에 대해 정부가 지원에 나섰...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/20799393_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[VM웨어, 스프링4셸 취약점에 대한 패치 대량으로 배포 중 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105885&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105885&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Fri, 08 Apr 2022 04:20:25 GMT</pubDate>
+            <content:encoded><![CDATA[보안 블로그 시큐리티어페어즈가 VM웨어(VMware)의 패치에 대한 소식을 전달하고 있다. 최근 발견된 스프링4셸(Spring4Shell) 취약점을 자사 제품들로...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/spring-thumb-0405.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[산불 피해 기부 영수증? 열어 보니 악성 문서 파일 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105896&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105896&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Fri, 08 Apr 2022 04:20:25 GMT</pubDate>
+            <content:encoded><![CDATA[지난 3월 한 달 간 ‘울진 산불 피해 기부금 영수증’, ‘코로나 확진자 및 동거인 안내문’, ‘제품 소개 카탈로그’ 등 다양한 내용으로 위장한 악성 문서 파일 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/ahn_0406_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[KT텔레캅-한양대, 국내대학 최고 수준 보안인프라 구축 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105849&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105849&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Fri, 08 Apr 2022 04:20:25 GMT</pubDate>
+            <content:encoded><![CDATA[보안전문기업 KT텔레캅(대표이사 장지호)이 한양대(총장 김우승)와 함께 캠퍼스 안전을 책임질 차세대 종합 보안 시스템 구축을 완료했다. 양 기관은 3월 31일 서...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/ktt_040101_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[핀7 해킹 그룹 일원, 미국에서 5년 형 선고 받아 (보안뉴스 ─ SECURITY)]]></title>
