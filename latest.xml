@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Apr 2022 06:22:55 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Apr 2022 07:20:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -86,6 +86,22 @@
             <pubDate>Thu, 07 Apr 2022 03:28:15 GMT</pubDate>
             <content:encoded><![CDATA[최근 러시아와 우크라이나 전쟁으로 인한 사이버공격이 늘어나고, 코로나19로 인한 재택근무에 따른 보안위협이 증가하면서, 기업의 보안위협에 대해 정부가 지원...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/20799393_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[미리보는 SECON & eGISEC 2022] 엘세븐시큐리티·엠클라우독·옥타코]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105949&amp;page=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105949&amp;page=1&amp;kind=3</guid>
+            <pubDate>Fri, 08 Apr 2022 07:16:51 GMT</pubDate>
+            <content:encoded><![CDATA[물리보안과 사이버보안을 아우르는 국내 최대 통합보안 전시회인 제21회 세계보안엑스포(SECON &amp; eGISEC 2022)는 4월 20일부터 22일까지 3일...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/seocn&egisec_2022(7).jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[미리보는 SECON & eGISEC 2022] 엔에스이·엔텀네트웍스·엔피코어]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105948&amp;page=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105948&amp;page=1&amp;kind=3</guid>
+            <pubDate>Fri, 08 Apr 2022 07:16:51 GMT</pubDate>
+            <content:encoded><![CDATA[물리보안과 사이버보안을 아우르는 국내 최대 통합보안 전시회인 제21회 세계보안엑스포(SECON &amp; eGISEC 2022)는 4월 20일부터 22일까지 3일...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/seocn&egisec_2022(6).jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[KISA-서울지방변호사회, 온라인광고 피해예방·피해구제 지원 MOU 체결]]></title>
@@ -229,22 +245,6 @@
             <pubDate>Thu, 07 Apr 2022 02:53:00 GMT</pubDate>
             <content:encoded><![CDATA[보안 업체 팔로알토 네트웍스(Palo Alto Networks)가 고객들에게 경고문을 발송했다고 IT 외신인 블리핑컴퓨터가 보도했다. 팔로알토에서 만든 방...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/firewall-thhumb-0407.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[조용히 발전을 거듭하고 있는 데이터 스토리지 기술 분야의 현 주소]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105910&amp;page=1&amp;kind=4</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105910&amp;page=1&amp;kind=4</guid>
-            <pubDate>Thu, 07 Apr 2022 02:53:00 GMT</pubDate>
-            <content:encoded><![CDATA[자기 드럼, 테이프 장치, 플로피 디스크, 하드디스크, 디지털 비디오 디스크 등 우리는 그 동안 다양한 스토리지 기술들을 거쳐왔다. 그리고 이 분야의 기술...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/hard-thumb-0407.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[왓츠앱 음성 메시지 기능 활용한 악성 피싱 캠페인 발견돼]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105918&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105918&amp;page=1&amp;kind=1</guid>
-            <pubDate>Thu, 07 Apr 2022 02:53:00 GMT</pubDate>
-            <content:encoded><![CDATA[보안 외신 스레트포스트가 최근 발견된 악성 피싱 캠페인에 대해 보도했다. 공격자들이 노리는 건 마이크로소프트 365와 구글 워크스페이스 계정들이다. 공격자...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/rus-thumb-0407.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
