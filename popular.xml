@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Apr 2022 07:20:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Apr 2022 08:22:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -56,14 +56,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/plc-thumb-0404.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[고스트라이터 캠페인 운영자들, 최신식 피싱 기법인 BitB까지 활용해]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105851&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105851&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Sat, 02 Apr 2022 07:15:28 GMT</pubDate>
-            <content:encoded><![CDATA[벨라루스를 근거지로 하여 활동하는 해킹 조직들 중 고스트라이터(Ghostwriter)라고 불리는 자들이 있다. 이들은 유럽에 가짜뉴스와 허위 정보를 살포하는데, ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/writer-thumb-0401.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[2022년도 ‘ISMS-P 신규 인증심사원’ 자격검정 시행]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105911&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105911&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
@@ -96,20 +88,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220403cctv-s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[게임 기술? 일하는 방식을 완전히 바꿔놓을 기술! 가상현실]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105836&amp;page=1&amp;kind=4&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105836&amp;page=1&amp;kind=4&amp;search=title&amp;find=</guid>
-            <pubDate>Thu, 07 Apr 2022 02:53:14 GMT</pubDate>
-            <content:encoded><![CDATA[지금쯤 메타버스라는 말을 못 들어본 사람은 없을 것이다. 사용자들끼리 실제 물리적 공간에서 있을 법한 경험을 하게 되는 가상현실의 세계 말이다. 거기에는 이 세상...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/vr-thumb-0331.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[중소·영세기업 대상 ISMS-P 구축·운영 지원한다]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105866&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105866&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
             <pubDate>Thu, 07 Apr 2022 05:15:32 GMT</pubDate>
             <content:encoded><![CDATA[한국인터넷진흥원(KISA, 원장 이원태)은 중소·영세기업 대상으로 정보보호 활동 지원 사업인 ‘정보보호 및 개인정보보호 관리체계(ISMS-P)’의 구축·운영 교육...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/20220404KISA-S.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[게임 기술? 일하는 방식을 완전히 바꿔놓을 기술! 가상현실]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105836&amp;page=1&amp;kind=4&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105836&amp;page=1&amp;kind=4&amp;search=title&amp;find=</guid>
+            <pubDate>Thu, 07 Apr 2022 02:53:14 GMT</pubDate>
+            <content:encoded><![CDATA[지금쯤 메타버스라는 말을 못 들어본 사람은 없을 것이다. 사용자들끼리 실제 물리적 공간에서 있을 법한 경험을 하게 되는 가상현실의 세계 말이다. 거기에는 이 세상...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/vr-thumb-0331.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[최근 기업 타깃 해킹 공격 급증... 정부가 제시한 기업의 대응방안은?]]></title>
@@ -160,12 +152,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/coding-thumb-0406.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[KT텔레캅-한양대, 국내대학 최고 수준 보안인프라 구축]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105849&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105849&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Fri, 08 Apr 2022 04:20:25 GMT</pubDate>
-            <content:encoded><![CDATA[보안전문기업 KT텔레캅(대표이사 장지호)이 한양대(총장 김우승)와 함께 캠퍼스 안전을 책임질 차세대 종합 보안 시스템 구축을 완료했다. 양 기관은 3월 31일 서...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/ktt_040101_main.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[bnTV] 지구는 지금 사이버 세계대전! 우크라 전쟁과 다크웹, 그리고 랩서스]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105933&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105933&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Fri, 08 Apr 2022 08:20:01 GMT</pubDate>
+            <content:encoded><![CDATA[다크웹에서 우크라이나, 러시아 쪽 공격에 대한 관심들은 굉장히 많은 상황이고 전반적으로 사이버전 양상들을 보시게 되면은 주변국으로 확대되고 있는 모양새에요. 공격...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/20220407dark.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[인도, 국가 차원의 보안산업 재정비에 따라 생체인식 수요 증가]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105822&amp;page=1&amp;kind=4&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105822&amp;page=1&amp;kind=4&amp;search=title&amp;find=</guid>
+            <pubDate>Fri, 08 Apr 2022 08:20:01 GMT</pubDate>
+            <content:encoded><![CDATA[인도의 ‘디지털 인디아(Digital India)’ 정책 하에 보안 인프라를 강화하기 위해 노력하고 있다. 인도 정부는 ‘디지털 인디아’ 정책 내에 스마트시티를 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/22033106ss.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
