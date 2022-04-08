@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-04-08T03:04:23.651Z</updated>
+    <updated>2022-04-08T03:41:44.183Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[핀7 해킹 그룹 일원, 미국에서 5년 형 선고 받아]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=105942&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=105942&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-04-08T03:39:35.661Z</updated>
+        <content type="html"><![CDATA[악명 높은 해킹 범죄 단체인 핀7(FIN7)에 소속되어 침투 테스트를 담당했던 인물인 데니스 이아르막(Denys Iarmak)이 미국 법정에서 5년 형을 선고받았다고 IT 외신 블리핑컴퓨터가 보도했다. 2016년 11월부터 2018년 11월까지 2년여 동안 저지른 범...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[유명 핀테크 플랫폼의 API에서 SSRF 오류 발견돼]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=105941&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=105941&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-04-08T03:39:35.662Z</updated>
+        <content type="html"><![CDATA[유명 금융 및 핀테크 플랫폼의 API에서 서버 사이드 요청 조작(Server Side Request Forgery, SSRF) 취약점이 발견됐다고 보안 외신 쓰레트포스트가 보도했다. 취약점 익스플로잇에 성공할 경우 공격자들은 관리자 권한을 얻게 되며, 이를 통해 여러 ...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[안랩, 임직원 대상 ‘ESG와 윤리·준법경영’ 교육 진행]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=105940&amp;page=1&amp;mkind=1&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=105940&amp;page=1&amp;mkind=1&amp;kind=3"/>
+        <updated>2022-04-08T03:39:35.665Z</updated>
+        <content type="html"><![CDATA[안랩(대표 강석균)이 4월 7일(목) ‘ESG경영과 윤리·준법 경영’을 주제로 임직원 대상 ESG 교육을 실시했다. 이번 교육은 ‘부를 부르는 ESG’의 저자인 문성후 ESG중심연구소 소장을 초청해 ESG가 가진 함축적인 의미와 ESG경영 관점의 윤리 및 준법 경영에 ...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[줌, 지난 한 해 버그바운티로 180만 달러 지급]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=105938&amp;page=1&amp;mkind=1&amp;kind=3</id>
@@ -102,26 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=105913&amp;page=1&amp;mkind=1&amp;kind=2"/>
         <updated>2022-04-07T05:15:49.219Z</updated>
         <content type="html"><![CDATA[최근 러시아와 우크라이나 전쟁으로 인한 사이버공격이 늘어나고, 코로나19로 인한 재택근무에 따른 보안위협이 증가하면서, 기업의 보안위협에 대해 정부가 지원에 나섰다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022년도 ‘ISMS-P 신규 인증심사원’ 자격검정 시행]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=105911&amp;page=1&amp;mkind=1&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=105911&amp;page=1&amp;mkind=1&amp;kind=2"/>
-        <updated>2022-04-07T05:15:49.220Z</updated>
-        <content type="html"><![CDATA[한국인터넷진흥원(KISA, 원장 이원태)은 2022년도 ‘정보보호 및 개인정보보호 관리체계(ISMS-P)’의 신규 인증심사원 자격검정을 7월에 실시하고, 이에 앞서 서류전형 접수를 오는 4월 18일(월)부터 진행한다고 밝혔다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[블록, 이전 근무자가 저지른 악성 행위로 일부 정보 유출돼]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=105921&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=105921&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-04-07T05:15:49.221Z</updated>
-        <content type="html"><![CDATA[간편 금융 앱인 캐시앱(Cash App)의 개발사 블록(Block)이 데이터 유출 사고를 겪었다고 보안 외신 해커뉴스가 보도했다. 블록에 의하면 전 근무자가 캐시앱과 관련된 내부 정보를 다운로드 받은 것이 사건의 전말이라고 한다. 근무자가 다운로드 받은 정보는 블록 고...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[포티넷코리아, SK텔레콤의 양자 암호 통신 장비에 IPsec 게이트웨이 서비스 구축]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=105920&amp;page=1&amp;mkind=1&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=105920&amp;page=1&amp;mkind=1&amp;kind=3"/>
-        <updated>2022-04-07T03:28:48.112Z</updated>
-        <content type="html"><![CDATA[광범위하고 자동화된 통합 사이버보안 분야의 글로벌 리더인 포티넷코리아(조원균 대표)는 SK텔레콤(대표이사 사장 유영상)이 양자암호 통신장비에 자사의 IPsec 게이트웨이(Gateway, GW)를 구축해 보다 강력하고 차별화된 보안환경을 구현했다고 밝혔다.]]></content>
     </entry>
 </feed>
