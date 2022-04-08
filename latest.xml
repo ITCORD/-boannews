@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 08 Apr 2022 04:23:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Apr 2022 05:18:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -86,6 +86,14 @@
             <pubDate>Thu, 07 Apr 2022 03:28:15 GMT</pubDate>
             <content:encoded><![CDATA[최근 러시아와 우크라이나 전쟁으로 인한 사이버공격이 늘어나고, 코로나19로 인한 재택근무에 따른 보안위협이 증가하면서, 기업의 보안위협에 대해 정부가 지원...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/20799393_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SR, ‘2022년 국가산업대상’ 정보보안 부문 대상 수상]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105946&amp;page=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105946&amp;page=1&amp;kind=3</guid>
+            <pubDate>Fri, 08 Apr 2022 05:15:07 GMT</pubDate>
+            <content:encoded><![CDATA[SRT 운영사 SR(대표이사 이종국)은 7일(목) 열린 ‘2022 국가산업대상’에서 정보보안 부문 대상을 수상했다고 밝혔다. ‘2022 국가산업대상’은 산...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/SR%20_040801)main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[안랩, 임직원 대상 ‘ESG와 윤리·준법경영’ 교육 진행]]></title>
@@ -237,14 +245,6 @@
             <pubDate>Thu, 07 Apr 2022 02:53:00 GMT</pubDate>
             <content:encoded><![CDATA[보안 외신 시큐리티위크에 의하면 이스라엘 고위 관리들을 노리는 하마스의 해커인 APT-C-23이 미인계를 쓰기 시작했다고 한다. 페이스북에서 아름다운 여성...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/21092760_copy_295x190_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘방역 수칙 위반 경찰서 출석요구서’ 사칭한 악성메일 유포중]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105915&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105915&amp;page=1&amp;kind=1</guid>
-            <pubDate>Thu, 07 Apr 2022 02:53:00 GMT</pubDate>
-            <content:encoded><![CDATA[최근 코로나19 방역 수칙 위반 경찰서 출석요구서나 긴급재난지원금 신청서 등을 사칭한 악성 메일이 발견돼 사용자들의 주의가 요구된다. 보안 전문 기업 이스...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/est_040701_main.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
