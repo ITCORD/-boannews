@@ -4,9 +4,25 @@
         <title>보안뉴스 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 09 Apr 2022 09:18:39 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Apr 2022 10:21:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[주말판] 인공지능이 채용하는 시대가 코앞인데, 안전장치는 마련되고 있나]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105934&amp;page=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105934&amp;page=1&amp;kind=3</guid>
+            <pubDate>Sat, 09 Apr 2022 10:17:47 GMT</pubDate>
+            <content:encoded><![CDATA[일자리를 찾고 이력서를 작성하여 제출하는 모든 과정은 거의 대부분 온라인에서 진행된다. 구직자와 구인자들을 위한 도구들이며 플랫폼이 넘쳐나는 시대니까. 게...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/hire-thumb-0408.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[IT 분야의 신기술, 스마트빌딩을 더 ‘그린’으로 변화시키라]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105931&amp;page=1&amp;kind=4</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105931&amp;page=1&amp;kind=4</guid>
+            <pubDate>Sat, 09 Apr 2022 10:17:47 GMT</pubDate>
+            <content:encoded><![CDATA[지속가능성과 환경 보호라는 개념이 기업들의 사업 활동에 끼어들기 시작했다. 그러면서 기업들은 자신들의 사무 공간 내에서 재활용을 잘 한다거나 물건을 아껴서...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/green-thumb-0407.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[다가오는 유럽연합의 인공지능 규정, 데이터 활용의 새로운 표준 된다]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105932&amp;page=1&amp;kind=4</link>
@@ -70,22 +86,6 @@
             <pubDate>Thu, 07 Apr 2022 16:23:05 GMT</pubDate>
             <content:encoded><![CDATA[다크웹에서 우크라이나, 러시아 쪽 공격에 대한 관심들은 굉장히 많은 상황이고 전반적으로 사이버전 양상들을 보시게 되면은 주변국으로 확대되고 있는 모양새에요...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/20220407dark.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[Weekly Security Premium Report 제45호 발간! 스프링4셸 취약점 등장]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105929&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105929&amp;page=1&amp;kind=1</guid>
-            <pubDate>Thu, 07 Apr 2022 08:20:53 GMT</pubDate>
-            <content:encoded><![CDATA[4월 7일 발간된 ‘Weekly Security Premium Report’ 제45호에는 &lt;보안 심층 리포트&gt; 코너에서 사상 최대의 취약점으로 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/Weekly%20Security%20Premium%20Report_45_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[팬데믹 통해 떠오른 줌, 버그바운티 상금도 4배나 많이 지출해]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105927&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105927&amp;page=1&amp;kind=1</guid>
-            <pubDate>Thu, 07 Apr 2022 06:20:14 GMT</pubDate>
-            <content:encoded><![CDATA[클라우드 기반 통신 솔루션 업체 줌(Zoom)이 2021년 한 해 동안 버그바운티에만 180만 달러를 지출했다고 발표했다. 2020년에 비해 무려 4배나 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/inc-thumb-0407.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한국 어셈넥스트 팀, ‘바이트코드 얼라이언스’ 합류]]></title>
@@ -208,12 +208,28 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/seocn&egisec_2022(3).jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Weekly Security Premium Report 제45호 발간! 스프링4셸 취약점 등장]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105929&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105929&amp;page=1&amp;kind=1</guid>
+            <pubDate>Thu, 07 Apr 2022 08:20:53 GMT</pubDate>
+            <content:encoded><![CDATA[4월 7일 발간된 ‘Weekly Security Premium Report’ 제45호에는 &lt;보안 심층 리포트&gt; 코너에서 사상 최대의 취약점으로 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/Weekly%20Security%20Premium%20Report_45_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[원모어시큐리티, 클라우드 기반 구독형 온라인 인증 서비스 출시]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105928&amp;page=1&amp;kind=3</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105928&amp;page=1&amp;kind=3</guid>
             <pubDate>Thu, 07 Apr 2022 07:16:25 GMT</pubDate>
             <content:encoded><![CDATA[원모어시큐리티는 국내·외 기업을 대상으로 ‘클라우드 기반 구독형 온라인 인증(FIDO) 서비스, 원모어패스(OMPASS) 클라우드’를 출시했다고 밝혔다.]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/one_040701_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[팬데믹 통해 떠오른 줌, 버그바운티 상금도 4배나 많이 지출해]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105927&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105927&amp;page=1&amp;kind=1</guid>
+            <pubDate>Thu, 07 Apr 2022 06:20:14 GMT</pubDate>
+            <content:encoded><![CDATA[클라우드 기반 통신 솔루션 업체 줌(Zoom)이 2021년 한 해 동안 버그바운티에만 180만 달러를 지출했다고 발표했다. 2020년에 비해 무려 4배나 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/inc-thumb-0407.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[개인정보위-부산시, ‘가명정보 활용 지원센터’ 구축 업무협약 체결]]></title>
@@ -229,22 +245,6 @@
             <pubDate>Thu, 07 Apr 2022 05:15:19 GMT</pubDate>
             <content:encoded><![CDATA[전 세계 맥 시스템의 35~40%가 침해의 가능성에 노출되어 있다는 경고가 나왔다. 두 가지 제로데이 취약점 때문이다. 두 개 다 실제 해킹 공격에 악용되...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/apple-thumb-0407.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SK쉴더스-군인공제회C&C, ‘국방 분야 클라우드 도입 및 전환’ 업무협약 체결]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105924&amp;page=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105924&amp;page=1&amp;kind=3</guid>
-            <pubDate>Thu, 07 Apr 2022 05:15:20 GMT</pubDate>
-            <content:encoded><![CDATA[라이프 케어 플랫폼 기업 SK쉴더스가 지난 4월 1일 군인공제회C&amp;C와 업무협약을 맺고, 국방 분야에 아마존웹서비스(Amazon Web Services, ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/sks_040701_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[최근 기업 타깃 해킹 공격 급증... 정부가 제시한 기업의 대응방안은?]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105913&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105913&amp;page=1&amp;kind=2</guid>
-            <pubDate>Thu, 07 Apr 2022 03:28:15 GMT</pubDate>
-            <content:encoded><![CDATA[최근 러시아와 우크라이나 전쟁으로 인한 사이버공격이 늘어나고, 코로나19로 인한 재택근무에 따른 보안위협이 증가하면서, 기업의 보안위협에 대해 정부가 지원...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/20799393_main.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
