@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 09 Apr 2022 15:20:23 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Apr 2022 16:24:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -128,20 +128,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/bm-thumb-0405.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[VM웨어, 스프링4셸 취약점에 대한 패치 대량으로 배포 중]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105885&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105885&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Fri, 08 Apr 2022 04:20:25 GMT</pubDate>
-            <content:encoded><![CDATA[보안 블로그 시큐리티어페어즈가 VM웨어(VMware)의 패치에 대한 소식을 전달하고 있다. 최근 발견된 스프링4셸(Spring4Shell) 취약점을 자사 제품들로...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/spring-thumb-0405.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[레빌과 블랙매터의 유산을 물려받았다고 주장하는 새 랜섬웨어 그룹, 알프파이브]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105952&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105952&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Sat, 09 Apr 2022 10:18:06 GMT</pubDate>
             <content:encoded><![CDATA[알프파이브(ALPHV)라는 랜섬웨어 그룹이 다크웹에 등장해 자신들만의 랜섬웨어 서비스를 새롭게 시작했다. 알프파이브는 자신들이 국제 공조로 사라진 블랙매터(Bla...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/bc-thumjb-0408.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[VM웨어, 스프링4셸 취약점에 대한 패치 대량으로 배포 중]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105885&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105885&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Fri, 08 Apr 2022 04:20:25 GMT</pubDate>
+            <content:encoded><![CDATA[보안 블로그 시큐리티어페어즈가 VM웨어(VMware)의 패치에 대한 소식을 전달하고 있다. 최근 발견된 스프링4셸(Spring4Shell) 취약점을 자사 제품들로...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/spring-thumb-0405.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[다가오는 유럽연합의 인공지능 규정, 데이터 활용의 새로운 표준 된다]]></title>
