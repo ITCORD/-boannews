@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 09 Apr 2022 16:24:57 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Apr 2022 17:19:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -359,14 +359,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/charge-thumb-0405.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[비스트모드 봇넷, 토토링크 라우터들을 집중적으로 노려 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105883&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105883&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Thu, 07 Apr 2022 07:16:35 GMT</pubDate>
-            <content:encoded><![CDATA[보안 외신 시큐리트위크가 새롭게 나타난 비스트모드(Beastmode) 봇넷에 대하여 보도했다. 이에 의하면 비스트모드는 디도스 공격을 전문으로 하는 유명 봇넷 미...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/bm-thumb-0405.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[레빌과 블랙매터의 유산을 물려받았다고 주장하는 새 랜섬웨어 그룹, 알프파이브 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105952&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105952&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
@@ -375,12 +367,12 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/bc-thumjb-0408.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[VM웨어, 스프링4셸 취약점에 대한 패치 대량으로 배포 중 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105885&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105885&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Fri, 08 Apr 2022 04:20:25 GMT</pubDate>
-            <content:encoded><![CDATA[보안 블로그 시큐리티어페어즈가 VM웨어(VMware)의 패치에 대한 소식을 전달하고 있다. 최근 발견된 스프링4셸(Spring4Shell) 취약점을 자사 제품들로...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/spring-thumb-0405.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[비스트모드 봇넷, 토토링크 라우터들을 집중적으로 노려 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105883&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105883&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Thu, 07 Apr 2022 07:16:35 GMT</pubDate>
+            <content:encoded><![CDATA[보안 외신 시큐리트위크가 새롭게 나타난 비스트모드(Beastmode) 봇넷에 대하여 보도했다. 이에 의하면 비스트모드는 디도스 공격을 전문으로 하는 유명 봇넷 미...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/bm-thumb-0405.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[다가오는 유럽연합의 인공지능 규정, 데이터 활용의 새로운 표준 된다 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
@@ -389,6 +381,14 @@
             <pubDate>Sat, 09 Apr 2022 12:25:50 GMT</pubDate>
             <content:encoded><![CDATA[지금은 그렇지 않지만 조만간 구글 애널리틱스(Google Analytics)의 웹사이트 추적 행위는 불법으로 규정될 것으로 보인다. 지난 1월 오스트리아의 한 법...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/eu-thumb-0408.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[VM웨어, 스프링4셸 취약점에 대한 패치 대량으로 배포 중 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105885&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105885&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Fri, 08 Apr 2022 04:20:25 GMT</pubDate>
+            <content:encoded><![CDATA[보안 블로그 시큐리티어페어즈가 VM웨어(VMware)의 패치에 대한 소식을 전달하고 있다. 최근 발견된 스프링4셸(Spring4Shell) 취약점을 자사 제품들로...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/spring-thumb-0405.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[시큐어 코딩을 정착시키기 위해서는 조직 전체가 움직여야 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
