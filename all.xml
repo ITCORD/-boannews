@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Apr 2022 07:18:59 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Apr 2022 08:21:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[윤석열 당선인, ICT·보안 정책 총괄 과기정통부 장관 후보에 서울대 이종호 교수 지명 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105956&amp;page=1&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105956&amp;page=1&amp;kind=2</guid>
+            <pubDate>Sun, 10 Apr 2022 08:18:40 GMT</pubDate>
+            <content:encoded><![CDATA[윤석열 대통령 당선인이 새 정부 초대 과기정통부 장관 후보자로 이종호 서울대 전기정보공학부 교수를 지명했다. 윤 당선인은 10일 통의동 대통령직인수위원회 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/20220410moip-s(0).jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[주말판] 인공지능이 채용하는 시대가 코앞인데, 안전장치는 마련되고 있나 (보안뉴스 ─ 전체기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105934&amp;page=1&amp;kind=3</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 08 Apr 2022 03:00:37 GMT</pubDate>
             <content:encoded><![CDATA[유명 금융 및 핀테크 플랫폼의 API에서 서버 사이드 요청 조작(Server Side Request Forgery, SSRF) 취약점이 발견됐다고 보안 외...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/fin-thumb-0408.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[bnTV] 지구는 지금 사이버 세계대전! 우크라 전쟁과 다크웹, 그리고 랩서스 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105933&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105933&amp;page=1&amp;kind=1</guid>
-            <pubDate>Thu, 07 Apr 2022 16:23:05 GMT</pubDate>
-            <content:encoded><![CDATA[다크웹에서 우크라이나, 러시아 쪽 공격에 대한 관심들은 굉장히 많은 상황이고 전반적으로 사이버전 양상들을 보시게 되면은 주변국으로 확대되고 있는 모양새에요...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/20220407dark.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[한국 어셈넥스트 팀, ‘바이트코드 얼라이언스’ 합류 (보안뉴스 ─ 전체기사)]]></title>
@@ -184,6 +184,14 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/ku_040801_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[bnTV] 지구는 지금 사이버 세계대전! 우크라 전쟁과 다크웹, 그리고 랩서스 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105933&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105933&amp;page=1&amp;kind=1</guid>
+            <pubDate>Thu, 07 Apr 2022 16:23:05 GMT</pubDate>
+            <content:encoded><![CDATA[다크웹에서 우크라이나, 러시아 쪽 공격에 대한 관심들은 굉장히 많은 상황이고 전반적으로 사이버전 양상들을 보시게 되면은 주변국으로 확대되고 있는 모양새에요...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/20220407dark.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
             <title><![CDATA[[미리보는 SECON & eGISEC 2022] HM COMPANY·엑사비스·엑스게이트 (보안뉴스 ─ 전체기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105930&amp;page=1&amp;kind=3</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105930&amp;page=1&amp;kind=3</guid>
@@ -237,14 +245,6 @@
             <guid>https://www.boannews.com/media/view.asp?idx=105926&amp;page=1&amp;kind=2</guid>
             <pubDate>Thu, 07 Apr 2022 05:15:20 GMT</pubDate>
             <content:encoded><![CDATA[개인정보보호위원회(위원장 윤종인, 이하 개인정보위)는 4월 8일(금), 부산광역시(시장 박형준, 이하 부산시) 및 사업수행기관인 한국인터넷진흥원(이하 KI...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[애플의 맥 사용하는 사람들 중 최대 40%가 제로데이 공격에 노출돼 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105925&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105925&amp;page=1&amp;kind=1</guid>
-            <pubDate>Thu, 07 Apr 2022 05:15:19 GMT</pubDate>
-            <content:encoded><![CDATA[전 세계 맥 시스템의 35~40%가 침해의 가능성에 노출되어 있다는 경고가 나왔다. 두 가지 제로데이 취약점 때문이다. 두 개 다 실제 해킹 공격에 악용되...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/apple-thumb-0407.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[긴급] 이메일로 윈도우 도움말 파일 ‘.chm’ 받았다면? 악성코드 감염 조심 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
@@ -327,14 +327,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/20220404KISA-S.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
-            <title><![CDATA[CCTV·IP 카메라 설치 급증... 아제르바이잔 보안시장 진단 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105821&amp;page=1&amp;kind=4&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105821&amp;page=1&amp;kind=4&amp;search=title&amp;find=</guid>
-            <pubDate>Wed, 06 Apr 2022 07:16:22 GMT</pubDate>
-            <content:encoded><![CDATA[아제르바이잔은 남캅카스에 위치한 카스피해의 연안국으로 수도는 카스피해 서쪽 연안에 있는 항구도시인 바쿠(Baku)이다. 산유국이기 때문에 ‘불의 나라(Odlar ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220403cctv-s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[레빌과 블랙매터의 유산을 물려받았다고 주장하는 새 랜섬웨어 그룹, 알프파이브 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105952&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105952&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
@@ -349,14 +341,6 @@
             <pubDate>Sat, 09 Apr 2022 12:25:50 GMT</pubDate>
             <content:encoded><![CDATA[지금은 그렇지 않지만 조만간 구글 애널리틱스(Google Analytics)의 웹사이트 추적 행위는 불법으로 규정될 것으로 보인다. 지난 1월 오스트리아의 한 법...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/eu-thumb-0408.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[게임 기술? 일하는 방식을 완전히 바꿔놓을 기술! 가상현실 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105836&amp;page=1&amp;kind=4&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105836&amp;page=1&amp;kind=4&amp;search=title&amp;find=</guid>
-            <pubDate>Thu, 07 Apr 2022 02:53:14 GMT</pubDate>
-            <content:encoded><![CDATA[지금쯤 메타버스라는 말을 못 들어본 사람은 없을 것이다. 사용자들끼리 실제 물리적 공간에서 있을 법한 경험을 하게 되는 가상현실의 세계 말이다. 거기에는 이 세상...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/vr-thumb-0331.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[bnTV] 지구는 지금 사이버 세계대전! 우크라 전쟁과 다크웹, 그리고 랩서스 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
@@ -405,6 +389,29 @@
             <pubDate>Fri, 08 Apr 2022 05:15:17 GMT</pubDate>
             <content:encoded><![CDATA[시큐어 코딩이라는 문화가 개발자와 기업들에 정착하기까지는 아직 한참 남은 것으로 보인다. 하지만 희망은 있다. 조금씩 그 방향으로의 진전이 분명히 이뤄지고 있다는...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/coding-thumb-0406.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[산불 피해 기부 영수증? 열어 보니 악성 문서 파일 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105896&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105896&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Sun, 10 Apr 2022 08:18:50 GMT</pubDate>
+            <content:encoded><![CDATA[지난 3월 한 달 간 ‘울진 산불 피해 기부금 영수증’, ‘코로나 확진자 및 동거인 안내문’, ‘제품 소개 카탈로그’ 등 다양한 내용으로 위장한 악성 문서 파일 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/ahn_0406_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[인도, 국가 차원의 보안산업 재정비에 따라 생체인식 수요 증가 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105822&amp;page=1&amp;kind=4&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105822&amp;page=1&amp;kind=4&amp;search=title&amp;find=</guid>
+            <pubDate>Sun, 10 Apr 2022 08:18:50 GMT</pubDate>
+            <content:encoded><![CDATA[인도의 ‘디지털 인디아(Digital India)’ 정책 하에 보안 인프라를 강화하기 위해 노력하고 있다. 인도 정부는 ‘디지털 인디아’ 정책 내에 스마트시티를 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/22033106ss.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[레빌과 블랙매터의 유산을 물려받았다고 주장하는 새 랜섬웨어 그룹, 알프파이브 (보안뉴스 ─ SECURITY)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105952&amp;page=1&amp;mkind=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105952&amp;page=1&amp;mkind=1&amp;kind=1</guid>
+            <pubDate>Sun, 10 Apr 2022 08:18:59 GMT</pubDate>
+            <content:encoded><![CDATA[알프파이브(ALPHV)라는 랜섬웨어 그룹이 다크웹에 등장해 자신들만의 랜섬웨어 서비스를 새롭게 시작했다. 알프파이브는 자신들이 국제 공조로 사라진 블랙매터(BlackMatter)와 레빌(REvil) 그룹의 멤버들로 구성되어 있다고 주장하고 있으며, 이미 한 ERP 업체...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[한국 어셈넥스트 팀, ‘바이트코드 얼라이언스’ 합류 (보안뉴스 ─ SECURITY)]]></title>
@@ -517,13 +524,6 @@
             <guid>https://www.boannews.com/media/view.asp?idx=105933&amp;page=1&amp;mkind=1&amp;kind=1</guid>
             <pubDate>Fri, 08 Apr 2022 01:08:17 GMT</pubDate>
             <content:encoded><![CDATA[다크웹에서 우크라이나, 러시아 쪽 공격에 대한 관심들은 굉장히 많은 상황이고 전반적으로 사이버전 양상들을 보시게 되면은 주변국으로 확대되고 있는 모양새에요. 공격을 하는 국가, 피해를 당하는 국가 이 모든 것이 확장되고 있는 형세인데, 그게 뭐냐면은 최근에 우크라이나 ...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[미리보는 SECON & eGISEC 2022] HM COMPANY·엑사비스·엑스게이트 (보안뉴스 ─ SECURITY)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105930&amp;page=1&amp;mkind=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105930&amp;page=1&amp;mkind=1&amp;kind=3</guid>
-            <pubDate>Fri, 08 Apr 2022 01:08:17 GMT</pubDate>
-            <content:encoded><![CDATA[물리보안과 사이버보안을 아우르는 국내 최대 통합보안 전시회인 제21회 세계보안엑스포(SECON &amp; eGISEC 2022)는 4월 20일부터 22일까지 3일간 일산 킨텍스 제1전시장 3~5홀에서 개최된다. SECON &amp; eGISEC 2022는 공식 홈페이지를 통해 사전등...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[월드오브워크래프트와 포트나이트는 미래 메타버스의 힌트다 (보안뉴스 ─ IT)]]></title>
@@ -2740,6 +2740,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/20220404FORTI-S.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
+            <title><![CDATA[윤석열 당선인, ICT·보안 정책 총괄 과기정통부 장관 후보에 서울대 이종호 교수 지명 (보안뉴스 ─ 인사 부고)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105956&amp;page=1&amp;mkind=&amp;kind=2&amp;skind=K&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105956&amp;page=1&amp;mkind=&amp;kind=2&amp;skind=K&amp;search=title&amp;find=</guid>
+            <pubDate>Sun, 10 Apr 2022 08:21:12 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/view.asp?idx=105956&amp;page=1&amp;mkind=&amp;kind=2&amp;skind=K&amp;search=title&amp;find=">
+					
+					<img src="/media/upFiles2/2022/04/20220410moip-s(0).jpg" alt="" class="news_img" height="70">
+					
+					<span class="news_txt">윤석열 당선인, ICT·보안 정책 총괄 과기정통부 장관 후보에 서울대 이종호 교수 지명    </span>
+					</a><br>
+					<a href="/media/view.asp?idx=105956&amp;page=1&amp;mkind=&amp;kind=2&amp;skind=K&amp;search=title&amp;find=">윤석열 대통령 당선인이 새 정부 초대 과기정통부 장관 후보자로 이종호 서울대 전기정보공학부 교수를 지명했다. 윤 당선인은 10일 통의동 대통령직인수위원회 기자회견...</a> <span class="news_writer">권준  기자 | 2022년 04월 10일 16:37</span>]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/20220410moip-s(0).jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[인사] 투데이신문 (보안뉴스 ─ 인사 부고)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105712&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=K&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105712&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=K&amp;search=title&amp;find=</guid>
@@ -2968,17 +2982,6 @@
 					<span class="news_txt">[인사] 환경부 </span>
 					</a><br>
 					<a href="/media/view.asp?idx=104890&amp;page=1&amp;mkind=&amp;kind=2&amp;skind=K&amp;search=title&amp;find=">◇개방형직위 임용 △국립환경인재개발원장 김효석(2022년 2월 21일자)</a> <span class="news_writer">권준  기자 | 2022년 02월 18일 19:22</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[부고] 한국면세뉴스 박홍규 대표 빙부상 (보안뉴스 ─ 인사 부고)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104888&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=K&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104888&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=K&amp;search=title&amp;find=</guid>
-            <pubDate>Fri, 18 Feb 2022 10:19:07 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/view.asp?idx=104888&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=K&amp;search=title&amp;find=">
-					
-					<span class="news_txt">[부고] 한국면세뉴스 박홍규 대표 빙부상</span>
-					</a><br>
-					<a href="/media/view.asp?idx=104888&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=K&amp;search=title&amp;find=">△내 용 : 한국면세뉴스 박홍규 대표 빙부상 △고 인 : 고 원동욱님 △빈 소 : 인천의료원 장례식장 302호 △발 인 : 2월 20일(일) 오전 7시 30분</a> <span class="news_writer">권준  기자 | 2022년 02월 18일 18:48</span>]]></content:encoded>
         </item>
     </channel>
 </rss>
