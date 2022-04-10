@@ -4,9 +4,23 @@
         <title>보안뉴스 ─ 국제</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Apr 2022 14:18:53 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Apr 2022 15:19:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[리눅스의 보안 위협, 점점 더 증가하고 있다]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105954&amp;page=1&amp;mkind=&amp;kind=4&amp;skind=D&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105954&amp;page=1&amp;mkind=&amp;kind=4&amp;skind=D&amp;search=title&amp;find=</guid>
+            <pubDate>Sun, 10 Apr 2022 15:18:20 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/view.asp?idx=105954&amp;page=1&amp;mkind=&amp;kind=4&amp;skind=D&amp;search=title&amp;find=">
+					
+					<img src="/media/upFiles2/2022/04/lin-thumb-0409.jpg" alt="" class="news_img" height="70">
+					
+					<span class="news_txt">리눅스의 보안 위협, 점점 더 증가하고 있다 </span>
+					</a><br>
+					<a href="/media/view.asp?idx=105954&amp;page=1&amp;mkind=&amp;kind=4&amp;skind=D&amp;search=title&amp;find=">대수롭지 않게 보이는 것들, 혹은 거기 있는 줄도 몰랐던 사소한 것들이 꽤나 큰 문제를 일으키는 사례가 보안 업계에서는 흔히 나타난다. 좋은 예가 있으니 ELF ...</a> <span class="news_writer">문가용 기자 | 2022년 04월 11일 00:10</span>]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/lin-thumb-0409.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[주말판] 인공지능이 채용하는 시대가 코앞인데, 안전장치는 마련되고 있나]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105934&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=D&amp;search=title&amp;find=</link>
@@ -272,20 +286,6 @@
 					</a><br>
 					<a href="/media/view.asp?idx=105907&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">시큐어 코딩이라는 문화가 개발자와 기업들에 정착하기까지는 아직 한참 남은 것으로 보인다. 하지만 희망은 있다. 조금씩 그 방향으로의 진전이 분명히 이뤄지고 있다는...</a> <span class="news_writer">문가용 기자 | 2022년 04월 06일 16:37</span>]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/coding-thumb-0406.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[중국 해커들, VLC 미디어 플레이어 통해 멀웨어 퍼트려]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105906&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105906&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
-            <pubDate>Wed, 06 Apr 2022 08:22:30 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/view.asp?idx=105906&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
-					
-					<img src="/media/upFiles2/2022/04/med-thumb-0406.jpg" alt="" class="news_img" height="70">
-					
-					<span class="news_txt">중국 해커들, VLC 미디어 플레이어 통해 멀웨어 퍼트려</span>
-					</a><br>
-					<a href="/media/view.asp?idx=105906&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">중국 해커들의 오래된 공격 캠페인이 발견됐다고 IT 외신 블리핑컴퓨터가 보도했다. 이 캠페인에서 중국 해커들이 악용한 건 유명 미디어 플레이어 앱인 VLC 미디어...</a> <span class="news_writer">문가용 기자 | 2022년 04월 06일 16:36</span>]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/med-thumb-0406.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
