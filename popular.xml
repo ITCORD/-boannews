@@ -4,17 +4,9 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Apr 2022 13:25:32 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Apr 2022 14:18:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[긴급] 이메일로 윈도우 도움말 파일 ‘.chm’ 받았다면? 악성코드 감염 조심]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105855&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105855&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Mon, 04 Apr 2022 04:20:35 GMT</pubDate>
-            <content:encoded><![CDATA[최근 윈도우 도움말 파일(chm)을 이용한 악성 이메일이 지속적으로 발견되고 있어 사용자들의 주의가 필요하다. 이스트시큐리티 시큐리티대응센터(ESRC)에 따르면 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/esrc_040301_main.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[긴급] 스프링 클라우드의 신규 취약점 스캔 공격 시작! 보안 패치 시급]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105859&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
@@ -166,6 +158,14 @@
             <pubDate>Sun, 10 Apr 2022 11:14:30 GMT</pubDate>
             <content:encoded><![CDATA[금융보안원(원장 김철웅)은 디지털금융 및 다양한 금융보안 분야에 대한 우수한 논문을 발굴하고, 국민적 관심을 고취하기 위해 2022년도 ‘제6회 금융보안원 논문공...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/20220404fsr-s.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[인도, 국가 차원의 보안산업 재정비에 따라 생체인식 수요 증가]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105822&amp;page=1&amp;kind=4&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105822&amp;page=1&amp;kind=4&amp;search=title&amp;find=</guid>
+            <pubDate>Sun, 10 Apr 2022 14:15:33 GMT</pubDate>
+            <content:encoded><![CDATA[인도의 ‘디지털 인디아(Digital India)’ 정책 하에 보안 인프라를 강화하기 위해 노력하고 있다. 인도 정부는 ‘디지털 인디아’ 정책 내에 스마트시티를 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/22033106ss.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
