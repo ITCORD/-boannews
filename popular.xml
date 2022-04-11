@@ -4,17 +4,9 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Apr 2022 05:20:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2022 06:23:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[2022년에만 벌써 4개! 애플의 제로데이 고통은 올해에도 이어진다]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105868&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105868&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Tue, 05 Apr 2022 07:16:11 GMT</pubDate>
-            <content:encoded><![CDATA[애플의 장비와 기술들이 점점 더 많은 비즈니스 현장에 도입되고 있다. 그에 따라 보안 전문가들의 관심을 요구하는 사건들 역시 점점 늘어나고 있다. 그 중 가장 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/apple-thumb-0404.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[애플의 맥 사용하는 사람들 중 최대 40%가 제로데이 공격에 노출돼]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105925&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
@@ -112,6 +104,30 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/coding-thumb-0406.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[‘방역 수칙 위반 경찰서 출석요구서’ 사칭한 악성메일 유포중]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105915&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105915&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Sun, 10 Apr 2022 17:17:14 GMT</pubDate>
+            <content:encoded><![CDATA[최근 코로나19 방역 수칙 위반 경찰서 출석요구서나 긴급재난지원금 신청서 등을 사칭한 악성 메일이 발견돼 사용자들의 주의가 요구된다. 보안 전문 기업 이스트시큐리...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/est_040701_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[리눅스의 보안 위협, 점점 더 증가하고 있다]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105954&amp;page=1&amp;kind=4&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105954&amp;page=1&amp;kind=4&amp;search=title&amp;find=</guid>
+            <pubDate>Mon, 11 Apr 2022 06:21:09 GMT</pubDate>
+            <content:encoded><![CDATA[대수롭지 않게 보이는 것들, 혹은 거기 있는 줄도 몰랐던 사소한 것들이 꽤나 큰 문제를 일으키는 사례가 보안 업계에서는 흔히 나타난다. 좋은 예가 있으니 ELF ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/lin-thumb-0409.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[주말판] 인공지능이 채용하는 시대가 코앞인데, 안전장치는 마련되고 있나]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105934&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105934&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
+            <pubDate>Mon, 11 Apr 2022 06:21:09 GMT</pubDate>
+            <content:encoded><![CDATA[일자리를 찾고 이력서를 작성하여 제출하는 모든 과정은 거의 대부분 온라인에서 진행된다. 구직자와 구인자들을 위한 도구들이며 플랫폼이 넘쳐나는 시대니까. 게다가 팬...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/hire-thumb-0408.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[전기자동차 충전 독 CCS, 해킹 공격에 취약할 수 있어]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105884&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105884&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
@@ -120,20 +136,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/charge-thumb-0405.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[한국 어셈넥스트 팀, ‘바이트코드 얼라이언스’ 합류]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105951&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105951&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
+            <pubDate>Mon, 11 Apr 2022 05:17:27 GMT</pubDate>
+            <content:encoded><![CDATA[한국의 어셈넥스트(AsmNext) 팀이 2022년 01월부터 ‘차세대 어셈블리’라 불리는 웹어셈블리 연구개발 협회 ‘바이트코드 얼라이언스’에 합류했다고 밝혔다.]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/asm_040801_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[비스트모드 봇넷, 토토링크 라우터들을 집중적으로 노려]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105883&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105883&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Thu, 07 Apr 2022 07:16:35 GMT</pubDate>
             <content:encoded><![CDATA[보안 외신 시큐리트위크가 새롭게 나타난 비스트모드(Beastmode) 봇넷에 대하여 보도했다. 이에 의하면 비스트모드는 디도스 공격을 전문으로 하는 유명 봇넷 미...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/bm-thumb-0405.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘방역 수칙 위반 경찰서 출석요구서’ 사칭한 악성메일 유포중]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105915&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105915&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Sun, 10 Apr 2022 17:17:14 GMT</pubDate>
-            <content:encoded><![CDATA[최근 코로나19 방역 수칙 위반 경찰서 출석요구서나 긴급재난지원금 신청서 등을 사칭한 악성 메일이 발견돼 사용자들의 주의가 요구된다. 보안 전문 기업 이스트시큐리...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/est_040701_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[VM웨어, 스프링4셸 취약점에 대한 패치 대량으로 배포 중]]></title>
@@ -150,22 +166,6 @@
             <pubDate>Mon, 11 Apr 2022 04:21:23 GMT</pubDate>
             <content:encoded><![CDATA[인도의 ‘디지털 인디아(Digital India)’ 정책 하에 보안 인프라를 강화하기 위해 노력하고 있다. 인도 정부는 ‘디지털 인디아’ 정책 내에 스마트시티를 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/22033106ss.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[산불 피해 기부 영수증? 열어 보니 악성 문서 파일]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105896&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105896&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Sun, 10 Apr 2022 08:18:50 GMT</pubDate>
-            <content:encoded><![CDATA[지난 3월 한 달 간 ‘울진 산불 피해 기부금 영수증’, ‘코로나 확진자 및 동거인 안내문’, ‘제품 소개 카탈로그’ 등 다양한 내용으로 위장한 악성 문서 파일 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/ahn_0406_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한국 어셈넥스트 팀, ‘바이트코드 얼라이언스’ 합류]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105951&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105951&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
-            <pubDate>Mon, 11 Apr 2022 05:17:27 GMT</pubDate>
-            <content:encoded><![CDATA[한국의 어셈넥스트(AsmNext) 팀이 2022년 01월부터 ‘차세대 어셈블리’라 불리는 웹어셈블리 연구개발 협회 ‘바이트코드 얼라이언스’에 합류했다고 밝혔다.]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/asm_040801_main.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
