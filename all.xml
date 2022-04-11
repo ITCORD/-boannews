@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Apr 2022 20:21:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2022 21:17:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -360,20 +360,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/est_040701_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[시큐어 코딩을 정착시키기 위해서는 조직 전체가 움직여야 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105907&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105907&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Fri, 08 Apr 2022 05:15:17 GMT</pubDate>
-            <content:encoded><![CDATA[시큐어 코딩이라는 문화가 개발자와 기업들에 정착하기까지는 아직 한참 남은 것으로 보인다. 하지만 희망은 있다. 조금씩 그 방향으로의 진전이 분명히 이뤄지고 있다는...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/coding-thumb-0406.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[에스알 보안 강화 사례] 국민 안전 싣고 ‘SR 보안특급열차’ 달린다 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105953&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105953&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
             <pubDate>Mon, 11 Apr 2022 12:29:02 GMT</pubDate>
             <content:encoded><![CDATA[에스알(SR)은 이용자의 서비스 선택권 확대와 합리적인 경쟁을 통한 철도산업 발전과 국민안전 및 편익 제고를 위해 2013년 12월에 설립된 SRT 고속열차 운영...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/sr_0408%20(0)_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[시큐어 코딩을 정착시키기 위해서는 조직 전체가 움직여야 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105907&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105907&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Fri, 08 Apr 2022 05:15:17 GMT</pubDate>
+            <content:encoded><![CDATA[시큐어 코딩이라는 문화가 개발자와 기업들에 정착하기까지는 아직 한참 남은 것으로 보인다. 하지만 희망은 있다. 조금씩 그 방향으로의 진전이 분명히 이뤄지고 있다는...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/coding-thumb-0406.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[수많은 삼성 안드로이드 장비들에서 위험한 취약점 발견돼 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
