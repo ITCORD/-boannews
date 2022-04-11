@@ -4,17 +4,9 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Apr 2022 01:16:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2022 03:11:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[긴급] 스프링 클라우드의 신규 취약점 스캔 공격 시작! 보안 패치 시급]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105859&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105859&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Tue, 05 Apr 2022 05:15:32 GMT</pubDate>
-            <content:encoded><![CDATA[최근 발견된 스프링 클라우드(Spring Cloud)의 취약점을 공격하기 위한 스캔시도가 시작되고 있어 사용자들의 조속한 패치가 요구된다고 영남이공대학교(총장 이...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/20220404springm-s.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[2022년에만 벌써 4개! 애플의 제로데이 고통은 올해에도 이어진다]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105868&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
@@ -120,6 +112,14 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/charge-thumb-0405.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[수많은 삼성 안드로이드 장비들에서 위험한 취약점 발견돼]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105944&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105944&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Sun, 10 Apr 2022 23:16:03 GMT</pubDate>
+            <content:encoded><![CDATA[보안 블로그 시큐리티어페어즈에 의하면 안드로이드 9, 10, 11, 12를 기반으로 한 장비들에서 CVE-2022-22292라는 취약점이 발견됐다고 한다. 익스플...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/android-thumb-0408.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[비스트모드 봇넷, 토토링크 라우터들을 집중적으로 노려]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105883&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105883&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
@@ -144,12 +144,12 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/spring-thumb-0405.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[수많은 삼성 안드로이드 장비들에서 위험한 취약점 발견돼]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105944&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105944&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Sun, 10 Apr 2022 23:16:03 GMT</pubDate>
-            <content:encoded><![CDATA[보안 블로그 시큐리티어페어즈에 의하면 안드로이드 9, 10, 11, 12를 기반으로 한 장비들에서 CVE-2022-22292라는 취약점이 발견됐다고 한다. 익스플...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/android-thumb-0408.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[‘방역 수칙 위반 경찰서 출석요구서’ 사칭한 악성메일 유포중]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105915&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105915&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Sun, 10 Apr 2022 17:17:14 GMT</pubDate>
+            <content:encoded><![CDATA[최근 코로나19 방역 수칙 위반 경찰서 출석요구서나 긴급재난지원금 신청서 등을 사칭한 악성 메일이 발견돼 사용자들의 주의가 요구된다. 보안 전문 기업 이스트시큐리...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/est_040701_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[산불 피해 기부 영수증? 열어 보니 악성 문서 파일]]></title>
@@ -160,12 +160,12 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/ahn_0406_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[‘방역 수칙 위반 경찰서 출석요구서’ 사칭한 악성메일 유포중]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105915&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105915&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Sun, 10 Apr 2022 17:17:14 GMT</pubDate>
-            <content:encoded><![CDATA[최근 코로나19 방역 수칙 위반 경찰서 출석요구서나 긴급재난지원금 신청서 등을 사칭한 악성 메일이 발견돼 사용자들의 주의가 요구된다. 보안 전문 기업 이스트시큐리...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/est_040701_main.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[디지털금융 및 금융보안 분야 논문공모전 열린다]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105869&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105869&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
+            <pubDate>Mon, 11 Apr 2022 03:08:02 GMT</pubDate>
+            <content:encoded><![CDATA[금융보안원(원장 김철웅)은 디지털금융 및 다양한 금융보안 분야에 대한 우수한 논문을 발굴하고, 국민적 관심을 고취하기 위해 2022년도 ‘제6회 금융보안원 논문공...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/20220404fsr-s.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
