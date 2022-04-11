@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-04-10T23:19:32.900Z</updated>
+    <updated>2022-04-11T01:16:06.351Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이종호 과기정통부 장관 후보자 “사이버보안 대응체계 강화할 것”]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=105958&amp;page=1&amp;mkind=1&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=105958&amp;page=1&amp;mkind=1&amp;kind=2"/>
+        <updated>2022-04-11T01:13:28.665Z</updated>
+        <content type="html"><![CDATA[윤석열 당선인에게 과학기술정보통신부(이하 과기정통부) 장관 후보자로 지명된 이종호 서울대 전기정보공학부 교수가 사이버보안 대응체계를 강화해 안전한 국가를 만들어가겠다는 소감을 밝혔다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[개인정보 보호·활용 우수기술 발굴 위해 스타트업 지원한다]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=105957&amp;page=1&amp;mkind=1&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=105957&amp;page=1&amp;mkind=1&amp;kind=2"/>
+        <updated>2022-04-11T01:13:28.666Z</updated>
+        <content type="html"><![CDATA[정부가 개인정보의 보호와 활용에 관한 우수기술을 보유한 새싹기업(스타트업) 및 중소기업 발굴에 나선다. 개인정보보호위원회(위원장 윤종인, 이하 개인정보위)와 한국인터넷진흥원(원장 이원태, 이하 KISA)은 우수 개인정보 보호·활용 기술에 대한 발굴·지원을 위한 ‘제2회...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[윤석열 당선인, ICT·보안 정책 총괄 과기정통부 장관 후보에 서울대 이종호 교수 지명]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=105956&amp;page=1&amp;mkind=1&amp;kind=2</id>
@@ -109,19 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=105941&amp;page=1&amp;mkind=1&amp;kind=1"/>
         <updated>2022-04-08T03:39:35.662Z</updated>
         <content type="html"><![CDATA[유명 금융 및 핀테크 플랫폼의 API에서 서버 사이드 요청 조작(Server Side Request Forgery, SSRF) 취약점이 발견됐다고 보안 외신 쓰레트포스트가 보도했다. 취약점 익스플로잇에 성공할 경우 공격자들은 관리자 권한을 얻게 되며, 이를 통해 여러 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[안랩, 임직원 대상 ‘ESG와 윤리·준법경영’ 교육 진행]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=105940&amp;page=1&amp;mkind=1&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=105940&amp;page=1&amp;mkind=1&amp;kind=3"/>
-        <updated>2022-04-08T03:39:35.665Z</updated>
-        <content type="html"><![CDATA[안랩(대표 강석균)이 4월 7일(목) ‘ESG경영과 윤리·준법 경영’을 주제로 임직원 대상 ESG 교육을 실시했다. 이번 교육은 ‘부를 부르는 ESG’의 저자인 문성후 ESG중심연구소 소장을 초청해 ESG가 가진 함축적인 의미와 ESG경영 관점의 윤리 및 준법 경영에 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[줌, 지난 한 해 버그바운티로 180만 달러 지급]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=105938&amp;page=1&amp;mkind=1&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=105938&amp;page=1&amp;mkind=1&amp;kind=3"/>
-        <updated>2022-04-08T03:01:09.647Z</updated>
-        <content type="html"><![CDATA[줌(Zoom Video Communications)이 2019년 버그바운티 프로그램을 시작한 이래 버그 리포트에 대한 보상으로 미화 240만 달러(한화 약 29억 2,000만원)가 넘는 상금과 선물을 지불했다고 밝혔다. 특히 줌은 2021년 401개 리포트에 대한 보상...]]></content>
     </entry>
 </feed>
