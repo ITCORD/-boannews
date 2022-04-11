@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 11 Apr 2022 06:23:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2022 07:20:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -88,20 +88,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/googit-thumb-0408.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[리눅스의 보안 위협, 점점 더 증가하고 있다]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105954&amp;page=1&amp;kind=4&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105954&amp;page=1&amp;kind=4&amp;search=title&amp;find=</guid>
+            <pubDate>Mon, 11 Apr 2022 06:21:09 GMT</pubDate>
+            <content:encoded><![CDATA[대수롭지 않게 보이는 것들, 혹은 거기 있는 줄도 몰랐던 사소한 것들이 꽤나 큰 문제를 일으키는 사례가 보안 업계에서는 흔히 나타난다. 좋은 예가 있으니 ELF ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/lin-thumb-0409.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[수많은 삼성 안드로이드 장비들에서 위험한 취약점 발견돼]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105944&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105944&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Sun, 10 Apr 2022 23:16:03 GMT</pubDate>
             <content:encoded><![CDATA[보안 블로그 시큐리티어페어즈에 의하면 안드로이드 9, 10, 11, 12를 기반으로 한 장비들에서 CVE-2022-22292라는 취약점이 발견됐다고 한다. 익스플...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/android-thumb-0408.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[시큐어 코딩을 정착시키기 위해서는 조직 전체가 움직여야]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105907&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105907&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Fri, 08 Apr 2022 05:15:17 GMT</pubDate>
-            <content:encoded><![CDATA[시큐어 코딩이라는 문화가 개발자와 기업들에 정착하기까지는 아직 한참 남은 것으로 보인다. 하지만 희망은 있다. 조금씩 그 방향으로의 진전이 분명히 이뤄지고 있다는...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/coding-thumb-0406.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘방역 수칙 위반 경찰서 출석요구서’ 사칭한 악성메일 유포중]]></title>
@@ -112,12 +112,12 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/est_040701_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[리눅스의 보안 위협, 점점 더 증가하고 있다]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105954&amp;page=1&amp;kind=4&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105954&amp;page=1&amp;kind=4&amp;search=title&amp;find=</guid>
-            <pubDate>Mon, 11 Apr 2022 06:21:09 GMT</pubDate>
-            <content:encoded><![CDATA[대수롭지 않게 보이는 것들, 혹은 거기 있는 줄도 몰랐던 사소한 것들이 꽤나 큰 문제를 일으키는 사례가 보안 업계에서는 흔히 나타난다. 좋은 예가 있으니 ELF ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/lin-thumb-0409.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[시큐어 코딩을 정착시키기 위해서는 조직 전체가 움직여야]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105907&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105907&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Fri, 08 Apr 2022 05:15:17 GMT</pubDate>
+            <content:encoded><![CDATA[시큐어 코딩이라는 문화가 개발자와 기업들에 정착하기까지는 아직 한참 남은 것으로 보인다. 하지만 희망은 있다. 조금씩 그 방향으로의 진전이 분명히 이뤄지고 있다는...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/coding-thumb-0406.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[주말판] 인공지능이 채용하는 시대가 코앞인데, 안전장치는 마련되고 있나]]></title>
@@ -128,14 +128,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/hire-thumb-0408.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[전기자동차 충전 독 CCS, 해킹 공격에 취약할 수 있어]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105884&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105884&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Thu, 07 Apr 2022 08:21:07 GMT</pubDate>
-            <content:encoded><![CDATA[보안 외신 해커뉴스에 의하면 옥스포드대학의 연구원들이 CCS라는 전기자동차 충전 독에 대한 해킹 공격 기법을 발견했다고 한다. 이 공격에 성공할 경우 CCS를 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/charge-thumb-0405.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[한국 어셈넥스트 팀, ‘바이트코드 얼라이언스’ 합류]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105951&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105951&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
@@ -144,20 +136,28 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/asm_040801_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[비스트모드 봇넷, 토토링크 라우터들을 집중적으로 노려]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105883&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105883&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Thu, 07 Apr 2022 07:16:35 GMT</pubDate>
-            <content:encoded><![CDATA[보안 외신 시큐리트위크가 새롭게 나타난 비스트모드(Beastmode) 봇넷에 대하여 보도했다. 이에 의하면 비스트모드는 디도스 공격을 전문으로 하는 유명 봇넷 미...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/bm-thumb-0405.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[이종호 과기정통부 장관 후보자 “사이버보안 대응체계 강화할 것”]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105958&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105958&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
+            <pubDate>Mon, 11 Apr 2022 07:17:44 GMT</pubDate>
+            <content:encoded><![CDATA[윤석열 당선인에게 과학기술정보통신부(이하 과기정통부) 장관 후보자로 지명된 이종호 서울대 전기정보공학부 교수가 사이버보안 대응체계를 강화해 안전한 국가를 만들어가...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/msit_041001_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[VM웨어, 스프링4셸 취약점에 대한 패치 대량으로 배포 중]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105885&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105885&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Fri, 08 Apr 2022 04:20:25 GMT</pubDate>
-            <content:encoded><![CDATA[보안 블로그 시큐리티어페어즈가 VM웨어(VMware)의 패치에 대한 소식을 전달하고 있다. 최근 발견된 스프링4셸(Spring4Shell) 취약점을 자사 제품들로...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/spring-thumb-0405.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[전기자동차 충전 독 CCS, 해킹 공격에 취약할 수 있어]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105884&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105884&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Thu, 07 Apr 2022 08:21:07 GMT</pubDate>
+            <content:encoded><![CDATA[보안 외신 해커뉴스에 의하면 옥스포드대학의 연구원들이 CCS라는 전기자동차 충전 독에 대한 해킹 공격 기법을 발견했다고 한다. 이 공격에 성공할 경우 CCS를 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/charge-thumb-0405.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[중국 해커들, VLC 미디어 플레이어 통해 멀웨어 퍼트려]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105906&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105906&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Mon, 11 Apr 2022 07:17:44 GMT</pubDate>
+            <content:encoded><![CDATA[중국 해커들의 오래된 공격 캠페인이 발견됐다고 IT 외신 블리핑컴퓨터가 보도했다. 이 캠페인에서 중국 해커들이 악용한 건 유명 미디어 플레이어 앱인 VLC 미디어...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/med-thumb-0406.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[인도, 국가 차원의 보안산업 재정비에 따라 생체인식 수요 증가]]></title>
