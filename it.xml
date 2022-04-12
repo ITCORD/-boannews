@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=2</id>
     <title>보안뉴스 ─ IT</title>
-    <updated>2022-04-12T08:24:37.962Z</updated>
+    <updated>2022-04-12T09:19:34.530Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[IT 분야의 신기술, 스마트빌딩을 더 ‘그린’으로 변화시키라]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=105931&amp;page=1&amp;mkind=2&amp;kind=4</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=105931&amp;page=1&amp;mkind=2&amp;kind=4"/>
+        <updated>2022-04-12T09:17:03.622Z</updated>
+        <content type="html"><![CDATA[지속가능성과 환경 보호라는 개념이 기업들의 사업 활동에 끼어들기 시작했다. 그러면서 기업들은 자신들의 사무 공간 내에서 재활용을 잘 한다거나 물건을 아껴서 쓴다거나 하는 것만으로는 충분치 않다는 것을 깨달아 가고 있다. 데이터센터만 해도 수백~수천 개에 달하는 요소들이...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[조용히 발전을 거듭하고 있는 데이터 스토리지 기술 분야의 현 주소]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=105910&amp;page=1&amp;mkind=2&amp;kind=4</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=105731&amp;page=1&amp;mkind=2&amp;kind=2"/>
         <updated>2022-03-30T10:18:39.584Z</updated>
         <content type="html"><![CDATA[4차 산업혁명 분야 스타트업 보육공간 ‘경기 스타트업 랩(Startup-lab)’이 올해 메타버스 등 초연결 신산업 스타트업 육성에 박차를 가한다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서울시, 중소·벤처·창업기업 기술 경쟁력 키운다]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=105733&amp;page=1&amp;mkind=2&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=105733&amp;page=1&amp;mkind=2&amp;kind=2"/>
-        <updated>2022-03-30T02:56:27.659Z</updated>
-        <content type="html"><![CDATA[서울시와 서울산업진흥원은 급속도로 발전하는 기술경쟁 시대 속에 우리 기업들의 경쟁력을 강화하기 위해 한층 더 전략적인 기술개발(R&amp;D) 지원에 나선다. 올 한 해만 383억원의 기술개발(R&amp;D) 예산을 집중 투입해 서울의 새로운 일자리 창출과 미래 경제로의 도약을 견인...]]></content>
     </entry>
 </feed>
