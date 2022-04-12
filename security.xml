@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-04-12T04:23:17.543Z</updated>
+    <updated>2022-04-12T05:18:02.699Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[또 다시 NPM에 나타난 프로테스트웨어, 오픈소스 망가트려]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=105986&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=105986&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-04-12T05:15:42.687Z</updated>
+        <content type="html"><![CDATA[NPM이라는 코드 리포지터리에 공개된 오픈소스 코드 중 event-source-polyfill이라는 패키지에 수상한 코드가 추가됐다고 블리핑컴퓨터가 보도했다. 원래는 웹 브라우저에 자바스크립트 기능을 추가하는 패키지였고, 13만 개가 넘는 깃허브 프로젝트에서 사용될 정...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[정보 탈취형 멀웨어 2개, 새롭게 등장해 사이버 공간 위협]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=105985&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=105985&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-04-12T05:15:42.689Z</updated>
+        <content type="html"><![CDATA[보안 외신 해커뉴스에 의하면 정보 탈취형 멀웨어가 2개나 새롭게 발견됐다고 한다. 이름은 에프에프드로이더(FFDroider)와 라이트닝스틸러(Lightning Stealer)이다. 에프에프드로이더는 텔레그램 앱으로 위장된 채 피해자의 시스템에 설치되고, 각종 프리웨어의...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[미국 CISA, 러시아 공격자들의 워치가드 버그 악용에 대해 경고]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=105984&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=105984&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-04-12T05:15:42.690Z</updated>
+        <content type="html"><![CDATA[IT 외신 블리핑컴퓨터에 의하면 미국의 사이버 보안 전문 기관인 CISA가 대국민 경고를 다시 한 번 발표했다고 한다. 러시아의 해킹 부대가 워치가드 파이어박스(WatchGuard Firebox)와 XTM이라는 방화벽 장비에서 발견된 취약점을 적극적으로 익스플로잇 하고...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MS, 우크라이나 공격에 활용되던 도메인들 폐쇄시켜]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=105983&amp;page=1&amp;mkind=1&amp;kind=1</id>
@@ -102,26 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=105954&amp;page=1&amp;mkind=1&amp;kind=4"/>
         <updated>2022-04-11T03:08:12.050Z</updated>
         <content type="html"><![CDATA[대수롭지 않게 보이는 것들, 혹은 거기 있는 줄도 몰랐던 사소한 것들이 꽤나 큰 문제를 일으키는 사례가 보안 업계에서는 흔히 나타난다. 좋은 예가 있으니 ELF 바이너리 형태로 기획된 리눅스 멀웨어다. 리눅스라는 것이 광범위하게 우리 생활 곳곳에 퍼지고 있는데, 대부분...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이종호 과기정통부 장관 후보자 “사이버보안 대응체계 강화할 것”]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=105958&amp;page=1&amp;mkind=1&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=105958&amp;page=1&amp;mkind=1&amp;kind=2"/>
-        <updated>2022-04-11T01:13:28.665Z</updated>
-        <content type="html"><![CDATA[윤석열 당선인에게 과학기술정보통신부(이하 과기정통부) 장관 후보자로 지명된 이종호 서울대 전기정보공학부 교수가 사이버보안 대응체계를 강화해 안전한 국가를 만들어가겠다는 소감을 밝혔다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[개인정보 보호·활용 우수기술 발굴 위해 스타트업 지원한다]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=105957&amp;page=1&amp;mkind=1&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=105957&amp;page=1&amp;mkind=1&amp;kind=2"/>
-        <updated>2022-04-11T01:13:28.666Z</updated>
-        <content type="html"><![CDATA[정부가 개인정보의 보호와 활용에 관한 우수기술을 보유한 새싹기업(스타트업) 및 중소기업 발굴에 나선다. 개인정보보호위원회(위원장 윤종인, 이하 개인정보위)와 한국인터넷진흥원(원장 이원태, 이하 KISA)은 우수 개인정보 보호·활용 기술에 대한 발굴·지원을 위한 ‘제2회...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤석열 당선인, ICT·보안 정책 총괄 과기정통부 장관 후보에 서울대 이종호 교수 지명]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=105956&amp;page=1&amp;mkind=1&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=105956&amp;page=1&amp;mkind=1&amp;kind=2"/>
-        <updated>2022-04-10T15:16:53.985Z</updated>
-        <content type="html"><![CDATA[윤석열 대통령 당선인이 새 정부 초대 과기정통부 장관 후보자로 이종호 서울대 전기정보공학부 교수를 지명했다. 윤 당선인은 10일 통의동 대통령직인수위원회 기자회견장에서 8명의 장관 후보에 대한 내각 인선을 발표하면서 이종호 교수 지명 사실을 밝혔다.]]></content>
     </entry>
 </feed>
