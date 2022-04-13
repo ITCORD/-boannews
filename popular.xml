@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Apr 2022 05:18:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Apr 2022 06:23:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -128,14 +128,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/coding-thumb-0406.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[수많은 삼성 안드로이드 장비들에서 위험한 취약점 발견돼]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105944&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105944&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Sun, 10 Apr 2022 23:16:03 GMT</pubDate>
-            <content:encoded><![CDATA[보안 블로그 시큐리티어페어즈에 의하면 안드로이드 9, 10, 11, 12를 기반으로 한 장비들에서 CVE-2022-22292라는 취약점이 발견됐다고 한다. 익스플...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/android-thumb-0408.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[인터뷰] 누적 1억명 사용자의 ‘보안’을 지킨 SR 정보보안부]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105976&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105976&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
@@ -144,12 +136,12 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/SR_041201_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[SECON & eGISEC 2022, 4월 20~22일 개최... 3일간의 동시개최 컨퍼런스는?]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105965&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105965&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
-            <pubDate>Tue, 12 Apr 2022 23:16:45 GMT</pubDate>
-            <content:encoded><![CDATA[4월 20일부터 22일까지 일산 킨텍스 제1전시장에서는 국내외 보안 시장 동향과 기술 트렌드를 한 눈에 살펴볼 수 있는 제21회 세계보안엑스포(SECON &amp; eG...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/22041105ss.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[수많은 삼성 안드로이드 장비들에서 위험한 취약점 발견돼]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105944&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105944&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Sun, 10 Apr 2022 23:16:03 GMT</pubDate>
+            <content:encoded><![CDATA[보안 블로그 시큐리티어페어즈에 의하면 안드로이드 9, 10, 11, 12를 기반으로 한 장비들에서 CVE-2022-22292라는 취약점이 발견됐다고 한다. 익스플...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/android-thumb-0408.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[우크라이나 IT 전문가들의 전쟁과 리질리언스 이야기]]></title>
@@ -158,6 +150,14 @@
             <pubDate>Tue, 12 Apr 2022 18:20:02 GMT</pubDate>
             <content:encoded><![CDATA[대다수 우크라이나인들이 그렇듯 우크라이나 IT 업계에서 근무하던 28만 5천여 명의 사람들도 2월 24일 러시아의 침공과 폭력적인 공격 행위에 소스라치게 놀랐다....]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/uk-thumb-0410.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SECON & eGISEC 2022, 4월 20~22일 개최... 3일간의 동시개최 컨퍼런스는?]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105965&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105965&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
+            <pubDate>Tue, 12 Apr 2022 23:16:45 GMT</pubDate>
+            <content:encoded><![CDATA[4월 20일부터 22일까지 일산 킨텍스 제1전시장에서는 국내외 보안 시장 동향과 기술 트렌드를 한 눈에 살펴볼 수 있는 제21회 세계보안엑스포(SECON &amp; eG...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/22041105ss.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한국 어셈넥스트 팀, ‘바이트코드 얼라이언스’ 합류]]></title>
