@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-04-12T23:19:36.015Z</updated>
+    <updated>2022-04-13T01:19:28.330Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[누구나 큐알코드 앞에 서면 파블로프의 개 신세가 된다?]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=105971&amp;page=1&amp;mkind=1&amp;kind=4</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=105971&amp;page=1&amp;mkind=1&amp;kind=4"/>
+        <updated>2022-04-13T01:16:44.809Z</updated>
+        <content type="html"><![CDATA[큐알코드는 현대 성인들의 일상에 깊숙하게 들어와 있는 IT 요소 중 하나다. 미국의 경우 거대 스포츠 행사 중 하나인 슈퍼볼선데이(Super Bowl Sunday)에서 큐알코드를 적극하는 바람에 큐알코드가 더 대중화 되고 있다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[KISA, ‘제4회 AI Security Day’ 세미나 개최]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=105982&amp;page=1&amp;mkind=1&amp;kind=2</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=105962&amp;page=1&amp;mkind=1&amp;kind=3"/>
         <updated>2022-04-12T01:11:31.211Z</updated>
         <content type="html"><![CDATA[IoT 및 양자 보안 전문 기업 노르마(대표 정현철)가 세계보안엑스포에 참가해 신제품을 알리고 IoT 해킹 시연을 하는 등 다양한 퍼포먼스를 선보인다. 노르마는 오는 20일부터 22일까지 일산 킨텍스 제1전시장 3~5홀에서 개최되는 제21회 세계보안엑스포(SECON &amp;...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[에스알 보안 강화 사례] 국민 안전 싣고 ‘SR 보안특급열차’ 달린다]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=105953&amp;page=1&amp;mkind=1&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=105953&amp;page=1&amp;mkind=1&amp;kind=2"/>
-        <updated>2022-04-11T03:08:12.044Z</updated>
-        <content type="html"><![CDATA[에스알(SR)은 이용자의 서비스 선택권 확대와 합리적인 경쟁을 통한 철도산업 발전과 국민안전 및 편익 제고를 위해 2013년 12월에 설립된 SRT 고속열차 운영기관(준시장형 공기업)이다.]]></content>
     </entry>
 </feed>
