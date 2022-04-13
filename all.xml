@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Apr 2022 08:24:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Apr 2022 09:19:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[거의 모든 오픈소스들에 보안 취약점이 한 개 이상 존재한다 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106024&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106024&amp;page=1&amp;kind=1</guid>
+            <pubDate>Wed, 13 Apr 2022 09:16:27 GMT</pubDate>
+            <content:encoded><![CDATA[오픈소스 소프트웨어에의 코드베이스 공유 비율이 2021년 한 해 동안 78% 증가했다. 같은 코드베이스를 사용하여 만들어진 소프트웨어가 적지 않다는 뜻인데...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/19974920_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[러시아의 해킹 부대, 우크라이나에 정전 사태 일으키려 했다 (보안뉴스 ─ 전체기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=106023&amp;page=1&amp;kind=1</link>
@@ -80,14 +88,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/eGISEC_041200_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[기관·기업 보안담당자들의 기술보호 업무 스킬업과 실전 노하우 공유 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105989&amp;page=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105989&amp;page=1&amp;kind=3</guid>
-            <pubDate>Wed, 13 Apr 2022 03:03:03 GMT</pubDate>
-            <content:encoded><![CDATA[일선 현장에서의 보안담당자들을 위한 실전 스킬과 노하우를 알려주는 ‘2022년 산업현장인력 보안교육’이 오는 4월 20일 수요일 오후 1시부터 일산 킨텍스...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/secon_conference2022_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[롯데호텔과 아시아제지 등 열화상 카메라에 영상 저장한 사업자 ‘과태료’ (보안뉴스 ─ 전체기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=106022&amp;page=1&amp;kind=2</link>
             <guid>https://www.boannews.com/media/view.asp?idx=106022&amp;page=1&amp;kind=2</guid>
@@ -149,6 +149,14 @@
             <guid>https://www.boannews.com/media/view.asp?idx=106013&amp;page=1&amp;kind=1</guid>
             <pubDate>Wed, 13 Apr 2022 06:20:50 GMT</pubDate>
             <content:encoded><![CDATA[△내 용 : 황호원 한국항공대학교 교수・한국항공보안학회 회장 모친상 △빈 소 : 연세대 신촌세브란스병원장례식장 17호실 △발 인 : 2022년...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[기관·기업 보안담당자들의 기술보호 업무 스킬업과 실전 노하우 공유 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105989&amp;page=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105989&amp;page=1&amp;kind=3</guid>
+            <pubDate>Wed, 13 Apr 2022 03:03:03 GMT</pubDate>
+            <content:encoded><![CDATA[일선 현장에서의 보안담당자들을 위한 실전 스킬과 노하우를 알려주는 ‘2022년 산업현장인력 보안교육’이 오는 4월 20일 수요일 오후 1시부터 일산 킨텍스...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/secon_conference2022_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[테크칼럼] 끝나지 않은 ‘Log4j’ 취약점, 마이크로세그멘테이션으로 대응하라 (보안뉴스 ─ 전체기사)]]></title>
@@ -237,14 +245,6 @@
             <pubDate>Tue, 12 Apr 2022 09:16:25 GMT</pubDate>
             <content:encoded><![CDATA[‘데이터 산업진흥 및 이용촉진에 관한 기본법 시행령안’이 4월 12일(화) 국무회의에서 의결돼 4월 20일(수)부터 시행될 예정이라고 과학기술정보통신부(장...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/20721747_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SR, 노사 상생 공동 선언문 선포 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105992&amp;page=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105992&amp;page=1&amp;kind=3</guid>
-            <pubDate>Tue, 12 Apr 2022 09:16:25 GMT</pubDate>
-            <content:encoded><![CDATA[SRT 운영사 SR(대표이사 이종국)은 12일(화) SR노동조합(위원장 김상수)과 ‘노사 상생 공동선언 협약’을 체결했다.]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/SR_041201_main(0).jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[리눅스의 보안 위협, 점점 더 증가하고 있다 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
@@ -407,6 +407,13 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/shark-thumb-0412.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[알약, 1분기 랜섬웨어 행위기반 차단 건수 총 17만7천여 건 (보안뉴스 ─ SECURITY)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106017&amp;page=1&amp;mkind=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106017&amp;page=1&amp;mkind=1&amp;kind=3</guid>
+            <pubDate>Wed, 13 Apr 2022 09:17:01 GMT</pubDate>
+            <content:encoded><![CDATA[보안 전문 기업 이스트시큐리티(대표 정진일)는 자사의 백신 프로그램 ‘알약’에 탑재되어 있는 ‘랜섬웨어 행위기반 사전 차단’기능을 통해, 2022년 1분기 총 17만 7천732건의 랜섬웨어 공격을 차단했다고 13일 밝혔다.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[소프트캠프-인정보기술, 표준기록물관리 시장 진출 위한 업무협약 체결 (보안뉴스 ─ SECURITY)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=106015&amp;page=1&amp;mkind=1&amp;kind=3</link>
             <guid>https://www.boannews.com/media/view.asp?idx=106015&amp;page=1&amp;mkind=1&amp;kind=3</guid>
@@ -517,13 +524,6 @@
             <guid>https://www.boannews.com/media/view.asp?idx=105999&amp;page=1&amp;mkind=1&amp;kind=3</guid>
             <pubDate>Wed, 13 Apr 2022 03:03:35 GMT</pubDate>
             <content:encoded><![CDATA[물리보안과 사이버보안을 아우르는 국내 최대 통합보안 전시회인 제21회 세계보안엑스포(SECON &amp; eGISEC 2022)는 4월 20일부터 22일까지 3일간 일산 킨텍스 제1전시장 3~5홀에서 개최된다. SECON &amp; eGISEC 2022는 공식 홈페이지를 통해 사전등...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[파수, CIO 리뷰 매거진 ‘최고 유망 문서 관리 시스템’ 선정 (보안뉴스 ─ SECURITY)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106000&amp;page=1&amp;mkind=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106000&amp;page=1&amp;mkind=1&amp;kind=3</guid>
-            <pubDate>Wed, 13 Apr 2022 03:03:35 GMT</pubDate>
-            <content:encoded><![CDATA[데이터 보안 업계를 선도하고 있는 파수(대표 조규곤)는 글로벌 IT 매거진 ‘CIO Review(이하 CIO리뷰)’가 주관한 ‘2022 최고 유망 문서 관리 시스템(2022 Most Promising Document Management Systems Provider)’...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[우크라이나 IT 전문가들의 전쟁과 리질리언스 이야기 (보안뉴스 ─ IT)]]></title>
@@ -1900,6 +1900,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220311YOUN-S.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
+            <title><![CDATA[거의 모든 오픈소스들에 보안 취약점이 한 개 이상 존재한다 (보안뉴스 ─ 국제)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106024&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106024&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
+            <pubDate>Wed, 13 Apr 2022 09:19:04 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/view.asp?idx=106024&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
+					
+					<img src="/media/upFiles2/2022/04/19974920_copy_295x190_1.jpg" alt="" class="news_img" height="70">
+					
+					<span class="news_txt">거의 모든 오픈소스들에 보안 취약점이 한 개 이상 존재한다</span>
+					</a><br>
+					<a href="/media/view.asp?idx=106024&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">오픈소스 소프트웨어에의 코드베이스 공유 비율이 2021년 한 해 동안 78% 증가했다. 같은 코드베이스를 사용하여 만들어진 소프트웨어가 적지 않다는 뜻인데, 이렇...</a> <span class="news_writer">문가용 기자 | 2022년 04월 13일 18:11</span>]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/19974920_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[러시아의 해킹 부대, 우크라이나에 정전 사태 일으키려 했다 (보안뉴스 ─ 국제)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=106023&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=106023&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
@@ -2164,20 +2178,6 @@
 					</a><br>
 					<a href="/media/view.asp?idx=105931&amp;page=1&amp;mkind=&amp;kind=4&amp;skind=D&amp;search=title&amp;find=">지속가능성과 환경 보호라는 개념이 기업들의 사업 활동에 끼어들기 시작했다. 그러면서 기업들은 자신들의 사무 공간 내에서 재활용을 잘 한다거나 물건을 아껴서 쓴다거...</a> <span class="news_writer">문가용 기자 | 2022년 04월 09일 18:36</span>]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/green-thumb-0407.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[다가오는 유럽연합의 인공지능 규정, 데이터 활용의 새로운 표준 된다 (보안뉴스 ─ 국제)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105932&amp;page=1&amp;mkind=&amp;kind=4&amp;skind=D&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105932&amp;page=1&amp;mkind=&amp;kind=4&amp;skind=D&amp;search=title&amp;find=</guid>
-            <pubDate>Fri, 08 Apr 2022 08:22:02 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/view.asp?idx=105932&amp;page=1&amp;mkind=&amp;kind=4&amp;skind=D&amp;search=title&amp;find=">
-					
-					<img src="/media/upFiles2/2022/04/eu-thumb-0408.jpg" alt="" class="news_img" height="70">
-					
-					<span class="news_txt">다가오는 유럽연합의 인공지능 규정, 데이터 활용의 새로운 표준 된다</span>
-					</a><br>
-					<a href="/media/view.asp?idx=105932&amp;page=1&amp;mkind=&amp;kind=4&amp;skind=D&amp;search=title&amp;find=">지금은 그렇지 않지만 조만간 구글 애널리틱스(Google Analytics)의 웹사이트 추적 행위는 불법으로 규정될 것으로 보인다. 지난 1월 오스트리아의 한 법...</a> <span class="news_writer">문가용 기자 | 2022년 04월 08일 16:41</span>]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/eu-thumb-0408.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[통합보안 3사 에스원·SK쉴더스·KT텔레캅, 소비자의 생각과 선택은? (보안뉴스 ─ 기획특집)]]></title>
