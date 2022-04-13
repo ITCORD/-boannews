@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Apr 2022 07:24:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Apr 2022 08:24:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -120,14 +120,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/est_040701_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[시큐어 코딩을 정착시키기 위해서는 조직 전체가 움직여야]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105907&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105907&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Fri, 08 Apr 2022 05:15:17 GMT</pubDate>
-            <content:encoded><![CDATA[시큐어 코딩이라는 문화가 개발자와 기업들에 정착하기까지는 아직 한참 남은 것으로 보인다. 하지만 희망은 있다. 조금씩 그 방향으로의 진전이 분명히 이뤄지고 있다는...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/coding-thumb-0406.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[인터뷰] 누적 1억명 사용자의 ‘보안’을 지킨 SR 정보보안부]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105976&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105976&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
@@ -166,6 +158,14 @@
             <pubDate>Mon, 11 Apr 2022 05:17:27 GMT</pubDate>
             <content:encoded><![CDATA[한국의 어셈넥스트(AsmNext) 팀이 2022년 01월부터 ‘차세대 어셈블리’라 불리는 웹어셈블리 연구개발 협회 ‘바이트코드 얼라이언스’에 합류했다고 밝혔다.]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/asm_040801_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[차세대 멀웨어라고 불리는 샤크봇, 구글 플레이 스토어 연속으로 뚫어]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105994&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105994&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Wed, 13 Apr 2022 08:21:59 GMT</pubDate>
+            <content:encoded><![CDATA[지난 10월 처음 모습을 드러낸 안드로이드 뱅킹 트로이목마 샤크봇(SharkBot)이 구글 플레이 스토어에서 삭제됐다. 샤크봇은 ‘차세대 멀웨어’라고 불리는 고급...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/shark-thumb-0412.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
