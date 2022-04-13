@@ -4,9 +4,41 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 13 Apr 2022 01:19:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Apr 2022 03:06:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[제10회 전자정부 정보보호 솔루션 페어 4월 20~22일 개최 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105987&amp;page=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105987&amp;page=1&amp;kind=3</guid>
+            <pubDate>Wed, 13 Apr 2022 03:03:03 GMT</pubDate>
+            <content:encoded><![CDATA[러시아와 우크라이나 전쟁으로 사이버 세상에서도 긴박한 ‘사이버전’이 발생한 지금, 불안한 마음으로 지켜보고 있는 정보보호 담당자들을 위한 ‘정보보호 콘퍼런...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/eGISEC_041200_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[기관·기업 보안담당자들의 기술보호 업무 스킬업과 실전 노하우 공유 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105989&amp;page=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105989&amp;page=1&amp;kind=3</guid>
+            <pubDate>Wed, 13 Apr 2022 03:03:03 GMT</pubDate>
+            <content:encoded><![CDATA[일선 현장에서의 보안담당자들을 위한 실전 스킬과 노하우를 알려주는 ‘2022년 산업현장인력 보안교육’이 오는 4월 20일 수요일 오후 1시부터 일산 킨텍스...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/secon_conference2022_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[테크칼럼] 끝나지 않은 ‘Log4j’ 취약점, 마이크로세그멘테이션으로 대응하라 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105991&amp;page=1&amp;kind=5</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105991&amp;page=1&amp;kind=5</guid>
+            <pubDate>Wed, 13 Apr 2022 03:03:03 GMT</pubDate>
+            <content:encoded><![CDATA[2021년 11월 24일, 아파치 파운데이션(Apache Foundation)은 Log4j의 보안 취약점(비인증 원격 코드 실행 및 데이터 유출 CVE-2...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/acamai_0412%20(1)_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[레거시를 넘어 IT의 현대화가 모든 기업들에 필요한 이유 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105995&amp;page=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105995&amp;page=1&amp;kind=3</guid>
+            <pubDate>Wed, 13 Apr 2022 03:03:03 GMT</pubDate>
+            <content:encoded><![CDATA[팬데믹이라는 것 때문에 기업들의 디지털 현대화는 2~3년 앞당겨졌다고들 말한다. 갑작스럽게 벌어진 상황에 적응하려니 어쩔 수 없었던 것이 기업들의 현실이다...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/net-thumb-0412.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[차세대 멀웨어라고 불리는 샤크봇, 구글 플레이 스토어 연속으로 뚫어 (보안뉴스 ─ 전체기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105994&amp;page=1&amp;kind=1</link>
@@ -56,36 +88,44 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/sink-thumb-0412.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[MS, 우크라이나 공격에 활용되던 도메인들 폐쇄시켜 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105983&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105983&amp;page=1&amp;kind=1</guid>
-            <pubDate>Tue, 12 Apr 2022 02:59:27 GMT</pubDate>
-            <content:encoded><![CDATA[보안 외신 쓰레트포스트가 MS가 사법 기관들과 함께 7개 도메인을 장악하고 폐쇄시켰다고 보도했다. 러시아의 APT 단체들이 공격에 활용하던 악성 도메인들이...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/domain-thumb-0412.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[미리보는 SECON & eGISEC 2022] 탈레스코리아·테르텐·투씨에스지 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106002&amp;page=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106002&amp;page=1&amp;kind=3</guid>
+            <pubDate>Wed, 13 Apr 2022 03:03:03 GMT</pubDate>
+            <content:encoded><![CDATA[물리보안과 사이버보안을 아우르는 국내 최대 통합보안 전시회인 제21회 세계보안엑스포(SECON &amp; eGISEC 2022)는 4월 20일부터 22일까지 3일...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/seocn&egisec_2022(14).jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[어나니머스, 3개 러시아 단체 공격해 400GB 이메일 공개 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105981&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105981&amp;page=1&amp;kind=1</guid>
-            <pubDate>Tue, 12 Apr 2022 02:59:27 GMT</pubDate>
-            <content:encoded><![CDATA[핵티비스트 단체 어나니머스(Anonymous)가 러시아의 조직들로부터 빼돌린 것이라며 400GB의 이메일을 공개했다고 보안 외신 핵리드가 보도했다. 석유,...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/anon-thumb-0412.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[미리보는 SECON & eGISEC 2022] 코드마인드·코어스넷·쿼리시스템즈 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106001&amp;page=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106001&amp;page=1&amp;kind=3</guid>
+            <pubDate>Wed, 13 Apr 2022 03:03:03 GMT</pubDate>
+            <content:encoded><![CDATA[물리보안과 사이버보안을 아우르는 국내 최대 통합보안 전시회인 제21회 세계보안엑스포(SECON &amp; eGISEC 2022)는 4월 20일부터 22일까지 3일...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/seocn&egisec_2022(13).jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[인터뷰] 누적 1억명 사용자의 ‘보안’을 지킨 SR 정보보안부 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105976&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105976&amp;page=1&amp;kind=2</guid>
-            <pubDate>Tue, 12 Apr 2022 02:59:27 GMT</pubDate>
-            <content:encoded><![CDATA[2016년 SRT 개통과 함께 지금까지 약 6년여 간의 짧은 시간동안 ISMS-P와 ISO 27001 등 7개의 국내외 정보보호 인증을 획득한 것은 물론 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/SR_041201_main.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[미리보는 SECON & eGISEC 2022] 지인소프트·케이사인·케이씨에스 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105999&amp;page=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105999&amp;page=1&amp;kind=3</guid>
+            <pubDate>Wed, 13 Apr 2022 03:03:03 GMT</pubDate>
+            <content:encoded><![CDATA[물리보안과 사이버보안을 아우르는 국내 최대 통합보안 전시회인 제21회 세계보안엑스포(SECON &amp; eGISEC 2022)는 4월 20일부터 22일까지 3일...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/seocn&egisec_2022(12).jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[우크라이나 IT 전문가들의 전쟁과 리질리언스 이야기 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105959&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105959&amp;page=1&amp;kind=1</guid>
-            <pubDate>Mon, 11 Apr 2022 09:16:57 GMT</pubDate>
-            <content:encoded><![CDATA[대다수 우크라이나인들이 그렇듯 우크라이나 IT 업계에서 근무하던 28만 5천여 명의 사람들도 2월 24일 러시아의 침공과 폭력적인 공격 행위에 소스라치게 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/uk-thumb-0410.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[이노뎁, 티맥스와 협업 강화로 메타버스 기반 스마트시티 플랫폼 구축 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105996&amp;page=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105996&amp;page=1&amp;kind=3</guid>
+            <pubDate>Wed, 13 Apr 2022 03:03:03 GMT</pubDate>
+            <content:encoded><![CDATA[이노뎁이 메타버스 플랫폼·서비스 전문기업 티맥스메타버스, AI 플랫폼·서비스 전문기업 티맥스에이아이와 ‘메타버스 기반 스마트시티 플랫폼 구축 협력’을 위한...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/22041301ss.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[에스원, 엔데믹 기대감에 대형 문화시설의 방역·보안 솔루션 문의 급증 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105998&amp;page=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105998&amp;page=1&amp;kind=3</guid>
+            <pubDate>Wed, 13 Apr 2022 03:03:03 GMT</pubDate>
+            <content:encoded><![CDATA[최근 사회적 거리두기가 완화되며 대규모 스포츠, 공연시설을 방문하는 사람들이 증가하고 있다. 특히, 이달 초 개막한 프로야구는 관람객 입장이 전면 허용되며...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/22041302ss.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[파수, CIO 리뷰 매거진 ‘최고 유망 문서 관리 시스템’ 선정 (보안뉴스 ─ 전체기사)]]></title>
@@ -136,6 +176,30 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/can1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[MS, 우크라이나 공격에 활용되던 도메인들 폐쇄시켜 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105983&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105983&amp;page=1&amp;kind=1</guid>
+            <pubDate>Tue, 12 Apr 2022 02:59:27 GMT</pubDate>
+            <content:encoded><![CDATA[보안 외신 쓰레트포스트가 MS가 사법 기관들과 함께 7개 도메인을 장악하고 폐쇄시켰다고 보도했다. 러시아의 APT 단체들이 공격에 활용하던 악성 도메인들이...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/domain-thumb-0412.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[어나니머스, 3개 러시아 단체 공격해 400GB 이메일 공개 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105981&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105981&amp;page=1&amp;kind=1</guid>
+            <pubDate>Tue, 12 Apr 2022 02:59:27 GMT</pubDate>
+            <content:encoded><![CDATA[핵티비스트 단체 어나니머스(Anonymous)가 러시아의 조직들로부터 빼돌린 것이라며 400GB의 이메일을 공개했다고 보안 외신 핵리드가 보도했다. 석유,...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/anon-thumb-0412.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[인터뷰] 누적 1억명 사용자의 ‘보안’을 지킨 SR 정보보안부 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105976&amp;page=1&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105976&amp;page=1&amp;kind=2</guid>
+            <pubDate>Tue, 12 Apr 2022 02:59:27 GMT</pubDate>
+            <content:encoded><![CDATA[2016년 SRT 개통과 함께 지금까지 약 6년여 간의 짧은 시간동안 ISMS-P와 ISO 27001 등 7개의 국내외 정보보호 인증을 획득한 것은 물론 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/SR_041201_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[미리보는 SECON & eGISEC 2022] 인스피언·지란지교시큐리티·지슨 (보안뉴스 ─ 전체기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105975&amp;page=1&amp;kind=3</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105975&amp;page=1&amp;kind=3</guid>
@@ -167,84 +231,20 @@
             <content:encoded><![CDATA[에스에스앤씨는 4월 13일부터 15일까지 3일간 일산 킨텍스에서 진행되는 ‘코리아 나라장터 엑스포 2022(KOPPEX 2022)’에 참가한다고 밝혔다. ...]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[우크라이나 IT 전문가들의 전쟁과 리질리언스 이야기 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105959&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105959&amp;page=1&amp;kind=1</guid>
+            <pubDate>Mon, 11 Apr 2022 09:16:57 GMT</pubDate>
+            <content:encoded><![CDATA[대다수 우크라이나인들이 그렇듯 우크라이나 IT 업계에서 근무하던 28만 5천여 명의 사람들도 2월 24일 러시아의 침공과 폭력적인 공격 행위에 소스라치게 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/uk-thumb-0410.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[데이터 분석으로 인재 파이프라인을 만들어 미래 인력 확충하기 (보안뉴스 ─ 전체기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105955&amp;page=1&amp;kind=3</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105955&amp;page=1&amp;kind=3</guid>
             <pubDate>Mon, 11 Apr 2022 09:16:57 GMT</pubDate>
             <content:encoded><![CDATA[오늘날의 기업들은 급변하는 상황 속에서 기적 같은 유연성을 발휘해야만 살아남을 수 있다. 특히나 신기술을 도입하는 측면에서는 더 그렇다. 새롭게 등장한 기...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/work-thumb-0409.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SECON & eGISEC 2022, 4월 20~22일 개최... 3일간의 동시개최 컨퍼런스는? (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105965&amp;page=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105965&amp;page=1&amp;kind=3</guid>
-            <pubDate>Mon, 11 Apr 2022 09:16:57 GMT</pubDate>
-            <content:encoded><![CDATA[4월 20일부터 22일까지 일산 킨텍스 제1전시장에서는 국내외 보안 시장 동향과 기술 트렌드를 한 눈에 살펴볼 수 있는 제21회 세계보안엑스포(SECON ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/22041105ss.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[미리보는 SECON & eGISEC 2022] 아이리스아이디·IEE Sensing Korea·에스에스티랩 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105970&amp;page=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105970&amp;page=1&amp;kind=3</guid>
-            <pubDate>Mon, 11 Apr 2022 08:20:25 GMT</pubDate>
-            <content:encoded><![CDATA[물리보안과 사이버보안을 아우르는 국내 최대 통합보안 전시회인 제21회 세계보안엑스포(SECON &amp; eGISEC 2022)는 4월 20일부터 22일까지 3일...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/20220331secon(4).jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[미리보는 SECON & eGISEC 2022] 실리콘브릿지·씨유박스·아메이투라 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105969&amp;page=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105969&amp;page=1&amp;kind=3</guid>
-            <pubDate>Mon, 11 Apr 2022 08:20:25 GMT</pubDate>
-            <content:encoded><![CDATA[물리보안과 사이버보안을 아우르는 국내 최대 통합보안 전시회인 제21회 세계보안엑스포(SECON &amp; eGISEC 2022)는 4월 20일부터 22일까지 3일...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/20220331secon(3).jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[미리보는 SECON & eGISEC 2022] 센스톤·슈프리마·스마트코어 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105968&amp;page=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105968&amp;page=1&amp;kind=3</guid>
-            <pubDate>Mon, 11 Apr 2022 08:20:25 GMT</pubDate>
-            <content:encoded><![CDATA[물리보안과 사이버보안을 아우르는 국내 최대 통합보안 전시회인 제21회 세계보안엑스포(SECON &amp; eGISEC 2022)는 4월 20일부터 22일까지 3일...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/20220331secon(2).jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[원모어시큐리티, 코리아 나라장터 엑스포 2022의 혁신성장관에 참가 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105966&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105966&amp;page=1&amp;kind=1</guid>
-            <pubDate>Mon, 11 Apr 2022 03:07:37 GMT</pubDate>
-            <content:encoded><![CDATA[원모어시큐리티는 최근 조달청 혁신제품으로 지정된 지능형 영상분석 솔루션인 ‘원모어아이 v1.0(사람) &amp; 원모어아이 v1.0(차량)’과 모바일 앱 기반 시...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/onemore_041101_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한국정보인증, SK쉴더스와 함께 제1금융권에 양자OTP 적용 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105964&amp;page=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105964&amp;page=1&amp;kind=3</guid>
-            <pubDate>Mon, 11 Apr 2022 03:07:37 GMT</pubDate>
-            <content:encoded><![CDATA[한국정보인증(대표 김상준)은 사이버보안 업계 1위인 SK쉴더스와 함께 제1금융권의 업무시스템 2차인증 고도화 사업에 모바일 양자OTP를 성공적으로 적용했다...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/KICA_CI_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[노르마, eGISEC 2022 참가해 하이브리드 PQC 첫 공개 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105962&amp;page=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105962&amp;page=1&amp;kind=3</guid>
-            <pubDate>Mon, 11 Apr 2022 03:07:37 GMT</pubDate>
-            <content:encoded><![CDATA[IoT 및 양자 보안 전문 기업 노르마(대표 정현철)가 세계보안엑스포에 참가해 신제품을 알리고 IoT 해킹 시연을 하는 등 다양한 퍼포먼스를 선보인다. 노...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/eGISEC%202022_norma_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[에스알 보안 강화 사례] 국민 안전 싣고 ‘SR 보안특급열차’ 달린다 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105953&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105953&amp;page=1&amp;kind=2</guid>
-            <pubDate>Mon, 11 Apr 2022 03:07:37 GMT</pubDate>
-            <content:encoded><![CDATA[에스알(SR)은 이용자의 서비스 선택권 확대와 합리적인 경쟁을 통한 철도산업 발전과 국민안전 및 편익 제고를 위해 2013년 12월에 설립된 SRT 고속열...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/sr_0408%20(0)_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[금융 사기와 사이버 위협, 금융 기관과 고객에게 점점 더 큰 위협된다 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105961&amp;page=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105961&amp;page=1&amp;kind=3</guid>
-            <pubDate>Mon, 11 Apr 2022 01:13:01 GMT</pubDate>
-            <content:encoded><![CDATA[신용카드와 디지털 결제를 이용하는 소비자들에게 금융사기와 사이버 위협이 점점 더 큰 위협이 되고 있다는 조사 결과가 나왔다. IBM은 모닝 컨설트(Morn...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/20072006_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[리눅스의 보안 위협, 점점 더 증가하고 있다 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
@@ -391,6 +391,14 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/uk-thumb-0410.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[인터뷰] 누적 1억명 사용자의 ‘보안’을 지킨 SR 정보보안부 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105976&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105976&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
+            <pubDate>Wed, 13 Apr 2022 01:16:32 GMT</pubDate>
+            <content:encoded><![CDATA[2016년 SRT 개통과 함께 지금까지 약 6년여 간의 짧은 시간동안 ISMS-P와 ISO 27001 등 7개의 국내외 정보보호 인증을 획득한 것은 물론 정보보호...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/SR_041201_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[한국 어셈넥스트 팀, ‘바이트코드 얼라이언스’ 합류 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105951&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105951&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
@@ -399,12 +407,46 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/asm_040801_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[인터뷰] 누적 1억명 사용자의 ‘보안’을 지킨 SR 정보보안부 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105976&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105976&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
-            <pubDate>Wed, 13 Apr 2022 01:16:32 GMT</pubDate>
-            <content:encoded><![CDATA[2016년 SRT 개통과 함께 지금까지 약 6년여 간의 짧은 시간동안 ISMS-P와 ISO 27001 등 7개의 국내외 정보보호 인증을 획득한 것은 물론 정보보호...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/SR_041201_main.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[미리보는 SECON & eGISEC 2022] 탈레스코리아·테르텐·투씨에스지 (보안뉴스 ─ SECURITY)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106002&amp;page=1&amp;mkind=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106002&amp;page=1&amp;mkind=1&amp;kind=3</guid>
+            <pubDate>Wed, 13 Apr 2022 03:03:35 GMT</pubDate>
+            <content:encoded><![CDATA[물리보안과 사이버보안을 아우르는 국내 최대 통합보안 전시회인 제21회 세계보안엑스포(SECON &amp; eGISEC 2022)는 4월 20일부터 22일까지 3일간 일산 킨텍스 제1전시장 3~5홀에서 개최된다. SECON &amp; eGISEC 2022는 공식 홈페이지를 통해 사전등...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[미리보는 SECON & eGISEC 2022] 코드마인드·코어스넷·쿼리시스템즈 (보안뉴스 ─ SECURITY)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106001&amp;page=1&amp;mkind=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106001&amp;page=1&amp;mkind=1&amp;kind=3</guid>
+            <pubDate>Wed, 13 Apr 2022 03:03:35 GMT</pubDate>
+            <content:encoded><![CDATA[물리보안과 사이버보안을 아우르는 국내 최대 통합보안 전시회인 제21회 세계보안엑스포(SECON &amp; eGISEC 2022)는 4월 20일부터 22일까지 3일간 일산 킨텍스 제1전시장 3~5홀에서 개최된다. SECON &amp; eGISEC 2022는 공식 홈페이지를 통해 사전등...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[[미리보는 SECON & eGISEC 2022] 지인소프트·케이사인·케이씨에스 (보안뉴스 ─ SECURITY)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105999&amp;page=1&amp;mkind=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105999&amp;page=1&amp;mkind=1&amp;kind=3</guid>
+            <pubDate>Wed, 13 Apr 2022 03:03:35 GMT</pubDate>
+            <content:encoded><![CDATA[물리보안과 사이버보안을 아우르는 국내 최대 통합보안 전시회인 제21회 세계보안엑스포(SECON &amp; eGISEC 2022)는 4월 20일부터 22일까지 3일간 일산 킨텍스 제1전시장 3~5홀에서 개최된다. SECON &amp; eGISEC 2022는 공식 홈페이지를 통해 사전등...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[파수, CIO 리뷰 매거진 ‘최고 유망 문서 관리 시스템’ 선정 (보안뉴스 ─ SECURITY)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106000&amp;page=1&amp;mkind=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106000&amp;page=1&amp;mkind=1&amp;kind=3</guid>
+            <pubDate>Wed, 13 Apr 2022 03:03:35 GMT</pubDate>
+            <content:encoded><![CDATA[데이터 보안 업계를 선도하고 있는 파수(대표 조규곤)는 글로벌 IT 매거진 ‘CIO Review(이하 CIO리뷰)’가 주관한 ‘2022 최고 유망 문서 관리 시스템(2022 Most Promising Document Management Systems Provider)’...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[차세대 멀웨어라고 불리는 샤크봇, 구글 플레이 스토어 연속으로 뚫어 (보안뉴스 ─ SECURITY)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105994&amp;page=1&amp;mkind=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105994&amp;page=1&amp;mkind=1&amp;kind=1</guid>
+            <pubDate>Wed, 13 Apr 2022 03:03:35 GMT</pubDate>
+            <content:encoded><![CDATA[지난 10월 처음 모습을 드러낸 안드로이드 뱅킹 트로이목마 샤크봇(SharkBot)이 구글 플레이 스토어에서 삭제됐다. 샤크봇은 ‘차세대 멀웨어’라고 불리는 고급 멀웨어로, 안드로이드 장비 사용자가 뱅킹 앱에 로그인 되어 있을 때 은행 계좌로부터 돈을 은밀히 빼돌리는 ...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[‘데이터 기본법’ 시행령 국무회의 의결... ‘국가데이터정책위원회’ 본격 출범 (보안뉴스 ─ SECURITY)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105990&amp;page=1&amp;mkind=1&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105990&amp;page=1&amp;mkind=1&amp;kind=2</guid>
+            <pubDate>Wed, 13 Apr 2022 03:03:35 GMT</pubDate>
+            <content:encoded><![CDATA[‘데이터 산업진흥 및 이용촉진에 관한 기본법 시행령안’이 4월 12일(화) 국무회의에서 의결돼 4월 20일(수)부터 시행될 예정이라고 과학기술정보통신부(장관 임혜숙, 이하 ‘과기정통부’)가 밝혔다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[누구나 큐알코드 앞에 서면 파블로프의 개 신세가 된다? (보안뉴스 ─ SECURITY)]]></title>
@@ -484,46 +526,11 @@
             <content:encoded><![CDATA[물리보안과 사이버보안을 아우르는 국내 최대 통합보안 전시회인 제21회 세계보안엑스포(SECON &amp; eGISEC 2022)는 4월 20일부터 22일까지 3일간 일산 킨텍스 제1전시장 3~5홀에서 개최된다. SECON &amp; eGISEC 2022는 공식 홈페이지를 통해 사전등...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[미리보는 SECON & eGISEC 2022] 이스톰·이스트시큐리티·이지서티 (보안뉴스 ─ SECURITY)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105974&amp;page=1&amp;mkind=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105974&amp;page=1&amp;mkind=1&amp;kind=3</guid>
-            <pubDate>Tue, 12 Apr 2022 02:59:51 GMT</pubDate>
-            <content:encoded><![CDATA[물리보안과 사이버보안을 아우르는 국내 최대 통합보안 전시회인 제21회 세계보안엑스포(SECON &amp; eGISEC 2022)는 4월 20일부터 22일까지 3일간 일산 킨텍스 제1전시장 3~5홀에서 개최된다. SECON &amp; eGISEC 2022는 공식 홈페이지를 통해 사전등...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[미리보는 SECON & eGISEC 2022] 윈스·이글루코퍼레이션·이노티움 (보안뉴스 ─ SECURITY)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105973&amp;page=1&amp;mkind=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105973&amp;page=1&amp;mkind=1&amp;kind=3</guid>
-            <pubDate>Tue, 12 Apr 2022 02:59:51 GMT</pubDate>
-            <content:encoded><![CDATA[물리보안과 사이버보안을 아우르는 국내 최대 통합보안 전시회인 제21회 세계보안엑스포(SECON &amp; eGISEC 2022)는 4월 20일부터 22일까지 3일간 일산 킨텍스 제1전시장 3~5홀에서 개최된다. SECON &amp; eGISEC 2022는 공식 홈페이지를 통해 사전등...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[에스에스앤씨, ‘코리아 나라장터 엑스포 2022’ 참가 (보안뉴스 ─ SECURITY)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105972&amp;page=1&amp;mkind=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105972&amp;page=1&amp;mkind=1&amp;kind=3</guid>
-            <pubDate>Tue, 12 Apr 2022 02:59:51 GMT</pubDate>
-            <content:encoded><![CDATA[에스에스앤씨는 4월 13일부터 15일까지 3일간 일산 킨텍스에서 진행되는 ‘코리아 나라장터 엑스포 2022(KOPPEX 2022)’에 참가한다고 밝혔다. 코리아 나라장터 엑스포는 우수기업 제품의 국내 공공 판로 확대와 해외조달시장의 진출을 지원하는 국내 최대 규모의 공...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[원모어시큐리티, 코리아 나라장터 엑스포 2022의 혁신성장관에 참가 (보안뉴스 ─ SECURITY)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105966&amp;page=1&amp;mkind=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105966&amp;page=1&amp;mkind=1&amp;kind=1</guid>
-            <pubDate>Tue, 12 Apr 2022 02:59:51 GMT</pubDate>
-            <content:encoded><![CDATA[원모어시큐리티는 최근 조달청 혁신제품으로 지정된 지능형 영상분석 솔루션인 ‘원모어아이 v1.0(사람) &amp; 원모어아이 v1.0(차량)’과 모바일 앱 기반 시민참여형 미아·치매노인 찾기 솔루션인 ‘미씽맘 v1.0’을 코리아 나라장터 엑스포 2022의 혁신성장관 전시 제품으...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[한국정보인증, SK쉴더스와 함께 제1금융권에 양자OTP 적용 (보안뉴스 ─ SECURITY)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105964&amp;page=1&amp;mkind=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105964&amp;page=1&amp;mkind=1&amp;kind=3</guid>
-            <pubDate>Tue, 12 Apr 2022 02:59:51 GMT</pubDate>
-            <content:encoded><![CDATA[한국정보인증(대표 김상준)은 사이버보안 업계 1위인 SK쉴더스와 함께 제1금융권의 업무시스템 2차인증 고도화 사업에 모바일 양자OTP를 성공적으로 적용했다고 11일 밝혔다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[노르마, eGISEC 2022 참가해 하이브리드 PQC 첫 공개 (보안뉴스 ─ SECURITY)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105962&amp;page=1&amp;mkind=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105962&amp;page=1&amp;mkind=1&amp;kind=3</guid>
-            <pubDate>Tue, 12 Apr 2022 01:11:31 GMT</pubDate>
-            <content:encoded><![CDATA[IoT 및 양자 보안 전문 기업 노르마(대표 정현철)가 세계보안엑스포에 참가해 신제품을 알리고 IoT 해킹 시연을 하는 등 다양한 퍼포먼스를 선보인다. 노르마는 오는 20일부터 22일까지 일산 킨텍스 제1전시장 3~5홀에서 개최되는 제21회 세계보안엑스포(SECON &amp;...]]></content:encoded>
+            <title><![CDATA[데이터 분석으로 인재 파이프라인을 만들어 미래 인력 확충하기 (보안뉴스 ─ IT)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105955&amp;page=1&amp;mkind=2&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105955&amp;page=1&amp;mkind=2&amp;kind=3</guid>
+            <pubDate>Wed, 13 Apr 2022 03:03:50 GMT</pubDate>
+            <content:encoded><![CDATA[오늘날의 기업들은 급변하는 상황 속에서 기적 같은 유연성을 발휘해야만 살아남을 수 있다. 특히나 신기술을 도입하는 측면에서는 더 그렇다. 새롭게 등장한 기술을 빠르게 검토해 도입 여부를 결정하고, 필요하다면 시간 낭비 없이, 그러나 안전하게 구축해야 한다. 이렇게 유연...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[IT 분야의 신기술, 스마트빌딩을 더 ‘그린’으로 변화시키라 (보안뉴스 ─ IT)]]></title>
@@ -636,13 +643,6 @@
             <guid>https://www.boannews.com/media/view.asp?idx=105730&amp;page=1&amp;mkind=2&amp;kind=4</guid>
             <pubDate>Wed, 30 Mar 2022 10:18:39 GMT</pubDate>
             <content:encoded><![CDATA[팬데믹으로 인해 디지털 변혁의 속도가 빨라진 가운데 제빵용 식재료 유통사인 돈푸즈(Dawn Foods)가 지능형 실험 자동화 기술 기업인 메이블(Mabl)과 손을 잡고 로우코드 기반 SaaS 자동화 실험 시스템을 도입했다. 로우코드 기술을 채용함으로써 돈푸즈는 디지털 ...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[‘경기 스타트업 랩’, 올해 초연결 신산업 보육 본격화한다 (보안뉴스 ─ IT)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105731&amp;page=1&amp;mkind=2&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105731&amp;page=1&amp;mkind=2&amp;kind=2</guid>
-            <pubDate>Wed, 30 Mar 2022 10:18:39 GMT</pubDate>
-            <content:encoded><![CDATA[4차 산업혁명 분야 스타트업 보육공간 ‘경기 스타트업 랩(Startup-lab)’이 올해 메타버스 등 초연결 신산업 스타트업 육성에 박차를 가한다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[인천시, 사물인터넷 적용으로 농기계 사고 예방 나선다 (보안뉴스 ─ SAFETY)]]></title>
@@ -764,20 +764,20 @@
             <content:encoded><![CDATA[안경덕 고용노동부 장관은 지난 23일 ‘3대 안전조치 현장점검의 날’을 맞아 경기도 평택시에 있는 중대재해처벌법 적용 대상인 건설 현장을 직접 방문해 추락 위험요인 등 안전조치 준수 여부를 중점 점검하고 현장의 변화를 확인했다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[한국영상정보연구조합, ‘2022년 제1차 업계 협력... (보안뉴스 ─ Security World)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105993&amp;mkind=5</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105993&amp;mkind=5</guid>
-            <pubDate>Tue, 12 Apr 2022 10:20:21 GMT</pubDate>
-            <content:encoded><![CDATA[한국영상정보연구조합(이사장 서병일, 이하 KIIA)이 업계(회원사) 간 소통·협력 강화를 통한 기술개발 및 산업 활성화를 위해 12일 경기 안양시에 위치...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/22041201ss.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[이노뎁, 티맥스와 협업 강화로 메타버스 기반 스마트... (보안뉴스 ─ Security World)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105996&amp;mkind=5</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105996&amp;mkind=5</guid>
+            <pubDate>Wed, 13 Apr 2022 03:04:17 GMT</pubDate>
+            <content:encoded><![CDATA[이노뎁이 메타버스 플랫폼·서비스 전문기업 티맥스메타버스, AI 플랫폼·서비스 전문기업 티맥스에이아이와 ‘메타버스 기반 스마트시티 플랫폼 구축 협력’을 위한...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/22041301ss.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[SECON & eGISEC 2022, 4월 20~2... (보안뉴스 ─ Security World)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105965&amp;mkind=5</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105965&amp;mkind=5</guid>
-            <pubDate>Mon, 11 Apr 2022 09:18:27 GMT</pubDate>
-            <content:encoded><![CDATA[4월 20일부터 22일까지 일산 킨텍스 제1전시장에서는 국내외 보안 시장 동향과 기술 트렌드를 한 눈에 살펴볼 수 있는 제21회 세계보안엑스포(SECON ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/22041105ss.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[에스원, 엔데믹 기대감에 대형 문화시설의 방역·보안... (보안뉴스 ─ Security World)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105998&amp;mkind=5</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105998&amp;mkind=5</guid>
+            <pubDate>Wed, 13 Apr 2022 03:04:17 GMT</pubDate>
+            <content:encoded><![CDATA[최근 사회적 거리두기가 완화되며 대규모 스포츠, 공연시설을 방문하는 사람들이 증가하고 있다. 특히, 이달 초 개막한 프로야구는 관람객 입장이 전면 허용되며...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/22041302ss.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[정보 탈취형 멀웨어 2개, 새롭게 등장해 사이버 공간 위협 (보안뉴스 ─ 취약점 경고 및 버그리포트)]]></title>
@@ -1900,6 +1900,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220310BLOCK-S.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[레거시를 넘어 IT의 현대화가 모든 기업들에 필요한 이유 (보안뉴스 ─ 국제)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105995&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=D&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105995&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=D&amp;search=title&amp;find=</guid>
+            <pubDate>Wed, 13 Apr 2022 03:05:31 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/view.asp?idx=105995&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=D&amp;search=title&amp;find=">
+					
+					<img src="/media/upFiles2/2022/04/net-thumb-0412.jpg" alt="" class="news_img" height="70">
+					
+					<span class="news_txt">레거시를 넘어 IT의 현대화가 모든 기업들에 필요한 이유</span>
+					</a><br>
+					<a href="/media/view.asp?idx=105995&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=D&amp;search=title&amp;find=">팬데믹이라는 것 때문에 기업들의 디지털 현대화는 2~3년 앞당겨졌다고들 말한다. 갑작스럽게 벌어진 상황에 적응하려니 어쩔 수 없었던 것이 기업들의 현실이다. 하루...</a> <span class="news_writer">문가용 기자 | 2022년 04월 13일 11:18</span>]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/net-thumb-0412.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[차세대 멀웨어라고 불리는 샤크봇, 구글 플레이 스토어 연속으로 뚫어 (보안뉴스 ─ 국제)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105994&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105994&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
@@ -2164,20 +2178,6 @@
 					</a><br>
 					<a href="/media/view.asp?idx=105941&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">유명 금융 및 핀테크 플랫폼의 API에서 서버 사이드 요청 조작(Server Side Request Forgery, SSRF) 취약점이 발견됐다고 보안 외신 쓰레...</a> <span class="news_writer">문가용 기자 | 2022년 04월 08일 11:57</span>]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/fin-thumb-0408.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[팬데믹 통해 떠오른 줌, 버그바운티 상금도 4배나 많이 지출해 (보안뉴스 ─ 국제)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105927&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105927&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
-            <pubDate>Thu, 07 Apr 2022 06:22:37 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/view.asp?idx=105927&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
-					
-					<img src="/media/upFiles2/2022/04/inc-thumb-0407.jpg" alt="" class="news_img" height="70">
-					
-					<span class="news_txt">팬데믹 통해 떠오른 줌, 버그바운티 상금도 4배나 많이 지출해</span>
-					</a><br>
-					<a href="/media/view.asp?idx=105927&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">클라우드 기반 통신 솔루션 업체 줌(Zoom)이 2021년 한 해 동안 버그바운티에만 180만 달러를 지출했다고 발표했다. 2020년에 비해 무려 4배나 뛰어오른...</a> <span class="news_writer">문가용 기자 | 2022년 04월 07일 15:00</span>]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/inc-thumb-0407.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[통합보안 3사 에스원·SK쉴더스·KT텔레캅, 소비자의 생각과 선택은? (보안뉴스 ─ 기획특집)]]></title>
@@ -2460,6 +2460,34 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2021/11/21113014ss.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[이노뎁, 티맥스와 협업 강화로 메타버스 기반 스마트시티 플랫폼 구축 (보안뉴스 ─ 기업뉴스)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105996&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105996&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=</guid>
+            <pubDate>Wed, 13 Apr 2022 03:05:58 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/view.asp?idx=105996&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=">
+					
+					<img src="/media/upFiles2/2022/04/22041301ss.jpg" alt="" class="news_img" height="70">
+					
+					<span class="news_txt">이노뎁, 티맥스와 협업 강화로 메타버스 기반 스마트시티 플랫폼 구축 </span>
+					</a><br>
+					<a href="/media/view.asp?idx=105996&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=">이노뎁이 메타버스 플랫폼·서비스 전문기업 티맥스메타버스, AI 플랫폼·서비스 전문기업 티맥스에이아이와 ‘메타버스 기반 스마트시티 플랫폼 구축 협력’을 위한 업무협...</a> <span class="news_writer">엄호식 기자 | 2022년 04월 13일 11:15</span>]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/22041301ss.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[에스원, 엔데믹 기대감에 대형 문화시설의 방역·보안 솔루션 문의 급증 (보안뉴스 ─ 기업뉴스)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105998&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105998&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=</guid>
+            <pubDate>Wed, 13 Apr 2022 03:05:58 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/view.asp?idx=105998&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=">
+					
+					<img src="/media/upFiles2/2022/04/22041302ss.jpg" alt="" class="news_img" height="70">
+					
+					<span class="news_txt">에스원, 엔데믹 기대감에 대형 문화시설의 방역·보안 솔루션 문의 급증</span>
+					</a><br>
+					<a href="/media/view.asp?idx=105998&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=">최근 사회적 거리두기가 완화되며 대규모 스포츠, 공연시설을 방문하는 사람들이 증가하고 있다. 특히, 이달 초 개막한 프로야구는 관람객 입장이 전면 허용되며 팬들의...</a> <span class="news_writer">엄호식 기자 | 2022년 04월 13일 11:10</span>]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/22041302ss.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[파수, CIO 리뷰 매거진 ‘최고 유망 문서 관리 시스템’ 선정 (보안뉴스 ─ 기업뉴스)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=106000&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=106000&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=</guid>
@@ -2710,34 +2738,6 @@
 					</a><br>
 					<a href="/media/view.asp?idx=105894&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=">글로벌 사이버 보안 선도기업 체크포인트 소프트웨어 테크놀로지스(지사장 전수홍)가 한국 지사의 비즈니스를 이끌 수장으로 전수홍 지사장을 선임했다. 전수홍 지사장은 ...</a> <span class="news_writer">원병철 기자 | 2022년 04월 06일 09:24</span>]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/check_040601_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사람 중심 글로벌 사이버 보안 기업 프루프포인트, 한국 시장 본격 진출 (보안뉴스 ─ 기업뉴스)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105893&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105893&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=</guid>
-            <pubDate>Wed, 06 Apr 2022 01:13:45 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/view.asp?idx=105893&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=">
-					
-					<img src="/media/upFiles2/2022/04/proof_040601_main.jpg" alt="" class="news_img" height="70">
-					
-					<span class="news_txt">사람 중심 글로벌 사이버 보안 기업 프루프포인트, 한국 시장 본격 진출</span>
-					</a><br>
-					<a href="/media/view.asp?idx=105893&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=">글로벌 사이버 보안 기업 프루프포인트(Proofpoint)가 한국법인을 설립하고 본격적으로 북아시아 보안시장 사업 확장에 나선다고 밝혔다. </a> <span class="news_writer">원병철 기자 | 2022년 04월 06일 09:04</span>]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/proof_040601_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SR, 공공기관 최초 정보보호 인증 7종 획득 (보안뉴스 ─ 기업뉴스)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105879&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105879&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=</guid>
-            <pubDate>Tue, 05 Apr 2022 02:56:59 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/view.asp?idx=105879&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=">
-					
-					<img src="/media/upFiles2/2022/04/ePRIVACY Plus_040501_main.jpg" alt="" class="news_img" height="70">
-					
-					<span class="news_txt">SR, 공공기관 최초 정보보호 인증 7종 획득</span>
-					</a><br>
-					<a href="/media/view.asp?idx=105879&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=">SRT 운영사 SR(대표 이종국)은 개인정보보호 인증인 ‘ePRIVACY Plus’ 인증을 받으며 공공기관 최초로 국내외 정보보호 인증 7종을 획득했다고 5일(화...</a> <span class="news_writer">원병철 기자 | 2022년 04월 05일 10:57</span>]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/ePRIVACY%20Plus_040501_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[윤석열 당선인, ICT·보안 정책 총괄 과기정통부 장관 후보에 서울대 이종호 교수 지명 (보안뉴스 ─ 인사 부고)]]></title>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=2</id>
     <title>보안뉴스 ─ IT</title>
-    <updated>2022-04-13T01:19:28.366Z</updated>
+    <updated>2022-04-13T03:06:13.964Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[데이터 분석으로 인재 파이프라인을 만들어 미래 인력 확충하기]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=105955&amp;page=1&amp;mkind=2&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=105955&amp;page=1&amp;mkind=2&amp;kind=3"/>
+        <updated>2022-04-13T03:03:50.193Z</updated>
+        <content type="html"><![CDATA[오늘날의 기업들은 급변하는 상황 속에서 기적 같은 유연성을 발휘해야만 살아남을 수 있다. 특히나 신기술을 도입하는 측면에서는 더 그렇다. 새롭게 등장한 기술을 빠르게 검토해 도입 여부를 결정하고, 필요하다면 시간 낭비 없이, 그러나 안전하게 구축해야 한다. 이렇게 유연...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[IT 분야의 신기술, 스마트빌딩을 더 ‘그린’으로 변화시키라]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=105931&amp;page=1&amp;mkind=2&amp;kind=4</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=105730&amp;page=1&amp;mkind=2&amp;kind=4"/>
         <updated>2022-03-30T10:18:39.580Z</updated>
         <content type="html"><![CDATA[팬데믹으로 인해 디지털 변혁의 속도가 빨라진 가운데 제빵용 식재료 유통사인 돈푸즈(Dawn Foods)가 지능형 실험 자동화 기술 기업인 메이블(Mabl)과 손을 잡고 로우코드 기반 SaaS 자동화 실험 시스템을 도입했다. 로우코드 기술을 채용함으로써 돈푸즈는 디지털 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘경기 스타트업 랩’, 올해 초연결 신산업 보육 본격화한다]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=105731&amp;page=1&amp;mkind=2&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=105731&amp;page=1&amp;mkind=2&amp;kind=2"/>
-        <updated>2022-03-30T10:18:39.584Z</updated>
-        <content type="html"><![CDATA[4차 산업혁명 분야 스타트업 보육공간 ‘경기 스타트업 랩(Startup-lab)’이 올해 메타버스 등 초연결 신산업 스타트업 육성에 박차를 가한다.]]></content>
     </entry>
 </feed>
