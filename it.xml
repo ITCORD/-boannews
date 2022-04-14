@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=2</id>
     <title>보안뉴스 ─ IT</title>
-    <updated>2022-04-14T08:25:21.654Z</updated>
+    <updated>2022-04-14T09:19:22.381Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[마이크로스트레티지코리아, 최신 BI 트렌드 및 도입사례 발표]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=106012&amp;page=1&amp;mkind=2&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=106012&amp;page=1&amp;mkind=2&amp;kind=3"/>
+        <updated>2022-04-14T09:17:15.374Z</updated>
+        <content type="html"><![CDATA[엔터프라이즈 분석 및 모바일 소프트웨어 기업인 마이크로스트레티지코리아(이하 MSTR, 지사장 양천금)는 4월 15일 삼성동 코엑스 그랜드볼룸에서 열리는 제19회 ‘공공솔루션마켓’에서 자사의 분석 플랫폼을 소개한다고 밝혔다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[레거시를 넘어 IT의 현대화가 모든 기업들에 필요한 이유]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=105995&amp;page=1&amp;mkind=2&amp;kind=3</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=105778&amp;page=1&amp;mkind=2&amp;kind=3"/>
         <updated>2022-03-30T11:15:43.948Z</updated>
         <content type="html"><![CDATA[KT는 한국디지털헬스산업협회, 한국블록체인산업진흥협회, 한국스마트홈산업협회, 한국인공지능협회, 한국자율주행산업협회, 한국클라우드산업협회, 한국통합물류협회 등 7개 기관과 신사업 분야 협력 기반 마련 및 동반 성장을 위한 업무협약(MOU)을 체결했다고 밝혔다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[LG CNS, 국내 최대 규모 ‘죽전 데이터센터’ 구축]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=105777&amp;page=1&amp;mkind=2&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=105777&amp;page=1&amp;mkind=2&amp;kind=3"/>
-        <updated>2022-03-30T10:18:39.575Z</updated>
-        <content type="html"><![CDATA[DX 전문기업 LG CNS가 최근 퍼시픽자산운용이 발주한 ‘용인 죽전 데이터센터’ 사업을 수주했다. LG CNS는 데이터센터 컨설팅부터 인프라 구축, 운영을 총괄한다. 데이터센터 구축을 완료한 후 입주 고객에게 ‘더 뉴 MSP’ 역량 기반으로 최적의 클라우드 통합 서비...]]></content>
     </entry>
 </feed>

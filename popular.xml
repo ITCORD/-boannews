@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Apr 2022 08:25:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2022 09:19:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -152,20 +152,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/asm_040801_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[미리보는 SECON & eGISEC 2022] 엔에스이·엔텀네트웍스·엔피코어]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105948&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105948&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
-            <pubDate>Thu, 14 Apr 2022 04:20:32 GMT</pubDate>
-            <content:encoded><![CDATA[물리보안과 사이버보안을 아우르는 국내 최대 통합보안 전시회인 제21회 세계보안엑스포(SECON &amp; eGISEC 2022)는 4월 20일부터 22일까지 3일간 일산...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/seocn&egisec_2022(6).jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[러시아의 해킹 부대, 우크라이나에 정전 사태 일으키려 했다]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=106023&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=106023&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Thu, 14 Apr 2022 08:22:20 GMT</pubDate>
             <content:encoded><![CDATA[우크라이나의 긴급 대응 센터(CERT-UA)가 보안 업체 이셋(ESET) 및 IT 기업 마이크로소프트(Microsoft)와 연계하여 전기 공급망을 겨냥한 사이버 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/20912510_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[거의 모든 오픈소스들에 보안 취약점이 한 개 이상 존재한다]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106024&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106024&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Thu, 14 Apr 2022 09:16:56 GMT</pubDate>
+            <content:encoded><![CDATA[오픈소스 소프트웨어에의 코드베이스 공유 비율이 2021년 한 해 동안 78% 증가했다. 같은 코드베이스를 사용하여 만들어진 소프트웨어가 적지 않다는 뜻인데, 이렇...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/19974920_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
