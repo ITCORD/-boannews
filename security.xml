@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-04-14T05:19:08.613Z</updated>
+    <updated>2022-04-14T06:25:13.539Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2021년 정보보호 실태조사 결과 살펴보니... 기업, 보안 정책·예산 강화]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=106032&amp;page=1&amp;mkind=1&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=106032&amp;page=1&amp;mkind=1&amp;kind=2"/>
+        <updated>2022-04-14T06:21:56.491Z</updated>
+        <content type="html"><![CDATA[기업의 정보보호 정책 수립률과 예산 편성률, 개인의 정보보호 중요성 인식률이 작년대비 상승하는 등 정보보호를 위한 노력이 증진되고 있는 것으로 나타났다. 과학기술정보통신부(장관 임혜숙, 이하 과기정통부)와 한국정보보호산업협회(회장 이동범, 이하 KISIA)는 국민과 기...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KISA, 전자화문서관리규정 등록제로 디지털 혁신 이끈다]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=106026&amp;page=1&amp;mkind=1&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=106026&amp;page=1&amp;mkind=1&amp;kind=2"/>
+        <updated>2022-04-14T06:21:56.492Z</updated>
+        <content type="html"><![CDATA[한국인터넷진흥원(KISA, 원장 이원태)은 전자화문서의 작성 절차 및 방법에 관한 규정의 개정(’21년 8월)으로 기업의 진입장벽이 완화됨에 따라 금융권에서 최초로 분산형 전자화문서관리규정 등록 사례가 나왔다고 4월 14일(목) 밝혔다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한국화웨이, ‘고출력, 고효율의 태양광 솔루션 제공해나갈 것’]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=106036&amp;page=1&amp;mkind=1&amp;kind=3</id>
@@ -109,19 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=106021&amp;page=1&amp;mkind=1&amp;kind=2"/>
         <updated>2022-04-14T03:04:50.011Z</updated>
         <content type="html"><![CDATA[개인정보보호위원회(위원장 윤종인, 이하 ‘개인정보위’)는 4월 13일 정부서울청사에서 ‘22년도 제6회 전체회의를 열고, 개인정보보호 법규를 위반한 6개 사업자에게 총 4,500만 원의 과태료 부과와 시정명령 처분을 의결했다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[알약, 1분기 랜섬웨어 행위기반 차단 건수 총 17만7천여 건]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=106017&amp;page=1&amp;mkind=1&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=106017&amp;page=1&amp;mkind=1&amp;kind=3"/>
-        <updated>2022-04-13T09:17:01.813Z</updated>
-        <content type="html"><![CDATA[보안 전문 기업 이스트시큐리티(대표 정진일)는 자사의 백신 프로그램 ‘알약’에 탑재되어 있는 ‘랜섬웨어 행위기반 사전 차단’기능을 통해, 2022년 1분기 총 17만 7천732건의 랜섬웨어 공격을 차단했다고 13일 밝혔다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[소프트캠프-인정보기술, 표준기록물관리 시장 진출 위한 업무협약 체결]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=106015&amp;page=1&amp;mkind=1&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=106015&amp;page=1&amp;mkind=1&amp;kind=3"/>
-        <updated>2022-04-13T08:22:14.091Z</updated>
-        <content type="html"><![CDATA[소프트캠프(대표 배환국)가 표준기록물관리시스템 전문업체인 인정보기술과 표준기록관리시스템(RMS) 시장 진출을 위한 업무협약(MOU)을 체결했다고 13일 밝혔다.]]></content>
     </entry>
 </feed>
