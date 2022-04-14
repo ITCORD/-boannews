@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Apr 2022 16:28:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2022 17:24:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -128,14 +128,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/uk-thumb-0410.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[수많은 삼성 안드로이드 장비들에서 위험한 취약점 발견돼]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105944&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105944&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Sun, 10 Apr 2022 23:16:03 GMT</pubDate>
-            <content:encoded><![CDATA[보안 블로그 시큐리티어페어즈에 의하면 안드로이드 9, 10, 11, 12를 기반으로 한 장비들에서 CVE-2022-22292라는 취약점이 발견됐다고 한다. 익스플...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/android-thumb-0408.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[러시아의 해킹 부대, 우크라이나에 정전 사태 일으키려 했다]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=106023&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=106023&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
@@ -150,6 +142,14 @@
             <pubDate>Thu, 14 Apr 2022 09:16:56 GMT</pubDate>
             <content:encoded><![CDATA[오픈소스 소프트웨어에의 코드베이스 공유 비율이 2021년 한 해 동안 78% 증가했다. 같은 코드베이스를 사용하여 만들어진 소프트웨어가 적지 않다는 뜻인데, 이렇...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/19974920_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[수많은 삼성 안드로이드 장비들에서 위험한 취약점 발견돼]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105944&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105944&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Sun, 10 Apr 2022 23:16:03 GMT</pubDate>
+            <content:encoded><![CDATA[보안 블로그 시큐리티어페어즈에 의하면 안드로이드 9, 10, 11, 12를 기반으로 한 장비들에서 CVE-2022-22292라는 취약점이 발견됐다고 한다. 익스플...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/android-thumb-0408.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한국 어셈넥스트 팀, ‘바이트코드 얼라이언스’ 합류]]></title>
