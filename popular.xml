@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Apr 2022 04:23:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2022 05:19:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,14 +14,6 @@
             <pubDate>Mon, 11 Apr 2022 06:21:09 GMT</pubDate>
             <content:encoded><![CDATA[대수롭지 않게 보이는 것들, 혹은 거기 있는 줄도 몰랐던 사소한 것들이 꽤나 큰 문제를 일으키는 사례가 보안 업계에서는 흔히 나타난다. 좋은 예가 있으니 ELF ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/lin-thumb-0409.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[애플의 맥 사용하는 사람들 중 최대 40%가 제로데이 공격에 노출돼]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105925&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105925&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Fri, 08 Apr 2022 01:08:00 GMT</pubDate>
-            <content:encoded><![CDATA[전 세계 맥 시스템의 35~40%가 침해의 가능성에 노출되어 있다는 경고가 나왔다. 두 가지 제로데이 취약점 때문이다. 두 개 다 실제 해킹 공격에 악용되고 있으...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/apple-thumb-0407.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[레빌과 블랙매터의 유산을 물려받았다고 주장하는 새 랜섬웨어 그룹, 알프파이브]]></title>
@@ -136,20 +128,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/uk-thumb-0410.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[수많은 삼성 안드로이드 장비들에서 위험한 취약점 발견돼]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105944&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105944&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Sun, 10 Apr 2022 23:16:03 GMT</pubDate>
-            <content:encoded><![CDATA[보안 블로그 시큐리티어페어즈에 의하면 안드로이드 9, 10, 11, 12를 기반으로 한 장비들에서 CVE-2022-22292라는 취약점이 발견됐다고 한다. 익스플...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/android-thumb-0408.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[윤석열 정부 초대 중기부 장관 후보에 이영 국민의힘 의원]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=106018&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=106018&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
             <pubDate>Thu, 14 Apr 2022 03:04:40 GMT</pubDate>
             <content:encoded><![CDATA[윤석열 정부의 초대 중소벤처기업부 장관 후보에 이영 국민의힘 의원이 지명됐다. 이영 장관 지명자는 제21대 국회의원으로 국내 대표적인 보안전문가이면서 보안솔루션 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/leeyoung_041301_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[수많은 삼성 안드로이드 장비들에서 위험한 취약점 발견돼]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105944&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105944&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Sun, 10 Apr 2022 23:16:03 GMT</pubDate>
+            <content:encoded><![CDATA[보안 블로그 시큐리티어페어즈에 의하면 안드로이드 9, 10, 11, 12를 기반으로 한 장비들에서 CVE-2022-22292라는 취약점이 발견됐다고 한다. 익스플...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/android-thumb-0408.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한국 어셈넥스트 팀, ‘바이트코드 얼라이언스’ 합류]]></title>
@@ -166,6 +158,14 @@
             <pubDate>Thu, 14 Apr 2022 04:20:32 GMT</pubDate>
             <content:encoded><![CDATA[물리보안과 사이버보안을 아우르는 국내 최대 통합보안 전시회인 제21회 세계보안엑스포(SECON &amp; eGISEC 2022)는 4월 20일부터 22일까지 3일간 일산...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/seocn&egisec_2022(6).jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[정보 탈취형 멀웨어 2개, 새롭게 등장해 사이버 공간 위협]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105985&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105985&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Thu, 14 Apr 2022 05:15:54 GMT</pubDate>
+            <content:encoded><![CDATA[보안 외신 해커뉴스에 의하면 정보 탈취형 멀웨어가 2개나 새롭게 발견됐다고 한다. 이름은 에프에프드로이더(FFDroider)와 라이트닝스틸러(Lightning S...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/com-thujmb-0412.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,23 @@
         <title>보안뉴스 ─ 국제</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Apr 2022 04:23:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2022 05:19:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[랜섬웨어 퍼트리던 지로더 봇넷, 보안 업계 협업으로 무력화 돼]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106039&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106039&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
+            <pubDate>Thu, 14 Apr 2022 05:18:17 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/view.asp?idx=106039&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
+					
+					<img src="/media/upFiles2/2022/04/20490014_copy_295x190_1.jpg" alt="" class="news_img" height="70">
+					
+					<span class="news_txt">랜섬웨어 퍼트리던 지로더 봇넷, 보안 업계 협업으로 무력화 돼</span>
+					</a><br>
+					<a href="/media/view.asp?idx=106039&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">마이크로소프트의 보안 연구원들과 여러 보안 업체들이 합동으로 지로더(Zloader)라는 악성 봇넷에 묶여 있던 도메인 65개를 폐쇄시키는 데 성공했다. 그 외에도...</a> <span class="news_writer">문가용 기자 | 2022년 04월 14일 13:38</span>]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/20490014_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[중국의 해킹 그룹 하프늄, 새로운 멀웨어 사용하기 시작]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=106034&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
@@ -272,20 +286,6 @@
 					</a><br>
 					<a href="/media/view.asp?idx=105983&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">보안 외신 쓰레트포스트가 MS가 사법 기관들과 함께 7개 도메인을 장악하고 폐쇄시켰다고 보도했다. 러시아의 APT 단체들이 공격에 활용하던 악성 도메인들이라고 한...</a> <span class="news_writer">문가용 기자 | 2022년 04월 12일 11:38</span>]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/domain-thumb-0412.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[어나니머스, 3개 러시아 단체 공격해 400GB 이메일 공개]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105981&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105981&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
-            <pubDate>Tue, 12 Apr 2022 03:01:17 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/view.asp?idx=105981&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
-					
-					<img src="/media/upFiles2/2022/04/anon-thumb-0412.jpg" alt="" class="news_img" height="70">
-					
-					<span class="news_txt">어나니머스, 3개 러시아 단체 공격해 400GB 이메일 공개</span>
-					</a><br>
-					<a href="/media/view.asp?idx=105981&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">핵티비스트 단체 어나니머스(Anonymous)가 러시아의 조직들로부터 빼돌린 것이라며 400GB의 이메일을 공개했다고 보안 외신 핵리드가 보도했다. 석유, 가스,...</a> <span class="news_writer">문가용 기자 | 2022년 04월 12일 11:36</span>]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/anon-thumb-0412.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

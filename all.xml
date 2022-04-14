@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Apr 2022 04:23:31 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2022 05:19:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[랜섬웨어 퍼트리던 지로더 봇넷, 보안 업계 협업으로 무력화 돼 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106039&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106039&amp;page=1&amp;kind=1</guid>
+            <pubDate>Thu, 14 Apr 2022 05:15:37 GMT</pubDate>
+            <content:encoded><![CDATA[마이크로소프트의 보안 연구원들과 여러 보안 업체들이 합동으로 지로더(Zloader)라는 악성 봇넷에 묶여 있던 도메인 65개를 폐쇄시키는 데 성공했다. 그...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/20490014_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2021년 정보보호 실태조사 결과 살펴보니... 기업, 보안 정책·예산 강화 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106032&amp;page=1&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106032&amp;page=1&amp;kind=2</guid>
+            <pubDate>Thu, 14 Apr 2022 05:15:37 GMT</pubDate>
+            <content:encoded><![CDATA[기업의 정보보호 정책 수립률과 예산 편성률, 개인의 정보보호 중요성 인식률이 작년대비 상승하는 등 정보보호를 위한 노력이 증진되고 있는 것으로 나타났다. ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/20799393_main(0).jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[중국의 해킹 그룹 하프늄, 새로운 멀웨어 사용하기 시작 (보안뉴스 ─ 전체기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=106034&amp;page=1&amp;kind=1</link>
@@ -70,22 +86,6 @@
             <pubDate>Wed, 13 Apr 2022 09:16:27 GMT</pubDate>
             <content:encoded><![CDATA[오픈소스 소프트웨어에의 코드베이스 공유 비율이 2021년 한 해 동안 78% 증가했다. 같은 코드베이스를 사용하여 만들어진 소프트웨어가 적지 않다는 뜻인데...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/19974920_copy_295x190_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[러시아의 해킹 부대, 우크라이나에 정전 사태 일으키려 했다 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106023&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106023&amp;page=1&amp;kind=1</guid>
-            <pubDate>Wed, 13 Apr 2022 08:21:44 GMT</pubDate>
-            <content:encoded><![CDATA[우크라이나의 긴급 대응 센터(CERT-UA)가 보안 업체 이셋(ESET) 및 IT 기업 마이크로소프트(Microsoft)와 연계하여 전기 공급망을 겨냥한 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/20912510_copy_295x190_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤석열 정부 초대 중기부 장관 후보에 이영 국민의힘 의원 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106018&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106018&amp;page=1&amp;kind=2</guid>
-            <pubDate>Wed, 13 Apr 2022 06:20:50 GMT</pubDate>
-            <content:encoded><![CDATA[윤석열 정부의 초대 중소벤처기업부 장관 후보에 이영 국민의힘 의원이 지명됐다. 이영 장관 지명자는 제21대 국회의원으로 국내 대표적인 보안전문가이면서 보안...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/leeyoung_041301_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[KISA, 전자화문서관리규정 등록제로 디지털 혁신 이끈다 (보안뉴스 ─ 전체기사)]]></title>
@@ -152,6 +152,14 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/21447268_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[러시아의 해킹 부대, 우크라이나에 정전 사태 일으키려 했다 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106023&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106023&amp;page=1&amp;kind=1</guid>
+            <pubDate>Wed, 13 Apr 2022 08:21:44 GMT</pubDate>
+            <content:encoded><![CDATA[우크라이나의 긴급 대응 센터(CERT-UA)가 보안 업체 이셋(ESET) 및 IT 기업 마이크로소프트(Microsoft)와 연계하여 전기 공급망을 겨냥한 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/20912510_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[쏘스뮤직과 번개장터 등 개인정보보호 법규 위반 6개 사업자 제재 (보안뉴스 ─ 전체기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=106021&amp;page=1&amp;kind=2</link>
             <guid>https://www.boannews.com/media/view.asp?idx=106021&amp;page=1&amp;kind=2</guid>
@@ -200,6 +208,14 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/cubox20220413c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[윤석열 정부 초대 중기부 장관 후보에 이영 국민의힘 의원 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106018&amp;page=1&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106018&amp;page=1&amp;kind=2</guid>
+            <pubDate>Wed, 13 Apr 2022 06:20:50 GMT</pubDate>
+            <content:encoded><![CDATA[윤석열 정부의 초대 중소벤처기업부 장관 후보에 이영 국민의힘 의원이 지명됐다. 이영 장관 지명자는 제21대 국회의원으로 국내 대표적인 보안전문가이면서 보안...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/leeyoung_041301_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[부고] 황호원 한국항공대학교 교수·한국항공보안학회 회장 모친상 (보안뉴스 ─ 전체기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=106013&amp;page=1&amp;kind=1</link>
             <guid>https://www.boannews.com/media/view.asp?idx=106013&amp;page=1&amp;kind=1</guid>
@@ -231,36 +247,12 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/bit-thumb-0413.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[MS의 패치 튜즈데이, 제로데이 취약점도 포함돼 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106008&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106008&amp;page=1&amp;kind=1</guid>
-            <pubDate>Wed, 13 Apr 2022 05:15:23 GMT</pubDate>
-            <content:encoded><![CDATA[보안 외신 쓰레트포스트에 의하면 MS가 4월 정기 패치를 발표했다고 한다. 총 128개의 취약점들이 해결됐으며, 10개가 초고위험도로 분류됐다. 초고위험도...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/mspat-thumb-0413.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[애플 수장 팀 쿡, 국회서 앱스토어 규제 반대해 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106007&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106007&amp;page=1&amp;kind=1</guid>
-            <pubDate>Wed, 13 Apr 2022 05:15:23 GMT</pubDate>
-            <content:encoded><![CDATA[보안 외신 시큐리티위크에 의하면 애플의 팀 쿡이 국회의원들 앞에서 앱스토어 규제에 반대하는 연설을 했다고 한다. 미국 국회 내에서는 현재 애플의 앱스토어 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/mon-thumb-0413.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[리눅스의 보안 위협, 점점 더 증가하고 있다 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105954&amp;page=1&amp;kind=4&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105954&amp;page=1&amp;kind=4&amp;search=title&amp;find=</guid>
             <pubDate>Mon, 11 Apr 2022 06:21:09 GMT</pubDate>
             <content:encoded><![CDATA[대수롭지 않게 보이는 것들, 혹은 거기 있는 줄도 몰랐던 사소한 것들이 꽤나 큰 문제를 일으키는 사례가 보안 업계에서는 흔히 나타난다. 좋은 예가 있으니 ELF ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/lin-thumb-0409.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[애플의 맥 사용하는 사람들 중 최대 40%가 제로데이 공격에 노출돼 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105925&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105925&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Fri, 08 Apr 2022 01:08:00 GMT</pubDate>
-            <content:encoded><![CDATA[전 세계 맥 시스템의 35~40%가 침해의 가능성에 노출되어 있다는 경고가 나왔다. 두 가지 제로데이 취약점 때문이다. 두 개 다 실제 해킹 공격에 악용되고 있으...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/apple-thumb-0407.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[레빌과 블랙매터의 유산을 물려받았다고 주장하는 새 랜섬웨어 그룹, 알프파이브 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
@@ -375,20 +367,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/uk-thumb-0410.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[수많은 삼성 안드로이드 장비들에서 위험한 취약점 발견돼 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105944&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105944&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Sun, 10 Apr 2022 23:16:03 GMT</pubDate>
-            <content:encoded><![CDATA[보안 블로그 시큐리티어페어즈에 의하면 안드로이드 9, 10, 11, 12를 기반으로 한 장비들에서 CVE-2022-22292라는 취약점이 발견됐다고 한다. 익스플...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/android-thumb-0408.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[윤석열 정부 초대 중기부 장관 후보에 이영 국민의힘 의원 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=106018&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=106018&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
             <pubDate>Thu, 14 Apr 2022 03:04:40 GMT</pubDate>
             <content:encoded><![CDATA[윤석열 정부의 초대 중소벤처기업부 장관 후보에 이영 국민의힘 의원이 지명됐다. 이영 장관 지명자는 제21대 국회의원으로 국내 대표적인 보안전문가이면서 보안솔루션 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/leeyoung_041301_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[수많은 삼성 안드로이드 장비들에서 위험한 취약점 발견돼 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105944&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105944&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Sun, 10 Apr 2022 23:16:03 GMT</pubDate>
+            <content:encoded><![CDATA[보안 블로그 시큐리티어페어즈에 의하면 안드로이드 9, 10, 11, 12를 기반으로 한 장비들에서 CVE-2022-22292라는 취약점이 발견됐다고 한다. 익스플...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/android-thumb-0408.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한국 어셈넥스트 팀, ‘바이트코드 얼라이언스’ 합류 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
@@ -405,6 +397,28 @@
             <pubDate>Thu, 14 Apr 2022 04:20:32 GMT</pubDate>
             <content:encoded><![CDATA[물리보안과 사이버보안을 아우르는 국내 최대 통합보안 전시회인 제21회 세계보안엑스포(SECON &amp; eGISEC 2022)는 4월 20일부터 22일까지 3일간 일산...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/seocn&egisec_2022(6).jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[정보 탈취형 멀웨어 2개, 새롭게 등장해 사이버 공간 위협 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105985&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105985&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Thu, 14 Apr 2022 05:15:54 GMT</pubDate>
+            <content:encoded><![CDATA[보안 외신 해커뉴스에 의하면 정보 탈취형 멀웨어가 2개나 새롭게 발견됐다고 한다. 이름은 에프에프드로이더(FFDroider)와 라이트닝스틸러(Lightning S...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/com-thujmb-0412.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한국화웨이, ‘고출력, 고효율의 태양광 솔루션 제공해나갈 것’ (보안뉴스 ─ SECURITY)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106036&amp;page=1&amp;mkind=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106036&amp;page=1&amp;mkind=1&amp;kind=3</guid>
+            <pubDate>Thu, 14 Apr 2022 05:16:10 GMT</pubDate>
+            <content:encoded><![CDATA[한국화웨이는 13일부터 15일까지 대구 엑스코에서 열리는 ‘2022 국제그린에너지엑스포’에 참가해, 데이터 소모를 최소화하면서 어디서든 모니터링과 원격제어가 가능한 화웨이 ‘퓨전솔라(FusionSolar)’ 제품군의 스마트 스트링 인버터 SUN2000 시리즈(SUN20...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[중국의 해킹 그룹 하프늄, 새로운 멀웨어 사용하기 시작 (보안뉴스 ─ SECURITY)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106034&amp;page=1&amp;mkind=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106034&amp;page=1&amp;mkind=1&amp;kind=1</guid>
+            <pubDate>Thu, 14 Apr 2022 05:16:10 GMT</pubDate>
+            <content:encoded><![CDATA[중국의 해킹 그룹 하프늄(Hafnium)이 윈도 환경을 공격하기 위해 새로운 멀웨어를 들고 나타났다고 보안 외신 해커뉴스가 보도했다. MS는 이 멀웨어에 타라스크(Tarrask)라는 이름을 붙였다. 윈도 내 작업 스케줄을 몰래 만들어 공격을 지속시키는 데 주로 사용된다...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[IT Ground 커뮤니티 참여記 “보안담당자, 양질의 정보와 실무 노하우 공유” (보안뉴스 ─ SECURITY)]]></title>
@@ -510,20 +524,6 @@
             <guid>https://www.boannews.com/media/view.asp?idx=106015&amp;page=1&amp;mkind=1&amp;kind=3</guid>
             <pubDate>Wed, 13 Apr 2022 08:22:14 GMT</pubDate>
             <content:encoded><![CDATA[소프트캠프(대표 배환국)가 표준기록물관리시스템 전문업체인 인정보기술과 표준기록관리시스템(RMS) 시장 진출을 위한 업무협약(MOU)을 체결했다고 13일 밝혔다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[포티넷, 새로운 운영체제 ‘FortiOS 7.2’ 발표 (보안뉴스 ─ SECURITY)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106006&amp;page=1&amp;mkind=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106006&amp;page=1&amp;mkind=1&amp;kind=3</guid>
-            <pubDate>Wed, 13 Apr 2022 07:21:47 GMT</pubDate>
-            <content:encoded><![CDATA[광범위하고 자동화된 통합 사이버보안 포티넷코리아(조원균 대표)는 13일 본사에서 업그레이드된 새로운 운영체제 ‘FortiOS 7.2’를 공개했다고 발표했다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[윤석열 정부 초대 중기부 장관 후보에 이영 국민의힘 의원 (보안뉴스 ─ SECURITY)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106018&amp;page=1&amp;mkind=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106018&amp;page=1&amp;mkind=1&amp;kind=2</guid>
-            <pubDate>Wed, 13 Apr 2022 07:21:47 GMT</pubDate>
-            <content:encoded><![CDATA[윤석열 정부의 초대 중소벤처기업부 장관 후보에 이영 국민의힘 의원이 지명됐다. 이영 장관 지명자는 제21대 국회의원으로 국내 대표적인 보안전문가이면서 보안솔루션 중소기업 ‘테르텐’을 운영했던 여성 벤처기업인이다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[SR, 노사 상생 공동 선언문 선포 (보안뉴스 ─ IT)]]></title>
@@ -1900,6 +1900,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220311medical-s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[랜섬웨어 퍼트리던 지로더 봇넷, 보안 업계 협업으로 무력화 돼 (보안뉴스 ─ 국제)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106039&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106039&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
+            <pubDate>Thu, 14 Apr 2022 05:18:17 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/view.asp?idx=106039&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
+					
+					<img src="/media/upFiles2/2022/04/20490014_copy_295x190_1.jpg" alt="" class="news_img" height="70">
+					
+					<span class="news_txt">랜섬웨어 퍼트리던 지로더 봇넷, 보안 업계 협업으로 무력화 돼</span>
+					</a><br>
+					<a href="/media/view.asp?idx=106039&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">마이크로소프트의 보안 연구원들과 여러 보안 업체들이 합동으로 지로더(Zloader)라는 악성 봇넷에 묶여 있던 도메인 65개를 폐쇄시키는 데 성공했다. 그 외에도...</a> <span class="news_writer">문가용 기자 | 2022년 04월 14일 13:38</span>]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/20490014_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[중국의 해킹 그룹 하프늄, 새로운 멀웨어 사용하기 시작 (보안뉴스 ─ 국제)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=106034&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=106034&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
@@ -2164,20 +2178,6 @@
 					</a><br>
 					<a href="/media/view.asp?idx=105983&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">보안 외신 쓰레트포스트가 MS가 사법 기관들과 함께 7개 도메인을 장악하고 폐쇄시켰다고 보도했다. 러시아의 APT 단체들이 공격에 활용하던 악성 도메인들이라고 한...</a> <span class="news_writer">문가용 기자 | 2022년 04월 12일 11:38</span>]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/domain-thumb-0412.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[어나니머스, 3개 러시아 단체 공격해 400GB 이메일 공개 (보안뉴스 ─ 국제)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105981&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105981&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
-            <pubDate>Tue, 12 Apr 2022 03:01:17 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/view.asp?idx=105981&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
-					
-					<img src="/media/upFiles2/2022/04/anon-thumb-0412.jpg" alt="" class="news_img" height="70">
-					
-					<span class="news_txt">어나니머스, 3개 러시아 단체 공격해 400GB 이메일 공개</span>
-					</a><br>
-					<a href="/media/view.asp?idx=105981&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">핵티비스트 단체 어나니머스(Anonymous)가 러시아의 조직들로부터 빼돌린 것이라며 400GB의 이메일을 공개했다고 보안 외신 핵리드가 보도했다. 석유, 가스,...</a> <span class="news_writer">문가용 기자 | 2022년 04월 12일 11:36</span>]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/anon-thumb-0412.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[통합보안 3사 에스원·SK쉴더스·KT텔레캅, 소비자의 생각과 선택은? (보안뉴스 ─ 기획특집)]]></title>
