@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Apr 2022 03:06:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2022 04:23:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -86,6 +86,14 @@
             <pubDate>Wed, 13 Apr 2022 06:20:50 GMT</pubDate>
             <content:encoded><![CDATA[윤석열 정부의 초대 중소벤처기업부 장관 후보에 이영 국민의힘 의원이 지명됐다. 이영 장관 지명자는 제21대 국회의원으로 국내 대표적인 보안전문가이면서 보안...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/leeyoung_041301_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[KISA, 전자화문서관리규정 등록제로 디지털 혁신 이끈다 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106026&amp;page=1&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106026&amp;page=1&amp;kind=2</guid>
+            <pubDate>Thu, 14 Apr 2022 04:20:14 GMT</pubDate>
+            <content:encoded><![CDATA[한국인터넷진흥원(KISA, 원장 이원태)은 전자화문서의 작성 절차 및 방법에 관한 규정의 개정(’21년 8월)으로 기업의 진입장벽이 완화됨에 따라 금융권에...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/kisa_041401_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한국화웨이, ‘고출력, 고효율의 태양광 솔루션 제공해나갈 것’ (보안뉴스 ─ 전체기사)]]></title>
@@ -239,14 +247,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/mon-thumb-0413.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[실전형 사이버훈련장 ‘사이버 침해대응 보안전문가 교육’ 수강생 모집 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105997&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105997&amp;page=1&amp;kind=2</guid>
-            <pubDate>Wed, 13 Apr 2022 04:21:28 GMT</pubDate>
-            <content:encoded><![CDATA[과학기술정보통신부(장관 임혜숙, 이하 과기정통부)는 한국인터넷진흥원(원장 이원태, 이하 KISA)과 함께 ‘실전형 사이버훈련장(Security-Gym, 시...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/msit_041301_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[리눅스의 보안 위협, 점점 더 증가하고 있다 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105954&amp;page=1&amp;kind=4&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105954&amp;page=1&amp;kind=4&amp;search=title&amp;find=</guid>
@@ -261,14 +261,6 @@
             <pubDate>Fri, 08 Apr 2022 01:08:00 GMT</pubDate>
             <content:encoded><![CDATA[전 세계 맥 시스템의 35~40%가 침해의 가능성에 노출되어 있다는 경고가 나왔다. 두 가지 제로데이 취약점 때문이다. 두 개 다 실제 해킹 공격에 악용되고 있으...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/apple-thumb-0407.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[최근 기업 타깃 해킹 공격 급증... 정부가 제시한 기업의 대응방안은? (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105913&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105913&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
-            <pubDate>Fri, 08 Apr 2022 04:20:25 GMT</pubDate>
-            <content:encoded><![CDATA[최근 러시아와 우크라이나 전쟁으로 인한 사이버공격이 늘어나고, 코로나19로 인한 재택근무에 따른 보안위협이 증가하면서, 기업의 보안위협에 대해 정부가 지원에 나섰...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/20799393_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[레빌과 블랙매터의 유산을 물려받았다고 주장하는 새 랜섬웨어 그룹, 알프파이브 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
@@ -391,6 +383,14 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/android-thumb-0408.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[윤석열 정부 초대 중기부 장관 후보에 이영 국민의힘 의원 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106018&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106018&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
+            <pubDate>Thu, 14 Apr 2022 03:04:40 GMT</pubDate>
+            <content:encoded><![CDATA[윤석열 정부의 초대 중소벤처기업부 장관 후보에 이영 국민의힘 의원이 지명됐다. 이영 장관 지명자는 제21대 국회의원으로 국내 대표적인 보안전문가이면서 보안솔루션 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/leeyoung_041301_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[한국 어셈넥스트 팀, ‘바이트코드 얼라이언스’ 합류 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105951&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105951&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
@@ -399,12 +399,19 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/asm_040801_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[윤석열 정부 초대 중기부 장관 후보에 이영 국민의힘 의원 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106018&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106018&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
-            <pubDate>Thu, 14 Apr 2022 03:04:40 GMT</pubDate>
-            <content:encoded><![CDATA[윤석열 정부의 초대 중소벤처기업부 장관 후보에 이영 국민의힘 의원이 지명됐다. 이영 장관 지명자는 제21대 국회의원으로 국내 대표적인 보안전문가이면서 보안솔루션 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/leeyoung_041301_main.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[미리보는 SECON & eGISEC 2022] 엔에스이·엔텀네트웍스·엔피코어 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105948&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105948&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
+            <pubDate>Thu, 14 Apr 2022 04:20:32 GMT</pubDate>
+            <content:encoded><![CDATA[물리보안과 사이버보안을 아우르는 국내 최대 통합보안 전시회인 제21회 세계보안엑스포(SECON &amp; eGISEC 2022)는 4월 20일부터 22일까지 3일간 일산...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/seocn&egisec_2022(6).jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[IT Ground 커뮤니티 참여記 “보안담당자, 양질의 정보와 실무 노하우 공유” (보안뉴스 ─ SECURITY)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105988&amp;page=1&amp;mkind=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105988&amp;page=1&amp;mkind=1&amp;kind=3</guid>
+            <pubDate>Thu, 14 Apr 2022 04:20:48 GMT</pubDate>
+            <content:encoded><![CDATA[IT 전문가와 실무진을 위한 커뮤니티 플랫폼인 ‘IT Ground’가 IT 및 보안 전문가들의 관심을 받고 있다. ‘IT Ground’는 홍보 및 광고 등 불필요한 정보가 난무한 일반 커뮤니티와 달리 금융, 공공, 기업, 학교 등 실무담당자 회원들로만 운영하는 시스템으...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[아파치 스트러츠의 취약점, 드디어 제대로 패치돼 (보안뉴스 ─ SECURITY)]]></title>
@@ -517,13 +524,6 @@
             <guid>https://www.boannews.com/media/view.asp?idx=106018&amp;page=1&amp;mkind=1&amp;kind=2</guid>
             <pubDate>Wed, 13 Apr 2022 07:21:47 GMT</pubDate>
             <content:encoded><![CDATA[윤석열 정부의 초대 중소벤처기업부 장관 후보에 이영 국민의힘 의원이 지명됐다. 이영 장관 지명자는 제21대 국회의원으로 국내 대표적인 보안전문가이면서 보안솔루션 중소기업 ‘테르텐’을 운영했던 여성 벤처기업인이다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[부고] 황호원 한국항공대학교 교수·한국항공보안학회 회장 모친상 (보안뉴스 ─ SECURITY)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106013&amp;page=1&amp;mkind=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106013&amp;page=1&amp;mkind=1&amp;kind=1</guid>
-            <pubDate>Wed, 13 Apr 2022 07:21:47 GMT</pubDate>
-            <content:encoded><![CDATA[△내 용 : 황호원 한국항공대학교 교수・한국항공보안학회 회장 모친상 △빈 소 : 연세대 신촌세브란스병원장례식장 17호실 △발 인 : 2022년 4월 15일(금) △장 지 : 대전현충원]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[SR, 노사 상생 공동 선언문 선포 (보안뉴스 ─ IT)]]></title>
@@ -1620,6 +1620,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2021/09/21091703ss.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[2021년 정보보호 실태조사 결과 살펴보니... 기업, 보안 정책·예산 강화 (보안뉴스 ─ 정책)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106032&amp;page=1&amp;mkind=&amp;kind=2&amp;skind=6&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106032&amp;page=1&amp;mkind=&amp;kind=2&amp;skind=6&amp;search=title&amp;find=</guid>
+            <pubDate>Thu, 14 Apr 2022 04:22:21 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/view.asp?idx=106032&amp;page=1&amp;mkind=&amp;kind=2&amp;skind=6&amp;search=title&amp;find=">
+					
+					<img src="/media/upFiles2/2022/04/20799393_main(0).jpg" alt="" class="news_img" height="70">
+					
+					<span class="news_txt">2021년 정보보호 실태조사 결과 살펴보니... 기업, 보안 정책·예산 강화</span>
+					</a><br>
+					<a href="/media/view.asp?idx=106032&amp;page=1&amp;mkind=&amp;kind=2&amp;skind=6&amp;search=title&amp;find=">기업의 정보보호 정책 수립률과 예산 편성률, 개인의 정보보호 중요성 인식률이 작년대비 상승하는 등 정보보호를 위한 노력이 증진되고 있는 것으로 나타났다. 과학기술...</a> <span class="news_writer">원병철 기자 | 2022년 04월 14일 13:18</span>]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/20799393_main(0).jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[윤석열 정부 초대 중기부 장관 후보에 이영 국민의힘 의원 (보안뉴스 ─ 정책)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=106018&amp;page=1&amp;mkind=&amp;kind=2&amp;skind=6&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=106018&amp;page=1&amp;mkind=&amp;kind=2&amp;skind=6&amp;search=title&amp;find=</guid>
@@ -1884,20 +1898,6 @@
 					</a><br>
 					<a href="/media/view.asp?idx=105375&amp;page=1&amp;mkind=&amp;kind=2&amp;skind=6&amp;search=title&amp;find=">한국인터넷진흥원(KISA, 원장 이원태)과 과학기술정보통신부(장관 임혜숙)는 3월 10일부터 13일까지 4일간 서울 코엑스에서 진행되는 제37회 KIMES(국제의...</a> <span class="news_writer">권준  기자 | 2022년 03월 11일 13:51</span>]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220311medical-s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤석열 당선인의 사이버 보안 정책, 어떤 방향으로 추진될까 (보안뉴스 ─ 정책)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105373&amp;page=1&amp;mkind=&amp;kind=2&amp;skind=6&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105373&amp;page=1&amp;mkind=&amp;kind=2&amp;skind=6&amp;search=title&amp;find=</guid>
-            <pubDate>Fri, 11 Mar 2022 02:41:49 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/view.asp?idx=105373&amp;page=1&amp;mkind=&amp;kind=2&amp;skind=6&amp;search=title&amp;find=">
-					
-					<img src="/media/upFiles2/2022/03/20220311YOUN-S.JPG" alt="" class="news_img" height="70">
-					
-					<span class="news_txt">윤석열 당선인의 사이버 보안 정책, 어떤 방향으로 추진될까 </span>
-					</a><br>
-					<a href="/media/view.asp?idx=105373&amp;page=1&amp;mkind=&amp;kind=2&amp;skind=6&amp;search=title&amp;find=">윤석열 국민의힘 후보가 제20대 대통령 당선된 가운데 윤석열 당선인의 차기 정부에서 보안 정책이 어떻게 추진될지 관심이 모아지고 있다. IT 분야 공약으로 윤석열...</a> <span class="news_writer">권준  기자 | 2022년 03월 11일 11:28</span>]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220311YOUN-S.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[중국의 해킹 그룹 하프늄, 새로운 멀웨어 사용하기 시작 (보안뉴스 ─ 국제)]]></title>

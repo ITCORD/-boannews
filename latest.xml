@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Apr 2022 03:06:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2022 04:23:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -86,6 +86,14 @@
             <pubDate>Wed, 13 Apr 2022 06:20:50 GMT</pubDate>
             <content:encoded><![CDATA[윤석열 정부의 초대 중소벤처기업부 장관 후보에 이영 국민의힘 의원이 지명됐다. 이영 장관 지명자는 제21대 국회의원으로 국내 대표적인 보안전문가이면서 보안...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/leeyoung_041301_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[KISA, 전자화문서관리규정 등록제로 디지털 혁신 이끈다]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106026&amp;page=1&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106026&amp;page=1&amp;kind=2</guid>
+            <pubDate>Thu, 14 Apr 2022 04:20:14 GMT</pubDate>
+            <content:encoded><![CDATA[한국인터넷진흥원(KISA, 원장 이원태)은 전자화문서의 작성 절차 및 방법에 관한 규정의 개정(’21년 8월)으로 기업의 진입장벽이 완화됨에 따라 금융권에...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/kisa_041401_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한국화웨이, ‘고출력, 고효율의 태양광 솔루션 제공해나갈 것’]]></title>
@@ -237,14 +245,6 @@
             <pubDate>Wed, 13 Apr 2022 05:15:23 GMT</pubDate>
             <content:encoded><![CDATA[보안 외신 시큐리티위크에 의하면 애플의 팀 쿡이 국회의원들 앞에서 앱스토어 규제에 반대하는 연설을 했다고 한다. 미국 국회 내에서는 현재 애플의 앱스토어 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/mon-thumb-0413.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[실전형 사이버훈련장 ‘사이버 침해대응 보안전문가 교육’ 수강생 모집]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105997&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105997&amp;page=1&amp;kind=2</guid>
-            <pubDate>Wed, 13 Apr 2022 04:21:28 GMT</pubDate>
-            <content:encoded><![CDATA[과학기술정보통신부(장관 임혜숙, 이하 과기정통부)는 한국인터넷진흥원(원장 이원태, 이하 KISA)과 함께 ‘실전형 사이버훈련장(Security-Gym, 시...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/msit_041301_main.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

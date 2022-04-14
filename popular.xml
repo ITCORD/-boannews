@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Apr 2022 03:06:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2022 04:23:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -22,14 +22,6 @@
             <pubDate>Fri, 08 Apr 2022 01:08:00 GMT</pubDate>
             <content:encoded><![CDATA[전 세계 맥 시스템의 35~40%가 침해의 가능성에 노출되어 있다는 경고가 나왔다. 두 가지 제로데이 취약점 때문이다. 두 개 다 실제 해킹 공격에 악용되고 있으...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/apple-thumb-0407.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[최근 기업 타깃 해킹 공격 급증... 정부가 제시한 기업의 대응방안은?]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105913&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105913&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
-            <pubDate>Fri, 08 Apr 2022 04:20:25 GMT</pubDate>
-            <content:encoded><![CDATA[최근 러시아와 우크라이나 전쟁으로 인한 사이버공격이 늘어나고, 코로나19로 인한 재택근무에 따른 보안위협이 증가하면서, 기업의 보안위협에 대해 정부가 지원에 나섰...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/20799393_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[레빌과 블랙매터의 유산을 물려받았다고 주장하는 새 랜섬웨어 그룹, 알프파이브]]></title>
@@ -152,6 +144,14 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/android-thumb-0408.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[윤석열 정부 초대 중기부 장관 후보에 이영 국민의힘 의원]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106018&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106018&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
+            <pubDate>Thu, 14 Apr 2022 03:04:40 GMT</pubDate>
+            <content:encoded><![CDATA[윤석열 정부의 초대 중소벤처기업부 장관 후보에 이영 국민의힘 의원이 지명됐다. 이영 장관 지명자는 제21대 국회의원으로 국내 대표적인 보안전문가이면서 보안솔루션 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/leeyoung_041301_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[한국 어셈넥스트 팀, ‘바이트코드 얼라이언스’ 합류]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105951&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105951&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
@@ -160,12 +160,12 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/asm_040801_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[윤석열 정부 초대 중기부 장관 후보에 이영 국민의힘 의원]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106018&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106018&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
-            <pubDate>Thu, 14 Apr 2022 03:04:40 GMT</pubDate>
-            <content:encoded><![CDATA[윤석열 정부의 초대 중소벤처기업부 장관 후보에 이영 국민의힘 의원이 지명됐다. 이영 장관 지명자는 제21대 국회의원으로 국내 대표적인 보안전문가이면서 보안솔루션 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/leeyoung_041301_main.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[미리보는 SECON & eGISEC 2022] 엔에스이·엔텀네트웍스·엔피코어]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105948&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105948&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
+            <pubDate>Thu, 14 Apr 2022 04:20:32 GMT</pubDate>
+            <content:encoded><![CDATA[물리보안과 사이버보안을 아우르는 국내 최대 통합보안 전시회인 제21회 세계보안엑스포(SECON &amp; eGISEC 2022)는 4월 20일부터 22일까지 3일간 일산...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/seocn&egisec_2022(6).jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
