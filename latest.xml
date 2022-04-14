@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Apr 2022 06:25:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2022 07:19:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -86,6 +86,14 @@
             <pubDate>Thu, 14 Apr 2022 03:04:30 GMT</pubDate>
             <content:encoded><![CDATA[행정안전부가 주최하고 한국지역정보개발원이 주관하는 ‘CCTV 통합관제 콘퍼런스 2022’가 지자체 CCTV통합관제센터 운영현황 및 향후 발전 방향을 주제로...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/22040602ss.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[코어닥스-동국대 정보보호대학원, 자금세탁방지 전문가 육성 위해 MOU 체결]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106047&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106047&amp;page=1&amp;kind=1</guid>
+            <pubDate>Thu, 14 Apr 2022 07:16:50 GMT</pubDate>
+            <content:encoded><![CDATA[프리미엄 디지털자산 거래소 코어닥스가 13일 동국대학교 국제정보보호대학원과 함께 AML, FDS 전문가를 육성하기 위한 업무협약(MOU)을 체결했다.]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/dong-C.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[KISA, 전자화문서관리규정 등록제로 디지털 혁신 이끈다]]></title>
@@ -237,14 +245,6 @@
             <pubDate>Wed, 13 Apr 2022 05:15:23 GMT</pubDate>
             <content:encoded><![CDATA[보안 블로그인 시큐리티어페어즈에 의하면 미국, 영국, 스웨덴, 포르투갈, 루마니아의 경찰과 사법 기관들이 공조해 유명 다크웹 시장인 레이드포럼즈(RaidF...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/market-thumb-0413.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[엔진엑스, LDAP에 영향을 주는 제로데이 취약점 완화책 공유]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106010&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106010&amp;page=1&amp;kind=1</guid>
-            <pubDate>Wed, 13 Apr 2022 05:15:23 GMT</pubDate>
-            <content:encoded><![CDATA[보안 외신 해커뉴스에 의하면 엔진엑스(NGINX) 웹 서버 프로젝트의 관리자들이 최근 LDAP 구현에 영향을 주는 제로데이 보안 취약점을 발견해, 이에 대...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/ngin-thumb-0413.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
