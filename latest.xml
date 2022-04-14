@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 14 Apr 2022 09:19:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 Apr 2022 10:21:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -86,6 +86,14 @@
             <pubDate>Thu, 14 Apr 2022 03:04:30 GMT</pubDate>
             <content:encoded><![CDATA[아파치 소프트웨어 재단이 아파치 스트러츠(Apache Struts)에서 발견된 취약점인 CVE-2021-31805를 패치했다고 보안 블로그 시큐리티어페어즈...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/patch-thumb-0414.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[하이크비전, 프로젝트향 프리미엄 제품에 5년 보증 정책 적용]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106052&amp;page=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106052&amp;page=1&amp;kind=3</guid>
+            <pubDate>Thu, 14 Apr 2022 10:18:09 GMT</pubDate>
+            <content:encoded><![CDATA[영상 분야를 핵심 역량으로 보유한 IoT 솔루션 공급업체 하이크비전(Hikvision)이 프리미엄 프로젝트 제품에 대해 글로벌 보증을 5년으로 연장했다. ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/22041405ss.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[물리보안 통합플랫폼 콘퍼런스 2022, 4월 20일 킨텍스에서 개최]]></title>
@@ -238,14 +246,6 @@
             <pubDate>Wed, 13 Apr 2022 07:21:12 GMT</pubDate>
             <content:encoded><![CDATA[보안 전문 기업 이스트시큐리티(대표 정진일)는 자사의 백신 프로그램 ‘알약’에 탑재되어 있는 ‘랜섬웨어 행위기반 사전 차단’기능을 통해, 2022년 1분기...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/est-c20220413.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[소프트캠프-인정보기술, 표준기록물관리 시장 진출 위한 업무협약 체결]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106015&amp;page=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106015&amp;page=1&amp;kind=3</guid>
-            <pubDate>Wed, 13 Apr 2022 07:21:12 GMT</pubDate>
-            <content:encoded><![CDATA[소프트캠프(대표 배환국)가 표준기록물관리시스템 전문업체인 인정보기술과 표준기록관리시스템(RMS) 시장 진출을 위한 업무협약(MOU)을 체결했다고 13일 밝...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/soft%20camp20220413-c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
