@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=2</id>
     <title>보안뉴스 ─ IT</title>
-    <updated>2022-04-15T01:17:25.933Z</updated>
+    <updated>2022-04-15T03:30:34.487Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[IT Ground 커뮤니티 참여記 “보안담당자, 양질의 정보와 실무 노하우 공유”]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=105988&amp;page=1&amp;mkind=2&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=105988&amp;page=1&amp;mkind=2&amp;kind=3"/>
+        <updated>2022-04-15T03:28:27.321Z</updated>
+        <content type="html"><![CDATA[IT 전문가와 실무진을 위한 커뮤니티 플랫폼인 ‘IT Ground’가 IT 및 보안 전문가들의 관심을 받고 있다. ‘IT Ground’는 홍보 및 광고 등 불필요한 정보가 난무한 일반 커뮤니티와 달리 금융, 공공, 기업, 학교 등 실무담당자 회원들로만 운영하는 시스템으...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[마이크로스트레티지코리아, 최신 BI 트렌드 및 도입사례 발표]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=106012&amp;page=1&amp;mkind=2&amp;kind=3</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=105780&amp;page=1&amp;mkind=2&amp;kind=2"/>
         <updated>2022-04-03T08:19:10.167Z</updated>
         <content type="html"><![CDATA[국토교통부는 정부 간 스마트시티 협력 사업을 발굴하고, 우리 기업의 해외 진출을 지원하기 위한 ‘K-City Network’ 사업의 제3회 국제공모를 지난 29일부터 시작했다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KT, 신사업 파트너사 확대 위해 7개 협회와 맞손]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=105778&amp;page=1&amp;mkind=2&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=105778&amp;page=1&amp;mkind=2&amp;kind=3"/>
-        <updated>2022-03-30T11:15:43.948Z</updated>
-        <content type="html"><![CDATA[KT는 한국디지털헬스산업협회, 한국블록체인산업진흥협회, 한국스마트홈산업협회, 한국인공지능협회, 한국자율주행산업협회, 한국클라우드산업협회, 한국통합물류협회 등 7개 기관과 신사업 분야 협력 기반 마련 및 동반 성장을 위한 업무협약(MOU)을 체결했다고 밝혔다.]]></content>
     </entry>
 </feed>
