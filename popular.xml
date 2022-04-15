@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 15 Apr 2022 08:24:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Apr 2022 09:19:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,20 +48,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/20734011_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[주말판] 인공지능이 채용하는 시대가 코앞인데, 안전장치는 마련되고 있나]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105934&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105934&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
-            <pubDate>Mon, 11 Apr 2022 06:21:09 GMT</pubDate>
-            <content:encoded><![CDATA[일자리를 찾고 이력서를 작성하여 제출하는 모든 과정은 거의 대부분 온라인에서 진행된다. 구직자와 구인자들을 위한 도구들이며 플랫폼이 넘쳐나는 시대니까. 게다가 팬...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/hire-thumb-0408.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[인터뷰] 누적 1억명 사용자의 ‘보안’을 지킨 SR 정보보안부]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105976&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105976&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
             <pubDate>Wed, 13 Apr 2022 01:16:32 GMT</pubDate>
             <content:encoded><![CDATA[2016년 SRT 개통과 함께 지금까지 약 6년여 간의 짧은 시간동안 ISMS-P와 ISO 27001 등 7개의 국내외 정보보호 인증을 획득한 것은 물론 정보보호...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/SR_041201_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[주말판] 인공지능이 채용하는 시대가 코앞인데, 안전장치는 마련되고 있나]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105934&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105934&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
+            <pubDate>Mon, 11 Apr 2022 06:21:09 GMT</pubDate>
+            <content:encoded><![CDATA[일자리를 찾고 이력서를 작성하여 제출하는 모든 과정은 거의 대부분 온라인에서 진행된다. 구직자와 구인자들을 위한 도구들이며 플랫폼이 넘쳐나는 시대니까. 게다가 팬...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/hire-thumb-0408.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[윤석열 당선인, ICT·보안 정책 총괄 과기정통부 장관 후보에 서울대 이종호 교수 지명]]></title>
@@ -120,20 +120,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/uk-thumb-0410.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[정보 탈취형 멀웨어 2개, 새롭게 등장해 사이버 공간 위협]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105985&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105985&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Thu, 14 Apr 2022 16:25:06 GMT</pubDate>
-            <content:encoded><![CDATA[보안 외신 해커뉴스에 의하면 정보 탈취형 멀웨어가 2개나 새롭게 발견됐다고 한다. 이름은 에프에프드로이더(FFDroider)와 라이트닝스틸러(Lightning S...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/com-thujmb-0412.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[테크칼럼] 끝나지 않은 ‘Log4j’ 취약점, 마이크로세그멘테이션으로 대응하라]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105991&amp;page=1&amp;kind=5&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105991&amp;page=1&amp;kind=5&amp;search=title&amp;find=</guid>
             <pubDate>Fri, 15 Apr 2022 03:28:00 GMT</pubDate>
             <content:encoded><![CDATA[2021년 11월 24일, 아파치 파운데이션(Apache Foundation)은 Log4j의 보안 취약점(비인증 원격 코드 실행 및 데이터 유출 CVE-2021-...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/acamai_0412%20(1)_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[정보 탈취형 멀웨어 2개, 새롭게 등장해 사이버 공간 위협]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105985&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105985&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Thu, 14 Apr 2022 16:25:06 GMT</pubDate>
+            <content:encoded><![CDATA[보안 외신 해커뉴스에 의하면 정보 탈취형 멀웨어가 2개나 새롭게 발견됐다고 한다. 이름은 에프에프드로이더(FFDroider)와 라이트닝스틸러(Lightning S...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/com-thujmb-0412.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[쏘스뮤직과 번개장터 등 개인정보보호 법규 위반 6개 사업자 제재]]></title>
