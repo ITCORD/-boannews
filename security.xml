@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-04-17T14:18:03.234Z</updated>
+    <updated>2022-04-17T15:20:04.973Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[24시간 움직이는 CCTV로 범죄사각지대 해소한다]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=106077&amp;page=1&amp;mkind=1&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=106077&amp;page=1&amp;mkind=1&amp;kind=2"/>
+        <updated>2022-04-17T15:17:18.966Z</updated>
+        <content type="html"><![CDATA[동작구는 두레윈과 손잡고 추진하는 ‘스모킹건 IoT’ 플랫폼 사업이 국토교통부가 주관한 2022년 스마트시티 혁신기술 발굴 공모에 최종 선정되며 국비 15억원을 확보했다고 밝혔다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[경주시, 지역 아파트 17개소 아파트 월패드 긴급 점검]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=106079&amp;page=1&amp;mkind=1&amp;kind=2</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=106048&amp;page=1&amp;mkind=1&amp;kind=4"/>
         <updated>2022-04-15T03:28:14.183Z</updated>
         <content type="html"><![CDATA[지난 2년 동안 많은 기업들이 원격 근무 체제 아래에서도 충분히 경쟁력과 생산성을 발휘할 수 있음을 입증했다. 처음에는 당혹스러웠지만 결국 모두가 원격 근무 체제에 적응을 해냈고, 새로운 기술들도 도입해 익혔으며, 서로에게 생각보다 많은 부분에서 의지할 수 있음 역시 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Weekly Security Premium Report 제46호 발간! 리눅스 보안위협 진단]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=106051&amp;page=1&amp;mkind=1&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=106051&amp;page=1&amp;mkind=1&amp;kind=3"/>
-        <updated>2022-04-15T03:28:14.185Z</updated>
-        <content type="html"><![CDATA[4월 14일 발간된 ‘Weekly Security Premium Report’ 제46호에는 &lt;보안 심층 리포트&gt; 코너에서 점점 더 증가하고 있는 리눅스 기반 시스템과 서버를 타깃으로 보안위협 실태를 진단하고 보안대책을 고민해보는 시간을 가졌다. 최근에는 사물...]]></content>
     </entry>
 </feed>

@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Apr 2022 14:18:03 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Apr 2022 15:20:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -86,6 +86,22 @@
             <pubDate>Fri, 15 Apr 2022 03:27:47 GMT</pubDate>
             <content:encoded><![CDATA[IT 외신 블리핑컴퓨터에 의하면 구글이 크롬 100.0.4896.127 버전을 새롭게 발표했다고 한다. 해커들이 제로데이 취약점을 공략하고 있기 때문이었다...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/20734555_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[미리보는 SECON & eGISEC 2022] 이노뎁·이룸에스엔에스·지니가치]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106042&amp;page=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106042&amp;page=1&amp;kind=3</guid>
+            <pubDate>Sun, 17 Apr 2022 15:16:50 GMT</pubDate>
+            <content:encoded><![CDATA[물리보안과 사이버보안을 아우르는 국내 최대 통합보안 전시회인 제21회 세계보안엑스포(SECON &amp; eGISEC 2022)는 4월 20일부터 22일까지 3일...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/20220417SECON.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[미리보는 SECON & eGISEC 2022] 지오멕스소프트·쿠도커뮤니케이션·태정이엔지]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106041&amp;page=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106041&amp;page=1&amp;kind=3</guid>
+            <pubDate>Sun, 17 Apr 2022 15:16:50 GMT</pubDate>
+            <content:encoded><![CDATA[물리보안과 사이버보안을 아우르는 국내 최대 통합보안 전시회인 제21회 세계보안엑스포(SECON &amp; eGISEC 2022)는 4월 20일부터 22일까지 3일...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/seocn&egisec_2022(19).jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[미리보는 SECON & eGISEC 2022] 송우인포텍·스마티·시정]]></title>
@@ -221,22 +237,6 @@
             <pubDate>Sat, 16 Apr 2022 09:15:45 GMT</pubDate>
             <content:encoded><![CDATA[부산시설공단이 공공시설물 안전 정보와 재난 정보를 시민에게 실시간 제공하고 선제적으로 대응하기 위해 온라인 재난안전지도를 자체 개발했다고 밝혔다.]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/4-1(295).jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[HPE-씨유박스, AI 얼굴인식 기반 다중인증 솔루션 비즈니스 위한 계약 체결]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106070&amp;page=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106070&amp;page=1&amp;kind=3</guid>
-            <pubDate>Fri, 15 Apr 2022 07:16:50 GMT</pubDate>
-            <content:encoded><![CDATA[NIST FRVT에서 글로벌 AI 얼굴인식 5개 부문에서 1위를 기록한 인공지능 기업 씨유박스(CUBOX)가 클라우드 기반의 AI 얼굴인식 다중인증 솔루션...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/20220415cu-s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[에이써티, 개인정보보호경영체제 인증기관으로 지정]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106068&amp;page=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106068&amp;page=1&amp;kind=3</guid>
-            <pubDate>Fri, 15 Apr 2022 07:16:50 GMT</pubDate>
-            <content:encoded><![CDATA[에이써티(대표 한철동)는 산업통상자원부 지정 인정기구인 ‘한국인정지원센터’(Korea Accreditation Board, 윤상재 대표)로부터 개인정보보호...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/iso-c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
