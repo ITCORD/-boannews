@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 17 Apr 2022 03:33:35 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Apr 2022 04:23:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -96,20 +96,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/19974920_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[러시아의 해킹 부대, 우크라이나에 정전 사태 일으키려 했다]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106023&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106023&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Thu, 14 Apr 2022 08:22:20 GMT</pubDate>
-            <content:encoded><![CDATA[우크라이나의 긴급 대응 센터(CERT-UA)가 보안 업체 이셋(ESET) 및 IT 기업 마이크로소프트(Microsoft)와 연계하여 전기 공급망을 겨냥한 사이버 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/20912510_copy_295x190_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[테크칼럼] 끝나지 않은 ‘Log4j’ 취약점, 마이크로세그멘테이션으로 대응하라]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105991&amp;page=1&amp;kind=5&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=105991&amp;page=1&amp;kind=5&amp;search=title&amp;find=</guid>
             <pubDate>Fri, 15 Apr 2022 03:28:00 GMT</pubDate>
             <content:encoded><![CDATA[2021년 11월 24일, 아파치 파운데이션(Apache Foundation)은 Log4j의 보안 취약점(비인증 원격 코드 실행 및 데이터 유출 CVE-2021-...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/acamai_0412%20(1)_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[러시아의 해킹 부대, 우크라이나에 정전 사태 일으키려 했다]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106023&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106023&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Thu, 14 Apr 2022 08:22:20 GMT</pubDate>
+            <content:encoded><![CDATA[우크라이나의 긴급 대응 센터(CERT-UA)가 보안 업체 이셋(ESET) 및 IT 기업 마이크로소프트(Microsoft)와 연계하여 전기 공급망을 겨냥한 사이버 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/20912510_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[우크라이나 IT 전문가들의 전쟁과 리질리언스 이야기]]></title>
