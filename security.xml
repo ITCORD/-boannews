@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-04-18T03:16:57.823Z</updated>
+    <updated>2022-04-18T04:28:11.064Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[해스커스 갱, 자신들의 징고스틸러 멀웨어를 무료로 배포 중]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=106107&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=106107&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-04-18T04:25:07.118Z</updated>
+        <content type="html"><![CDATA[보안 외신 해커뉴스에 의하면 해킹 도구 제작을 전문으로 하는 사이버 갱단인 해스커스 갱(Haskers Gang)이 징고스틸러(ZingoStealer)라는 정보 탈취형 멀웨어를 무료로 배포하기 시작했다고 한다. 덕분에 많은 사이버 범죄 그룹들이 더 쉽게 범죄를 저지를 수...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[다크웹 상에 침해된 데이터 거래하는 새로운 장터 열려]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=106106&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=106106&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-04-18T04:25:07.120Z</updated>
+        <content type="html"><![CDATA[IT 외신 블리핑컴퓨터에 의하면 다크웹에 새로운 시장이 열렸다고 한다. 이름은 인더스트리얼 스파이(Industrial Spy)이며, 여러 기업들로부터 탈취한 정보들을 주로 거래하는 곳이라고 한다. 재미있는 건 인더스트리얼 스파이의 운영자들이 기존 침해 데이터 거래 시장...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이스라엘 오펜시브 보안 기업 SSD Labs, 한국 지사 설립]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=106102&amp;page=1&amp;mkind=1&amp;kind=3</id>
@@ -109,19 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=106083&amp;page=1&amp;mkind=1&amp;kind=2"/>
         <updated>2022-04-16T09:16:08.558Z</updated>
         <content type="html"><![CDATA[인천시교육청은 오는 20일까지 관내 교육지원청, 직속기관, 각급 학교 등 590여개 기관의 정보보호 업무 담당자를 대상으로 ‘정보보안 및 개인정보보호 교육’을 실시한다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[네이버 웨일, 안랩과 함께 더욱 안전한 인터넷 환경 조성한다]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=106084&amp;page=1&amp;mkind=1&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=106084&amp;page=1&amp;mkind=1&amp;kind=2"/>
-        <updated>2022-04-16T09:16:08.559Z</updated>
-        <content type="html"><![CDATA[네이버 웨일이 안랩과 함께 웹 환경 보안수준 고도화를 위해 손을 맞잡는다. 네이버와 안랩은 지난 14일 ‘웹 환경 내 보안수준 고도화를 위한 포괄적 업무협약’을 체결했다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정부, 금융권 클라우드 및 망분리 규제 개선한다]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=106072&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=106072&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-04-16T09:16:08.561Z</updated>
-        <content type="html"><![CDATA[금융위원회(위원장 고승범, 이하 금융위)가 디지털 혁신을 위한 클라우드 및 망분리 규제를 개선하겠다고 밝혔다. 금융위는 금융업무의 디지털 전환이 가속화되면서 클라우드, 빅데이터, 인공지능(AI) 등 디지털 신기술에 대한 금융권 수요가 늘어나고 있으며, 한편으로 클라우드...]]></content>
     </entry>
 </feed>
