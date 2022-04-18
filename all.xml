@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Apr 2022 05:19:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Apr 2022 06:25:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[북한의 라자루스, 최근 화학 관련 조직들 노리기 시작했다 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106111&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106111&amp;page=1&amp;kind=1</guid>
+            <pubDate>Mon, 18 Apr 2022 06:22:09 GMT</pubDate>
+            <content:encoded><![CDATA[북한의 APT 단체인 라자루스(Lazarus)가 가짜 스카웃 및 구인 메일을 보내 사이버 공격을 실시하고 있다. 이번 캠페인의 대상은 라자루스가 지난 몇 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/20139784_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[북한의 APT 라자루스, 화학 분야 기업들 노린다 (보안뉴스 ─ 전체기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=106108&amp;page=1&amp;kind=1</link>
@@ -78,14 +86,6 @@
             <pubDate>Sat, 16 Apr 2022 09:15:45 GMT</pubDate>
             <content:encoded><![CDATA[하이퍼커넥티드, 혹은 초연결이라고 부르는 시대가 빠르게 다가오고 있다. 기업들은 차세대 연결 기술인 와이파이 6를 생각하지 않을 수 없게 됐다. 와이파이 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/20673433_copy_295x190_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[경주시, 지역 아파트 17개소 아파트 월패드 긴급 점검 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106079&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106079&amp;page=1&amp;kind=2</guid>
-            <pubDate>Sat, 16 Apr 2022 09:15:45 GMT</pubDate>
-            <content:encoded><![CDATA[경주시가 최근 ‘아파트 월패드 해킹’ 사태가 전국적으로 논란이 되면서 합동점검반을 편성하고 긴급 점검에 나섰다. ‘아파트 월패드’는 출입문·전등·난방 등 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/20220416WALL-S.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[과기정통부, 신규 공인전자문서센터 KT 지정 (보안뉴스 ─ 전체기사)]]></title>
@@ -365,20 +365,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/21086546_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[침해 사고가 만연해지는 때, 가장 시급히 강화해야 할 보안 영역은? (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106050&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106050&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Sat, 16 Apr 2022 07:15:43 GMT</pubDate>
-            <content:encoded><![CDATA[지난 12개월 동안 63%의 기업들이 최소 한 번 이상의 침해 사고를 경험했다. 침해 사고로 인해 발생하는 피해액은 전 세계 평균이 240만 달러라고 한다. 침해...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/19495493_copy_295x190_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[나의 은밀한 사생활 영상을 확보했다고? 혹스 메일 또 유포 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=106057&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=106057&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Sun, 17 Apr 2022 22:16:12 GMT</pubDate>
             <content:encoded><![CDATA[최근 “ALERT! I'm hacked you and stolen you information” 제목으로 혹스(Hoax) 메일이 유포 중에 있어 사용자들의 주의가...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/20220415HOAX-S.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[침해 사고가 만연해지는 때, 가장 시급히 강화해야 할 보안 영역은? (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106050&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106050&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Sat, 16 Apr 2022 07:15:43 GMT</pubDate>
+            <content:encoded><![CDATA[지난 12개월 동안 63%의 기업들이 최소 한 번 이상의 침해 사고를 경험했다. 침해 사고로 인해 발생하는 피해액은 전 세계 평균이 240만 달러라고 한다. 침해...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/19495493_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[랜섬웨어 퍼트리던 지로더 봇넷, 보안 업계 협업으로 무력화 돼 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
@@ -403,6 +403,13 @@
             <pubDate>Mon, 18 Apr 2022 01:24:36 GMT</pubDate>
             <content:encoded><![CDATA[물리보안과 사이버보안을 아우르는 국내 최대 통합보안 전시회인 제21회 세계보안엑스포(SECON &amp; eGISEC 2022)는 4월 20일부터 22일까지 3일간 일산...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/20220331secon(3).jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아크로니스, SECON & eGISEC 2022 참가 (보안뉴스 ─ SECURITY)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106103&amp;page=1&amp;mkind=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106103&amp;page=1&amp;mkind=1&amp;kind=3</guid>
+            <pubDate>Mon, 18 Apr 2022 06:22:36 GMT</pubDate>
+            <content:encoded><![CDATA[통합 사이버 보호 기업 아크로니스(지사장 고목동)는 오는 4월 20일(수)부터 22일(금)까지 3일간 일산 킨텍스에서 개최되는 국내 최대 통합보안 전시회 ‘SECON &amp; eGISEC 2022’에 참가하여 통합 사이버 보호 솔루션인 ‘아크로니스 사이버 프로텍트 클라우드(...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[북한의 APT 라자루스, 화학 분야 기업들 노린다 (보안뉴스 ─ SECURITY)]]></title>
@@ -515,13 +522,6 @@
             <guid>https://www.boannews.com/media/view.asp?idx=106081&amp;page=1&amp;mkind=1&amp;kind=2</guid>
             <pubDate>Sat, 16 Apr 2022 09:16:08 GMT</pubDate>
             <content:encoded><![CDATA[우석대 정보보안학과가 보안관제실을 개소하고 4차 산업혁명 시대를 이끌 ICT 융합 정보보안 전문가 양성에 박차를 가하고 있다. 지난 13일 정공관 4층에서 열린 보안관제실 개소식에는 학과 교수진과 재학생, 김요셉 국민연금공단 정보보안부 부장, 국가정보원 국가사이버안보센...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[부산시, ‘사이버보안 홍보 캠페인’ 실시 (보안뉴스 ─ SECURITY)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106082&amp;page=1&amp;mkind=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106082&amp;page=1&amp;mkind=1&amp;kind=2</guid>
-            <pubDate>Sat, 16 Apr 2022 09:16:08 GMT</pubDate>
-            <content:encoded><![CDATA[부산시가 오는 9월까지 국가정보원 지부와 함께 사이버보안 및 개인정보보호 캠페인을 추진한다고 밝혔다. 이번 캠페인은 시민 스스로가 사이버보안에 주의해 피해를 예방하는 데 중점을 두고 진행하며, 유동인구가 많은 지하철역과 버스정류장을 중심으로 집중적인 홍보를 펼쳐 캠페인...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[한국공항공사, K-드론시스템 ‘공항·특수시설 분야’ 실증 사업자로 선정 (보안뉴스 ─ IT)]]></title>
@@ -1898,6 +1898,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/20220328pri-s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[북한의 라자루스, 최근 화학 관련 조직들 노리기 시작했다 (보안뉴스 ─ 국제)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106111&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106111&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
+            <pubDate>Mon, 18 Apr 2022 06:24:09 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/view.asp?idx=106111&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
+					
+					<img src="/media/upFiles2/2022/04/20139784_copy_295x190_1.jpg" alt="" class="news_img" height="70">
+					
+					<span class="news_txt">북한의 라자루스, 최근 화학 관련 조직들 노리기 시작했다</span>
+					</a><br>
+					<a href="/media/view.asp?idx=106111&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">북한의 APT 단체인 라자루스(Lazarus)가 가짜 스카웃 및 구인 메일을 보내 사이버 공격을 실시하고 있다. 이번 캠페인의 대상은 라자루스가 지난 몇 년 동안...</a> <span class="news_writer">문가용 기자 | 2022년 04월 18일 14:55</span>]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/20139784_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[북한의 APT 라자루스, 화학 분야 기업들 노린다 (보안뉴스 ─ 국제)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=106108&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=106108&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
@@ -2162,20 +2176,6 @@
 					</a><br>
 					<a href="/media/view.asp?idx=106029&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">에너지 산업을 겨냥한 고급 멀웨어가 새롭게 발견됐다고 미국 정보 당국이 발표했다. 이 멀웨어의 이름은 파이프드림(PipeDream)이라고 하며, 에너지 관련 시설...</a> <span class="news_writer">문가용 기자 | 2022년 04월 14일 11:16</span>]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/lng-thumb-0414.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[거의 모든 오픈소스들에 보안 취약점이 한 개 이상 존재한다 (보안뉴스 ─ 국제)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106024&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106024&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
-            <pubDate>Wed, 13 Apr 2022 09:19:04 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/view.asp?idx=106024&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
-					
-					<img src="/media/upFiles2/2022/04/19974920_copy_295x190_1.jpg" alt="" class="news_img" height="70">
-					
-					<span class="news_txt">거의 모든 오픈소스들에 보안 취약점이 한 개 이상 존재한다</span>
-					</a><br>
-					<a href="/media/view.asp?idx=106024&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">오픈소스 소프트웨어에의 코드베이스 공유 비율이 2021년 한 해 동안 78% 증가했다. 같은 코드베이스를 사용하여 만들어진 소프트웨어가 적지 않다는 뜻인데, 이렇...</a> <span class="news_writer">문가용 기자 | 2022년 04월 13일 18:11</span>]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/19974920_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[통합보안 3사 에스원·SK쉴더스·KT텔레캅, 소비자의 생각과 선택은? (보안뉴스 ─ 기획특집)]]></title>

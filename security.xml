@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-04-18T05:19:46.057Z</updated>
+    <updated>2022-04-18T06:25:03.119Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아크로니스, SECON & eGISEC 2022 참가]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=106103&amp;page=1&amp;mkind=1&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=106103&amp;page=1&amp;mkind=1&amp;kind=3"/>
+        <updated>2022-04-18T06:22:36.540Z</updated>
+        <content type="html"><![CDATA[통합 사이버 보호 기업 아크로니스(지사장 고목동)는 오는 4월 20일(수)부터 22일(금)까지 3일간 일산 킨텍스에서 개최되는 국내 최대 통합보안 전시회 ‘SECON &amp; eGISEC 2022’에 참가하여 통합 사이버 보호 솔루션인 ‘아크로니스 사이버 프로텍트 클라우드(...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[북한의 APT 라자루스, 화학 분야 기업들 노린다]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=106108&amp;page=1&amp;mkind=1&amp;kind=1</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=106081&amp;page=1&amp;mkind=1&amp;kind=2"/>
         <updated>2022-04-16T09:16:08.553Z</updated>
         <content type="html"><![CDATA[우석대 정보보안학과가 보안관제실을 개소하고 4차 산업혁명 시대를 이끌 ICT 융합 정보보안 전문가 양성에 박차를 가하고 있다. 지난 13일 정공관 4층에서 열린 보안관제실 개소식에는 학과 교수진과 재학생, 김요셉 국민연금공단 정보보안부 부장, 국가정보원 국가사이버안보센...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[부산시, ‘사이버보안 홍보 캠페인’ 실시]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=106082&amp;page=1&amp;mkind=1&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=106082&amp;page=1&amp;mkind=1&amp;kind=2"/>
-        <updated>2022-04-16T09:16:08.556Z</updated>
-        <content type="html"><![CDATA[부산시가 오는 9월까지 국가정보원 지부와 함께 사이버보안 및 개인정보보호 캠페인을 추진한다고 밝혔다. 이번 캠페인은 시민 스스로가 사이버보안에 주의해 피해를 예방하는 데 중점을 두고 진행하며, 유동인구가 많은 지하철역과 버스정류장을 중심으로 집중적인 홍보를 펼쳐 캠페인...]]></content>
     </entry>
 </feed>
