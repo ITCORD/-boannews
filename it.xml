@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=2</id>
     <title>보안뉴스 ─ IT</title>
-    <updated>2022-04-18T07:20:08.877Z</updated>
+    <updated>2022-04-18T08:23:53.210Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[ETRI, ‘스마트 팩토리: 미래 제조 혁신’ 발간]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=106078&amp;page=1&amp;mkind=2&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=106078&amp;page=1&amp;mkind=2&amp;kind=2"/>
+        <updated>2022-04-18T08:21:55.612Z</updated>
+        <content type="html"><![CDATA[한국전자통신연구원(ETRI)이 디지털 제조 분야 산·학·연 전문가들의 경험과 식견을 모아 스마트 팩토리 산업의 발전 방향을 제시한 도서 ‘스마트 팩토리: 미래 제조 혁신’을 발간했다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한국공항공사, K-드론시스템 ‘공항·특수시설 분야’ 실증 사업자로 선정]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=106080&amp;page=1&amp;mkind=2&amp;kind=2</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=105955&amp;page=1&amp;mkind=2&amp;kind=3"/>
         <updated>2022-04-13T03:03:50.193Z</updated>
         <content type="html"><![CDATA[오늘날의 기업들은 급변하는 상황 속에서 기적 같은 유연성을 발휘해야만 살아남을 수 있다. 특히나 신기술을 도입하는 측면에서는 더 그렇다. 새롭게 등장한 기술을 빠르게 검토해 도입 여부를 결정하고, 필요하다면 시간 낭비 없이, 그러나 안전하게 구축해야 한다. 이렇게 유연...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IT 분야의 신기술, 스마트빌딩을 더 ‘그린’으로 변화시키라]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=105931&amp;page=1&amp;mkind=2&amp;kind=4</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=105931&amp;page=1&amp;mkind=2&amp;kind=4"/>
-        <updated>2022-04-12T09:17:03.622Z</updated>
-        <content type="html"><![CDATA[지속가능성과 환경 보호라는 개념이 기업들의 사업 활동에 끼어들기 시작했다. 그러면서 기업들은 자신들의 사무 공간 내에서 재활용을 잘 한다거나 물건을 아껴서 쓴다거나 하는 것만으로는 충분치 않다는 것을 깨달아 가고 있다. 데이터센터만 해도 수백~수천 개에 달하는 요소들이...]]></content>
     </entry>
 </feed>
