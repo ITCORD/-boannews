@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-04-18T06:25:03.119Z</updated>
+    <updated>2022-04-18T07:20:08.862Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[파수, 가톨릭관동대 국제성모병원에 문서 관리 및 보안 솔루션 공급]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=106105&amp;page=1&amp;mkind=1&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=106105&amp;page=1&amp;mkind=1&amp;kind=3"/>
+        <updated>2022-04-18T07:17:19.419Z</updated>
+        <content type="html"><![CDATA[주식회사 파수(이하 파수, 대표 조규곤)는 가톨릭관동대학교 국제성모병원(병원장 김현수 신부, 이하 국제성모병원)에 문서 보안 및 관리를 위한 솔루션을 공급했다. 국제성모병원은 파수의 차세대 문서관리 플랫폼 ‘랩소디(Wrapsody)’와 데이터 식별·분류 솔루션 ‘파수 ...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아크로니스, SECON & eGISEC 2022 참가]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=106103&amp;page=1&amp;mkind=1&amp;kind=3</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=106079&amp;page=1&amp;mkind=1&amp;kind=2"/>
         <updated>2022-04-16T09:16:08.552Z</updated>
         <content type="html"><![CDATA[경주시가 최근 ‘아파트 월패드 해킹’ 사태가 전국적으로 논란이 되면서 합동점검반을 편성하고 긴급 점검에 나섰다. ‘아파트 월패드’는 출입문·전등·난방 등 집 안의 기능을 제어할 수 있는 지능형 홈네트워크 장치로, 아파트 거실을 볼 수 있는 카메라가 달려 있는 게 특징이...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우석대, 정보보안학과 ‘보안관제실’ 개소]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=106081&amp;page=1&amp;mkind=1&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=106081&amp;page=1&amp;mkind=1&amp;kind=2"/>
-        <updated>2022-04-16T09:16:08.553Z</updated>
-        <content type="html"><![CDATA[우석대 정보보안학과가 보안관제실을 개소하고 4차 산업혁명 시대를 이끌 ICT 융합 정보보안 전문가 양성에 박차를 가하고 있다. 지난 13일 정공관 4층에서 열린 보안관제실 개소식에는 학과 교수진과 재학생, 김요셉 국민연금공단 정보보안부 부장, 국가정보원 국가사이버안보센...]]></content>
     </entry>
 </feed>

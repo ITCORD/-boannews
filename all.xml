@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Apr 2022 06:25:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Apr 2022 07:20:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[테크칼럼] 내부 보안 위협, 접근통제 솔루션으로 예측하고 대응한다 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106109&amp;page=1&amp;kind=5</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106109&amp;page=1&amp;kind=5</guid>
+            <pubDate>Mon, 18 Apr 2022 07:16:57 GMT</pubDate>
+            <content:encoded><![CDATA[최근 기업의 기밀 정보를 유출하는 기업 대상 해킹 사고 사례가 증가하고 있다. 그중에서도 국제 사이버 범죄 조직 랩서스(LAPSUS$)의 해킹 공격이 이어...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/NET-C.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[북한의 라자루스, 최근 화학 관련 조직들 노리기 시작했다 (보안뉴스 ─ 전체기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=106111&amp;page=1&amp;kind=1</link>
@@ -80,12 +88,12 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/20773165_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[다가오는 와이파이 6, 왜 지금부터 준비해야 하는가? (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106066&amp;page=1&amp;kind=4</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106066&amp;page=1&amp;kind=4</guid>
-            <pubDate>Sat, 16 Apr 2022 09:15:45 GMT</pubDate>
-            <content:encoded><![CDATA[하이퍼커넥티드, 혹은 초연결이라고 부르는 시대가 빠르게 다가오고 있다. 기업들은 차세대 연결 기술인 와이파이 6를 생각하지 않을 수 없게 됐다. 와이파이 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/20673433_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[미리보는 SECON & eGISEC 2022] 옵텍스코리아·유니온커뮤니티·이레산업 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106061&amp;page=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106061&amp;page=1&amp;kind=3</guid>
+            <pubDate>Mon, 18 Apr 2022 07:16:57 GMT</pubDate>
+            <content:encoded><![CDATA[물리보안과 사이버보안을 아우르는 국내 최대 통합보안 전시회인 제21회 세계보안엑스포(SECON &amp; eGISEC 2022)는 4월 20일부터 22일까지 3일...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/secon-c(6).jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[과기정통부, 신규 공인전자문서센터 KT 지정 (보안뉴스 ─ 전체기사)]]></title>
@@ -224,25 +232,19 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/22040604ss.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[다가오는 와이파이 6, 왜 지금부터 준비해야 하는가? (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106066&amp;page=1&amp;kind=4</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106066&amp;page=1&amp;kind=4</guid>
+            <pubDate>Sat, 16 Apr 2022 09:15:45 GMT</pubDate>
+            <content:encoded><![CDATA[하이퍼커넥티드, 혹은 초연결이라고 부르는 시대가 빠르게 다가오고 있다. 기업들은 차세대 연결 기술인 와이파이 6를 생각하지 않을 수 없게 됐다. 와이파이 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/20673433_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[서울시, IT 기술 활용으로 똑똑한 ‘안심귀가택시서비스’ 사업 본격화 (보안뉴스 ─ 전체기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=106075&amp;page=1&amp;kind=2</link>
             <guid>https://www.boannews.com/media/view.asp?idx=106075&amp;page=1&amp;kind=2</guid>
             <pubDate>Sat, 16 Apr 2022 09:15:45 GMT</pubDate>
             <content:encoded><![CDATA[서울시는 올해 서울택시 전체(법인·개인택시 7만대)를 대상으로 ‘안심귀가택시 서비스’를 구축해 택시 승차만 하면 승하차 시각, 택시정보, 이동경로 등을 보...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[한국광기술원, AI 기반 실시간 소리 객체 인식 및 상황인지 솔루션 개발 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106076&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106076&amp;page=1&amp;kind=2</guid>
-            <pubDate>Sat, 16 Apr 2022 09:15:45 GMT</pubDate>
-            <content:encoded><![CDATA[한국광기술원 공간광정보연구센터 김선만 박사팀이 CCTV 사각지대 환경에서 범죄 및 위급상황 감시가 가능한 ‘실시간 소리 객체 인식 기반 상황인지 솔루션’을...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[24시간 움직이는 CCTV로 범죄사각지대 해소한다 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106077&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106077&amp;page=1&amp;kind=2</guid>
-            <pubDate>Sat, 16 Apr 2022 09:15:45 GMT</pubDate>
-            <content:encoded><![CDATA[동작구는 두레윈과 손잡고 추진하는 ‘스모킹건 IoT’ 플랫폼 사업이 국토교통부가 주관한 2022년 스마트시티 혁신기술 발굴 공모에 최종 선정되며 국비 15...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[차세대 멀웨어라고 불리는 샤크봇, 구글 플레이 스토어 연속으로 뚫어 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
@@ -405,6 +407,13 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/20220331secon(3).jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[파수, 가톨릭관동대 국제성모병원에 문서 관리 및 보안 솔루션 공급 (보안뉴스 ─ SECURITY)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106105&amp;page=1&amp;mkind=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106105&amp;page=1&amp;mkind=1&amp;kind=3</guid>
+            <pubDate>Mon, 18 Apr 2022 07:17:19 GMT</pubDate>
+            <content:encoded><![CDATA[주식회사 파수(이하 파수, 대표 조규곤)는 가톨릭관동대학교 국제성모병원(병원장 김현수 신부, 이하 국제성모병원)에 문서 보안 및 관리를 위한 솔루션을 공급했다. 국제성모병원은 파수의 차세대 문서관리 플랫폼 ‘랩소디(Wrapsody)’와 데이터 식별·분류 솔루션 ‘파수 ...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[아크로니스, SECON & eGISEC 2022 참가 (보안뉴스 ─ SECURITY)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=106103&amp;page=1&amp;mkind=1&amp;kind=3</link>
             <guid>https://www.boannews.com/media/view.asp?idx=106103&amp;page=1&amp;mkind=1&amp;kind=3</guid>
@@ -515,13 +524,6 @@
             <guid>https://www.boannews.com/media/view.asp?idx=106079&amp;page=1&amp;mkind=1&amp;kind=2</guid>
             <pubDate>Sat, 16 Apr 2022 09:16:08 GMT</pubDate>
             <content:encoded><![CDATA[경주시가 최근 ‘아파트 월패드 해킹’ 사태가 전국적으로 논란이 되면서 합동점검반을 편성하고 긴급 점검에 나섰다. ‘아파트 월패드’는 출입문·전등·난방 등 집 안의 기능을 제어할 수 있는 지능형 홈네트워크 장치로, 아파트 거실을 볼 수 있는 카메라가 달려 있는 게 특징이...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[우석대, 정보보안학과 ‘보안관제실’ 개소 (보안뉴스 ─ SECURITY)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106081&amp;page=1&amp;mkind=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106081&amp;page=1&amp;mkind=1&amp;kind=2</guid>
-            <pubDate>Sat, 16 Apr 2022 09:16:08 GMT</pubDate>
-            <content:encoded><![CDATA[우석대 정보보안학과가 보안관제실을 개소하고 4차 산업혁명 시대를 이끌 ICT 융합 정보보안 전문가 양성에 박차를 가하고 있다. 지난 13일 정공관 4층에서 열린 보안관제실 개소식에는 학과 교수진과 재학생, 김요셉 국민연금공단 정보보안부 부장, 국가정보원 국가사이버안보센...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[한국공항공사, K-드론시스템 ‘공항·특수시설 분야’ 실증 사업자로 선정 (보안뉴스 ─ IT)]]></title>
@@ -762,20 +764,20 @@
             <content:encoded><![CDATA[천안시가 행정안전부로부터 ‘재난대응 안전한국 훈련 우수기관’으로 선정돼 지난 15일 장관 표창을 받았다. 천안시가 매년 주최하는 재난대응 안전한국 훈련은 재난 상황을 염두에 두고 재난 대응 부서와 각 유관기관이 합동으로 모의 훈련을 진행한다.]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[미리보는 SECON & eGISEC 2022] 옵... (보안뉴스 ─ Security World)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106061&amp;mkind=5</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106061&amp;mkind=5</guid>
+            <pubDate>Mon, 18 Apr 2022 07:18:08 GMT</pubDate>
+            <content:encoded><![CDATA[물리보안과 사이버보안을 아우르는 국내 최대 통합보안 전시회인 제21회 세계보안엑스포(SECON &amp; eGISEC 2022)는 4월 20일부터 22일까지 3일...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/secon-c(6).jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[에스원, ESG문화 정착 위한 ‘줍깅 캠페인’ 진행 (보안뉴스 ─ Security World)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=106098&amp;mkind=5</link>
             <guid>https://www.boannews.com/media/view.asp?idx=106098&amp;mkind=5</guid>
             <pubDate>Mon, 18 Apr 2022 01:25:37 GMT</pubDate>
             <content:encoded><![CDATA[종합 안심솔루션 기업 에스원(대표 남궁범)은 사내 ESG 문화 정착을 위한 줍깅 캠페인을 실시한다고 18일 밝혔다. 줍깅은 우리말 ‘줍다’와 영어 ‘조깅’...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/22041802ss.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[슈프리마, 청년친화 강소기업 선정 (보안뉴스 ─ Security World)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106097&amp;mkind=5</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106097&amp;mkind=5</guid>
-            <pubDate>Mon, 18 Apr 2022 01:25:37 GMT</pubDate>
-            <content:encoded><![CDATA[AI 통합보안 솔루션 전문기업 슈프리마(대표 이재원, 김한철)가 2022년 청년친화 강소기업으로 선정돼 4월 14일 정부기관에서 주관하는 ‘청년친화 강소기...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/22041801ss.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[국내 1위 가상자산 거래소 ‘업비트’ 사칭해 카카오톡 계정정보 노린다 (보안뉴스 ─ 취약점 경고 및 버그리포트)]]></title>
