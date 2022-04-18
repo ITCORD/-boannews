@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 18 Apr 2022 14:18:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Apr 2022 15:20:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -96,14 +96,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/com-thujmb-0412.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[KISA, ‘제4회 AI Security Day’ 세미나 개최]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105982&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105982&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
-            <pubDate>Fri, 15 Apr 2022 08:21:01 GMT</pubDate>
-            <content:encoded><![CDATA[한국인터넷진흥원(KISA, 원장 이원태)과 과학기술정보통신부(장관 임혜숙)는 최신 트렌드인 메타버스와 디지털 트윈 환경에서의 보안 위협을 도출하고, 메타버스와 인...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/220412-KISA-1.png" length="0" type="image/png"/>
-        </item>
-        <item>
             <title><![CDATA[나의 은밀한 사생활 영상을 확보했다고? 혹스 메일 또 유포]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=106057&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=106057&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
@@ -112,20 +104,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/20220415HOAX-S.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
+            <title><![CDATA[KISA, ‘제4회 AI Security Day’ 세미나 개최]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105982&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105982&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
+            <pubDate>Fri, 15 Apr 2022 08:21:01 GMT</pubDate>
+            <content:encoded><![CDATA[한국인터넷진흥원(KISA, 원장 이원태)과 과학기술정보통신부(장관 임혜숙)는 최신 트렌드인 메타버스와 디지털 트윈 환경에서의 보안 위협을 도출하고, 메타버스와 인...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/220412-KISA-1.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[미국 정보 기관들, 인컨트롤러라는 고급 ICS 멀웨어 발견해 경고]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=106071&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=106071&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Sun, 17 Apr 2022 23:17:13 GMT</pubDate>
             <content:encoded><![CDATA[미국의 사이버 보안 전담 기관인 CISA와 NSA, FBI가 이번 주 합동으로 긴급 경고문을 발표했다. 사회 기반 시설을 관리하는 조직들을 향한 것이었는데, 특히...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/21086546_copy_295x190_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[침해 사고가 만연해지는 때, 가장 시급히 강화해야 할 보안 영역은?]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106050&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106050&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Sat, 16 Apr 2022 07:15:43 GMT</pubDate>
-            <content:encoded><![CDATA[지난 12개월 동안 63%의 기업들이 최소 한 번 이상의 침해 사고를 경험했다. 침해 사고로 인해 발생하는 피해액은 전 세계 평균이 240만 달러라고 한다. 침해...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/19495493_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아시아 최대 규모 보안 전시회, 제21회 세계보안엑스포 4월 20~22일 열려]]></title>
@@ -142,6 +134,14 @@
             <pubDate>Mon, 18 Apr 2022 10:23:15 GMT</pubDate>
             <content:encoded><![CDATA[국내 1위 가상자산 거래소 ‘업비트’를 사칭해 카카오톡 계정정보 유출을 시도하는 피싱 메일이 유포돼 업비트 이용자들의 각별한 주의가 요구된다.]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/20220417up1-s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[침해 사고가 만연해지는 때, 가장 시급히 강화해야 할 보안 영역은?]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106050&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106050&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Sat, 16 Apr 2022 07:15:43 GMT</pubDate>
+            <content:encoded><![CDATA[지난 12개월 동안 63%의 기업들이 최소 한 번 이상의 침해 사고를 경험했다. 침해 사고로 인해 발생하는 피해액은 전 세계 평균이 240만 달러라고 한다. 침해...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/19495493_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[랜섬웨어 퍼트리던 지로더 봇넷, 보안 업계 협업으로 무력화 돼]]></title>
