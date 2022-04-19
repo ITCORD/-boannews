@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-04-19T05:27:06.000Z</updated>
+    <updated>2022-04-19T06:24:25.040Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[미국, “라자루스가 악성 암호화폐 애플리케이션을 사용한다”]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=106156&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=106156&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-04-19T06:22:08.761Z</updated>
+        <content type="html"><![CDATA[IT 외신 블리핑컴퓨터에 의하면 미국의 CISA, FBI, 재무부가 오늘 북한 APT 단체인 라자루스에 대한 새로운 경고문을 발표했다고 한다. 암호화폐와 블록체인 산업을 겨냥하여 멀웨어를 활용한 공작을 펼치고 있다는 내용이다. 이들은 좋은 조건에 채용하고 싶다는 메일을...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[웹엑스, 음소거 된 마이크로폰도 모니터링 한다]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=106155&amp;page=1&amp;mkind=1&amp;kind=1</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=106100&amp;page=1&amp;mkind=1&amp;kind=3"/>
         <updated>2022-04-18T03:14:26.628Z</updated>
         <content type="html"><![CDATA[보안솔루션 전문 기업 에스에스앤씨(대표 한은혜)는 고려대학교 정보보호대학원(원장 이상진)과 개인정보보호 전문인력 양성을 위한 업무 협약(MOU)을 맺었다고 18일 밝혔다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국정원, 나토 사이버방위센터 주관 ‘락드쉴즈 2022’ 참가]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=106101&amp;page=1&amp;mkind=1&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=106101&amp;page=1&amp;mkind=1&amp;kind=2"/>
-        <updated>2022-04-18T03:14:26.630Z</updated>
-        <content type="html"><![CDATA[국가정보원이 세계 최대 규모 사이버공격·방어훈련인 ‘락드쉴즈(Locked Shields) 2022’에 작년에 이어 두 번째로 참가한다. 국정원은 훈련 참가를 위해 지난 2월 국방부·한국전력공사·금융보안원 등 민·관·군 8개 기관, 70여명으로 연합팀을 구성했으며, 4월...]]></content>
     </entry>
 </feed>
