@@ -4,17 +4,9 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Apr 2022 16:27:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Apr 2022 17:26:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[국내 1위 가상자산 거래소 ‘업비트’ 사칭해 카카오톡 계정정보 노린다]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106095&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106095&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Mon, 18 Apr 2022 10:23:15 GMT</pubDate>
-            <content:encoded><![CDATA[국내 1위 가상자산 거래소 ‘업비트’를 사칭해 카카오톡 계정정보 유출을 시도하는 피싱 메일이 유포돼 업비트 이용자들의 각별한 주의가 요구된다.]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/20220417up1-s.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[아시아 최대 규모 보안 전시회, 제21회 세계보안엑스포 4월 20~22일 열려]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=105963&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
@@ -22,6 +14,14 @@
             <pubDate>Mon, 18 Apr 2022 09:17:08 GMT</pubDate>
             <content:encoded><![CDATA[4월 20일부터 22일까지 경기도 고양시 일산 킨텍스에서는 ‘제21회 세계보안엑스포(SECON &amp; eGISEC 2022)’가 개최된다. 세계보안엑스포는 올 한해 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/22041101ss.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[국내 1위 가상자산 거래소 ‘업비트’ 사칭해 카카오톡 계정정보 노린다]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106095&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106095&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Mon, 18 Apr 2022 10:23:15 GMT</pubDate>
+            <content:encoded><![CDATA[국내 1위 가상자산 거래소 ‘업비트’를 사칭해 카카오톡 계정정보 유출을 시도하는 피싱 메일이 유포돼 업비트 이용자들의 각별한 주의가 요구된다.]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/20220417up1-s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[테크칼럼] 끝나지 않은 ‘Log4j’ 취약점, 마이크로세그멘테이션으로 대응하라]]></title>
@@ -104,14 +104,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/20490014_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[MS의 패치 튜즈데이, 제로데이 취약점도 포함돼]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106008&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106008&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Mon, 18 Apr 2022 11:14:29 GMT</pubDate>
-            <content:encoded><![CDATA[보안 외신 쓰레트포스트에 의하면 MS가 4월 정기 패치를 발표했다고 한다. 총 128개의 취약점들이 해결됐으며, 10개가 초고위험도로 분류됐다. 초고위험도 취약점...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/mspat-thumb-0413.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[아파치 스트러츠의 취약점, 드디어 제대로 패치돼]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=106033&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=106033&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
@@ -120,12 +112,12 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/patch-thumb-0414.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[경주시, 지역 아파트 17개소 아파트 월패드 긴급 점검]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106079&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106079&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
-            <pubDate>Mon, 18 Apr 2022 14:15:46 GMT</pubDate>
-            <content:encoded><![CDATA[경주시가 최근 ‘아파트 월패드 해킹’ 사태가 전국적으로 논란이 되면서 합동점검반을 편성하고 긴급 점검에 나섰다. ‘아파트 월패드’는 출입문·전등·난방 등 집 안의...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/20220416WALL-S.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[MS의 패치 튜즈데이, 제로데이 취약점도 포함돼]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106008&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106008&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Mon, 18 Apr 2022 11:14:29 GMT</pubDate>
+            <content:encoded><![CDATA[보안 외신 쓰레트포스트에 의하면 MS가 4월 정기 패치를 발표했다고 한다. 총 128개의 취약점들이 해결됐으며, 10개가 초고위험도로 분류됐다. 초고위험도 취약점...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/mspat-thumb-0413.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[사회 기반 시설 노리는 APT 단체의 공격이 점점 무서워지는 이유]]></title>
@@ -134,6 +126,14 @@
             <pubDate>Tue, 19 Apr 2022 08:20:54 GMT</pubDate>
             <content:encoded><![CDATA[4월 13일 미국의 에너지부, CISA, NSA, FBI가 합동으로 사이버 보안 관련 경고문을 발표했다. ICS와 SCADA 장비들을 노리는 고급 APT 공격 행...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/20943175_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[경주시, 지역 아파트 17개소 아파트 월패드 긴급 점검]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106079&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106079&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
+            <pubDate>Mon, 18 Apr 2022 14:15:46 GMT</pubDate>
+            <content:encoded><![CDATA[경주시가 최근 ‘아파트 월패드 해킹’ 사태가 전국적으로 논란이 되면서 합동점검반을 편성하고 긴급 점검에 나섰다. ‘아파트 월패드’는 출입문·전등·난방 등 집 안의...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/20220416WALL-S.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[침해 사고가 만연해지는 때, 가장 시급히 강화해야 할 보안 영역은?]]></title>
@@ -160,12 +160,12 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/shinhan_041801_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[2021년 정보보호 실태조사 결과 살펴보니... 기업, 보안 정책·예산 강화]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106032&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106032&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
-            <pubDate>Tue, 19 Apr 2022 03:23:31 GMT</pubDate>
-            <content:encoded><![CDATA[기업의 정보보호 정책 수립률과 예산 편성률, 개인의 정보보호 중요성 인식률이 작년대비 상승하는 등 정보보호를 위한 노력이 증진되고 있는 것으로 나타났다. 과학기술...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/20799393_main(0).jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[미국 정부, 6억 달러 암호화폐 도난 사건 범인으로 북한 지목]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106065&amp;page=1&amp;kind=4&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106065&amp;page=1&amp;kind=4&amp;search=title&amp;find=</guid>
+            <pubDate>Tue, 19 Apr 2022 17:24:19 GMT</pubDate>
+            <content:encoded><![CDATA[지난 달 암호화폐 거래소인 로닌 네트워크(Ronin Network)는 보안 침해 사고가 발생했다고 발표하며 6억 달러에 해당하는 암호화폐가 도난당했다고 알렸다. ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/19529706_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
