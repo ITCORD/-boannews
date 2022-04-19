@@ -4,9 +4,17 @@
         <title>보안뉴스 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Apr 2022 06:24:25 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Apr 2022 07:19:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[정보보호 상장기업 20개사, 2021년 매출액 분석해보니... 대부분 성장세]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106110&amp;page=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106110&amp;page=1&amp;kind=3</guid>
+            <pubDate>Tue, 19 Apr 2022 07:16:46 GMT</pubDate>
+            <content:encoded><![CDATA[국내 정보보호 상장기업 대부분이 2021년 매출액은 물론 영업이익과 당기순이익 모두 오른 것으로 확인됐다. &lt;보안뉴스&gt;가 금융감독원 전자공시시스...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/21869477_main.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[제117차 CISO포럼, ‘오픈소스 취약점’과 클라우드 보안대책 논의]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=106154&amp;page=1&amp;kind=3</link>
@@ -80,12 +88,12 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/NET-C.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[북한의 라자루스, 최근 화학 관련 조직들 노리기 시작했다]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106111&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106111&amp;page=1&amp;kind=1</guid>
-            <pubDate>Mon, 18 Apr 2022 06:22:09 GMT</pubDate>
-            <content:encoded><![CDATA[북한의 APT 단체인 라자루스(Lazarus)가 가짜 스카웃 및 구인 메일을 보내 사이버 공격을 실시하고 있다. 이번 캠페인의 대상은 라자루스가 지난 몇 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/20139784_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[이지서티  ‘UBI SAFER-PSM’ 도입한 31개 기관 ‘양호’ 등급 유지]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106160&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106160&amp;page=1&amp;kind=1</guid>
+            <pubDate>Tue, 19 Apr 2022 07:16:46 GMT</pubDate>
+            <content:encoded><![CDATA[이지서티(대표이사 심기창)는 19일 개인정보보호위원회(위원장 윤종인, 이하 개인정보위)가 중앙행정기관, 지방자치단체 등을 대상으로 실시한 ‘2021년 개인...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/ubi-c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[부고] 안철수 대통령직 인수위원장-국민의당 대표 부친상]]></title>
@@ -230,14 +238,6 @@
             <pubDate>Mon, 18 Apr 2022 08:21:22 GMT</pubDate>
             <content:encoded><![CDATA[물리보안과 사이버보안을 아우르는 국내 최대 통합보안 전시회인 제21회 세계보안엑스포(SECON &amp; eGISEC 2022)는 4월 20일부터 22일까지 3일...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/secon-c(8).jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[미리보는 SECON & eGISEC 2022] 이후시스·카티스·케이제이테크]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106067&amp;page=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106067&amp;page=1&amp;kind=3</guid>
-            <pubDate>Mon, 18 Apr 2022 08:21:22 GMT</pubDate>
-            <content:encoded><![CDATA[물리보안과 사이버보안을 아우르는 국내 최대 통합보안 전시회인 제21회 세계보안엑스포(SECON &amp; eGISEC 2022)는 4월 20일부터 22일까지 3일...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/secon-c(7).jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

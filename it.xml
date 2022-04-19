@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=2</id>
     <title>보안뉴스 ─ IT</title>
-    <updated>2022-04-19T06:24:25.022Z</updated>
+    <updated>2022-04-19T07:19:34.261Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[ETRI, KT와 Network AI 해커톤 개최]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=106122&amp;page=1&amp;mkind=2&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=106122&amp;page=1&amp;mkind=2&amp;kind=2"/>
+        <updated>2022-04-19T07:17:37.436Z</updated>
+        <content type="html"><![CDATA[한국전자통신연구원(ETRI)과 KT는 네트워크 지능화를 위한 인공지능(AI) 모델 개발 해커톤 해커톤 행사를 오는 6월까지 약 2개월에 걸쳐 온·오프라인을 통해 개최한다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DGIST, ‘인공지능 전공’ 대학원 과정 신설]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=106123&amp;page=1&amp;mkind=2&amp;kind=3</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=106047&amp;page=1&amp;mkind=2&amp;kind=1"/>
         <updated>2022-04-16T09:16:20.443Z</updated>
         <content type="html"><![CDATA[프리미엄 디지털자산 거래소 코어닥스가 13일 동국대학교 국제정보보호대학원과 함께 AML, FDS 전문가를 육성하기 위한 업무협약(MOU)을 체결했다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IT Ground 커뮤니티 참여記 “보안담당자, 양질의 정보와 실무 노하우 공유”]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=105988&amp;page=1&amp;mkind=2&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=105988&amp;page=1&amp;mkind=2&amp;kind=3"/>
-        <updated>2022-04-15T03:28:27.321Z</updated>
-        <content type="html"><![CDATA[IT 전문가와 실무진을 위한 커뮤니티 플랫폼인 ‘IT Ground’가 IT 및 보안 전문가들의 관심을 받고 있다. ‘IT Ground’는 홍보 및 광고 등 불필요한 정보가 난무한 일반 커뮤니티와 달리 금융, 공공, 기업, 학교 등 실무담당자 회원들로만 운영하는 시스템으...]]></content>
     </entry>
 </feed>
