@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Apr 2022 03:26:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Apr 2022 04:36:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,14 +14,6 @@
             <pubDate>Wed, 13 Apr 2022 08:21:59 GMT</pubDate>
             <content:encoded><![CDATA[지난 10월 처음 모습을 드러낸 안드로이드 뱅킹 트로이목마 샤크봇(SharkBot)이 구글 플레이 스토어에서 삭제됐다. 샤크봇은 ‘차세대 멀웨어’라고 불리는 고급...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/shark-thumb-0412.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[테크칼럼] 끝나지 않은 ‘Log4j’ 취약점, 마이크로세그멘테이션으로 대응하라]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105991&amp;page=1&amp;kind=5&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105991&amp;page=1&amp;kind=5&amp;search=title&amp;find=</guid>
-            <pubDate>Fri, 15 Apr 2022 03:28:00 GMT</pubDate>
-            <content:encoded><![CDATA[2021년 11월 24일, 아파치 파운데이션(Apache Foundation)은 Log4j의 보안 취약점(비인증 원격 코드 실행 및 데이터 유출 CVE-2021-...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/acamai_0412%20(1)_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아시아 최대 규모 보안 전시회, 제21회 세계보안엑스포 4월 20~22일 열려]]></title>
@@ -38,6 +30,14 @@
             <pubDate>Mon, 18 Apr 2022 10:23:15 GMT</pubDate>
             <content:encoded><![CDATA[국내 1위 가상자산 거래소 ‘업비트’를 사칭해 카카오톡 계정정보 유출을 시도하는 피싱 메일이 유포돼 업비트 이용자들의 각별한 주의가 요구된다.]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/20220417up1-s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[테크칼럼] 끝나지 않은 ‘Log4j’ 취약점, 마이크로세그멘테이션으로 대응하라]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=105991&amp;page=1&amp;kind=5&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=105991&amp;page=1&amp;kind=5&amp;search=title&amp;find=</guid>
+            <pubDate>Fri, 15 Apr 2022 03:28:00 GMT</pubDate>
+            <content:encoded><![CDATA[2021년 11월 24일, 아파치 파운데이션(Apache Foundation)은 Log4j의 보안 취약점(비인증 원격 코드 실행 및 데이터 유출 CVE-2021-...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/acamai_0412%20(1)_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[주말판] 클라우드 보안을 위한 3가지 베스트 프랙티스]]></title>
@@ -128,14 +128,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/20490014_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[침해 사고가 만연해지는 때, 가장 시급히 강화해야 할 보안 영역은?]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106050&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106050&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Sat, 16 Apr 2022 07:15:43 GMT</pubDate>
-            <content:encoded><![CDATA[지난 12개월 동안 63%의 기업들이 최소 한 번 이상의 침해 사고를 경험했다. 침해 사고로 인해 발생하는 피해액은 전 세계 평균이 240만 달러라고 한다. 침해...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/19495493_copy_295x190_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[MS의 패치 튜즈데이, 제로데이 취약점도 포함돼]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=106008&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=106008&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
@@ -150,6 +142,14 @@
             <pubDate>Mon, 18 Apr 2022 14:15:46 GMT</pubDate>
             <content:encoded><![CDATA[경주시가 최근 ‘아파트 월패드 해킹’ 사태가 전국적으로 논란이 되면서 합동점검반을 편성하고 긴급 점검에 나섰다. ‘아파트 월패드’는 출입문·전등·난방 등 집 안의...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/20220416WALL-S.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[침해 사고가 만연해지는 때, 가장 시급히 강화해야 할 보안 영역은?]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106050&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106050&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Sat, 16 Apr 2022 07:15:43 GMT</pubDate>
+            <content:encoded><![CDATA[지난 12개월 동안 63%의 기업들이 최소 한 번 이상의 침해 사고를 경험했다. 침해 사고로 인해 발생하는 피해액은 전 세계 평균이 240만 달러라고 한다. 침해...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/19495493_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아파치 스트러츠의 취약점, 드디어 제대로 패치돼]]></title>

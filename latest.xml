@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Apr 2022 03:26:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Apr 2022 04:36:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -86,6 +86,14 @@
             <pubDate>Mon, 18 Apr 2022 06:22:09 GMT</pubDate>
             <content:encoded><![CDATA[북한의 APT 단체인 라자루스(Lazarus)가 가짜 스카웃 및 구인 메일을 보내 사이버 공격을 실시하고 있다. 이번 캠페인의 대상은 라자루스가 지난 몇 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/20139784_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[미리보는 SECON & eGISEC 2022] 포드림·미티어]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106158&amp;page=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106158&amp;page=1&amp;kind=3</guid>
+            <pubDate>Tue, 19 Apr 2022 04:32:58 GMT</pubDate>
+            <content:encoded><![CDATA[물리보안과 사이버보안을 아우르는 국내 최대 통합보안 전시회인 제21회 세계보안엑스포(SECON &amp; eGISEC 2022)는 4월 20일부터 22일까지 3일...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/seocn&egisec_2022(20).jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[플리어 열화상 카메라, 서초구 인공지능 학습용 데이터 구축 사업 채택]]></title>
@@ -231,14 +239,6 @@
             <pubDate>Mon, 18 Apr 2022 07:16:57 GMT</pubDate>
             <content:encoded><![CDATA[물리보안과 사이버보안을 아우르는 국내 최대 통합보안 전시회인 제21회 세계보안엑스포(SECON &amp; eGISEC 2022)는 4월 20일부터 22일까지 3일...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/secon-c(6).jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[과기정통부, 신규 공인전자문서센터 KT 지정]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106104&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106104&amp;page=1&amp;kind=2</guid>
-            <pubDate>Mon, 18 Apr 2022 05:16:26 GMT</pubDate>
-            <content:encoded><![CDATA[과학기술정보통신부(장관 임혜숙, 이하 ‘과기정통부’)는 KT를 신규 공인전자문서센터로 지정하였다고 18일 밝혔다. 전자문서센터란 다른 기업·기관의 전자문서...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/msit_041801_main.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
