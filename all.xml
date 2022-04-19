@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Apr 2022 20:22:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Apr 2022 21:18:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -336,20 +336,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/20490014_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[아파치 스트러츠의 취약점, 드디어 제대로 패치돼 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106033&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106033&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Tue, 19 Apr 2022 03:23:31 GMT</pubDate>
-            <content:encoded><![CDATA[아파치 소프트웨어 재단이 아파치 스트러츠(Apache Struts)에서 발견된 취약점인 CVE-2021-31805를 패치했다고 보안 블로그 시큐리티어페어즈가 보도...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/patch-thumb-0414.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[사회 기반 시설 노리는 APT 단체의 공격이 점점 무서워지는 이유 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=106113&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=106113&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Tue, 19 Apr 2022 08:20:54 GMT</pubDate>
             <content:encoded><![CDATA[4월 13일 미국의 에너지부, CISA, NSA, FBI가 합동으로 사이버 보안 관련 경고문을 발표했다. ICS와 SCADA 장비들을 노리는 고급 APT 공격 행...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/20943175_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아파치 스트러츠의 취약점, 드디어 제대로 패치돼 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106033&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106033&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Tue, 19 Apr 2022 03:23:31 GMT</pubDate>
+            <content:encoded><![CDATA[아파치 소프트웨어 재단이 아파치 스트러츠(Apache Struts)에서 발견된 취약점인 CVE-2021-31805를 패치했다고 보안 블로그 시큐리티어페어즈가 보도...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/patch-thumb-0414.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[MS의 패치 튜즈데이, 제로데이 취약점도 포함돼 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
@@ -360,12 +360,12 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/mspat-thumb-0413.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[경주시, 지역 아파트 17개소 아파트 월패드 긴급 점검 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106079&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106079&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
-            <pubDate>Mon, 18 Apr 2022 14:15:46 GMT</pubDate>
-            <content:encoded><![CDATA[경주시가 최근 ‘아파트 월패드 해킹’ 사태가 전국적으로 논란이 되면서 합동점검반을 편성하고 긴급 점검에 나섰다. ‘아파트 월패드’는 출입문·전등·난방 등 집 안의...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/20220416WALL-S.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[북한의 라자루스, 최근 화학 관련 조직들 노리기 시작했다 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106111&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106111&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Tue, 19 Apr 2022 09:17:20 GMT</pubDate>
+            <content:encoded><![CDATA[북한의 APT 단체인 라자루스(Lazarus)가 가짜 스카웃 및 구인 메일을 보내 사이버 공격을 실시하고 있다. 이번 캠페인의 대상은 라자루스가 지난 몇 년 동안...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/20139784_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[침해 사고가 만연해지는 때, 가장 시급히 강화해야 할 보안 영역은? (보안뉴스 ─ 가장 많이 본 기사)]]></title>
@@ -376,12 +376,12 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/19495493_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[북한의 라자루스, 최근 화학 관련 조직들 노리기 시작했다 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106111&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106111&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Tue, 19 Apr 2022 09:17:20 GMT</pubDate>
-            <content:encoded><![CDATA[북한의 APT 단체인 라자루스(Lazarus)가 가짜 스카웃 및 구인 메일을 보내 사이버 공격을 실시하고 있다. 이번 캠페인의 대상은 라자루스가 지난 몇 년 동안...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/20139784_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[경주시, 지역 아파트 17개소 아파트 월패드 긴급 점검 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106079&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106079&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
+            <pubDate>Mon, 18 Apr 2022 14:15:46 GMT</pubDate>
+            <content:encoded><![CDATA[경주시가 최근 ‘아파트 월패드 해킹’ 사태가 전국적으로 논란이 되면서 합동점검반을 편성하고 긴급 점검에 나섰다. ‘아파트 월패드’는 출입문·전등·난방 등 집 안의...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/20220416WALL-S.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[금융감독원, 신한카드 부정사용 등에 대한 대책 강구 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
