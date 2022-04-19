@@ -4,9 +4,17 @@
         <title>보안뉴스 ─ Security World</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 19 Apr 2022 01:26:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Apr 2022 03:26:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[플리어 열화상 카메라, 서초구 인공지능 학습용 데이...]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106153&amp;mkind=5</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106153&amp;mkind=5</guid>
+            <pubDate>Tue, 19 Apr 2022 03:24:12 GMT</pubDate>
+            <content:encoded><![CDATA[텔레다인 플리어(Teledyne FLIR 한국지사, 지사장 이해동)는 자사의 열화상 카메라가 서초구의 스마트시티 구현을 위한 인공지능(AI) 학습용 데이터...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/22041901ss.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[2022 대테러 콘퍼런스, 4월 22일 개최... ...]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=106014&amp;mkind=5</link>
@@ -14,14 +22,6 @@
             <pubDate>Mon, 18 Apr 2022 08:22:14 GMT</pubDate>
             <content:encoded><![CDATA[우리나라 새정부 출범과 러시아와 우크라이나 전쟁 등으로 대테러 위협이 증가하고 있는 가운데, 효율적인 대테러와 경호경비 및 미래 대테러 역량강화를 위한 세...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/terror_041301_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[미리보는 SECON & eGISEC 2022] 이...]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106067&amp;mkind=5</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106067&amp;mkind=5</guid>
-            <pubDate>Mon, 18 Apr 2022 08:22:14 GMT</pubDate>
-            <content:encoded><![CDATA[물리보안과 사이버보안을 아우르는 국내 최대 통합보안 전시회인 제21회 세계보안엑스포(SECON &amp; eGISEC 2022)는 4월 20일부터 22일까지 3일...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/secon-c(7).jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
