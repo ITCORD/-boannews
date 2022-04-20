@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Apr 2022 09:19:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Apr 2022 10:22:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -72,20 +72,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/20139784_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[아파치 스트러츠의 취약점, 드디어 제대로 패치돼]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106033&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106033&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Tue, 19 Apr 2022 03:23:31 GMT</pubDate>
-            <content:encoded><![CDATA[아파치 소프트웨어 재단이 아파치 스트러츠(Apache Struts)에서 발견된 취약점인 CVE-2021-31805를 패치했다고 보안 블로그 시큐리티어페어즈가 보도...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/patch-thumb-0414.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[금융감독원, 신한카드 부정사용 등에 대한 대책 강구]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=106114&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=106114&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Tue, 19 Apr 2022 11:15:01 GMT</pubDate>
             <content:encoded><![CDATA[금융감독원은 최근 신한카드 사용자들이 해외에서 부정사용으로 인해 피해를 입었다는 언론보도에 따라 소비자 피해 구제 및 신한카드의 국제브랜드 카드번호 발급체계를 개...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/shinhan_041801_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아파치 스트러츠의 취약점, 드디어 제대로 패치돼]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106033&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106033&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Tue, 19 Apr 2022 03:23:31 GMT</pubDate>
+            <content:encoded><![CDATA[아파치 소프트웨어 재단이 아파치 스트러츠(Apache Struts)에서 발견된 취약점인 CVE-2021-31805를 패치했다고 보안 블로그 시큐리티어페어즈가 보도...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/patch-thumb-0414.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[랜섬웨어 퍼트리던 지로더 봇넷, 보안 업계 협업으로 무력화 돼]]></title>
@@ -136,20 +136,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/21869477_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[미국 정부, 6억 달러 암호화폐 도난 사건 범인으로 북한 지목]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106065&amp;page=1&amp;kind=4&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106065&amp;page=1&amp;kind=4&amp;search=title&amp;find=</guid>
-            <pubDate>Wed, 20 Apr 2022 03:43:43 GMT</pubDate>
-            <content:encoded><![CDATA[지난 달 암호화폐 거래소인 로닌 네트워크(Ronin Network)는 보안 침해 사고가 발생했다고 발표하며 6억 달러에 해당하는 암호화폐가 도난당했다고 알렸다. ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/19529706_copy_295x190_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[제117차 CISO포럼, ‘오픈소스 취약점’과 클라우드 보안대책 논의]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=106154&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=106154&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
             <pubDate>Wed, 20 Apr 2022 07:17:10 GMT</pubDate>
             <content:encoded><![CDATA[유명 앱 개발 프레임워크인 스프링(Spring)에서 보안 취약점 ‘스프링4셸’이 발견돼 패치 이슈가 불거진 가운데, 최근 로그4셸과 함께 오픈소스 취약점에 대한 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/ciso_041900.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[미국 정부, 6억 달러 암호화폐 도난 사건 범인으로 북한 지목]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106065&amp;page=1&amp;kind=4&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106065&amp;page=1&amp;kind=4&amp;search=title&amp;find=</guid>
+            <pubDate>Wed, 20 Apr 2022 03:43:43 GMT</pubDate>
+            <content:encoded><![CDATA[지난 달 암호화폐 거래소인 로닌 네트워크(Ronin Network)는 보안 침해 사고가 발생했다고 발표하며 6억 달러에 해당하는 암호화폐가 도난당했다고 알렸다. ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/19529706_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2021년 정보보호 실태조사 결과 살펴보니... 기업, 보안 정책·예산 강화]]></title>
