@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-04-20T03:46:48.382Z</updated>
+    <updated>2022-04-20T04:48:39.439Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이더리움 기반 빈스토크 스테이블코인 프로토콜에서 1억 8200만 달러 도난당해]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=106192&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=106192&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-04-20T04:46:04.547Z</updated>
+        <content type="html"><![CDATA[보안 외신 핵리드에 의하면 이더리움 기반 스테이블코인 프로토콜 중 하나인 빈스토크(Beanstalk)에서 1억 8200만 달러의 암호화폐가 도난당했다고 한다. 공격자들이 이번 주말에 프로토콜의 취약점을 익스플로잇을 했다고 하며, 이 사건 때문에 빈스토크의 스테이블 코인...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[새 레노버 펌웨어 취약점, 수백만 랩톱들을 위험에 노출시켜]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=106191&amp;page=1&amp;mkind=1&amp;kind=1</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=106114&amp;page=1&amp;mkind=1&amp;kind=1"/>
         <updated>2022-04-19T03:23:44.504Z</updated>
         <content type="html"><![CDATA[금융감독원은 최근 신한카드 사용자들이 해외에서 부정사용으로 인해 피해를 입었다는 언론보도에 따라 소비자 피해 구제 및 신한카드의 국제브랜드 카드번호 발급체계를 개선하도록 했다고 밝혔다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[미리보는 SECON & eGISEC 2022] 케이컨트롤·케이티앤씨·코리아스캔텍]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=106069&amp;page=1&amp;mkind=1&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=106069&amp;page=1&amp;mkind=1&amp;kind=3"/>
-        <updated>2022-04-19T03:23:44.506Z</updated>
-        <content type="html"><![CDATA[물리보안과 사이버보안을 아우르는 국내 최대 통합보안 전시회인 제21회 세계보안엑스포(SECON &amp; eGISEC 2022)는 4월 20일부터 22일까지 3일간 일산 킨텍스 제1전시장 3~5홀에서 개최된다. SECON &amp; eGISEC 2022는 공식 홈페이지를 통해 사전등...]]></content>
     </entry>
 </feed>
