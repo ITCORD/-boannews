@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=4</id>
     <title>보안뉴스 ─ SAFETY</title>
-    <updated>2022-04-19T23:18:11.751Z</updated>
+    <updated>2022-04-20T01:30:46.638Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[소방청, 특수한 유형의 화재 현장 활동 대책 강화한다]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=106119&amp;page=1&amp;mkind=4&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=106119&amp;page=1&amp;mkind=4&amp;kind=2"/>
+        <updated>2022-04-20T01:28:22.365Z</updated>
+        <content type="html"><![CDATA[소방청은 대형 물류창고, 화학물질, 신종 건축자재 사용 증가 등과 관련해 대응자료와 경험의 축적량이 부족한 특수 유형의 화재에 대한 현장 활동 강화 대책을 발표했다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[바다 나갈 땐, ‘해로드(海Road)’ 설치하세요]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=106120&amp;page=1&amp;mkind=4&amp;kind=2</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=105735&amp;page=1&amp;mkind=4&amp;kind=2"/>
         <updated>2022-03-30T10:18:49.276Z</updated>
         <content type="html"><![CDATA[SRT 운영사 SR은 안전지도사를 2명에서 10명으로 대폭 확대하고 신임 안전지도사에게 임명장을 수여했다고 밝혔다. SR은 중대재해 예방과 안전 점검 강화를 위해 그동안 안전본부에 안전지도사 2명을 임명해 운영해 왔고, 올해는 ‘절대 안전’ 실현을 위해 운전·차량·시설...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IPA, 인천항 건설 현장의 철저한 안전관리 위한 스마트 안전관리 시스템 도입]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=105739&amp;page=1&amp;mkind=4&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=105739&amp;page=1&amp;mkind=4&amp;kind=2"/>
-        <updated>2022-03-30T10:18:49.278Z</updated>
-        <content type="html"><![CDATA[인천항만공사(IPA)는 인천항 건설 현장 내 중대재해 방지와 효율적인 안전관리를 위해 줌인(Zoom-in) 건설안전센터 운영, 스마트 안전장비 도입, 안전관리 챗봇 활용으로 이뤄진 ‘스마트 안전관리 시스템’을 도입했다고 밝혔다.]]></content>
     </entry>
 </feed>
