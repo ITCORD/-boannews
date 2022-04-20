@@ -4,9 +4,49 @@
         <title>보안뉴스 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Apr 2022 01:30:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Apr 2022 03:46:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이모텟 봇넷, 64비트 모듈로 전환하며 활동량 늘려]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106195&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106195&amp;page=1&amp;kind=1</guid>
+            <pubDate>Wed, 20 Apr 2022 03:43:25 GMT</pubDate>
+            <content:encoded><![CDATA[IT 외신인 블리핑컴퓨터에 의하면 이모텟(Emotet) 멀웨어의 활동량이 최근 들어 갑작스럽게 늘어났다고 한다. 조사에 따라 10배 가량 증가했다는 이야기...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/19538378_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[옥타, 랩서스 데이터 침해 사건 종결짓고 새 보안 장치 마련]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106193&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106193&amp;page=1&amp;kind=1</guid>
+            <pubDate>Wed, 20 Apr 2022 03:43:25 GMT</pubDate>
+            <content:encoded><![CDATA[보안 외신 시큐리티위크에 의하면 아이덴티티 및 접근 관리 전문 업체 옥타(Okta)가 랩서스(Lapsus$) 해킹 사건에 대한 수사를 마무리 짓고, 새로운...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/20876690_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이더리움 기반 빈스토크 스테이블코인 프로토콜에서 1억 8200만 달러 도난당해]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106192&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106192&amp;page=1&amp;kind=1</guid>
+            <pubDate>Wed, 20 Apr 2022 03:43:25 GMT</pubDate>
+            <content:encoded><![CDATA[보안 외신 핵리드에 의하면 이더리움 기반 스테이블코인 프로토콜 중 하나인 빈스토크(Beanstalk)에서 1억 8200만 달러의 암호화폐가 도난당했다고 한...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/21755865_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[새 레노버 펌웨어 취약점, 수백만 랩톱들을 위험에 노출시켜]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106191&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106191&amp;page=1&amp;kind=1</guid>
+            <pubDate>Wed, 20 Apr 2022 03:43:25 GMT</pubDate>
+            <content:encoded><![CDATA[보안 외신 해커뉴스에 의하면 레노버 장비들에 탑재된 UEFI 펌웨어에서 위험한 취약점 3개가 발견됐다고 한다. 이 취약점들을 익스플로잇 하는 데 성공할 경...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/21048045_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[카탈란게이트 사건 통해 발견된 스파이웨어, NSO그룹과 관련이 있어]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106190&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106190&amp;page=1&amp;kind=1</guid>
+            <pubDate>Wed, 20 Apr 2022 03:43:25 GMT</pubDate>
+            <content:encoded><![CDATA[보안 외신 쓰레트포스트에 의하면 시티즌랩(Citizen Lab)이 스페인의 자치주인 카탈로니아를 표적으로 삼고 있는 해킹 공격 캠페인이 발견했다고 한다. ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/20915513_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[정보보호 상장기업 20개사, 2021년 매출액 분석해보니... 대부분 성장세]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=106110&amp;page=1&amp;kind=3</link>
@@ -46,46 +86,6 @@
             <pubDate>Tue, 19 Apr 2022 03:23:18 GMT</pubDate>
             <content:encoded><![CDATA[IT 외신 블리핑컴퓨터에 의하면 미국의 CISA, FBI, 재무부가 오늘 북한 APT 단체인 라자루스에 대한 새로운 경고문을 발표했다고 한다. 암호화폐와 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/21278057_copy_295x190_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[웹엑스, 음소거 된 마이크로폰도 모니터링 한다]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106155&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106155&amp;page=1&amp;kind=1</guid>
-            <pubDate>Tue, 19 Apr 2022 03:23:18 GMT</pubDate>
-            <content:encoded><![CDATA[보안 외신 시큐리티위크에 의하면 시스코가 개발한 영상 회의 솔루션인 웹엑스(Webex)가 마이크로폰을 항상 모니터링 한다는 사실이 연구를 통해 드러났다고 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/21035269_copy_295x190_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[금융감독원, 신한카드 부정사용 등에 대한 대책 강구]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106114&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106114&amp;page=1&amp;kind=1</guid>
-            <pubDate>Mon, 18 Apr 2022 08:21:22 GMT</pubDate>
-            <content:encoded><![CDATA[금융감독원은 최근 신한카드 사용자들이 해외에서 부정사용으로 인해 피해를 입었다는 언론보도에 따라 소비자 피해 구제 및 신한카드의 국제브랜드 카드번호 발급체...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/shinhan_041801_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[메타버스, 조만간 UX와 UI 디자이너들의 해결 과제가 될 것이다]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106094&amp;page=1&amp;kind=4</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106094&amp;page=1&amp;kind=4</guid>
-            <pubDate>Mon, 18 Apr 2022 08:21:22 GMT</pubDate>
-            <content:encoded><![CDATA[지난 1년 동안 인간의 디지털 기술 활용도는 급속도로 높아졌다. 코로나 때문에 기술 활용과 디지털화에 있어서 비약적인 도약이 있었고, 이는 어지간한 전문가...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/21769136_copy_295x190_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사회 기반 시설 노리는 APT 단체의 공격이 점점 무서워지는 이유]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106113&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106113&amp;page=1&amp;kind=1</guid>
-            <pubDate>Mon, 18 Apr 2022 08:21:22 GMT</pubDate>
-            <content:encoded><![CDATA[4월 13일 미국의 에너지부, CISA, NSA, FBI가 합동으로 사이버 보안 관련 경고문을 발표했다. ICS와 SCADA 장비들을 노리는 고급 APT ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/20943175_copy_295x190_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[테크칼럼] 내부 보안 위협, 접근통제 솔루션으로 예측하고 대응한다]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106109&amp;page=1&amp;kind=5</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106109&amp;page=1&amp;kind=5</guid>
-            <pubDate>Mon, 18 Apr 2022 07:16:57 GMT</pubDate>
-            <content:encoded><![CDATA[최근 기업의 기밀 정보를 유출하는 기업 대상 해킹 사고 사례가 증가하고 있다. 그중에서도 국제 사이버 범죄 조직 랩서스(LAPSUS$)의 해킹 공격이 이어...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/NET-C.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[내 곁에 든든한 디지털 문제 해결사, 2022년 전국 디지털배움터 본격 개소]]></title>
@@ -210,6 +210,14 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/seocn&egisec_2022(20).jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[웹엑스, 음소거 된 마이크로폰도 모니터링 한다]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106155&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106155&amp;page=1&amp;kind=1</guid>
+            <pubDate>Tue, 19 Apr 2022 03:23:18 GMT</pubDate>
+            <content:encoded><![CDATA[보안 외신 시큐리티위크에 의하면 시스코가 개발한 영상 회의 솔루션인 웹엑스(Webex)가 마이크로폰을 항상 모니터링 한다는 사실이 연구를 통해 드러났다고 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/21035269_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[플리어 열화상 카메라, 서초구 인공지능 학습용 데이터 구축 사업 채택]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=106153&amp;page=1&amp;kind=3</link>
             <guid>https://www.boannews.com/media/view.asp?idx=106153&amp;page=1&amp;kind=3</guid>
@@ -231,13 +239,6 @@
             <guid>https://www.boannews.com/media/view.asp?idx=106116&amp;page=1&amp;kind=2</guid>
             <pubDate>Tue, 19 Apr 2022 03:23:18 GMT</pubDate>
             <content:encoded><![CDATA[안전보건공단은 산업 현장의 우수 안전 제품을 선정해 시상하는 ‘방호장치·보호구 품질대상(大賞) 품평회’를 개최한다. 올해 26번째를 맞는 품평회는 산업 현...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[경기도북부소방재난본부, 대형 참사 사전 예방을 위한 고시원 특별 단속]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106115&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106115&amp;page=1&amp;kind=2</guid>
-            <pubDate>Tue, 19 Apr 2022 03:23:18 GMT</pubDate>
-            <content:encoded><![CDATA[경기도북부소방재난본부는 지난 11일 타 지역에서 발생한 고시원 화재 사건을 계기로 대형 참사 발생 가능성을 사전에 차단하기 위해 지난 18일부터 29일까지...]]></content:encoded>
         </item>
     </channel>
 </rss>

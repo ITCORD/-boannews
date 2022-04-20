@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 20 Apr 2022 01:30:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Apr 2022 03:46:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,14 +30,6 @@
             <pubDate>Sun, 17 Apr 2022 22:16:12 GMT</pubDate>
             <content:encoded><![CDATA[클라우드의 도입 비율이 지난 수년 동안 빠르게 올라갔다. 증가 추이를 봤을 때 이것이 한 때의 유행이거나 언젠가 잦아들 현상으로 보이지 않는다. 2021년 조사한...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/20773165_copy_295x190_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[테크칼럼] 끝나지 않은 ‘Log4j’ 취약점, 마이크로세그멘테이션으로 대응하라]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105991&amp;page=1&amp;kind=5&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105991&amp;page=1&amp;kind=5&amp;search=title&amp;find=</guid>
-            <pubDate>Fri, 15 Apr 2022 03:28:00 GMT</pubDate>
-            <content:encoded><![CDATA[2021년 11월 24일, 아파치 파운데이션(Apache Foundation)은 Log4j의 보안 취약점(비인증 원격 코드 실행 및 데이터 유출 CVE-2021-...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/acamai_0412%20(1)_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[거의 모든 오픈소스들에 보안 취약점이 한 개 이상 존재한다]]></title>
@@ -96,14 +88,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/20943175_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[랜섬웨어 퍼트리던 지로더 봇넷, 보안 업계 협업으로 무력화 돼]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106039&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106039&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Sun, 17 Apr 2022 13:23:03 GMT</pubDate>
-            <content:encoded><![CDATA[마이크로소프트의 보안 연구원들과 여러 보안 업체들이 합동으로 지로더(Zloader)라는 악성 봇넷에 묶여 있던 도메인 65개를 폐쇄시키는 데 성공했다. 그 외에도...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/20490014_copy_295x190_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[북한의 라자루스, 최근 화학 관련 조직들 노리기 시작했다]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=106111&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=106111&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
@@ -112,20 +96,28 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/20139784_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[미국 정보 기관들, 인컨트롤러라는 고급 ICS 멀웨어 발견해 경고]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106071&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106071&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Sun, 17 Apr 2022 23:17:13 GMT</pubDate>
-            <content:encoded><![CDATA[미국의 사이버 보안 전담 기관인 CISA와 NSA, FBI가 이번 주 합동으로 긴급 경고문을 발표했다. 사회 기반 시설을 관리하는 조직들을 향한 것이었는데, 특히...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/21086546_copy_295x190_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[아파치 스트러츠의 취약점, 드디어 제대로 패치돼]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=106033&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=106033&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Tue, 19 Apr 2022 03:23:31 GMT</pubDate>
             <content:encoded><![CDATA[아파치 소프트웨어 재단이 아파치 스트러츠(Apache Struts)에서 발견된 취약점인 CVE-2021-31805를 패치했다고 보안 블로그 시큐리티어페어즈가 보도...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/patch-thumb-0414.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[랜섬웨어 퍼트리던 지로더 봇넷, 보안 업계 협업으로 무력화 돼]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106039&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106039&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Sun, 17 Apr 2022 13:23:03 GMT</pubDate>
+            <content:encoded><![CDATA[마이크로소프트의 보안 연구원들과 여러 보안 업체들이 합동으로 지로더(Zloader)라는 악성 봇넷에 묶여 있던 도메인 65개를 폐쇄시키는 데 성공했다. 그 외에도...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/20490014_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[미국 정보 기관들, 인컨트롤러라는 고급 ICS 멀웨어 발견해 경고]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106071&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106071&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Sun, 17 Apr 2022 23:17:13 GMT</pubDate>
+            <content:encoded><![CDATA[미국의 사이버 보안 전담 기관인 CISA와 NSA, FBI가 이번 주 합동으로 긴급 경고문을 발표했다. 사회 기반 시설을 관리하는 조직들을 향한 것이었는데, 특히...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/21086546_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[금융감독원, 신한카드 부정사용 등에 대한 대책 강구]]></title>
@@ -166,6 +158,14 @@
             <pubDate>Tue, 19 Apr 2022 20:19:13 GMT</pubDate>
             <content:encoded><![CDATA[최근 기업의 기밀 정보를 유출하는 기업 대상 해킹 사고 사례가 증가하고 있다. 그중에서도 국제 사이버 범죄 조직 랩서스(LAPSUS$)의 해킹 공격이 이어지고 있...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/NET-C.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[미국 정부, 6억 달러 암호화폐 도난 사건 범인으로 북한 지목]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106065&amp;page=1&amp;kind=4&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106065&amp;page=1&amp;kind=4&amp;search=title&amp;find=</guid>
+            <pubDate>Wed, 20 Apr 2022 03:43:43 GMT</pubDate>
+            <content:encoded><![CDATA[지난 달 암호화폐 거래소인 로닌 네트워크(Ronin Network)는 보안 침해 사고가 발생했다고 발표하며 6억 달러에 해당하는 암호화폐가 도난당했다고 알렸다. ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/19529706_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
