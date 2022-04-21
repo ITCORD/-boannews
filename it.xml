@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=2</id>
     <title>보안뉴스 ─ IT</title>
-    <updated>2022-04-21T07:19:12.630Z</updated>
+    <updated>2022-04-21T08:25:02.030Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[인천시-연세대, ‘양자컴퓨팅센터 유치·생태계 조성 업무협약’ 체결]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=106223&amp;page=1&amp;mkind=2&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=106223&amp;page=1&amp;mkind=2&amp;kind=2"/>
+        <updated>2022-04-21T08:22:46.229Z</updated>
+        <content type="html"><![CDATA[인천시와 연세대는 상호 협력을 통해 우리나라 최초로 양자컴퓨팅센터의 인천 송도국제도시 유치에 힘을 합치기로 했다. 인천시는 지난 20일 박남춘 인천시장, 이원재 인천경제자유구역청장, 서승환 연세대 총장 등이 참석한 가운데 ‘양자컴퓨팅센터 유치 및 생태계 조성 업무협약’...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[서울시, 디지털 역량 강화 교육 본격 추진한다]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=106222&amp;page=1&amp;mkind=2&amp;kind=2</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=106171&amp;page=1&amp;mkind=2&amp;kind=2"/>
         <updated>2022-04-20T01:28:09.473Z</updated>
         <content type="html"><![CDATA[충남도가 과학기술정보통신부 주관 인공지능(AI) 융합 지역특화산업 지원 사업 대상에 선정됐다. 도에 따르면 인공지능 융합 지역특화산업 지원은 정부 디지털 뉴딜 대표 과제 중 하나로, 인공지능을 활용해 지역 산업 생산 공정을 혁신하도록 지원하는 사업이다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[고양시, 드론산업 날개 펼친다]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=106172&amp;page=1&amp;mkind=2&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=106172&amp;page=1&amp;mkind=2&amp;kind=2"/>
-        <updated>2022-04-20T01:28:09.473Z</updated>
-        <content type="html"><![CDATA[고양시는 드론센터를 건립하고 드론비행장, 드론택시(UAM) 클러스터, 드론산업박람회 등 관련 인프라 확충을 추진하고 있다. 이재준 고양시장은 “드론산업은 항공 촬영, 물류 배송, 교통, 안전진단, 스마트농업 등 다양한 분야에서 활용가능성이 무궁무진하다”며, “화전드론센...]]></content>
     </entry>
 </feed>
