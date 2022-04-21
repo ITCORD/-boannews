@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-04-21T06:23:46.446Z</updated>
+    <updated>2022-04-21T07:19:12.637Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[SECON & eGISEC 2022] 이레산업, 엑스레이 수하물 검색기 및 폭발물 마약 탐지기 선보여]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=106247&amp;page=1&amp;mkind=1&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=106247&amp;page=1&amp;mkind=1&amp;kind=3"/>
+        <updated>2022-04-21T07:16:26.120Z</updated>
+        <content type="html"><![CDATA[2004년도에 설립된 이레산업은 보안장비 전문업체로 공항과 항만, 군부대, 정부청사, 발전소 등 다양한 곳에 장비를 설치·운영하고 있다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[SECON & eGISEC 2022] 노비텍, X30 줌렌즈 일체형 UHD ITS 카메라 선보인다]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=106233&amp;page=1&amp;mkind=1&amp;kind=3</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=106212&amp;page=1&amp;mkind=1&amp;kind=2"/>
         <updated>2022-04-21T01:25:31.853Z</updated>
         <content type="html"><![CDATA[부산항만공사(BPA)는 국가정보원 지부와 합동으로 지난 19일 부산항 9곳의 터미널 운영사와 정보보안 협의회를 열고 사이버보안 강화를 위한 공조 방안을 논의했다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[SECON & eGISEC 2022] 시큐레터, APT와 이메일 대응 솔루션으로 ‘주목’]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=106183&amp;page=1&amp;mkind=1&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=106183&amp;page=1&amp;mkind=1&amp;kind=3"/>
-        <updated>2022-04-21T01:25:31.856Z</updated>
-        <content type="html"><![CDATA[악성코드 탐지 전문기업 시큐레터는 ‘SECON &amp; eGISEC 2022’에서 MARS SLF(File Security), MARS SLE(Email Security), MARS SLES(Email Service), MARS SLCDR(CDR Security)솔루션으로 ...]]></content>
     </entry>
 </feed>

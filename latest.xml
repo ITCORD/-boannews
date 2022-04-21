@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Apr 2022 06:23:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Apr 2022 07:19:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -86,6 +86,14 @@
             <pubDate>Wed, 20 Apr 2022 03:43:25 GMT</pubDate>
             <content:encoded><![CDATA[IT 외신인 블리핑컴퓨터에 의하면 이모텟(Emotet) 멀웨어의 활동량이 최근 들어 갑작스럽게 늘어났다고 한다. 조사에 따라 10배 가량 증가했다는 이야기...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/19538378_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[SECON & eGISEC 2022] 케이티앤씨, 얼굴인식만큼 편리하고 보안성 높은 홍채인식 시스템 소개]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106229&amp;page=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106229&amp;page=1&amp;kind=3</guid>
+            <pubDate>Thu, 21 Apr 2022 07:15:54 GMT</pubDate>
+            <content:encoded><![CDATA[영상보안분야에서 CCTV 카메라 제품으로 보안시장을 주도했던 케이티앤씨는 순수 국내기술로 제작된 편하지만 최상의 보안성을 갖는 홍채인식 시스템을 ‘SECO...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/kt&c_0421_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[SECON & eGISEC 2022] 스마트 통합관제 솔루션 분야 기술혁신 선도 기업 ‘네이즈’]]></title>
@@ -237,14 +245,6 @@
             <pubDate>Thu, 21 Apr 2022 01:25:07 GMT</pubDate>
             <content:encoded><![CDATA[서울시가 어르신을 비롯한 디지털 취약계층의 격차 해소를 위한 ‘2022년 서울시 디지털 역량 강화 추진계획’을 21일 발표했다. 서울시의 이번 계획은 디지...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/4-53(295).jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[경기북부소방-KT, 바디캠 등 정보통신기술로 재난 현장 대응력 강화]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106221&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106221&amp;page=1&amp;kind=2</guid>
-            <pubDate>Thu, 21 Apr 2022 01:25:07 GMT</pubDate>
-            <content:encoded><![CDATA[경기도북부소방재난본부는 지난 20일 KT강북강원법인고객본부와 ‘바디캠 스마트솔루션 시범 사업 및 재난 현장 음영지역 이동기지국 지원’ 업무협약을 체결했다고...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/4-52(295).jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
