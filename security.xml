@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-04-20T23:21:14.585Z</updated>
+    <updated>2022-04-21T01:28:27.905Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[부산항만공사, 부산항 터미널운영사들과 정보보안 협의회 개최]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=106212&amp;page=1&amp;mkind=1&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=106212&amp;page=1&amp;mkind=1&amp;kind=2"/>
+        <updated>2022-04-21T01:25:31.853Z</updated>
+        <content type="html"><![CDATA[부산항만공사(BPA)는 국가정보원 지부와 합동으로 지난 19일 부산항 9곳의 터미널 운영사와 정보보안 협의회를 열고 사이버보안 강화를 위한 공조 방안을 논의했다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[SECON & eGISEC 2022] 시큐레터, APT와 이메일 대응 솔루션으로 ‘주목’]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=106183&amp;page=1&amp;mkind=1&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=106183&amp;page=1&amp;mkind=1&amp;kind=3"/>
+        <updated>2022-04-21T01:25:31.856Z</updated>
+        <content type="html"><![CDATA[악성코드 탐지 전문기업 시큐레터는 ‘SECON &amp; eGISEC 2022’에서 MARS SLF(File Security), MARS SLE(Email Security), MARS SLES(Email Service), MARS SLCDR(CDR Security)솔루션으로 ...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[SECON & eGISEC 2022] 이글루코퍼레이션, 보안 위협 대응 프로세스 선보여]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=106185&amp;page=1&amp;mkind=1&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=106185&amp;page=1&amp;mkind=1&amp;kind=3"/>
+        <updated>2022-04-21T01:25:31.858Z</updated>
+        <content type="html"><![CDATA[디지털 전환이 가속화되면서 보안 오케스트레이션·자동화·대응(SOAR) 역량의 필요성이 부각되고 있다. 이러한 가운데 이글루코퍼레이션이 보안 위협의 대응 프로세스를 자동화한 솔루션을 선보여 시선을 모았다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[SECON & eGISEC 2022] 이스트시큐리티, 선제적 대응 시스템으로 ‘시선 모아’]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=106186&amp;page=1&amp;mkind=1&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=106186&amp;page=1&amp;mkind=1&amp;kind=3"/>
+        <updated>2022-04-21T01:25:31.860Z</updated>
+        <content type="html"><![CDATA[최근 고도화된 지능형 위협과 신·변종 악성코드가 끊임없이 등장하고 있는 가운데, 이스트시큐리티가 잠재 위협의 선제적인 대응 시스템을 제시해 시선을 모았다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[SECON & eGISEC 2022] 위즈코리아, 다차원 통합 분석으로 ‘경쟁’]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=106187&amp;page=1&amp;mkind=1&amp;kind=3</id>
@@ -95,33 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=106138&amp;page=1&amp;mkind=1&amp;kind=3"/>
         <updated>2022-04-20T08:23:57.347Z</updated>
         <content type="html"><![CDATA[통합보안 솔루션 기업 이노뎁은 디지털 얼라언스 개념의 다양한 업체와의 협력을 통해 환경, 교통, 방범의 분야의 다양한 서비스를 지원하는 기술을 선보였다. 특히, IoT와 AI, 클라우드 기반의 데이터 허브, AR 디바이스를 활용한 디지털 트윈 솔루션, 메타버스 플랫폼을...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[SECON & eGISEC 2022] 아이리스아이디, 다양한 홍채&얼굴 인식 솔루션으로 비접촉 시장 선도]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=106133&amp;page=1&amp;mkind=1&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=106133&amp;page=1&amp;mkind=1&amp;kind=3"/>
-        <updated>2022-04-20T08:23:57.349Z</updated>
-        <content type="html"><![CDATA[홍채인식 기술의 개발 및 보급에 앞장서 온 ‘아이리스아이디’는 비접촉 시장을 선도하는 다양한 홍채 및 얼굴인식 제품을 선보였다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[SECON & eGISEC 2022] 그린아이티코리아, 스마트시티가 요구하는 최첨단 보안 솔루션 전시]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=106128&amp;page=1&amp;mkind=1&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=106128&amp;page=1&amp;mkind=1&amp;kind=3"/>
-        <updated>2022-04-20T08:23:57.351Z</updated>
-        <content type="html"><![CDATA[‘그린아이티코리아’는 신기술 도입을 통해 국내 조달 시장의 방범방배 기술개발을 주도하는 혁신기업으로 지능형 통합관제 플랫폼 ‘OBSERVER’와 스마트 주차관제 시스템 ‘Green Parking’, 공유주차 서비스 ‘Green Lots’ 등을 전시하며 관람객의 주목을...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[SECON & eGISEC 2022] 씨유박스, 생활 속 편의성 높인 워크쓰루 얼굴인식 주목]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=106131&amp;page=1&amp;mkind=1&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=106131&amp;page=1&amp;mkind=1&amp;kind=3"/>
-        <updated>2022-04-20T08:23:57.353Z</updated>
-        <content type="html"><![CDATA[씨유박스는 인공지능 기반 얼굴인식 알고리즘 및 영상인식 전문기업으로 모든 공간에서 안심하고 활용할 수 있는 인공지능 얼굴인식 솔루션을 제공하고 있는 기업으로 다양한 공간에 적용할 수 있는 얼굴인식 알고리즘을 적용한 워크쓰루 출입통제 시스템을 선보였다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[공격자들의 체류 시간은 줄어들지만, 하이브리드 환경은 계속 위험]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=106201&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=106201&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-04-20T08:23:57.355Z</updated>
-        <content type="html"><![CDATA[공격자들이 들키지 않고 피해자의 네트워크에 머무는 시간이 4년 연속 줄어들고 있다. 2020년는 평균 24일이었는데 2021년에는 21일로 기록된 것이다. 이와 관련된 상세 보고서를 보안 업체 맨디언트(Mandiant)가 발표했다.]]></content>
     </entry>
 </feed>
