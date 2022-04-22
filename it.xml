@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=2</id>
     <title>보안뉴스 ─ IT</title>
-    <updated>2022-04-22T01:24:22.920Z</updated>
+    <updated>2022-04-22T03:49:21.591Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2030년까지 미래차 전문인재 3만명 양성한다]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=106261&amp;page=1&amp;mkind=2&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=106261&amp;page=1&amp;mkind=2&amp;kind=2"/>
+        <updated>2022-04-22T03:46:12.506Z</updated>
+        <content type="html"><![CDATA[산업통상자원부는 지난 21일 ‘미래차 분야 인력 양성 성과확산 보고회’를 개최했다. 이번 행사는 자율주행차·친환경차 등 미래형 자동차 보급 및 확대에 따른 현장인력과 미래차 분야를 이끌어 갈 수 있는 석·박사인력의 중요성이 강조되는 상황 속에서 ‘미래차 인력양성사업’의...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[민간 경력 국가공무원, 올해 218명 선발]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=106260&amp;page=1&amp;mkind=2&amp;kind=2</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=106213&amp;page=1&amp;mkind=2&amp;kind=2"/>
         <updated>2022-04-21T01:25:47.172Z</updated>
         <content type="html"><![CDATA[산업통상자원부 박진규 1차관은 지난 20일 스웨덴 기업혁신부 스티나 빌링거 차관과 함께 ‘제1차 한-스웨덴 산업협력위원회’ 회의를 개최했다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[SECON & eGISEC 2022] 위즈코리아, 다차원 통합 분석으로 ‘경쟁’]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=106187&amp;page=1&amp;mkind=2&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=106187&amp;page=1&amp;mkind=2&amp;kind=3"/>
-        <updated>2022-04-21T01:25:47.182Z</updated>
-        <content type="html"><![CDATA[국내 개인정보접속기록 분야 시장 점유율 60%라고 발표한 위즈코리아가 ‘SECON &amp; eGISEC 2022’에서 ‘위즈블랙박스 슈트(WEEDS BlackBox Suite)’를 선보여 이목이 집중됐다.]]></content>
     </entry>
 </feed>
