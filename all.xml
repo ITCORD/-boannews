@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 22 Apr 2022 05:38:15 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Apr 2022 06:23:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2021년 한 해, 제로데이 취약점 통한 공격이 폭발적으로 증가했다 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106282&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106282&amp;page=1&amp;kind=1</guid>
+            <pubDate>Fri, 22 Apr 2022 06:20:57 GMT</pubDate>
+            <content:encoded><![CDATA[2021년, 사이버 공격자들은 역사상 가장 많은 제로데이 취약점을 발굴하고 익스플로잇 했다. 특히 마이크로소프트, 구글, 애플의 소프트웨어들에서 많은 제로...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/21753129_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[초고위험도 가진 칩셋 오류, 수천만 안드로이드 장비를 위협해 (보안뉴스 ─ 전체기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=106280&amp;page=1&amp;kind=1</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 22 Apr 2022 03:45:14 GMT</pubDate>
             <content:encoded><![CDATA[성현시스템은 지문과 얼굴을 활용한 생체인증 및 모바일을 통한 물리보안솔루션과 인증단말기를 개발해 국내 기업 및 관공서에 공급하고 있다.]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/22042105ss.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[SECON & eGISEC 2022] 새눈, 번호통합으로 문제차량 지능형 검색 솔루션 업그레이드 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106139&amp;page=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106139&amp;page=1&amp;kind=3</guid>
-            <pubDate>Fri, 22 Apr 2022 03:45:14 GMT</pubDate>
-            <content:encoded><![CDATA[새눈은 스마트시티 다양한 분야 교통, 환경, 도시관리, IT 통신 분야 영상 관제를 위한 다양한 분야의 영상 솔루션을 개발하는 회사로 ‘문제차량 지능형 검...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/22042103ss.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[SECON & eGISEC 2022] 테르텐-코어스넷-엑스게이트, 각양각색 보안 솔루션 선봬 (보안뉴스 ─ 전체기사)]]></title>
@@ -406,6 +406,13 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/4-12(295).jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[SECON & eGISEC 2022] 케이사인의 보안솔루션, 블록체인 기술 바탕으로 유연성↑ (보안뉴스 ─ SECURITY)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106242&amp;page=1&amp;mkind=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106242&amp;page=1&amp;mkind=1&amp;kind=3</guid>
+            <pubDate>Fri, 22 Apr 2022 06:21:18 GMT</pubDate>
+            <content:encoded><![CDATA[케이사인은 다년간 축적된 우수한 암호 인증 기술이 활용된 인증 솔루션을 선보였다. ‘SECON &amp; eGISEC 2022’에서 전시한 솔루션은 케이사인의 모바일과 웹 브라우저 환경을 지원하고 국제 FIDO Alliance 표준 준수를 통해 안정성을 확보했다는 게 회사측 ...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[초고위험도 가진 칩셋 오류, 수천만 안드로이드 장비를 위협해 (보안뉴스 ─ SECURITY)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=106280&amp;page=1&amp;mkind=1&amp;kind=1</link>
             <guid>https://www.boannews.com/media/view.asp?idx=106280&amp;page=1&amp;mkind=1&amp;kind=1</guid>
@@ -516,13 +523,6 @@
             <guid>https://www.boannews.com/media/view.asp?idx=106264&amp;page=1&amp;mkind=1&amp;kind=3</guid>
             <pubDate>Fri, 22 Apr 2022 01:22:26 GMT</pubDate>
             <content:encoded><![CDATA[LG유플러스는 양자컴퓨터의 해킹 공격도 방어할 수 있는 양자내성암호 전용회선 서비스를 세계 최초로 출시한다고 밝혔다. 이동통신 3사 중 양자내성암호 이용약관 승인이 완료돼 정식 서비스를 출시하는 것은 이번이 처음이다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[SECON & eGISEC 2022] 시큐어가드테크놀러지, 손쉬운 보안 솔루션으로 경쟁력 높여 (보안뉴스 ─ SECURITY)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106209&amp;page=1&amp;mkind=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106209&amp;page=1&amp;mkind=1&amp;kind=3</guid>
-            <pubDate>Fri, 22 Apr 2022 01:22:26 GMT</pubDate>
-            <content:encoded><![CDATA[패스워드 관리 및 CCTV 패스워드 분야에서 시장점유율 1위를 유지하고 있다고 밝힌 시큐어가드테크놀러지는 ‘SECON &amp; eGISEC 2022’에서 대표 솔루션인 APPM 시리즈를 선보였다. 특히 APPM 시리즈는 각각의 솔루션을 따로 구축할 필요 없이 하나의 어플라이...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[2030년까지 미래차 전문인재 3만명 양성한다 (보안뉴스 ─ IT)]]></title>
@@ -1899,6 +1899,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/msit_033102_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[2021년 한 해, 제로데이 취약점 통한 공격이 폭발적으로 증가했다 (보안뉴스 ─ 국제)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106282&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106282&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
+            <pubDate>Fri, 22 Apr 2022 06:22:40 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/view.asp?idx=106282&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
+					
+					<img src="/media/upFiles2/2022/04/21753129_copy_295x190_1.jpg" alt="" class="news_img" height="70">
+					
+					<span class="news_txt">2021년 한 해, 제로데이 취약점 통한 공격이 폭발적으로 증가했다</span>
+					</a><br>
+					<a href="/media/view.asp?idx=106282&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">2021년, 사이버 공격자들은 역사상 가장 많은 제로데이 취약점을 발굴하고 익스플로잇 했다. 특히 마이크로소프트, 구글, 애플의 소프트웨어들에서 많은 제로데이 취...</a> <span class="news_writer">문가용 기자 | 2022년 04월 22일 15:06</span>]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/21753129_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[초고위험도 가진 칩셋 오류, 수천만 안드로이드 장비를 위협해 (보안뉴스 ─ 국제)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=106280&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=106280&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
@@ -2163,20 +2177,6 @@
 					</a><br>
 					<a href="/media/view.asp?idx=106157&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">스위스의 사이버 보안 업체인 프로대프트(PRODAFT)가 파이사(PYSA)라는 랜섬웨어 그룹을 18개월 동안 추적한 결과를 발표했다. 보안 외신 해커뉴스에 의하면...</a> <span class="news_writer">문가용 기자 | 2022년 04월 19일 11:49</span>]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/19665799_copy_295x190_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[미국, “라자루스가 악성 암호화폐 애플리케이션을 사용한다” (보안뉴스 ─ 국제)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106156&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106156&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
-            <pubDate>Tue, 19 Apr 2022 03:25:06 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/view.asp?idx=106156&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
-					
-					<img src="/media/upFiles2/2022/04/21278057_copy_295x190_1.jpg" alt="" class="news_img" height="70">
-					
-					<span class="news_txt">미국, “라자루스가 악성 암호화폐 애플리케이션을 사용한다”</span>
-					</a><br>
-					<a href="/media/view.asp?idx=106156&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">IT 외신 블리핑컴퓨터에 의하면 미국의 CISA, FBI, 재무부가 오늘 북한 APT 단체인 라자루스에 대한 새로운 경고문을 발표했다고 한다. 암호화폐와 블록체인...</a> <span class="news_writer">문가용 기자 | 2022년 04월 19일 11:47</span>]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/21278057_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[정보보호 상장기업 20개사, 2021년 매출액 분석해보니... 대부분 성장세 (보안뉴스 ─ 기획특집)]]></title>

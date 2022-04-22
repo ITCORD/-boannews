@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-04-22T05:38:15.370Z</updated>
+    <updated>2022-04-22T06:23:20.157Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[SECON & eGISEC 2022] 케이사인의 보안솔루션, 블록체인 기술 바탕으로 유연성↑]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=106242&amp;page=1&amp;mkind=1&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=106242&amp;page=1&amp;mkind=1&amp;kind=3"/>
+        <updated>2022-04-22T06:21:18.611Z</updated>
+        <content type="html"><![CDATA[케이사인은 다년간 축적된 우수한 암호 인증 기술이 활용된 인증 솔루션을 선보였다. ‘SECON &amp; eGISEC 2022’에서 전시한 솔루션은 케이사인의 모바일과 웹 브라우저 환경을 지원하고 국제 FIDO Alliance 표준 준수를 통해 안정성을 확보했다는 게 회사측 ...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[초고위험도 가진 칩셋 오류, 수천만 안드로이드 장비를 위협해]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=106280&amp;page=1&amp;mkind=1&amp;kind=1</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=106264&amp;page=1&amp;mkind=1&amp;kind=3"/>
         <updated>2022-04-22T01:22:26.706Z</updated>
         <content type="html"><![CDATA[LG유플러스는 양자컴퓨터의 해킹 공격도 방어할 수 있는 양자내성암호 전용회선 서비스를 세계 최초로 출시한다고 밝혔다. 이동통신 3사 중 양자내성암호 이용약관 승인이 완료돼 정식 서비스를 출시하는 것은 이번이 처음이다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[SECON & eGISEC 2022] 시큐어가드테크놀러지, 손쉬운 보안 솔루션으로 경쟁력 높여]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=106209&amp;page=1&amp;mkind=1&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=106209&amp;page=1&amp;mkind=1&amp;kind=3"/>
-        <updated>2022-04-22T01:22:26.707Z</updated>
-        <content type="html"><![CDATA[패스워드 관리 및 CCTV 패스워드 분야에서 시장점유율 1위를 유지하고 있다고 밝힌 시큐어가드테크놀러지는 ‘SECON &amp; eGISEC 2022’에서 대표 솔루션인 APPM 시리즈를 선보였다. 특히 APPM 시리즈는 각각의 솔루션을 따로 구축할 필요 없이 하나의 어플라이...]]></content>
     </entry>
 </feed>
