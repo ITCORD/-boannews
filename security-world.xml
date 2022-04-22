@@ -4,9 +4,17 @@
         <title>보안뉴스 ─ Security World</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 21 Apr 2022 23:19:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Apr 2022 01:24:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[종로구, 스마트 기술로 주민안전 지킨다]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106267&amp;mkind=5</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106267&amp;mkind=5</guid>
+            <pubDate>Fri, 22 Apr 2022 01:22:54 GMT</pubDate>
+            <content:encoded><![CDATA[종로구가 국토교통과학기술진흥원(KAIA)의 ‘AI(인공지능)·데이터 기반 스마트시티 통합 플랫폼 모델 개발 및 실증연구’ 지자체에 선정됨에 따라 올해 말까...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/4-67(295).jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[대한민국 항공보안협회, 제7회 항공보안 심포지엄 개...]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=106254&amp;mkind=5</link>
@@ -14,14 +22,6 @@
             <pubDate>Thu, 21 Apr 2022 08:23:08 GMT</pubDate>
             <content:encoded><![CDATA[대한민국 항공보안협회(회장 윤규식, 이하 항공보안협회)가 주관하고 시큐리티월드와 보안뉴스가 주최, 동곡기정이 후원하는 ‘제7회 항공보안 심포지엄’이 정부와...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/22042123ss.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[SECON & eGISEC 2022] 트루엔, 최...]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106152&amp;mkind=5</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106152&amp;mkind=5</guid>
-            <pubDate>Thu, 21 Apr 2022 08:23:08 GMT</pubDate>
-            <content:encoded><![CDATA[영상감시 플랫폼 전문기업으로 성장하고 있는 ‘트루엔’은  영상감시 장치의 제한적인 영상 분석 처리(Video Analysis)에서 딥 러닝 기반의 영상 처...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/22042121ss.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

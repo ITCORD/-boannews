@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=4</id>
     <title>보안뉴스 ─ SAFETY</title>
-    <updated>2022-04-21T23:19:27.193Z</updated>
+    <updated>2022-04-22T01:24:22.934Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[경기도, 광교 신청사에 재난안전상황실 구축]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=106220&amp;page=1&amp;mkind=4&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=106220&amp;page=1&amp;mkind=4&amp;kind=2"/>
+        <updated>2022-04-22T01:22:45.936Z</updated>
+        <content type="html"><![CDATA[경기도가 광교 신청사 이전에 맞춰 신청사 내에 재난안전상황실을 구축했다고 밝혔다. 광교 신청사 2층에 조성된 재난안전상황실은 기존 도청사 상황실보다 약 3.8배 확대된 723㎡ 규모로 조성됐다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[대전시, 불법 건축물·개발제한구역 위반 행위 인공지능으로 찾아낸다]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=106211&amp;page=1&amp;mkind=4&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=106211&amp;page=1&amp;mkind=4&amp;kind=2"/>
+        <updated>2022-04-22T01:22:45.938Z</updated>
+        <content type="html"><![CDATA[대전시는 전국 지자체 최초로 도시모니터링(변화 탐지) 분야에 인공지능(AI)을 도입해 도시계획, 개발제한구역관리에 활용한다고 밝혔다. 이번 ‘인공지능 기반의 도시 변화 모니터링’ 사업은 육안에 의존하던 기존 방식 대신 인공지능 분석 기법을 도입해 행정 업무를 개선하고 ...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[경북도, 사회재난 유형별 위기대응 매뉴얼 마련]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=106210&amp;page=1&amp;mkind=4&amp;kind=2</id>
@@ -109,19 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=105779&amp;page=1&amp;mkind=4&amp;kind=2"/>
         <updated>2022-04-16T09:16:31.311Z</updated>
         <content type="html"><![CDATA[보건복지부는 8번째 응급의료 전용 헬기(이하 닥터헬기) 배치 지역으로 제주도(배치 병원: 제주한라병원)가 선정됐다고 밝혔다. ‘응급의료 전용 헬기’는 응급의료 취약지역 응급환자의 신속한 항공 이송과 응급처치 등을 위해 운용되는 전담 헬기를 말한다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인천시, 사물인터넷 적용으로 농기계 사고 예방 나선다]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=105775&amp;page=1&amp;mkind=4&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=105775&amp;page=1&amp;mkind=4&amp;kind=2"/>
-        <updated>2022-04-05T09:17:31.675Z</updated>
-        <content type="html"><![CDATA[인천광역시는 본격적인 영농철을 맞아 트랙터, 경운기 등 농기계에 사물인터넷(IoT) 적용을 통한 농기계 교통사고와 농작업 사고의 사전 예방에 나섰다고 밝혔다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[익산시, 재난대응 우수기관 행안부장관 표창 수상]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=105773&amp;page=1&amp;mkind=4&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=105773&amp;page=1&amp;mkind=4&amp;kind=2"/>
-        <updated>2022-03-30T10:18:49.272Z</updated>
-        <content type="html"><![CDATA[익산시가 행정안전부로부터 재난대응 우수기관으로 선정되는 쾌거를 거뒀다. 시는 지난 25일 실전 재난 대응 역량과 유관기관 협업체계 강화에 대한 우수성을 인정받아 재난대응 우수기관으로 행정안전부 장관 표창을 수상했다.]]></content>
     </entry>
 </feed>
