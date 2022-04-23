@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-04-23T01:17:45.248Z</updated>
+    <updated>2022-04-23T03:01:53.917Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[SKT, 보이스피싱 예방에 ‘진심’… 1년간 통화 시도 1.5만여회 차단]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=106287&amp;page=1&amp;mkind=1&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=106287&amp;page=1&amp;mkind=1&amp;kind=2"/>
+        <updated>2022-04-23T02:59:37.280Z</updated>
+        <content type="html"><![CDATA[SK텔레콤이 서울경찰청과 함께 선보인 ‘보이스피싱 번호 차단 서비스’를 통해 지난 1년간 1만5,737개의 보이스피싱 전화 연결을 차단했다며 앞으로도 고객 보호를 위한 노력에 최선을 다하겠다고 밝혔다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2021년 한 해, 제로데이 취약점 통한 공격이 폭발적으로 증가했다]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=106282&amp;page=1&amp;mkind=1&amp;kind=1</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=106270&amp;page=1&amp;mkind=1&amp;kind=2"/>
         <updated>2022-04-22T01:22:26.701Z</updated>
         <content type="html"><![CDATA[경찰대학과 유엔대테러센터(UNOCT), 국가보안학회, 한미동맹재단이 주최하고 경찰청과 국무조정실 대테러센터가 후원한 ‘2022 대테러 고위급 국제 심포지엄’이 제21회 세계보안엑스포의 동시개최 행사로 4월 20일 일산 킨텍스 제1전시장 그랜드볼룸에서 개최됐다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[금융보안원, ‘제6기 금융보안 최고위과정’ 개설·운영]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=106269&amp;page=1&amp;mkind=1&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=106269&amp;page=1&amp;mkind=1&amp;kind=2"/>
-        <updated>2022-04-22T01:22:26.702Z</updated>
-        <content type="html"><![CDATA[금융보안원이 ‘제6기 금융보안 최고위과정(FSP)’ 입교식을 지난 4월 21일(목) 여의도 켄싱턴 호텔에서 개최했다고 밝혔다. 2017년부터 개설·운영되고 있는 ‘금융보안 최고위과정’은 디지털 대전환 시대에 필요한 경영진(C-Level)의 금융보안 전문역량을 제고하고 ...]]></content>
     </entry>
 </feed>
