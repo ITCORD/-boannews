@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-04-23T08:22:38.759Z</updated>
+    <updated>2022-04-23T09:18:55.872Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[시스템 관리자들의 불만사항 3가지, 어떻게 해결해야 하나]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=106251&amp;page=1&amp;mkind=1&amp;kind=4</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=106251&amp;page=1&amp;mkind=1&amp;kind=4"/>
+        <updated>2022-04-23T09:16:12.588Z</updated>
+        <content type="html"><![CDATA[IT 산업에서 10년 이상 근무해 온 사람들 대부분이 그렇겠지만 필자도 레딧의 시스템 관리자용 게시판을 즐겨 사용했다. 여기서 IT 관리자들은 우리의 업무 환경과 관련된 진지하고도 속상하고도 우리만 아는 이야기를 솔직하게 나눴다. IT 분야에 있지 않은 사람들에게는 이...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SKT, 보이스피싱 예방에 ‘진심’… 1년간 통화 시도 1.5만여회 차단]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=106287&amp;page=1&amp;mkind=1&amp;kind=2</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=106271&amp;page=1&amp;mkind=1&amp;kind=3"/>
         <updated>2022-04-22T03:45:53.544Z</updated>
         <content type="html"><![CDATA[광범위하고 자동화된 통합 사이버보안 분야의 글로벌 리더인 포티넷코리아(대표 조원균)는 4월 22일, IDC가 최근 발표한 ‘2021년 4분기 보안 어플라이언스 트랙커(Worldwide Quarterly Security Appliance Tracker)’에서 9년 연속 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[SECON & eGISEC 2022] 대테러 고위급 국제 심포지엄 성료]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=106270&amp;page=1&amp;mkind=1&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=106270&amp;page=1&amp;mkind=1&amp;kind=2"/>
-        <updated>2022-04-22T01:22:26.701Z</updated>
-        <content type="html"><![CDATA[경찰대학과 유엔대테러센터(UNOCT), 국가보안학회, 한미동맹재단이 주최하고 경찰청과 국무조정실 대테러센터가 후원한 ‘2022 대테러 고위급 국제 심포지엄’이 제21회 세계보안엑스포의 동시개최 행사로 4월 20일 일산 킨텍스 제1전시장 그랜드볼룸에서 개최됐다.]]></content>
     </entry>
 </feed>
