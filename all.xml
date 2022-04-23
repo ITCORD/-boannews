@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 23 Apr 2022 12:30:03 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Apr 2022 13:26:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -365,20 +365,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/seocn&egisec_2022(20).jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[미리보는 SECON & eGISEC 2022] 송우인포텍·스마티·시정 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106040&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106040&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
-            <pubDate>Fri, 22 Apr 2022 03:45:34 GMT</pubDate>
-            <content:encoded><![CDATA[물리보안과 사이버보안을 아우르는 국내 최대 통합보안 전시회인 제21회 세계보안엑스포(SECON &amp; eGISEC 2022)는 4월 20일부터 22일까지 3일간 일산...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/secon-c(0).jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[웹엑스, 음소거 된 마이크로폰도 모니터링 한다 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=106155&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=106155&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Fri, 22 Apr 2022 07:20:25 GMT</pubDate>
             <content:encoded><![CDATA[보안 외신 시큐리티위크에 의하면 시스코가 개발한 영상 회의 솔루션인 웹엑스(Webex)가 마이크로폰을 항상 모니터링 한다는 사실이 연구를 통해 드러났다고 한다. ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/21035269_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[미리보는 SECON & eGISEC 2022] 송우인포텍·스마티·시정 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106040&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106040&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
+            <pubDate>Fri, 22 Apr 2022 03:45:34 GMT</pubDate>
+            <content:encoded><![CDATA[물리보안과 사이버보안을 아우르는 국내 최대 통합보안 전시회인 제21회 세계보안엑스포(SECON &amp; eGISEC 2022)는 4월 20일부터 22일까지 3일간 일산...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/secon-c(0).jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[AWS의 로그4j 취약점 패치, 보안 오히려 약화시켜 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
