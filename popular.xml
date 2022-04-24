@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Apr 2022 13:28:11 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Apr 2022 14:18:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -144,14 +144,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/k-ict-c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[웹엑스, 음소거 된 마이크로폰도 모니터링 한다]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106155&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106155&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Fri, 22 Apr 2022 07:20:25 GMT</pubDate>
-            <content:encoded><![CDATA[보안 외신 시큐리티위크에 의하면 시스코가 개발한 영상 회의 솔루션인 웹엑스(Webex)가 마이크로폰을 항상 모니터링 한다는 사실이 연구를 통해 드러났다고 한다. ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/21035269_copy_295x190_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[SECON & eGISEC 2022] 한국테러학회 ‘2022 대테러 콘퍼런스’ 개최]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=106255&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=106255&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
@@ -166,6 +158,14 @@
             <pubDate>Sun, 24 Apr 2022 13:25:10 GMT</pubDate>
             <content:encoded><![CDATA[2021년, 사이버 공격자들은 역사상 가장 많은 제로데이 취약점을 발굴하고 익스플로잇 했다. 특히 마이크로소프트, 구글, 애플의 소프트웨어들에서 많은 제로데이 취...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/21753129_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[웹엑스, 음소거 된 마이크로폰도 모니터링 한다]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106155&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106155&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Fri, 22 Apr 2022 07:20:25 GMT</pubDate>
+            <content:encoded><![CDATA[보안 외신 시큐리티위크에 의하면 시스코가 개발한 영상 회의 솔루션인 웹엑스(Webex)가 마이크로폰을 항상 모니터링 한다는 사실이 연구를 통해 드러났다고 한다. ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/21035269_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
