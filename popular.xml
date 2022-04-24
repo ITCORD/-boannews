@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Apr 2022 10:20:34 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Apr 2022 11:16:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -136,6 +136,14 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/seocn&egisec_2022(20).jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[K-ICT 스타트업 보안 솔루션, 기술력+차별화+참신함으로 ‘시선강탈’]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106290&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106290&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
+            <pubDate>Sun, 24 Apr 2022 09:16:31 GMT</pubDate>
+            <content:encoded><![CDATA[제21회 세계보안엑스포 ‘K-ICT 스타트업 공동 홍보관’에선 보안 스타트업들의 우수한 기술력과 차별화된 보안기능이 돋보였다. 인터넷·산업제어망에서 이상행위를 동...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/k-ict-c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[웹엑스, 음소거 된 마이크로폰도 모니터링 한다]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=106155&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=106155&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
@@ -150,14 +158,6 @@
             <pubDate>Sat, 23 Apr 2022 06:20:27 GMT</pubDate>
             <content:encoded><![CDATA[IT 외신 더레지스터에 의하면 아마존이 얼마 전 AWS 서비스에서 발견한 로그4j(Log4j)의 취약점을 패치하려다가 오히려 보안을 약화시켰다고 한다. 패치로 인...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/21756786_copy_295x190_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[K-ICT 스타트업 보안 솔루션, 기술력+차별화+참신함으로 ‘시선강탈’]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106290&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106290&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
-            <pubDate>Sun, 24 Apr 2022 09:16:31 GMT</pubDate>
-            <content:encoded><![CDATA[제21회 세계보안엑스포 ‘K-ICT 스타트업 공동 홍보관’에선 보안 스타트업들의 우수한 기술력과 차별화된 보안기능이 돋보였다. 인터넷·산업제어망에서 이상행위를 동...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/k-ict-c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[SECON & eGISEC 2022] 한국테러학회 ‘2022 대테러 콘퍼런스’ 개최]]></title>
