@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 24 Apr 2022 11:16:37 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Apr 2022 12:29:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -86,6 +86,14 @@
             <pubDate>Fri, 22 Apr 2022 03:45:14 GMT</pubDate>
             <content:encoded><![CDATA[보안 외신 시큐리티위크는 구글과 맨디언트가 최근 증가하고 있는 제로데이 취약점 익스플로잇 활동에 대해 각기 별도로 경고했다고 보도했다. 구글이 조사한 바에...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/21753133_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[화이트스캔 안은희 대표, ‘2022년 과학·정보의 날 기념식’  국무총리 표창 수상]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106294&amp;page=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106294&amp;page=1&amp;kind=3</guid>
+            <pubDate>Sun, 24 Apr 2022 12:26:42 GMT</pubDate>
+            <content:encoded><![CDATA[과학기술정보통신부가 주최하고 한국정보기술연구원이 주관하는 차세대 보안리더 양성프로그램 ‘Best of the Best(이하 BoB)’ 4기에서 그랑프리 우...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/20220422white-s.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[[부고] 최승락 케이사인 대표 부친상]]></title>
@@ -235,14 +243,6 @@
             <pubDate>Fri, 22 Apr 2022 03:45:14 GMT</pubDate>
             <content:encoded><![CDATA[제21회 세계보안엑스포(SECON &amp; eGISEC 2022) 동시개최 행사로 진행된 이번 콘퍼런스에서는 강욱 경찰대 교수의 ‘CCTV통합관제시스템의 범죄 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/20220422CCTV-SM.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[SECON & eGISEC 2022]  ‘물리보안 통합플랫폼 콘퍼런스 2022’ 성료]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106275&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106275&amp;page=1&amp;kind=2</guid>
-            <pubDate>Fri, 22 Apr 2022 03:45:14 GMT</pubDate>
-            <content:encoded><![CDATA[제21회 세계보안엑스포(SECON &amp; eGISEC 2022) 동시개최 행사로 진행된 물리보안 통합플랫폼 콘퍼런스에서는 물리보안 통합플랫폼 과제 경과 및 계...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/20220422PLAT-S.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
