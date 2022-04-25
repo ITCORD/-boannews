@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-04-25T07:20:03.662Z</updated>
+    <updated>2022-04-25T08:28:18.738Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[중앙대학교 보안대학원, 2022학년도 후반기 석사과정 신입생 모집]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=106309&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=106309&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-04-25T08:25:35.383Z</updated>
+        <content type="html"><![CDATA[중앙대학교 보안대학원이 2022학년도 후반기 석사과정 신입생(4학기/2년 과정)을 모집한다. 이 과정은 5G 시대의 산업기술 보호와 산업간 융합 시대의 차세대 보안 리더 양성을 위한 교육과정으로 국내 최고의 보안전문가 양성을 목적으로 한다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[한국정보보호학회 칼럼] 메타버스와 보안]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=106299&amp;page=1&amp;mkind=1&amp;kind=6</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=106287&amp;page=1&amp;mkind=1&amp;kind=2"/>
         <updated>2022-04-23T02:59:37.280Z</updated>
         <content type="html"><![CDATA[SK텔레콤이 서울경찰청과 함께 선보인 ‘보이스피싱 번호 차단 서비스’를 통해 지난 1년간 1만5,737개의 보이스피싱 전화 연결을 차단했다며 앞으로도 고객 보호를 위한 노력에 최선을 다하겠다고 밝혔다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021년 한 해, 제로데이 취약점 통한 공격이 폭발적으로 증가했다]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=106282&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=106282&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-04-23T01:15:14.458Z</updated>
-        <content type="html"><![CDATA[2021년, 사이버 공격자들은 역사상 가장 많은 제로데이 취약점을 발굴하고 익스플로잇 했다. 특히 마이크로소프트, 구글, 애플의 소프트웨어들에서 많은 제로데이 취약점들이 나온 것으로 조사됐다. 제로데이 공격을 주로 실시한 건 국가의 지원을 받는 해킹 단체들이지만, 금전...]]></content>
     </entry>
 </feed>
