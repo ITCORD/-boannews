@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=2</id>
     <title>보안뉴스 ─ IT</title>
-    <updated>2022-04-25T05:19:57.347Z</updated>
+    <updated>2022-04-25T06:24:59.811Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[산업부, ‘산업데이터 계약 가이드라인 토론회’ 개최]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=106286&amp;page=1&amp;mkind=2&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=106286&amp;page=1&amp;mkind=2&amp;kind=2"/>
+        <updated>2022-04-25T06:23:08.507Z</updated>
+        <content type="html"><![CDATA[산업통상자원부는 지난 22일 ‘산업데이터 계약 가이드라인 토론회’를 개최했다. 이날 토론회는 산업데이터 계약 가이드라인 제정 상황을 중간 점검하고, 해외 입법 동향과 그에 따른 국내 시사점을 논의하기 위해 마련됐다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[발전 분야 오염 물질, 사물인터넷 기반으로 최첨단 관리한다]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=106285&amp;page=1&amp;mkind=2&amp;kind=2</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=106219&amp;page=1&amp;mkind=2&amp;kind=2"/>
         <updated>2022-04-21T01:25:47.165Z</updated>
         <content type="html"><![CDATA[한국지능정보사회진흥원(이하 NIA)은 지난 20일 ‘새정부 디지털 혁신 정책과 제도적 과제’를 주제로 세미나를 개최했다고 밝혔다. 본 세미나에서는 우리나라의 정보화 발전 성과를 돌아보며, 디지털 대전환의 세계적 추세에 따른 정부의 법·정책적 과제에 대해 논의하는 시간을...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NIA, ‘K-디지털 챌린지: NET 챌린지 캠프 시즌 9’ 개최]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=106218&amp;page=1&amp;mkind=2&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=106218&amp;page=1&amp;mkind=2&amp;kind=2"/>
-        <updated>2022-04-21T01:25:47.170Z</updated>
-        <content type="html"><![CDATA[한국지능정보사회진흥원(NIA)은 지난 20일부터 ‘NET 챌린지 캠프 시즌 9’ 참가자를 모집한다. ‘NET 챌린지 캠프’는 대학생·대학원생과 기업, 연구기관이 초연결지능형연구개발망(KOREN)을 이용해 네트워크 기반 혁신 서비스를 개발하는 경진대회다.]]></content>
     </entry>
 </feed>

@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-04-25T05:19:57.359Z</updated>
+    <updated>2022-04-25T06:24:59.810Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[KISA 경기정보보호지원센터, ‘경기정보보안협의회’ 발족]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=106312&amp;page=1&amp;mkind=1&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=106312&amp;page=1&amp;mkind=1&amp;kind=2"/>
+        <updated>2022-04-25T06:22:58.605Z</updated>
+        <content type="html"><![CDATA[한국인터넷진흥원(KISA, 원장 이원태)은 경기정보보호지원센터를 중심으로 유관기관, 민간기업 및 학계 전문가 등 총 17곳과 협업체계를 구축하기 위한 ‘경기정보보안협의회’를 발족했다고 4월 25일(월) 밝혔다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[세상이 알고 있는 7번째 ICS 멀웨어, 성공적인 방어 사례 남기다]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=106311&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=106311&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-04-25T06:22:58.607Z</updated>
+        <content type="html"><![CDATA[최근 미국 산업 현장에서 두 개의 ICS 멀웨어 프레임워크가 발견됐다. 파이프드림(Pipedream) 혹은 인컨트롤러(Incontroller)라고 불리는 악성 요소들로, ICS 보안 전문가들은 이 멀웨어를 실제 공격 전에 발견했다는 것이 “꽤나 커다란 보안 성공 사례”...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[사이버 공격으로 혼란에 빠진 코스타리카 정부]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=106307&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=106307&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-04-25T06:22:58.609Z</updated>
+        <content type="html"><![CDATA[2주 전 랜섬웨어에 당해 마비된 코스타리카 정부 IT 시스템이 아직도 복구되지 못하고 있다고 보안 외신 시큐리티위크가 보도했다. 공격자들은 콘티(Conti)라는 유명 갱단이라고 알려져 있지만, 아직 코스타리카 정부 측에서 공식적으로 확인한 내용은 아니다. 정부는 공격자...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘국토안보부’ 해킹 대회 통해 122개 보안 취약점 발굴돼]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=106305&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=106305&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-04-25T06:22:58.610Z</updated>
+        <content type="html"><![CDATA[IT 외신 블리핑컴퓨터에 의하면 미국 국토안보부가 진행한 버그바운티 프로그램인 ‘핵 DHS(Hack DHS)’를 통해 122개의 보안 취약점이 새롭게 발굴됐고, 이 중 27개가 초고위험도에 속한 것으로 분류됐다고 한다. 또한 450명의 해커들에게 12만 5600 달러의...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[티모바일, “랩서스 갱단이 내부 도구와 소스코드에 접근했다”]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=106303&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=106303&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-04-25T06:22:58.611Z</updated>
+        <content type="html"><![CDATA[보안 외신 해커뉴스에 의하면 대형 통신사인 티모바일(T-Mobile)이 지난 3월 랩서스(Lapsus$)라는 해킹 단체에 의해 침해 사고를 당했을 때, 내부의 민감한 자료들에도 영향이 있었다는 사실을 인정했다고 한다. 심지어 침해가 한 번만 일어난 것도 아니고 여러 번...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[과학기술·정보통신 진흥 유공자 162명 정부 포상, 정보보호 분야 누가 받았나]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=106295&amp;page=1&amp;mkind=1&amp;kind=2</id>
@@ -88,40 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=106243&amp;page=1&amp;mkind=1&amp;kind=3"/>
         <updated>2022-04-23T01:15:14.459Z</updated>
         <content type="html"><![CDATA[SSR과 지란지교시큐리티가 ‘SECON &amp; eGISEC 2022’에서 손을 맞잡고 각사의 대표 보안 솔루션으로 참관객들의 호응을 얻었다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[SECON & eGISEC 2022] 케이사인의 보안솔루션, 블록체인 기술 바탕으로 유연성↑]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=106242&amp;page=1&amp;mkind=1&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=106242&amp;page=1&amp;mkind=1&amp;kind=3"/>
-        <updated>2022-04-22T06:21:18.611Z</updated>
-        <content type="html"><![CDATA[케이사인은 다년간 축적된 우수한 암호 인증 기술이 활용된 인증 솔루션을 선보였다. ‘SECON &amp; eGISEC 2022’에서 전시한 솔루션은 케이사인의 모바일과 웹 브라우저 환경을 지원하고 국제 FIDO Alliance 표준 준수를 통해 안정성을 확보했다는 게 회사측 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[초고위험도 가진 칩셋 오류, 수천만 안드로이드 장비를 위협해]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=106280&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=106280&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-04-22T03:45:53.517Z</updated>
-        <content type="html"><![CDATA[보안 외신 해커뉴스에 따르면 퀄컴과 미디어텍 칩셋 내 오디오 디코더 요소에서 세 가지 위험한 취약점이 발견됐다고 한다. 이 취약점들을 익스플로잇 하는 데 성공할 경우 공격자는 원격에서 감염된 장비 내 미디어와 오디오 기록들에 접근할 수 있게 된다고 한다. 문제의 오디오...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[SECON & eGISEC 2022] 휴네시온, 보안성과 편의성 ‘두 마리 토끼 잡았다’]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=106240&amp;page=1&amp;mkind=1&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=106240&amp;page=1&amp;mkind=1&amp;kind=3"/>
-        <updated>2022-04-22T03:45:53.518Z</updated>
-        <content type="html"><![CDATA[망연계 솔루션 ‘i-oneNet’ 7년 연속 시장 점유율 1위를 내세우고 있는 휴네시온이 ‘SECON &amp; eGISEC 2022’에서 망연계 솔루션 아이원넷(i-oneNet)을 전시하며 관심을 끌었다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[도커 서버, 암호화폐 채굴 멀웨어에 계속해서 감염되고 있어]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=106279&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=106279&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-04-22T03:45:53.520Z</updated>
-        <content type="html"><![CDATA[IT 외신 블리핑컴퓨터에 의하면 현재 모네로라는 암호화폐를 채굴하기 위한 대규모 캠페인이 진행되고 있다고 한다. 이 캠페인의 특징은 리눅스 서버 내 도커 API를 표적으로 삼고 있다는 것이다. 캠페인의 배후에는 레몬덕(Lemon_Duck) 봇넷 운영자들이 있는 것으로 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[SECON & eGISEC 2022] 엔피코어, AI 기술 접목한 대표 솔루션 ‘눈길’]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=106237&amp;page=1&amp;mkind=1&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=106237&amp;page=1&amp;mkind=1&amp;kind=3"/>
-        <updated>2022-04-22T03:45:53.521Z</updated>
-        <content type="html"><![CDATA[AI기반 신·변종 악성코드(APT) 대응솔루션 전문기업 엔피코어가 ‘SECON &amp; eGISEC 2022’를 통해 국내·국제 CC(EAL2)와 GS인증을 받은 Network APT, Email APT, File APT, 통합관리 솔루션, EDR 등 AI 기술을 접목한 대...]]></content>
     </entry>
 </feed>

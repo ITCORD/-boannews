@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 25 Apr 2022 05:19:57 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2022 06:24:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,14 +46,6 @@
             <pubDate>Wed, 20 Apr 2022 07:17:10 GMT</pubDate>
             <content:encoded><![CDATA[유명 앱 개발 프레임워크인 스프링(Spring)에서 보안 취약점 ‘스프링4셸’이 발견돼 패치 이슈가 불거진 가운데, 최근 로그4셸과 함께 오픈소스 취약점에 대한 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/ciso_041900.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[북한의 라자루스, 최근 화학 관련 조직들 노리기 시작했다]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106111&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106111&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Tue, 19 Apr 2022 09:17:20 GMT</pubDate>
-            <content:encoded><![CDATA[북한의 APT 단체인 라자루스(Lazarus)가 가짜 스카웃 및 구인 메일을 보내 사이버 공격을 실시하고 있다. 이번 캠페인의 대상은 라자루스가 지난 몇 년 동안...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/20139784_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[테크칼럼] 내부 보안 위협, 접근통제 솔루션으로 예측하고 대응한다]]></title>
@@ -166,6 +158,14 @@
             <pubDate>Sun, 24 Apr 2022 23:16:56 GMT</pubDate>
             <content:encoded><![CDATA[IT 외신 더레지스터에 의하면 아마존이 얼마 전 AWS 서비스에서 발견한 로그4j(Log4j)의 취약점을 패치하려다가 오히려 보안을 약화시켰다고 한다. 패치로 인...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/21756786_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[웹엑스, 음소거 된 마이크로폰도 모니터링 한다]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106155&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106155&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Mon, 25 Apr 2022 06:22:48 GMT</pubDate>
+            <content:encoded><![CDATA[보안 외신 시큐리티위크에 의하면 시스코가 개발한 영상 회의 솔루션인 웹엑스(Webex)가 마이크로폰을 항상 모니터링 한다는 사실이 연구를 통해 드러났다고 한다. ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/21035269_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
