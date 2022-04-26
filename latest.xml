@@ -4,9 +4,33 @@
         <title>보안뉴스 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Apr 2022 01:25:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Apr 2022 03:24:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[풍력 발전소와 관련 기업들 노리는 해커들]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106346&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106346&amp;page=1&amp;kind=1</guid>
+            <pubDate>Tue, 26 Apr 2022 03:21:41 GMT</pubDate>
+            <content:encoded><![CDATA[최근 유럽의 풍력 에너지 산업 내 기업들이 해커들의 표적이 되고 있다는 소식을 IT 외신 피씨맥이 전했다. 문제의 기업은 Nordex SE와 Deutsch...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/21023314_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[구글의 바이러스토탈에서 고위험도 원격 코드 실행 취약점 발견돼]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106345&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106345&amp;page=1&amp;kind=1</guid>
+            <pubDate>Tue, 26 Apr 2022 03:21:41 GMT</pubDate>
+            <content:encoded><![CDATA[보안 외신 해커뉴스는 바이러스토탈(VirusTotal)이라는 백신 엔진 플랫폼에서 고위험도 취약점이 발견됐다고 보도했다. 이 취약점을 익스플로잇 할 경우 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/19972535_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이란, “공공 서비스 겨냥한 대규모 사이버 공격 무력화시켜”]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106344&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106344&amp;page=1&amp;kind=1</guid>
+            <pubDate>Tue, 26 Apr 2022 03:21:41 GMT</pubDate>
+            <content:encoded><![CDATA[보안 전문 블로그 시큐리티어페어즈에 의하면 이란 정부가 국영 방송을 통해 공공 서비스를 겨냥한 대규모 사이버 공격을 성공적으로 무력화시켰다고 발표했다고 한...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/21041806_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[퍼블릭·하이브리드·프라이빗 클라우드, 각 환경별 보안전략 수립방안은?]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=106298&amp;page=1&amp;kind=3</link>
@@ -64,28 +88,34 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/21528452_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[‘국토안보부’ 해킹 대회 통해 122개 보안 취약점 발굴돼]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106305&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106305&amp;page=1&amp;kind=1</guid>
-            <pubDate>Mon, 25 Apr 2022 03:14:45 GMT</pubDate>
-            <content:encoded><![CDATA[IT 외신 블리핑컴퓨터에 의하면 미국 국토안보부가 진행한 버그바운티 프로그램인 ‘핵 DHS(Hack DHS)’를 통해 122개의 보안 취약점이 새롭게 발굴...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/17856005_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[카이스트, 전원 공급 없이도 모든 정보가 복원·작동되는 비휘발성 컴퓨터 최초 개발]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106327&amp;page=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106327&amp;page=1&amp;kind=3</guid>
+            <pubDate>Tue, 26 Apr 2022 03:21:41 GMT</pubDate>
+            <content:encoded><![CDATA[카이스트 전기및전자공학부 정명수 교수 연구팀(컴퓨터 아키텍처 및 메모리 시스템 연구실)이 컴퓨터의 시간을 멈추는 하드웨어/소프트웨어 기술, ‘경량화된 비휘...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[티모바일, “랩서스 갱단이 내부 도구와 소스코드에 접근했다”]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106303&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106303&amp;page=1&amp;kind=1</guid>
-            <pubDate>Mon, 25 Apr 2022 03:14:45 GMT</pubDate>
-            <content:encoded><![CDATA[보안 외신 해커뉴스에 의하면 대형 통신사인 티모바일(T-Mobile)이 지난 3월 랩서스(Lapsus$)라는 해킹 단체에 의해 침해 사고를 당했을 때, 내...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/20959793_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[국토부, 한-미 항공 수요 회복에 대비한 항공보안 협력 강화 추진]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106326&amp;page=1&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106326&amp;page=1&amp;kind=2</guid>
+            <pubDate>Tue, 26 Apr 2022 03:21:41 GMT</pubDate>
+            <content:encoded><![CDATA[국토교통부는 지난 21~22일 화상 회의로 진행된 ‘제10차 한-미 항공보안 협력회의’에서 미국 교통보안청(TSA)과 포스트 코로나 시대 항공 수요 회복에...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[과학기술·정보통신 진흥 유공자 162명 정부 포상, 정보보호 분야 누가 받았나]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106295&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106295&amp;page=1&amp;kind=2</guid>
-            <pubDate>Sun, 24 Apr 2022 15:16:54 GMT</pubDate>
-            <content:encoded><![CDATA[‘2022년 과학·정보통신의 날’ 기념식에서 정부 포상을 수여 받은 162명 가운데 정보보호 및 보안 분야에 종사하거나 관련되어 있는 수상자들은 누가 있을...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/20220423awards-s.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[CJ올리브네트웍스, AI·AR 신기술로 산업안전 지킨다]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106328&amp;page=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106328&amp;page=1&amp;kind=3</guid>
+            <pubDate>Tue, 26 Apr 2022 03:21:41 GMT</pubDate>
+            <content:encoded><![CDATA[CJ올리브네트웍스가 산업 현장의 중대재해 예방과 작업자의 안전보건을 위한 산업안전 솔루션 3종을 개발했다. 올해 초 중대재해기업처벌법 시행으로 운영 및 관...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/4-86(295).jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SK쉴더스 IPO 추진, 5월 19일 상장한다]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106343&amp;page=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106343&amp;page=1&amp;kind=3</guid>
+            <pubDate>Tue, 26 Apr 2022 03:21:41 GMT</pubDate>
+            <content:encoded><![CDATA[SK스퀘어 산하 라이프 케어 플랫폼 기업 SK쉴더스(대표이사 박진효)가 26일 기업공개(IPO) 관련 온라인 기자간담회를 개최하고 상장 후 비전과 사업 계...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/sks_042601_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[대전시, 스마트기술 활용 지역문제 해결한다]]></title>
@@ -205,38 +235,6 @@
             <pubDate>Mon, 25 Apr 2022 07:16:58 GMT</pubDate>
             <content:encoded><![CDATA[한국인터넷진흥원(KISA, 원장 이원태)은 ‘2022년 제2기 KISA 대학생 영상 서포터즈’ 발대식을 나주 본원에서 개최했다고 4월 25일(월) 밝혔다....]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/kisa_042504_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SR, 중대시민재해 ZERO 응원 댓글이벤트 열어]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106304&amp;page=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106304&amp;page=1&amp;kind=3</guid>
-            <pubDate>Mon, 25 Apr 2022 07:16:58 GMT</pubDate>
-            <content:encoded><![CDATA[SRT 운영사 SR(대표이사 이종국)은 4월 철도교통안전의 달을 맞아 중대시민재해 예방 SNS 댓글 이벤트를 개최한다고 밝혔다.]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/SR-C.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[중앙대학교 보안대학원, 2022학년도 후반기 석사과정 신입생 모집]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106309&amp;page=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106309&amp;page=1&amp;kind=3</guid>
-            <pubDate>Tue, 26 Apr 2022 01:22:53 GMT</pubDate>
-            <content:encoded><![CDATA[중앙대학교 보안대학원이 2022학년도 후반기 석사과정 신입생(4학기/2년 과정)을 모집한다. 이 과정은 5G 시대의 산업기술 보호와 산업간 융합 시대의 차...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/jungang-c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[비전AI 전문기업 인텔리빅스, 엔비디아 메트로폴리스 파트너사에 선정]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106300&amp;page=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106300&amp;page=1&amp;kind=3</guid>
-            <pubDate>Mon, 25 Apr 2022 06:22:39 GMT</pubDate>
-            <content:encoded><![CDATA[비전AI 전문 기업 인텔리빅스(대표 장정훈)가 ‘엔비디아 메트로폴리스(Metropolis)’에 선정됐다고 밝혔다. 엔비디아 메트로폴리스는 광범위한 산업 전...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/22042501ss.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스토리지안, SECON & eGISEC 2022에서 데이터 유출방지 시스템 선보여]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106306&amp;page=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106306&amp;page=1&amp;kind=3</guid>
-            <pubDate>Mon, 25 Apr 2022 06:22:39 GMT</pubDate>
-            <content:encoded><![CDATA[정보기술(IT) 보안업체 스토리지안은 일산 킨텍스에서 개최된 ‘세계 보안 엑스포(SECON &amp; eGISEC 2022)’에서 하드웨어 기반의 데이터 유출 방...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/story_042501_main.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
