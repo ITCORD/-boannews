@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Apr 2022 03:24:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Apr 2022 04:32:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -96,14 +96,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/21753129_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[미리보는 SECON & eGISEC 2022] 포드림·미티어]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106158&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106158&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
-            <pubDate>Fri, 22 Apr 2022 03:45:34 GMT</pubDate>
-            <content:encoded><![CDATA[물리보안과 사이버보안을 아우르는 국내 최대 통합보안 전시회인 제21회 세계보안엑스포(SECON &amp; eGISEC 2022)는 4월 20일부터 22일까지 3일간 일산...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/seocn&egisec_2022(20).jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[AWS의 로그4j 취약점 패치, 보안 오히려 약화시켜]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=106236&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=106236&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
@@ -136,20 +128,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/20220422CCTV-SM.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[SKT, 보이스피싱 예방에 ‘진심’… 1년간 통화 시도 1.5만여회 차단]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106287&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106287&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
-            <pubDate>Tue, 26 Apr 2022 03:21:51 GMT</pubDate>
-            <content:encoded><![CDATA[SK텔레콤이 서울경찰청과 함께 선보인 ‘보이스피싱 번호 차단 서비스’를 통해 지난 1년간 1만5,737개의 보이스피싱 전화 연결을 차단했다며 앞으로도 고객 보호를...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/4-72(295).jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[과학기술·정보통신 진흥 유공자 162명 정부 포상, 정보보호 분야 누가 받았나]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=106295&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=106295&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
             <pubDate>Tue, 26 Apr 2022 03:21:51 GMT</pubDate>
             <content:encoded><![CDATA[‘2022년 과학·정보통신의 날’ 기념식에서 정부 포상을 수여 받은 162명 가운데 정보보호 및 보안 분야에 종사하거나 관련되어 있는 수상자들은 누가 있을까? &amp;...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/20220423awards-s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SKT, 보이스피싱 예방에 ‘진심’… 1년간 통화 시도 1.5만여회 차단]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106287&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106287&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
+            <pubDate>Tue, 26 Apr 2022 03:21:51 GMT</pubDate>
+            <content:encoded><![CDATA[SK텔레콤이 서울경찰청과 함께 선보인 ‘보이스피싱 번호 차단 서비스’를 통해 지난 1년간 1만5,737개의 보이스피싱 전화 연결을 차단했다며 앞으로도 고객 보호를...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/4-72(295).jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[산업부, ‘산업데이터 계약 가이드라인 토론회’ 개최]]></title>
@@ -165,6 +157,14 @@
             <pubDate>Tue, 26 Apr 2022 03:21:51 GMT</pubDate>
             <content:encoded><![CDATA[선박해양플랜트연구소(KRISO)는 지난 22일 여수광양항만공사 및 국립목포해양대학교와 산·학·연 공동 협약을 통해 광양항 발전과 기업 맞춤형 인재 양성, 자동화 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/4-75(295).jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[발전 분야 오염 물질, 사물인터넷 기반으로 최첨단 관리한다]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106285&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106285&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
+            <pubDate>Tue, 26 Apr 2022 04:29:44 GMT</pubDate>
+            <content:encoded><![CDATA[환경부 소속 국립환경과학원은 한국서부발전과 사물인터넷(IoT)을 활용한 통합관리사업장의 환경관리체계 구축을 위해 지난 22일 업무협약을 체결했다.]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/4-70(295).jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

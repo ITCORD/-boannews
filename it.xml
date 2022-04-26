@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=2</id>
     <title>보안뉴스 ─ IT</title>
-    <updated>2022-04-26T03:24:02.842Z</updated>
+    <updated>2022-04-26T04:32:44.719Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[경남도, 재난안전예산 재정 투자 효과 극대화 추진]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=106330&amp;page=1&amp;mkind=2&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=106330&amp;page=1&amp;mkind=2&amp;kind=2"/>
+        <updated>2022-04-26T04:30:12.828Z</updated>
+        <content type="html"><![CDATA[경남도는 재난안전예산 재정 투자 효과를 극대화하기 위해 ‘재난안전예산 사전검토제도’를 운영한다고 밝혔다. 재난안전예산 사전검토제도는 예산을 편성하기 전에 전체 재난안전사업에 대해 △재난유형 △지역적 특성에 따른 위험도 △사업의 기대효과 등을 분석해 재난 취약 분야에 재...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[경남도, 메타버스 시대의 인공지능·클라우드 인재 집중 양성]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=106329&amp;page=1&amp;mkind=2&amp;kind=2</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=106285&amp;page=1&amp;mkind=2&amp;kind=2"/>
         <updated>2022-04-23T01:15:27.370Z</updated>
         <content type="html"><![CDATA[환경부 소속 국립환경과학원은 한국서부발전과 사물인터넷(IoT)을 활용한 통합관리사업장의 환경관리체계 구축을 위해 지난 22일 업무협약을 체결했다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[법무부-KISTI, 외국인 정책 고도화에 필요한 빅데이터 분석 전문가 양성]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=106284&amp;page=1&amp;mkind=2&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=106284&amp;page=1&amp;mkind=2&amp;kind=2"/>
-        <updated>2022-04-23T01:15:27.392Z</updated>
-        <content type="html"><![CDATA[법무부와 한국과학기술정보연구원은 ‘2022년 법무부 외국인행정 빅데이터 분석 교육훈련’ 과정을 총 2회에 걸쳐 한국과학기술정보연구원 과학데이터교육센터(대전시 유성구 소재)에서 운영한다.]]></content>
     </entry>
 </feed>
