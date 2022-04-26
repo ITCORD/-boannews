@@ -4,9 +4,17 @@
         <title>보안뉴스 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Apr 2022 07:20:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Apr 2022 08:23:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[팬데믹을 거친 현대의 학교들, 보다 강력하고 유연한 보안 기능 필요하다]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106315&amp;page=1&amp;kind=4</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106315&amp;page=1&amp;kind=4</guid>
+            <pubDate>Tue, 26 Apr 2022 08:21:14 GMT</pubDate>
+            <content:encoded><![CDATA[팬데믹이 시작한 때부터 지금까지 학교와 교육 기간을 겨냥한 사이버 공격자들의 악성 행위는 빠르게 증가하는 중이다. 버지니아 주의 학교 보안 비영리 단체인 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/21487259_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[증가하는 웹 기반 사이버위협, 대처 조직은 30% 미만?]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=106353&amp;page=1&amp;kind=1</link>
@@ -80,12 +88,12 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/21355097_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[사건 사고 많은 IT 분야, 3월 간 새롭게 등장한 정책 관련 이야기]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106296&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106296&amp;page=1&amp;kind=1</guid>
-            <pubDate>Tue, 26 Apr 2022 01:22:53 GMT</pubDate>
-            <content:encoded><![CDATA[IT 업계는 기술적 변화로 항상 부글부글 끓는 분야다. 그렇기 때문에 관련 정책 부서와 정부 기관들 역시 숨가쁘게 쫓아오고 있다. 지난 3월 한 달 동안 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/20501071_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[IBM 조사 결과, ‘AI 윤리, 주요 경영진의 책임으로 확대’]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106350&amp;page=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106350&amp;page=1&amp;kind=3</guid>
+            <pubDate>Tue, 26 Apr 2022 08:21:14 GMT</pubDate>
+            <content:encoded><![CDATA[IBM 기업가치연구소(IBV)는 26일 기업 내 AI 윤리 도입 및 실행 책임에 대한 인식 극명한 인식 변화를 담은 새로운 글로벌 조사 결과, ‘AI 윤리...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/IBM-c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[에스에스알 ‘SolidStep CVE', 조달청 디지털서비스몰 등록... 공공시장 공략 강화]]></title>
@@ -230,13 +238,6 @@
             <guid>https://www.boannews.com/media/view.asp?idx=106334&amp;page=1&amp;kind=2</guid>
             <pubDate>Tue, 26 Apr 2022 01:22:53 GMT</pubDate>
             <content:encoded><![CDATA[인천테크노파크(인천TP)는 중소기업의 스마트공장 보급 확산을 위해 ‘스마트공장 아카데미’를 운영한다고 밝혔다. 인천지역 중소·중견 제조기업 임직원을 대상으...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[인천TP, SW융합기업 맞춤형 전략 마련]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106335&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106335&amp;page=1&amp;kind=2</guid>
-            <pubDate>Tue, 26 Apr 2022 01:22:53 GMT</pubDate>
-            <content:encoded><![CDATA[인천테크노파크(인천TP)는 오는 29일까지 ‘글로벌 제품·서비스 현지화 연구회’에 참여할 기업을 모집한다고 밝혔다. 연구회는 해외 진출을 노리는 SW융합기...]]></content:encoded>
         </item>
     </channel>
 </rss>
