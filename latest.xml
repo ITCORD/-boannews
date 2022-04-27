@@ -4,9 +4,49 @@
         <title>보안뉴스 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Apr 2022 03:46:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2022 04:45:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[이모텟 운영자들, MS VBA 매크로 차단 이후 새 전략 실험 중]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106384&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106384&amp;page=1&amp;kind=1</guid>
+            <pubDate>Wed, 27 Apr 2022 04:43:04 GMT</pubDate>
+            <content:encoded><![CDATA[보안 외신 해커뉴스에 의하면 악명 높은 멀웨어인 이모텟(Emotet)의 운영자들이 새로운 침투 전략을 실험 중에 있다고 한다. MS가 최근 VBA 매크로의...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/21794459_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[친러 성향 해커들, 코카콜라에서 161GB 데이터 훔쳤다 주장]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106383&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106383&amp;page=1&amp;kind=1</guid>
+            <pubDate>Wed, 27 Apr 2022 04:43:04 GMT</pubDate>
+            <content:encoded><![CDATA[스토머스(Stormous)라는 사이버 갱단이 코카콜라로부터 161GB의 데이터를 훔쳐냈다고 주장했다. 보안 외신 레지스터에 의하면 코카콜라는 자체 조사를 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/21863833_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[수수께끼 같은 미 정부 하청 업체, CIA와 NSA를 추적]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106382&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106382&amp;page=1&amp;kind=1</guid>
+            <pubDate>Wed, 27 Apr 2022 04:43:04 GMT</pubDate>
+            <content:encoded><![CDATA[미국 정부의 하청 업체 중에 A6라는 곳이 있다. 정식 이름은 아노말리식스(Anomaly Six)이고, 주로 사용자 데이터를 대규모로 수집하고 구매한 후,...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/21960387_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이란의 로켓키튼, VM웨어의 취약점을 익스플로잇 하는 중]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106381&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106381&amp;page=1&amp;kind=1</guid>
+            <pubDate>Wed, 27 Apr 2022 04:43:04 GMT</pubDate>
+            <content:encoded><![CDATA[이란의 해킹 그룹인 로켓키튼(Rocket Kitten)이 VM웨어 워크스페이스의 취약점을 익스플로잇 하고 있다고 보안 외신 SC미디어가 보도했다. 로켓키튼...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/20690813_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[미 국무부, 낫페트야 공격 배후 세력에 1천만 달러 현상금 걸어]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106380&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106380&amp;page=1&amp;kind=1</guid>
+            <pubDate>Wed, 27 Apr 2022 04:43:04 GMT</pubDate>
+            <content:encoded><![CDATA[미국 국무부가 2017년 6월 발생했던 낫페트야(NotPetya) 사이버 공격의 배후 세력에 대한 정보를 제공하는 사람에게는 최대 1천만 달러의 현상금을 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/19501070_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[금융권 표적 고위험 사이버공격 시도 줄었다]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=106377&amp;page=1&amp;kind=1</link>
@@ -46,46 +86,6 @@
             <pubDate>Tue, 26 Apr 2022 06:20:46 GMT</pubDate>
             <content:encoded><![CDATA[2022년 1사분기에는 디도스 공격이 지난 분기보다 무려 46%나 증가했다. 이는 러시아가 우크라이나를 침공하면서 핵티비스트들의 활동이 전 세계적으로 크게...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/21044393_copy_295x190_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[랜섬웨어로부터 중요 데이터 지키세요 ‘데이터 금고 사업’]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106348&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106348&amp;page=1&amp;kind=2</guid>
-            <pubDate>Tue, 26 Apr 2022 04:29:27 GMT</pubDate>
-            <content:encoded><![CDATA[한국인터넷진흥원(KISA, 원장 이원태)과 과학기술정보통신부(장관 임혜숙)는 랜섬웨어 피해예방을 위해 정기적인 데이터 백업을 지원하는 ‘데이터 금고 사업‘...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/kisa_042601_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[풍력 발전소와 관련 기업들 노리는 해커들]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106346&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106346&amp;page=1&amp;kind=1</guid>
-            <pubDate>Tue, 26 Apr 2022 03:21:41 GMT</pubDate>
-            <content:encoded><![CDATA[최근 유럽의 풍력 에너지 산업 내 기업들이 해커들의 표적이 되고 있다는 소식을 IT 외신 피씨맥이 전했다. 문제의 기업은 Nordex SE와 Deutsch...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/21023314_copy_295x190_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[구글의 바이러스토탈에서 고위험도 원격 코드 실행 취약점 발견돼]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106345&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106345&amp;page=1&amp;kind=1</guid>
-            <pubDate>Tue, 26 Apr 2022 03:21:41 GMT</pubDate>
-            <content:encoded><![CDATA[보안 외신 해커뉴스는 바이러스토탈(VirusTotal)이라는 백신 엔진 플랫폼에서 고위험도 취약점이 발견됐다고 보도했다. 이 취약점을 익스플로잇 할 경우 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/19972535_copy_295x190_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이란, “공공 서비스 겨냥한 대규모 사이버 공격 무력화시켜”]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106344&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106344&amp;page=1&amp;kind=1</guid>
-            <pubDate>Tue, 26 Apr 2022 03:21:41 GMT</pubDate>
-            <content:encoded><![CDATA[보안 전문 블로그 시큐리티어페어즈에 의하면 이란 정부가 국영 방송을 통해 공공 서비스를 겨냥한 대규모 사이버 공격을 성공적으로 무력화시켰다고 발표했다고 한...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/21041806_copy_295x190_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[퍼블릭·하이브리드·프라이빗 클라우드, 각 환경별 보안전략 수립방안은?]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106298&amp;page=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106298&amp;page=1&amp;kind=3</guid>
-            <pubDate>Tue, 26 Apr 2022 01:22:53 GMT</pubDate>
-            <content:encoded><![CDATA[최근 도입이 급속도로 확산되고 있는 클라우드는 각 기업마다 조성 환경이 다르다. 퍼블릭 클라우드에서부터 온프레미스와 클라우드를 결합한 하이브리드 클라우드,...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/cloud-c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[화웨이, 친환경적이고 지능화된 세상을 위한 끊임없는 혁신 발표]]></title>

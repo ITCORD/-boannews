@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-04-27T03:46:04.499Z</updated>
+    <updated>2022-04-27T04:45:44.059Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[이란의 로켓키튼, VM웨어의 취약점을 익스플로잇 하는 중]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=106381&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=106381&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-04-27T04:43:23.641Z</updated>
+        <content type="html"><![CDATA[이란의 해킹 그룹인 로켓키튼(Rocket Kitten)이 VM웨어 워크스페이스의 취약점을 익스플로잇 하고 있다고 보안 외신 SC미디어가 보도했다. 로켓키튼이 익스플로잇 하는 취약점은 CVE-2022-22954이며, 이를 익스플로잇 하는 데 성공할 경우 공격자에게는 공격...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[미 국무부, 낫페트야 공격 배후 세력에 1천만 달러 현상금 걸어]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=106380&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=106380&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-04-27T04:43:23.644Z</updated>
+        <content type="html"><![CDATA[미국 국무부가 2017년 6월 발생했던 낫페트야(NotPetya) 사이버 공격의 배후 세력에 대한 정보를 제공하는 사람에게는 최대 1천만 달러의 현상금을 수여하겠다고 발표했다. 보안 외신 시큐리티위크에 따르면 당시 낫페트야는 전 세계 수십만 대의 시스템을 마비시키며 수...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[화웨이, 친환경적이고 지능화된 세상을 위한 끊임없는 혁신 발표]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=106378&amp;page=1&amp;mkind=1&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=106378&amp;page=1&amp;mkind=1&amp;kind=3"/>
+        <updated>2022-04-27T04:43:23.654Z</updated>
+        <content type="html"><![CDATA[화웨이가 26일 중국 선전에서 ‘제19회 글로벌 애널리스트 서밋(Global Analyst Summit, 이하 HAS)’를 개최했다. 올해 서밋에 전 세계의 산업 애널리스트와 재무 분석가, 주요 오피니언 리더 등이 참석하여 미래 산업 동향과 화웨이의 성장 전략을 공유한...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[금융권 표적 고위험 사이버공격 시도 줄었다]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=106377&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=106377&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-04-27T04:43:23.655Z</updated>
+        <content type="html"><![CDATA[금융보안원(원장 김철웅)은 금융권 표적의 지능화·고도화된 사이버위협에 선제적 예방 및 신속한 대응 등 사이버보안의 최전선에서 안전하고 신뢰할 수 있는 금융환경을 지원하고 있다고 밝혔다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[중기부, ‘제2차 규제자유특구 도전 챌린지’ 참가자 모집]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=106359&amp;page=1&amp;mkind=1&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=106359&amp;page=1&amp;mkind=1&amp;kind=2"/>
+        <updated>2022-04-27T04:43:23.655Z</updated>
+        <content type="html"><![CDATA[중소벤처기업부는 규제자유특구 사업 성과 제고를 위해 ‘규제자유특구 도전 잇기(챌린지)’를 개최하고, 27일부터 5월 27일까지 참가자를 모집한다고 밝혔다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[폴리텍-포스텍, AI 공동연구센터 개소]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=106361&amp;page=1&amp;mkind=1&amp;kind=2</id>
@@ -88,40 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=106348&amp;page=1&amp;mkind=1&amp;kind=2"/>
         <updated>2022-04-26T06:21:06.543Z</updated>
         <content type="html"><![CDATA[한국인터넷진흥원(KISA, 원장 이원태)과 과학기술정보통신부(장관 임혜숙)는 랜섬웨어 피해예방을 위해 정기적인 데이터 백업을 지원하는 ‘데이터 금고 사업‘에 참여할 중소기업을 4월 26일(화)부터 5월 26일(목)까지 모집한다고 밝혔다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[풍력 발전소와 관련 기업들 노리는 해커들]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=106346&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=106346&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-04-26T06:21:06.555Z</updated>
-        <content type="html"><![CDATA[최근 유럽의 풍력 에너지 산업 내 기업들이 해커들의 표적이 되고 있다는 소식을 IT 외신 피씨맥이 전했다. 문제의 기업은 Nordex SE와 Deutsche Windtechnik AG, Enercon GmbH다. 그 중 Nordex SE는 IT 시스템을 전부 폐쇄시켜야...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[구글의 바이러스토탈에서 고위험도 원격 코드 실행 취약점 발견돼]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=106345&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=106345&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-04-26T04:29:58.107Z</updated>
-        <content type="html"><![CDATA[보안 외신 해커뉴스는 바이러스토탈(VirusTotal)이라는 백신 엔진 플랫폼에서 고위험도 취약점이 발견됐다고 보도했다. 이 취약점을 익스플로잇 할 경우 원격 코드 실행 공격을 실시할 수 있게 되며, 이를 통해 각종 스캔 엔진에 접근할 수 있게 된다고 보안 업체 사이소...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이란, “공공 서비스 겨냥한 대규모 사이버 공격 무력화시켜”]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=106344&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=106344&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-04-26T04:29:58.109Z</updated>
-        <content type="html"><![CDATA[보안 전문 블로그 시큐리티어페어즈에 의하면 이란 정부가 국영 방송을 통해 공공 서비스를 겨냥한 대규모 사이버 공격을 성공적으로 무력화시켰다고 발표했다고 한다. 공격 시도는 100개가 넘는 공공 기관들을 겨냥해 발생했다고 하지만, 배후 세력으로 의심되는 단체나 국가의 이...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국토부, 한-미 항공 수요 회복에 대비한 항공보안 협력 강화 추진]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=106326&amp;page=1&amp;mkind=1&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=106326&amp;page=1&amp;mkind=1&amp;kind=2"/>
-        <updated>2022-04-26T03:22:05.363Z</updated>
-        <content type="html"><![CDATA[국토교통부는 지난 21~22일 화상 회의로 진행된 ‘제10차 한-미 항공보안 협력회의’에서 미국 교통보안청(TSA)과 포스트 코로나 시대 항공 수요 회복에 대비해 항공보안 강화를 위해 협력을 강화해 나가기로 했다고 밝혔다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CJ올리브네트웍스, AI·AR 신기술로 산업안전 지킨다]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=106328&amp;page=1&amp;mkind=1&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=106328&amp;page=1&amp;mkind=1&amp;kind=3"/>
-        <updated>2022-04-26T03:22:05.363Z</updated>
-        <content type="html"><![CDATA[CJ올리브네트웍스가 산업 현장의 중대재해 예방과 작업자의 안전보건을 위한 산업안전 솔루션 3종을 개발했다. 올해 초 중대재해기업처벌법 시행으로 운영 및 관리 책임이 있는 산업 현장에서 종사자의 안전보건 확보가 의무화됨에 따라 기업의 ESG 경쟁력 확보가 중요한 화두로 ...]]></content>
     </entry>
 </feed>
