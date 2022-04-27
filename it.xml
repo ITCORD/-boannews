@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=2</id>
     <title>보안뉴스 ─ IT</title>
-    <updated>2022-04-27T01:31:58.219Z</updated>
+    <updated>2022-04-27T03:46:04.495Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[중기부, 가상현실 기반 제품 설계·검증 지원 ‘3D 제조 가상실험실’ 개소]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=106360&amp;page=1&amp;mkind=2&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=106360&amp;page=1&amp;mkind=2&amp;kind=2"/>
+        <updated>2022-04-27T03:43:51.910Z</updated>
+        <content type="html"><![CDATA[중소벤처기업부는 지난 26일 고려대에서 메이커 스페이스 민간협업형 전문실험실(전문랩)인 ‘3디(3D) 제조 가상실험실(버추얼랩)’의 개소식을 열고, 제조 창업기업의 제품 설계와 제작을 집중 지원한다고 밝혔다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이억원 기획재정부 1차관, 현대차 남양연구소 현장 방문]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=106362&amp;page=1&amp;mkind=2&amp;kind=2</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=106332&amp;page=1&amp;mkind=2&amp;kind=2"/>
         <updated>2022-04-26T05:19:18.027Z</updated>
         <content type="html"><![CDATA[대전시는 스마트 기술을 활용해 지역문제를 해결하기 위한 ‘스마트 혁신기술 도시적용사업’ 공모를 실시하고, 지원 대상으로 동구·유성구·대덕구를 최종 선정했다고 밝혔다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[경남도, 재난안전예산 재정 투자 효과 극대화 추진]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=106330&amp;page=1&amp;mkind=2&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=106330&amp;page=1&amp;mkind=2&amp;kind=2"/>
-        <updated>2022-04-26T04:30:12.828Z</updated>
-        <content type="html"><![CDATA[경남도는 재난안전예산 재정 투자 효과를 극대화하기 위해 ‘재난안전예산 사전검토제도’를 운영한다고 밝혔다. 재난안전예산 사전검토제도는 예산을 편성하기 전에 전체 재난안전사업에 대해 △재난유형 △지역적 특성에 따른 위험도 △사업의 기대효과 등을 분석해 재난 취약 분야에 재...]]></content>
     </entry>
 </feed>

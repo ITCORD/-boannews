@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-04-27T01:31:58.236Z</updated>
+    <updated>2022-04-27T03:46:04.499Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[폴리텍-포스텍, AI 공동연구센터 개소]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=106361&amp;page=1&amp;mkind=1&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=106361&amp;page=1&amp;mkind=1&amp;kind=2"/>
+        <updated>2022-04-27T03:43:42.652Z</updated>
+        <content type="html"><![CDATA[한국폴리텍대학 직업교육연구소와 포스텍 인공지능연구원이 공동 운영하는 ‘AI(인공지능) 공동연구센터’가 폴리텍 성남캠퍼스에 개소했다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[복잡한 지역 균형 발전 방정식, 지식재산으로 풀어 볼까?]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=106363&amp;page=1&amp;mkind=1&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=106363&amp;page=1&amp;mkind=1&amp;kind=2"/>
+        <updated>2022-04-27T03:43:42.653Z</updated>
+        <content type="html"><![CDATA[지재위는 올해 국가지식재산네트워크(KIPnet) 활동을 통해 5개 권역의 지자체 및 유관기관들과 힘을 합쳐, 지식재산(IP)을 활용한 ‘지역 균형 발전’ 정책을 모색해 나가기로 했다. 그 첫 일정으로 ‘세계지식재산의 날’에 정상조 민간위원장이 ‘부울경 특별연합’ 출범으...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[경찰청, 안전한 자율주행차 운행을 위한 도로교통법 등 법·제도 토론회 개최]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=106365&amp;page=1&amp;mkind=1&amp;kind=2</id>
@@ -109,19 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=106328&amp;page=1&amp;mkind=1&amp;kind=3"/>
         <updated>2022-04-26T03:22:05.363Z</updated>
         <content type="html"><![CDATA[CJ올리브네트웍스가 산업 현장의 중대재해 예방과 작업자의 안전보건을 위한 산업안전 솔루션 3종을 개발했다. 올해 초 중대재해기업처벌법 시행으로 운영 및 관리 책임이 있는 산업 현장에서 종사자의 안전보건 확보가 의무화됨에 따라 기업의 ESG 경쟁력 확보가 중요한 화두로 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SK쉴더스 IPO 추진, 5월 19일 상장한다]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=106343&amp;page=1&amp;mkind=1&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=106343&amp;page=1&amp;mkind=1&amp;kind=3"/>
-        <updated>2022-04-26T03:22:05.363Z</updated>
-        <content type="html"><![CDATA[SK스퀘어 산하 라이프 케어 플랫폼 기업 SK쉴더스(대표이사 박진효)가 26일 기업공개(IPO) 관련 온라인 기자간담회를 개최하고 상장 후 비전과 사업 계획을 발표했다. SK쉴더스는 총 공모주식 27,102,084주에 1주당 희망 공모는 31,000원~38,800원을 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[퍼블릭·하이브리드·프라이빗 클라우드, 각 환경별 보안전략 수립방안은?]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=106298&amp;page=1&amp;mkind=1&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=106298&amp;page=1&amp;mkind=1&amp;kind=3"/>
-        <updated>2022-04-26T03:22:05.363Z</updated>
-        <content type="html"><![CDATA[최근 도입이 급속도로 확산되고 있는 클라우드는 각 기업마다 조성 환경이 다르다. 퍼블릭 클라우드에서부터 온프레미스와 클라우드를 결합한 하이브리드 클라우드, 그리고 프라이빗 클라우드 등 각각의 편의성과 효율성에 맞춰 구축하고 있다. 보안 역시 마찬가지다. 어떤 클라우드 ...]]></content>
     </entry>
 </feed>
