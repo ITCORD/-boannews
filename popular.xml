@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 27 Apr 2022 19:17:11 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2022 20:22:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -64,20 +64,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/21753129_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[AWS의 로그4j 취약점 패치, 보안 오히려 약화시켜]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106236&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106236&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Sun, 24 Apr 2022 23:16:56 GMT</pubDate>
-            <content:encoded><![CDATA[IT 외신 더레지스터에 의하면 아마존이 얼마 전 AWS 서비스에서 발견한 로그4j(Log4j)의 취약점을 패치하려다가 오히려 보안을 약화시켰다고 한다. 패치로 인...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/21756786_copy_295x190_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[항공보안협회, 제1회 미래항공보안포럼 개최]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=106281&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=106281&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
             <pubDate>Mon, 25 Apr 2022 16:23:24 GMT</pubDate>
             <content:encoded><![CDATA[대한민국 미래 항공보안 인재를 양성하기 위한 제1회 미래항공보안포럼과 항공보안 공모전이 22일 제21회 세계보안엑스포 동시 행사로 열렸다.]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/22042203ss.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[AWS의 로그4j 취약점 패치, 보안 오히려 약화시켜]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106236&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106236&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Sun, 24 Apr 2022 23:16:56 GMT</pubDate>
+            <content:encoded><![CDATA[IT 외신 더레지스터에 의하면 아마존이 얼마 전 AWS 서비스에서 발견한 로그4j(Log4j)의 취약점을 패치하려다가 오히려 보안을 약화시켰다고 한다. 패치로 인...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/21756786_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[과학기술·정보통신 진흥 유공자 162명 정부 포상, 정보보호 분야 누가 받았나]]></title>
