@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 26 Apr 2022 23:20:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Apr 2022 01:31:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -40,20 +40,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/20220423report-sm.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[공격자들의 체류 시간은 줄어들지만, 하이브리드 환경은 계속 위험]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106201&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106201&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Thu, 21 Apr 2022 18:23:01 GMT</pubDate>
-            <content:encoded><![CDATA[공격자들이 들키지 않고 피해자의 네트워크에 머무는 시간이 4년 연속 줄어들고 있다. 2020년는 평균 24일이었는데 2021년에는 21일로 기록된 것이다. 이와 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/21599812_copy_295x190_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[K-ICT 스타트업 보안 솔루션, 기술력+차별화+참신함으로 ‘시선강탈’]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=106290&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=106290&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
             <pubDate>Sun, 24 Apr 2022 09:16:31 GMT</pubDate>
             <content:encoded><![CDATA[제21회 세계보안엑스포 ‘K-ICT 스타트업 공동 홍보관’에선 보안 스타트업들의 우수한 기술력과 차별화된 보안기능이 돋보였다. 인터넷·산업제어망에서 이상행위를 동...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/k-ict-c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[공격자들의 체류 시간은 줄어들지만, 하이브리드 환경은 계속 위험]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106201&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106201&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Thu, 21 Apr 2022 18:23:01 GMT</pubDate>
+            <content:encoded><![CDATA[공격자들이 들키지 않고 피해자의 네트워크에 머무는 시간이 4년 연속 줄어들고 있다. 2020년는 평균 24일이었는데 2021년에는 21일로 기록된 것이다. 이와 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/21599812_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[러시아의 사이버 범죄 조직들도 선택의 기로에 놓여 있다]]></title>
@@ -136,6 +136,14 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/4-72(295).jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[한국정보보호학회 칼럼] 메타버스와 보안]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106299&amp;page=1&amp;kind=6&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106299&amp;page=1&amp;kind=6&amp;search=title&amp;find=</guid>
+            <pubDate>Tue, 26 Apr 2022 16:24:11 GMT</pubDate>
+            <content:encoded><![CDATA[미국 전자전기공학회 IEEE는 메타버스를 인터넷의 확장인 온라인 3-D 가상환경으로 정의하고 있다. 개념을 넓히면 인터넷을 실세계로 확장한 ‘증강현실(augmen...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/21844641_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[산업부, ‘산업데이터 계약 가이드라인 토론회’ 개최]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=106286&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=106286&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
@@ -149,14 +157,6 @@
             <pubDate>Tue, 26 Apr 2022 03:21:51 GMT</pubDate>
             <content:encoded><![CDATA[선박해양플랜트연구소(KRISO)는 지난 22일 여수광양항만공사 및 국립목포해양대학교와 산·학·연 공동 협약을 통해 광양항 발전과 기업 맞춤형 인재 양성, 자동화 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/4-75(295).jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[한국정보보호학회 칼럼] 메타버스와 보안]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106299&amp;page=1&amp;kind=6&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106299&amp;page=1&amp;kind=6&amp;search=title&amp;find=</guid>
-            <pubDate>Tue, 26 Apr 2022 16:24:11 GMT</pubDate>
-            <content:encoded><![CDATA[미국 전자전기공학회 IEEE는 메타버스를 인터넷의 확장인 온라인 3-D 가상환경으로 정의하고 있다. 개념을 넓히면 인터넷을 실세계로 확장한 ‘증강현실(augmen...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/21844641_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[발전 분야 오염 물질, 사물인터넷 기반으로 최첨단 관리한다]]></title>
