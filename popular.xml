@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Apr 2022 17:24:30 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Apr 2022 18:24:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,6 +104,14 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/4-73(295).jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[애자일과 클라우드의 보편화로 갈수록 위험해지고 있는 API]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106395&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106395&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Thu, 28 Apr 2022 13:36:21 GMT</pubDate>
+            <content:encoded><![CDATA[애자일 개발 환경에 대한 인기가 점점 올라감에 따라 API의 사용량도 계속해서 증가하고 있다. 덕분에 소프트웨어에 대한 의존도가 높은 기업들은 매우 편리하게 사업...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/20278765_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘국토안보부’ 해킹 대회 통해 122개 보안 취약점 발굴돼]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=106305&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=106305&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
@@ -118,14 +126,6 @@
             <pubDate>Thu, 28 Apr 2022 01:56:18 GMT</pubDate>
             <content:encoded><![CDATA[북한과 관련된 내용을 취재 및 보도하는 기자들을 겨냥한 새로운 스피어피싱 캠페인이 발견됐다. 이를 분석한 결과 APT37 혹은 리코쳇천리마(Ricochet Cho...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/21955588_copy_295x190_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[애자일과 클라우드의 보편화로 갈수록 위험해지고 있는 API]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106395&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106395&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Thu, 28 Apr 2022 13:36:21 GMT</pubDate>
-            <content:encoded><![CDATA[애자일 개발 환경에 대한 인기가 점점 올라감에 따라 API의 사용량도 계속해서 증가하고 있다. 덕분에 소프트웨어에 대한 의존도가 높은 기업들은 매우 편리하게 사업...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/20278765_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[SECON & eGISEC 2022]  ‘물리보안 통합플랫폼 콘퍼런스 2022’ 성료]]></title>
