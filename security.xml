@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-04-28T04:14:32.269Z</updated>
+    <updated>2022-04-28T05:43:26.038Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[새로운 랜섬웨어 갱 블랙바스타, 공격 활동 거세게 이어가]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=106421&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=106421&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-04-28T05:40:22.483Z</updated>
+        <content type="html"><![CDATA[IT 외신 블리핑컴퓨터는 새 랜섬웨어 갱인 블랙바스타(Black Basta)에 대해 보도했다. 이번 달부터 활동을 시작한 것으로 보인다고 하는데, 이미 최소 12개 기업들이 당했다고 한다. 피해 조직들마다 다른 금액을 요구하는 것으로 보이는데, 한 기업의 경우 2백만 ...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[새로운 랜섬웨어 오닉스, 파일들을 파괴한다]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=106420&amp;page=1&amp;mkind=1&amp;kind=1</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=106317&amp;page=1&amp;mkind=1&amp;kind=4"/>
         <updated>2022-04-27T08:21:30.701Z</updated>
         <content type="html"><![CDATA[지난 몇 년 동안 NFT에 대한 개념들이 수많은 분야에서 언급되기 시작했다. 급기야는 현대 IT 기술의 혁신을 대표하는 가장 상징적인 용어처럼 굳어지고 있다. NFT들은 사실 별 거 아니다. 블록체인 기반 시장에서 만들어지고, 판매되고, 구매되고, 거래되는 디지털 자산...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[안랩 자회사 나온웍스 이준경 대표, ‘행정안전부 정보보호 우수기업인 표창’ 수상]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=106376&amp;page=1&amp;mkind=1&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=106376&amp;page=1&amp;mkind=1&amp;kind=3"/>
-        <updated>2022-04-27T07:17:13.863Z</updated>
-        <content type="html"><![CDATA[안랩(대표 강석균)은 안랩의 자회사 나온웍스(대표 이준경)의 이준경 대표가 21일 ‘제28회 정보통신망 정보보호 콘퍼런스(NetSec-KR 2022)’에서 ‘행정안전부 우수기업인상 장관 표창’을 수상했다고 밝혔다.]]></content>
     </entry>
 </feed>

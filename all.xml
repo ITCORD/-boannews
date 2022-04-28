@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Apr 2022 04:14:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Apr 2022 05:43:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[S2W의 CTI 플랫폼 ‘퀘이사’... 서상덕 대표 “인텔리전스 보안시장 첨병” (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106424&amp;page=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106424&amp;page=1&amp;kind=3</guid>
+            <pubDate>Thu, 28 Apr 2022 05:39:51 GMT</pubDate>
+            <content:encoded><![CDATA[“퀘이사(Quaxar)는 다크웹과 딥웹에서부터 시작되는 공격을 비롯해 랜섬웨어나 피싱, APT 공격 등 까다로운 신종 사이버 위협에 대응하기 위한 효과적이...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/20220428S2W1-S.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[리눅스에서 발견된 두 개의 권한 상승 취약점, 님부스폰 (보안뉴스 ─ 전체기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=106423&amp;page=1&amp;kind=1</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 27 Apr 2022 08:21:02 GMT</pubDate>
             <content:encoded><![CDATA[뉴욕핀테크위크(New York Fintech Week)라는 행사가 진행되면서 핀테크와 관련된 많은 이야기들이 세상에 나왔다. 특히 핀테크 관련 규정과, 보...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/20721136_copy_295x190_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제어시스템 보안 AI, 국산 기술로 키운다 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106391&amp;page=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106391&amp;page=1&amp;kind=3</guid>
-            <pubDate>Wed, 27 Apr 2022 08:21:02 GMT</pubDate>
-            <content:encoded><![CDATA[국가보안기술연구소(소장 최효진, 이하 국보연)는 산업제어시스템의 보안 위협 탐지 연구와 관련 기술 개발을 위하여 개발한 인공지능(AI) 데이터셋 ‘HAI ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/nsr_042701_maun.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[화웨이, ‘친환경 개발 2030 보고서’ 발표 (보안뉴스 ─ 전체기사)]]></title>
@@ -360,6 +360,14 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/money_042501_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[‘국토안보부’ 해킹 대회 통해 122개 보안 취약점 발굴돼 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106305&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106305&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Thu, 28 Apr 2022 04:10:51 GMT</pubDate>
+            <content:encoded><![CDATA[IT 외신 블리핑컴퓨터에 의하면 미국 국토안보부가 진행한 버그바운티 프로그램인 ‘핵 DHS(Hack DHS)’를 통해 122개의 보안 취약점이 새롭게 발굴됐고, ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/17856005_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[세상이 알고 있는 7번째 ICS 멀웨어, 성공적인 방어 사례 남기다 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=106311&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=106311&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
@@ -384,19 +392,18 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/jiran-c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[‘국토안보부’ 해킹 대회 통해 122개 보안 취약점 발굴돼 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106305&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106305&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Thu, 28 Apr 2022 04:10:51 GMT</pubDate>
-            <content:encoded><![CDATA[IT 외신 블리핑컴퓨터에 의하면 미국 국토안보부가 진행한 버그바운티 프로그램인 ‘핵 DHS(Hack DHS)’를 통해 122개의 보안 취약점이 새롭게 발굴됐고, ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/17856005_copy_295x190_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[산업부, ‘산업데이터 계약 가이드라인 토론회’ 개최 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=106286&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=106286&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
             <pubDate>Tue, 26 Apr 2022 03:21:51 GMT</pubDate>
             <content:encoded><![CDATA[산업통상자원부는 지난 22일 ‘산업데이터 계약 가이드라인 토론회’를 개최했다. 이날 토론회는 산업데이터 계약 가이드라인 제정 상황을 중간 점검하고, 해외 입법 동...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[새로운 랜섬웨어 갱 블랙바스타, 공격 활동 거세게 이어가 (보안뉴스 ─ SECURITY)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106421&amp;page=1&amp;mkind=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106421&amp;page=1&amp;mkind=1&amp;kind=1</guid>
+            <pubDate>Thu, 28 Apr 2022 05:40:22 GMT</pubDate>
+            <content:encoded><![CDATA[IT 외신 블리핑컴퓨터는 새 랜섬웨어 갱인 블랙바스타(Black Basta)에 대해 보도했다. 이번 달부터 활동을 시작한 것으로 보인다고 하는데, 이미 최소 12개 기업들이 당했다고 한다. 피해 조직들마다 다른 금액을 요구하는 것으로 보이는데, 한 기업의 경우 2백만 ...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[새로운 랜섬웨어 오닉스, 파일들을 파괴한다 (보안뉴스 ─ SECURITY)]]></title>
@@ -509,13 +516,6 @@
             <guid>https://www.boannews.com/media/view.asp?idx=106317&amp;page=1&amp;mkind=1&amp;kind=4</guid>
             <pubDate>Wed, 27 Apr 2022 08:21:30 GMT</pubDate>
             <content:encoded><![CDATA[지난 몇 년 동안 NFT에 대한 개념들이 수많은 분야에서 언급되기 시작했다. 급기야는 현대 IT 기술의 혁신을 대표하는 가장 상징적인 용어처럼 굳어지고 있다. NFT들은 사실 별 거 아니다. 블록체인 기반 시장에서 만들어지고, 판매되고, 구매되고, 거래되는 디지털 자산...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[안랩 자회사 나온웍스 이준경 대표, ‘행정안전부 정보보호 우수기업인 표창’ 수상 (보안뉴스 ─ SECURITY)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106376&amp;page=1&amp;mkind=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106376&amp;page=1&amp;mkind=1&amp;kind=3</guid>
-            <pubDate>Wed, 27 Apr 2022 07:17:13 GMT</pubDate>
-            <content:encoded><![CDATA[안랩(대표 강석균)은 안랩의 자회사 나온웍스(대표 이준경)의 이준경 대표가 21일 ‘제28회 정보통신망 정보보호 콘퍼런스(NetSec-KR 2022)’에서 ‘행정안전부 우수기업인상 장관 표창’을 수상했다고 밝혔다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[SK ICT 패밀리의 기술 공유 행사 제1회 ‘데보션 테크데이’ 열린다 (보안뉴스 ─ IT)]]></title>
@@ -2462,6 +2462,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2021/12/20415881_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[S2W의 CTI 플랫폼 ‘퀘이사’... 서상덕 대표 “인텔리전스 보안시장 첨병” (보안뉴스 ─ 기업뉴스)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106424&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106424&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=</guid>
+            <pubDate>Thu, 28 Apr 2022 05:43:05 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/view.asp?idx=106424&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=">
+					
+					<img src="/media/upFiles2/2022/04/20220428S2W1-S.jpg" alt="" class="news_img" height="70">
+					
+					<span class="news_txt">S2W의 CTI 플랫폼 ‘퀘이사’... 서상덕 대표 “인텔리전스 보안시장 첨병”      </span>
+					</a><br>
+					<a href="/media/view.asp?idx=106424&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=">“퀘이사(Quaxar)는 다크웹과 딥웹에서부터 시작되는 공격을 비롯해 랜섬웨어나 피싱, APT 공격 등 까다로운 신종 사이버 위협에 대응하기 위한 효과적이고 즉각...</a> <span class="news_writer">권준  기자 | 2022년 04월 28일 13:37</span>]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/20220428S2W1-S.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[화웨이, ‘친환경 개발 2030 보고서’ 발표 (보안뉴스 ─ 기업뉴스)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=106418&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=106418&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=</guid>
@@ -2723,20 +2737,6 @@
 					</a><br>
 					<a href="/media/view.asp?idx=106229&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=">영상보안분야에서 CCTV 카메라 제품으로 보안시장을 주도했던 케이티앤씨는 순수 국내기술로 제작된 편하지만 최상의 보안성을 갖는 홍채인식 시스템을 ‘SECON &amp; ...</a> <span class="news_writer">원병철 기자 | 2022년 04월 21일 15:35</span>]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/kt&c_0421_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[SECON & eGISEC 2022] 스마트 교통관제 솔루션 전문기업 ‘송우인포텍’ (보안뉴스 ─ 기업뉴스)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106231&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106231&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=</guid>
-            <pubDate>Thu, 21 Apr 2022 06:23:32 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/view.asp?idx=106231&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=">
-					
-					<img src="/media/upFiles2/2022/04/songwo_0421_main.jpg" alt="" class="news_img" height="70">
-					
-					<span class="news_txt">[SECON &amp; eGISEC 2022] 스마트 교통관제 솔루션 전문기업 ‘송우인포텍’</span>
-					</a><br>
-					<a href="/media/view.asp?idx=106231&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=">송우인포텍은 딥러닝기반 영상분석 원천기술을 보유하고 있으며, 영상정보를 활용해 다양한 빅데이터를 생성하고 분석하는 스마트 교통관제 솔루션 전문기업이다. 스마트 차...</a> <span class="news_writer">원병철 기자 | 2022년 04월 21일 15:06</span>]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/songwo_0421_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[인사] 뉴스핌 (보안뉴스 ─ 인사 부고)]]></title>
