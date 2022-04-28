@@ -4,9 +4,49 @@
         <title>보안뉴스 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Apr 2022 01:59:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Apr 2022 04:14:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[리눅스에서 발견된 두 개의 권한 상승 취약점, 님부스폰]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106423&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106423&amp;page=1&amp;kind=1</guid>
+            <pubDate>Thu, 28 Apr 2022 04:10:39 GMT</pubDate>
+            <content:encoded><![CDATA[보안 블로그 시큐리티어페어즈는 리눅스에서 두 개의 권한 상승 취약점이 발견됐다고 발표했다. 이 두 개의 취약점은 합해서 님부스폰(Nimbuspwn)이라고 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/20900438_copy_295x190_2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[중국 해커들, 플러그엑스로 러시아 군 요원들 공격해]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106422&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106422&amp;page=1&amp;kind=1</guid>
+            <pubDate>Thu, 28 Apr 2022 04:10:39 GMT</pubDate>
+            <content:encoded><![CDATA[보안 외신 해커뉴스에 의하면 중국 정부의 후원을 받고 있는 해킹 단체가 러시아 군을 겨냥해 공격을 실시하고 있다고 한다. 해커들이 사용하고 있는 건 플러그...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/21652253_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[새로운 랜섬웨어 갱 블랙바스타, 공격 활동 거세게 이어가]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106421&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106421&amp;page=1&amp;kind=1</guid>
+            <pubDate>Thu, 28 Apr 2022 04:10:39 GMT</pubDate>
+            <content:encoded><![CDATA[IT 외신 블리핑컴퓨터는 새 랜섬웨어 갱인 블랙바스타(Black Basta)에 대해 보도했다. 이번 달부터 활동을 시작한 것으로 보인다고 하는데, 이미 최...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/19568592_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[새로운 랜섬웨어 오닉스, 파일들을 파괴한다]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106420&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106420&amp;page=1&amp;kind=1</guid>
+            <pubDate>Thu, 28 Apr 2022 04:10:39 GMT</pubDate>
+            <content:encoded><![CDATA[IT 외신 블리핑컴퓨터에 의하면 오닉스(Onyx)라는 이름의 새로운 랜섬웨어가 등장했다고 한다. 파괴적인 목적을 가지고 운영되는 것처럼 보인다. 피해자들이...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/21477944_copy_295x190_1(0).jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[MS, “러시아가 군 부대와 사이버 부대의 합을 맞춰 운영 중”]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106419&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106419&amp;page=1&amp;kind=1</guid>
+            <pubDate>Thu, 28 Apr 2022 04:10:39 GMT</pubDate>
+            <content:encoded><![CDATA[러시아의 여러 해킹 조직들이 우크라이나를 겨냥해 수많은 사이버 공격을 실시하고 있는데, 그 움직임이 러시아 군 병력의 움직임과 잘 들어맞는다고 MS가 발표...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/21079072_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[정재동의 창업에세이-4] 창업활동의 질적 성장에 대한 관리가 필요할 때]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=106393&amp;page=1&amp;kind=6</link>
@@ -46,46 +86,6 @@
             <pubDate>Wed, 27 Apr 2022 08:21:02 GMT</pubDate>
             <content:encoded><![CDATA[국가보안기술연구소(소장 최효진, 이하 국보연)는 산업제어시스템의 보안 위협 탐지 연구와 관련 기술 개발을 위하여 개발한 인공지능(AI) 데이터셋 ‘HAI ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/nsr_042701_maun.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[로그4셸 발견된 지 4개월 넘었지만 아직도 취약한 서버가 편만해]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106392&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106392&amp;page=1&amp;kind=1</guid>
-            <pubDate>Wed, 27 Apr 2022 08:21:02 GMT</pubDate>
-            <content:encoded><![CDATA[4개월 전 로그4j(Log4j)에서 발견된 취약점이 아직도 만연한 문제로 남아 있다. 최근 보안 업체 레질리온(Rezilion)이 최근 쇼단 검색 엔진으로...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/20159523_copy_295x190_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지방선거 과정에서 ‘개인정보 보호 법령’ 준수사항 나왔다]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106390&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106390&amp;page=1&amp;kind=2</guid>
-            <pubDate>Wed, 27 Apr 2022 08:21:02 GMT</pubDate>
-            <content:encoded><![CDATA[전국동시지방선거(6.1)를 앞두고, 개인정보보호위원회(위원장 윤종인, 이하 ‘개인정보위’)는 4월 27일(수) 정부서울청사에서 제7회 전체회의를 열고 ‘제...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/21064997_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[법무부, 개인정보보호법 위반으로 ‘과태료 처분’ 받았다]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106388&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106388&amp;page=1&amp;kind=2</guid>
-            <pubDate>Wed, 27 Apr 2022 08:21:02 GMT</pubDate>
-            <content:encoded><![CDATA[법무부가 추진한 출입국관리 AI 식별추적시스템 구축사업이 개인정보보호법 위반으로 과태료 처분을 받았다. 개인정보보호위원회(위원장 윤종인, 이하 개인정보위)...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/pipc_04270001_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[개인정보위, 개인정보보호 법규 위반 4개 사업자 제재]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106386&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106386&amp;page=1&amp;kind=2</guid>
-            <pubDate>Wed, 27 Apr 2022 07:16:43 GMT</pubDate>
-            <content:encoded><![CDATA[개인정보가 유출된 사실 및 영업 양도 등으로 인한 개인정보 이전 사실을 정보주체인 이용자에게 제대로 알리지 않은 사업자들이 제재 처분을 받았다.]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/pipc_042701_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지능화된 보안위협을 신속하게 차단하라!  최근 보안 트렌드는 ‘자동화’]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106314&amp;page=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106314&amp;page=1&amp;kind=3</guid>
-            <pubDate>Wed, 27 Apr 2022 07:16:43 GMT</pubDate>
-            <content:encoded><![CDATA[최근 보안 위협 트렌드를 살펴보면 각종 스캔도구 고도화, 암호화 및 난독화 기술 발전, 쉬운 정찰과 지능화된 공격, 우회 공격 확대 등으로 대변되고 있다....]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/21900708-c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[화웨이, ‘친환경 개발 2030 보고서’ 발표]]></title>
