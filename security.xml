@@ -2,9 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-04-27T23:22:13.068Z</updated>
+    <updated>2022-04-28T01:59:44.165Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[남동발전, 지역 내 대학·국정원과 함께 사이버보안 협력체계 구축]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=106399&amp;page=1&amp;mkind=1&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=106399&amp;page=1&amp;mkind=1&amp;kind=2"/>
+        <updated>2022-04-28T01:56:32.121Z</updated>
+        <content type="html"><![CDATA[남동발전은 지난 26일 경상국립대, 창원대, 국가정보원과 함께 사이버보안 역량 및 협력 강화를 위한 MOU를 체결했다고 밝혔다. 이번 MOU는 △경남도 내 안전한 사이버환경 조성 및 건전한 사이버보안 문화 확산 △화이트해커 양성 등 사이버보안 미래 인재 육성 △콘퍼런스...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[천안시, 전 직원 대상 안전한 개인정보 관리와 정보보안 인식 제고 교육]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=106398&amp;page=1&amp;mkind=1&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=106398&amp;page=1&amp;mkind=1&amp;kind=2"/>
+        <updated>2022-04-28T01:56:32.121Z</updated>
+        <content type="html"><![CDATA[천안시는 지난 26일 공무직, 임기제, 사회복무요원을 포함한 전 직원을 대상으로 안전한 개인정보 관리를 위한 ‘개인정보보호 및 정보보안 교육’을 실시했다고 밝혔다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[트렌드마이크로, 협업 파트너사들의 기술 통합해 강력하고 완벽한 보안 플랫폼 발표]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=106415&amp;page=1&amp;mkind=1&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=106415&amp;page=1&amp;mkind=1&amp;kind=3"/>
+        <updated>2022-04-28T01:56:32.121Z</updated>
+        <content type="html"><![CDATA[사이버 보안 솔루션의 글로벌 리더인 트렌드마이크로(지사장 김진광)가 통합 사이버 보안 플랫폼 ‘트렌드마이크로 원(Trend Micro One)’을 출시한다고 밝혔다. ‘트렌드마이크로 원’은 자사의 기술과 협업 파트너사들의 기술을 통합해 고객의 사이버 보안 이해도를 높이...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[애자일과 클라우드의 보편화로 갈수록 위험해지고 있는 API]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=106395&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=106395&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-04-28T01:56:32.135Z</updated>
+        <content type="html"><![CDATA[애자일 개발 환경에 대한 인기가 점점 올라감에 따라 API의 사용량도 계속해서 증가하고 있다. 덕분에 소프트웨어에 대한 의존도가 높은 기업들은 매우 편리하게 사업을 확장하고 서비스를 출시할 수 있게 되었지만 동시에 더 많은 해킹 공격에 노출되어 있기도 하다. 최근 공격...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[제어시스템 보안 AI, 국산 기술로 키운다]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=106391&amp;page=1&amp;mkind=1&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=106391&amp;page=1&amp;mkind=1&amp;kind=3"/>
+        <updated>2022-04-28T01:56:32.135Z</updated>
+        <content type="html"><![CDATA[국가보안기술연구소(소장 최효진, 이하 국보연)는 산업제어시스템의 보안 위협 탐지 연구와 관련 기술 개발을 위하여 개발한 인공지능(AI) 데이터셋 ‘HAI 22.04’와 성능평가 도구 ‘eTaPR’을 공개한다고 밝혔다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[로그4셸 발견된 지 4개월 넘었지만 아직도 취약한 서버가 편만해]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=106392&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=106392&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-04-28T01:56:32.136Z</updated>
+        <content type="html"><![CDATA[4개월 전 로그4j(Log4j)에서 발견된 취약점이 아직도 만연한 문제로 남아 있다. 최근 보안 업체 레질리온(Rezilion)이 최근 쇼단 검색 엔진으로 스캔을 실시한 결과 취약한 버전의 로그4j를 인터넷에 그대로 노출시키고 있는 서버가 9만 개 이상인 것으로 나타났...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[지방선거 과정에서 ‘개인정보 보호 법령’ 준수사항 나왔다]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=106390&amp;page=1&amp;mkind=1&amp;kind=2</id>
@@ -81,47 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=106383&amp;page=1&amp;mkind=1&amp;kind=1"/>
         <updated>2022-04-27T06:21:56.504Z</updated>
         <content type="html"><![CDATA[스토머스(Stormous)라는 사이버 갱단이 코카콜라로부터 161GB의 데이터를 훔쳐냈다고 주장했다. 보안 외신 레지스터에 의하면 코카콜라는 자체 조사를 통해 이 주장의 진위 여부를 확인하는 중이라고 한다. 스토머스는 랜섬웨어 갱단이며, 러시아 정부의 우크라이나 침공을...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[수수께끼 같은 미 정부 하청 업체, CIA와 NSA를 추적]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=106382&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=106382&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-04-27T06:21:56.506Z</updated>
-        <content type="html"><![CDATA[미국 정부의 하청 업체 중에 A6라는 곳이 있다. 정식 이름은 아노말리식스(Anomaly Six)이고, 주로 사용자 데이터를 대규모로 수집하고 구매한 후, 이를 가지고 대량 감시 서비스를 제공하거나 각종 첩보를 추출한다. 하지만 그것 외에 이 회사에 대해 알려진 바는 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이란의 로켓키튼, VM웨어의 취약점을 익스플로잇 하는 중]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=106381&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=106381&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-04-27T04:43:23.641Z</updated>
-        <content type="html"><![CDATA[이란의 해킹 그룹인 로켓키튼(Rocket Kitten)이 VM웨어 워크스페이스의 취약점을 익스플로잇 하고 있다고 보안 외신 SC미디어가 보도했다. 로켓키튼이 익스플로잇 하는 취약점은 CVE-2022-22954이며, 이를 익스플로잇 하는 데 성공할 경우 공격자에게는 공격...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미 국무부, 낫페트야 공격 배후 세력에 1천만 달러 현상금 걸어]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=106380&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=106380&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-04-27T04:43:23.644Z</updated>
-        <content type="html"><![CDATA[미국 국무부가 2017년 6월 발생했던 낫페트야(NotPetya) 사이버 공격의 배후 세력에 대한 정보를 제공하는 사람에게는 최대 1천만 달러의 현상금을 수여하겠다고 발표했다. 보안 외신 시큐리티위크에 따르면 당시 낫페트야는 전 세계 수십만 대의 시스템을 마비시키며 수...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[화웨이, 친환경적이고 지능화된 세상을 위한 끊임없는 혁신 발표]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=106378&amp;page=1&amp;mkind=1&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=106378&amp;page=1&amp;mkind=1&amp;kind=3"/>
-        <updated>2022-04-27T04:43:23.654Z</updated>
-        <content type="html"><![CDATA[화웨이가 26일 중국 선전에서 ‘제19회 글로벌 애널리스트 서밋(Global Analyst Summit, 이하 HAS)’를 개최했다. 올해 서밋에 전 세계의 산업 애널리스트와 재무 분석가, 주요 오피니언 리더 등이 참석하여 미래 산업 동향과 화웨이의 성장 전략을 공유한...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[금융권 표적 고위험 사이버공격 시도 줄었다]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=106377&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=106377&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-04-27T04:43:23.655Z</updated>
-        <content type="html"><![CDATA[금융보안원(원장 김철웅)은 금융권 표적의 지능화·고도화된 사이버위협에 선제적 예방 및 신속한 대응 등 사이버보안의 최전선에서 안전하고 신뢰할 수 있는 금융환경을 지원하고 있다고 밝혔다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[중기부, ‘제2차 규제자유특구 도전 챌린지’ 참가자 모집]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=106359&amp;page=1&amp;mkind=1&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=106359&amp;page=1&amp;mkind=1&amp;kind=2"/>
-        <updated>2022-04-27T04:43:23.655Z</updated>
-        <content type="html"><![CDATA[중소벤처기업부는 규제자유특구 사업 성과 제고를 위해 ‘규제자유특구 도전 잇기(챌린지)’를 개최하고, 27일부터 5월 27일까지 참가자를 모집한다고 밝혔다.]]></content>
     </entry>
 </feed>
