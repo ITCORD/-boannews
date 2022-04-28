@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 28 Apr 2022 15:23:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Apr 2022 16:29:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -128,6 +128,14 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/20220422PLAT-S.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[애자일과 클라우드의 보편화로 갈수록 위험해지고 있는 API]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106395&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106395&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Thu, 28 Apr 2022 13:36:21 GMT</pubDate>
+            <content:encoded><![CDATA[애자일 개발 환경에 대한 인기가 점점 올라감에 따라 API의 사용량도 계속해서 증가하고 있다. 덕분에 소프트웨어에 대한 의존도가 높은 기업들은 매우 편리하게 사업...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/20278765_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[SECON & eGISEC 2022] SSR-지란지교시큐리티, 보안 솔루션으로 ‘콜라보’]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=106243&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=106243&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
@@ -150,14 +158,6 @@
             <pubDate>Wed, 27 Apr 2022 07:16:59 GMT</pubDate>
             <content:encoded><![CDATA[최근 미국 산업 현장에서 두 개의 ICS 멀웨어 프레임워크가 발견됐다. 파이프드림(Pipedream) 혹은 인컨트롤러(Incontroller)라고 불리는 악성 요...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/19550480_copy_295x190_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[애자일과 클라우드의 보편화로 갈수록 위험해지고 있는 API]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106395&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106395&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Thu, 28 Apr 2022 13:36:21 GMT</pubDate>
-            <content:encoded><![CDATA[애자일 개발 환경에 대한 인기가 점점 올라감에 따라 API의 사용량도 계속해서 증가하고 있다. 덕분에 소프트웨어에 대한 의존도가 높은 기업들은 매우 편리하게 사업...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/20278765_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[산업부, ‘산업데이터 계약 가이드라인 토론회’ 개최]]></title>
