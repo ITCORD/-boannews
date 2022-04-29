@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-04-29T05:22:07.311Z</updated>
+    <updated>2022-04-29T06:25:39.816Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2021년, 구글은 플레이 스토어에 접근하려는 악성앱 120만 개를 차단]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=106458&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=106458&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-04-29T06:22:10.646Z</updated>
+        <content type="html"><![CDATA[보안 외신 시큐리티위크는 구글의 플레이 스토어 관련 보고서를 인용하여 지난 한 해 120만 개 악성 앱이 사전에 차단됐다고 보도했다. 이는 구글이 플레이 스토어의 보안을 위해 구축한 자동화 시스템에 걸린 앱들의 개수이기도 하다. 또한 이러한 앱들과 연루된 19만 개의 ...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[일본 CERT, 이모체크 통해 64비트 새로운 이모텟 발견]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=106457&amp;page=1&amp;mkind=1&amp;kind=1</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=106422&amp;page=1&amp;mkind=1&amp;kind=1"/>
         <updated>2022-04-28T08:23:29.514Z</updated>
         <content type="html"><![CDATA[보안 외신 해커뉴스에 의하면 중국 정부의 후원을 받고 있는 해킹 단체가 러시아 군을 겨냥해 공격을 실시하고 있다고 한다. 해커들이 사용하고 있는 건 플러그엑스(PlugX)라는 오래된 멀웨어의 최신 버전이다. 문제의 단체는 브론즈프레지던트(Bronze President)...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[새로운 랜섬웨어 갱 블랙바스타, 공격 활동 거세게 이어가]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=106421&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=106421&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-04-28T05:40:22.483Z</updated>
-        <content type="html"><![CDATA[IT 외신 블리핑컴퓨터는 새 랜섬웨어 갱인 블랙바스타(Black Basta)에 대해 보도했다. 이번 달부터 활동을 시작한 것으로 보인다고 하는데, 이미 최소 12개 기업들이 당했다고 한다. 피해 조직들마다 다른 금액을 요구하는 것으로 보이는데, 한 기업의 경우 2백만 ...]]></content>
     </entry>
 </feed>
