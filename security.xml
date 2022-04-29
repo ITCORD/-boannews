@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-04-29T08:29:55.911Z</updated>
+    <updated>2022-04-29T09:20:42.141Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[에이쓰리시큐리티, KISIA 정보보호 지원사업 공급기업으로 선정]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=106464&amp;page=1&amp;mkind=1&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=106464&amp;page=1&amp;mkind=1&amp;kind=3"/>
+        <updated>2022-04-29T09:18:24.533Z</updated>
+        <content type="html"><![CDATA[에이쓰리시큐리티(대표 한재호)는 최근 과학기술정보통신부와 한국인터넷진흥원이 주관하는 ‘중소기업 정보보호 컨설팅 및 보안솔루션 지원사업’의 공급기업으로 선정됐다고 밝혔다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[사내문서 활용의 어려움, 인공지능 지식관리 솔루션으로 극복]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=106452&amp;page=1&amp;mkind=1&amp;kind=3</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=106425&amp;page=1&amp;mkind=1&amp;kind=1"/>
         <updated>2022-04-29T03:25:50.595Z</updated>
         <content type="html"><![CDATA[중국의 해킹 공격 대상은 적군과 아군을 가리지 않는 모양이다. 최근 중국 해커들이 러시아 군을 공격했다는 사실이 보안 업체 시큐어웍스(Secureworks)에 의해 드러났다. 공격의 주체는 중국 정부가 운영하는 APT 단체인 브론즈프레지던트(Bronze Presiden...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[S2W의 CTI 플랫폼 ‘퀘이사’... 서상덕 대표 “인텔리전스 보안시장 첨병”]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=106424&amp;page=1&amp;mkind=1&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=106424&amp;page=1&amp;mkind=1&amp;kind=3"/>
-        <updated>2022-04-28T08:23:29.510Z</updated>
-        <content type="html"><![CDATA[“퀘이사(Quaxar)는 다크웹과 딥웹에서부터 시작되는 공격을 비롯해 랜섬웨어나 피싱, APT 공격 등 까다로운 신종 사이버 위협에 대응하기 위한 효과적이고 즉각적인 예방책입니다. 편의성과 높은 성능을 바탕으로 보안 위협을 관리할 수 있어야 합니다.”]]></content>
     </entry>
 </feed>
