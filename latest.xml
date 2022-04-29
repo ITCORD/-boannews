@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Apr 2022 03:28:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Apr 2022 04:33:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -86,6 +86,22 @@
             <pubDate>Thu, 28 Apr 2022 08:22:56 GMT</pubDate>
             <content:encoded><![CDATA[4월 28일 발간된 ‘Weekly Security Premium Report’ 제48호에는 &lt;보안 심층 리포트&gt; 코너에서 올해 3월에 새롭게 등...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/20220418REPORT-SM.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[사내문서 활용의 어려움, 인공지능 지식관리 솔루션으로 극복]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106452&amp;page=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106452&amp;page=1&amp;kind=3</guid>
+            <pubDate>Fri, 29 Apr 2022 04:30:26 GMT</pubDate>
+            <content:encoded><![CDATA[인공지능 문서중앙화 솔루션 전문 기업 엠클라우독(대표 유상열)이 국내 공공 및 기업 관계자 중 절반 이상이 사내 문서를 탐색하고 활용하는데 어려움을 느끼고...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/clouldcopy-c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[인터넷신문위원회, 한국생명존중희망재단과 함께 올해 첫 공동교육 진행]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106459&amp;page=1&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106459&amp;page=1&amp;kind=2</guid>
+            <pubDate>Fri, 29 Apr 2022 04:30:26 GMT</pubDate>
+            <content:encoded><![CDATA[인터넷신문 유일의 자율규제 기구인 인터넷신문위원회(위원장 민병호, 이하 인신위)는 27일 자율심의에 참여하는 서약사를 대상으로 한국생명존중희망재단(이사장 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/20220429INSIN-S.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[나우네버, 개인정보 파기이력관리로 성과공유제 추진]]></title>
@@ -223,22 +239,6 @@
             <pubDate>Fri, 29 Apr 2022 03:25:23 GMT</pubDate>
             <content:encoded><![CDATA[서울시는 국토부와 함께 추진 중인 자율차 시범운행지구 C-ITS 구축 사업의 일환으로 디지털 트윈 기술을 적용해 현실과 동일한 ‘상암 자율차 시범운행지구 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/4-136(295).jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한서대 항공보안학과, 항공보안공모전에서 16개 중 11개 수상]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106426&amp;page=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106426&amp;page=1&amp;kind=3</guid>
-            <pubDate>Thu, 28 Apr 2022 08:22:56 GMT</pubDate>
-            <content:encoded><![CDATA[한서대학교 항공보안학과가 제1회 미래항공보안포럼과 항공보안 공모전에서 11개상을 수상했다.]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/22042802ss.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[중국의 APT 단체, 러시아 군 요원들 노리고 해킹 공격 실시]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106425&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106425&amp;page=1&amp;kind=1</guid>
-            <pubDate>Thu, 28 Apr 2022 08:22:56 GMT</pubDate>
-            <content:encoded><![CDATA[중국의 해킹 공격 대상은 적군과 아군을 가리지 않는 모양이다. 최근 중국 해커들이 러시아 군을 공격했다는 사실이 보안 업체 시큐어웍스(Secureworks...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/14701462_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-04-29T03:28:31.889Z</updated>
+    <updated>2022-04-29T04:33:08.629Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[일본 CERT, 이모체크 통해 64비트 새로운 이모텟 발견]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=106457&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=106457&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-04-29T04:30:45.957Z</updated>
+        <content type="html"><![CDATA[IT 외신 블리핑컴퓨터에 의하면 일본 CERT가 발표한 이모체크(EmoCheck) 유틸리티의 새로운 버전에 대해 보도했다. 이모체크는 이모텟(Emotet)이라는 멀웨어를 탐지하는 도구로, 이번에 이모텟 운영자들이 64비트 버전을 새롭게 활용하기 시작함에 따라 업데이트 ...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TA410 그룹에 소속된 세 개의 해킹 팀의 전모 드러나]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=106456&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=106456&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-04-29T04:30:45.969Z</updated>
+        <content type="html"><![CDATA[보안 외신 해커뉴스가 TA401이라고 알려진 해킹 그룹에 대해 보도했다. 이에 의하면 TA401은 세 개의 팀으로 구성된 해킹 연합이라고 하며, 이 세 팀은 각각 졸리프로그(JollyFrog), 플로잉프로그(FlowingFrog), 루킹프로그(LookingFrog)라고...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이미 수많은 해킹 그룹이 사용하는 새 멀웨어, 범블비]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=106455&amp;page=1&amp;mkind=1&amp;kind=1</id>
@@ -109,19 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=106421&amp;page=1&amp;mkind=1&amp;kind=1"/>
         <updated>2022-04-28T05:40:22.483Z</updated>
         <content type="html"><![CDATA[IT 외신 블리핑컴퓨터는 새 랜섬웨어 갱인 블랙바스타(Black Basta)에 대해 보도했다. 이번 달부터 활동을 시작한 것으로 보인다고 하는데, 이미 최소 12개 기업들이 당했다고 한다. 피해 조직들마다 다른 금액을 요구하는 것으로 보이는데, 한 기업의 경우 2백만 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[새로운 랜섬웨어 오닉스, 파일들을 파괴한다]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=106420&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=106420&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-04-28T04:11:07.430Z</updated>
-        <content type="html"><![CDATA[IT 외신 블리핑컴퓨터에 의하면 오닉스(Onyx)라는 이름의 새로운 랜섬웨어가 등장했다고 한다. 파괴적인 목적을 가지고 운영되는 것처럼 보인다. 피해자들이 돈을 지불하더라도 파일을 복구시키지 않기 때문이다. 오닉스는 최근 유행하는 것처럼 이중 협박 전략을 차용하고 있다...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MS, “러시아가 군 부대와 사이버 부대의 합을 맞춰 운영 중”]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=106419&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=106419&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-04-28T04:11:07.449Z</updated>
-        <content type="html"><![CDATA[러시아의 여러 해킹 조직들이 우크라이나를 겨냥해 수많은 사이버 공격을 실시하고 있는데, 그 움직임이 러시아 군 병력의 움직임과 잘 들어맞는다고 MS가 발표했다. 즉 러시아가 전통의 병력과 사이버 공간의 병력을 아우르며 운영하는 하이브리드전을 실시하고 있다는 것이다. 또...]]></content>
     </entry>
 </feed>

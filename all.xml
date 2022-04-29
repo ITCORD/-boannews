@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Apr 2022 03:28:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Apr 2022 04:33:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -86,6 +86,22 @@
             <pubDate>Thu, 28 Apr 2022 08:22:56 GMT</pubDate>
             <content:encoded><![CDATA[4월 28일 발간된 ‘Weekly Security Premium Report’ 제48호에는 &lt;보안 심층 리포트&gt; 코너에서 올해 3월에 새롭게 등...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/20220418REPORT-SM.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[사내문서 활용의 어려움, 인공지능 지식관리 솔루션으로 극복 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106452&amp;page=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106452&amp;page=1&amp;kind=3</guid>
+            <pubDate>Fri, 29 Apr 2022 04:30:26 GMT</pubDate>
+            <content:encoded><![CDATA[인공지능 문서중앙화 솔루션 전문 기업 엠클라우독(대표 유상열)이 국내 공공 및 기업 관계자 중 절반 이상이 사내 문서를 탐색하고 활용하는데 어려움을 느끼고...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/clouldcopy-c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[인터넷신문위원회, 한국생명존중희망재단과 함께 올해 첫 공동교육 진행 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106459&amp;page=1&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106459&amp;page=1&amp;kind=2</guid>
+            <pubDate>Fri, 29 Apr 2022 04:30:26 GMT</pubDate>
+            <content:encoded><![CDATA[인터넷신문 유일의 자율규제 기구인 인터넷신문위원회(위원장 민병호, 이하 인신위)는 27일 자율심의에 참여하는 서약사를 대상으로 한국생명존중희망재단(이사장 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/20220429INSIN-S.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[나우네버, 개인정보 파기이력관리로 성과공유제 추진 (보안뉴스 ─ 전체기사)]]></title>
@@ -225,22 +241,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/4-136(295).jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[한서대 항공보안학과, 항공보안공모전에서 16개 중 11개 수상 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106426&amp;page=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106426&amp;page=1&amp;kind=3</guid>
-            <pubDate>Thu, 28 Apr 2022 08:22:56 GMT</pubDate>
-            <content:encoded><![CDATA[한서대학교 항공보안학과가 제1회 미래항공보안포럼과 항공보안 공모전에서 11개상을 수상했다.]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/22042802ss.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[중국의 APT 단체, 러시아 군 요원들 노리고 해킹 공격 실시 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106425&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106425&amp;page=1&amp;kind=1</guid>
-            <pubDate>Thu, 28 Apr 2022 08:22:56 GMT</pubDate>
-            <content:encoded><![CDATA[중국의 해킹 공격 대상은 적군과 아군을 가리지 않는 모양이다. 최근 중국 해커들이 러시아 군을 공격했다는 사실이 보안 업체 시큐어웍스(Secureworks...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/14701462_copy_295x190_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[보안전문가들이 꼽은 클라우드 보안 전략 3가지 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=106252&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=106252&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
@@ -329,20 +329,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/21844641_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[‘국토안보부’ 해킹 대회 통해 122개 보안 취약점 발굴돼 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106305&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106305&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Thu, 28 Apr 2022 04:10:51 GMT</pubDate>
-            <content:encoded><![CDATA[IT 외신 블리핑컴퓨터에 의하면 미국 국토안보부가 진행한 버그바운티 프로그램인 ‘핵 DHS(Hack DHS)’를 통해 122개의 보안 취약점이 새롭게 발굴됐고, ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/17856005_copy_295x190_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[북한 해커들, 새로운 멀웨어 활용하여 대북 매체 기자들 겨냥 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=106351&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=106351&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Thu, 28 Apr 2022 01:56:18 GMT</pubDate>
             <content:encoded><![CDATA[북한과 관련된 내용을 취재 및 보도하는 기자들을 겨냥한 새로운 스피어피싱 캠페인이 발견됐다. 이를 분석한 결과 APT37 혹은 리코쳇천리마(Ricochet Cho...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/21955588_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘국토안보부’ 해킹 대회 통해 122개 보안 취약점 발굴돼 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106305&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106305&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Thu, 28 Apr 2022 04:10:51 GMT</pubDate>
+            <content:encoded><![CDATA[IT 외신 블리핑컴퓨터에 의하면 미국 국토안보부가 진행한 버그바운티 프로그램인 ‘핵 DHS(Hack DHS)’를 통해 122개의 보안 취약점이 새롭게 발굴됐고, ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/17856005_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[서울디지털재단, ‘AI 행정 및 경영혁신 사례’ 공개 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
@@ -398,6 +398,20 @@
             <pubDate>Fri, 29 Apr 2022 03:25:38 GMT</pubDate>
             <content:encoded><![CDATA[최근 도입이 급속도로 확산되고 있는 클라우드는 각 기업마다 조성 환경이 다르다. 퍼블릭 클라우드에서부터 온프레미스와 클라우드를 결합한 하이브리드 클라우드, 그리고...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/cloud-c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[일본 CERT, 이모체크 통해 64비트 새로운 이모텟 발견 (보안뉴스 ─ SECURITY)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106457&amp;page=1&amp;mkind=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106457&amp;page=1&amp;mkind=1&amp;kind=1</guid>
+            <pubDate>Fri, 29 Apr 2022 04:30:45 GMT</pubDate>
+            <content:encoded><![CDATA[IT 외신 블리핑컴퓨터에 의하면 일본 CERT가 발표한 이모체크(EmoCheck) 유틸리티의 새로운 버전에 대해 보도했다. 이모체크는 이모텟(Emotet)이라는 멀웨어를 탐지하는 도구로, 이번에 이모텟 운영자들이 64비트 버전을 새롭게 활용하기 시작함에 따라 업데이트 ...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[TA410 그룹에 소속된 세 개의 해킹 팀의 전모 드러나 (보안뉴스 ─ SECURITY)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106456&amp;page=1&amp;mkind=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106456&amp;page=1&amp;mkind=1&amp;kind=1</guid>
+            <pubDate>Fri, 29 Apr 2022 04:30:45 GMT</pubDate>
+            <content:encoded><![CDATA[보안 외신 해커뉴스가 TA401이라고 알려진 해킹 그룹에 대해 보도했다. 이에 의하면 TA401은 세 개의 팀으로 구성된 해킹 연합이라고 하며, 이 세 팀은 각각 졸리프로그(JollyFrog), 플로잉프로그(FlowingFrog), 루킹프로그(LookingFrog)라고...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[이미 수많은 해킹 그룹이 사용하는 새 멀웨어, 범블비 (보안뉴스 ─ SECURITY)]]></title>
@@ -503,20 +517,6 @@
             <guid>https://www.boannews.com/media/view.asp?idx=106421&amp;page=1&amp;mkind=1&amp;kind=1</guid>
             <pubDate>Thu, 28 Apr 2022 05:40:22 GMT</pubDate>
             <content:encoded><![CDATA[IT 외신 블리핑컴퓨터는 새 랜섬웨어 갱인 블랙바스타(Black Basta)에 대해 보도했다. 이번 달부터 활동을 시작한 것으로 보인다고 하는데, 이미 최소 12개 기업들이 당했다고 한다. 피해 조직들마다 다른 금액을 요구하는 것으로 보이는데, 한 기업의 경우 2백만 ...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[새로운 랜섬웨어 오닉스, 파일들을 파괴한다 (보안뉴스 ─ SECURITY)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106420&amp;page=1&amp;mkind=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106420&amp;page=1&amp;mkind=1&amp;kind=1</guid>
-            <pubDate>Thu, 28 Apr 2022 04:11:07 GMT</pubDate>
-            <content:encoded><![CDATA[IT 외신 블리핑컴퓨터에 의하면 오닉스(Onyx)라는 이름의 새로운 랜섬웨어가 등장했다고 한다. 파괴적인 목적을 가지고 운영되는 것처럼 보인다. 피해자들이 돈을 지불하더라도 파일을 복구시키지 않기 때문이다. 오닉스는 최근 유행하는 것처럼 이중 협박 전략을 차용하고 있다...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[MS, “러시아가 군 부대와 사이버 부대의 합을 맞춰 운영 중” (보안뉴스 ─ SECURITY)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106419&amp;page=1&amp;mkind=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106419&amp;page=1&amp;mkind=1&amp;kind=1</guid>
-            <pubDate>Thu, 28 Apr 2022 04:11:07 GMT</pubDate>
-            <content:encoded><![CDATA[러시아의 여러 해킹 조직들이 우크라이나를 겨냥해 수많은 사이버 공격을 실시하고 있는데, 그 움직임이 러시아 군 병력의 움직임과 잘 들어맞는다고 MS가 발표했다. 즉 러시아가 전통의 병력과 사이버 공간의 병력을 아우르며 운영하는 하이브리드전을 실시하고 있다는 것이다. 또...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[현대차·기아, 지능 제어 공동연구실 설립 (보안뉴스 ─ IT)]]></title>
@@ -2453,6 +2453,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2021/12/20415881_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[사내문서 활용의 어려움, 인공지능 지식관리 솔루션으로 극복 (보안뉴스 ─ 기업뉴스)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106452&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106452&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=</guid>
+            <pubDate>Fri, 29 Apr 2022 04:32:47 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/view.asp?idx=106452&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=">
+					
+					<img src="/media/upFiles2/2022/04/clouldcopy-c.jpg" alt="" class="news_img" height="70">
+					
+					<span class="news_txt">사내문서 활용의 어려움, 인공지능 지식관리 솔루션으로 극복</span>
+					</a><br>
+					<a href="/media/view.asp?idx=106452&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=">인공지능 문서중앙화 솔루션 전문 기업 엠클라우독(대표 유상열)이 국내 공공 및 기업 관계자 중 절반 이상이 사내 문서를 탐색하고 활용하는데 어려움을 느끼고 있다고...</a> <span class="news_writer">권준  기자 | 2022년 04월 29일 13:26</span>]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/clouldcopy-c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[코리아엑스퍼트, 보험심사 자동화를 위한 ‘NexS³-SML’ 도입 증가 (보안뉴스 ─ 기업뉴스)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=106451&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=106451&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=</guid>
@@ -2717,17 +2731,6 @@
 					</a><br>
 					<a href="/media/view.asp?idx=106287&amp;page=1&amp;mkind=&amp;kind=2&amp;skind=8&amp;search=title&amp;find=">SK텔레콤이 서울경찰청과 함께 선보인 ‘보이스피싱 번호 차단 서비스’를 통해 지난 1년간 1만5,737개의 보이스피싱 전화 연결을 차단했다며 앞으로도 고객 보호를...</a> <span class="news_writer">박미영 기자 | 2022년 04월 23일 09:19</span>]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/4-72(295).jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[포티넷, IDC 조사에서 ‘보안 어플라이언스 출하량 1위’ 기록 (보안뉴스 ─ 기업뉴스)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106271&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106271&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=</guid>
-            <pubDate>Fri, 22 Apr 2022 01:24:08 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/view.asp?idx=106271&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=">
-					
-					<span class="news_txt">포티넷, IDC 조사에서 ‘보안 어플라이언스 출하량 1위’ 기록</span>
-					</a><br>
-					<a href="/media/view.asp?idx=106271&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=">광범위하고 자동화된 통합 사이버보안 분야의 글로벌 리더인 포티넷코리아(대표 조원균)는 4월 22일, IDC가 최근 발표한 ‘2021년 4분기 보안 어플라이언스 트...</a> <span class="news_writer">원병철 기자 | 2022년 04월 22일 10:08</span>]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[인사] 뉴스핌 (보안뉴스 ─ 인사 부고)]]></title>
