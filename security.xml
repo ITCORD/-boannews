@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-04-29T07:20:05.471Z</updated>
+    <updated>2022-04-29T08:29:55.911Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[사내문서 활용의 어려움, 인공지능 지식관리 솔루션으로 극복]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=106452&amp;page=1&amp;mkind=1&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=106452&amp;page=1&amp;mkind=1&amp;kind=3"/>
+        <updated>2022-04-29T08:27:14.695Z</updated>
+        <content type="html"><![CDATA[인공지능 문서중앙화 솔루션 전문 기업 엠클라우독(대표 유상열)이 국내 공공 및 기업 관계자 중 절반 이상이 사내 문서를 탐색하고 활용하는데 어려움을 느끼고 있다고 29일 밝혔다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[인터넷신문위원회, 한국생명존중희망재단과 함께 올해 첫 공동교육 진행]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=106459&amp;page=1&amp;mkind=1&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=106459&amp;page=1&amp;mkind=1&amp;kind=2"/>
+        <updated>2022-04-29T08:27:14.700Z</updated>
+        <content type="html"><![CDATA[인터넷신문 유일의 자율규제 기구인 인터넷신문위원회(위원장 민병호, 이하 인신위)는 27일 자율심의에 참여하는 서약사를 대상으로 한국생명존중희망재단(이사장 황태연)과 공동으로 제1차 ‘생명존중희망교육’을 진행했다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2021년, 구글은 플레이 스토어에 접근하려는 악성앱 120만 개를 차단]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=106458&amp;page=1&amp;mkind=1&amp;kind=1</id>
@@ -109,19 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=106424&amp;page=1&amp;mkind=1&amp;kind=3"/>
         <updated>2022-04-28T08:23:29.510Z</updated>
         <content type="html"><![CDATA[“퀘이사(Quaxar)는 다크웹과 딥웹에서부터 시작되는 공격을 비롯해 랜섬웨어나 피싱, APT 공격 등 까다로운 신종 사이버 위협에 대응하기 위한 효과적이고 즉각적인 예방책입니다. 편의성과 높은 성능을 바탕으로 보안 위협을 관리할 수 있어야 합니다.”]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[리눅스에서 발견된 두 개의 권한 상승 취약점, 님부스폰]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=106423&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=106423&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-04-28T08:23:29.513Z</updated>
-        <content type="html"><![CDATA[보안 블로그 시큐리티어페어즈는 리눅스에서 두 개의 권한 상승 취약점이 발견됐다고 발표했다. 이 두 개의 취약점은 합해서 님부스폰(Nimbuspwn)이라고 한다. CVE-2022-29799와 CVE-2022-29800이며, 익스플로잇에 성공하면 공격자가 여러 가지 악성 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[중국 해커들, 플러그엑스로 러시아 군 요원들 공격해]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=106422&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=106422&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-04-28T08:23:29.514Z</updated>
-        <content type="html"><![CDATA[보안 외신 해커뉴스에 의하면 중국 정부의 후원을 받고 있는 해킹 단체가 러시아 군을 겨냥해 공격을 실시하고 있다고 한다. 해커들이 사용하고 있는 건 플러그엑스(PlugX)라는 오래된 멀웨어의 최신 버전이다. 문제의 단체는 브론즈프레지던트(Bronze President)...]]></content>
     </entry>
 </feed>
