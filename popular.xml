@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Apr 2022 14:18:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Apr 2022 15:21:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -112,20 +112,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/money_042501_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[세상이 알고 있는 7번째 ICS 멀웨어, 성공적인 방어 사례 남기다]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106311&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106311&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Wed, 27 Apr 2022 07:16:59 GMT</pubDate>
-            <content:encoded><![CDATA[최근 미국 산업 현장에서 두 개의 ICS 멀웨어 프레임워크가 발견됐다. 파이프드림(Pipedream) 혹은 인컨트롤러(Incontroller)라고 불리는 악성 요...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/19550480_copy_295x190_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[퍼블릭·하이브리드·프라이빗 클라우드, 각 환경별 보안전략 수립방안은?]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=106298&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=106298&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
             <pubDate>Fri, 29 Apr 2022 03:25:38 GMT</pubDate>
             <content:encoded><![CDATA[최근 도입이 급속도로 확산되고 있는 클라우드는 각 기업마다 조성 환경이 다르다. 퍼블릭 클라우드에서부터 온프레미스와 클라우드를 결합한 하이브리드 클라우드, 그리고...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/cloud-c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[세상이 알고 있는 7번째 ICS 멀웨어, 성공적인 방어 사례 남기다]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106311&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106311&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Wed, 27 Apr 2022 07:16:59 GMT</pubDate>
+            <content:encoded><![CDATA[최근 미국 산업 현장에서 두 개의 ICS 멀웨어 프레임워크가 발견됐다. 파이프드림(Pipedream) 혹은 인컨트롤러(Incontroller)라고 불리는 악성 요...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/19550480_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[산업부, ‘산업데이터 계약 가이드라인 토론회’ 개최]]></title>
