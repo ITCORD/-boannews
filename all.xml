@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 29 Apr 2022 06:25:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Apr 2022 07:20:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -275,14 +275,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/k-ict-c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[항공보안협회, 제1회 미래항공보안포럼 개최 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106281&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106281&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
-            <pubDate>Mon, 25 Apr 2022 16:23:24 GMT</pubDate>
-            <content:encoded><![CDATA[대한민국 미래 항공보안 인재를 양성하기 위한 제1회 미래항공보안포럼과 항공보안 공모전이 22일 제21회 세계보안엑스포 동시 행사로 열렸다.]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/22042203ss.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[애자일과 클라우드의 보편화로 갈수록 위험해지고 있는 API (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=106395&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=106395&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
@@ -392,6 +384,14 @@
             <pubDate>Fri, 29 Apr 2022 06:21:54 GMT</pubDate>
             <content:encoded><![CDATA[2022년 1사분기에는 디도스 공격이 지난 분기보다 무려 46%나 증가했다. 이는 러시아가 우크라이나를 침공하면서 핵티비스트들의 활동이 전 세계적으로 크게 증가한...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/21044393_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[이슈칼럼] 방위산업 사이버안보 주권을 지키자 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106297&amp;page=1&amp;kind=6&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106297&amp;page=1&amp;kind=6&amp;search=title&amp;find=</guid>
+            <pubDate>Fri, 29 Apr 2022 07:16:46 GMT</pubDate>
+            <content:encoded><![CDATA[최근 미국은 국방부와 계약하는 업체를 사이버 위협으로부터 보호하기 위해 2025년부터 사이버보안 성숙도 인증(CMMC : Cybersecurity Maturity...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/21355097_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[발전 분야 오염 물질, 사물인터넷 기반으로 최첨단 관리한다 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
