@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Apr 2022 18:22:47 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Apr 2022 19:16:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -292,20 +292,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/21955588_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[‘국토안보부’ 해킹 대회 통해 122개 보안 취약점 발굴돼 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106305&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106305&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Thu, 28 Apr 2022 04:10:51 GMT</pubDate>
-            <content:encoded><![CDATA[IT 외신 블리핑컴퓨터에 의하면 미국 국토안보부가 진행한 버그바운티 프로그램인 ‘핵 DHS(Hack DHS)’를 통해 122개의 보안 취약점이 새롭게 발굴됐고, ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/17856005_copy_295x190_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[퍼블릭·하이브리드·프라이빗 클라우드, 각 환경별 보안전략 수립방안은? (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=106298&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=106298&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
             <pubDate>Fri, 29 Apr 2022 03:25:38 GMT</pubDate>
             <content:encoded><![CDATA[최근 도입이 급속도로 확산되고 있는 클라우드는 각 기업마다 조성 환경이 다르다. 퍼블릭 클라우드에서부터 온프레미스와 클라우드를 결합한 하이브리드 클라우드, 그리고...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/cloud-c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘국토안보부’ 해킹 대회 통해 122개 보안 취약점 발굴돼 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106305&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106305&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Thu, 28 Apr 2022 04:10:51 GMT</pubDate>
+            <content:encoded><![CDATA[IT 외신 블리핑컴퓨터에 의하면 미국 국토안보부가 진행한 버그바운티 프로그램인 ‘핵 DHS(Hack DHS)’를 통해 122개의 보안 취약점이 새롭게 발굴됐고, ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/17856005_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[카카오톡 이용자보호조치 안내? 깜빡 속았다간 카카오 계정 탈취 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
