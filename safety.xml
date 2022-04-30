@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=4</id>
     <title>보안뉴스 ─ SAFETY</title>
-    <updated>2022-04-29T23:20:36.982Z</updated>
+    <updated>2022-04-30T01:32:04.911Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[심평원, 폭발물 테러 대비 관계기관 합동훈련 실시]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=106442&amp;page=1&amp;mkind=4&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=106442&amp;page=1&amp;mkind=4&amp;kind=2"/>
+        <updated>2022-04-30T01:29:45.786Z</updated>
+        <content type="html"><![CDATA[건강보험심사평가원은 지난 28일 심사평가원 1동 사옥에서 ‘2022년도 폭발물 테러·소방 합동훈련’을 실시하고, 관계기관과 테러 및 재난 대응 체계를 점검했다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[행안부, 전국 기존 공공시설물 내진율 72% 목표 달성]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=106434&amp;page=1&amp;mkind=4&amp;kind=2</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=106256&amp;page=1&amp;mkind=4&amp;kind=2"/>
         <updated>2022-04-26T01:23:34.897Z</updated>
         <content type="html"><![CDATA[한국교통안전공단은 지난 21일 한양대와 교통안전 분야 인적 교류와 우수 인력 양성을 위한 업무협약(MOU)을 체결했다고 밝혔다. 양 기관은 △지역사회 발전을 위해 인적·물적 자원, 정보, 복지 등 학술 교류를 통한 상호 협력 △한국교통안전공단 직원의 전문성과 업무능력 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[경기북부소방-KT, 바디캠 등 정보통신기술로 재난 현장 대응력 강화]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=106221&amp;page=1&amp;mkind=4&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=106221&amp;page=1&amp;mkind=4&amp;kind=2"/>
-        <updated>2022-04-23T01:15:40.878Z</updated>
-        <content type="html"><![CDATA[경기도북부소방재난본부는 지난 20일 KT강북강원법인고객본부와 ‘바디캠 스마트솔루션 시범 사업 및 재난 현장 음영지역 이동기지국 지원’ 업무협약을 체결했다고 밝혔다.]]></content>
     </entry>
 </feed>

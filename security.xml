@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-04-29T23:20:36.967Z</updated>
+    <updated>2022-04-30T01:32:04.912Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[블록체인 ‘경험’을 위한 마크애니의 선택, ‘BX사업부’를 만나다]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=106468&amp;page=1&amp;mkind=1&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=106468&amp;page=1&amp;mkind=1&amp;kind=3"/>
+        <updated>2022-04-30T01:29:09.945Z</updated>
+        <content type="html"><![CDATA[블록체인(Blockchain)이 등장한 것은 꽤 오래 전이지만, 화려한 등장과 달리 그간의 성과는 생각보다 잘 알려지지 않았다. 워낙 어려운 기술이다 보니 개발하는 곳도 많지 않았고, 고객들도 블록체인 기술을 어디에 어떻게 사용해야 할지 몰랐기 때문이다. 이에 개발사들...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MS, 애저 서비스에서 발견된 위험한 취약점 2개 패치해]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=106469&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=106469&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-04-30T01:29:09.948Z</updated>
+        <content type="html"><![CDATA[마이크로소프트가 PostgreSQL Flexible Server의 애저 데이터베이스의 취약점 두 개를 패치했다. 첫 번째는 MS가 PostgreSQL 엔진에 최근 가한 변경 사항으로 인해 발생한 권한 상승 취약점이고, 두 번째는 첫 번째 취약점으로 인해 야기되는 교차 ...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[에이쓰리시큐리티, KISIA 정보보호 지원사업 공급기업으로 선정]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=106464&amp;page=1&amp;mkind=1&amp;kind=3</id>
@@ -109,19 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=106427&amp;page=1&amp;mkind=1&amp;kind=1"/>
         <updated>2022-04-29T03:25:50.572Z</updated>
         <content type="html"><![CDATA[북한 공작원의 지령을 받아 군 전산망 해킹에 도움을 준 육군 대위와 가상자산 거래소 대표가 각각 군과 경찰에 체포됐다. 이들은 북한 공작원으로부터 가상화폐를 대가로 받은 후 ‘합동지휘통제체계(KJCCS)’ 로그인 자료 등을 유출한 혐의를 받고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Weekly Security Premium Report 제48호 발간! 최근 글로벌 보안·IT 이슈 5]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=106429&amp;page=1&amp;mkind=1&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=106429&amp;page=1&amp;mkind=1&amp;kind=3"/>
-        <updated>2022-04-29T03:25:50.593Z</updated>
-        <content type="html"><![CDATA[4월 28일 발간된 ‘Weekly Security Premium Report’ 제48호에는 &lt;보안 심층 리포트&gt; 코너에서 올해 3월에 새롭게 등장한 글로벌 보안/IT 이슈 5가지를 선정해 소개했다. 5가지 이슈로 러시아-우크라이나 전쟁과 관련한 사이버 상에서...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[중국의 APT 단체, 러시아 군 요원들 노리고 해킹 공격 실시]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=106425&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=106425&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-04-29T03:25:50.595Z</updated>
-        <content type="html"><![CDATA[중국의 해킹 공격 대상은 적군과 아군을 가리지 않는 모양이다. 최근 중국 해커들이 러시아 군을 공격했다는 사실이 보안 업체 시큐어웍스(Secureworks)에 의해 드러났다. 공격의 주체는 중국 정부가 운영하는 APT 단체인 브론즈프레지던트(Bronze Presiden...]]></content>
     </entry>
 </feed>
