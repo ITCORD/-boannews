@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Apr 2022 16:24:33 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Apr 2022 17:20:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -244,14 +244,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/20220429kakao-s.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
-            <title><![CDATA[[bnTV] 우리나라 정권교체 시기 노린 북한의 해킹 공격 실태는? (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106293&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106293&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Sun, 24 Apr 2022 17:18:11 GMT</pubDate>
-            <content:encoded><![CDATA[북한에서는 최근 정권교체 시기에 정보 탈취를 위해 인수위원회는 물론 대북종사자분들, 외교·국방 분야 종사자 대상으로 해서 특정인 대상으로 공격을 많이 하고 있는 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/20220424DARK-S.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[北 지령 받고 군 전산망 해킹한 육군 대위와 가상자산 거래소 대표 구속 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=106427&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=106427&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
@@ -402,6 +394,14 @@
             <pubDate>Sat, 30 Apr 2022 16:22:12 GMT</pubDate>
             <content:encoded><![CDATA[4월 28일 발간된 ‘Weekly Security Premium Report’ 제48호에는 &lt;보안 심층 리포트&gt; 코너에서 올해 3월에 새롭게 등장한 글...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/20220418REPORT-SM.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[증가하는 웹 기반 사이버위협, 대처 조직은 30% 미만? (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106353&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106353&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Sat, 30 Apr 2022 17:18:11 GMT</pubDate>
+            <content:encoded><![CDATA[웹 기반 사이버위협은 계속 늘어나고 있지만, 이에 대처할 수 있는 준비를 갖춘 조직은 30% 미만이라는 조사 결과가 나왔다. 클라우드 보안 리더 멘로시큐리티(지...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/20606603_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[카드뉴스] 인포스틸러 악성코드 TOP 3 (보안뉴스 ─ SECURITY)]]></title>
