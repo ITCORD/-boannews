@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 30 Apr 2022 08:23:14 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Apr 2022 09:19:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -56,20 +56,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/21844641_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[북한 해커들, 새로운 멀웨어 활용하여 대북 매체 기자들 겨냥]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106351&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106351&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Thu, 28 Apr 2022 01:56:18 GMT</pubDate>
-            <content:encoded><![CDATA[북한과 관련된 내용을 취재 및 보도하는 기자들을 겨냥한 새로운 스피어피싱 캠페인이 발견됐다. 이를 분석한 결과 APT37 혹은 리코쳇천리마(Ricochet Cho...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/21955588_copy_295x190_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[단독] 북한 해커 추정 텔레그램 대화 “남조선이 코인에 미쳐 큰 건 준비중”]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=106448&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=106448&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Fri, 29 Apr 2022 19:14:18 GMT</pubDate>
             <content:encoded><![CDATA[남한을 타깃에서 활동하는 북한 공작원(해커)으로 추정되는 사용자의 텔레그램 대화를 &lt;보안뉴스&gt;가 보안전문가를 통해 입수해 공개한다. 해당 대화 내용과 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/teleg_042901_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[북한 해커들, 새로운 멀웨어 활용하여 대북 매체 기자들 겨냥]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106351&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106351&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Thu, 28 Apr 2022 01:56:18 GMT</pubDate>
+            <content:encoded><![CDATA[북한과 관련된 내용을 취재 및 보도하는 기자들을 겨냥한 새로운 스피어피싱 캠페인이 발견됐다. 이를 분석한 결과 APT37 혹은 리코쳇천리마(Ricochet Cho...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/21955588_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘국토안보부’ 해킹 대회 통해 122개 보안 취약점 발굴돼]]></title>
