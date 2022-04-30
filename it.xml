@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=2</id>
     <title>보안뉴스 ─ IT</title>
-    <updated>2022-04-30T01:32:04.894Z</updated>
+    <updated>2022-04-30T03:20:02.937Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[홍남기 부총리, 혁신성장 빅3 추진회의 오찬 간담회 개최]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=106473&amp;page=1&amp;mkind=2&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=106473&amp;page=1&amp;mkind=2&amp;kind=2"/>
+        <updated>2022-04-30T03:16:55.586Z</updated>
+        <content type="html"><![CDATA[홍남기 부총리 겸 기획재정부 장관은 지난 29일 ‘혁신성장 빅3(BIG3) 추진회의 오찬 간담회’를 개최했다. ‘혁신성장 빅3(BIG3) 추진회의’는 혁신성장 ‘4+1의 정책틀(2019.12)’하에서 미래차, 시스템반도체, 바이오헬스 등 빅3 산업을 미래 핵심 성장동력...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[유경동의 IP 인사이트] 데이터법, 특허에 날개를 달다]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=106460&amp;page=1&amp;mkind=2&amp;kind=3</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=106405&amp;page=1&amp;mkind=2&amp;kind=2"/>
         <updated>2022-04-28T01:56:44.313Z</updated>
         <content type="html"><![CDATA[과학기술정보통신부는 디지털 전환으로 산업계에서 가장 필요로 하는 전문·고급 디지털 인재를 양성하는 소프트웨어 중심대학과 소프트웨어 스타랩 사업의 2022년도 신규 선정 결과를 발표했다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[중기부, 딥테크 창업기업 지원으로 혁신창업생태계 구축]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=106403&amp;page=1&amp;mkind=2&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=106403&amp;page=1&amp;mkind=2&amp;kind=2"/>
-        <updated>2022-04-28T01:56:44.313Z</updated>
-        <content type="html"><![CDATA[중소벤처기업부는 28일 ‘창업성장기술개발사업’ 전략형 과제에 창업기업 252개사(271억원)를 선정했다고 밝혔다. 그중 ‘전략형 사업’은 미래성장동력 창출 가능성과 창업기업 적합성을 고려한 전략 분야를 선정해 기술개발을 지원하는 사업으로, 유망 창업기업에 2년간 최대 ...]]></content>
     </entry>
 </feed>
