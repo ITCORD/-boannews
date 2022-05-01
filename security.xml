@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-05-01T15:21:13.570Z</updated>
+    <updated>2022-05-01T16:26:44.811Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[각광 받는 SD-WAN, 차세대 네트워크가 아니라 반창고 정도]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=106471&amp;page=1&amp;mkind=1&amp;kind=4</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=106471&amp;page=1&amp;mkind=1&amp;kind=4"/>
+        <updated>2022-05-01T16:23:48.066Z</updated>
+        <content type="html"><![CDATA[얼마 전 필자는 월스트리트저널의 기사 한 꼭지를 우연히 읽게 됐다. 요즘 운전하는 사람들 중 대다수가 타이어 교체 방법이나 타이어 접지면 깊이 확인 방법, 제대로 타이어에 바람을 넣는 방법을 모른다는 내용이었다. 타이어가 온전한 상태로 운영되는 것이 차량 운행에 있어 ...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[여주시, ‘개인정보보호 및 정보보안 교육’ 실시]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=106477&amp;page=1&amp;mkind=1&amp;kind=2</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=106450&amp;page=1&amp;mkind=1&amp;kind=3"/>
         <updated>2022-04-29T03:25:50.565Z</updated>
         <content type="html"><![CDATA[화웨이가 제19회 글로벌 애널리스트 서밋(Global Analyst Summit, 이하 HAS)의 일환으로 업계 파트너와 함께하는 ‘인텔리전트 월드 2030 포럼(Intelligent World 2030 Forum)’을 개최했다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[안랩, 2022년 1분기 매출 490억, 영업이익 33억]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=106446&amp;page=1&amp;mkind=1&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=106446&amp;page=1&amp;mkind=1&amp;kind=3"/>
-        <updated>2022-04-29T03:25:50.567Z</updated>
-        <content type="html"><![CDATA[안랩(대표 강석균)은 연결 재무제표 기준 올해 1분기 매출액 490억원, 영업이익 33억원(별도 재무제표 기준 매출 478억원, 영업이익 41억원)을 기록했다고 잠정 실적을 공시했다.]]></content>
     </entry>
 </feed>
