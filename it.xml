@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=2</id>
     <title>보안뉴스 ─ IT</title>
-    <updated>2022-05-01T14:19:00.325Z</updated>
+    <updated>2022-05-01T15:21:13.551Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[소진공, 디지털 전환을 위한 ‘내일路, 미래路’ 국제컨퍼런스 개최]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=106474&amp;page=1&amp;mkind=2&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=106474&amp;page=1&amp;mkind=2&amp;kind=2"/>
+        <updated>2022-05-01T15:18:26.588Z</updated>
+        <content type="html"><![CDATA[중소벤처기업부와 소상공인시장진흥공단은 지난 28일 ‘디지털 전환을 통한 소상공인의 미래-내일路, 미래路’ 국제컨퍼런스를 개최했다. 이날 조봉환 이사장은 기조연설자로 나서 ‘소상공인 생태계 조성’의 필요성에 대한 이야기로 컨퍼런스를 시작했다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[홍남기 부총리, 혁신성장 빅3 추진회의 오찬 간담회 개최]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=106473&amp;page=1&amp;mkind=2&amp;kind=2</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=106407&amp;page=1&amp;mkind=2&amp;kind=2"/>
         <updated>2022-04-28T01:56:44.288Z</updated>
         <content type="html"><![CDATA[산업통상자원부 국가기술표준원은 지능형 로봇, 전자 제조 등 첨단 기술 분야 국제표준 선점을 위해 민간 주도의 ‘사실상 표준화 활동’을 본격적으로 지원한다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[과기정통부, 디지털 대전환 시대를 이끌어 갈 핵심 인재 양성 확대]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=106405&amp;page=1&amp;mkind=2&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=106405&amp;page=1&amp;mkind=2&amp;kind=2"/>
-        <updated>2022-04-28T01:56:44.313Z</updated>
-        <content type="html"><![CDATA[과학기술정보통신부는 디지털 전환으로 산업계에서 가장 필요로 하는 전문·고급 디지털 인재를 양성하는 소프트웨어 중심대학과 소프트웨어 스타랩 사업의 2022년도 신규 선정 결과를 발표했다.]]></content>
     </entry>
 </feed>
