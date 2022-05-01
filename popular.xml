@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 01 May 2022 17:22:15 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 May 2022 18:22:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -152,12 +152,12 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/21064997_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[로그4셸 발견된 지 4개월 넘었지만 아직도 취약한 서버 넘쳐]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106392&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106392&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Sat, 30 Apr 2022 01:28:50 GMT</pubDate>
-            <content:encoded><![CDATA[4개월 전 로그4j(Log4j)에서 발견된 취약점이 아직도 만연한 문제로 남아 있다. 최근 보안 업체 레질리온(Rezilion)이 최근 쇼단 검색 엔진으로 스캔을...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/20159523_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[MS, 애저 서비스에서 발견된 위험한 취약점 2개 패치해]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106469&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106469&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Sun, 01 May 2022 18:19:41 GMT</pubDate>
+            <content:encoded><![CDATA[마이크로소프트가 PostgreSQL Flexible Server의 애저 데이터베이스의 취약점 두 개를 패치했다. 첫 번째는 MS가 PostgreSQL 엔진에 최근...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/IMG_29042022_165546_(295_x_190).jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2022년 5월, 물리·정보보안 업계 인재채용 계획 살펴보니]]></title>
