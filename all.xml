@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 May 2022 06:24:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 May 2022 07:18:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[큐냅과 시놀로지의 NAS 장비들에서 다수 취약점 발견돼 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106500&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106500&amp;page=1&amp;kind=1</guid>
+            <pubDate>Mon, 02 May 2022 07:16:36 GMT</pubDate>
+            <content:encoded><![CDATA[NAS 장비 제조사인 큐냅(QNAP)과 시놀로지(Synology)가 다량의 취약점 정보를 공개했다. 자사 제품에 통합된 오픈소스 파일 서버에서 발견된 것들...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/21973894_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[영상보안 분야 상장기업 8곳, 지난해 활약상과 2022년 청사진 (보안뉴스 ─ 전체기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=106463&amp;page=1&amp;kind=3</link>
@@ -78,14 +86,6 @@
             <pubDate>Sun, 01 May 2022 16:23:16 GMT</pubDate>
             <content:encoded><![CDATA[하이실리콘 SoC에 절대적으로 의존해 왔던 각 기업들이 대체 칩을 찾기 위해 동분서주한 가운데 위기가 오히려 기회라며 국산화에 힘을 합친 국내 대표 보안기...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/22042805ss.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국내 통합보안 3사 에스원·SK쉴더스·KT텔레캅 매출 분석 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106466&amp;page=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106466&amp;page=1&amp;kind=3</guid>
-            <pubDate>Sun, 01 May 2022 15:17:54 GMT</pubDate>
-            <content:encoded><![CDATA[대한민국 대표 통합보안 서비스 3사는 2021년을 어떻게 보냈는지 금융감독원 전자공시 시스템의 자료를 토대로 분석해 봤다. 2021년 매출을 살펴보면 에스...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/20220502tong-s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아이브스, 기술평가 A 등급 획득 (보안뉴스 ─ 전체기사)]]></title>
@@ -168,6 +168,14 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/fa%20copy-c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[국내 통합보안 3사 에스원·SK쉴더스·KT텔레캅 매출 분석 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106466&amp;page=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106466&amp;page=1&amp;kind=3</guid>
+            <pubDate>Sun, 01 May 2022 15:17:54 GMT</pubDate>
+            <content:encoded><![CDATA[대한민국 대표 통합보안 서비스 3사는 2021년을 어떻게 보냈는지 금융감독원 전자공시 시스템의 자료를 토대로 분석해 봤다. 2021년 매출을 살펴보면 에스...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/20220502tong-s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[2021년 물리보안 현황 ‘물리보안에 대한 필요 솔루션 어떤 변화 생겼나’ (보안뉴스 ─ 전체기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=106454&amp;page=1&amp;kind=3</link>
             <guid>https://www.boannews.com/media/view.asp?idx=106454&amp;page=1&amp;kind=3</guid>
@@ -236,13 +244,6 @@
             <pubDate>Sat, 30 Apr 2022 01:28:31 GMT</pubDate>
             <content:encoded><![CDATA[대진대는 지난 27일 ‘산업보안 분야 전문 인력 양성 상호협력’을 위한 업무협약(MOU)을 국정원과 체결했다. 양측은 세계적 수준으로 도약한 우리나라 산업...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/4-155(295).jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[소진공, 소상공인 디지털 역량 강화에 나선다 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106475&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106475&amp;page=1&amp;kind=2</guid>
-            <pubDate>Sat, 30 Apr 2022 01:28:31 GMT</pubDate>
-            <content:encoded><![CDATA[중소벤처기업부와 소상공인시장진흥공단이 소상공인 디지털 특성화 대학 교육생 모집에 착수한다. 소상공인 디지털 특성화 대학은 소상공인 온라인 진출 역량 강화를...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[北 지령 받고 군 전산망 해킹한 육군 대위와 가상자산 거래소 대표 구속 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
@@ -405,6 +406,13 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/20159523_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[KISA, 지역 중소기업 정보보호 지원 사업 수요기업 모집한다 (보안뉴스 ─ SECURITY)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106486&amp;page=1&amp;mkind=1&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106486&amp;page=1&amp;mkind=1&amp;kind=2</guid>
+            <pubDate>Mon, 02 May 2022 07:16:59 GMT</pubDate>
+            <content:encoded><![CDATA[한국인터넷진흥원(KISA, 원장 이원태)은 과학기술정보통신부(장관 임혜숙)와 지역 중소기업의 정보보호 역량강화를 지원하기 위한 수요기업을 모집한다고 5월 2일(월) 밝혔다.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[의료 분야 사이버 보안 단체, 사업 연속성 위한 툴킷 제공 (보안뉴스 ─ SECURITY)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=106496&amp;page=1&amp;mkind=1&amp;kind=1</link>
             <guid>https://www.boannews.com/media/view.asp?idx=106496&amp;page=1&amp;mkind=1&amp;kind=1</guid>
@@ -515,13 +523,6 @@
             <guid>https://www.boannews.com/media/view.asp?idx=106470&amp;page=1&amp;mkind=1&amp;kind=1</guid>
             <pubDate>Sat, 30 Apr 2022 03:16:39 GMT</pubDate>
             <content:encoded><![CDATA[최근 오피스 정품인증 툴로 위장한 악성코드가 자료 공유 사이트를 통해 유포되는 사례가 늘고 있다. 유포자가 올린 게시글에는 윈도우 정품 인증툴로 위장한 압축파일이 첨부되어 있다. 사용자가 파일을 다운로드 받을 경우 원격제어 악성코드가 설치되고, 감염 PC 원격제어, 개...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[블록체인 ‘경험’을 위한 마크애니의 선택, ‘BX사업부’를 만나다 (보안뉴스 ─ SECURITY)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106468&amp;page=1&amp;mkind=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106468&amp;page=1&amp;mkind=1&amp;kind=3</guid>
-            <pubDate>Sat, 30 Apr 2022 01:29:09 GMT</pubDate>
-            <content:encoded><![CDATA[블록체인(Blockchain)이 등장한 것은 꽤 오래 전이지만, 화려한 등장과 달리 그간의 성과는 생각보다 잘 알려지지 않았다. 워낙 어려운 기술이다 보니 개발하는 곳도 많지 않았고, 고객들도 블록체인 기술을 어디에 어떻게 사용해야 할지 몰랐기 때문이다. 이에 개발사들...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[‘2022년 5월 한국판 뉴딜 주요 사업 추진계획’ 배포 (보안뉴스 ─ IT)]]></title>
@@ -1898,6 +1899,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/pri_041001_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[큐냅과 시놀로지의 NAS 장비들에서 다수 취약점 발견돼 (보안뉴스 ─ 국제)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106500&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106500&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
+            <pubDate>Mon, 02 May 2022 07:18:17 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/view.asp?idx=106500&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
+					
+					<img src="/media/upFiles2/2022/05/21973894_copy_295x190_1.jpg" alt="" class="news_img" height="70">
+					
+					<span class="news_txt">큐냅과 시놀로지의 NAS 장비들에서 다수 취약점 발견돼</span>
+					</a><br>
+					<a href="/media/view.asp?idx=106500&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">NAS 장비 제조사인 큐냅(QNAP)과 시놀로지(Synology)가 다량의 취약점 정보를 공개했다. 자사 제품에 통합된 오픈소스 파일 서버에서 발견된 것들이다. ...</a> <span class="news_writer">문가용 기자 | 2022년 05월 02일 15:23</span>]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/21973894_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[인공지능의 다음 스텝은 ‘블랙박스’ 내부를 해석하고 설명하기 (보안뉴스 ─ 국제)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=106480&amp;page=1&amp;mkind=&amp;kind=4&amp;skind=D&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=106480&amp;page=1&amp;mkind=&amp;kind=4&amp;skind=D&amp;search=title&amp;find=</guid>
@@ -2162,20 +2177,6 @@
 					</a><br>
 					<a href="/media/view.asp?idx=106420&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">IT 외신 블리핑컴퓨터에 의하면 오닉스(Onyx)라는 이름의 새로운 랜섬웨어가 등장했다고 한다. 파괴적인 목적을 가지고 운영되는 것처럼 보인다. 피해자들이 돈을 ...</a> <span class="news_writer">문가용 기자 | 2022년 04월 28일 11:31</span>]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/21477944_copy_295x190_1(0).jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[MS, “러시아가 군 부대와 사이버 부대의 합을 맞춰 운영 중” (보안뉴스 ─ 국제)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106419&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106419&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
-            <pubDate>Thu, 28 Apr 2022 04:13:22 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/view.asp?idx=106419&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
-					
-					<img src="/media/upFiles2/2022/04/21079072_copy_295x190_1.jpg" alt="" class="news_img" height="70">
-					
-					<span class="news_txt">MS, “러시아가 군 부대와 사이버 부대의 합을 맞춰 운영 중”</span>
-					</a><br>
-					<a href="/media/view.asp?idx=106419&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">러시아의 여러 해킹 조직들이 우크라이나를 겨냥해 수많은 사이버 공격을 실시하고 있는데, 그 움직임이 러시아 군 병력의 움직임과 잘 들어맞는다고 MS가 발표했다. ...</a> <span class="news_writer">문가용 기자 | 2022년 04월 28일 11:29</span>]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/21079072_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[영상보안 분야 상장기업 8곳, 지난해 활약상과 2022년 청사진 (보안뉴스 ─ 기획특집)]]></title>
