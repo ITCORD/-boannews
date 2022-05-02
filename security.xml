@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-05-02T07:18:53.528Z</updated>
+    <updated>2022-05-02T08:26:05.943Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[인공지능의 다음 스텝은 ‘블랙박스’ 내부를 해석하고 설명하기]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=106480&amp;page=1&amp;mkind=1&amp;kind=4</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=106480&amp;page=1&amp;mkind=1&amp;kind=4"/>
+        <updated>2022-05-02T08:23:08.352Z</updated>
+        <content type="html"><![CDATA[지난 수년 동안 인공지능은 빠르게 진화해 왔다. 점점 응용 분야도 많아지고 있으며 인공지능에 더 잘 어울리는 혹은 인공지능이 필요한 산업이라는 것도 딱히 없어지고 있다. 어느 산업에서나 가장 혁신적인 도구로서 인공지능은 많은 기대를 받고 있기도 하고, 이미 활용되고 있...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[KISA, 지역 중소기업 정보보호 지원 사업 수요기업 모집한다]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=106486&amp;page=1&amp;mkind=1&amp;kind=2</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=106476&amp;page=1&amp;mkind=1&amp;kind=2"/>
         <updated>2022-05-01T13:26:20.342Z</updated>
         <content type="html"><![CDATA[대진대는 지난 27일 ‘산업보안 분야 전문 인력 양성 상호협력’을 위한 업무협약(MOU)을 국정원과 체결했다. 양측은 세계적 수준으로 도약한 우리나라 산업기술을 보호하고 각종 침해 행위 등의 위협에 민·관 차원에서 대응하기 위해 공동으로 연구하고 전문 인력을 양성하기 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[카드뉴스] 인포스틸러 악성코드 TOP 3]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=106470&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=106470&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-04-30T03:16:39.175Z</updated>
-        <content type="html"><![CDATA[최근 오피스 정품인증 툴로 위장한 악성코드가 자료 공유 사이트를 통해 유포되는 사례가 늘고 있다. 유포자가 올린 게시글에는 윈도우 정품 인증툴로 위장한 압축파일이 첨부되어 있다. 사용자가 파일을 다운로드 받을 경우 원격제어 악성코드가 설치되고, 감염 PC 원격제어, 개...]]></content>
     </entry>
 </feed>
