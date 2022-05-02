@@ -4,9 +4,17 @@
         <title>보안뉴스 ─ Security World</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 May 2022 04:55:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 May 2022 05:33:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[글로벌 인터뷰] 말루 토푸트, 마일스톤 시스템즈 ...]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106449&amp;mkind=5</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106449&amp;mkind=5</guid>
+            <pubDate>Mon, 02 May 2022 05:31:10 GMT</pubDate>
+            <content:encoded><![CDATA[1998년 덴마크 코펜하겐에서 설립된 마일스톤 시스템즈(Milestone Systems)는 세계 시장을 선도하는 VMS(Video Management So...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/22050203ss.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[SK쉴더스, 융합보안 플랫폼 ‘SUMiTS’로 산업...]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=106491&amp;mkind=5</link>
@@ -14,14 +22,6 @@
             <pubDate>Mon, 02 May 2022 03:55:01 GMT</pubDate>
             <content:encoded><![CDATA[SK쉴더스는 산업용품 제조사 세이프웨어와 협업해 고위험군인 건설·제조·물류센터 등의 높은 위치 현장에서 작업하는 고소작업으로 발생될 수 있는 추락사고에 대...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/22050202ss.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[슈프리마아이디, 2022년 1분기 전년동기대비 매출...]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106490&amp;mkind=5</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106490&amp;mkind=5</guid>
-            <pubDate>Mon, 02 May 2022 03:55:01 GMT</pubDate>
-            <content:encoded><![CDATA[디지털 아이디 솔루션 전문기업 슈프리마아이디(대표이사 박보건)가 2022년 1분기 실적을 발표했다. 연결 기준 1분기 매출액은 전년 동기 대비 10% 증가...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/22050201ss.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

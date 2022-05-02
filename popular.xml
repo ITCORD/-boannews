@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 02 May 2022 04:55:01 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 May 2022 05:33:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -128,14 +128,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/money_042501_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[세상이 알고 있는 7번째 ICS 멀웨어, 성공적인 방어 사례 남기다]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106311&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106311&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Wed, 27 Apr 2022 07:16:59 GMT</pubDate>
-            <content:encoded><![CDATA[최근 미국 산업 현장에서 두 개의 ICS 멀웨어 프레임워크가 발견됐다. 파이프드림(Pipedream) 혹은 인컨트롤러(Incontroller)라고 불리는 악성 요...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/19550480_copy_295x190_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[2022년 5월, 물리·정보보안 업계 인재채용 계획 살펴보니]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=106428&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=106428&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
@@ -152,6 +144,14 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/21064997_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[Weekly Security Premium Report 제48호 발간! 최근 글로벌 보안·IT 이슈 5]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106429&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106429&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
+            <pubDate>Mon, 02 May 2022 03:54:20 GMT</pubDate>
+            <content:encoded><![CDATA[4월 28일 발간된 ‘Weekly Security Premium Report’ 제48호에는 &lt;보안 심층 리포트&gt; 코너에서 올해 3월에 새롭게 등장한 글...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/20220418REPORT-SM.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
             <title><![CDATA[러시아-우크라이나 전쟁 때문에 늘어난 디도스 공격, 1사분기에만 역대 최고]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=106349&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=106349&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
@@ -160,12 +160,12 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/21044393_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Weekly Security Premium Report 제48호 발간! 최근 글로벌 보안·IT 이슈 5]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106429&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106429&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
-            <pubDate>Mon, 02 May 2022 03:54:20 GMT</pubDate>
-            <content:encoded><![CDATA[4월 28일 발간된 ‘Weekly Security Premium Report’ 제48호에는 &lt;보안 심층 리포트&gt; 코너에서 올해 3월에 새롭게 등장한 글...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/20220418REPORT-SM.JPG" length="0" type="image/JPG"/>
+            <title><![CDATA[SK쉴더스 IPO 추진, 5월 19일 상장한다]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106343&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106343&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
+            <pubDate>Mon, 02 May 2022 05:30:16 GMT</pubDate>
+            <content:encoded><![CDATA[SK스퀘어 산하 라이프 케어 플랫폼 기업 SK쉴더스(대표이사 박진효)가 26일 기업공개(IPO) 관련 온라인 기자간담회를 개최하고 상장 후 비전과 사업 계획을 발...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/sks_042601_main.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
