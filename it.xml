@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=2</id>
     <title>보안뉴스 ─ IT</title>
-    <updated>2022-05-01T23:19:25.280Z</updated>
+    <updated>2022-05-02T01:27:20.515Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[소진공, 소상공인 디지털 역량 강화에 나선다]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=106475&amp;page=1&amp;mkind=2&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=106475&amp;page=1&amp;mkind=2&amp;kind=2"/>
+        <updated>2022-05-02T01:24:45.861Z</updated>
+        <content type="html"><![CDATA[중소벤처기업부와 소상공인시장진흥공단이 소상공인 디지털 특성화 대학 교육생 모집에 착수한다. 소상공인 디지털 특성화 대학은 소상공인 온라인 진출 역량 강화를 위해 전자상거래, 온라인 유통·물류, 수출입, 마케팅 등 대학에서 실시하는 전문 교육 과정과 실습 기회를 제공하는...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[소진공, 디지털 전환을 위한 ‘내일路, 미래路’ 국제컨퍼런스 개최]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=106474&amp;page=1&amp;mkind=2&amp;kind=2</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=106408&amp;page=1&amp;mkind=2&amp;kind=2"/>
         <updated>2022-04-28T01:56:44.288Z</updated>
         <content type="html"><![CDATA[국토교통부는 국토·교통 분야 데이터의 새로운 가치를 발견하고 창의적인 아이디어 기반의 데이터 활용 서비스를 발굴하기 위해 ‘국토·교통 데이터 활용 경진대회’를 개최한다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국표원, 첨단 기술 국제표준 선점 위한 ‘사실상 표준화 활동’ 본격화]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=106407&amp;page=1&amp;mkind=2&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=106407&amp;page=1&amp;mkind=2&amp;kind=2"/>
-        <updated>2022-04-28T01:56:44.288Z</updated>
-        <content type="html"><![CDATA[산업통상자원부 국가기술표준원은 지능형 로봇, 전자 제조 등 첨단 기술 분야 국제표준 선점을 위해 민간 주도의 ‘사실상 표준화 활동’을 본격적으로 지원한다.]]></content>
     </entry>
 </feed>

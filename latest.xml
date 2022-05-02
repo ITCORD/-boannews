@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 01 May 2022 23:19:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 May 2022 01:27:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -86,6 +86,22 @@
             <pubDate>Fri, 29 Apr 2022 09:17:58 GMT</pubDate>
             <content:encoded><![CDATA[4월 20일부터 22일까지 일산 킨텍스 제1전시장 3~5홀에서 열린 이번 행사에는 총 12개국 291개사가 1,157부스에서 각각의 제품과 솔루션을 뽐냈으...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/22042934ss.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이스트시큐리티, IPO 주관사에 KB증권 선정… 상장 준비 본격 착수]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106485&amp;page=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106485&amp;page=1&amp;kind=3</guid>
+            <pubDate>Mon, 02 May 2022 01:24:00 GMT</pubDate>
+            <content:encoded><![CDATA[엔드포인트 보안 전문 기업 이스트시큐리티(대표 정진일)가 기업공개(IPO)를 위한 주관사로 KB증권을 선정하고 본격적인 상장 절차에 돌입한다고 2일 밝혔다...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/CI_black-C.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[파수, 랩소디로 핀테크 기업 더즌에 문서 관리 지원]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106484&amp;page=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106484&amp;page=1&amp;kind=3</guid>
+            <pubDate>Mon, 02 May 2022 01:24:00 GMT</pubDate>
+            <content:encoded><![CDATA[파수(대표 조규곤)는 핀테크 기업 더즌(대표 조철한)에 차세대 문서 관리 ‘랩소디(Wrapsody)’와 데이터 식별·분류 솔루션 ‘파수 데이터 레이더(Fa...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/fa%20copy-c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘2022년 5월 한국판 뉴딜 주요 사업 추진계획’ 배포]]></title>
@@ -226,22 +242,6 @@
             <pubDate>Fri, 29 Apr 2022 03:25:23 GMT</pubDate>
             <content:encoded><![CDATA[IT 외신 블리핑컴퓨터에 의하면 일본 CERT가 발표한 이모체크(EmoCheck) 유틸리티의 새로운 버전에 대해 보도했다. 이모체크는 이모텟(Emotet)...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/21316938_copy_295x190_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[TA410 그룹에 소속된 세 개의 해킹 팀의 전모 드러나]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106456&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106456&amp;page=1&amp;kind=1</guid>
-            <pubDate>Fri, 29 Apr 2022 03:25:23 GMT</pubDate>
-            <content:encoded><![CDATA[보안 외신 해커뉴스가 TA401이라고 알려진 해킹 그룹에 대해 보도했다. 이에 의하면 TA401은 세 개의 팀으로 구성된 해킹 연합이라고 하며, 이 세 팀...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/3598769_copy_295x190_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이미 수많은 해킹 그룹이 사용하는 새 멀웨어, 범블비]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106455&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106455&amp;page=1&amp;kind=1</guid>
-            <pubDate>Fri, 29 Apr 2022 03:25:23 GMT</pubDate>
-            <content:encoded><![CDATA[보안 블로그 시큐리티어페어즈에 의하면 현재 사이버 공격자들 사이에서 새로운 멀웨어가 크게 유행하고 있다고 한다. 이 멀웨어의 이름은 범블비(Bumblebe...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/21815095_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

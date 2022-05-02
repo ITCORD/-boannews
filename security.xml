@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-05-01T23:19:25.162Z</updated>
+    <updated>2022-05-02T01:27:20.513Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[인권위 “사이버안보법이 개인정보 침해할 수 있어”... 보완·삭제 권고]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=106482&amp;page=1&amp;mkind=1&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=106482&amp;page=1&amp;mkind=1&amp;kind=2"/>
+        <updated>2022-05-02T01:24:32.248Z</updated>
+        <content type="html"><![CDATA[국가인권위원회(위원장 송두환, 이하 인권위)가 현재 국회에 계류 중인 국가사이버안보법안(사이버안보법)의 일부 조항이 개인정보 결정권 등을 침해할 수 있다며 이를 보완 및 삭제할 필요가 있다고 밝혔다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[대통력직인수위원회, 국가안보실장에 김성한 전 외교부 차관 임명]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=106483&amp;page=1&amp;mkind=1&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=106483&amp;page=1&amp;mkind=1&amp;kind=2"/>
+        <updated>2022-05-02T01:24:32.251Z</updated>
+        <content type="html"><![CDATA[제20대 대통령직인수위원회가 국가안보실장에 김성한 전 외교부 차관을 임명했다. 또한 5수석에는 경제수석 최상목 전 기획재정부 차관, 사회수석 안상훈 서울대 교수, 정무수석 이진복 전 의원, 홍보수석 최영범 전 SBS 보도본부장, 시민사회수석 강승규 전 의원이 각각 임...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[각광 받는 SD-WAN, 차세대 네트워크가 아니라 반창고 정도]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=106471&amp;page=1&amp;mkind=1&amp;kind=4</id>
@@ -109,19 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=106451&amp;page=1&amp;mkind=1&amp;kind=3"/>
         <updated>2022-04-29T03:25:50.561Z</updated>
         <content type="html"><![CDATA[코리아엑스퍼트는 보험사 업무담당자들의 데이터 분석 및 운영에 대한 어려움을 해결할 수 있는 AutoML 제품개발을 통해 2020년 NexS³-SML(넥스큐브-에스엠엘)을 출시했으며 2022년 상반기에만 5군데에서 도입이 결정되었다고 밝혔다. 특히, 보험심사 자동화(인수...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독] 북한 해커 추정 텔레그램 대화 “남조선이 코인에 미쳐 큰 건 준비중”]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=106448&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=106448&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-04-29T03:25:50.563Z</updated>
-        <content type="html"><![CDATA[남한을 타깃에서 활동하는 북한 공작원(해커)으로 추정되는 사용자의 텔레그램 대화를 &lt;보안뉴스&gt;가 보안전문가를 통해 입수해 공개한다. 해당 대화 내용과 이번에 밝혀진 사건과의 연관성은 없다. 그러나 대화를 통해 북한 공작원들의 작업 방식과 프로젝트 등을 추정할...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[화웨이, 2030 지능형 세계 구현을 위한 미래 통신 네트워크 및 컴퓨팅 산업 전망 공유]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=106450&amp;page=1&amp;mkind=1&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=106450&amp;page=1&amp;mkind=1&amp;kind=3"/>
-        <updated>2022-04-29T03:25:50.565Z</updated>
-        <content type="html"><![CDATA[화웨이가 제19회 글로벌 애널리스트 서밋(Global Analyst Summit, 이하 HAS)의 일환으로 업계 파트너와 함께하는 ‘인텔리전트 월드 2030 포럼(Intelligent World 2030 Forum)’을 개최했다.]]></content>
     </entry>
 </feed>
