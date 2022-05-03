@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-05-02T23:20:49.577Z</updated>
+    <updated>2022-05-03T01:28:23.697Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[북한 4.25 열병식 분석 자료? 악성 워드 문서로 안보·정치·외교 관계자 노렸다]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=106497&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=106497&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-05-03T01:25:22.586Z</updated>
+        <content type="html"><![CDATA[최근 안보·정치·외교 관계자를 타깃으로 한 악성 문서 유포가 포착됐다. 이번에 발견된 악성 문서는 ‘[분석자료] 4.25 열병식을 통해 본 북한의 핵무력 사용 입장과 군부 엘리트 변동의 함의’라는 제목의 워드 문서로, 북한 열병식 분석 자료로 유인해 대북 전문가들의 다...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[큐냅과 시놀로지의 NAS 장비들에서 다수 취약점 발견돼]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=106500&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=106500&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-05-03T01:25:22.591Z</updated>
+        <content type="html"><![CDATA[NAS 장비 제조사인 큐냅(QNAP)과 시놀로지(Synology)가 다량의 취약점 정보를 공개했다. 자사 제품에 통합된 오픈소스 파일 서버에서 발견된 것들이다. 일부는 원격 코드 실행을 가능하게 하며, 따라서 위험하다. 문제의 오픈소스 파일 서버는 애플 파일 프로토콜(...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[개인정보위, 아태지역 개인정보 국제인증제도 운영 개시]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=106498&amp;page=1&amp;mkind=1&amp;kind=2</id>
@@ -109,19 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=106483&amp;page=1&amp;mkind=1&amp;kind=2"/>
         <updated>2022-05-02T01:24:32.251Z</updated>
         <content type="html"><![CDATA[제20대 대통령직인수위원회가 국가안보실장에 김성한 전 외교부 차관을 임명했다. 또한 5수석에는 경제수석 최상목 전 기획재정부 차관, 사회수석 안상훈 서울대 교수, 정무수석 이진복 전 의원, 홍보수석 최영범 전 SBS 보도본부장, 시민사회수석 강승규 전 의원이 각각 임...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[각광 받는 SD-WAN, 차세대 네트워크가 아니라 반창고 정도]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=106471&amp;page=1&amp;mkind=1&amp;kind=4</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=106471&amp;page=1&amp;mkind=1&amp;kind=4"/>
-        <updated>2022-05-01T16:23:48.066Z</updated>
-        <content type="html"><![CDATA[얼마 전 필자는 월스트리트저널의 기사 한 꼭지를 우연히 읽게 됐다. 요즘 운전하는 사람들 중 대다수가 타이어 교체 방법이나 타이어 접지면 깊이 확인 방법, 제대로 타이어에 바람을 넣는 방법을 모른다는 내용이었다. 타이어가 온전한 상태로 운영되는 것이 차량 운행에 있어 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[여주시, ‘개인정보보호 및 정보보안 교육’ 실시]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=106477&amp;page=1&amp;mkind=1&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=106477&amp;page=1&amp;mkind=1&amp;kind=2"/>
-        <updated>2022-05-01T13:26:20.341Z</updated>
-        <content type="html"><![CDATA[여주시는 지난 27~28일 전 직원을 대상으로 ‘개인정보보호 및 정보보안 교육’을 비대면 온라인 교육으로 실시했다. 이번 교육은 시민의 소중한 개인정보와 정보자산을 보호하기 위해 마련했으며, 특히 최근 일부 공공기관 직원의 개인정보 유출 사례가 발생한 것과 관련해 공직...]]></content>
     </entry>
 </feed>

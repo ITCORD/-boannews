@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=4</id>
     <title>보안뉴스 ─ SAFETY</title>
-    <updated>2022-05-02T23:20:49.595Z</updated>
+    <updated>2022-05-03T01:28:23.696Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[안산도시공사, 위험 요인 대비 방법 VR로 배워요]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=106444&amp;page=1&amp;mkind=4&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=106444&amp;page=1&amp;mkind=4&amp;kind=2"/>
+        <updated>2022-05-03T01:25:48.311Z</updated>
+        <content type="html"><![CDATA[안산도시공사가 실감형 VR(가상현실)기술을 적용한 안전교육을 실시해 눈길을 끌고 있다. 공사는 지난 27일 환경미화 근로자 74명 대상 VR 콘텐츠를 활용한 안전교육을 실시했다고 밝혔다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[심평원, 폭발물 테러 대비 관계기관 합동훈련 실시]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=106442&amp;page=1&amp;mkind=4&amp;kind=2</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=106262&amp;page=1&amp;mkind=4&amp;kind=2"/>
         <updated>2022-04-26T04:30:26.486Z</updated>
         <content type="html"><![CDATA[국토교통부는 22일 오전 11시 서울 강서어린이집에서 엄정희 건축정책관, 김용배 서울시 지역건축안전센터장, 김승현 LH 건축물관리지원센터장이 참석한 가운데 화재안전성능보강 지원사업 참여에 대한 감사의 마음을 담아 현판식을 개최했다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[교통안전을 위한 맞손, 우수 인력 양성을 이끈다]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=106256&amp;page=1&amp;mkind=4&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=106256&amp;page=1&amp;mkind=4&amp;kind=2"/>
-        <updated>2022-04-26T01:23:34.897Z</updated>
-        <content type="html"><![CDATA[한국교통안전공단은 지난 21일 한양대와 교통안전 분야 인적 교류와 우수 인력 양성을 위한 업무협약(MOU)을 체결했다고 밝혔다. 양 기관은 △지역사회 발전을 위해 인적·물적 자원, 정보, 복지 등 학술 교류를 통한 상호 협력 △한국교통안전공단 직원의 전문성과 업무능력 ...]]></content>
     </entry>
 </feed>
