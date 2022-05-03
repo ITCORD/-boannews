@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 May 2022 22:20:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 May 2022 23:17:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -56,14 +56,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/20220430bio-s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[리눅스에서 발견된 두 개의 권한 상승 취약점, 님부스폰]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106423&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106423&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Sat, 30 Apr 2022 01:28:50 GMT</pubDate>
-            <content:encoded><![CDATA[보안 블로그 시큐리티어페어즈는 리눅스에서 두 개의 권한 상승 취약점이 발견됐다고 발표했다. 이 두 개의 취약점은 합해서 님부스폰(Nimbuspwn)이라고 한다. ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/20900438_copy_295x190_2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[큐냅과 시놀로지의 NAS 장비들에서 다수 취약점 발견돼]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=106500&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=106500&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
@@ -78,6 +70,14 @@
             <pubDate>Tue, 03 May 2022 04:31:30 GMT</pubDate>
             <content:encoded><![CDATA[최근 안보·정치·외교 관계자를 타깃으로 한 악성 문서 유포가 포착됐다. 이번에 발견된 악성 문서는 ‘[분석자료] 4.25 열병식을 통해 본 북한의 핵무력 사용 입...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/20220502north-sm.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[리눅스에서 발견된 두 개의 권한 상승 취약점, 님부스폰]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106423&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106423&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Sat, 30 Apr 2022 01:28:50 GMT</pubDate>
+            <content:encoded><![CDATA[보안 블로그 시큐리티어페어즈는 리눅스에서 두 개의 권한 상승 취약점이 발견됐다고 발표했다. 이 두 개의 취약점은 합해서 님부스폰(Nimbuspwn)이라고 한다. ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/20900438_copy_295x190_2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[국내 통합보안 3사 에스원·SK쉴더스·KT텔레캅 매출 분석]]></title>
@@ -128,20 +128,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/22042803ss.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Weekly Security Premium Report 제48호 발간! 최근 글로벌 보안·IT 이슈 5]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106429&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106429&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
-            <pubDate>Mon, 02 May 2022 03:54:20 GMT</pubDate>
-            <content:encoded><![CDATA[4월 28일 발간된 ‘Weekly Security Premium Report’ 제48호에는 &lt;보안 심층 리포트&gt; 코너에서 올해 3월에 새롭게 등장한 글...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/20220418REPORT-SM.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
             <title><![CDATA[암호화 알고리즘을 다양하게 마련해야 하는 이유]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=106503&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=106503&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Tue, 03 May 2022 13:37:25 GMT</pubDate>
             <content:encoded><![CDATA[언젠가 양자 컴퓨팅은 현존하는 암호화 기술을 무력화시킬 것이다. 스핀트로닉스라고 알려진 확률적 자기 터널 접합 기계들도 마찬가지다. 하지만 굳이 차세대 IT 기술...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/21067102_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Weekly Security Premium Report 제48호 발간! 최근 글로벌 보안·IT 이슈 5]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106429&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106429&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
+            <pubDate>Mon, 02 May 2022 03:54:20 GMT</pubDate>
+            <content:encoded><![CDATA[4월 28일 발간된 ‘Weekly Security Premium Report’ 제48호에는 &lt;보안 심층 리포트&gt; 코너에서 올해 3월에 새롭게 등장한 글...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/20220418REPORT-SM.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[MS, 애저 서비스에서 발견된 위험한 취약점 2개 패치해]]></title>
