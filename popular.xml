@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 May 2022 01:28:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 May 2022 03:26:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -88,6 +88,14 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/markany_042801_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[국내 통합보안 3사 에스원·SK쉴더스·KT텔레캅 매출 분석]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106466&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106466&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
+            <pubDate>Mon, 02 May 2022 21:13:00 GMT</pubDate>
+            <content:encoded><![CDATA[대한민국 대표 통합보안 서비스 3사는 2021년을 어떻게 보냈는지 금융감독원 전자공시 시스템의 자료를 토대로 분석해 봤다. 2021년 매출을 살펴보면 에스원이 2...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/20220502tong-s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[2022년 5월, 물리·정보보안 업계 인재채용 계획 살펴보니]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=106428&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=106428&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
@@ -102,22 +110,6 @@
             <pubDate>Sun, 01 May 2022 18:19:41 GMT</pubDate>
             <content:encoded><![CDATA[마이크로소프트가 PostgreSQL Flexible Server의 애저 데이터베이스의 취약점 두 개를 패치했다. 첫 번째는 MS가 PostgreSQL 엔진에 최근...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/IMG_29042022_165546_(295_x_190).jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국내 통합보안 3사 에스원·SK쉴더스·KT텔레캅 매출 분석]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106466&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106466&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
-            <pubDate>Mon, 02 May 2022 21:13:00 GMT</pubDate>
-            <content:encoded><![CDATA[대한민국 대표 통합보안 서비스 3사는 2021년을 어떻게 보냈는지 금융감독원 전자공시 시스템의 자료를 토대로 분석해 봤다. 2021년 매출을 살펴보면 에스원이 2...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/20220502tong-s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SK쉴더스 IPO 추진, 5월 19일 상장한다]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106343&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106343&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
-            <pubDate>Mon, 02 May 2022 05:30:16 GMT</pubDate>
-            <content:encoded><![CDATA[SK스퀘어 산하 라이프 케어 플랫폼 기업 SK쉴더스(대표이사 박진효)가 26일 기업공개(IPO) 관련 온라인 기자간담회를 개최하고 상장 후 비전과 사업 계획을 발...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/sks_042601_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Weekly Security Premium Report 제48호 발간! 최근 글로벌 보안·IT 이슈 5]]></title>
@@ -136,6 +128,14 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/21064997_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[이슈 좌담회] ‘보안 SoC 개발’, 국내 기술력으로 이겨낸 SoC 대란 풀 스토리]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106430&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106430&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
+            <pubDate>Tue, 03 May 2022 01:25:12 GMT</pubDate>
+            <content:encoded><![CDATA[하이실리콘 SoC에 절대적으로 의존해 왔던 각 기업들이 대체 칩을 찾기 위해 동분서주한 가운데 위기가 오히려 기회라며 국산화에 힘을 합친 국내 대표 보안기업과 C...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/22042805ss.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[러시아-우크라이나 전쟁 때문에 늘어난 디도스 공격, 1사분기에만 역대 최고]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=106349&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=106349&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
@@ -152,20 +152,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/20159523_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[이슈 좌담회] ‘보안 SoC 개발’, 국내 기술력으로 이겨낸 SoC 대란 풀 스토리]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106430&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106430&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
-            <pubDate>Tue, 03 May 2022 01:25:12 GMT</pubDate>
-            <content:encoded><![CDATA[하이실리콘 SoC에 절대적으로 의존해 왔던 각 기업들이 대체 칩을 찾기 위해 동분서주한 가운데 위기가 오히려 기회라며 국산화에 힘을 합친 국내 대표 보안기업과 C...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/22042805ss.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[지능화된 보안위협을 신속하게 차단하라!  최근 보안 트렌드는 ‘자동화’]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=106314&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=106314&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
             <pubDate>Tue, 03 May 2022 01:25:12 GMT</pubDate>
             <content:encoded><![CDATA[최근 보안 위협 트렌드를 살펴보면 각종 스캔도구 고도화, 암호화 및 난독화 기술 발전, 쉬운 정찰과 지능화된 공격, 우회 공격 확대 등으로 대변되고 있다. 반면,...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/21900708-c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[카드뉴스] 인포스틸러 악성코드 TOP 3]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106470&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106470&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Tue, 03 May 2022 03:23:48 GMT</pubDate>
+            <content:encoded><![CDATA[최근 오피스 정품인증 툴로 위장한 악성코드가 자료 공유 사이트를 통해 유포되는 사례가 늘고 있다. 유포자가 올린 게시글에는 윈도우 정품 인증툴로 위장한 압축파일이...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/001_main.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
