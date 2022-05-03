@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 May 2022 10:25:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 May 2022 11:18:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -88,14 +88,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/markany_042801_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[2022년 5월, 물리·정보보안 업계 인재채용 계획 살펴보니]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106428&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106428&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
-            <pubDate>Sun, 01 May 2022 15:18:03 GMT</pubDate>
-            <content:encoded><![CDATA[푸른 녹음이 짙어지고 따뜻한 햇살이 일상의 온기를 더하는 5월이 코앞으로 다가왔다. 오랜 시간 일상의 변화를 만들었던 코로나19는 이제 우리의 일상과 더불어 살아...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/22042803ss.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[북한 4.25 열병식 분석 자료? 악성 워드 문서로 안보·정치·외교 관계자 노렸다]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=106497&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=106497&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
@@ -104,12 +96,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/20220502north-sm.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[MS, 애저 서비스에서 발견된 위험한 취약점 2개 패치해]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106469&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106469&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Sun, 01 May 2022 18:19:41 GMT</pubDate>
-            <content:encoded><![CDATA[마이크로소프트가 PostgreSQL Flexible Server의 애저 데이터베이스의 취약점 두 개를 패치했다. 첫 번째는 MS가 PostgreSQL 엔진에 최근...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/IMG_29042022_165546_(295_x_190).jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[2022년 5월, 물리·정보보안 업계 인재채용 계획 살펴보니]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106428&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106428&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
+            <pubDate>Sun, 01 May 2022 15:18:03 GMT</pubDate>
+            <content:encoded><![CDATA[푸른 녹음이 짙어지고 따뜻한 햇살이 일상의 온기를 더하는 5월이 코앞으로 다가왔다. 오랜 시간 일상의 변화를 만들었던 코로나19는 이제 우리의 일상과 더불어 살아...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/22042803ss.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[큐냅과 시놀로지의 NAS 장비들에서 다수 취약점 발견돼]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106500&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106500&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Tue, 03 May 2022 06:21:15 GMT</pubDate>
+            <content:encoded><![CDATA[NAS 장비 제조사인 큐냅(QNAP)과 시놀로지(Synology)가 다량의 취약점 정보를 공개했다. 자사 제품에 통합된 오픈소스 파일 서버에서 발견된 것들이다. ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/21973894_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[이슈 좌담회] ‘보안 SoC 개발’, 국내 기술력으로 이겨낸 SoC 대란 풀 스토리]]></title>
@@ -128,12 +128,12 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/20220418REPORT-SM.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
-            <title><![CDATA[큐냅과 시놀로지의 NAS 장비들에서 다수 취약점 발견돼]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106500&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106500&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Tue, 03 May 2022 06:21:15 GMT</pubDate>
-            <content:encoded><![CDATA[NAS 장비 제조사인 큐냅(QNAP)과 시놀로지(Synology)가 다량의 취약점 정보를 공개했다. 자사 제품에 통합된 오픈소스 파일 서버에서 발견된 것들이다. ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/21973894_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[MS, 애저 서비스에서 발견된 위험한 취약점 2개 패치해]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106469&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106469&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Sun, 01 May 2022 18:19:41 GMT</pubDate>
+            <content:encoded><![CDATA[마이크로소프트가 PostgreSQL Flexible Server의 애저 데이터베이스의 취약점 두 개를 패치했다. 첫 번째는 MS가 PostgreSQL 엔진에 최근...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/IMG_29042022_165546_(295_x_190).jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[영상보안 분야 상장기업 8곳, 지난해 활약상과 2022년 청사진]]></title>
