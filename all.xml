@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 May 2022 15:22:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 May 2022 16:30:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -376,20 +376,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/IMG_29042022_165546_(295_x_190).jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[지방선거 과정에서 ‘개인정보 보호 법령’ 준수사항 나왔다 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106390&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106390&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
-            <pubDate>Sat, 30 Apr 2022 03:16:20 GMT</pubDate>
-            <content:encoded><![CDATA[전국동시지방선거(6.1)를 앞두고, 개인정보보호위원회(위원장 윤종인, 이하 ‘개인정보위’)는 4월 27일(수) 정부서울청사에서 제7회 전체회의를 열고 ‘제8회 동...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/21064997_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[암호화 알고리즘을 다양하게 마련해야 하는 이유 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=106503&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=106503&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Tue, 03 May 2022 13:37:25 GMT</pubDate>
             <content:encoded><![CDATA[언젠가 양자 컴퓨팅은 현존하는 암호화 기술을 무력화시킬 것이다. 스핀트로닉스라고 알려진 확률적 자기 터널 접합 기계들도 마찬가지다. 하지만 굳이 차세대 IT 기술...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/21067102_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[지방선거 과정에서 ‘개인정보 보호 법령’ 준수사항 나왔다 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106390&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106390&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
+            <pubDate>Sat, 30 Apr 2022 03:16:20 GMT</pubDate>
+            <content:encoded><![CDATA[전국동시지방선거(6.1)를 앞두고, 개인정보보호위원회(위원장 윤종인, 이하 ‘개인정보위’)는 4월 27일(수) 정부서울청사에서 제7회 전체회의를 열고 ‘제8회 동...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/21064997_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[로그4셸 발견된 지 4개월 넘었지만 아직도 취약한 서버 넘쳐 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
