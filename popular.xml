@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 03 May 2022 06:24:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 03 May 2022 07:20:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -128,20 +128,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/21064997_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[로그4셸 발견된 지 4개월 넘었지만 아직도 취약한 서버 넘쳐]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106392&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106392&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Mon, 02 May 2022 06:22:08 GMT</pubDate>
-            <content:encoded><![CDATA[4개월 전 로그4j(Log4j)에서 발견된 취약점이 아직도 만연한 문제로 남아 있다. 최근 보안 업체 레질리온(Rezilion)이 최근 쇼단 검색 엔진으로 스캔을...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/20159523_copy_295x190_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[북한 4.25 열병식 분석 자료? 악성 워드 문서로 안보·정치·외교 관계자 노렸다]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=106497&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=106497&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Tue, 03 May 2022 04:31:30 GMT</pubDate>
             <content:encoded><![CDATA[최근 안보·정치·외교 관계자를 타깃으로 한 악성 문서 유포가 포착됐다. 이번에 발견된 악성 문서는 ‘[분석자료] 4.25 열병식을 통해 본 북한의 핵무력 사용 입...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/20220502north-sm.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[로그4셸 발견된 지 4개월 넘었지만 아직도 취약한 서버 넘쳐]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106392&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106392&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Mon, 02 May 2022 06:22:08 GMT</pubDate>
+            <content:encoded><![CDATA[4개월 전 로그4j(Log4j)에서 발견된 취약점이 아직도 만연한 문제로 남아 있다. 최근 보안 업체 레질리온(Rezilion)이 최근 쇼단 검색 엔진으로 스캔을...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/20159523_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[지능화된 보안위협을 신속하게 차단하라!  최근 보안 트렌드는 ‘자동화’]]></title>
