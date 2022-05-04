@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 May 2022 10:21:58 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 May 2022 11:16:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -64,20 +64,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/20220502north-sm.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[리눅스에서 발견된 두 개의 권한 상승 취약점, 님부스폰]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106423&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106423&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Sat, 30 Apr 2022 01:28:50 GMT</pubDate>
-            <content:encoded><![CDATA[보안 블로그 시큐리티어페어즈는 리눅스에서 두 개의 권한 상승 취약점이 발견됐다고 발표했다. 이 두 개의 취약점은 합해서 님부스폰(Nimbuspwn)이라고 한다. ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/20900438_copy_295x190_2.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[국내 통합보안 3사 에스원·SK쉴더스·KT텔레캅 매출 분석]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=106466&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=106466&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
             <pubDate>Mon, 02 May 2022 21:13:00 GMT</pubDate>
             <content:encoded><![CDATA[대한민국 대표 통합보안 서비스 3사는 2021년을 어떻게 보냈는지 금융감독원 전자공시 시스템의 자료를 토대로 분석해 봤다. 2021년 매출을 살펴보면 에스원이 2...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/20220502tong-s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[리눅스에서 발견된 두 개의 권한 상승 취약점, 님부스폰]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106423&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106423&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Sat, 30 Apr 2022 01:28:50 GMT</pubDate>
+            <content:encoded><![CDATA[보안 블로그 시큐리티어페어즈는 리눅스에서 두 개의 권한 상승 취약점이 발견됐다고 발표했다. 이 두 개의 취약점은 합해서 님부스폰(Nimbuspwn)이라고 한다. ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/20900438_copy_295x190_2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[영상보안 분야 상장기업 8곳, 지난해 활약상과 2022년 청사진]]></title>
@@ -88,20 +88,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/20220502cctv-s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[암호화 알고리즘을 다양하게 마련해야 하는 이유]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106503&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106503&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Tue, 03 May 2022 13:37:25 GMT</pubDate>
-            <content:encoded><![CDATA[언젠가 양자 컴퓨팅은 현존하는 암호화 기술을 무력화시킬 것이다. 스핀트로닉스라고 알려진 확률적 자기 터널 접합 기계들도 마찬가지다. 하지만 굳이 차세대 IT 기술...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/21067102_copy_295x190_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[2021년 가장 많이 악용된 취약점 15개?  최악은 ‘로그4셸’과 ‘MS익스체인지’]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=106528&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=106528&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Wed, 04 May 2022 01:23:44 GMT</pubDate>
             <content:encoded><![CDATA[미국의 사이버보안 전담기관인 CISA(Cybersecurity and Infrastructure Security Agency)가 2021년에 가장 많이 악용된 취...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/20312979_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[암호화 알고리즘을 다양하게 마련해야 하는 이유]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106503&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106503&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Tue, 03 May 2022 13:37:25 GMT</pubDate>
+            <content:encoded><![CDATA[언젠가 양자 컴퓨팅은 현존하는 암호화 기술을 무력화시킬 것이다. 스핀트로닉스라고 알려진 확률적 자기 터널 접합 기계들도 마찬가지다. 하지만 굳이 차세대 IT 기술...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/21067102_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[이슈 좌담회] ‘보안 SoC 개발’, 국내 기술력으로 이겨낸 SoC 대란 풀 스토리]]></title>
