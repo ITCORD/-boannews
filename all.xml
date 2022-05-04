@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 May 2022 08:24:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 May 2022 09:21:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[문서 편집·메신저 프로그램 위장 악성파일, 국가기관 관리자·교수 타깃 유포 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106551&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106551&amp;page=1&amp;kind=1</guid>
+            <pubDate>Wed, 04 May 2022 09:18:33 GMT</pubDate>
+            <content:encoded><![CDATA[문서 편집 및 메신저 프로그램으로 위장해 정보를 유출하는 백도어가 발견됐다. 특히, 국가기관 관리자와 대학교수 등을 타깃으로 유포돼 관계자들의 각별한 주의...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/20220504ahn-ms.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[이슈칼럼] 윤석열 정부의 사이버안보 분야 국정비전을 보며 (보안뉴스 ─ 전체기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=106548&amp;page=1&amp;kind=6</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 02 May 2022 08:22:34 GMT</pubDate>
             <content:encoded><![CDATA[최근 안보·정치·외교 관계자를 타깃으로 한 악성 문서 유포가 포착됐다. 이번에 발견된 악성 문서는 ‘[분석자료] 4.25 열병식을 통해 본 북한의 핵무력 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/20220502north-sm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[큐냅과 시놀로지의 NAS 장비들에서 다수 취약점 발견돼 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106500&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106500&amp;page=1&amp;kind=1</guid>
-            <pubDate>Mon, 02 May 2022 07:16:36 GMT</pubDate>
-            <content:encoded><![CDATA[NAS 장비 제조사인 큐냅(QNAP)과 시놀로지(Synology)가 다량의 취약점 정보를 공개했다. 자사 제품에 통합된 오픈소스 파일 서버에서 발견된 것들...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/21973894_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[상명대 정보보안공학과, 국방보안연구소 우수 논문상 수상 (보안뉴스 ─ 전체기사)]]></title>
@@ -402,6 +402,13 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/001_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[2030의 목소리에 날개를 달아주다... 금융보안원 브라운보드 출범 (보안뉴스 ─ SECURITY)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106550&amp;page=1&amp;mkind=1&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106550&amp;page=1&amp;mkind=1&amp;kind=2</guid>
+            <pubDate>Wed, 04 May 2022 09:18:54 GMT</pubDate>
+            <content:encoded><![CDATA[금융보안원(원장 김철웅)은 MZ세대의 의견을 경청하고, 세대를 뛰어넘어 자유롭게 소통할 수 있는 직원 참여 플랫폼인 브라운보드를 올해 처음 신설하고 5월 4일(수) 출범식을 개최한다.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[KISIA, 정보보호 스타트업의 도약을 위한 상생 협력 워크숍 개최 (보안뉴스 ─ SECURITY)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=106549&amp;page=1&amp;mkind=1&amp;kind=3</link>
             <guid>https://www.boannews.com/media/view.asp?idx=106549&amp;page=1&amp;mkind=1&amp;kind=3</guid>
@@ -512,13 +519,6 @@
             <guid>https://www.boannews.com/media/view.asp?idx=106480&amp;page=1&amp;mkind=1&amp;kind=4</guid>
             <pubDate>Mon, 02 May 2022 08:23:08 GMT</pubDate>
             <content:encoded><![CDATA[지난 수년 동안 인공지능은 빠르게 진화해 왔다. 점점 응용 분야도 많아지고 있으며 인공지능에 더 잘 어울리는 혹은 인공지능이 필요한 산업이라는 것도 딱히 없어지고 있다. 어느 산업에서나 가장 혁신적인 도구로서 인공지능은 많은 기대를 받고 있기도 하고, 이미 활용되고 있...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[KISA, 지역 중소기업 정보보호 지원 사업 수요기업 모집한다 (보안뉴스 ─ SECURITY)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106486&amp;page=1&amp;mkind=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106486&amp;page=1&amp;mkind=1&amp;kind=2</guid>
-            <pubDate>Mon, 02 May 2022 07:16:59 GMT</pubDate>
-            <content:encoded><![CDATA[한국인터넷진흥원(KISA, 원장 이원태)은 과학기술정보통신부(장관 임혜숙)와 지역 중소기업의 정보보호 역량강화를 지원하기 위한 수요기업을 모집한다고 5월 2일(월) 밝혔다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[확장 가상 세계와 대체불가토큰의 저작권 문제 해법 찾는다 (보안뉴스 ─ IT)]]></title>
@@ -773,6 +773,20 @@
             <pubDate>Wed, 04 May 2022 01:24:28 GMT</pubDate>
             <content:encoded><![CDATA[국내 최대 멀티모달 생체인식 보안 솔루션기업 유니온커뮤니티(대표이사 신요식)가 트리플모달형 생체인식 시스템을 출시한다고 밝혔다. 유니온커뮤니티가 새롭게 선...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/22050402ss.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[문서 편집·메신저 프로그램 위장 악성파일, 국가기관 관리자·교수 타깃 유포 (보안뉴스 ─ 취약점 경고 및 버그리포트)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106551&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106551&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=</guid>
+            <pubDate>Wed, 04 May 2022 09:19:37 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/view.asp?idx=106551&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=">
+					
+					<img src="/media/upFiles2/2022/05/20220504ahn-ms.jpg" alt="" class="news_img" height="70">
+					
+					<span class="news_txt">문서 편집·메신저 프로그램 위장 악성파일, 국가기관 관리자·교수 타깃 유포 </span>
+					</a><br>
+					<a href="/media/view.asp?idx=106551&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=">문서 편집 및 메신저 프로그램으로 위장해 정보를 유출하는 백도어가 발견됐다. 특히, 국가기관 관리자와 대학교수 등을 타깃으로 유포돼 관계자들의 각별한 주의가 요구...</a> <span class="news_writer">권준  기자 | 2022년 05월 04일 17:22</span>]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/20220504ahn-ms.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2021년 가장 많이 악용된 취약점 15개?  최악은 ‘로그4셸’과 ‘MS익스체인지’ (보안뉴스 ─ 취약점 경고 및 버그리포트)]]></title>
@@ -1039,20 +1053,6 @@
 					</a><br>
 					<a href="/media/view.asp?idx=105985&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=">보안 외신 해커뉴스에 의하면 정보 탈취형 멀웨어가 2개나 새롭게 발견됐다고 한다. 이름은 에프에프드로이더(FFDroider)와 라이트닝스틸러(Lightning S...</a> <span class="news_writer">문가용 기자 | 2022년 04월 12일 11:41</span>]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/com-thujmb-0412.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[레빌과 블랙매터의 유산을 물려받았다고 주장하는 새 랜섬웨어 그룹, 알프파이브 (보안뉴스 ─ 취약점 경고 및 버그리포트)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105952&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105952&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=</guid>
-            <pubDate>Mon, 11 Apr 2022 09:18:43 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/view.asp?idx=105952&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=">
-					
-					<img src="/media/upFiles2/2022/04/bc-thumjb-0408.jpg" alt="" class="news_img" height="70">
-					
-					<span class="news_txt">레빌과 블랙매터의 유산을 물려받았다고 주장하는 새 랜섬웨어 그룹, 알프파이브</span>
-					</a><br>
-					<a href="/media/view.asp?idx=105952&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=">알프파이브(ALPHV)라는 랜섬웨어 그룹이 다크웹에 등장해 자신들만의 랜섬웨어 서비스를 새롭게 시작했다. 알프파이브는 자신들이 국제 공조로 사라진 블랙매터(Bla...</a> <span class="news_writer">문가용 기자 | 2022년 04월 08일 16:38</span>]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/bc-thumjb-0408.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[최정식 발행인 칼럼] <시큐리티월드> 통권 300호를 맞아 드리는 감사의 말씀 (보안뉴스 ─ 오피니언)]]></title>

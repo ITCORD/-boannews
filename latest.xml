@@ -4,9 +4,17 @@
         <title>보안뉴스 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 04 May 2022 08:24:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 May 2022 09:21:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[문서 편집·메신저 프로그램 위장 악성파일, 국가기관 관리자·교수 타깃 유포]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106551&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106551&amp;page=1&amp;kind=1</guid>
+            <pubDate>Wed, 04 May 2022 09:18:33 GMT</pubDate>
+            <content:encoded><![CDATA[문서 편집 및 메신저 프로그램으로 위장해 정보를 유출하는 백도어가 발견됐다. 특히, 국가기관 관리자와 대학교수 등을 타깃으로 유포돼 관계자들의 각별한 주의...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/20220504ahn-ms.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[이슈칼럼] 윤석열 정부의 사이버안보 분야 국정비전을 보며]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=106548&amp;page=1&amp;kind=6</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 02 May 2022 08:22:34 GMT</pubDate>
             <content:encoded><![CDATA[최근 안보·정치·외교 관계자를 타깃으로 한 악성 문서 유포가 포착됐다. 이번에 발견된 악성 문서는 ‘[분석자료] 4.25 열병식을 통해 본 북한의 핵무력 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/20220502north-sm.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[큐냅과 시놀로지의 NAS 장비들에서 다수 취약점 발견돼]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106500&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106500&amp;page=1&amp;kind=1</guid>
-            <pubDate>Mon, 02 May 2022 07:16:36 GMT</pubDate>
-            <content:encoded><![CDATA[NAS 장비 제조사인 큐냅(QNAP)과 시놀로지(Synology)가 다량의 취약점 정보를 공개했다. 자사 제품에 통합된 오픈소스 파일 서버에서 발견된 것들...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/21973894_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[상명대 정보보안공학과, 국방보안연구소 우수 논문상 수상]]></title>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-05-04T08:24:29.521Z</updated>
+    <updated>2022-05-04T09:21:00.807Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2030의 목소리에 날개를 달아주다... 금융보안원 브라운보드 출범]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=106550&amp;page=1&amp;mkind=1&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=106550&amp;page=1&amp;mkind=1&amp;kind=2"/>
+        <updated>2022-05-04T09:18:54.219Z</updated>
+        <content type="html"><![CDATA[금융보안원(원장 김철웅)은 MZ세대의 의견을 경청하고, 세대를 뛰어넘어 자유롭게 소통할 수 있는 직원 참여 플랫폼인 브라운보드를 올해 처음 신설하고 5월 4일(수) 출범식을 개최한다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[KISIA, 정보보호 스타트업의 도약을 위한 상생 협력 워크숍 개최]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=106549&amp;page=1&amp;mkind=1&amp;kind=3</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=106480&amp;page=1&amp;mkind=1&amp;kind=4"/>
         <updated>2022-05-02T08:23:08.352Z</updated>
         <content type="html"><![CDATA[지난 수년 동안 인공지능은 빠르게 진화해 왔다. 점점 응용 분야도 많아지고 있으며 인공지능에 더 잘 어울리는 혹은 인공지능이 필요한 산업이라는 것도 딱히 없어지고 있다. 어느 산업에서나 가장 혁신적인 도구로서 인공지능은 많은 기대를 받고 있기도 하고, 이미 활용되고 있...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KISA, 지역 중소기업 정보보호 지원 사업 수요기업 모집한다]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=106486&amp;page=1&amp;mkind=1&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=106486&amp;page=1&amp;mkind=1&amp;kind=2"/>
-        <updated>2022-05-02T07:16:59.284Z</updated>
-        <content type="html"><![CDATA[한국인터넷진흥원(KISA, 원장 이원태)은 과학기술정보통신부(장관 임혜숙)와 지역 중소기업의 정보보호 역량강화를 지원하기 위한 수요기업을 모집한다고 5월 2일(월) 밝혔다.]]></content>
     </entry>
 </feed>
