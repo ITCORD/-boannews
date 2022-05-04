@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-05-04T04:34:00.356Z</updated>
+    <updated>2022-05-04T05:23:02.841Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[어린이날] 재난재해로부터 안전한 우리 아이들을 위한 ‘안전체험관’]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=106502&amp;page=1&amp;mkind=1&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=106502&amp;page=1&amp;mkind=1&amp;kind=2"/>
+        <updated>2022-05-04T05:19:58.505Z</updated>
+        <content type="html"><![CDATA[거리두기 전면 해제 등 코로나19 방역이 일상 전환으로 바뀌고, 어린이날과 어버이날 등이 있는 가정의 달을 맞이하면서 점차 외부로 움직이는 가족들이 늘고 있다. 특히, 어린아이가 있는 가족들은 오랜만에 나들이를 반기면서도, 사람들이 많아 아이들이 다치거나 잃어버릴 위...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2021년 가장 많이 악용된 취약점 15개?  최악은 ‘로그4셸’과 ‘MS익스체인지’]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=106528&amp;page=1&amp;mkind=1&amp;kind=1</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=106493&amp;page=1&amp;mkind=1&amp;kind=1"/>
         <updated>2022-05-02T03:54:30.240Z</updated>
         <content type="html"><![CDATA[악명 높은 사이버 범죄 갱단인 레빌(REvil)이 다시 운영을 시작했다고 IT 외신인 블리핑컴퓨터가 보도했다. 지난 10월 국제적 공조로 이들의 공격용 토르 서버가 폐쇄되고 나서 처음이다. 여기에는 특히 미국과 러시아 간 공조가 유효했는데, 러시아가 우크라이나를 침공한...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우크라이나 침공한 러시아, 새로운 해킹 표적으로 떠올라]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=106492&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=106492&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-05-02T03:54:30.241Z</updated>
-        <content type="html"><![CDATA[일간지 워싱턴포스트가 러시아의 우크라이나 침공이 러시아를 거대한 해킹 표적으로 만들기도 했다고 보도했다. 너도 나도 러시아 해킹에 뛰어들기 시작했다. 러시아의 금융 데이터가 온라인에 공개되는가 하면, 러시아의 웹사이트들이 위변조되고 있다. 또한 수십년 치의 정부 기관 ...]]></content>
     </entry>
 </feed>
