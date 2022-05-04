@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-05-03T23:17:52.466Z</updated>
+    <updated>2022-05-04T01:26:11.108Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[소프트캠프, 극동대학교와 정보보안 연구개발 위한 산학협력 체결]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=106527&amp;page=1&amp;mkind=1&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=106527&amp;page=1&amp;mkind=1&amp;kind=3"/>
+        <updated>2022-05-04T01:23:55.706Z</updated>
+        <content type="html"><![CDATA[정보보안 전문기업 소프트캠프(대표 배환국)가 극동대학교(총장 류기일) 해킹보안학과와 ‘정보보안 산학협력(K-Security industry-academic Cooperation)’을 체결했다고 3일 밝혔다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[포티넷, ‘2022 가트너 마켓 가이드’에서 디지털 경험 모니터링 부문 ‘대표 기업’ 선정]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=106526&amp;page=1&amp;mkind=1&amp;kind=3</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=106488&amp;page=1&amp;mkind=1&amp;kind=3"/>
         <updated>2022-05-02T03:54:30.245Z</updated>
         <content type="html"><![CDATA[한국정보보호산업협회(KISIA, 회장 이동범)는 우주산업 활성화에 따른 사이버보안 적용과 대응 강화를 위해 지난 4월 28일 ‘우주사이버보안포럼(이하, 포럼)’ 발족식을 개최했다고 밝혔다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이스트시큐리티, IPO 주관사에 KB증권 선정… 상장 준비 본격 착수]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=106485&amp;page=1&amp;mkind=1&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=106485&amp;page=1&amp;mkind=1&amp;kind=3"/>
-        <updated>2022-05-02T03:54:30.246Z</updated>
-        <content type="html"><![CDATA[엔드포인트 보안 전문 기업 이스트시큐리티(대표 정진일)가 기업공개(IPO)를 위한 주관사로 KB증권을 선정하고 본격적인 상장 절차에 돌입한다고 2일 밝혔다.]]></content>
     </entry>
 </feed>
