@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-05-04T13:40:27.375Z</updated>
+    <updated>2022-05-04T14:20:14.712Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[이슈칼럼] 윤석열 정부의 사이버안보 분야 국정비전을 보며]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=106548&amp;page=1&amp;mkind=1&amp;kind=6</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=106548&amp;page=1&amp;mkind=1&amp;kind=6"/>
+        <updated>2022-05-04T14:16:54.315Z</updated>
+        <content type="html"><![CDATA[지난 5월 3일 윤석열 정부의 110대 국정과제가 우리나라 1세대 보안전문가인 안철수 인수위원장을 통해 발표됐다. 필자는 인수위원장이 사이버보안 전문가로 이번 110대 국정과제 발표를 통해 차기 정부의 사이버안보 정책의 바로미터를 알 수 있을 거란 기대가 컸다. 기대했...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[대통령직인수위 디지털플랫폼정부 TF “개인정보 활용과 보안 개선 추진”]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=106547&amp;page=1&amp;mkind=1&amp;kind=2</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=106500&amp;page=1&amp;mkind=1&amp;kind=1"/>
         <updated>2022-05-03T01:25:22.591Z</updated>
         <content type="html"><![CDATA[NAS 장비 제조사인 큐냅(QNAP)과 시놀로지(Synology)가 다량의 취약점 정보를 공개했다. 자사 제품에 통합된 오픈소스 파일 서버에서 발견된 것들이다. 일부는 원격 코드 실행을 가능하게 하며, 따라서 위험하다. 문제의 오픈소스 파일 서버는 애플 파일 프로토콜(...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[개인정보위, 아태지역 개인정보 국제인증제도 운영 개시]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=106498&amp;page=1&amp;mkind=1&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=106498&amp;page=1&amp;mkind=1&amp;kind=2"/>
-        <updated>2022-05-02T09:18:04.575Z</updated>
-        <content type="html"><![CDATA[우리 기업들도 이제부터는 해외 기관을 통하지 않고도 국내에서 개인정보 보호 수준에 대한 국제인증을 편리하게 받을 수 있게 된다. 개인정보보호위원회(위원장 윤종인, 이하 개인정보위)는 한국인터넷진흥원(원장 이원태, 이하 KISA)과 공동으로 국내 기업을 대상으로 ‘국경간...]]></content>
     </entry>
 </feed>
