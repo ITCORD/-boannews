@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-05-04T05:23:02.841Z</updated>
+    <updated>2022-05-04T06:25:53.971Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[KISIA, 정보보호 스타트업의 도약을 위한 상생 협력 워크숍 개최]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=106549&amp;page=1&amp;mkind=1&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=106549&amp;page=1&amp;mkind=1&amp;kind=3"/>
+        <updated>2022-05-04T06:23:13.153Z</updated>
+        <content type="html"><![CDATA[한국정보보호산업협회(KISIA, 회장 이동범)는 과학기술정보통신부 주최로 한국인터넷진흥원(KISA)과 함께 5월 3일(화), 강남 드림플러스에서 ‘K-스타트업 정보보호 성장기업 도약-상생 협력 워크숍’을 개최했다고 밝혔다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[부산시, 공사·공단 대상 사이버보안 강화 회의 개최]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=106532&amp;page=1&amp;mkind=1&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=106532&amp;page=1&amp;mkind=1&amp;kind=2"/>
+        <updated>2022-05-04T06:23:13.153Z</updated>
+        <content type="html"><![CDATA[부산시는 산하 공사·공단을 대상으로 사이버보안 강화 회의를 열고 전세계적으로 급증하고 있는 무차별 해킹에 대한 대응체계를 마련하는 등 정보보안 강화에 나섰다고 밝혔다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ETRI, 양자내성암호 공략 양자 알고리즘 개발]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=106535&amp;page=1&amp;mkind=1&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=106535&amp;page=1&amp;mkind=1&amp;kind=2"/>
+        <updated>2022-05-04T06:23:13.156Z</updated>
+        <content type="html"><![CDATA[한국전자통신연구원(ETRI)은 KIST·서울대·한양대·KIAS·영국 임페리얼 대학 등 국내외 연구진과 함께 양자내성암호의 주요 기반문제 중 하나인 선형잡음문제를 효과적으로 공략할 수 있는 세계 최고 수준의 양자 알고리즘을 개발했다고 밝혔다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[윤석열 정부 110대 국정과제에 담긴 정보보호와 보안산업 밑그림은?]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=106546&amp;page=1&amp;mkind=1&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=106546&amp;page=1&amp;mkind=1&amp;kind=2"/>
+        <updated>2022-05-04T06:23:13.159Z</updated>
+        <content type="html"><![CDATA[윤석열 정부가 사이버보안 역량 강화를 위해 보안클러스터 모델의 지역거점 확산으로 기업 성장을 지원하고, 10만 사이버보안 인재를 양성하겠다고 공식적으로 발표했다. 이는 5월 3일 발표한 ‘110대 국정과제’에 담겼다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[어린이날] 재난재해로부터 안전한 우리 아이들을 위한 ‘안전체험관’]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=106502&amp;page=1&amp;mkind=1&amp;kind=2</id>
@@ -95,33 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=106486&amp;page=1&amp;mkind=1&amp;kind=2"/>
         <updated>2022-05-02T07:16:59.284Z</updated>
         <content type="html"><![CDATA[한국인터넷진흥원(KISA, 원장 이원태)은 과학기술정보통신부(장관 임혜숙)와 지역 중소기업의 정보보호 역량강화를 지원하기 위한 수요기업을 모집한다고 5월 2일(월) 밝혔다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[의료 분야 사이버 보안 단체, 사업 연속성 위한 툴킷 제공]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=106496&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=106496&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-05-02T05:30:30.657Z</updated>
-        <content type="html"><![CDATA[미국 의료 업계 사이버 사건 대응 단체인 HSCC) 내 사이버보안워킹그룹(Cybersecurity Working Group)이 새로운 보안 관련 도구를 무료로 공개했다. 사이버 공격으로 인한 병원 업무 마비가 지나치게 길어지지 않도록 하는(즉 사업 연속성을 강화하기 위...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[디파이 플랫폼 라리 캐피탈과 페이 프로토콜에서 8천만 달러 도난당해]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=106495&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=106495&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-05-02T05:30:30.657Z</updated>
-        <content type="html"><![CDATA[일부 해커들이 탈중앙화 금융 플랫폼인 라리 캐피탈(Lari Capital)과 페이 프로토콜(Fei Protocol)이 토요일 해킹 사고의 피해자가 됐다고 보안 블로그 시큐리티어페어즈가 보도했다. 스마트 계약서 분석 전문 업체인 블록섹(Block Sec)에 의하면 이 두...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[새로운 오픈SSF 프로젝트, 오픈소스서 악성 패키지 잡아낸다]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=106494&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=106494&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-05-02T04:52:06.891Z</updated>
-        <content type="html"><![CDATA[오픈소스보안재단(Open Source Security Foundation)이 새로운 프로젝트를 시작했다고 보안 외신 시큐리티위크가 보도했다. 이 프로젝트의 이름은 패키지 애널리시스(Package Analysis)이고, 목적은 오픈소스 리포지터리에서 악성 패키지를 식별해...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[레빌 랜섬웨어, 돌아오다]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=106493&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=106493&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-05-02T03:54:30.240Z</updated>
-        <content type="html"><![CDATA[악명 높은 사이버 범죄 갱단인 레빌(REvil)이 다시 운영을 시작했다고 IT 외신인 블리핑컴퓨터가 보도했다. 지난 10월 국제적 공조로 이들의 공격용 토르 서버가 폐쇄되고 나서 처음이다. 여기에는 특히 미국과 러시아 간 공조가 유효했는데, 러시아가 우크라이나를 침공한...]]></content>
     </entry>
 </feed>
