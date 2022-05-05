@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-05-05T11:18:00.834Z</updated>
+    <updated>2022-05-05T12:36:55.815Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[레빌 랜섬웨어의 부활? 도무지 죽지 않는 사이버 갱단들]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=106570&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=106570&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-05-05T12:34:32.821Z</updated>
+        <content type="html"><![CDATA[사라진 줄 알았던 레빌(REvil) 그룹이 부활했다는 증거들이 나오기 시작했다. 하지만 보안 업계는 되살아난 레빌이 이전 레빌 만큼 강력할 것인지에 대해서는 아직 확신하지 못하고 있다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아루바와 아바야 네트워크 스위치 제품들에서 5개 취약점 해결돼]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=106568&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=106568&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-05-05T12:34:32.822Z</updated>
+        <content type="html"><![CDATA[아루바(Aruba)와 아바야(Avaya)에서 나온 네트워크 스위치들에서 여러 개의 취약점이 발견됐다. 이 취약점을 공격자들이 익스플로잇 하는 데 성공할 경우 원격 코드 실행 공격을 통해 장비를 완전히 장악할 수 있게 된다고 한다. 이 취약점을 발견한 건 보안 업체 아르...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[문서 편집·메신저 프로그램 위장 악성파일, 국가기관 관리자·교수 타깃 유포]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=106551&amp;page=1&amp;mkind=1&amp;kind=1</id>
@@ -109,19 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=106514&amp;page=1&amp;mkind=1&amp;kind=3"/>
         <updated>2022-05-03T03:23:57.807Z</updated>
         <content type="html"><![CDATA[대한민국 대표 금융사인 신한금융그룹과 국가대표 통신사인 KT가 작년 9월부터 손을 잡고 다양한 영역에서 협력하고 있는 가운데, 이번엔 신한금융그룹이 KT의 AI기술을 활용해 신한금융의 금융사기범죄 예방 시스템 고도화에 나선다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[암호화 알고리즘을 다양하게 마련해야 하는 이유]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=106503&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=106503&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-05-03T03:23:57.807Z</updated>
-        <content type="html"><![CDATA[언젠가 양자 컴퓨팅은 현존하는 암호화 기술을 무력화시킬 것이다. 스핀트로닉스라고 알려진 확률적 자기 터널 접합 기계들도 마찬가지다. 하지만 굳이 차세대 IT 기술이 있어야만 암호화가 벗겨지는 건 아니다. 이미 암호화 기술로 보호되어 있는 수많은 시스템들이 충분히 농락당...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[북한 4.25 열병식 분석 자료? 악성 워드 문서로 안보·정치·외교 관계자 노렸다]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=106497&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=106497&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-05-03T01:25:22.586Z</updated>
-        <content type="html"><![CDATA[최근 안보·정치·외교 관계자를 타깃으로 한 악성 문서 유포가 포착됐다. 이번에 발견된 악성 문서는 ‘[분석자료] 4.25 열병식을 통해 본 북한의 핵무력 사용 입장과 군부 엘리트 변동의 함의’라는 제목의 워드 문서로, 북한 열병식 분석 자료로 유인해 대북 전문가들의 다...]]></content>
     </entry>
 </feed>
