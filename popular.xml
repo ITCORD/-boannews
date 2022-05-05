@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 05 May 2022 01:27:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 May 2022 03:25:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -72,12 +72,12 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/20220502tong-s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[리눅스에서 발견된 두 개의 권한 상승 취약점, 님부스폰]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106423&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106423&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Sat, 30 Apr 2022 01:28:50 GMT</pubDate>
-            <content:encoded><![CDATA[보안 블로그 시큐리티어페어즈는 리눅스에서 두 개의 권한 상승 취약점이 발견됐다고 발표했다. 이 두 개의 취약점은 합해서 님부스폰(Nimbuspwn)이라고 한다. ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/20900438_copy_295x190_2.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[2021년 가장 많이 악용된 취약점 15개?  최악은 ‘로그4셸’과 ‘MS익스체인지’]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106528&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106528&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Wed, 04 May 2022 01:23:44 GMT</pubDate>
+            <content:encoded><![CDATA[미국의 사이버보안 전담기관인 CISA(Cybersecurity and Infrastructure Security Agency)가 2021년에 가장 많이 악용된 취...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/20312979_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[영상보안 분야 상장기업 8곳, 지난해 활약상과 2022년 청사진]]></title>
@@ -86,14 +86,6 @@
             <pubDate>Tue, 03 May 2022 06:21:15 GMT</pubDate>
             <content:encoded><![CDATA[코로나19로 전세계가 어려움을 겪고 미국과 중국의 무역분쟁, 유로존 경제 위기 그리고 사이버 보안 이슈의 확대와 개인정보 보호에 대한 의식 강화 등 시장환경과 경...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/20220502cctv-s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2021년 가장 많이 악용된 취약점 15개?  최악은 ‘로그4셸’과 ‘MS익스체인지’]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106528&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106528&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Wed, 04 May 2022 01:23:44 GMT</pubDate>
-            <content:encoded><![CDATA[미국의 사이버보안 전담기관인 CISA(Cybersecurity and Infrastructure Security Agency)가 2021년에 가장 많이 악용된 취...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/20312979_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[암호화 알고리즘을 다양하게 마련해야 하는 이유]]></title>
@@ -166,6 +158,14 @@
             <pubDate>Wed, 04 May 2022 17:26:29 GMT</pubDate>
             <content:encoded><![CDATA[2021년 11월 데이터 거버넌스 법안(DGA : Data Gvernance Act)의 승인 이후, 2022년 2월 23일 집행위는 데이터법(Data Act)의 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/22050205ss.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[글로벌 인터뷰] 말루 토푸트, 마일스톤 시스템즈 APAC 부사장]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106449&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106449&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
+            <pubDate>Thu, 05 May 2022 03:22:50 GMT</pubDate>
+            <content:encoded><![CDATA[1998년 덴마크 코펜하겐에서 설립된 마일스톤 시스템즈(Milestone Systems)는 세계 시장을 선도하는 VMS(Video Management Softwa...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/22050203ss.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
