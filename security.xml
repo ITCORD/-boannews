@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-05-05T05:25:35.252Z</updated>
+    <updated>2022-05-05T06:25:18.449Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[문서 편집·메신저 프로그램 위장 악성파일, 국가기관 관리자·교수 타깃 유포]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=106551&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=106551&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-05-05T06:22:39.649Z</updated>
+        <content type="html"><![CDATA[문서 편집 및 메신저 프로그램으로 위장해 정보를 유출하는 백도어가 발견됐다. 특히, 국가기관 관리자와 대학교수 등을 타깃으로 유포돼 관계자들의 각별한 주의가 요구된다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[이슈칼럼] 윤석열 정부의 사이버안보 분야 국정비전을 보며]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=106548&amp;page=1&amp;mkind=1&amp;kind=6</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=106497&amp;page=1&amp;mkind=1&amp;kind=1"/>
         <updated>2022-05-03T01:25:22.586Z</updated>
         <content type="html"><![CDATA[최근 안보·정치·외교 관계자를 타깃으로 한 악성 문서 유포가 포착됐다. 이번에 발견된 악성 문서는 ‘[분석자료] 4.25 열병식을 통해 본 북한의 핵무력 사용 입장과 군부 엘리트 변동의 함의’라는 제목의 워드 문서로, 북한 열병식 분석 자료로 유인해 대북 전문가들의 다...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[큐냅과 시놀로지의 NAS 장비들에서 다수 취약점 발견돼]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=106500&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=106500&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-05-03T01:25:22.591Z</updated>
-        <content type="html"><![CDATA[NAS 장비 제조사인 큐냅(QNAP)과 시놀로지(Synology)가 다량의 취약점 정보를 공개했다. 자사 제품에 통합된 오픈소스 파일 서버에서 발견된 것들이다. 일부는 원격 코드 실행을 가능하게 하며, 따라서 위험하다. 문제의 오픈소스 파일 서버는 애플 파일 프로토콜(...]]></content>
     </entry>
 </feed>
