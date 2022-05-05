@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-05-05T14:19:43.848Z</updated>
+    <updated>2022-05-05T15:20:15.014Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[로그4셸 공격 건수 분석해보니... Log4j 취약점 공격은 현재진행형!]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=106569&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=106569&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-05-05T15:17:48.255Z</updated>
+        <content type="html"><![CDATA[지난해 발견돼 역대 최악의 취약점으로 불리는 Log4j 취약점, 일명 로그4셸을 악용한 사이버공격이 지속적으로 포착돼 이용자들의 각별한 주의가 필요하다. Log4j는 JAVA를 기반으로 서버와 응용프로그램에서 발생하는 로그를 남기기 위해 사용하는 유틸리티이다. 해당 취...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[레빌 랜섬웨어의 부활? 도무지 죽지 않는 사이버 갱단들]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=106570&amp;page=1&amp;mkind=1&amp;kind=1</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=106512&amp;page=1&amp;mkind=1&amp;kind=2"/>
         <updated>2022-05-03T03:23:57.806Z</updated>
         <content type="html"><![CDATA[국가정보자원관리원은 2022년 제1차 정보자원 통합구축 사업을 발주하고, 지난 2일 참여 희망 업체 관계자 등 200여명을 대상으로 사업설명회를 개최했다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KT-신한금융그룹과 금융사기범죄 예방 협력한다]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=106514&amp;page=1&amp;mkind=1&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=106514&amp;page=1&amp;mkind=1&amp;kind=3"/>
-        <updated>2022-05-03T03:23:57.807Z</updated>
-        <content type="html"><![CDATA[대한민국 대표 금융사인 신한금융그룹과 국가대표 통신사인 KT가 작년 9월부터 손을 잡고 다양한 영역에서 협력하고 있는 가운데, 이번엔 신한금융그룹이 KT의 AI기술을 활용해 신한금융의 금융사기범죄 예방 시스템 고도화에 나선다.]]></content>
     </entry>
 </feed>
