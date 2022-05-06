@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 May 2022 16:31:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 May 2022 17:26:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -349,6 +349,14 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/22050203ss.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[로그4셸 공격 건수 분석해보니... Log4j 취약점 공격은 현재진행형! (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106569&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106569&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Fri, 06 May 2022 08:21:50 GMT</pubDate>
+            <content:encoded><![CDATA[지난해 발견돼 역대 최악의 취약점으로 불리는 Log4j 취약점, 일명 로그4셸을 악용한 사이버공격이 지속적으로 포착돼 이용자들의 각별한 주의가 필요하다. Log4...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/20220505log-s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[레빌 랜섬웨어의 부활? 도무지 죽지 않는 사이버 갱단들 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=106570&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=106570&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
@@ -365,12 +373,12 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/2022-05-04%20133841-c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[로그4셸 공격 건수 분석해보니... Log4j 취약점 공격은 현재진행형! (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106569&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106569&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Fri, 06 May 2022 08:21:50 GMT</pubDate>
-            <content:encoded><![CDATA[지난해 발견돼 역대 최악의 취약점으로 불리는 Log4j 취약점, 일명 로그4셸을 악용한 사이버공격이 지속적으로 포착돼 이용자들의 각별한 주의가 필요하다. Log4...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/20220505log-s.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[국내 첫 심스와핑 사건 그 후, 유심 ‘기지국 정보’ 놓고 피해자 vs KT (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106573&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106573&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Fri, 06 May 2022 12:32:05 GMT</pubDate>
+            <content:encoded><![CDATA[지난 2022년 1월 5일, &lt;보안뉴스&gt;가 단독 보도한 ‘[단독] KT 고객 유심 복사로 암호화폐 탈취? 국내 첫 심스와핑 의심 피해 발생’ 기사 이후...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/sims_0505001_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[인권위 “사이버안보법이 개인정보 침해할 수 있어”... 보완·삭제 권고 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
@@ -379,14 +387,6 @@
             <pubDate>Thu, 05 May 2022 08:22:36 GMT</pubDate>
             <content:encoded><![CDATA[국가인권위원회(위원장 송두환, 이하 인권위)가 현재 국회에 계류 중인 국가사이버안보법안(사이버안보법)의 일부 조항이 개인정보 결정권 등을 침해할 수 있다며 이를 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/human_050101_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국내 첫 심스와핑 사건 그 후, 유심 ‘기지국 정보’ 놓고 피해자 vs KT (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106573&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106573&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Fri, 06 May 2022 12:32:05 GMT</pubDate>
-            <content:encoded><![CDATA[지난 2022년 1월 5일, &lt;보안뉴스&gt;가 단독 보도한 ‘[단독] KT 고객 유심 복사로 암호화폐 탈취? 국내 첫 심스와핑 의심 피해 발생’ 기사 이후...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/sims_0505001_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[국정원-대진대, ‘산업보안 전문 인력 양성’ 업무협약 체결 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
