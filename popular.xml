@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 May 2022 11:17:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 May 2022 12:34:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -152,20 +152,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/4-155(295).jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[국내 첫 심스와핑 사건 그 후, 유심 ‘기지국 정보’ 놓고 피해자 vs KT]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106573&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106573&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Fri, 06 May 2022 12:32:05 GMT</pubDate>
+            <content:encoded><![CDATA[지난 2022년 1월 5일, &lt;보안뉴스&gt;가 단독 보도한 ‘[단독] KT 고객 유심 복사로 암호화폐 탈취? 국내 첫 심스와핑 의심 피해 발생’ 기사 이후...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/sims_0505001_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[2021년 물리보안 현황 ‘물리보안에 대한 필요 솔루션 어떤 변화 생겼나’]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=106454&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=106454&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
             <pubDate>Fri, 06 May 2022 09:17:55 GMT</pubDate>
             <content:encoded><![CDATA[융합 보안과 공공 안전, 운영 및 비즈니스 정보 솔루션 선도기업 제네텍(Genetec)이 2021년 10월 26일부터 11월 26일까지 전 세계 물리보안 전문가를...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/20220430GENETEC-S.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아루바와 아바야 네트워크 스위치 제품들에서 5개 취약점 해결돼]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106568&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106568&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Fri, 06 May 2022 09:17:55 GMT</pubDate>
-            <content:encoded><![CDATA[아루바(Aruba)와 아바야(Avaya)에서 나온 네트워크 스위치들에서 여러 개의 취약점이 발견됐다. 이 취약점을 공격자들이 익스플로잇 하는 데 성공할 경우 원격...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/patch-thumb-0504(0).jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
