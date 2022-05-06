@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-05-06T05:20:05.178Z</updated>
+    <updated>2022-05-06T06:26:47.028Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[디지털 기술을 충분히 보유한 기업들, 이제는 인간화에 몰두]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=106574&amp;page=1&amp;mkind=1&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=106574&amp;page=1&amp;mkind=1&amp;kind=3"/>
+        <updated>2022-05-06T06:24:04.109Z</updated>
+        <content type="html"><![CDATA[디지털 경험을 인간적인 경험으로 전환한다는 건 생각보다 어려운 일이다. 이는 소프트웨어 후기에 5점 만점을 많이 받는 것만을 말하는 게 아니기 때문이다. 일단 ‘인간적인 경험’이 무엇인지부터 각 기업은 정의해야 하고, 그리고 그 정의한 걸 구현해야 한다. 많은 기업들이...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[구글, 안드로이드 5월 업데이트 통해 36개 취약점 해결]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=106581&amp;page=1&amp;mkind=1&amp;kind=1</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=106550&amp;page=1&amp;mkind=1&amp;kind=2"/>
         <updated>2022-05-04T09:18:54.219Z</updated>
         <content type="html"><![CDATA[금융보안원(원장 김철웅)은 MZ세대의 의견을 경청하고, 세대를 뛰어넘어 자유롭게 소통할 수 있는 직원 참여 플랫폼인 브라운보드를 올해 처음 신설하고 5월 4일(수) 출범식을 개최한다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KISIA, 정보보호 스타트업의 도약을 위한 상생 협력 워크숍 개최]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=106549&amp;page=1&amp;mkind=1&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=106549&amp;page=1&amp;mkind=1&amp;kind=3"/>
-        <updated>2022-05-04T06:23:13.153Z</updated>
-        <content type="html"><![CDATA[한국정보보호산업협회(KISIA, 회장 이동범)는 과학기술정보통신부 주최로 한국인터넷진흥원(KISA)과 함께 5월 3일(화), 강남 드림플러스에서 ‘K-스타트업 정보보호 성장기업 도약-상생 협력 워크숍’을 개최했다고 밝혔다.]]></content>
     </entry>
 </feed>
