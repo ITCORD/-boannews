@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 May 2022 07:19:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 May 2022 08:25:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -80,30 +80,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/22042805ss.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[2022년 5월, 물리·정보보안 업계 인재채용 계획 살펴보니]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106428&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106428&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
-            <pubDate>Sun, 01 May 2022 15:18:03 GMT</pubDate>
-            <content:encoded><![CDATA[푸른 녹음이 짙어지고 따뜻한 햇살이 일상의 온기를 더하는 5월이 코앞으로 다가왔다. 오랜 시간 일상의 변화를 만들었던 코로나19는 이제 우리의 일상과 더불어 살아...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/22042803ss.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[블록체인 ‘경험’을 위한 마크애니의 선택, ‘BX사업부’를 만나다]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106468&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106468&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
-            <pubDate>Sun, 01 May 2022 10:18:44 GMT</pubDate>
-            <content:encoded><![CDATA[블록체인(Blockchain)이 등장한 것은 꽤 오래 전이지만, 화려한 등장과 달리 그간의 성과는 생각보다 잘 알려지지 않았다. 워낙 어려운 기술이다 보니 개발하...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/markany_042801_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[MS, 애저 서비스에서 발견된 위험한 취약점 2개 패치해]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106469&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106469&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Sun, 01 May 2022 18:19:41 GMT</pubDate>
-            <content:encoded><![CDATA[마이크로소프트가 PostgreSQL Flexible Server의 애저 데이터베이스의 취약점 두 개를 패치했다. 첫 번째는 MS가 PostgreSQL 엔진에 최근...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/IMG_29042022_165546_(295_x_190).jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[문서 편집·메신저 프로그램 위장 악성파일, 국가기관 관리자·교수 타깃 유포]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=106551&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=106551&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
@@ -166,6 +142,30 @@
             <pubDate>Thu, 05 May 2022 08:22:36 GMT</pubDate>
             <content:encoded><![CDATA[국가인권위원회(위원장 송두환, 이하 인권위)가 현재 국회에 계류 중인 국가사이버안보법안(사이버안보법)의 일부 조항이 개인정보 결정권 등을 침해할 수 있다며 이를 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/human_050101_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[레빌 랜섬웨어의 부활? 도무지 죽지 않는 사이버 갱단들]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106570&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106570&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Fri, 06 May 2022 08:21:50 GMT</pubDate>
+            <content:encoded><![CDATA[사라진 줄 알았던 레빌(REvil) 그룹이 부활했다는 증거들이 나오기 시작했다. 하지만 보안 업계는 되살아난 레빌이 이전 레빌 만큼 강력할 것인지에 대해서는 아직...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/21516236_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[로그4셸 공격 건수 분석해보니... Log4j 취약점 공격은 현재진행형!]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106569&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106569&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Fri, 06 May 2022 08:21:50 GMT</pubDate>
+            <content:encoded><![CDATA[지난해 발견돼 역대 최악의 취약점으로 불리는 Log4j 취약점, 일명 로그4셸을 악용한 사이버공격이 지속적으로 포착돼 이용자들의 각별한 주의가 필요하다. Log4...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/20220505log-s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[국정원-대진대, ‘산업보안 전문 인력 양성’ 업무협약 체결]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106476&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106476&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
+            <pubDate>Fri, 06 May 2022 08:21:50 GMT</pubDate>
+            <content:encoded><![CDATA[대진대는 지난 27일 ‘산업보안 분야 전문 인력 양성 상호협력’을 위한 업무협약(MOU)을 국정원과 체결했다. 양측은 세계적 수준으로 도약한 우리나라 산업기술을 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/4-155(295).jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

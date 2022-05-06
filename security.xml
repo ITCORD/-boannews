@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-05-06T07:19:20.292Z</updated>
+    <updated>2022-05-06T08:25:29.353Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[트리니티소프트, ’2022 ICT 중소기업 정보보호 지원사업’ 공급기업 선정]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=106583&amp;page=1&amp;mkind=1&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=106583&amp;page=1&amp;mkind=1&amp;kind=3"/>
+        <updated>2022-05-06T08:22:04.140Z</updated>
+        <content type="html"><![CDATA[SW개발보안 전문기업 트리니티소프트는 과학기술정보통신부와 한국인터넷진흥원(KISA)이 주관하는 ‘ICT 중소기업 정보보호 지원사업’의 공급기업으로 선정됐다고 6일 밝혔다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[헤로쿠의 오오스 토큰 도난 사건, 고객들의 크리덴셜 정보도 도난당해]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=106582&amp;page=1&amp;mkind=1&amp;kind=1</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=106548&amp;page=1&amp;mkind=1&amp;kind=6"/>
         <updated>2022-05-04T14:16:54.315Z</updated>
         <content type="html"><![CDATA[지난 5월 3일 윤석열 정부의 110대 국정과제가 우리나라 1세대 보안전문가인 안철수 인수위원장을 통해 발표됐다. 필자는 인수위원장이 사이버보안 전문가로 이번 110대 국정과제 발표를 통해 차기 정부의 사이버안보 정책의 바로미터를 알 수 있을 거란 기대가 컸다. 기대했...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대통령직인수위 디지털플랫폼정부 TF “개인정보 활용과 보안 개선 추진”]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=106547&amp;page=1&amp;mkind=1&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=106547&amp;page=1&amp;mkind=1&amp;kind=2"/>
-        <updated>2022-05-04T13:38:10.380Z</updated>
-        <content type="html"><![CDATA[제20대 대통령직인수위원회 디지털플랫폼정부 TF가 디지털플랫폼정부 구현 중점 추진과제를 발표했다. 특히, 기존에 불편했던 시스템을 AI와 클라우드, 블록체인 등 첨단기술과 데이터를 활용해 개선하고, 개인정보 활용 등을 저해하는 요소는 법을 재정비하겠다고 밝혀 관심이 모...]]></content>
     </entry>
 </feed>
