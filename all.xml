@@ -4,9 +4,41 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 06 May 2022 01:15:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 May 2022 03:09:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[구글, 안드로이드 5월 업데이트 통해 36개 취약점 해결 :: (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106581&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106581&amp;page=1&amp;kind=1</guid>
+            <pubDate>Fri, 06 May 2022 03:06:40 GMT</pubDate>
+            <content:encoded><![CDATA[보안 외신 시큐리티위크에 의하면 구글이 이번 주 5월 정기 패치를 통해 36개 취약점을 해결했다고 한다. 이중 가장 심각한 취약점은 안드로이드의 프레임워크...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/20714039_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NIST, 공급망 위험 완화하기 위한 새 가이드라인 발표 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106580&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106580&amp;page=1&amp;kind=1</guid>
+            <pubDate>Fri, 06 May 2022 03:06:40 GMT</pubDate>
+            <content:encoded><![CDATA[보안 전문 매체 해커뉴스에 의하면 NIST가 이번 주 소프트웨어 공급망 위험을 완화시킬 수 있는 방법을 새롭게 편찬해 가이드라인 형태로 발표했다고 한다. ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/20548710_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[유방암 환자 위한 비영리 단체, 클라우드 관리 실수로 민감한 이미지 노출시켜 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106579&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106579&amp;page=1&amp;kind=1</guid>
+            <pubDate>Fri, 06 May 2022 03:06:40 GMT</pubDate>
+            <content:encoded><![CDATA[미국의 유방암 환자들을 위한 비영리 단체 breastcancer.org이 아마존 S3 버킷을 잘못 설ㅈ어하는 바람에 환자들의 민감한 이미지들이 대거 노출됐...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/20986326_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[윈도 인스톨러 통해 퍼지는 새로운 웜, 라즈베리 로빈 발견돼 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106578&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106578&amp;page=1&amp;kind=1</guid>
+            <pubDate>Fri, 06 May 2022 03:06:40 GMT</pubDate>
+            <content:encoded><![CDATA[보안 외신 블리핑컴퓨터에 의하면 새로운 윈도 멀웨어가 최근 발표되었다고 한다. 이 멀웨어의 이름은 라즈베리 로빈(Raspberry Robin)으로, 웜 기...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/20814367_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[SK쉴더스, IPO 수요예측 실패로 흥행 부진... 결국 상장 철회 (보안뉴스 ─ 전체기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=106576&amp;page=1&amp;kind=3</link>
@@ -54,38 +86,6 @@
             <pubDate>Wed, 04 May 2022 14:16:18 GMT</pubDate>
             <content:encoded><![CDATA[사라진 줄 알았던 레빌(REvil) 그룹이 부활했다는 증거들이 나오기 시작했다. 하지만 보안 업계는 되살아난 레빌이 이전 레빌 만큼 강력할 것인지에 대해서...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/21516236_copy_295x190_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아루바와 아바야 네트워크 스위치 제품들에서 5개 취약점 해결돼 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106568&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106568&amp;page=1&amp;kind=1</guid>
-            <pubDate>Wed, 04 May 2022 13:37:46 GMT</pubDate>
-            <content:encoded><![CDATA[아루바(Aruba)와 아바야(Avaya)에서 나온 네트워크 스위치들에서 여러 개의 취약점이 발견됐다. 이 취약점을 공격자들이 익스플로잇 하는 데 성공할 경...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/patch-thumb-0504(0).jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[문서 편집·메신저 프로그램 위장 악성파일, 국가기관 관리자·교수 타깃 유포 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106551&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106551&amp;page=1&amp;kind=1</guid>
-            <pubDate>Wed, 04 May 2022 09:18:33 GMT</pubDate>
-            <content:encoded><![CDATA[문서 편집 및 메신저 프로그램으로 위장해 정보를 유출하는 백도어가 발견됐다. 특히, 국가기관 관리자와 대학교수 등을 타깃으로 유포돼 관계자들의 각별한 주의...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/20220504ahn-ms.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[이슈칼럼] 윤석열 정부의 사이버안보 분야 국정비전을 보며 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106548&amp;page=1&amp;kind=6</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106548&amp;page=1&amp;kind=6</guid>
-            <pubDate>Wed, 04 May 2022 06:22:50 GMT</pubDate>
-            <content:encoded><![CDATA[지난 5월 3일 윤석열 정부의 110대 국정과제가 우리나라 1세대 보안전문가인 안철수 인수위원장을 통해 발표됐다. 필자는 인수위원장이 사이버보안 전문가로 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/21916424_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[대통령직인수위 디지털플랫폼정부 TF “개인정보 활용과 보안 개선 추진” (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106547&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106547&amp;page=1&amp;kind=2</guid>
-            <pubDate>Wed, 04 May 2022 06:22:50 GMT</pubDate>
-            <content:encoded><![CDATA[제20대 대통령직인수위원회 디지털플랫폼정부 TF가 디지털플랫폼정부 구현 중점 추진과제를 발표했다. 특히, 기존에 불편했던 시스템을 AI와 클라우드, 블록체...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/2022-05-04%20133841-c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[안랩, ‘우리를 둘러싼 유해 환경’ 주제로 사내 환경 특강 (보안뉴스 ─ 전체기사)]]></title>
@@ -189,6 +189,22 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/5-32(295).jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[아루바와 아바야 네트워크 스위치 제품들에서 5개 취약점 해결돼 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106568&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106568&amp;page=1&amp;kind=1</guid>
+            <pubDate>Wed, 04 May 2022 13:37:46 GMT</pubDate>
+            <content:encoded><![CDATA[아루바(Aruba)와 아바야(Avaya)에서 나온 네트워크 스위치들에서 여러 개의 취약점이 발견됐다. 이 취약점을 공격자들이 익스플로잇 하는 데 성공할 경...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/patch-thumb-0504(0).jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[문서 편집·메신저 프로그램 위장 악성파일, 국가기관 관리자·교수 타깃 유포 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106551&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106551&amp;page=1&amp;kind=1</guid>
+            <pubDate>Wed, 04 May 2022 09:18:33 GMT</pubDate>
+            <content:encoded><![CDATA[문서 편집 및 메신저 프로그램으로 위장해 정보를 유출하는 백도어가 발견됐다. 특히, 국가기관 관리자와 대학교수 등을 타깃으로 유포돼 관계자들의 각별한 주의...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/20220504ahn-ms.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[상명대 정보보안공학과, 국방보안연구소 우수 논문상 수상 (보안뉴스 ─ 전체기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=106554&amp;page=1&amp;kind=3</link>
             <guid>https://www.boannews.com/media/view.asp?idx=106554&amp;page=1&amp;kind=3</guid>
@@ -205,52 +221,28 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/22050403ss.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[이슈칼럼] 윤석열 정부의 사이버안보 분야 국정비전을 보며 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106548&amp;page=1&amp;kind=6</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106548&amp;page=1&amp;kind=6</guid>
+            <pubDate>Wed, 04 May 2022 06:22:50 GMT</pubDate>
+            <content:encoded><![CDATA[지난 5월 3일 윤석열 정부의 110대 국정과제가 우리나라 1세대 보안전문가인 안철수 인수위원장을 통해 발표됐다. 필자는 인수위원장이 사이버보안 전문가로 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/21916424_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[대통령직인수위 디지털플랫폼정부 TF “개인정보 활용과 보안 개선 추진” (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106547&amp;page=1&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106547&amp;page=1&amp;kind=2</guid>
+            <pubDate>Wed, 04 May 2022 06:22:50 GMT</pubDate>
+            <content:encoded><![CDATA[제20대 대통령직인수위원회 디지털플랫폼정부 TF가 디지털플랫폼정부 구현 중점 추진과제를 발표했다. 특히, 기존에 불편했던 시스템을 AI와 클라우드, 블록체...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/2022-05-04%20133841-c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[2030의 목소리에 날개를 달아주다... 금융보안원 브라운보드 출범 (보안뉴스 ─ 전체기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=106550&amp;page=1&amp;kind=2</link>
             <guid>https://www.boannews.com/media/view.asp?idx=106550&amp;page=1&amp;kind=2</guid>
             <pubDate>Wed, 04 May 2022 06:22:50 GMT</pubDate>
             <content:encoded><![CDATA[금융보안원(원장 김철웅)은 MZ세대의 의견을 경청하고, 세대를 뛰어넘어 자유롭게 소통할 수 있는 직원 참여 플랫폼인 브라운보드를 올해 처음 신설하고 5월 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/money_050401_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[KISIA, 정보보호 스타트업의 도약을 위한 상생 협력 워크숍 개최 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106549&amp;page=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106549&amp;page=1&amp;kind=3</guid>
-            <pubDate>Wed, 04 May 2022 06:22:50 GMT</pubDate>
-            <content:encoded><![CDATA[한국정보보호산업협회(KISIA, 회장 이동범)는 과학기술정보통신부 주최로 한국인터넷진흥원(KISA)과 함께 5월 3일(화), 강남 드림플러스에서 ‘K-스타...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/kisia_050401_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[서울시, 100년 만에 수도계량기 검침 방법 바꾼다 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106531&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106531&amp;page=1&amp;kind=2</guid>
-            <pubDate>Wed, 04 May 2022 05:19:26 GMT</pubDate>
-            <content:encoded><![CDATA[서울시가 올해부터 2030년까지 서울 222만 수도계량기의 30%에 해당하는 66만 수전을 원격검침 계량기로 본격 전환한다. ‘스마트 원격검침’은 디지털 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/5-23(295)(0).jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[부산시, 공사·공단 대상 사이버보안 강화 회의 개최 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106532&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106532&amp;page=1&amp;kind=2</guid>
-            <pubDate>Wed, 04 May 2022 05:19:26 GMT</pubDate>
-            <content:encoded><![CDATA[부산시는 산하 공사·공단을 대상으로 사이버보안 강화 회의를 열고 전세계적으로 급증하고 있는 무차별 해킹에 대한 대응체계를 마련하는 등 정보보안 강화에 나섰...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/5-24(295).jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[철도연, LTE-R 철도무선통신 국제공인 인증서 세계 최초 발행 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106534&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106534&amp;page=1&amp;kind=2</guid>
-            <pubDate>Wed, 04 May 2022 05:19:26 GMT</pubDate>
-            <content:encoded><![CDATA[한국철도기술연구원은 세계 최초로 국제 철도표준을 만족하는 ‘철도무선통신(LTE-R) 국제공인 성능인증서’를 SK텔레콤에 발행했다. 철도에 적용하는 LTE ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/5-26(295).jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[단독] 북한 해커 추정 텔레그램 대화 “남조선이 코인에 미쳐 큰 건 준비중” (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106448&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106448&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Fri, 29 Apr 2022 19:14:18 GMT</pubDate>
-            <content:encoded><![CDATA[남한을 타깃에서 활동하는 북한 공작원(해커)으로 추정되는 사용자의 텔레그램 대화를 &lt;보안뉴스&gt;가 보안전문가를 통해 입수해 공개한다. 해당 대화 내용과 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/teleg_042901_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[제21회 세계보안엑스포(SECON & eGISEC), 3일간 보안축제 현장 이모저모 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
@@ -365,14 +357,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/001_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[화웨이, 2030 지능형 세계 구현을 위한 미래 통신 네트워크 및 컴퓨팅 산업 전망 공유 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106450&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106450&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
-            <pubDate>Wed, 04 May 2022 08:22:10 GMT</pubDate>
-            <content:encoded><![CDATA[화웨이가 제19회 글로벌 애널리스트 서밋(Global Analyst Summit, 이하 HAS)의 일환으로 업계 파트너와 함께하는 ‘인텔리전트 월드 2030 포럼...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/huawei_042901_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[문서 편집·메신저 프로그램 위장 악성파일, 국가기관 관리자·교수 타깃 유포 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=106551&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=106551&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
@@ -389,6 +373,22 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/22050203ss.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[이슈칼럼] 윤석열 정부의 사이버안보 분야 국정비전을 보며 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106548&amp;page=1&amp;kind=6&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106548&amp;page=1&amp;kind=6&amp;search=title&amp;find=</guid>
+            <pubDate>Fri, 06 May 2022 01:12:00 GMT</pubDate>
+            <content:encoded><![CDATA[지난 5월 3일 윤석열 정부의 110대 국정과제가 우리나라 1세대 보안전문가인 안철수 인수위원장을 통해 발표됐다. 필자는 인수위원장이 사이버보안 전문가로 이번 1...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/21916424_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[윤석열 정부 110대 국정과제에 담긴 정보보호와 보안산업 밑그림은? (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106546&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106546&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
+            <pubDate>Fri, 06 May 2022 03:06:55 GMT</pubDate>
+            <content:encoded><![CDATA[윤석열 정부가 사이버보안 역량 강화를 위해 보안클러스터 모델의 지역거점 확산으로 기업 성장을 지원하고, 10만 사이버보안 인재를 양성하겠다고 공식적으로 발표했다....]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/insu_050401_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[인권위 “사이버안보법이 개인정보 침해할 수 있어”... 보완·삭제 권고 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=106482&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=106482&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
@@ -397,12 +397,40 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/human_050101_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[이슈칼럼] 윤석열 정부의 사이버안보 분야 국정비전을 보며 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106548&amp;page=1&amp;kind=6&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106548&amp;page=1&amp;kind=6&amp;search=title&amp;find=</guid>
-            <pubDate>Fri, 06 May 2022 01:12:00 GMT</pubDate>
-            <content:encoded><![CDATA[지난 5월 3일 윤석열 정부의 110대 국정과제가 우리나라 1세대 보안전문가인 안철수 인수위원장을 통해 발표됐다. 필자는 인수위원장이 사이버보안 전문가로 이번 1...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/21916424_main.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[대통령직인수위 디지털플랫폼정부 TF “개인정보 활용과 보안 개선 추진” (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106547&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106547&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
+            <pubDate>Fri, 06 May 2022 03:06:55 GMT</pubDate>
+            <content:encoded><![CDATA[제20대 대통령직인수위원회 디지털플랫폼정부 TF가 디지털플랫폼정부 구현 중점 추진과제를 발표했다. 특히, 기존에 불편했던 시스템을 AI와 클라우드, 블록체인 등 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/2022-05-04%20133841-c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[윈도 인스톨러 통해 퍼지는 새로운 웜, 라즈베리 로빈 발견돼 (보안뉴스 ─ SECURITY)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106578&amp;page=1&amp;mkind=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106578&amp;page=1&amp;mkind=1&amp;kind=1</guid>
+            <pubDate>Fri, 06 May 2022 03:07:05 GMT</pubDate>
+            <content:encoded><![CDATA[보안 외신 블리핑컴퓨터에 의하면 새로운 윈도 멀웨어가 최근 발표되었다고 한다. 이 멀웨어의 이름은 라즈베리 로빈(Raspberry Robin)으로, 웜 기능을 가지고 있어 자가 증식이 가능하며 특히 USB 드라이브를 통해 퍼지는 능력이 탁월하다고 한다. 최소 2021년...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[안랩, ‘우리를 둘러싼 유해 환경’ 주제로 사내 환경 특강 (보안뉴스 ─ SECURITY)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106577&amp;page=1&amp;mkind=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106577&amp;page=1&amp;mkind=1&amp;kind=3</guid>
+            <pubDate>Fri, 06 May 2022 03:07:05 GMT</pubDate>
+            <content:encoded><![CDATA[안랩이 5월 4일 ‘ESG 내재화’를 위한 사내 환경 특강을 개최했다. 이번 환경 특강은 ‘우리를 둘러싼 유해 환경’을 주제로 진행됐다.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[SK쉴더스, IPO 수요예측 실패로 흥행 부진... 결국 상장 철회 (보안뉴스 ─ SECURITY)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106576&amp;page=1&amp;mkind=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106576&amp;page=1&amp;mkind=1&amp;kind=3</guid>
+            <pubDate>Fri, 06 May 2022 03:07:05 GMT</pubDate>
+            <content:encoded><![CDATA[IPO 수요예측 실패로 흥행 부진 논란을 겪던 SK쉴더스(대표 박진효)가 결국 상장 철회 신고서를 제출하고, 상장 시기를 뒤로 미뤘다.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[국내 첫 심스와핑 사건 그 후, 유심 ‘기지국 정보’ 놓고 피해자 vs KT (보안뉴스 ─ SECURITY)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106573&amp;page=1&amp;mkind=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106573&amp;page=1&amp;mkind=1&amp;kind=1</guid>
+            <pubDate>Fri, 06 May 2022 03:07:05 GMT</pubDate>
+            <content:encoded><![CDATA[지난 2022년 1월 5일, &lt;보안뉴스&gt;가 단독 보도한 ‘[단독] KT 고객 유심 복사로 암호화폐 탈취? 국내 첫 심스와핑 의심 피해 발생’ 기사 이후, 국내 첫 심스와핑 사례로 의심되는 이번 범죄가 여러 매체를 통해 알려졌다. 특히, 첫 번째 피해자 외에도...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[데이터바우처, 중소기업과 청년 스타트업의 꿈 실현을 지원했다 (보안뉴스 ─ SECURITY)]]></title>
@@ -494,34 +522,6 @@
             <guid>https://www.boannews.com/media/view.asp?idx=106546&amp;page=1&amp;mkind=1&amp;kind=2</guid>
             <pubDate>Wed, 04 May 2022 06:23:13 GMT</pubDate>
             <content:encoded><![CDATA[윤석열 정부가 사이버보안 역량 강화를 위해 보안클러스터 모델의 지역거점 확산으로 기업 성장을 지원하고, 10만 사이버보안 인재를 양성하겠다고 공식적으로 발표했다. 이는 5월 3일 발표한 ‘110대 국정과제’에 담겼다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[어린이날] 재난재해로부터 안전한 우리 아이들을 위한 ‘안전체험관’ (보안뉴스 ─ SECURITY)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106502&amp;page=1&amp;mkind=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106502&amp;page=1&amp;mkind=1&amp;kind=2</guid>
-            <pubDate>Wed, 04 May 2022 05:19:58 GMT</pubDate>
-            <content:encoded><![CDATA[거리두기 전면 해제 등 코로나19 방역이 일상 전환으로 바뀌고, 어린이날과 어버이날 등이 있는 가정의 달을 맞이하면서 점차 외부로 움직이는 가족들이 늘고 있다. 특히, 어린아이가 있는 가족들은 오랜만에 나들이를 반기면서도, 사람들이 많아 아이들이 다치거나 잃어버릴 위...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2021년 가장 많이 악용된 취약점 15개?  최악은 ‘로그4셸’과 ‘MS익스체인지’ (보안뉴스 ─ SECURITY)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106528&amp;page=1&amp;mkind=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106528&amp;page=1&amp;mkind=1&amp;kind=1</guid>
-            <pubDate>Wed, 04 May 2022 03:24:58 GMT</pubDate>
-            <content:encoded><![CDATA[미국의 사이버보안 전담기관인 CISA(Cybersecurity and Infrastructure Security Agency)가 2021년에 가장 많이 악용된 취약점 15개를 공개했다. 사이버 공격자들은 2021년에는 특히 새로 공개된 취약점을 악용해 이메일 서버와 V...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[데이터법 추진한 EU가 사업데이터 접근 권한 확대한 이유 (보안뉴스 ─ SECURITY)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106501&amp;page=1&amp;mkind=1&amp;kind=4</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106501&amp;page=1&amp;mkind=1&amp;kind=4</guid>
-            <pubDate>Wed, 04 May 2022 03:24:58 GMT</pubDate>
-            <content:encoded><![CDATA[2021년 11월 데이터 거버넌스 법안(DGA : Data Gvernance Act)의 승인 이후, 2022년 2월 23일 집행위는 데이터법(Data Act)의 초안을 발표했다. 초안을 통해 EU는 역내 데이터 단일 시장을 형성하고 데이터 공유를 활성화하기 위한 주체별...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[소프트캠프, 극동대학교와 정보보안 연구개발 위한 산학협력 체결 (보안뉴스 ─ SECURITY)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106527&amp;page=1&amp;mkind=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106527&amp;page=1&amp;mkind=1&amp;kind=3</guid>
-            <pubDate>Wed, 04 May 2022 01:23:55 GMT</pubDate>
-            <content:encoded><![CDATA[정보보안 전문기업 소프트캠프(대표 배환국)가 극동대학교(총장 류기일) 해킹보안학과와 ‘정보보안 산학협력(K-Security industry-academic Cooperation)’을 체결했다고 3일 밝혔다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[해양경찰청, ‘제2회 대국민 데이터 활용 아이디어 공모전’ 개최 (보안뉴스 ─ IT)]]></title>
@@ -1898,6 +1898,62 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/msit_041301_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[구글, 안드로이드 5월 업데이트 통해 36개 취약점 해결 :: (보안뉴스 ─ 국제)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106581&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106581&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
+            <pubDate>Fri, 06 May 2022 03:08:43 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/view.asp?idx=106581&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
+					
+					<img src="/media/upFiles2/2022/05/20714039_copy_295x190_1.jpg" alt="" class="news_img" height="70">
+					
+					<span class="news_txt">구글, 안드로이드 5월 업데이트 통해 36개 취약점 해결&nbsp;::</span>
+					</a><br>
+					<a href="/media/view.asp?idx=106581&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">보안 외신 시큐리티위크에 의하면 구글이 이번 주 5월 정기 패치를 통해 36개 취약점을 해결했다고 한다. 이중 가장 심각한 취약점은 안드로이드의 프레임워크(Fra...</a> <span class="news_writer">문가용 기자 | 2022년 05월 06일 11:39</span>]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/20714039_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NIST, 공급망 위험 완화하기 위한 새 가이드라인 발표 (보안뉴스 ─ 국제)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106580&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106580&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
+            <pubDate>Fri, 06 May 2022 03:08:43 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/view.asp?idx=106580&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
+					
+					<img src="/media/upFiles2/2022/05/20548710_copy_295x190_1.jpg" alt="" class="news_img" height="70">
+					
+					<span class="news_txt">NIST, 공급망 위험 완화하기 위한 새 가이드라인 발표</span>
+					</a><br>
+					<a href="/media/view.asp?idx=106580&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">보안 전문 매체 해커뉴스에 의하면 NIST가 이번 주 소프트웨어 공급망 위험을 완화시킬 수 있는 방법을 새롭게 편찬해 가이드라인 형태로 발표했다고 한다. 이번 가...</a> <span class="news_writer">문가용 기자 | 2022년 05월 06일 11:37</span>]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/20548710_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[유방암 환자 위한 비영리 단체, 클라우드 관리 실수로 민감한 이미지 노출시켜 (보안뉴스 ─ 국제)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106579&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106579&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
+            <pubDate>Fri, 06 May 2022 03:08:43 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/view.asp?idx=106579&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
+					
+					<img src="/media/upFiles2/2022/05/20986326_copy_295x190_1.jpg" alt="" class="news_img" height="70">
+					
+					<span class="news_txt">유방암 환자 위한 비영리 단체, 클라우드 관리 실수로 민감한 이미지 노출시켜</span>
+					</a><br>
+					<a href="/media/view.asp?idx=106579&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">미국의 유방암 환자들을 위한 비영리 단체 breastcancer.org이 아마존 S3 버킷을 잘못 설ㅈ어하는 바람에 환자들의 민감한 이미지들이 대거 노출됐다고 보...</a> <span class="news_writer">문가용 기자 | 2022년 05월 06일 11:36</span>]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/20986326_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[윈도 인스톨러 통해 퍼지는 새로운 웜, 라즈베리 로빈 발견돼 (보안뉴스 ─ 국제)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106578&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106578&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
+            <pubDate>Fri, 06 May 2022 03:08:43 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/view.asp?idx=106578&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
+					
+					<img src="/media/upFiles2/2022/05/20814367_copy_295x190_1.jpg" alt="" class="news_img" height="70">
+					
+					<span class="news_txt">윈도 인스톨러 통해 퍼지는 새로운 웜, 라즈베리 로빈 발견돼</span>
+					</a><br>
+					<a href="/media/view.asp?idx=106578&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">보안 외신 블리핑컴퓨터에 의하면 새로운 윈도 멀웨어가 최근 발표되었다고 한다. 이 멀웨어의 이름은 라즈베리 로빈(Raspberry Robin)으로, 웜 기능을 가...</a> <span class="news_writer">문가용 기자 | 2022년 05월 06일 11:34</span>]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/20814367_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[레빌 랜섬웨어의 부활? 도무지 죽지 않는 사이버 갱단들 (보안뉴스 ─ 국제)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=106570&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=106570&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
@@ -2120,62 +2176,6 @@
 					</a><br>
 					<a href="/media/view.asp?idx=106458&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">보안 외신 시큐리티위크는 구글의 플레이 스토어 관련 보고서를 인용하여 지난 한 해 120만 개 악성 앱이 사전에 차단됐다고 보도했다. 이는 구글이 플레이 스토어의...</a> <span class="news_writer">문가용 기자 | 2022년 04월 29일 11:39</span>]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/19537468_copy_295x190_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[일본 CERT, 이모체크 통해 64비트 새로운 이모텟 발견 (보안뉴스 ─ 국제)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106457&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106457&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
-            <pubDate>Fri, 29 Apr 2022 03:27:45 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/view.asp?idx=106457&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
-					
-					<img src="/media/upFiles2/2022/04/21316938_copy_295x190_1.jpg" alt="" class="news_img" height="70">
-					
-					<span class="news_txt">일본 CERT, 이모체크 통해 64비트 새로운 이모텟 발견</span>
-					</a><br>
-					<a href="/media/view.asp?idx=106457&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">IT 외신 블리핑컴퓨터에 의하면 일본 CERT가 발표한 이모체크(EmoCheck) 유틸리티의 새로운 버전에 대해 보도했다. 이모체크는 이모텟(Emotet)이라는 ...</a> <span class="news_writer">문가용 기자 | 2022년 04월 29일 11:37</span>]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/21316938_copy_295x190_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[TA410 그룹에 소속된 세 개의 해킹 팀의 전모 드러나 (보안뉴스 ─ 국제)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106456&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106456&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
-            <pubDate>Fri, 29 Apr 2022 03:27:45 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/view.asp?idx=106456&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
-					
-					<img src="/media/upFiles2/2022/04/3598769_copy_295x190_1.jpg" alt="" class="news_img" height="70">
-					
-					<span class="news_txt">TA410 그룹에 소속된 세 개의 해킹 팀의 전모 드러나</span>
-					</a><br>
-					<a href="/media/view.asp?idx=106456&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">보안 외신 해커뉴스가 TA401이라고 알려진 해킹 그룹에 대해 보도했다. 이에 의하면 TA401은 세 개의 팀으로 구성된 해킹 연합이라고 하며, 이 세 팀은 각각...</a> <span class="news_writer">문가용 기자 | 2022년 04월 29일 11:35</span>]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/3598769_copy_295x190_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이미 수많은 해킹 그룹이 사용하는 새 멀웨어, 범블비 (보안뉴스 ─ 국제)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106455&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106455&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
-            <pubDate>Fri, 29 Apr 2022 03:27:45 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/view.asp?idx=106455&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
-					
-					<img src="/media/upFiles2/2022/04/21815095_copy_295x190_1.jpg" alt="" class="news_img" height="70">
-					
-					<span class="news_txt">이미 수많은 해킹 그룹이 사용하는 새 멀웨어, 범블비</span>
-					</a><br>
-					<a href="/media/view.asp?idx=106455&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">보안 블로그 시큐리티어페어즈에 의하면 현재 사이버 공격자들 사이에서 새로운 멀웨어가 크게 유행하고 있다고 한다. 이 멀웨어의 이름은 범블비(Bumblebee)이며...</a> <span class="news_writer">문가용 기자 | 2022년 04월 29일 11:33</span>]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/21815095_copy_295x190_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[회사에 꼭 필요한 IT 인재를 고용하는 비결 3 (보안뉴스 ─ 국제)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106414&amp;page=1&amp;mkind=&amp;kind=4&amp;skind=D&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106414&amp;page=1&amp;mkind=&amp;kind=4&amp;skind=D&amp;search=title&amp;find=</guid>
-            <pubDate>Thu, 28 Apr 2022 09:20:34 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/view.asp?idx=106414&amp;page=1&amp;mkind=&amp;kind=4&amp;skind=D&amp;search=title&amp;find=">
-					
-					<img src="/media/upFiles2/2022/04/21596667_copy_295x190_1.jpg" alt="" class="news_img" height="70">
-					
-					<span class="news_txt">회사에 꼭 필요한 IT 인재를 고용하는 비결 3</span>
-					</a><br>
-					<a href="/media/view.asp?idx=106414&amp;page=1&amp;mkind=&amp;kind=4&amp;skind=D&amp;search=title&amp;find=">현재 구직 시장에는 IT 분야 능력자들이 대거 나와 있다. 전부 자신들을 흥분시키고 충족시켜 줄 일자리를 구하고 있다. 요즘 IT 인재를 확보하는 게 워낙 어려워...</a> <span class="news_writer">문가용 기자 | 2022년 04월 28일 17:42</span>]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/21596667_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[영상보안 분야 상장기업 8곳, 지난해 활약상과 2022년 청사진 (보안뉴스 ─ 기획특집)]]></title>

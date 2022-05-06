@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-05-06T01:15:00.185Z</updated>
+    <updated>2022-05-06T03:09:32.413Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[윈도 인스톨러 통해 퍼지는 새로운 웜, 라즈베리 로빈 발견돼]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=106578&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=106578&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-05-06T03:07:05.776Z</updated>
+        <content type="html"><![CDATA[보안 외신 블리핑컴퓨터에 의하면 새로운 윈도 멀웨어가 최근 발표되었다고 한다. 이 멀웨어의 이름은 라즈베리 로빈(Raspberry Robin)으로, 웜 기능을 가지고 있어 자가 증식이 가능하며 특히 USB 드라이브를 통해 퍼지는 능력이 탁월하다고 한다. 최소 2021년...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[안랩, ‘우리를 둘러싼 유해 환경’ 주제로 사내 환경 특강]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=106577&amp;page=1&amp;mkind=1&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=106577&amp;page=1&amp;mkind=1&amp;kind=3"/>
+        <updated>2022-05-06T03:07:05.779Z</updated>
+        <content type="html"><![CDATA[안랩이 5월 4일 ‘ESG 내재화’를 위한 사내 환경 특강을 개최했다. 이번 환경 특강은 ‘우리를 둘러싼 유해 환경’을 주제로 진행됐다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SK쉴더스, IPO 수요예측 실패로 흥행 부진... 결국 상장 철회]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=106576&amp;page=1&amp;mkind=1&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=106576&amp;page=1&amp;mkind=1&amp;kind=3"/>
+        <updated>2022-05-06T03:07:05.780Z</updated>
+        <content type="html"><![CDATA[IPO 수요예측 실패로 흥행 부진 논란을 겪던 SK쉴더스(대표 박진효)가 결국 상장 철회 신고서를 제출하고, 상장 시기를 뒤로 미뤘다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[국내 첫 심스와핑 사건 그 후, 유심 ‘기지국 정보’ 놓고 피해자 vs KT]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=106573&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=106573&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-05-06T03:07:05.780Z</updated>
+        <content type="html"><![CDATA[지난 2022년 1월 5일, &lt;보안뉴스&gt;가 단독 보도한 ‘[단독] KT 고객 유심 복사로 암호화폐 탈취? 국내 첫 심스와핑 의심 피해 발생’ 기사 이후, 국내 첫 심스와핑 사례로 의심되는 이번 범죄가 여러 매체를 통해 알려졌다. 특히, 첫 번째 피해자 외에도...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[데이터바우처, 중소기업과 청년 스타트업의 꿈 실현을 지원했다]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=106572&amp;page=1&amp;mkind=1&amp;kind=2</id>
@@ -95,33 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=106546&amp;page=1&amp;mkind=1&amp;kind=2"/>
         <updated>2022-05-04T06:23:13.159Z</updated>
         <content type="html"><![CDATA[윤석열 정부가 사이버보안 역량 강화를 위해 보안클러스터 모델의 지역거점 확산으로 기업 성장을 지원하고, 10만 사이버보안 인재를 양성하겠다고 공식적으로 발표했다. 이는 5월 3일 발표한 ‘110대 국정과제’에 담겼다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[어린이날] 재난재해로부터 안전한 우리 아이들을 위한 ‘안전체험관’]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=106502&amp;page=1&amp;mkind=1&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=106502&amp;page=1&amp;mkind=1&amp;kind=2"/>
-        <updated>2022-05-04T05:19:58.505Z</updated>
-        <content type="html"><![CDATA[거리두기 전면 해제 등 코로나19 방역이 일상 전환으로 바뀌고, 어린이날과 어버이날 등이 있는 가정의 달을 맞이하면서 점차 외부로 움직이는 가족들이 늘고 있다. 특히, 어린아이가 있는 가족들은 오랜만에 나들이를 반기면서도, 사람들이 많아 아이들이 다치거나 잃어버릴 위...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021년 가장 많이 악용된 취약점 15개?  최악은 ‘로그4셸’과 ‘MS익스체인지’]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=106528&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=106528&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-05-04T03:24:58.010Z</updated>
-        <content type="html"><![CDATA[미국의 사이버보안 전담기관인 CISA(Cybersecurity and Infrastructure Security Agency)가 2021년에 가장 많이 악용된 취약점 15개를 공개했다. 사이버 공격자들은 2021년에는 특히 새로 공개된 취약점을 악용해 이메일 서버와 V...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[데이터법 추진한 EU가 사업데이터 접근 권한 확대한 이유]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=106501&amp;page=1&amp;mkind=1&amp;kind=4</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=106501&amp;page=1&amp;mkind=1&amp;kind=4"/>
-        <updated>2022-05-04T03:24:58.011Z</updated>
-        <content type="html"><![CDATA[2021년 11월 데이터 거버넌스 법안(DGA : Data Gvernance Act)의 승인 이후, 2022년 2월 23일 집행위는 데이터법(Data Act)의 초안을 발표했다. 초안을 통해 EU는 역내 데이터 단일 시장을 형성하고 데이터 공유를 활성화하기 위한 주체별...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[소프트캠프, 극동대학교와 정보보안 연구개발 위한 산학협력 체결]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=106527&amp;page=1&amp;mkind=1&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=106527&amp;page=1&amp;mkind=1&amp;kind=3"/>
-        <updated>2022-05-04T01:23:55.706Z</updated>
-        <content type="html"><![CDATA[정보보안 전문기업 소프트캠프(대표 배환국)가 극동대학교(총장 류기일) 해킹보안학과와 ‘정보보안 산학협력(K-Security industry-academic Cooperation)’을 체결했다고 3일 밝혔다.]]></content>
     </entry>
 </feed>
