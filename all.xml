@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 07 May 2022 04:24:37 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 May 2022 05:18:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -322,6 +322,14 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/22050205ss.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[국내 첫 심스와핑 사건 그 후, 유심 ‘기지국 정보’ 놓고 피해자 vs KT (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106573&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106573&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Fri, 06 May 2022 12:32:05 GMT</pubDate>
+            <content:encoded><![CDATA[지난 2022년 1월 5일, &lt;보안뉴스&gt;가 단독 보도한 ‘[단독] KT 고객 유심 복사로 암호화폐 탈취? 국내 첫 심스와핑 의심 피해 발생’ 기사 이후...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/sims_0505001_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[이슈칼럼] 윤석열 정부의 사이버안보 분야 국정비전을 보며 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=106548&amp;page=1&amp;kind=6&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=106548&amp;page=1&amp;kind=6&amp;search=title&amp;find=</guid>
@@ -336,14 +344,6 @@
             <pubDate>Fri, 06 May 2022 08:21:50 GMT</pubDate>
             <content:encoded><![CDATA[사라진 줄 알았던 레빌(REvil) 그룹이 부활했다는 증거들이 나오기 시작했다. 하지만 보안 업계는 되살아난 레빌이 이전 레빌 만큼 강력할 것인지에 대해서는 아직...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/21516236_copy_295x190_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국내 첫 심스와핑 사건 그 후, 유심 ‘기지국 정보’ 놓고 피해자 vs KT (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106573&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106573&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Fri, 06 May 2022 12:32:05 GMT</pubDate>
-            <content:encoded><![CDATA[지난 2022년 1월 5일, &lt;보안뉴스&gt;가 단독 보도한 ‘[단독] KT 고객 유심 복사로 암호화폐 탈취? 국내 첫 심스와핑 의심 피해 발생’ 기사 이후...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/sims_0505001_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[윤석열 정부 110대 국정과제에 담긴 정보보호와 보안산업 밑그림은? (보안뉴스 ─ 가장 많이 본 기사)]]></title>
