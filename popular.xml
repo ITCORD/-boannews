@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 07 May 2022 03:03:04 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 May 2022 03:41:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -72,20 +72,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/20220504ahn-ms.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[데이터법 추진한 EU가 사업데이터 접근 권한 확대한 이유]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106501&amp;page=1&amp;kind=4&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106501&amp;page=1&amp;kind=4&amp;search=title&amp;find=</guid>
-            <pubDate>Wed, 04 May 2022 17:26:29 GMT</pubDate>
-            <content:encoded><![CDATA[2021년 11월 데이터 거버넌스 법안(DGA : Data Gvernance Act)의 승인 이후, 2022년 2월 23일 집행위는 데이터법(Data Act)의 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/22050205ss.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[로그4셸 공격 건수 분석해보니... Log4j 취약점 공격은 현재진행형!]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=106569&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=106569&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Fri, 06 May 2022 08:21:50 GMT</pubDate>
             <content:encoded><![CDATA[지난해 발견돼 역대 최악의 취약점으로 불리는 Log4j 취약점, 일명 로그4셸을 악용한 사이버공격이 지속적으로 포착돼 이용자들의 각별한 주의가 필요하다. Log4...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/20220505log-s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[데이터법 추진한 EU가 사업데이터 접근 권한 확대한 이유]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106501&amp;page=1&amp;kind=4&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106501&amp;page=1&amp;kind=4&amp;search=title&amp;find=</guid>
+            <pubDate>Wed, 04 May 2022 17:26:29 GMT</pubDate>
+            <content:encoded><![CDATA[2021년 11월 데이터 거버넌스 법안(DGA : Data Gvernance Act)의 승인 이후, 2022년 2월 23일 집행위는 데이터법(Data Act)의 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/22050205ss.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[이슈칼럼] 윤석열 정부의 사이버안보 분야 국정비전을 보며]]></title>
