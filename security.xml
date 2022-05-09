@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-05-09T07:20:08.167Z</updated>
+    <updated>2022-05-09T08:28:15.817Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[대한민국 ‘NATO 사이버방위센터’ 정회원 가입... 국기게양식 개최]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=106621&amp;page=1&amp;mkind=1&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=106621&amp;page=1&amp;mkind=1&amp;kind=2"/>
+        <updated>2022-05-09T08:25:13.684Z</updated>
+        <content type="html"><![CDATA[대한민국의 ‘NATO 사이버방위센터’ 정회원 가입 행사가 지난 5일 오후(현지시간) ‘사이버방위센터(CCDCOE)’ 본부가 있는 에스토니아 탈린에서 개최됐다. 가입행사에는 자크 타리엔 CCDCOE 센터장을 비롯해, 정회원 가입국(한국·캐나다·룩셈부르크) 대표 등이 참석...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[윤석열 당선인, 15개 부처 차관 발표... 행안부 한창섭 차관 내정]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=106620&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=106620&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-05-09T08:25:13.687Z</updated>
+        <content type="html"><![CDATA[윤석열 당선인이 15개 부처 차관과 대통령 비서실 부속실장을 내정했다. 특히 행정안전부 차관에는 한창섭 행안부 정부혁신조직실장이 임명됐으며, 재난안전관리본부장에는 김성호 행안부 재난관리실장이 내정됐다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[나이지리아의 해커, 에이전트 테슬라로 스스로를 감염시켜]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=106619&amp;page=1&amp;mkind=1&amp;kind=1</id>
@@ -109,19 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=106585&amp;page=1&amp;mkind=1&amp;kind=3"/>
         <updated>2022-05-07T15:18:15.300Z</updated>
         <content type="html"><![CDATA[5월 6일 발간된 ‘Weekly Security Premium Report’ 제49호에는 &lt;보안 심층 리포트&gt; 코너에서 윤석열 정부 출범을 앞두고 빈번해지고 있는 북한의 해킹 공격실태를 분석했다. 최근 북한 김정은 위원장이 핵무기 사용 가능성을 언급한 데 이...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[시스코의 NFVIS에서 나온 초고위험도 취약점 패치돼]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=106584&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=106584&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-05-07T03:00:14.834Z</updated>
-        <content type="html"><![CDATA[시스코의 엔터프라이즈 NFV 인프라스트럭처 소프트웨어(NFVIS)에서 초고위험도 취약점이 발견됐다. 익스플로잇에 성공한 공격자는 피해를 입은 호스트를 완전히 장악할 수 있게 된다고 한다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[트리니티소프트, ’2022 ICT 중소기업 정보보호 지원사업’ 공급기업 선정]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=106583&amp;page=1&amp;mkind=1&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=106583&amp;page=1&amp;mkind=1&amp;kind=3"/>
-        <updated>2022-05-06T08:22:04.140Z</updated>
-        <content type="html"><![CDATA[SW개발보안 전문기업 트리니티소프트는 과학기술정보통신부와 한국인터넷진흥원(KISA)이 주관하는 ‘ICT 중소기업 정보보호 지원사업’의 공급기업으로 선정됐다고 6일 밝혔다.]]></content>
     </entry>
 </feed>

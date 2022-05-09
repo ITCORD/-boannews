@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 May 2022 07:20:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 May 2022 08:28:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,14 +14,6 @@
             <pubDate>Wed, 04 May 2022 01:23:44 GMT</pubDate>
             <content:encoded><![CDATA[미국의 사이버보안 전담기관인 CISA(Cybersecurity and Infrastructure Security Agency)가 2021년에 가장 많이 악용된 취...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/20312979_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[북한 4.25 열병식 분석 자료? 악성 워드 문서로 안보·정치·외교 관계자 노렸다]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106497&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106497&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Tue, 03 May 2022 04:31:30 GMT</pubDate>
-            <content:encoded><![CDATA[최근 안보·정치·외교 관계자를 타깃으로 한 악성 문서 유포가 포착됐다. 이번에 발견된 악성 문서는 ‘[분석자료] 4.25 열병식을 통해 본 북한의 핵무력 사용 입...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/20220502north-sm.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[암호화 알고리즘을 다양하게 마련해야 하는 이유]]></title>
@@ -88,6 +80,14 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/21756786_copy_295x190.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[단독] 중국 해커조직 “한국 보건·국방분야 정부기관 해킹해 데이터 탈취” 주장]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106607&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106607&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Mon, 09 May 2022 03:20:30 GMT</pubDate>
+            <content:encoded><![CDATA[윤석열 정부 출범을 앞두고 북한의 연이은 미사일 발사 등으로 한반도의 긴장감이 높아지고 있는 가운데 북한뿐만 아니라 중국의 해커그룹까지 우리나라 국방 및 의료 부...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/20220508CHINA-S.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[레빌 랜섬웨어의 부활? 도무지 죽지 않는 사이버 갱단들]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=106570&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=106570&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
@@ -102,14 +102,6 @@
             <pubDate>Wed, 04 May 2022 17:26:29 GMT</pubDate>
             <content:encoded><![CDATA[2021년 11월 데이터 거버넌스 법안(DGA : Data Gvernance Act)의 승인 이후, 2022년 2월 23일 집행위는 데이터법(Data Act)의 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/22050205ss.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[단독] 중국 해커조직 “한국 보건·국방분야 정부기관 해킹해 데이터 탈취” 주장]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106607&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106607&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Mon, 09 May 2022 03:20:30 GMT</pubDate>
-            <content:encoded><![CDATA[윤석열 정부 출범을 앞두고 북한의 연이은 미사일 발사 등으로 한반도의 긴장감이 높아지고 있는 가운데 북한뿐만 아니라 중국의 해커그룹까지 우리나라 국방 및 의료 부...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/20220508CHINA-S.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[헤로쿠의 오오스 토큰 도난 사건, 고객들의 크리덴셜 정보도 도난당해]]></title>
@@ -166,6 +158,14 @@
             <pubDate>Mon, 09 May 2022 07:17:05 GMT</pubDate>
             <content:encoded><![CDATA[IPO 수요예측 실패로 흥행 부진 논란을 겪던 SK쉴더스(대표 박진효)가 결국 상장 철회 신고서를 제출하고, 상장 시기를 뒤로 미뤘다.]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/20220506SK-S.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Weekly Security Premium Report 제49호 발간! 북한 해킹 공격 실태 분석]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106585&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106585&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
+            <pubDate>Mon, 09 May 2022 08:24:55 GMT</pubDate>
+            <content:encoded><![CDATA[5월 6일 발간된 ‘Weekly Security Premium Report’ 제49호에는 &lt;보안 심층 리포트&gt; 코너에서 윤석열 정부 출범을 앞두고 빈번...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/20220506REPORT-MS.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
