@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-05-09T03:23:38.743Z</updated>
+    <updated>2022-05-09T04:33:34.917Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[페가수스에 대한 인도인들의 분노, 모디 총리 반역죄 이야기까지 나와]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=106614&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=106614&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-05-09T04:30:40.576Z</updated>
+        <content type="html"><![CDATA[이스라엘의 스파이웨어인 페가수스(Pegasus)가 잊을만 하면 언론에 등장한다. IT 외신 더레지스터는 최근 분석 기사를 통해 인도 정부가 페가수스의 충성스런 사용자 중 하나라고 보도했다. 뉴욕타임즈 역시 인도의 모디 총리가 2017년 페가수스를 구입했고, 이를 반대파...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[북한 해커조직, 탈북민 자문위원대상 의견수렴 설문지 위장해 사이버 공격]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=106612&amp;page=1&amp;mkind=1&amp;kind=1</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=106579&amp;page=1&amp;mkind=1&amp;kind=1"/>
         <updated>2022-05-06T05:16:54.128Z</updated>
         <content type="html"><![CDATA[미국의 유방암 환자들을 위한 비영리 단체 breastcancer.org이 아마존 S3 버킷을 잘못 설ㅈ어하는 바람에 환자들의 민감한 이미지들이 대거 노출됐다고 보안 외신 핵리드가 보도했다. 노출된 버킷을 보안 업체 세이프티디텍티브즈(SafetyDetectives)가 처...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윈도 인스톨러 통해 퍼지는 새로운 웜, 라즈베리 로빈 발견돼]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=106578&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=106578&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-05-06T03:07:05.776Z</updated>
-        <content type="html"><![CDATA[보안 외신 블리핑컴퓨터에 의하면 새로운 윈도 멀웨어가 최근 발표되었다고 한다. 이 멀웨어의 이름은 라즈베리 로빈(Raspberry Robin)으로, 웜 기능을 가지고 있어 자가 증식이 가능하며 특히 USB 드라이브를 통해 퍼지는 능력이 탁월하다고 한다. 최소 2021년...]]></content>
     </entry>
 </feed>

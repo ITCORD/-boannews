@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 May 2022 03:23:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 May 2022 04:33:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -86,6 +86,14 @@
             <pubDate>Fri, 06 May 2022 08:21:37 GMT</pubDate>
             <content:encoded><![CDATA[윤석열 대통령 당선인이 국가안보실 및 대통령실 비서관 20명에 대한 추가 인선 내용을 발표했다. 국가안보실 1·2차장실과 사회수석실, 시민사회수석실, 홍보...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/20220506YOON-S.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[금융보안원, 2022년도 하반기 신입직원 채용 실시 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106617&amp;page=1&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106617&amp;page=1&amp;kind=2</guid>
+            <pubDate>Mon, 09 May 2022 04:30:14 GMT</pubDate>
+            <content:encoded><![CDATA[금융보안원(원장 김철웅)은 금융의 디지털 전환 및 금융 분야 데이터 혁신을 선도할 2022년도 하반기 신입직원을 채용할 예정이라고 밝혔다.]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/money_050901_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[SK쉴더스-도이치 텔레콤 시큐리티, 디지털 인프라 방어 체계 고도화 위한 LOI 체결 (보안뉴스 ─ 전체기사)]]></title>
@@ -232,14 +240,6 @@
             <pubDate>Fri, 06 May 2022 06:23:38 GMT</pubDate>
             <content:encoded><![CDATA[시스코의 엔터프라이즈 NFV 인프라스트럭처 소프트웨어(NFVIS)에서 초고위험도 취약점이 발견됐다. 익스플로잇에 성공한 공격자는 피해를 입은 호스트를 완전...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/21756786_copy_295x190.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[트리니티소프트, ’2022 ICT 중소기업 정보보호 지원사업’ 공급기업 선정 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106583&amp;page=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106583&amp;page=1&amp;kind=3</guid>
-            <pubDate>Fri, 06 May 2022 05:16:22 GMT</pubDate>
-            <content:encoded><![CDATA[SW개발보안 전문기업 트리니티소프트는 과학기술정보통신부와 한국인터넷진흥원(KISA)이 주관하는 ‘ICT 중소기업 정보보호 지원사업’의 공급기업으로 선정됐다...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/20220506tri-s.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[큐냅과 시놀로지의 NAS 장비들에서 다수 취약점 발견돼 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
@@ -394,12 +394,19 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/22052216_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[아루바와 아바야 네트워크 스위치 제품들에서 5개 취약점 해결돼 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106568&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106568&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Sun, 08 May 2022 15:17:26 GMT</pubDate>
-            <content:encoded><![CDATA[아루바(Aruba)와 아바야(Avaya)에서 나온 네트워크 스위치들에서 여러 개의 취약점이 발견됐다. 이 취약점을 공격자들이 익스플로잇 하는 데 성공할 경우 원격...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/patch-thumb-0504(0).jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[서아시아의 요르단이 스마트시티 구축에 집중하는 이유 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106553&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106553&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
+            <pubDate>Mon, 09 May 2022 04:30:28 GMT</pubDate>
+            <content:encoded><![CDATA[요르단은 최근 수도 암만과 물류집적지인 아카바에 대해 스마트시티로의 변화를 선언하고 외부 전문가와 함께 세부 프로젝트 수립에 돌입하는 한편, 이미 추진 중인 녹색...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/20220506YOR-S.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[페가수스에 대한 인도인들의 분노, 모디 총리 반역죄 이야기까지 나와 (보안뉴스 ─ SECURITY)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106614&amp;page=1&amp;mkind=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106614&amp;page=1&amp;mkind=1&amp;kind=1</guid>
+            <pubDate>Mon, 09 May 2022 04:30:40 GMT</pubDate>
+            <content:encoded><![CDATA[이스라엘의 스파이웨어인 페가수스(Pegasus)가 잊을만 하면 언론에 등장한다. IT 외신 더레지스터는 최근 분석 기사를 통해 인도 정부가 페가수스의 충성스런 사용자 중 하나라고 보도했다. 뉴욕타임즈 역시 인도의 모디 총리가 2017년 페가수스를 구입했고, 이를 반대파...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[북한 해커조직, 탈북민 자문위원대상 의견수렴 설문지 위장해 사이버 공격 (보안뉴스 ─ SECURITY)]]></title>
@@ -512,13 +519,6 @@
             <guid>https://www.boannews.com/media/view.asp?idx=106579&amp;page=1&amp;mkind=1&amp;kind=1</guid>
             <pubDate>Fri, 06 May 2022 05:16:54 GMT</pubDate>
             <content:encoded><![CDATA[미국의 유방암 환자들을 위한 비영리 단체 breastcancer.org이 아마존 S3 버킷을 잘못 설ㅈ어하는 바람에 환자들의 민감한 이미지들이 대거 노출됐다고 보안 외신 핵리드가 보도했다. 노출된 버킷을 보안 업체 세이프티디텍티브즈(SafetyDetectives)가 처...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[윈도 인스톨러 통해 퍼지는 새로운 웜, 라즈베리 로빈 발견돼 (보안뉴스 ─ SECURITY)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106578&amp;page=1&amp;mkind=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106578&amp;page=1&amp;mkind=1&amp;kind=1</guid>
-            <pubDate>Fri, 06 May 2022 03:07:05 GMT</pubDate>
-            <content:encoded><![CDATA[보안 외신 블리핑컴퓨터에 의하면 새로운 윈도 멀웨어가 최근 발표되었다고 한다. 이 멀웨어의 이름은 라즈베리 로빈(Raspberry Robin)으로, 웜 기능을 가지고 있어 자가 증식이 가능하며 특히 USB 드라이브를 통해 퍼지는 능력이 탁월하다고 한다. 최소 2021년...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[경북도, 미래 시대 준비 첫걸음 ‘양자컴퓨팅 인공지능’ 교육생 모집 (보안뉴스 ─ IT)]]></title>

@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 May 2022 03:23:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 May 2022 04:33:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -86,6 +86,14 @@
             <pubDate>Fri, 06 May 2022 08:21:37 GMT</pubDate>
             <content:encoded><![CDATA[윤석열 대통령 당선인이 국가안보실 및 대통령실 비서관 20명에 대한 추가 인선 내용을 발표했다. 국가안보실 1·2차장실과 사회수석실, 시민사회수석실, 홍보...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/20220506YOON-S.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[금융보안원, 2022년도 하반기 신입직원 채용 실시]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106617&amp;page=1&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106617&amp;page=1&amp;kind=2</guid>
+            <pubDate>Mon, 09 May 2022 04:30:14 GMT</pubDate>
+            <content:encoded><![CDATA[금융보안원(원장 김철웅)은 금융의 디지털 전환 및 금융 분야 데이터 혁신을 선도할 2022년도 하반기 신입직원을 채용할 예정이라고 밝혔다.]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/money_050901_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[SK쉴더스-도이치 텔레콤 시큐리티, 디지털 인프라 방어 체계 고도화 위한 LOI 체결]]></title>
@@ -232,14 +240,6 @@
             <pubDate>Fri, 06 May 2022 06:23:38 GMT</pubDate>
             <content:encoded><![CDATA[시스코의 엔터프라이즈 NFV 인프라스트럭처 소프트웨어(NFVIS)에서 초고위험도 취약점이 발견됐다. 익스플로잇에 성공한 공격자는 피해를 입은 호스트를 완전...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/21756786_copy_295x190.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[트리니티소프트, ’2022 ICT 중소기업 정보보호 지원사업’ 공급기업 선정]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106583&amp;page=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106583&amp;page=1&amp;kind=3</guid>
-            <pubDate>Fri, 06 May 2022 05:16:22 GMT</pubDate>
-            <content:encoded><![CDATA[SW개발보안 전문기업 트리니티소프트는 과학기술정보통신부와 한국인터넷진흥원(KISA)이 주관하는 ‘ICT 중소기업 정보보호 지원사업’의 공급기업으로 선정됐다...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/20220506tri-s.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
