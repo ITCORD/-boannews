@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 May 2022 08:28:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 May 2022 09:20:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -86,6 +86,14 @@
             <pubDate>Mon, 09 May 2022 03:20:17 GMT</pubDate>
             <content:encoded><![CDATA[북한이탈주민(탈북민) 자문위원들에게 의견을 수렴하는 내용처럼 위장한 HWP 악성 문서 기반 북한 연계 해킹 공격이 발견됐다.]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/20220509EST1-SM.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[우경정보기술, AI 영상분석 기술로 태국 스마트시티 파일럿 프로젝트 수행]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106623&amp;page=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106623&amp;page=1&amp;kind=3</guid>
+            <pubDate>Mon, 09 May 2022 09:18:06 GMT</pubDate>
+            <content:encoded><![CDATA[우경정보기술은 지난 4월, 태국 차층사오 도청(Chachoengsao Provincial Government)과 MOU를 체결하고 인공지능(AI) 기반 개...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/woo_050901_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[시큐레터, 올해 첫 오프라인 고객행사 ‘Security Summit 2022’ 개최]]></title>
@@ -236,13 +244,6 @@
             <pubDate>Sat, 07 May 2022 03:38:44 GMT</pubDate>
             <content:encoded><![CDATA[LG전자가 차량용 반도체 설계, 구현, 검증 등 개발 프로세스 전반에 대한 기술을 확보했다. LG전자는 최근 독일 시험·인증 전문기관 TUV 라인란드로부터...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/5-50(295).jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[과기정통부, 가속기 인력양성사업 주관기관 고려대·포항공과대 연합체 선정]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106593&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106593&amp;page=1&amp;kind=2</guid>
-            <pubDate>Sat, 07 May 2022 02:59:48 GMT</pubDate>
-            <content:encoded><![CDATA[과학기술정보통신부는 지난 6일 가속기 인력양성사업을 담당할 2개 주관연구기관으로 고려대 연합체와 포항공과대 연합체를 최종 선정했다고 발표했다.]]></content:encoded>
         </item>
     </channel>
 </rss>
