@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-05-09T04:33:34.917Z</updated>
+    <updated>2022-05-09T05:24:36.257Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[콘티 랜섬웨어, 페루 첩보국 공격 성공해 9.41GB 데이터 훔쳐]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=106615&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=106615&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-05-09T05:21:29.340Z</updated>
+        <content type="html"><![CDATA[콘티(Conti) 랜섬웨어 갱단이 페루의 첩보 기관을 해킹한 것으로 보인다. 보안 블로그 시큐리티어페어즈에 따르면 현재 콘티 갱단이 운영하는 정보 유출용 웹사이트에는 페루 첩보 기관(MOF)의 이름이 올라와 있으며, 총 9.41GB의 데이터가 콘티의 서버에 저장되어 있...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[페가수스에 대한 인도인들의 분노, 모디 총리 반역죄 이야기까지 나와]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=106614&amp;page=1&amp;mkind=1&amp;kind=1</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=106580&amp;page=1&amp;mkind=1&amp;kind=1"/>
         <updated>2022-05-06T05:16:54.127Z</updated>
         <content type="html"><![CDATA[보안 전문 매체 해커뉴스에 의하면 NIST가 이번 주 소프트웨어 공급망 위험을 완화시킬 수 있는 방법을 새롭게 편찬해 가이드라인 형태로 발표했다고 한다. 이번 가이드라인에는 소프트웨어 공급망을 통해 퍼지는 요소들을 식별하고 분석함으로써 적절히 대응할 수 있게 해 주는 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유방암 환자 위한 비영리 단체, 클라우드 관리 실수로 민감한 이미지 노출시켜]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=106579&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=106579&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-05-06T05:16:54.128Z</updated>
-        <content type="html"><![CDATA[미국의 유방암 환자들을 위한 비영리 단체 breastcancer.org이 아마존 S3 버킷을 잘못 설ㅈ어하는 바람에 환자들의 민감한 이미지들이 대거 노출됐다고 보안 외신 핵리드가 보도했다. 노출된 버킷을 보안 업체 세이프티디텍티브즈(SafetyDetectives)가 처...]]></content>
     </entry>
 </feed>

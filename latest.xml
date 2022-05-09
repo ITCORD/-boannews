@@ -4,9 +4,17 @@
         <title>보안뉴스 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 May 2022 04:33:34 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 May 2022 05:24:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[글로벌 기업 76% “올해 기업 침해 사고 발생할 것”]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106618&amp;page=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106618&amp;page=1&amp;kind=3</guid>
+            <pubDate>Mon, 09 May 2022 05:21:01 GMT</pubDate>
+            <content:encoded><![CDATA[글로벌 기업들의 76%가 올해 침해 사고가 발생할 것으로 예측했다는 조사결과가 나왔다. 사이버 보안 솔루션의 글로벌 리더인 트렌드마이크로(지사장 김진광)가...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/20470127_main.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[루비젬스, 패키지 장악 가능케 하는 버그 고쳐]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=106616&amp;page=1&amp;kind=1</link>
@@ -78,14 +86,6 @@
             <pubDate>Sat, 07 May 2022 03:38:43 GMT</pubDate>
             <content:encoded><![CDATA[인공지능, 머신러닝, 디지털 트윈... 이런 말들이 왜 유행하기 시작했으며, 왜 그리 중요한 기술/개념 취급을 받고 있는 것일까? 간단히 설명하자면 인간이...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/22052216_copy_295x190_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤석열 정부, 국가안보실 등 비서관 2차 인선 발표... 사이버안보비서관 윤오준]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106586&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106586&amp;page=1&amp;kind=2</guid>
-            <pubDate>Fri, 06 May 2022 08:21:37 GMT</pubDate>
-            <content:encoded><![CDATA[윤석열 대통령 당선인이 국가안보실 및 대통령실 비서관 20명에 대한 추가 인선 내용을 발표했다. 국가안보실 1·2차장실과 사회수석실, 시민사회수석실, 홍보...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/20220506YOON-S.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[금융보안원, 2022년도 하반기 신입직원 채용 실시]]></title>
@@ -226,20 +226,20 @@
             <content:encoded><![CDATA[서울시 소방재난본부는 “시민의 재난대처역량 강화를 위해 소방안전교육을 기초부터 전문과정까지 단계별로 확대 개편한다”고 밝혔다. 이번 소방안전교육 개편의 주...]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[윤석열 정부, 국가안보실 등 비서관 2차 인선 발표... 사이버안보비서관 윤오준]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106586&amp;page=1&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106586&amp;page=1&amp;kind=2</guid>
+            <pubDate>Fri, 06 May 2022 08:21:37 GMT</pubDate>
+            <content:encoded><![CDATA[윤석열 대통령 당선인이 국가안보실 및 대통령실 비서관 20명에 대한 추가 인선 내용을 발표했다. 국가안보실 1·2차장실과 사회수석실, 시민사회수석실, 홍보...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/20220506YOON-S.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
             <title><![CDATA[Weekly Security Premium Report 제49호 발간! 북한 해킹 공격 실태 분석]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=106585&amp;page=1&amp;kind=3</link>
             <guid>https://www.boannews.com/media/view.asp?idx=106585&amp;page=1&amp;kind=3</guid>
             <pubDate>Fri, 06 May 2022 07:16:19 GMT</pubDate>
             <content:encoded><![CDATA[5월 6일 발간된 ‘Weekly Security Premium Report’ 제49호에는 &lt;보안 심층 리포트&gt; 코너에서 윤석열 정부 출범을 앞두...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/20220506REPORT-MS.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[시스코의 NFVIS에서 나온 초고위험도 취약점 패치돼]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106584&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106584&amp;page=1&amp;kind=1</guid>
-            <pubDate>Fri, 06 May 2022 06:23:38 GMT</pubDate>
-            <content:encoded><![CDATA[시스코의 엔터프라이즈 NFV 인프라스트럭처 소프트웨어(NFVIS)에서 초고위험도 취약점이 발견됐다. 익스플로잇에 성공한 공격자는 피해를 입은 호스트를 완전...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/21756786_copy_295x190.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
