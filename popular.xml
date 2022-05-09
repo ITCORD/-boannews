@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 May 2022 11:18:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 May 2022 12:34:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -56,20 +56,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/insu_050401_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[이슈칼럼] 윤석열 정부의 사이버안보 분야 국정비전을 보며]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106548&amp;page=1&amp;kind=6&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106548&amp;page=1&amp;kind=6&amp;search=title&amp;find=</guid>
-            <pubDate>Fri, 06 May 2022 01:12:00 GMT</pubDate>
-            <content:encoded><![CDATA[지난 5월 3일 윤석열 정부의 110대 국정과제가 우리나라 1세대 보안전문가인 안철수 인수위원장을 통해 발표됐다. 필자는 인수위원장이 사이버보안 전문가로 이번 1...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/21916424_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[단독] 중국 해커조직 “한국 보건·국방분야 정부기관 해킹해 데이터 탈취” 주장]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=106607&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=106607&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Mon, 09 May 2022 03:20:30 GMT</pubDate>
             <content:encoded><![CDATA[윤석열 정부 출범을 앞두고 북한의 연이은 미사일 발사 등으로 한반도의 긴장감이 높아지고 있는 가운데 북한뿐만 아니라 중국의 해커그룹까지 우리나라 국방 및 의료 부...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/20220508CHINA-S.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[이슈칼럼] 윤석열 정부의 사이버안보 분야 국정비전을 보며]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106548&amp;page=1&amp;kind=6&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106548&amp;page=1&amp;kind=6&amp;search=title&amp;find=</guid>
+            <pubDate>Fri, 06 May 2022 01:12:00 GMT</pubDate>
+            <content:encoded><![CDATA[지난 5월 3일 윤석열 정부의 110대 국정과제가 우리나라 1세대 보안전문가인 안철수 인수위원장을 통해 발표됐다. 필자는 인수위원장이 사이버보안 전문가로 이번 1...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/21916424_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[시스코의 NFVIS에서 나온 초고위험도 취약점 패치돼]]></title>
