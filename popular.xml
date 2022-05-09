@@ -4,17 +4,9 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 May 2022 06:24:50 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 09 May 2022 07:20:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[큐냅과 시놀로지의 NAS 장비들에서 다수 취약점 발견돼]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106500&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106500&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Tue, 03 May 2022 06:21:15 GMT</pubDate>
-            <content:encoded><![CDATA[NAS 장비 제조사인 큐냅(QNAP)과 시놀로지(Synology)가 다량의 취약점 정보를 공개했다. 자사 제품에 통합된 오픈소스 파일 서버에서 발견된 것들이다. ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/21973894_copy_295x190_1.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[2021년 가장 많이 악용된 취약점 15개?  최악은 ‘로그4셸’과 ‘MS익스체인지’]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=106528&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
@@ -64,20 +56,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/20220504ahn-ms.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[윤석열 정부 110대 국정과제에 담긴 정보보호와 보안산업 밑그림은?]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106546&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106546&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
-            <pubDate>Fri, 06 May 2022 03:06:55 GMT</pubDate>
-            <content:encoded><![CDATA[윤석열 정부가 사이버보안 역량 강화를 위해 보안클러스터 모델의 지역거점 확산으로 기업 성장을 지원하고, 10만 사이버보안 인재를 양성하겠다고 공식적으로 발표했다....]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/insu_050401_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[윤석열 정부, 국가안보실 등 비서관 2차 인선 발표... 사이버안보비서관 윤오준]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=106586&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=106586&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
             <pubDate>Sat, 07 May 2022 23:17:01 GMT</pubDate>
             <content:encoded><![CDATA[윤석열 대통령 당선인이 국가안보실 및 대통령실 비서관 20명에 대한 추가 인선 내용을 발표했다. 국가안보실 1·2차장실과 사회수석실, 시민사회수석실, 홍보수석실,...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/20220506YOON-S.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[윤석열 정부 110대 국정과제에 담긴 정보보호와 보안산업 밑그림은?]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106546&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106546&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
+            <pubDate>Fri, 06 May 2022 03:06:55 GMT</pubDate>
+            <content:encoded><![CDATA[윤석열 정부가 사이버보안 역량 강화를 위해 보안클러스터 모델의 지역거점 확산으로 기업 성장을 지원하고, 10만 사이버보안 인재를 양성하겠다고 공식적으로 발표했다....]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/insu_050401_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[이슈칼럼] 윤석열 정부의 사이버안보 분야 국정비전을 보며]]></title>
@@ -166,6 +158,14 @@
             <pubDate>Mon, 09 May 2022 06:22:17 GMT</pubDate>
             <content:encoded><![CDATA[제주경찰청 자치경찰 부서는 전국 하위권에 머물러 있는 지역안전지수(범죄 분야) 개선을 위해 중산간 등 읍·면 지역 일대 ‘블랙박스형 CCTV 설치 사업’을 추진 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/5-41(295).jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SK쉴더스, IPO 수요예측 실패로 흥행 부진... 결국 상장 철회]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106576&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106576&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
+            <pubDate>Mon, 09 May 2022 07:17:05 GMT</pubDate>
+            <content:encoded><![CDATA[IPO 수요예측 실패로 흥행 부진 논란을 겪던 SK쉴더스(대표 박진효)가 결국 상장 철회 신고서를 제출하고, 상장 시기를 뒤로 미뤘다.]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/20220506SK-S.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
