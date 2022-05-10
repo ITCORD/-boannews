@@ -4,9 +4,17 @@
         <title>보안뉴스 ─ Security World</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 09 May 2022 23:20:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 May 2022 01:13:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[씨유박스, 신한금융투자에 AI 얼굴인식 기반 비대면...]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106649&amp;mkind=5</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106649&amp;mkind=5</guid>
+            <pubDate>Tue, 10 May 2022 01:11:23 GMT</pubDate>
+            <content:encoded><![CDATA[인공지능 얼굴인식 전문기업 씨유박스는 최근 신한금융투자의 모바일 트레이딩 시스템(MTS : Mobile Trading System) ‘신한알파’에 AI 얼...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/22051001ss.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[넥스트칩, 코스닥 상장예비심사 승인]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=106609&amp;mkind=5</link>
@@ -14,14 +22,6 @@
             <pubDate>Mon, 09 May 2022 03:21:25 GMT</pubDate>
             <content:encoded><![CDATA[앤씨앤(대표 최종현)의 자회사이자 차량용 반도체 기업 넥스트칩(대표 김경수)이 하반기 코스닥 상장을 앞두고 상장예비심사 승인절차를 통과했다고 밝혔다. 상장...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/22050902ss.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[시놀로지, 공식 버전 Surveillance Sta...]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106608&amp;mkind=5</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106608&amp;mkind=5</guid>
-            <pubDate>Mon, 09 May 2022 03:21:25 GMT</pubDate>
-            <content:encoded><![CDATA[시놀로지(Synology)가 포괄적이며 확장 가능한 감시를 위한 기초 감시 솔루션의 최신 업데이트 Surveillance Station 9.0의 공식 버전...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/22050901ss.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
