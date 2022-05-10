@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-05-10T05:19:47.792Z</updated>
+    <updated>2022-05-10T06:24:46.204Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[러시아 해킹 포럼에서 할인되기 시작한 DC랫 백도어]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=106656&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=106656&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-05-10T06:21:49.558Z</updated>
+        <content type="html"><![CDATA[러시아 해킹 포럼에서 DC랫(DCRat)이라는 백도어가 할인되기 시작했다고 보안 외신 해커뉴스가 경고했다. 아주 저렴한 가격에 보급되고 있기 때문에 많은 이들이 구매하고 있다고 한다. DC랫은 단독 개발자 혼자서 만든 멀웨어로 보이지만, 매우 효율적이며 백도어로서 기능...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[콜로니얼 파이프라인에 100만 달러 벌금 제안돼]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=106655&amp;page=1&amp;mkind=1&amp;kind=1</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=106621&amp;page=1&amp;mkind=1&amp;kind=2"/>
         <updated>2022-05-09T08:25:13.684Z</updated>
         <content type="html"><![CDATA[대한민국의 ‘NATO 사이버방위센터’ 정회원 가입 행사가 지난 5일 오후(현지시간) ‘사이버방위센터(CCDCOE)’ 본부가 있는 에스토니아 탈린에서 개최됐다. 가입행사에는 자크 타리엔 CCDCOE 센터장을 비롯해, 정회원 가입국(한국·캐나다·룩셈부르크) 대표 등이 참석...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤석열 당선인, 15개 부처 차관 발표... 행안부 한창섭 차관 내정]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=106620&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=106620&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-05-09T08:25:13.687Z</updated>
-        <content type="html"><![CDATA[윤석열 당선인이 15개 부처 차관과 대통령 비서실 부속실장을 내정했다. 특히 행정안전부 차관에는 한창섭 행안부 정부혁신조직실장이 임명됐으며, 재난안전관리본부장에는 김성호 행안부 재난관리실장이 내정됐다.]]></content>
     </entry>
 </feed>
