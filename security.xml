@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-05-10T11:19:11.451Z</updated>
+    <updated>2022-05-10T12:38:10.555Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[공식 페라리 서브도메인 해킹한 NFT 사기꾼들]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=106658&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=106658&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-05-10T12:35:12.152Z</updated>
+        <content type="html"><![CDATA[보안 외신에 의하면 이탈리아의 고급 차량 제조사인 페라리가 5월 5일 해킹 공격에 당했다고 한다. 해커들은 공식 페라리 웹사이트의 서브도메인을 장악하고, 여기에서 가짜 NFT 사기극을 벌였다. 가짜 NFT 아이템을 제시하고 구매자들을 모은 것인데, 현재까지 공격자들이 ...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CERT-UA, 제스터 정보 탈취형 멀웨어 퍼트리는 캠페인 포착]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=106657&amp;page=1&amp;mkind=1&amp;kind=1</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=106613&amp;page=1&amp;mkind=1&amp;kind=3"/>
         <updated>2022-05-10T01:10:48.079Z</updated>
         <content type="html"><![CDATA[악성코드 탐지 및 차단 전문기업 시큐레터(대표 임차성)가 오는 5월 10일(화) 인터컨티넨탈 서울 코엑스에서 공공/기업, 금융 고객을 대상으로 변화한 보안 환경에 필요한 비전과 전략을 제시하는 ‘시큐레터 시큐리티 서밋 2022’를 개최한다고 9일 밝혔다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[빠르게 성장 중인 온라인 게임 산업, 보안에 대한 투자 이어가야]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=106622&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=106622&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-05-09T09:18:27.378Z</updated>
-        <content type="html"><![CDATA[지난 2년 동안 코로나 팬데믹 덕분에 온라인 게임 산업은 전에 없던 중흥기를 맞이하게 되었다. 이제 온라인 게임은 각종 친목 활동의 플랫폼이 되었으며, 사회적 교류가 이뤄지는 장이며, 하나의 스포츠 장르로 자리를 잡았다. 2024년까지 온라인 게임 산업의 시장 규모는 ...]]></content>
     </entry>
 </feed>
