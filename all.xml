@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 May 2022 22:19:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 May 2022 23:20:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,14 +248,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/20994295_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[단독] 중국 해커조직 “한국 보건·국방분야 정부기관 해킹해 데이터 탈취” 주장 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106607&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106607&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Mon, 09 May 2022 03:20:30 GMT</pubDate>
-            <content:encoded><![CDATA[윤석열 정부 출범을 앞두고 북한의 연이은 미사일 발사 등으로 한반도의 긴장감이 높아지고 있는 가운데 북한뿐만 아니라 중국의 해커그룹까지 우리나라 국방 및 의료 부...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/20220508CHINA-S.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[CERT-UA, 제스터 정보 탈취형 멀웨어 퍼트리는 캠페인 포착 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=106657&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=106657&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
@@ -264,12 +256,12 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/spam-thumb-0510.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[로그4셸 공격 건수 분석해보니... Log4j 취약점 공격은 현재진행형! (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106569&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106569&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Fri, 06 May 2022 08:21:50 GMT</pubDate>
-            <content:encoded><![CDATA[지난해 발견돼 역대 최악의 취약점으로 불리는 Log4j 취약점, 일명 로그4셸을 악용한 사이버공격이 지속적으로 포착돼 이용자들의 각별한 주의가 필요하다. Log4...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/20220505log-s.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[단독] 중국 해커조직 “한국 보건·국방분야 정부기관 해킹해 데이터 탈취” 주장 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106607&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106607&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Mon, 09 May 2022 03:20:30 GMT</pubDate>
+            <content:encoded><![CDATA[윤석열 정부 출범을 앞두고 북한의 연이은 미사일 발사 등으로 한반도의 긴장감이 높아지고 있는 가운데 북한뿐만 아니라 중국의 해커그룹까지 우리나라 국방 및 의료 부...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/20220508CHINA-S.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[공식 페라리 서브도메인 해킹한 NFT 사기꾼들 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
@@ -278,6 +270,14 @@
             <pubDate>Tue, 10 May 2022 12:34:55 GMT</pubDate>
             <content:encoded><![CDATA[보안 외신에 의하면 이탈리아의 고급 차량 제조사인 페라리가 5월 5일 해킹 공격에 당했다고 한다. 해커들은 공식 페라리 웹사이트의 서브도메인을 장악하고, 여기에서...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/car-thymb-0510.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[로그4셸 공격 건수 분석해보니... Log4j 취약점 공격은 현재진행형! (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106569&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106569&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Fri, 06 May 2022 08:21:50 GMT</pubDate>
+            <content:encoded><![CDATA[지난해 발견돼 역대 최악의 취약점으로 불리는 Log4j 취약점, 일명 로그4셸을 악용한 사이버공격이 지속적으로 포착돼 이용자들의 각별한 주의가 필요하다. Log4...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/20220505log-s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[국내 첫 심스와핑 사건 그 후, 유심 ‘기지국 정보’ 놓고 피해자 vs KT (보안뉴스 ─ 가장 많이 본 기사)]]></title>
@@ -296,6 +296,22 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/20220504ahn-ms.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[안드로이드 사용자들을 유료 서비스에 가입시키는 플리스웨어에 유의 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106661&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106661&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Tue, 10 May 2022 19:14:48 GMT</pubDate>
+            <content:encoded><![CDATA[일부 모바일 트로이목마들과 피해자 몰래 값비싼 유료 서비스에 피해자를 가입시켜 돈을 갉아먹는 모바일 멀웨어들이 구글 플레이 스토어의 보안망을 뚫고 계속해서 등록되...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/flee-thumb-0510.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[요즘 ‘핫’한 NFT, 사이버 공격자들이 그냥 지나칠 리 없다 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106662&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106662&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Tue, 10 May 2022 19:14:48 GMT</pubDate>
+            <content:encoded><![CDATA[NFT에 대한 기업과 소비자들의 관심이 커지면서 해커들 역시 여기에 큰 관심을 두기 시작했다. 최근 사이버펑크 에입(Cyberpunk Ape)과 관련된 NFT 사...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/nft-thumb-0510.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[윤석열 정부 110대 국정과제에 담긴 정보보호와 보안산업 밑그림은? (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=106546&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=106546&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
@@ -312,28 +328,12 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/20220506YOON-S.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
-            <title><![CDATA[안드로이드 사용자들을 유료 서비스에 가입시키는 플리스웨어에 유의 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106661&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106661&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Tue, 10 May 2022 19:14:48 GMT</pubDate>
-            <content:encoded><![CDATA[일부 모바일 트로이목마들과 피해자 몰래 값비싼 유료 서비스에 피해자를 가입시켜 돈을 갉아먹는 모바일 멀웨어들이 구글 플레이 스토어의 보안망을 뚫고 계속해서 등록되...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/flee-thumb-0510.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[이슈칼럼] 윤석열 정부의 사이버안보 분야 국정비전을 보며 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=106548&amp;page=1&amp;kind=6&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=106548&amp;page=1&amp;kind=6&amp;search=title&amp;find=</guid>
             <pubDate>Fri, 06 May 2022 01:12:00 GMT</pubDate>
             <content:encoded><![CDATA[지난 5월 3일 윤석열 정부의 110대 국정과제가 우리나라 1세대 보안전문가인 안철수 인수위원장을 통해 발표됐다. 필자는 인수위원장이 사이버보안 전문가로 이번 1...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/21916424_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[요즘 ‘핫’한 NFT, 사이버 공격자들이 그냥 지나칠 리 없다 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106662&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106662&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Tue, 10 May 2022 19:14:48 GMT</pubDate>
-            <content:encoded><![CDATA[NFT에 대한 기업과 소비자들의 관심이 커지면서 해커들 역시 여기에 큰 관심을 두기 시작했다. 최근 사이버펑크 에입(Cyberpunk Ape)과 관련된 NFT 사...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/nft-thumb-0510.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[윤석열 당선인, 15개 부처 차관 발표... 행안부 한창섭 차관 내정 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
