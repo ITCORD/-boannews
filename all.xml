@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 10 May 2022 20:21:56 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 May 2022 21:18:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -248,14 +248,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/20220508CHINA-S.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[로그4셸 공격 건수 분석해보니... Log4j 취약점 공격은 현재진행형! (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106569&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106569&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Fri, 06 May 2022 08:21:50 GMT</pubDate>
-            <content:encoded><![CDATA[지난해 발견돼 역대 최악의 취약점으로 불리는 Log4j 취약점, 일명 로그4셸을 악용한 사이버공격이 지속적으로 포착돼 이용자들의 각별한 주의가 필요하다. Log4...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/20220505log-s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[2022년 1분기 랜섬웨어 공격 증가... 어떤 기관·기업 피해 입었나 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=106659&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=106659&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
@@ -264,20 +256,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/20994295_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[로그4셸 공격 건수 분석해보니... Log4j 취약점 공격은 현재진행형! (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106569&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106569&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Fri, 06 May 2022 08:21:50 GMT</pubDate>
+            <content:encoded><![CDATA[지난해 발견돼 역대 최악의 취약점으로 불리는 Log4j 취약점, 일명 로그4셸을 악용한 사이버공격이 지속적으로 포착돼 이용자들의 각별한 주의가 필요하다. Log4...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/20220505log-s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[국내 첫 심스와핑 사건 그 후, 유심 ‘기지국 정보’ 놓고 피해자 vs KT (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=106573&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=106573&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Fri, 06 May 2022 12:32:05 GMT</pubDate>
             <content:encoded><![CDATA[지난 2022년 1월 5일, &lt;보안뉴스&gt;가 단독 보도한 ‘[단독] KT 고객 유심 복사로 암호화폐 탈취? 국내 첫 심스와핑 의심 피해 발생’ 기사 이후...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/sims_0505001_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[문서 편집·메신저 프로그램 위장 악성파일, 국가기관 관리자·교수 타깃 유포 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106551&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106551&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Thu, 05 May 2022 21:15:45 GMT</pubDate>
-            <content:encoded><![CDATA[문서 편집 및 메신저 프로그램으로 위장해 정보를 유출하는 백도어가 발견됐다. 특히, 국가기관 관리자와 대학교수 등을 타깃으로 유포돼 관계자들의 각별한 주의가 요구...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/20220504ahn-ms.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[CERT-UA, 제스터 정보 탈취형 멀웨어 퍼트리는 캠페인 포착 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
@@ -294,6 +286,14 @@
             <pubDate>Tue, 10 May 2022 12:34:55 GMT</pubDate>
             <content:encoded><![CDATA[보안 외신에 의하면 이탈리아의 고급 차량 제조사인 페라리가 5월 5일 해킹 공격에 당했다고 한다. 해커들은 공식 페라리 웹사이트의 서브도메인을 장악하고, 여기에서...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/car-thymb-0510.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[문서 편집·메신저 프로그램 위장 악성파일, 국가기관 관리자·교수 타깃 유포 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106551&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106551&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Thu, 05 May 2022 21:15:45 GMT</pubDate>
+            <content:encoded><![CDATA[문서 편집 및 메신저 프로그램으로 위장해 정보를 유출하는 백도어가 발견됐다. 특히, 국가기관 관리자와 대학교수 등을 타깃으로 유포돼 관계자들의 각별한 주의가 요구...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/20220504ahn-ms.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[윤석열 정부 110대 국정과제에 담긴 정보보호와 보안산업 밑그림은? (보안뉴스 ─ 가장 많이 본 기사)]]></title>
@@ -328,12 +328,12 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/gov_050901_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[시스코의 NFVIS에서 나온 초고위험도 취약점 패치돼 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106584&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106584&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Sun, 08 May 2022 08:20:45 GMT</pubDate>
-            <content:encoded><![CDATA[시스코의 엔터프라이즈 NFV 인프라스트럭처 소프트웨어(NFVIS)에서 초고위험도 취약점이 발견됐다. 익스플로잇에 성공한 공격자는 피해를 입은 호스트를 완전히 장악...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/21756786_copy_295x190.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[안드로이드 사용자들을 유료 서비스에 가입시키는 플리스웨어에 유의 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106661&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106661&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Tue, 10 May 2022 19:14:48 GMT</pubDate>
+            <content:encoded><![CDATA[일부 모바일 트로이목마들과 피해자 몰래 값비싼 유료 서비스에 피해자를 가입시켜 돈을 갉아먹는 모바일 멀웨어들이 구글 플레이 스토어의 보안망을 뚫고 계속해서 등록되...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/flee-thumb-0510.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[나이지리아의 해커, 에이전트 테슬라로 스스로를 감염시켜 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
@@ -342,6 +342,22 @@
             <pubDate>Tue, 10 May 2022 02:48:53 GMT</pubDate>
             <content:encoded><![CDATA[지난 수년 동안 2만 8천여 피해자들로부터 80만 개 이상의 크리덴셜을 훔쳤던 나이지리아 해커가 최근 자신의 컴퓨터를 스스로 감염시켜 신원을 노출시키는 일이 발생...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/21068618_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[시스코의 NFVIS에서 나온 초고위험도 취약점 패치돼 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106584&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106584&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Sun, 08 May 2022 08:20:45 GMT</pubDate>
+            <content:encoded><![CDATA[시스코의 엔터프라이즈 NFV 인프라스트럭처 소프트웨어(NFVIS)에서 초고위험도 취약점이 발견됐다. 익스플로잇에 성공한 공격자는 피해를 입은 호스트를 완전히 장악...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/21756786_copy_295x190.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[요즘 ‘핫’한 NFT, 사이버 공격자들이 그냥 지나칠 리 없다 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106662&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106662&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Tue, 10 May 2022 19:14:48 GMT</pubDate>
+            <content:encoded><![CDATA[NFT에 대한 기업과 소비자들의 관심이 커지면서 해커들 역시 여기에 큰 관심을 두기 시작했다. 최근 사이버펑크 에입(Cyberpunk Ape)과 관련된 NFT 사...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/nft-thumb-0510.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[빠르게 성장 중인 온라인 게임 산업, 보안에 대한 투자 이어가야 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
@@ -358,22 +374,6 @@
             <pubDate>Fri, 06 May 2022 08:21:50 GMT</pubDate>
             <content:encoded><![CDATA[사라진 줄 알았던 레빌(REvil) 그룹이 부활했다는 증거들이 나오기 시작했다. 하지만 보안 업계는 되살아난 레빌이 이전 레빌 만큼 강력할 것인지에 대해서는 아직...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/21516236_copy_295x190_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[안드로이드 사용자들을 유료 서비스에 가입시키는 플리스웨어에 유의 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106661&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106661&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Tue, 10 May 2022 19:14:48 GMT</pubDate>
-            <content:encoded><![CDATA[일부 모바일 트로이목마들과 피해자 몰래 값비싼 유료 서비스에 피해자를 가입시켜 돈을 갉아먹는 모바일 멀웨어들이 구글 플레이 스토어의 보안망을 뚫고 계속해서 등록되...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/flee-thumb-0510.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[요즘 ‘핫’한 NFT, 사이버 공격자들이 그냥 지나칠 리 없다 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106662&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106662&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Tue, 10 May 2022 19:14:48 GMT</pubDate>
-            <content:encoded><![CDATA[NFT에 대한 기업과 소비자들의 관심이 커지면서 해커들 역시 여기에 큰 관심을 두기 시작했다. 최근 사이버펑크 에입(Cyberpunk Ape)과 관련된 NFT 사...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/nft-thumb-0510.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[주말판] 인공지능과 디지털 트윈이 필수가 된 시대에 사용자로서 살아남기 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
