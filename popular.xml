@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 May 2022 19:19:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 May 2022 20:25:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -40,20 +40,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/20220508CHINA-S.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[안드로이드 사용자들을 유료 서비스에 가입시키는 플리스웨어에 유의]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106661&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106661&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Tue, 10 May 2022 19:14:48 GMT</pubDate>
-            <content:encoded><![CDATA[일부 모바일 트로이목마들과 피해자 몰래 값비싼 유료 서비스에 피해자를 가입시켜 돈을 갉아먹는 모바일 멀웨어들이 구글 플레이 스토어의 보안망을 뚫고 계속해서 등록되...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/flee-thumb-0510.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[요즘 ‘핫’한 NFT, 사이버 공격자들이 그냥 지나칠 리 없다]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=106662&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=106662&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Tue, 10 May 2022 19:14:48 GMT</pubDate>
             <content:encoded><![CDATA[NFT에 대한 기업과 소비자들의 관심이 커지면서 해커들 역시 여기에 큰 관심을 두기 시작했다. 최근 사이버펑크 에입(Cyberpunk Ape)과 관련된 NFT 사...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/nft-thumb-0510.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[안드로이드 사용자들을 유료 서비스에 가입시키는 플리스웨어에 유의]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106661&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106661&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Tue, 10 May 2022 19:14:48 GMT</pubDate>
+            <content:encoded><![CDATA[일부 모바일 트로이목마들과 피해자 몰래 값비싼 유료 서비스에 피해자를 가입시켜 돈을 갉아먹는 모바일 멀웨어들이 구글 플레이 스토어의 보안망을 뚫고 계속해서 등록되...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/flee-thumb-0510.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[로그4셸 공격 건수 분석해보니... Log4j 취약점 공격은 현재진행형!]]></title>
@@ -88,6 +88,14 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/21068618_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[MS의 2022년 5월 정기 패치일, 제로데이 취약점 3개 패치돼]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106691&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106691&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Wed, 11 May 2022 15:24:30 GMT</pubDate>
+            <content:encoded><![CDATA[마이크로소프트는 2022년 5월 정기 패치를 통해 74개의 취약점들을 해결했다. 초고위험도 취약점은 총 7개이며, 고위험군으로 분류된 취약점은 65개였다. 나머지...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/10000255_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[윤석열 당선인, 15개 부처 차관 발표... 행안부 한창섭 차관 내정]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=106620&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=106620&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
@@ -104,28 +112,12 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/19997321_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[MS의 2022년 5월 정기 패치일, 제로데이 취약점 3개 패치돼]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106691&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106691&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Wed, 11 May 2022 15:24:30 GMT</pubDate>
-            <content:encoded><![CDATA[마이크로소프트는 2022년 5월 정기 패치를 통해 74개의 취약점들을 해결했다. 초고위험도 취약점은 총 7개이며, 고위험군으로 분류된 취약점은 65개였다. 나머지...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/10000255_copy_295x190_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[윤석열 정부, 새 국정원장에 김규현 전 외교안보수석 지명]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=106692&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=106692&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
             <pubDate>Wed, 11 May 2022 16:32:17 GMT</pubDate>
             <content:encoded><![CDATA[윤석열 정부가 11일 새 국가정보원 원장으로 김규현 전 외교안보수석을 지명했다. 또한, 국정원 1차장에는 권춘택 유엔글로벌콤팩트(UNGC) 한국협회 사무총장이 내...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/mofa_0511_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[시스코의 NFVIS에서 나온 초고위험도 취약점 패치돼]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106584&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106584&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Sun, 08 May 2022 08:20:45 GMT</pubDate>
-            <content:encoded><![CDATA[시스코의 엔터프라이즈 NFV 인프라스트럭처 소프트웨어(NFVIS)에서 초고위험도 취약점이 발견됐다. 익스플로잇에 성공한 공격자는 피해를 입은 호스트를 완전히 장악...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/21756786_copy_295x190.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[오래되었지만 꾸준히 업그레이드 된 멀웨어, 가격까지 파격적으로 낮아져]]></title>
@@ -136,12 +128,12 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/20394212_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[북한 추정 사이버공격, “2004년부터 2021년까지 300배 이상 증가했다”]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106606&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106606&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Mon, 09 May 2022 18:20:48 GMT</pubDate>
-            <content:encoded><![CDATA[북한이 지난 4일 ICBM  미사일(대륙간탄도미사일 추정)을 발사한지 사흘만에 또 다시 SLBM 미사일(잠수함발사탄도미사일 추정)을 발사했다. 올해만 벌써 15번...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/Kakao-c.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[시스코의 NFVIS에서 나온 초고위험도 취약점 패치돼]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106584&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106584&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Sun, 08 May 2022 08:20:45 GMT</pubDate>
+            <content:encoded><![CDATA[시스코의 엔터프라이즈 NFV 인프라스트럭처 소프트웨어(NFVIS)에서 초고위험도 취약점이 발견됐다. 익스플로잇에 성공한 공격자는 피해를 입은 호스트를 완전히 장악...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/21756786_copy_295x190.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아디다스코리아 등 5개 기업 개인정보보호 법규위반 사업자 제재]]></title>
@@ -158,6 +150,14 @@
             <pubDate>Wed, 11 May 2022 19:16:05 GMT</pubDate>
             <content:encoded><![CDATA[정부와 산업계가 공동으로 국민 생활과 밀접한 온라인플랫폼 7대 분야에 대한 자율적인 개인정보 보호 노력 강화에 나선다. 개인정보보호위원회(위원장 윤종인, 이하 ‘...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/pipc_051101_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[북한 추정 사이버공격, “2004년부터 2021년까지 300배 이상 증가했다”]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106606&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106606&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Mon, 09 May 2022 18:20:48 GMT</pubDate>
+            <content:encoded><![CDATA[북한이 지난 4일 ICBM  미사일(대륙간탄도미사일 추정)을 발사한지 사흘만에 또 다시 SLBM 미사일(잠수함발사탄도미사일 추정)을 발사했다. 올해만 벌써 15번...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/Kakao-c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[주말판] 인공지능과 디지털 트윈이 필수가 된 시대에 사용자로서 살아남기]]></title>
