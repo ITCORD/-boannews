@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-05-11T08:29:02.144Z</updated>
+    <updated>2022-05-11T09:21:11.286Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아디다스코리아 등 5개 기업 개인정보보호 법규위반 사업자 제재]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=106693&amp;page=1&amp;mkind=1&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=106693&amp;page=1&amp;mkind=1&amp;kind=2"/>
+        <updated>2022-05-11T09:17:45.345Z</updated>
+        <content type="html"><![CDATA[개인정보가 유출되지 않도록 안전조치 의무를 다하지 않고, 개인정보 유출 사실을 정보주체인 이용자에게 제대로 알리지 않은 사업자들이 제재 처분을 받았다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[윤석열 정부, 새 국정원장에 김규현 전 외교안보수석 지명]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=106692&amp;page=1&amp;mkind=1&amp;kind=2</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=106676&amp;page=1&amp;mkind=1&amp;kind=3"/>
         <updated>2022-05-11T03:21:00.857Z</updated>
         <content type="html"><![CDATA[인공지능 서비스 전문기업 이스트소프트(대표 정상원)와 보안 자회사 이스트시큐리티(대표 정진일)가 이달 24일까지 ‘2022년 상반기 그룹사 공개채용’을 진행한다고 11일 밝혔다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이종호 과기정통부 장관 취임 일성 “네트워크 경쟁력 유지하고 사이버보안 체계 강화”]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=106677&amp;page=1&amp;mkind=1&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=106677&amp;page=1&amp;mkind=1&amp;kind=2"/>
-        <updated>2022-05-11T03:21:00.857Z</updated>
-        <content type="html"><![CDATA[윤석열 정부의 첫 번째 과기정통부 장관인 이종호 장관이 5월 11일 취임한다. 서울대학교 전기정보공학부 교수 출신인 이종호 장관은 세계적인 반도체 기술 권위자이자 비메모리 반도체 업계 표준 기술인 벌크 핀펫 기술을 세계 최초로 개발한 석학이다. 윤석열 대통령은 “국내에...]]></content>
     </entry>
 </feed>
