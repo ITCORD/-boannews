@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 May 2022 15:27:36 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 May 2022 16:34:58 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -128,6 +128,14 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/22052216_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[MS의 2022년 5월 정기 패치일, 제로데이 취약점 3개 패치돼]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106691&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106691&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Wed, 11 May 2022 15:24:30 GMT</pubDate>
+            <content:encoded><![CDATA[마이크로소프트는 2022년 5월 정기 패치를 통해 74개의 취약점들을 해결했다. 초고위험도 취약점은 총 7개이며, 고위험군으로 분류된 취약점은 65개였다. 나머지...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/10000255_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[북한 해커조직, 탈북민 자문위원대상 의견수렴 설문지 위장해 사이버 공격]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=106612&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=106612&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
@@ -152,20 +160,12 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/20658543_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[러시아 해킹 포럼에서 할인되기 시작한 DC랫 백도어]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106656&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106656&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Wed, 11 May 2022 08:25:51 GMT</pubDate>
-            <content:encoded><![CDATA[러시아 해킹 포럼에서 DC랫(DCRat)이라는 백도어가 할인되기 시작했다고 보안 외신 해커뉴스가 경고했다. 아주 저렴한 가격에 보급되고 있기 때문에 많은 이들이 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/sale-thumb-0510.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[MS의 2022년 5월 정기 패치일, 제로데이 취약점 3개 패치돼]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106691&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106691&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Wed, 11 May 2022 15:24:30 GMT</pubDate>
-            <content:encoded><![CDATA[마이크로소프트는 2022년 5월 정기 패치를 통해 74개의 취약점들을 해결했다. 초고위험도 취약점은 총 7개이며, 고위험군으로 분류된 취약점은 65개였다. 나머지...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/10000255_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[윤석열 정부, 새 국정원장에 김규현 전 외교안보수석 지명]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106692&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106692&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
+            <pubDate>Wed, 11 May 2022 16:32:17 GMT</pubDate>
+            <content:encoded><![CDATA[윤석열 정부가 11일 새 국가정보원 원장으로 김규현 전 외교안보수석을 지명했다. 또한, 국정원 1차장에는 권춘택 유엔글로벌콤팩트(UNGC) 한국협회 사무총장이 내...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/mofa_0511_main.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
