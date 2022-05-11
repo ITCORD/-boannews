@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 May 2022 13:42:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 May 2022 14:19:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,20 +16,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/20994295_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[공식 페라리 서브도메인 해킹한 NFT 사기꾼들]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106658&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106658&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Tue, 10 May 2022 12:34:55 GMT</pubDate>
-            <content:encoded><![CDATA[보안 외신에 의하면 이탈리아의 고급 차량 제조사인 페라리가 5월 5일 해킹 공격에 당했다고 한다. 해커들은 공식 페라리 웹사이트의 서브도메인을 장악하고, 여기에서...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/car-thymb-0510.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[CERT-UA, 제스터 정보 탈취형 멀웨어 퍼트리는 캠페인 포착]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=106657&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=106657&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Tue, 10 May 2022 12:34:55 GMT</pubDate>
             <content:encoded><![CDATA[우크라이나의 침해대응센터가 멀웨어를 퍼트리는 스팸 메일 캠페인을 포착했다고 발표했다. 보안 블로그 시큐리티어페어즈에 따르면 이 캠페인을 통해 퍼지는 멀웨어는 제스...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/spam-thumb-0510.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[공식 페라리 서브도메인 해킹한 NFT 사기꾼들]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106658&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106658&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Tue, 10 May 2022 12:34:55 GMT</pubDate>
+            <content:encoded><![CDATA[보안 외신에 의하면 이탈리아의 고급 차량 제조사인 페라리가 5월 5일 해킹 공격에 당했다고 한다. 해커들은 공식 페라리 웹사이트의 서브도메인을 장악하고, 여기에서...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/car-thymb-0510.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[단독] 중국 해커조직 “한국 보건·국방분야 정부기관 해킹해 데이터 탈취” 주장]]></title>
@@ -112,14 +112,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/21756786_copy_295x190.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[레빌 랜섬웨어의 부활? 도무지 죽지 않는 사이버 갱단들]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106570&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106570&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Fri, 06 May 2022 08:21:50 GMT</pubDate>
-            <content:encoded><![CDATA[사라진 줄 알았던 레빌(REvil) 그룹이 부활했다는 증거들이 나오기 시작했다. 하지만 보안 업계는 되살아난 레빌이 이전 레빌 만큼 강력할 것인지에 대해서는 아직...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/21516236_copy_295x190_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[북한 추정 사이버공격, “2004년부터 2021년까지 300배 이상 증가했다”]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=106606&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=106606&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
@@ -166,6 +158,14 @@
             <pubDate>Wed, 11 May 2022 08:25:51 GMT</pubDate>
             <content:encoded><![CDATA[러시아 해킹 포럼에서 DC랫(DCRat)이라는 백도어가 할인되기 시작했다고 보안 외신 해커뉴스가 경고했다. 아주 저렴한 가격에 보급되고 있기 때문에 많은 이들이 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/sale-thumb-0510.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[제주경찰청, 중산간 등 읍·면지역 블랙박스형 CCTV 설치 사업 추진]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106564&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106564&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
+            <pubDate>Wed, 11 May 2022 14:16:54 GMT</pubDate>
+            <content:encoded><![CDATA[제주경찰청 자치경찰 부서는 전국 하위권에 머물러 있는 지역안전지수(범죄 분야) 개선을 위해 중산간 등 읍·면 지역 일대 ‘블랙박스형 CCTV 설치 사업’을 추진 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/5-41(295).jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
