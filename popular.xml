@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 11 May 2022 07:20:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 May 2022 08:29:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -72,14 +72,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/sims_0505001_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[문서 편집·메신저 프로그램 위장 악성파일, 국가기관 관리자·교수 타깃 유포]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106551&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106551&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Thu, 05 May 2022 21:15:45 GMT</pubDate>
-            <content:encoded><![CDATA[문서 편집 및 메신저 프로그램으로 위장해 정보를 유출하는 백도어가 발견됐다. 특히, 국가기관 관리자와 대학교수 등을 타깃으로 유포돼 관계자들의 각별한 주의가 요구...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/20220504ahn-ms.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[윤석열 정부, 국가안보실 등 비서관 2차 인선 발표... 사이버안보비서관 윤오준]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=106586&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=106586&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
@@ -144,14 +136,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/22052216_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[헤로쿠의 오오스 토큰 도난 사건, 고객들의 크리덴셜 정보도 도난당해]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106582&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106582&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Sun, 08 May 2022 13:25:49 GMT</pubDate>
-            <content:encoded><![CDATA[세일즈포스(Salesforce)의 자회사인 헤로쿠(Heroku)가 최근 발생한 오오스(OAuth) 토큰 관련 사건에 대한 추가 사실을 발표했다. 지난 4월 사이버...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/20658543_copy_295x190_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[서아시아의 요르단이 스마트시티 구축에 집중하는 이유]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=106553&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=106553&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
@@ -160,12 +144,28 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/20220506YOR-S.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[헤로쿠의 오오스 토큰 도난 사건, 고객들의 크리덴셜 정보도 도난당해]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106582&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106582&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Sun, 08 May 2022 13:25:49 GMT</pubDate>
+            <content:encoded><![CDATA[세일즈포스(Salesforce)의 자회사인 헤로쿠(Heroku)가 최근 발생한 오오스(OAuth) 토큰 관련 사건에 대한 추가 사실을 발표했다. 지난 4월 사이버...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/20658543_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[북한 해커조직, 탈북민 자문위원대상 의견수렴 설문지 위장해 사이버 공격]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=106612&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=106612&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Wed, 11 May 2022 06:25:30 GMT</pubDate>
             <content:encoded><![CDATA[북한이탈주민(탈북민) 자문위원들에게 의견을 수렴하는 내용처럼 위장한 HWP 악성 문서 기반 북한 연계 해킹 공격이 발견됐다.]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/20220509EST1-SM.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[러시아 해킹 포럼에서 할인되기 시작한 DC랫 백도어]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106656&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106656&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Wed, 11 May 2022 08:25:51 GMT</pubDate>
+            <content:encoded><![CDATA[러시아 해킹 포럼에서 DC랫(DCRat)이라는 백도어가 할인되기 시작했다고 보안 외신 해커뉴스가 경고했다. 아주 저렴한 가격에 보급되고 있기 때문에 많은 이들이 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/sale-thumb-0510.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
