@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-05-12T05:26:43.491Z</updated>
+    <updated>2022-05-12T06:26:22.006Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[LG CNS, AWS ‘Services Partner of the Year’ 수상]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=106722&amp;page=1&amp;mkind=1&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=106722&amp;page=1&amp;mkind=1&amp;kind=3"/>
+        <updated>2022-05-12T06:23:46.989Z</updated>
+        <content type="html"><![CDATA[DX전문기업 LG CNS가 아마존웹서비스(Amazon Web Services, 이하 AWS)의 ‘Services Partner of the Year’를 12일 수상했다. AWS는 12일 진행된 ‘AWS 파트너 서밋 코리아 2022’에서 한 해 동안 고객기업에게 뛰어난 ...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[스패로우, ‘ICT 중소기업 정보보호 지원사업’ 공급기업 선정]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=106715&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=106715&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-05-12T06:23:46.989Z</updated>
+        <content type="html"><![CDATA[스패로우(대표 장일수)는 과학기술정보통신부와 한국인터넷진흥원(KISA)에서 주관하는 ‘2022 ICT 중소기업 정보보호 지원사업’의 공급기업으로 선정됐다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SK쉴더스, 랜섬웨어 원스톱 대응 인포섹 이메일 보안관제 서비스 출시]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=106714&amp;page=1&amp;mkind=1&amp;kind=1</id>
@@ -109,19 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=106693&amp;page=1&amp;mkind=1&amp;kind=2"/>
         <updated>2022-05-11T09:17:45.345Z</updated>
         <content type="html"><![CDATA[개인정보가 유출되지 않도록 안전조치 의무를 다하지 않고, 개인정보 유출 사실을 정보주체인 이용자에게 제대로 알리지 않은 사업자들이 제재 처분을 받았다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤석열 정부, 새 국정원장에 김규현 전 외교안보수석 지명]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=106692&amp;page=1&amp;mkind=1&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=106692&amp;page=1&amp;mkind=1&amp;kind=2"/>
-        <updated>2022-05-11T08:26:01.654Z</updated>
-        <content type="html"><![CDATA[윤석열 정부가 11일 새 국가정보원 원장으로 김규현 전 외교안보수석을 지명했다. 또한, 국정원 1차장에는 권춘택 유엔글로벌콤팩트(UNGC) 한국협회 사무총장이 내정됐다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MS의 2022년 5월 정기 패치일, 제로데이 취약점 3개 패치돼]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=106691&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=106691&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-05-11T08:26:01.655Z</updated>
-        <content type="html"><![CDATA[마이크로소프트는 2022년 5월 정기 패치를 통해 74개의 취약점들을 해결했다. 초고위험도 취약점은 총 7개이며, 고위험군으로 분류된 취약점은 65개였다. 나머지 1개는 저위험군으로 분류됐다. 74개 중 제로데이 취약점은 3개인데, 그 중 이미 해커들에 의해 익스플로잇...]]></content>
     </entry>
 </feed>

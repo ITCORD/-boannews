@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 May 2022 05:26:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 May 2022 06:26:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,14 +54,6 @@
             <pubDate>Tue, 10 May 2022 19:14:48 GMT</pubDate>
             <content:encoded><![CDATA[일부 모바일 트로이목마들과 피해자 몰래 값비싼 유료 서비스에 피해자를 가입시켜 돈을 갉아먹는 모바일 멀웨어들이 구글 플레이 스토어의 보안망을 뚫고 계속해서 등록되...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/flee-thumb-0510.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[로그4셸 공격 건수 분석해보니... Log4j 취약점 공격은 현재진행형!]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106569&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106569&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Fri, 06 May 2022 08:21:50 GMT</pubDate>
-            <content:encoded><![CDATA[지난해 발견돼 역대 최악의 취약점으로 불리는 Log4j 취약점, 일명 로그4셸을 악용한 사이버공격이 지속적으로 포착돼 이용자들의 각별한 주의가 필요하다. Log4...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/20220505log-s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[국내 첫 심스와핑 사건 그 후, 유심 ‘기지국 정보’ 놓고 피해자 vs KT]]></title>
@@ -166,6 +158,14 @@
             <pubDate>Thu, 12 May 2022 01:24:23 GMT</pubDate>
             <content:encoded><![CDATA[북한이탈주민(탈북민) 자문위원들에게 의견을 수렴하는 내용처럼 위장한 HWP 악성 문서 기반 북한 연계 해킹 공격이 발견됐다.]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/20220509EST1-SM.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[[주말판] 인공지능과 디지털 트윈이 필수가 된 시대에 사용자로서 살아남기]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106602&amp;page=1&amp;kind=4&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106602&amp;page=1&amp;kind=4&amp;search=title&amp;find=</guid>
+            <pubDate>Thu, 12 May 2022 06:23:31 GMT</pubDate>
+            <content:encoded><![CDATA[인공지능, 머신러닝, 디지털 트윈... 이런 말들이 왜 유행하기 시작했으며, 왜 그리 중요한 기술/개념 취급을 받고 있는 것일까? 간단히 설명하자면 인간이 쉽게 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/22052216_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
