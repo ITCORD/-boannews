@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-05-12T07:35:21.730Z</updated>
+    <updated>2022-05-12T08:24:51.543Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[중국과 관련 있어 보이는 해킹 단체, 고급 멀웨어 사용해 정보 수집 중]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=106727&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=106727&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-05-12T08:22:30.779Z</updated>
+        <content type="html"><![CDATA[중국 정부의 지원을 받고 있는 것으로 보이는 해킹 단체가 고급 멀웨어 프레임워크를 마이크로소프트 익스체인지 서버들에 심고 있다는 사실이 뒤늦게 드러났다. 기술 업계와 학계, 정부 기관들이 주요 공격 대상이며, 이러한 캠페인은 최소 지난 가을부터 시작된 것으로 보인다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[유명하면 신뢰한다는 심리적 허점 노린 공격자들, 배너티 링크 노린다]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=106726&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=106726&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-05-12T08:22:30.782Z</updated>
+        <content type="html"><![CDATA[많은 기업들이 만들어 운영하고 있는 ‘배너티 링크(vanity link)’ 혹은 ‘배너티 도메인(vanity domain)’이 피싱 공격의 유용한 재료가 되고 있다는 경고가 나왔다. 데이터 보안 전문 업체인 바로니스(Varonis)가 이러한 현황을 연구, 주사해 보고서...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KISIA, 정보보호 컨설팅 전문가 양성과정 교육생 모집]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=106725&amp;page=1&amp;mkind=1&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=106725&amp;page=1&amp;mkind=1&amp;kind=3"/>
+        <updated>2022-05-12T08:22:30.785Z</updated>
+        <content type="html"><![CDATA[한국정보보호산업협회(KISIA, 회장 이동범)는 전문교육과 기업 인턴 연계까지 가능한 정보보호 컨설팅 전문가 양성과정 교육생을 5월 31일(화)까지 모집한다고 밝혔다. 정보보호 컨설팅 전문가 양성과정은 서울시가 주최하는 ‘민간기업 맞춤형 뉴딜일자리사업’의 일환으로, K...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[개인정보 관련 궁금증 ‘개인정보 ON 마당’과 ‘챗봇 프라이벗’에 물어보세요]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=106724&amp;page=1&amp;mkind=1&amp;kind=2</id>
@@ -102,26 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=106697&amp;page=1&amp;mkind=1&amp;kind=2"/>
         <updated>2022-05-12T03:15:50.688Z</updated>
         <content type="html"><![CDATA[전북도와 국민연금공단은 데이터 활용 놀이터인 ‘전북도 금융혁신 빅데이터 플랫폼 및 센터’를 12일부터 전 국민을 대상으로 운영한다고 밝혔다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오래되었지만 꾸준히 업그레이드 된 멀웨어, 가격까지 파격적으로 낮아져]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=106696&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=106696&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-05-12T01:24:39.981Z</updated>
-        <content type="html"><![CDATA[시장에 등장한 지 3년째 되는 원격 트로이 목마가 5달러로 크게 할인되기 시작하자 보안 전문가들의 경계심이 높아졌다. 단순히 백도어 하나가 크게 활성화될 것만이 문제가 아니다. 다크웹에서의 심상치 않은 변화가 있음을 유추할 수 있는 사건이라는 의견들이 조심스레 나오고 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이스트시큐리티, 150억 원 투자 유치... SaaS·메타버스 등 사업 확장 본격화]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=106695&amp;page=1&amp;mkind=1&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=106695&amp;page=1&amp;mkind=1&amp;kind=3"/>
-        <updated>2022-05-12T01:24:39.988Z</updated>
-        <content type="html"><![CDATA[엔드포인트 보안 전문 기업 이스트시큐리티(대표 정진일)는 150억 원 규모의 상장 전 투자 유치(Pre IPO)에 성공했다고 11일 밝혔다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[온라인플랫폼 분야 개인정보 보호 국민체감도 확 높인다]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=106694&amp;page=1&amp;mkind=1&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=106694&amp;page=1&amp;mkind=1&amp;kind=2"/>
-        <updated>2022-05-12T01:24:39.991Z</updated>
-        <content type="html"><![CDATA[정부와 산업계가 공동으로 국민 생활과 밀접한 온라인플랫폼 7대 분야에 대한 자율적인 개인정보 보호 노력 강화에 나선다. 개인정보보호위원회(위원장 윤종인, 이하 ‘개인정보위’)는 5월 11일(수) 정부서울청사에서 제8회 전체회의를 열고, ‘온라인플랫폼 분야 개인정보 보호...]]></content>
     </entry>
 </feed>
