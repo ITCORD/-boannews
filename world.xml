@@ -4,9 +4,23 @@
         <title>보안뉴스 ─ 국제</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 May 2022 06:26:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 May 2022 07:35:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[중국과 관련 있어 보이는 해킹 단체, 고급 멀웨어 사용해 정보 수집 중]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106727&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106727&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
+            <pubDate>Thu, 12 May 2022 07:34:08 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/view.asp?idx=106727&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
+					
+					<img src="/media/upFiles2/2022/05/21853054_copy_295x190_1.jpg" alt="" class="news_img" height="70">
+					
+					<span class="news_txt">중국과 관련 있어 보이는 해킹 단체, 고급 멀웨어 사용해 정보 수집 중</span>
+					</a><br>
+					<a href="/media/view.asp?idx=106727&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">중국 정부의 지원을 받고 있는 것으로 보이는 해킹 단체가 고급 멀웨어 프레임워크를 마이크로소프트 익스체인지 서버들에 심고 있다는 사실이 뒤늦게 드러났다. 기술 업...</a> <span class="news_writer">문가용 기자 | 2022년 05월 12일 15:41</span>]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/21853054_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[유명하면 신뢰한다는 심리적 허점 노린 공격자들, 배너티 링크 노린다]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=106726&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
@@ -272,20 +286,6 @@
 					</a><br>
 					<a href="/media/view.asp?idx=106658&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">보안 외신에 의하면 이탈리아의 고급 차량 제조사인 페라리가 5월 5일 해킹 공격에 당했다고 한다. 해커들은 공식 페라리 웹사이트의 서브도메인을 장악하고, 여기에서...</a> <span class="news_writer">문가용 기자 | 2022년 05월 10일 13:30</span>]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/car-thymb-0510.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[CERT-UA, 제스터 정보 탈취형 멀웨어 퍼트리는 캠페인 포착]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106657&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106657&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
-            <pubDate>Tue, 10 May 2022 05:19:06 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/view.asp?idx=106657&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
-					
-					<img src="/media/upFiles2/2022/05/spam-thumb-0510.jpg" alt="" class="news_img" height="70">
-					
-					<span class="news_txt">CERT-UA, 제스터 정보 탈취형 멀웨어 퍼트리는 캠페인 포착</span>
-					</a><br>
-					<a href="/media/view.asp?idx=106657&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">우크라이나의 침해대응센터가 멀웨어를 퍼트리는 스팸 메일 캠페인을 포착했다고 발표했다. 보안 블로그 시큐리티어페어즈에 따르면 이 캠페인을 통해 퍼지는 멀웨어는 제스...</a> <span class="news_writer">문가용 기자 | 2022년 05월 10일 13:28</span>]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/spam-thumb-0510.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

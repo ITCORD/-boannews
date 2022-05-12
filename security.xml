@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-05-12T06:26:22.006Z</updated>
+    <updated>2022-05-12T07:35:21.730Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[개인정보 관련 궁금증 ‘개인정보 ON 마당’과 ‘챗봇 프라이벗’에 물어보세요]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=106724&amp;page=1&amp;mkind=1&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=106724&amp;page=1&amp;mkind=1&amp;kind=2"/>
+        <updated>2022-05-12T07:32:11.337Z</updated>
+        <content type="html"><![CDATA[우리 사회가 디지털 시대로 접어들면서 개인정보의 처리와 활용이 일상화되고 중요성은 더욱 커지고 있지만, 복잡한 개인정보 관련 법령 및 제도를 정확히 알기가 쉽지 않다. 이에 개인정보와 관련한 궁금증을 해소해 줄 수 있는 똑똑한 소통창구가 개설돼 앞으로는 위 사례와 같은...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[LG CNS, AWS ‘Services Partner of the Year’ 수상]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=106722&amp;page=1&amp;mkind=1&amp;kind=3</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=106694&amp;page=1&amp;mkind=1&amp;kind=2"/>
         <updated>2022-05-12T01:24:39.991Z</updated>
         <content type="html"><![CDATA[정부와 산업계가 공동으로 국민 생활과 밀접한 온라인플랫폼 7대 분야에 대한 자율적인 개인정보 보호 노력 강화에 나선다. 개인정보보호위원회(위원장 윤종인, 이하 ‘개인정보위’)는 5월 11일(수) 정부서울청사에서 제8회 전체회의를 열고, ‘온라인플랫폼 분야 개인정보 보호...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아디다스코리아 등 5개 기업 개인정보보호 법규위반 사업자 제재]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=106693&amp;page=1&amp;mkind=1&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=106693&amp;page=1&amp;mkind=1&amp;kind=2"/>
-        <updated>2022-05-11T09:17:45.345Z</updated>
-        <content type="html"><![CDATA[개인정보가 유출되지 않도록 안전조치 의무를 다하지 않고, 개인정보 유출 사실을 정보주체인 이용자에게 제대로 알리지 않은 사업자들이 제재 처분을 받았다.]]></content>
     </entry>
 </feed>

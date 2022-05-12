@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 12 May 2022 06:26:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 May 2022 07:35:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[중국과 관련 있어 보이는 해킹 단체, 고급 멀웨어 사용해 정보 수집 중 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106727&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106727&amp;page=1&amp;kind=1</guid>
+            <pubDate>Thu, 12 May 2022 07:31:47 GMT</pubDate>
+            <content:encoded><![CDATA[중국 정부의 지원을 받고 있는 것으로 보이는 해킹 단체가 고급 멀웨어 프레임워크를 마이크로소프트 익스체인지 서버들에 심고 있다는 사실이 뒤늦게 드러났다. ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/21853054_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[유명하면 신뢰한다는 심리적 허점 노린 공격자들, 배너티 링크 노린다 (보안뉴스 ─ 전체기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=106726&amp;page=1&amp;kind=1</link>
@@ -80,14 +88,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/20731147_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[복잡한 인프라가 한국 기업의 디지털 혁신 저해하고 있다 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106710&amp;page=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106710&amp;page=1&amp;kind=3</guid>
-            <pubDate>Thu, 12 May 2022 01:24:09 GMT</pubDate>
-            <content:encoded><![CDATA[한국 기업은 기술 혁신이 미래 성장을 이끄는 데 매우 중요한 역할을 한다는 점을 인지하고 있지만, 이중 79%는 복잡한 데이터 아키텍처가 혁신을 저해한다고...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/21795916_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[KISIA, 정보보호 컨설팅 전문가 양성과정 교육생 모집 (보안뉴스 ─ 전체기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=106725&amp;page=1&amp;kind=3</link>
             <guid>https://www.boannews.com/media/view.asp?idx=106725&amp;page=1&amp;kind=3</guid>
@@ -134,6 +134,14 @@
             <pubDate>Thu, 12 May 2022 01:24:09 GMT</pubDate>
             <content:encoded><![CDATA[안랩(대표 강석균)이 5월 10일~11일 온라인으로 개최된 ‘AWS 서밋 코리아 2022 (AWS Summit Korea 2022)’에서 의료 헬스케어 분...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/anlab20220512-c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[복잡한 인프라가 한국 기업의 디지털 혁신 저해하고 있다 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106710&amp;page=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106710&amp;page=1&amp;kind=3</guid>
+            <pubDate>Thu, 12 May 2022 01:24:09 GMT</pubDate>
+            <content:encoded><![CDATA[한국 기업은 기술 혁신이 미래 성장을 이끄는 데 매우 중요한 역할을 한다는 점을 인지하고 있지만, 이중 79%는 복잡한 데이터 아키텍처가 혁신을 저해한다고...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/21795916_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[NSA의 제로트러스트 보안 가이드라인, 간단히 요약하고 정리하기 (보안뉴스 ─ 전체기사)]]></title>
@@ -232,14 +240,6 @@
             <pubDate>Thu, 12 May 2022 01:24:09 GMT</pubDate>
             <content:encoded><![CDATA[경북도는 지난 11일 ‘축우 인공지능 학습용 데이터 구축 및 인공지능(AI)모델 개발’ 용역의 착수보고회를 개최했다. 이날 착수보고회는 이정우 경북도 메타...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/5-89(295).jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국내 최초로 가명정보 분석환경이 만들어지다 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106697&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106697&amp;page=1&amp;kind=2</guid>
-            <pubDate>Thu, 12 May 2022 01:24:09 GMT</pubDate>
-            <content:encoded><![CDATA[전북도와 국민연금공단은 데이터 활용 놀이터인 ‘전북도 금융혁신 빅데이터 플랫폼 및 센터’를 12일부터 전 국민을 대상으로 운영한다고 밝혔다.]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/5-88(295).jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2022년 1분기 랜섬웨어 공격 증가... 어떤 기관·기업 피해 입었나 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
@@ -402,6 +402,13 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/22052216_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[개인정보 관련 궁금증 ‘개인정보 ON 마당’과 ‘챗봇 프라이벗’에 물어보세요 (보안뉴스 ─ SECURITY)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106724&amp;page=1&amp;mkind=1&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106724&amp;page=1&amp;mkind=1&amp;kind=2</guid>
+            <pubDate>Thu, 12 May 2022 07:32:11 GMT</pubDate>
+            <content:encoded><![CDATA[우리 사회가 디지털 시대로 접어들면서 개인정보의 처리와 활용이 일상화되고 중요성은 더욱 커지고 있지만, 복잡한 개인정보 관련 법령 및 제도를 정확히 알기가 쉽지 않다. 이에 개인정보와 관련한 궁금증을 해소해 줄 수 있는 똑똑한 소통창구가 개설돼 앞으로는 위 사례와 같은...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[LG CNS, AWS ‘Services Partner of the Year’ 수상 (보안뉴스 ─ SECURITY)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=106722&amp;page=1&amp;mkind=1&amp;kind=3</link>
             <guid>https://www.boannews.com/media/view.asp?idx=106722&amp;page=1&amp;mkind=1&amp;kind=3</guid>
@@ -512,13 +519,6 @@
             <guid>https://www.boannews.com/media/view.asp?idx=106694&amp;page=1&amp;mkind=1&amp;kind=2</guid>
             <pubDate>Thu, 12 May 2022 01:24:39 GMT</pubDate>
             <content:encoded><![CDATA[정부와 산업계가 공동으로 국민 생활과 밀접한 온라인플랫폼 7대 분야에 대한 자율적인 개인정보 보호 노력 강화에 나선다. 개인정보보호위원회(위원장 윤종인, 이하 ‘개인정보위’)는 5월 11일(수) 정부서울청사에서 제8회 전체회의를 열고, ‘온라인플랫폼 분야 개인정보 보호...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[아디다스코리아 등 5개 기업 개인정보보호 법규위반 사업자 제재 (보안뉴스 ─ SECURITY)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106693&amp;page=1&amp;mkind=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106693&amp;page=1&amp;mkind=1&amp;kind=2</guid>
-            <pubDate>Wed, 11 May 2022 09:17:45 GMT</pubDate>
-            <content:encoded><![CDATA[개인정보가 유출되지 않도록 안전조치 의무를 다하지 않고, 개인정보 유출 사실을 정보주체인 이용자에게 제대로 알리지 않은 사업자들이 제재 처분을 받았다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[LG유플러스, 상공 통신과 교통관리플랫폼으로 K-UAM 키운다 (보안뉴스 ─ IT)]]></title>
@@ -1895,6 +1895,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/4-10(295).jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[중국과 관련 있어 보이는 해킹 단체, 고급 멀웨어 사용해 정보 수집 중 (보안뉴스 ─ 국제)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106727&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106727&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
+            <pubDate>Thu, 12 May 2022 07:34:08 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/view.asp?idx=106727&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
+					
+					<img src="/media/upFiles2/2022/05/21853054_copy_295x190_1.jpg" alt="" class="news_img" height="70">
+					
+					<span class="news_txt">중국과 관련 있어 보이는 해킹 단체, 고급 멀웨어 사용해 정보 수집 중</span>
+					</a><br>
+					<a href="/media/view.asp?idx=106727&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">중국 정부의 지원을 받고 있는 것으로 보이는 해킹 단체가 고급 멀웨어 프레임워크를 마이크로소프트 익스체인지 서버들에 심고 있다는 사실이 뒤늦게 드러났다. 기술 업...</a> <span class="news_writer">문가용 기자 | 2022년 05월 12일 15:41</span>]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/21853054_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[유명하면 신뢰한다는 심리적 허점 노린 공격자들, 배너티 링크 노린다 (보안뉴스 ─ 국제)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=106726&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=106726&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
@@ -2159,20 +2173,6 @@
 					</a><br>
 					<a href="/media/view.asp?idx=106658&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">보안 외신에 의하면 이탈리아의 고급 차량 제조사인 페라리가 5월 5일 해킹 공격에 당했다고 한다. 해커들은 공식 페라리 웹사이트의 서브도메인을 장악하고, 여기에서...</a> <span class="news_writer">문가용 기자 | 2022년 05월 10일 13:30</span>]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/car-thymb-0510.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[CERT-UA, 제스터 정보 탈취형 멀웨어 퍼트리는 캠페인 포착 (보안뉴스 ─ 국제)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106657&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106657&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
-            <pubDate>Tue, 10 May 2022 05:19:06 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/view.asp?idx=106657&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
-					
-					<img src="/media/upFiles2/2022/05/spam-thumb-0510.jpg" alt="" class="news_img" height="70">
-					
-					<span class="news_txt">CERT-UA, 제스터 정보 탈취형 멀웨어 퍼트리는 캠페인 포착</span>
-					</a><br>
-					<a href="/media/view.asp?idx=106657&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">우크라이나의 침해대응센터가 멀웨어를 퍼트리는 스팸 메일 캠페인을 포착했다고 발표했다. 보안 블로그 시큐리티어페어즈에 따르면 이 캠페인을 통해 퍼지는 멀웨어는 제스...</a> <span class="news_writer">문가용 기자 | 2022년 05월 10일 13:28</span>]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/spam-thumb-0510.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[영상보안 분야 상장기업 8곳, 지난해 활약상과 2022년 청사진 (보안뉴스 ─ 기획특집)]]></title>
