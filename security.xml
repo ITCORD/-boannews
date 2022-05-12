@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-05-12T04:34:56.745Z</updated>
+    <updated>2022-05-12T05:26:43.491Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[SK쉴더스, 랜섬웨어 원스톱 대응 인포섹 이메일 보안관제 서비스 출시]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=106714&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=106714&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-05-12T05:23:45.329Z</updated>
+        <content type="html"><![CDATA[라이프 케어 플랫폼 기업 SK쉴더스(대표 박진효)가 ‘인포섹 이메일 보안관제’ 서비스를 출시한다고 12일 밝혔다. 지난 3월, 민간 랜섬웨어 협의체 ‘KARA(카라, Korea Anti-Ransomware Alliance)’를 발족한 SK쉴더스는 이번 서비스를 기반으로...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이영 중기부 장관 후보자, 국회 청문보고서 채택]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=106723&amp;page=1&amp;mkind=1&amp;kind=2</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=106691&amp;page=1&amp;mkind=1&amp;kind=1"/>
         <updated>2022-05-11T08:26:01.655Z</updated>
         <content type="html"><![CDATA[마이크로소프트는 2022년 5월 정기 패치를 통해 74개의 취약점들을 해결했다. 초고위험도 취약점은 총 7개이며, 고위험군으로 분류된 취약점은 65개였다. 나머지 1개는 저위험군으로 분류됐다. 74개 중 제로데이 취약점은 3개인데, 그 중 이미 해커들에 의해 익스플로잇...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[긴급] 지몬즈 가죽소파 주문? 농협은행 164만원 결제?? 스미싱 연이어 유포]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=106690&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=106690&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-05-11T08:26:01.657Z</updated>
-        <content type="html"><![CDATA[최근 해외나 국내에서의 온라인 쇼핑 결제를 사칭한 스미싱 유포가 기승을 부리고 있는 가운데 최근에는 주문한 지몬즈 가죽소파 결제가 완료됐다고 속여 보이스피싱으로 연결하는 스미싱이 9일과 11일 연이어 유포돼 각별한 주의가 요구된다.]]></content>
     </entry>
 </feed>
