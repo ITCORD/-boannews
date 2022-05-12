@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=2</id>
     <title>보안뉴스 ─ IT</title>
-    <updated>2022-05-12T03:19:17.392Z</updated>
+    <updated>2022-05-12T04:34:56.753Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[LG유플러스, 상공 통신과 교통관리플랫폼으로 K-UAM 키운다]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=106708&amp;page=1&amp;mkind=2&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=106708&amp;page=1&amp;mkind=2&amp;kind=3"/>
+        <updated>2022-05-12T04:32:29.775Z</updated>
+        <content type="html"><![CDATA[LG유플러스는 카카오모빌리티, GS칼텍스, 제주항공, 파블로항공, 버티컬 에어로스페이스와 손잡고 국토교통부의 한국형 도심항공교통 그랜드챌린지(K-UAM GC) 실증사업에 참여하기 위한 컨소시엄을 구성했다고 밝혔다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[LG전자 세탁건조가전, 세계 첫 ‘UL 딥러닝 AI 검증’ 획득]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=106707&amp;page=1&amp;mkind=2&amp;kind=3</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=106629&amp;page=1&amp;mkind=2&amp;kind=2"/>
         <updated>2022-05-10T02:49:24.523Z</updated>
         <content type="html"><![CDATA[과학기술정보통신부는 정보통신기술 분야 해외 유수의 대학·연구소·기업 등과 연구 협력 네트워크를 구축하고 국내 석·박사생들을 공동 연구·파견해 핵심 인재를 육성하는 ‘2022년 글로벌 핵심인재양성지원사업’ 지원과제를 선정하고 본격 지원에 착수한다고 밝혔다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[방통위, 2022 위치정보 우수 비즈니스 모델 발굴한다]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=106631&amp;page=1&amp;mkind=2&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=106631&amp;page=1&amp;mkind=2&amp;kind=2"/>
-        <updated>2022-05-10T02:49:24.527Z</updated>
-        <content type="html"><![CDATA[방송통신위원회와 한국인터넷진흥원은 우수한 위치기반서비스 모델을 보유한 중소·영세·스타트업 기업 등의 안정적인 위치정보 시장 진입 등을 지원하기 위해 ‘위치정보 우수 비즈니스 모델 발굴 프로젝트’를 추진한다고 밝혔다.]]></content>
     </entry>
 </feed>
