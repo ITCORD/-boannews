@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-05-23T05:25:59.775Z</updated>
+    <updated>2022-05-23T06:26:44.394Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[사이버포렌식전문가협회, 3대 회장으로 CY그룹 최강용 회장 추대]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=106958&amp;page=1&amp;mkind=1&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=106958&amp;page=1&amp;mkind=1&amp;kind=3"/>
+        <updated>2022-05-23T06:24:06.475Z</updated>
+        <content type="html"><![CDATA[사이버포렌식전문가협회(KCFPA, 회장 최강용)가 지난 5월 20일 협회 회의실에서 총회 및 협회 회장의 이·취임식을 개최했다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[일본 거대 매체 니케이, 랜섬웨어에 당해 고객 정보 유출돼]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=106954&amp;page=1&amp;mkind=1&amp;kind=1</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=106928&amp;page=1&amp;mkind=1&amp;kind=1"/>
         <updated>2022-05-22T17:15:50.612Z</updated>
         <content type="html"><![CDATA[셰도우서버재단(Shadowserver) 재단의 전문가들이 큐버네티스 API 서버 38만 대가 인터넷에 노출되어 있다는 사실을 발견해 세상에 알렸다. 38만 대라면 온라인에서 관찰 가능한 전 세계 큐버네티스 API 인스턴스의 84%라고 한다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘로그프레소 소나 4.0’ CC인증 획득]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=106926&amp;page=1&amp;mkind=1&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=106926&amp;page=1&amp;mkind=1&amp;kind=3"/>
-        <updated>2022-05-22T17:15:50.614Z</updated>
-        <content type="html"><![CDATA[보안운영(SecOps) 플랫폼 전문기업 로그프레소(대표 양봉열)는 최근 IT보안인증사무국으로부터 SIEM 플랫폼 ‘로그프레소 소나 4.0’에 대한 EAL2 등급의 CC인증을 획득했다고 20일 밝혔다.]]></content>
     </entry>
 </feed>

@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 23 May 2022 05:25:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 May 2022 06:26:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -38,14 +38,6 @@
             <pubDate>Sun, 22 May 2022 17:15:34 GMT</pubDate>
             <content:encoded><![CDATA[지난 3월 러시아의 우크라이나 침공이 한창 진행되고 있을 때 한 영상이 온라인 공간에 떠돌기 시작했다. 우크라이나의 젤렌스키 대통령이 러시아 군에 항복한다는 내용...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/hy-thumb-0521.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[음료수 캔이나 스마트폰 거치대만 있어도 멀리서 도청 가능?]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106782&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106782&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Sun, 22 May 2022 17:15:34 GMT</pubDate>
-            <content:encoded><![CDATA[음료수 캔, 스마트폰 스탠드 혹은 아무 반짝이는 표면을 가진 가벼운 물체만 있으면 아무리 방음처리가 잘 되어 있는 방 안에 있는 시스템들도 도청할 수 있다고 한다...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/can-thumb-0516.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[삼성전자 자회사 ‘세메스’의 반도체 국가핵심기술, 중국으로 통째 유출됐다]]></title>
@@ -166,6 +158,14 @@
             <pubDate>Mon, 23 May 2022 03:21:03 GMT</pubDate>
             <content:encoded><![CDATA[학기술정보통신부(장관 이종호, 이하 ‘과기정통부’)가 2022년 글로벌 ICT 미래 유니콘 육성사업(ICT GROWTH 사업)에 최종 선정된 15개 기업을 발표한...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/msit_051901_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[다크트레이스, ‘2022년 국내 보안 시장 전략’ 발표]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106818&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106818&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
+            <pubDate>Mon, 23 May 2022 06:23:52 GMT</pubDate>
+            <content:encoded><![CDATA[AI 사이버 보안 기업 다크트레이스(Darktrace, 지사장 김기태)는 오늘, 2022년 국내 보안 시장을 적극 선점하기 위한 시장 전략을 발표했다. 다크트레이...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/20220517DARK-MS.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

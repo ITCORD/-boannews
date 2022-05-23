@@ -4,9 +4,23 @@
         <title>보안뉴스 ─ 국제</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 23 May 2022 05:25:59 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 May 2022 06:26:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[빨리 하지 않는다면 모두 패치하나 일부만 패치하나 위험성은 거기서 거기]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106963&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106963&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
+            <pubDate>Mon, 23 May 2022 06:25:52 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/view.asp?idx=106963&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
+					
+					<img src="/media/upFiles2/2022/05/speed-thumb-0523.jpg" alt="" class="news_img" height="70">
+					
+					<span class="news_txt">빨리 하지 않는다면 모두 패치하나 일부만 패치하나 위험성은 거기서 거기</span>
+					</a><br>
+					<a href="/media/view.asp?idx=106963&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">보안 업계 내의 오랜 권고 사항을 의심케 하는 연구 결과가 발표됐다. 조직 내에서 발견된 모든 소프트웨어 업데이트를 부지런히 적용하는 기업들과, 공개된 특수한 취...</a> <span class="news_writer">문가용 기자 | 2022년 05월 23일 15:19</span>]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/speed-thumb-0523.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[하이브리드 근무 체제에서의 가장 쉬운 네트워크 고장 해결법]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=106955&amp;page=1&amp;mkind=&amp;kind=4&amp;skind=D&amp;search=title&amp;find=</link>
@@ -272,20 +286,6 @@
 					</a><br>
 					<a href="/media/view.asp?idx=106891&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">보안 외신 시큐리티위크에 따르면 현재 인터넷에 노출된 큐버네티스 API 서버가 38만 개 이상이라고 한다. 이 서버들에 대한 외부인의 접근이 가능하다는 뜻이다. ...</a> <span class="news_writer">문가용 기자 | 2022년 05월 19일 11:31</span>]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/ser-thumb-0519.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[주피터 워드프레스 플러그인에서 여러 취약점 발견돼]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106889&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106889&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
-            <pubDate>Sun, 22 May 2022 17:17:45 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/view.asp?idx=106889&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
-					
-					<img src="/media/upFiles2/2022/05/jup-thumb-0519.jpg" alt="" class="news_img" height="70">
-					
-					<span class="news_txt">주피터 워드프레스 플러그인에서 여러 취약점 발견돼</span>
-					</a><br>
-					<a href="/media/view.asp?idx=106889&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">IT 외신 블리핑컴퓨터에 의하면 주피터(Jupiter)라는 워드프레스 플러그인들에서 위험한 취약점들이 다수 발견됐다고 한다. 이 중 하나는 초고위험도로 분류됐으며...</a> <span class="news_writer">문가용 기자 | 2022년 05월 19일 11:30</span>]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/jup-thumb-0519.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
