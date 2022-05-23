@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-05-23T04:36:30.353Z</updated>
+    <updated>2022-05-23T05:25:59.775Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[일본 거대 매체 니케이, 랜섬웨어에 당해 고객 정보 유출돼]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=106954&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=106954&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-05-23T05:23:08.843Z</updated>
+        <content type="html"><![CDATA[보안 외신 시큐리티위크에 의하면 일본의 거대 미디어 그룹인 니케이가 랜섬웨어 공격에 당했다고 한다. 니케이가 직접 발표한 바에 의하면 싱가포르 지부에 있는 서버 한 대가 지난 주 랜섬웨어에 감염됐다고 한다. 이 서버로의 미승인 접근 흔적이 처음 발견된 건 5월 13일이...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[일론 머스크의 딥페이크, 새로운 암호화폐 사기 공격에 활용돼]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=106953&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=106953&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-05-23T05:23:08.844Z</updated>
+        <content type="html"><![CDATA[IT 외신인 블리핑컴퓨터에 의하면 일부 암호화폐 사기꾼들이 일론 머스크의 딥페이크 영상을 활용해 피해자들을 모집하고 있다고 한다. 공격자들이 홍보하고 있는 암호화폐 코인은 비트벡스(BitVex)라고 하며, 여기에 속아 코인을 구매한 사람들은 전부 피해를 입은 상황이다....]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[휴네시온, ‘네트워크 접근제어 솔루션 아이원NAC’ CC 및 GS 인증 획득]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=106949&amp;page=1&amp;mkind=1&amp;kind=3</id>
@@ -109,19 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=106926&amp;page=1&amp;mkind=1&amp;kind=3"/>
         <updated>2022-05-22T17:15:50.614Z</updated>
         <content type="html"><![CDATA[보안운영(SecOps) 플랫폼 전문기업 로그프레소(대표 양봉열)는 최근 IT보안인증사무국으로부터 SIEM 플랫폼 ‘로그프레소 소나 4.0’에 대한 EAL2 등급의 CC인증을 획득했다고 20일 밝혔다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윈스, 부산 에코델타 스마트시티 우선협상대상자 선정]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=106925&amp;page=1&amp;mkind=1&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=106925&amp;page=1&amp;mkind=1&amp;kind=3"/>
-        <updated>2022-05-22T17:15:50.615Z</updated>
-        <content type="html"><![CDATA[정보보안 전문 기업 윈스(대표 김보연)가 부산 에코델타 스마트시티 국가시범도시 사업에 우선협상대상자로 선정됐다. 윈스는 부산 스마트시티 사업에서 사이버보안을 담당할 계획이다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인제대-한국산업보안관리사협회, 경남 산업보안 활성화·경쟁력 강화 위한 MOU]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=106923&amp;page=1&amp;mkind=1&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=106923&amp;page=1&amp;mkind=1&amp;kind=3"/>
-        <updated>2022-05-22T17:15:50.617Z</updated>
-        <content type="html"><![CDATA[인제대학교(총장 전민현)와 한국산업보안관리사협회(회장 김화영)는 경남지역 산업보안 활동 활성화 및 경쟁력 강화를 위한 업무 협약을 체결했다고 밝혔다.]]></content>
     </entry>
 </feed>
