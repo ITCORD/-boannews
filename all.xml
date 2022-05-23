@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 23 May 2022 13:40:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 May 2022 14:31:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아이덴티티가 화폐가 되는 시대, 동적인 방어 체계가 필요하다 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106967&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106967&amp;page=1&amp;kind=1</guid>
+            <pubDate>Mon, 23 May 2022 14:28:16 GMT</pubDate>
+            <content:encoded><![CDATA[아이덴티티는 이 시대의 새로운 화폐다. 디지털 공격자들은 이 새로운 화폐를 차지하기 위해 온갖 수단들을 동원한다. 버라이즌(Verizon)의 데이터 침해 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/name-thumb-0523.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[API 보안, 필수 애플리케이션 보안전략으로 만드는 방법 (보안뉴스 ─ 전체기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=106960&amp;page=1&amp;kind=5</link>
@@ -80,14 +88,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/20394020_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[친러 성향 해킹 단체, 이탈리아 정부 기관 웹사이트 공격해 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106950&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106950&amp;page=1&amp;kind=1</guid>
-            <pubDate>Mon, 23 May 2022 03:20:53 GMT</pubDate>
-            <content:encoded><![CDATA[보안 외신 인포시큐리티에 의하면 친러 성향의 해킹 단체가 이탈리아의 주요 정부 기관 웹사이트들을 공격했다고 한다. 이 공격 단체는 킬넷(Killnet)이라...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/20978837_copy_295x190_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[인터넷신문위원회, 한국잡지협회와 업무협약 체결 (보안뉴스 ─ 전체기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=106965&amp;page=1&amp;kind=3</link>
             <guid>https://www.boannews.com/media/view.asp?idx=106965&amp;page=1&amp;kind=3</guid>
@@ -118,6 +118,14 @@
             <pubDate>Mon, 23 May 2022 03:20:53 GMT</pubDate>
             <content:encoded><![CDATA[정보보안 소프트웨어 전문기업 휴네시온(대표이사 정동섭)은 네트워크 접근제어 솔루션 아이원NAC(i-oneNAC)이 CC인증과 GS인증을 획득했다고 밝혔다....]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/ione-c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[친러 성향 해킹 단체, 이탈리아 정부 기관 웹사이트 공격해 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106950&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106950&amp;page=1&amp;kind=1</guid>
+            <pubDate>Mon, 23 May 2022 03:20:53 GMT</pubDate>
+            <content:encoded><![CDATA[보안 외신 인포시큐리티에 의하면 친러 성향의 해킹 단체가 이탈리아의 주요 정부 기관 웹사이트들을 공격했다고 한다. 이 공격 단체는 킬넷(Killnet)이라...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/20978837_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[사이버 공격으로부터 첨단 과학기술 보호 역량 강화... 대규모 훈련 추진 (보안뉴스 ─ 전체기사)]]></title>
@@ -232,13 +240,6 @@
             <guid>https://www.boannews.com/media/view.asp?idx=106933&amp;page=1&amp;kind=2</guid>
             <pubDate>Sun, 22 May 2022 17:15:11 GMT</pubDate>
             <content:encoded><![CDATA[국토교통부와 한국교통안전공단은 사업용 차량 운전자의 디지털운행기록장치 운행기록을 분석한 결과, 사고 차량 운전자는 무사고 차량 운전자보다 급가속 등 위험운...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[중견-스타트업 동반 성장을 촉진하는 혁신생태계 조성한다 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106932&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106932&amp;page=1&amp;kind=2</guid>
-            <pubDate>Sun, 22 May 2022 17:15:11 GMT</pubDate>
-            <content:encoded><![CDATA[산업통상자원부는 지난 20일 한국중견기업연합회, 한국산업지능화협회, 한국무역협회와 함께 ‘2022년도 제1회 중견기업-스타트업 DX 상생라운지’를 개최했다...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[단독] 토론회 개최한 태영호 의원실 사칭 북한 해킹 메일 공격 포착됐다 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
@@ -401,6 +402,13 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/21517075_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[SGA솔루션즈, 시스템 접근통제 기업 에스지앤 인수... 1위 통합보안 기업 목표 (보안뉴스 ─ SECURITY)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106962&amp;page=1&amp;mkind=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106962&amp;page=1&amp;mkind=1&amp;kind=3</guid>
+            <pubDate>Mon, 23 May 2022 14:28:47 GMT</pubDate>
+            <content:encoded><![CDATA[통합보안 전문 기업 SGA솔루션즈(대표 최영철)는 시스템 접근통제 솔루션 기업 에스지앤(대표 강현모)의 지분 및 경영권을 인수한다고 지난 20일 공시를 통해 밝혔다.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[빨리 하지 않는다면 모두 패치하나 일부만 패치하나 위험성은 거기서 거기 (보안뉴스 ─ SECURITY)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=106963&amp;page=1&amp;mkind=1&amp;kind=1</link>
             <guid>https://www.boannews.com/media/view.asp?idx=106963&amp;page=1&amp;mkind=1&amp;kind=1</guid>
@@ -511,13 +519,6 @@
             <guid>https://www.boannews.com/media/view.asp?idx=106941&amp;page=1&amp;mkind=1&amp;kind=1</guid>
             <pubDate>Mon, 23 May 2022 03:21:17 GMT</pubDate>
             <content:encoded><![CDATA[지난 3월 러시아의 우크라이나 침공이 한창 진행되고 있을 때 한 영상이 온라인 공간에 떠돌기 시작했다. 우크라이나의 젤렌스키 대통령이 러시아 군에 항복한다는 내용을 발표하는 영상이었다. 그러더니 얼마 지나지 않아서는 젤렌스키 대통령이 키이우에 있는 우크라이나 군 벙커에...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[우리 군, 국제 사이버훈련 ‘사이버넷 2022’ 우승 (보안뉴스 ─ SECURITY)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106931&amp;page=1&amp;mkind=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106931&amp;page=1&amp;mkind=1&amp;kind=2</guid>
-            <pubDate>Sun, 22 May 2022 17:15:50 GMT</pubDate>
-            <content:encoded><![CDATA[사이버작전사령부는 지난 16일부터 19일까지 네덜란드 헤이그에서 열린 국제 사이버훈련 ‘사이버넷 2022’에서 우승을 차지했다. 한국은 지난해 준우승에 이어 이번 대회에서는 우승을 거머쥐는 쾌거를 이뤘다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[포스코그룹, ‘로봇기술협의회’ 발족해 로봇 확산 추진한다 (보안뉴스 ─ IT)]]></title>
@@ -1894,6 +1895,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/20220423awards-s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[아이덴티티가 화폐가 되는 시대, 동적인 방어 체계가 필요하다 (보안뉴스 ─ 국제)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106967&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106967&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
+            <pubDate>Mon, 23 May 2022 14:30:24 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/view.asp?idx=106967&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
+					
+					<img src="/media/upFiles2/2022/05/name-thumb-0523.jpg" alt="" class="news_img" height="70">
+					
+					<span class="news_txt">아이덴티티가 화폐가 되는 시대, 동적인 방어 체계가 필요하다</span>
+					</a><br>
+					<a href="/media/view.asp?idx=106967&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">아이덴티티는 이 시대의 새로운 화폐다. 디지털 공격자들은 이 새로운 화폐를 차지하기 위해 온갖 수단들을 동원한다. 버라이즌(Verizon)의 데이터 침해 수사 보...</a> <span class="news_writer">문가용 기자 | 2022년 05월 23일 23:02</span>]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/name-thumb-0523.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[빨리 하지 않는다면 모두 패치하나 일부만 패치하나 위험성은 거기서 거기 (보안뉴스 ─ 국제)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=106963&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=106963&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
@@ -2158,20 +2173,6 @@
 					</a><br>
 					<a href="/media/view.asp?idx=106892&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">인터넷에 노출된 MSSQL 서버들에 대한 브루트포스 공격이 유행하기 시작했다고 MS가 경고했다. 보안 블로그 시큐리티어페어즈에 따르면 공격자들은 정상적인 유틸리티...</a> <span class="news_writer">문가용 기자 | 2022년 05월 19일 11:35</span>]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/brute-thumb-0519.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[38만개 넘는 큐버네티스 API 서버, 인터넷에 노출돼 (보안뉴스 ─ 국제)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106891&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106891&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
-            <pubDate>Sun, 22 May 2022 17:17:45 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/view.asp?idx=106891&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
-					
-					<img src="/media/upFiles2/2022/05/ser-thumb-0519.jpg" alt="" class="news_img" height="70">
-					
-					<span class="news_txt">38만개 넘는 큐버네티스 API 서버, 인터넷에 노출돼</span>
-					</a><br>
-					<a href="/media/view.asp?idx=106891&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">보안 외신 시큐리티위크에 따르면 현재 인터넷에 노출된 큐버네티스 API 서버가 38만 개 이상이라고 한다. 이 서버들에 대한 외부인의 접근이 가능하다는 뜻이다. ...</a> <span class="news_writer">문가용 기자 | 2022년 05월 19일 11:31</span>]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/ser-thumb-0519.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[영상보안 분야 상장기업 8곳, 지난해 활약상과 2022년 청사진 (보안뉴스 ─ 기획특집)]]></title>

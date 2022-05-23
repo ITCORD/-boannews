@@ -4,9 +4,23 @@
         <title>보안뉴스 ─ 국제</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 23 May 2022 13:40:56 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 May 2022 14:31:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아이덴티티가 화폐가 되는 시대, 동적인 방어 체계가 필요하다]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106967&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106967&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
+            <pubDate>Mon, 23 May 2022 14:30:24 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/view.asp?idx=106967&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
+					
+					<img src="/media/upFiles2/2022/05/name-thumb-0523.jpg" alt="" class="news_img" height="70">
+					
+					<span class="news_txt">아이덴티티가 화폐가 되는 시대, 동적인 방어 체계가 필요하다</span>
+					</a><br>
+					<a href="/media/view.asp?idx=106967&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">아이덴티티는 이 시대의 새로운 화폐다. 디지털 공격자들은 이 새로운 화폐를 차지하기 위해 온갖 수단들을 동원한다. 버라이즌(Verizon)의 데이터 침해 수사 보...</a> <span class="news_writer">문가용 기자 | 2022년 05월 23일 23:02</span>]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/name-thumb-0523.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[빨리 하지 않는다면 모두 패치하나 일부만 패치하나 위험성은 거기서 거기]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=106963&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
@@ -272,20 +286,6 @@
 					</a><br>
 					<a href="/media/view.asp?idx=106892&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">인터넷에 노출된 MSSQL 서버들에 대한 브루트포스 공격이 유행하기 시작했다고 MS가 경고했다. 보안 블로그 시큐리티어페어즈에 따르면 공격자들은 정상적인 유틸리티...</a> <span class="news_writer">문가용 기자 | 2022년 05월 19일 11:35</span>]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/brute-thumb-0519.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[38만개 넘는 큐버네티스 API 서버, 인터넷에 노출돼]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106891&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106891&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
-            <pubDate>Sun, 22 May 2022 17:17:45 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/view.asp?idx=106891&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
-					
-					<img src="/media/upFiles2/2022/05/ser-thumb-0519.jpg" alt="" class="news_img" height="70">
-					
-					<span class="news_txt">38만개 넘는 큐버네티스 API 서버, 인터넷에 노출돼</span>
-					</a><br>
-					<a href="/media/view.asp?idx=106891&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">보안 외신 시큐리티위크에 따르면 현재 인터넷에 노출된 큐버네티스 API 서버가 38만 개 이상이라고 한다. 이 서버들에 대한 외부인의 접근이 가능하다는 뜻이다. ...</a> <span class="news_writer">문가용 기자 | 2022년 05월 19일 11:31</span>]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/ser-thumb-0519.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
