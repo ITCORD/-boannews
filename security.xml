@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-05-23T08:25:04.987Z</updated>
+    <updated>2022-05-23T09:21:44.880Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[빨리 하지 않는다면 모두 패치하나 일부만 패치하나 위험성은 거기서 거기]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=106963&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=106963&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-05-23T09:19:11.247Z</updated>
+        <content type="html"><![CDATA[보안 업계 내의 오랜 권고 사항을 의심케 하는 연구 결과가 발표됐다. 조직 내에서 발견된 모든 소프트웨어 업데이트를 부지런히 적용하는 기업들과, 공개된 특수한 취약점 몇 가지만 패치하는 기업들이나 모두 비슷한 수준으로 사이버 정찰 캠페인에 노출될 수 있다는 것이다. 이...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[문체부 산하 ‘KTV 유튜브 채널’ 방송 섭외로 둔갑한 북한 소행 해킹 공격]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=106961&amp;page=1&amp;mkind=1&amp;kind=1</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=106931&amp;page=1&amp;mkind=1&amp;kind=2"/>
         <updated>2022-05-22T17:15:50.606Z</updated>
         <content type="html"><![CDATA[사이버작전사령부는 지난 16일부터 19일까지 네덜란드 헤이그에서 열린 국제 사이버훈련 ‘사이버넷 2022’에서 우승을 차지했다. 한국은 지난해 준우승에 이어 이번 대회에서는 우승을 거머쥐는 쾌거를 이뤘다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독] 토론회 개최한 태영호 의원실 사칭 북한 해킹 메일 공격 포착됐다]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=106924&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=106924&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-05-22T17:15:50.609Z</updated>
-        <content type="html"><![CDATA[국민의힘 태영호 의원실을 사칭한 악성파일이 발견됐다. 특히, 북한 관련 정부 주요 인사와 전문가를 겨냥한 정보 탈취와 그들의 일거수일투족을 감시하려는 목적의 이메일 해킹 공격이 포착돼 관계자들의 주의가 필요하다.]]></content>
     </entry>
 </feed>

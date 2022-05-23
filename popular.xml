@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 23 May 2022 08:25:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 May 2022 09:21:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -88,14 +88,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/ciso_051702_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[엄마! 나 휴대폰 액정이 깨졌어... 스미싱 당했다면 ‘개인정보노출자 사고예방시스템’]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106784&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106784&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
-            <pubDate>Sun, 22 May 2022 17:15:34 GMT</pubDate>
-            <content:encoded><![CDATA[금융감독원은 유출된 개인정보로 타인이 금융거래를 함으로써 발생할 수 있는 명의도용 피해를 예방하기 위해 ‘개인정보노출자 사고예방시스템’을 운영(2003년 9월~)...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/fss_0516001_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[VM웨어에서 얼마 전 패치된 취약점, 아직도 공격자들이 노린다]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=106896&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=106896&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
@@ -166,6 +158,14 @@
             <pubDate>Mon, 23 May 2022 06:23:52 GMT</pubDate>
             <content:encoded><![CDATA[AI 사이버 보안 기업 다크트레이스(Darktrace, 지사장 김기태)는 오늘, 2022년 국내 보안 시장을 적극 선점하기 위한 시장 전략을 발표했다. 다크트레이...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/20220517DARK-MS.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아이폰이 꺼져 있어도 멀웨어 실행이 가능하다?]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106813&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106813&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Mon, 23 May 2022 09:18:59 GMT</pubDate>
+            <content:encoded><![CDATA[보안 외신 해커뉴스에 의하면 iOS에 있는 기능인 파인드마이(Find My)를 통한 새로운 공격 기법이 발견됐다고 한다. 이 공격 기법을 활용할 경우 아이폰이 꺼...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/21517075_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 23 May 2022 08:25:04 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 May 2022 09:21:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -86,6 +86,14 @@
             <pubDate>Mon, 23 May 2022 03:20:53 GMT</pubDate>
             <content:encoded><![CDATA[보안 외신 인포시큐리티에 의하면 친러 성향의 해킹 단체가 이탈리아의 주요 정부 기관 웹사이트들을 공격했다고 한다. 이 공격 단체는 킬넷(Killnet)이라...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/20978837_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[인터넷신문위원회, 한국잡지협회와 업무협약 체결]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106965&amp;page=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106965&amp;page=1&amp;kind=3</guid>
+            <pubDate>Mon, 23 May 2022 09:18:42 GMT</pubDate>
+            <content:encoded><![CDATA[인터넷신문위원회(위원장 민병호)와 한국잡지협회(회장 백종운)는 23일, 한국잡지협회에서 건강한 언론윤리 확립을 위한 사회적 공감대 확산에 적극 참여하고, ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/insin_052301_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[SGA솔루션즈, 시스템 접근통제 기업 에스지앤 인수... 1위 통합보안 기업 목표]]></title>
@@ -231,14 +239,6 @@
             <guid>https://www.boannews.com/media/view.asp?idx=106932&amp;page=1&amp;kind=2</guid>
             <pubDate>Sun, 22 May 2022 17:15:11 GMT</pubDate>
             <content:encoded><![CDATA[산업통상자원부는 지난 20일 한국중견기업연합회, 한국산업지능화협회, 한국무역협회와 함께 ‘2022년도 제1회 중견기업-스타트업 DX 상생라운지’를 개최했다...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[우리 군, 국제 사이버훈련 ‘사이버넷 2022’ 우승]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106931&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106931&amp;page=1&amp;kind=2</guid>
-            <pubDate>Sun, 22 May 2022 17:15:11 GMT</pubDate>
-            <content:encoded><![CDATA[사이버작전사령부는 지난 16일부터 19일까지 네덜란드 헤이그에서 열린 국제 사이버훈련 ‘사이버넷 2022’에서 우승을 차지했다. 한국은 지난해 준우승에 이...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/5-190(295).jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
