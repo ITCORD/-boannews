@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-05-23T03:23:42.003Z</updated>
+    <updated>2022-05-23T04:36:30.353Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[휴네시온, ‘네트워크 접근제어 솔루션 아이원NAC’ CC 및 GS 인증 획득]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=106949&amp;page=1&amp;mkind=1&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=106949&amp;page=1&amp;mkind=1&amp;kind=3"/>
+        <updated>2022-05-23T04:34:00.696Z</updated>
+        <content type="html"><![CDATA[정보보안 소프트웨어 전문기업 휴네시온(대표이사 정동섭)은 네트워크 접근제어 솔루션 아이원NAC(i-oneNAC)이 CC인증과 GS인증을 획득했다고 밝혔다. 아이원NAC은 내부 사용자 및 단말에 대한 인증을 강화하여 비인가 단말의 네트워크 접근을 차단하고 정보자산을 보호...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[시스코, IOS XR 소프트웨어에서 발견된 제로데이 취약점 패치해]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=106952&amp;page=1&amp;mkind=1&amp;kind=1</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=106923&amp;page=1&amp;mkind=1&amp;kind=3"/>
         <updated>2022-05-22T17:15:50.617Z</updated>
         <content type="html"><![CDATA[인제대학교(총장 전민현)와 한국산업보안관리사협회(회장 김화영)는 경남지역 산업보안 활동 활성화 및 경쟁력 강화를 위한 업무 협약을 체결했다고 밝혔다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[개인정보보호 우수사례-구미시] 전 직원의 ‘개인정보보호 전문가’ 목표]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=106918&amp;page=1&amp;mkind=1&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=106918&amp;page=1&amp;mkind=1&amp;kind=2"/>
-        <updated>2022-05-22T17:15:50.619Z</updated>
-        <content type="html"><![CDATA[경상북도 서남부에 위치한 구미시는 인구 41만 명의 개인정보를 관리하는 기초자치단체다. 구미시는 2021년 행정안전부 ‘공공기관 개인정보 관리수준 진단’에서 최고등급인 양호등급을 받은 것은 물론 경상북도내 유일한 3연속 최고등급 달성 기관이기도 하다. 개인정보의 중요성...]]></content>
     </entry>
 </feed>

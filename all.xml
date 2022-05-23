@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 23 May 2022 03:23:42 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 May 2022 04:36:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -86,6 +86,14 @@
             <pubDate>Sun, 22 May 2022 17:15:11 GMT</pubDate>
             <content:encoded><![CDATA[지난 3월 러시아의 우크라이나 침공이 한창 진행되고 있을 때 한 영상이 온라인 공간에 떠돌기 시작했다. 우크라이나의 젤렌스키 대통령이 러시아 군에 항복한다...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/hy-thumb-0521.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[사이버포렌식전문가협회, 3대 회장으로 CY그룹 최강용 회장 추대 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106958&amp;page=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106958&amp;page=1&amp;kind=3</guid>
+            <pubDate>Mon, 23 May 2022 04:33:30 GMT</pubDate>
+            <content:encoded><![CDATA[사이버포렌식전문가협회(KCFPA, 회장 최강용)가 지난 5월 20일 협회 회의실에서 총회 및 협회 회장의 이·취임식을 개최했다.]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/cyber_052301_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[휴네시온, ‘네트워크 접근제어 솔루션 아이원NAC’ CC 및 GS 인증 획득 (보안뉴스 ─ 전체기사)]]></title>
@@ -230,14 +238,6 @@
             <pubDate>Sun, 22 May 2022 17:15:11 GMT</pubDate>
             <content:encoded><![CDATA[보안운영(SecOps) 플랫폼 전문기업 로그프레소(대표 양봉열)는 최근 IT보안인증사무국으로부터 SIEM 플랫폼 ‘로그프레소 소나 4.0’에 대한 EAL2...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/logp_052001_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윈스, 부산 에코델타 스마트시티 우선협상대상자 선정 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106925&amp;page=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106925&amp;page=1&amp;kind=3</guid>
-            <pubDate>Sun, 22 May 2022 17:15:11 GMT</pubDate>
-            <content:encoded><![CDATA[정보보안 전문 기업 윈스(대표 김보연)가 부산 에코델타 스마트시티 국가시범도시 사업에 우선협상대상자로 선정됐다. 윈스는 부산 스마트시티 사업에서 사이버보안...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/wins_052001_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[단독] 토론회 개최한 태영호 의원실 사칭 북한 해킹 메일 공격 포착됐다 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
@@ -400,6 +400,13 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/msit_051901_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[휴네시온, ‘네트워크 접근제어 솔루션 아이원NAC’ CC 및 GS 인증 획득 (보안뉴스 ─ SECURITY)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106949&amp;page=1&amp;mkind=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106949&amp;page=1&amp;mkind=1&amp;kind=3</guid>
+            <pubDate>Mon, 23 May 2022 04:34:00 GMT</pubDate>
+            <content:encoded><![CDATA[정보보안 소프트웨어 전문기업 휴네시온(대표이사 정동섭)은 네트워크 접근제어 솔루션 아이원NAC(i-oneNAC)이 CC인증과 GS인증을 획득했다고 밝혔다. 아이원NAC은 내부 사용자 및 단말에 대한 인증을 강화하여 비인가 단말의 네트워크 접근을 차단하고 정보자산을 보호...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[시스코, IOS XR 소프트웨어에서 발견된 제로데이 취약점 패치해 (보안뉴스 ─ SECURITY)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=106952&amp;page=1&amp;mkind=1&amp;kind=1</link>
             <guid>https://www.boannews.com/media/view.asp?idx=106952&amp;page=1&amp;mkind=1&amp;kind=1</guid>
@@ -510,13 +517,6 @@
             <guid>https://www.boannews.com/media/view.asp?idx=106923&amp;page=1&amp;mkind=1&amp;kind=3</guid>
             <pubDate>Sun, 22 May 2022 17:15:50 GMT</pubDate>
             <content:encoded><![CDATA[인제대학교(총장 전민현)와 한국산업보안관리사협회(회장 김화영)는 경남지역 산업보안 활동 활성화 및 경쟁력 강화를 위한 업무 협약을 체결했다고 밝혔다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[개인정보보호 우수사례-구미시] 전 직원의 ‘개인정보보호 전문가’ 목표 (보안뉴스 ─ SECURITY)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106918&amp;page=1&amp;mkind=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106918&amp;page=1&amp;mkind=1&amp;kind=2</guid>
-            <pubDate>Sun, 22 May 2022 17:15:50 GMT</pubDate>
-            <content:encoded><![CDATA[경상북도 서남부에 위치한 구미시는 인구 41만 명의 개인정보를 관리하는 기초자치단체다. 구미시는 2021년 행정안전부 ‘공공기관 개인정보 관리수준 진단’에서 최고등급인 양호등급을 받은 것은 물론 경상북도내 유일한 3연속 최고등급 달성 기관이기도 하다. 개인정보의 중요성...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[우정사업본부, 자율주행 무인우체국 상용화 앞당긴다 (보안뉴스 ─ IT)]]></title>
