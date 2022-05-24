@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 May 2022 08:33:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 May 2022 09:27:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -128,14 +128,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/umsung_0520_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[오픈소스 보안 강화를 위해 본격적으로 움직이기 시작한 미국의 조직들]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106823&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106823&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Mon, 23 May 2022 03:21:03 GMT</pubDate>
-            <content:encoded><![CDATA[전 세계 수만 개의 오픈소스 프로젝트들과, 그 오픈소스를 활용하여 각종 소프트웨어와 애플리케이션을 개발하고 있는 개발자들에게 희소식이 있다. 지난 주 리눅스재단,...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/dev-thumb-0517.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[과기정통부, ‘시큐레터’ 등 ICT 분야 유망기업 ‘미래 유니콘’으로 키운다]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=106898&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=106898&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
@@ -158,6 +150,14 @@
             <pubDate>Tue, 24 May 2022 07:17:24 GMT</pubDate>
             <content:encoded><![CDATA[국내 기업들의 핵심기술 보안에 빨간불이 켜졌다. 안마의자 기업 바디프랜드의 전 임원 A씨가 핵심기술을 빼돌려 중국으로 유출한 정황으로 경찰의 수사를 받고 있는 것...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/21612701_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘잃어버린 암호화폐 찾아드립니다!’ 도움말 사칭한 악성메일 발견]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106843&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106843&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
+            <pubDate>Tue, 24 May 2022 09:24:33 GMT</pubDate>
+            <content:encoded><![CDATA[최근 암호화폐에 대한 관심이 높아지는 가운데, 분실 코인 찾기 도움말을 위장한 악성코드 유포 사례가 발견돼 사용자의 주의가 당부된다고 안랩(대표 강석균)이 밝혔다...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/ahn_0518%20(1)_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[러시아와 우크라이나 전쟁을 맞아 CSO들이 자문해야 할 것 5가지]]></title>
