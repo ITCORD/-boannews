@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=4</id>
     <title>보안뉴스 ─ SAFETY</title>
-    <updated>2022-05-23T23:21:01.964Z</updated>
+    <updated>2022-05-24T01:30:13.299Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[서울소방, 빅데이터·AI 적용한 ‘재난대응 디지털 플랫폼’ 구축한다]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=106915&amp;page=1&amp;mkind=4&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=106915&amp;page=1&amp;mkind=4&amp;kind=2"/>
+        <updated>2022-05-24T01:27:53.420Z</updated>
+        <content type="html"><![CDATA[서울시 소방재난본부는 대도시의 특수성과 재난·사고 발생 현황 등을 반영해 4차 산업혁명 기술을 접목한 재난대응 디지털 플랫폼을 구축한다고 밝혔다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2021년도 영아 구급출동 3분의 1이 생활안전사고, 떨어짐 사고 가장 많아]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=106912&amp;page=1&amp;mkind=4&amp;kind=2</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=106735&amp;page=1&amp;mkind=4&amp;kind=2"/>
         <updated>2022-05-22T17:16:14.198Z</updated>
         <content type="html"><![CDATA[한국수력원자력 한울원자력본부는 지난 11일 신한울1발전소 일대에서 테러에 대비한 민·관·군·경·소방 통합 방호 훈련을 실시했다. 이번 훈련은 육군 50사단 주관하에 국내외 안보 전환기에 민·관·군·경·소방의 확고한 통합 대테러 대비 태세를 완비하고 현장 대응 위주 작전...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영등포구, ‘사람 중심’ 안전한 교통환경 조성 총력... 45억 9,000만원 투입]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=106733&amp;page=1&amp;mkind=4&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=106733&amp;page=1&amp;mkind=4&amp;kind=2"/>
-        <updated>2022-05-22T17:16:14.198Z</updated>
-        <content type="html"><![CDATA[영등포구가 지역 내 교통사고 예방을 위한 종합대책을 추진하며 사람 중심의 교통안전도시 구현에 박차를 가한다. 지난해 영등포구 관내 교통사고 현황을 분석한 결과, 교통사망사고 원인 중 가장 큰 비율인 약 45%가 전방 주시 태만, 운전 미숙 등 안전운전 불이행 때문인 것...]]></content>
     </entry>
 </feed>
