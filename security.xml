@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-05-24T11:19:28.793Z</updated>
+    <updated>2022-05-24T12:37:21.893Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[가짜뉴스 살포 위해 사용되고 있는 러시아산 IoT 봇넷, 프론톤]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107002&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107002&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-05-24T12:34:22.047Z</updated>
+        <content type="html"><![CDATA[보안 외신 해커뉴스에 의하면 2020년 3월 세상에 처음 공개된 사물인터넷 봇넷 프론톤(Fronton)이 현재 훨씬 강력해진 모습으로 활동하고 있다고 한다. 보안 업체 니소스(Nisos)가 조사한 바에 따르면 현재 프론톤은 각종 소셜미디어 플랫폼에서 러시아 정권에 유리...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[얼굴인식 업체 클리어뷰AI, 영국에서 940만 달러 벌금형 선고 받아]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=107001&amp;page=1&amp;mkind=1&amp;kind=1</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=106960&amp;page=1&amp;mkind=1&amp;kind=5"/>
         <updated>2022-05-24T01:27:29.553Z</updated>
         <content type="html"><![CDATA[조직이 디지털 혁신 경로를 따라갈수록 전반적인 보안 태세 확립에 있어 API 보안은 더욱 중요해지고 있다. 매일 개발팀은 혁신을 거듭하고 있다. 그들은 B2B 프로세스를 자동화하고, 모바일 애플리케이션을 위한 백엔드를 제공함에 따라 시간과 비용을 절약하기 위해 마이크로...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SGA솔루션즈, 시스템 접근통제 기업 에스지앤 인수... 1위 통합보안 기업 목표]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=106962&amp;page=1&amp;mkind=1&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=106962&amp;page=1&amp;mkind=1&amp;kind=3"/>
-        <updated>2022-05-23T14:28:47.912Z</updated>
-        <content type="html"><![CDATA[통합보안 전문 기업 SGA솔루션즈(대표 최영철)는 시스템 접근통제 솔루션 기업 에스지앤(대표 강현모)의 지분 및 경영권을 인수한다고 지난 20일 공시를 통해 밝혔다.]]></content>
     </entry>
 </feed>

@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 May 2022 11:19:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 May 2022 12:37:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[개발자들의 필수 방문지인 공공 리포지터리가 위험하다 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107007&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107007&amp;page=1&amp;kind=1</guid>
+            <pubDate>Tue, 24 May 2022 12:33:50 GMT</pubDate>
+            <content:encoded><![CDATA[오픈소스 코드가 저장되고 공유되는 공공 리포지터리는 소프트웨어 공급망을 구성하는 요소 중 가장 중요한 부분을 차지하고 있다고 해도 과언이 아니다. 그렇기 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/py-thumb-0524.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[개인정보보호 우수사례-새만금개발청] 글로벌 명품 새만금, 개인정보보호로 세운다 (보안뉴스 ─ 전체기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=106964&amp;page=1&amp;kind=2</link>
@@ -80,14 +88,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/21971405_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[페이팔의 시스템 오류 이용한 해커들, 사용자 계정으로부터 돈 훔칠 수 있어 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106996&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106996&amp;page=1&amp;kind=1</guid>
-            <pubDate>Tue, 24 May 2022 03:23:49 GMT</pubDate>
-            <content:encoded><![CDATA[보안 블로그 시큐리티어페어즈에 의하면 최근 페이팔 시스템에서 오류가 발견되었다고 한다. 아직 패치가 되지 않았으며, 공격자들이 이를 익스플로잇 할 경우 고...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/21478007_copy_295x190_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[SR, 전사 안전점검의 날 맞아 현장 안전점검 (보안뉴스 ─ 전체기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107006&amp;page=1&amp;kind=3</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107006&amp;page=1&amp;kind=3</guid>
@@ -102,6 +102,14 @@
             <pubDate>Tue, 24 May 2022 03:23:49 GMT</pubDate>
             <content:encoded><![CDATA[화웨이는 지난 19일부터 이틀간 개최한 ‘화웨이 APAC 디지털 혁신 콩그레스(Huawei APAC Digital Innovation Congress)’에...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/huawei_052401_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[페이팔의 시스템 오류 이용한 해커들, 사용자 계정으로부터 돈 훔칠 수 있어 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106996&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106996&amp;page=1&amp;kind=1</guid>
+            <pubDate>Tue, 24 May 2022 03:23:49 GMT</pubDate>
+            <content:encoded><![CDATA[보안 블로그 시큐리티어페어즈에 의하면 최근 페이팔 시스템에서 오류가 발견되었다고 한다. 아직 패치가 되지 않았으며, 공격자들이 이를 익스플로잇 할 경우 고...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/21478007_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[양자보안, 일상 속으로 성큼 (보안뉴스 ─ 전체기사)]]></title>
@@ -234,13 +242,6 @@
             <guid>https://www.boannews.com/media/view.asp?idx=106984&amp;page=1&amp;kind=3</guid>
             <pubDate>Tue, 24 May 2022 01:27:03 GMT</pubDate>
             <content:encoded><![CDATA[오토에버와 함께일하는재단이 정보보안 IT 꿈나무 고교생 참가자를 모집해 화이트해커 양성에 나선다. 현대오토에버가 주최하고 함께일하는재단이 주관하는 2022...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[울산시, 구·군 및 공공기관 ‘정보보안 역량 강화 특별 교육’ 실시 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106985&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106985&amp;page=1&amp;kind=2</guid>
-            <pubDate>Tue, 24 May 2022 01:27:03 GMT</pubDate>
-            <content:encoded><![CDATA[울산시는 지난 23일 구·군 및 공공기관 정보보안 담당자 등 27명이 참석한 가운데 ‘정보보안 역량 강화 특별 교육’을 실시했다. 이번 교육은 급증하고 있...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[단독] 토론회 개최한 태영호 의원실 사칭 북한 해킹 메일 공격 포착됐다 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
@@ -387,6 +388,14 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/21612701_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[윤석열-바이든 한미정상회담, 핵심의제로 급부상한 ‘사이버 보안’ (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106943&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106943&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
+            <pubDate>Tue, 24 May 2022 10:19:38 GMT</pubDate>
+            <content:encoded><![CDATA[5월 21일 한국의 윤석열 대통령과 미국의 조 바이든 대통령이 한미 정상 공동기자회견을 통해 언급한 공동선언문에서 ‘사이버 보안’이 핵심의제 가운데 하나로 급부상...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/20220522summit-s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[‘잃어버린 암호화폐 찾아드립니다!’ 도움말 사칭한 악성메일 발견 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=106843&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=106843&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
@@ -395,12 +404,11 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/ahn_0518%20(1)_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[윤석열-바이든 한미정상회담, 핵심의제로 급부상한 ‘사이버 보안’ (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106943&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106943&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
-            <pubDate>Tue, 24 May 2022 10:19:38 GMT</pubDate>
-            <content:encoded><![CDATA[5월 21일 한국의 윤석열 대통령과 미국의 조 바이든 대통령이 한미 정상 공동기자회견을 통해 언급한 공동선언문에서 ‘사이버 보안’이 핵심의제 가운데 하나로 급부상...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/20220522summit-s.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[가짜뉴스 살포 위해 사용되고 있는 러시아산 IoT 봇넷, 프론톤 (보안뉴스 ─ SECURITY)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107002&amp;page=1&amp;mkind=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107002&amp;page=1&amp;mkind=1&amp;kind=1</guid>
+            <pubDate>Tue, 24 May 2022 12:34:22 GMT</pubDate>
+            <content:encoded><![CDATA[보안 외신 해커뉴스에 의하면 2020년 3월 세상에 처음 공개된 사물인터넷 봇넷 프론톤(Fronton)이 현재 훨씬 강력해진 모습으로 활동하고 있다고 한다. 보안 업체 니소스(Nisos)가 조사한 바에 따르면 현재 프론톤은 각종 소셜미디어 플랫폼에서 러시아 정권에 유리...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[얼굴인식 업체 클리어뷰AI, 영국에서 940만 달러 벌금형 선고 받아 (보안뉴스 ─ SECURITY)]]></title>
@@ -513,13 +521,6 @@
             <guid>https://www.boannews.com/media/view.asp?idx=106960&amp;page=1&amp;mkind=1&amp;kind=5</guid>
             <pubDate>Tue, 24 May 2022 01:27:29 GMT</pubDate>
             <content:encoded><![CDATA[조직이 디지털 혁신 경로를 따라갈수록 전반적인 보안 태세 확립에 있어 API 보안은 더욱 중요해지고 있다. 매일 개발팀은 혁신을 거듭하고 있다. 그들은 B2B 프로세스를 자동화하고, 모바일 애플리케이션을 위한 백엔드를 제공함에 따라 시간과 비용을 절약하기 위해 마이크로...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[SGA솔루션즈, 시스템 접근통제 기업 에스지앤 인수... 1위 통합보안 기업 목표 (보안뉴스 ─ SECURITY)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106962&amp;page=1&amp;mkind=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106962&amp;page=1&amp;mkind=1&amp;kind=3</guid>
-            <pubDate>Mon, 23 May 2022 14:28:47 GMT</pubDate>
-            <content:encoded><![CDATA[통합보안 전문 기업 SGA솔루션즈(대표 최영철)는 시스템 접근통제 솔루션 기업 에스지앤(대표 강현모)의 지분 및 경영권을 인수한다고 지난 20일 공시를 통해 밝혔다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[R&D-표준 연계 강화로 신성장 분야 사업화 지원한다 (보안뉴스 ─ IT)]]></title>
@@ -1896,6 +1897,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/kisa_042601_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[개발자들의 필수 방문지인 공공 리포지터리가 위험하다 (보안뉴스 ─ 국제)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107007&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107007&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
+            <pubDate>Tue, 24 May 2022 12:36:27 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/view.asp?idx=107007&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
+					
+					<img src="/media/upFiles2/2022/05/py-thumb-0524.jpg" alt="" class="news_img" height="70">
+					
+					<span class="news_txt">개발자들의 필수 방문지인 공공 리포지터리가 위험하다</span>
+					</a><br>
+					<a href="/media/view.asp?idx=107007&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">오픈소스 코드가 저장되고 공유되는 공공 리포지터리는 소프트웨어 공급망을 구성하는 요소 중 가장 중요한 부분을 차지하고 있다고 해도 과언이 아니다. 그렇기 때문에 ...</a> <span class="news_writer">문가용 기자 | 2022년 05월 24일 20:29</span>]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/py-thumb-0524.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[디지털 전환의 성공률을 높이는 4가지 방법 (보안뉴스 ─ 국제)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=106968&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=D&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=106968&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=D&amp;search=title&amp;find=</guid>
@@ -2160,20 +2175,6 @@
 					</a><br>
 					<a href="/media/view.asp?idx=106900&amp;page=1&amp;mkind=&amp;kind=4&amp;skind=D&amp;search=title&amp;find=">핀옵스(FinOps)라는 것이 세계 최초로 정식 서비스되기 시작할 때 필자도 그 과정에 관여하고 있었다. 그 때 우리는 우리가 하는 일들을 핀옵스라 부르지 않았고...</a> <span class="news_writer">문가용 기자 | 2022년 05월 20일 13:17</span>]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/sell-thumb-0519.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[폰투온 해킹 대회, 첫 날부터 박살난 윈도 11, 팀즈, 파이어폭스, 버추얼박스 (보안뉴스 ─ 국제)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106922&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106922&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
-            <pubDate>Sun, 22 May 2022 17:17:45 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/view.asp?idx=106922&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
-					
-					<img src="/media/upFiles2/2022/05/12814235_copy_295x190_1.jpg" alt="" class="news_img" height="70">
-					
-					<span class="news_txt">폰투온 해킹 대회, 첫 날부터 박살난 윈도 11, 팀즈, 파이어폭스, 버추얼박스</span>
-					</a><br>
-					<a href="/media/view.asp?idx=106922&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">보안 외신 핵리드에 의하면 현재 캐나다 뱅쿠버에서 열리고 있는 폰투온(Pwn2Own) 해킹 대회에서 첫 날부터 대기업들이 망신을 당하고 있다고 한다. 마이크로소프...</a> <span class="news_writer">문가용 기자 | 2022년 05월 20일 11:45</span>]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/12814235_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[영상보안 분야 상장기업 8곳, 지난해 활약상과 2022년 청사진 (보안뉴스 ─ 기획특집)]]></title>

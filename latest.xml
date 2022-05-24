@@ -4,9 +4,17 @@
         <title>보안뉴스 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 24 May 2022 11:19:28 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 May 2022 12:37:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[개발자들의 필수 방문지인 공공 리포지터리가 위험하다]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107007&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107007&amp;page=1&amp;kind=1</guid>
+            <pubDate>Tue, 24 May 2022 12:33:50 GMT</pubDate>
+            <content:encoded><![CDATA[오픈소스 코드가 저장되고 공유되는 공공 리포지터리는 소프트웨어 공급망을 구성하는 요소 중 가장 중요한 부분을 차지하고 있다고 해도 과언이 아니다. 그렇기 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/py-thumb-0524.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[개인정보보호 우수사례-새만금개발청] 글로벌 명품 새만금, 개인정보보호로 세운다]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=106964&amp;page=1&amp;kind=2</link>
@@ -80,14 +88,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/21971405_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[페이팔의 시스템 오류 이용한 해커들, 사용자 계정으로부터 돈 훔칠 수 있어]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106996&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106996&amp;page=1&amp;kind=1</guid>
-            <pubDate>Tue, 24 May 2022 03:23:49 GMT</pubDate>
-            <content:encoded><![CDATA[보안 블로그 시큐리티어페어즈에 의하면 최근 페이팔 시스템에서 오류가 발견되었다고 한다. 아직 패치가 되지 않았으며, 공격자들이 이를 익스플로잇 할 경우 고...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/21478007_copy_295x190_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[SR, 전사 안전점검의 날 맞아 현장 안전점검]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107006&amp;page=1&amp;kind=3</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107006&amp;page=1&amp;kind=3</guid>
@@ -102,6 +102,14 @@
             <pubDate>Tue, 24 May 2022 03:23:49 GMT</pubDate>
             <content:encoded><![CDATA[화웨이는 지난 19일부터 이틀간 개최한 ‘화웨이 APAC 디지털 혁신 콩그레스(Huawei APAC Digital Innovation Congress)’에...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/huawei_052401_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[페이팔의 시스템 오류 이용한 해커들, 사용자 계정으로부터 돈 훔칠 수 있어]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106996&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106996&amp;page=1&amp;kind=1</guid>
+            <pubDate>Tue, 24 May 2022 03:23:49 GMT</pubDate>
+            <content:encoded><![CDATA[보안 블로그 시큐리티어페어즈에 의하면 최근 페이팔 시스템에서 오류가 발견되었다고 한다. 아직 패치가 되지 않았으며, 공격자들이 이를 익스플로잇 할 경우 고...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/21478007_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[양자보안, 일상 속으로 성큼]]></title>
@@ -234,13 +242,6 @@
             <guid>https://www.boannews.com/media/view.asp?idx=106984&amp;page=1&amp;kind=3</guid>
             <pubDate>Tue, 24 May 2022 01:27:03 GMT</pubDate>
             <content:encoded><![CDATA[오토에버와 함께일하는재단이 정보보안 IT 꿈나무 고교생 참가자를 모집해 화이트해커 양성에 나선다. 현대오토에버가 주최하고 함께일하는재단이 주관하는 2022...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[울산시, 구·군 및 공공기관 ‘정보보안 역량 강화 특별 교육’ 실시]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106985&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106985&amp;page=1&amp;kind=2</guid>
-            <pubDate>Tue, 24 May 2022 01:27:03 GMT</pubDate>
-            <content:encoded><![CDATA[울산시는 지난 23일 구·군 및 공공기관 정보보안 담당자 등 27명이 참석한 가운데 ‘정보보안 역량 강화 특별 교육’을 실시했다. 이번 교육은 급증하고 있...]]></content:encoded>
         </item>
     </channel>
 </rss>
