@@ -4,9 +4,57 @@
         <title>보안뉴스 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 May 2022 01:28:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 May 2022 03:22:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[가짜 윈도 업데이트로 러시아 정보 기관 노리는 해커들]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107035&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107035&amp;page=1&amp;kind=1</guid>
+            <pubDate>Wed, 25 May 2022 03:19:50 GMT</pubDate>
+            <content:encoded><![CDATA[IT 외신 블리핑컴퓨터에 의하면 러시아 정부 기관들이 여러 해커들의 표적이 되고 있다고 한다. 최근 일부 해커들이 가짜 윈도 업데이트 파일로 원격 접근 도...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/21652253_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[파이선 개발자들의 리포지터리에서 가짜 Ctx 패키지 퍼지고 있어]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107034&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107034&amp;page=1&amp;kind=1</guid>
+            <pubDate>Wed, 25 May 2022 03:19:50 GMT</pubDate>
+            <content:encoded><![CDATA[보안 외신 시큐리티위크에 의하면 파이선 개발자들 사이에서 가장 유명한 리포지터리인 PyPI에서 또 다른 악성 코드 유포 시도가 있었다고 한다. 아직 신원을...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/17407682_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[우크라이나와 러시아인들의 개인정보 수천만 건 온라인에 공개돼]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107033&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107033&amp;page=1&amp;kind=1</guid>
+            <pubDate>Wed, 25 May 2022 03:19:50 GMT</pubDate>
+            <content:encoded><![CDATA[보안 외신 핵리드에 의하면 엘라스틱서치(ElasticSearch)의 서버 하나가 잘못 설정되는 바람에 147GB의 데이터가 유출됐다고 한다. 여기에는 8억...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/17557902_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[새로운 카오스 랜섬웨어 빌더, 해커들 사이에서 인지도 높이고 있어]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107031&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107031&amp;page=1&amp;kind=1</guid>
+            <pubDate>Wed, 25 May 2022 03:19:50 GMT</pubDate>
+            <content:encoded><![CDATA[보안 외신 해커뉴스에 의하면 보안 업체 블랙베리(BlackBerry)의 보안 전문가들이 카오스(Chaos)라는 랜섬웨어의 새로운 빌더를 발견했다고 한다. ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/21971066_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[인터폴, “국가 지원 해커들의 무기, 곧 일반 해커들에게도 퍼질 수 있다”]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107030&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107030&amp;page=1&amp;kind=1</guid>
+            <pubDate>Wed, 25 May 2022 03:19:50 GMT</pubDate>
+            <content:encoded><![CDATA[보안 블로그 시큐리티어페어즈에 의하면 국가 지원 해커들만이 사용할 수 있었던 고급 공격 도구들이 일반 해커들 사이에서도 흔한 것이 될 가능성이 매우 높다는...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/20696213_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[프레데이터 스파이웨어, 크롬과 안드로이드 제로데이 익스플로잇과 같이 판매돼]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107029&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107029&amp;page=1&amp;kind=1</guid>
+            <pubDate>Wed, 25 May 2022 03:19:50 GMT</pubDate>
+            <content:encoded><![CDATA[IT 외신 더레지스터에 의하면 스파이웨어 제조사인 사이트록스(Cytrox)가 정부 기관들에 프레데이터(Predator)라는 스파이웨어를 판매할 때 다섯 가...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/22065789_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[개발자들의 필수 방문지인 공공 리포지터리가 위험하다]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107007&amp;page=1&amp;kind=1</link>
@@ -40,52 +88,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/10741910_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[가명정보 활용의 유용성 알릴 우수사례 및 아이디어 모집한다]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106998&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106998&amp;page=1&amp;kind=2</guid>
-            <pubDate>Tue, 24 May 2022 04:33:54 GMT</pubDate>
-            <content:encoded><![CDATA[개인정보보호위원회(위원장 윤종인, 이하 개인정보위)는 과학기술정보통신부(장관 이종호), 보건복지부(장관 권덕철), 금융위원회(위원장 고승범), 국세청(청장...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/msit_052402_main.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[전남도, 양봉 사양 관리 ‘인공지능 시대’ 선도]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107010&amp;page=1&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107010&amp;page=1&amp;kind=2</guid>
+            <pubDate>Wed, 25 May 2022 03:19:50 GMT</pubDate>
+            <content:encoded><![CDATA[전남농업기술원은 양봉농가의 고령화와 지구온난화에 따른 이상기후 변화에 대응하기 위해 꿀벌 활동 생체정보 등 빅데이터를 이용한 스마트 양봉기술 개발에 착수,...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/5-219(295)(0).jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[가짜뉴스 살포 위해 사용되고 있는 러시아산 IoT 봇넷, 프론톤]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107002&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107002&amp;page=1&amp;kind=1</guid>
-            <pubDate>Tue, 24 May 2022 03:23:49 GMT</pubDate>
-            <content:encoded><![CDATA[보안 외신 해커뉴스에 의하면 2020년 3월 세상에 처음 공개된 사물인터넷 봇넷 프론톤(Fronton)이 현재 훨씬 강력해진 모습으로 활동하고 있다고 한다...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/17195683_copy_295x190_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[얼굴인식 업체 클리어뷰AI, 영국에서 940만 달러 벌금형 선고 받아]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107001&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107001&amp;page=1&amp;kind=1</guid>
-            <pubDate>Tue, 24 May 2022 03:23:49 GMT</pubDate>
-            <content:encoded><![CDATA[보안 외신 시큐리티위크에 따르면 영국 정보 위원회(ICO)가 얼굴인식 전문 업체인 클리어뷰AI(Clearview AI)에 940만 달러에 달하는 벌금형을 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/19754024_copy_295x190_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[어나니머스, 친러 성향 해킹 단체인 킬넷에 전쟁 선포]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107000&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107000&amp;page=1&amp;kind=1</guid>
-            <pubDate>Tue, 24 May 2022 03:23:49 GMT</pubDate>
-            <content:encoded><![CDATA[보안 외신 핵리드에 의하면 핵티비스트 단체 어나니머스가 친러 성향 해킹 단체인 킬넷(Killnet)에 전쟁을 선포했다고 한다. 최근 킬넷은 유럽 여러 국가...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/20300698_copy_295x190_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스네이크키로거, 악성 PDF 타고 인터넷 상에 퍼지고 있어]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106999&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106999&amp;page=1&amp;kind=1</guid>
-            <pubDate>Tue, 24 May 2022 03:23:49 GMT</pubDate>
-            <content:encoded><![CDATA[보안 외신 쓰레트포스트에 의하면 스네이크키로거(Snake Keylogger)라는 멀웨어가 악성 PDF 문서를 이용해 빠르게 번져가고 있다고 한다. 공격자들...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/20366950_copy_295x190_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[GM 겨냥한 크리덴셜 스터핑 공격, 고객 정보 노출시켜]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106997&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106997&amp;page=1&amp;kind=1</guid>
-            <pubDate>Tue, 24 May 2022 03:23:49 GMT</pubDate>
-            <content:encoded><![CDATA[미국의 대형 자동차 생산 업자인 GM이 해커들의 크리덴셜 스터핑 공격에 당했다는 보도가 IT 외신인 블리핑컴퓨터로부터 나왔다. 공격은 지난 달에 발생했고,...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/21971405_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[경기도, 메타버스 시대 선도할 인재 육성한다]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107011&amp;page=1&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107011&amp;page=1&amp;kind=2</guid>
+            <pubDate>Wed, 25 May 2022 03:19:50 GMT</pubDate>
+            <content:encoded><![CDATA[경기도가 메타버스 전문인력 육성을 위한 ‘2022년 경기 메타버스 아카데미’ 기본 과정 교육생을 다음 달 3일까지 모집한다고 밝혔다. 올해 신규 추진되는 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/5-220(295)(0).jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[경기도, 콘티넨탈 미래차 연구소 연계 스마트시티 시범 사업 시군 간담회 개최]]></title>
@@ -200,6 +216,14 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/22052403ss.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[가명정보 활용의 유용성 알릴 우수사례 및 아이디어 모집한다]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106998&amp;page=1&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106998&amp;page=1&amp;kind=2</guid>
+            <pubDate>Tue, 24 May 2022 04:33:54 GMT</pubDate>
+            <content:encoded><![CDATA[개인정보보호위원회(위원장 윤종인, 이하 개인정보위)는 과학기술정보통신부(장관 이종호), 보건복지부(장관 권덕철), 금융위원회(위원장 고승범), 국세청(청장...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/msit_052402_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[화웨이, ‘디지털 경제 기회 공유 및 개방형 산업 생태계 조성’]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107003&amp;page=1&amp;kind=3</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107003&amp;page=1&amp;kind=3</guid>
@@ -208,35 +232,12 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/huawei_052401_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[페이팔의 시스템 오류 이용한 해커들, 사용자 계정으로부터 돈 훔칠 수 있어]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106996&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106996&amp;page=1&amp;kind=1</guid>
+            <title><![CDATA[가짜뉴스 살포 위해 사용되고 있는 러시아산 IoT 봇넷, 프론톤]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107002&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107002&amp;page=1&amp;kind=1</guid>
             <pubDate>Tue, 24 May 2022 03:23:49 GMT</pubDate>
-            <content:encoded><![CDATA[보안 블로그 시큐리티어페어즈에 의하면 최근 페이팔 시스템에서 오류가 발견되었다고 한다. 아직 패치가 되지 않았으며, 공격자들이 이를 익스플로잇 할 경우 고...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/21478007_copy_295x190_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[양자보안, 일상 속으로 성큼]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106995&amp;page=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106995&amp;page=1&amp;kind=3</guid>
-            <pubDate>Tue, 24 May 2022 03:23:49 GMT</pubDate>
-            <content:encoded><![CDATA[공공기관 화상회의 시스템에 ‘양자보안’이 국내 최초로 시범 적용된다. 클라우드 서비스와 무인정산 시스템 등 민간부문 보안성 강화에도 양자 알고리즘이 신규 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/ictk_052401_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[R&D-표준 연계 강화로 신성장 분야 사업화 지원한다]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106971&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106971&amp;page=1&amp;kind=2</guid>
-            <pubDate>Tue, 24 May 2022 03:23:49 GMT</pubDate>
-            <content:encoded><![CDATA[산업통상자원부 국가기술표준원은 지난 23일 ‘신성장 분야 국가표준코디네이터 표준화 전략 설명회’를 개최하고, 서비스·자율차·탄소중립 등 주요 산업 분야의 ...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[민·관·군·경, 드론 영상 공유체계 구축으로 재난 발생 즉각 대응한다]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106974&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106974&amp;page=1&amp;kind=2</guid>
-            <pubDate>Tue, 24 May 2022 03:23:49 GMT</pubDate>
-            <content:encoded><![CDATA[행정안전부는 지자체가 적극적인 행정을 통해 불합리한 규제를 개선하고, 지역경제 활성화 및 주민의 삶의 질 향상에 기여한 ‘규제 애로 해소 우수 사례 8건’...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/5-204(295).jpg" length="0" type="image/jpg"/>
+            <content:encoded><![CDATA[보안 외신 해커뉴스에 의하면 2020년 3월 세상에 처음 공개된 사물인터넷 봇넷 프론톤(Fronton)이 현재 훨씬 강력해진 모습으로 활동하고 있다고 한다...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/17195683_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

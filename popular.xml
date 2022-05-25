@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 May 2022 01:28:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 May 2022 03:22:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -88,14 +88,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/pat-thumb-0519.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[북한의 개발자들, 프리랜서로 취업해 북한 정부 도와]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106854&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106854&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Sun, 22 May 2022 17:15:34 GMT</pubDate>
-            <content:encoded><![CDATA[미국 정부가 북한 해커들에 대한 새로운 경고를 발표했다고 IT 전문 외신인 블리핑컴퓨터가 보도했다. 북한 정부가 북한의 개발자 및 해커들을 전 세계로 내보내고 있...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/21929826_copy_295x190_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[구글, 오픈소스 강화 위한 유료 큐레이션 서비스 곧 출시]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=106856&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=106856&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
@@ -128,22 +120,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/umsung_0520_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[과기정통부, ‘시큐레터’ 등 ICT 분야 유망기업 ‘미래 유니콘’으로 키운다]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106898&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106898&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
-            <pubDate>Mon, 23 May 2022 03:21:03 GMT</pubDate>
-            <content:encoded><![CDATA[학기술정보통신부(장관 이종호, 이하 ‘과기정통부’)가 2022년 글로벌 ICT 미래 유니콘 육성사업(ICT GROWTH 사업)에 최종 선정된 15개 기업을 발표한...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/msit_051901_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[API 보안, 필수 애플리케이션 보안전략으로 만드는 방법]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106960&amp;page=1&amp;kind=5&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106960&amp;page=1&amp;kind=5&amp;search=title&amp;find=</guid>
-            <pubDate>Tue, 24 May 2022 04:34:14 GMT</pubDate>
-            <content:encoded><![CDATA[조직이 디지털 혁신 경로를 따라갈수록 전반적인 보안 태세 확립에 있어 API 보안은 더욱 중요해지고 있다. 매일 개발팀은 혁신을 거듭하고 있다. 그들은 B2B 프...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/API-C(0).jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[정재동의 창업에세이-5] 학생창업 성공! 액셀러레이터의 도움으로]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107004&amp;page=1&amp;kind=6&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107004&amp;page=1&amp;kind=6&amp;search=title&amp;find=</guid>
@@ -160,12 +136,36 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/msit_052402_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[과기정통부, ‘시큐레터’ 등 ICT 분야 유망기업 ‘미래 유니콘’으로 키운다]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106898&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106898&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
+            <pubDate>Mon, 23 May 2022 03:21:03 GMT</pubDate>
+            <content:encoded><![CDATA[학기술정보통신부(장관 이종호, 이하 ‘과기정통부’)가 2022년 글로벌 ICT 미래 유니콘 육성사업(ICT GROWTH 사업)에 최종 선정된 15개 기업을 발표한...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/msit_051901_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[API 보안, 필수 애플리케이션 보안전략으로 만드는 방법]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106960&amp;page=1&amp;kind=5&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106960&amp;page=1&amp;kind=5&amp;search=title&amp;find=</guid>
+            <pubDate>Tue, 24 May 2022 04:34:14 GMT</pubDate>
+            <content:encoded><![CDATA[조직이 디지털 혁신 경로를 따라갈수록 전반적인 보안 태세 확립에 있어 API 보안은 더욱 중요해지고 있다. 매일 개발팀은 혁신을 거듭하고 있다. 그들은 B2B 프...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/API-C(0).jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[윤석열-바이든 한미정상회담, 핵심의제로 급부상한 ‘사이버 보안’]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=106943&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=106943&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
             <pubDate>Tue, 24 May 2022 10:19:38 GMT</pubDate>
             <content:encoded><![CDATA[5월 21일 한국의 윤석열 대통령과 미국의 조 바이든 대통령이 한미 정상 공동기자회견을 통해 언급한 공동선언문에서 ‘사이버 보안’이 핵심의제 가운데 하나로 급부상...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/20220522summit-s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[개인정보보호 우수사례-새만금개발청] 글로벌 명품 새만금, 개인정보보호로 세운다]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106964&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106964&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
+            <pubDate>Wed, 25 May 2022 03:20:03 GMT</pubDate>
+            <content:encoded><![CDATA[새만금개발청은 개인정보보호위원회가 주관하는 2021년도 공공기관 개인정보 관리수준 진단에서 100점 만점이라는 평가를 받았고, 2019년부터 3년 연속 최고등급인...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/saeman_0523_main.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
