@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 May 2022 21:20:04 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 May 2022 22:20:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -136,14 +136,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/API-C(0).jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[개인정보보호 우수사례-새만금개발청] 글로벌 명품 새만금, 개인정보보호로 세운다]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106964&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106964&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
-            <pubDate>Wed, 25 May 2022 03:20:03 GMT</pubDate>
-            <content:encoded><![CDATA[새만금개발청은 개인정보보호위원회가 주관하는 2021년도 공공기관 개인정보 관리수준 진단에서 100점 만점이라는 평가를 받았고, 2019년부터 3년 연속 최고등급인...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/saeman_0523_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[가짜 윈도 업데이트로 러시아 정보 기관 노리는 해커들]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107035&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107035&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
@@ -152,20 +144,28 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/21652253_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[개인정보보호 우수사례-새만금개발청] 글로벌 명품 새만금, 개인정보보호로 세운다]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106964&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106964&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
+            <pubDate>Wed, 25 May 2022 03:20:03 GMT</pubDate>
+            <content:encoded><![CDATA[새만금개발청은 개인정보보호위원회가 주관하는 2021년도 공공기관 개인정보 관리수준 진단에서 100점 만점이라는 평가를 받았고, 2019년부터 3년 연속 최고등급인...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/saeman_0523_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[개인정보보호 우수사례-SR] 누적고객 1억명의 개인정보를 보호하라]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107005&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107005&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Wed, 25 May 2022 22:18:10 GMT</pubDate>
+            <content:encoded><![CDATA[대한민국 철도산업 발전과 국민안전 및 편익 제고라는 소임을 다하기 위해 2013년 12월에 설립되어 2016년 12월에 SRT 고속열차 운영을 개통한 에스알(이하...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/SR_0524_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[개발자들의 필수 방문지인 공공 리포지터리가 위험하다]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107007&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107007&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Wed, 25 May 2022 08:23:44 GMT</pubDate>
             <content:encoded><![CDATA[오픈소스 코드가 저장되고 공유되는 공공 리포지터리는 소프트웨어 공급망을 구성하는 요소 중 가장 중요한 부분을 차지하고 있다고 해도 과언이 아니다. 그렇기 때문에 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/py-thumb-0524.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[주피터 워드프레스 플러그인에서 여러 취약점 발견돼]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106889&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106889&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Wed, 25 May 2022 07:16:55 GMT</pubDate>
-            <content:encoded><![CDATA[IT 외신 블리핑컴퓨터에 의하면 주피터(Jupiter)라는 워드프레스 플러그인들에서 위험한 취약점들이 다수 발견됐다고 한다. 이 중 하나는 초고위험도로 분류됐으며...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/jup-thumb-0519.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
