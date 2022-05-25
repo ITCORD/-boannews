@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 May 2022 22:20:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 May 2022 23:20:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -312,20 +312,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/speed-thumb-0523.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Weekly Security Premium Report 제51호 발간! 워너크라이 랜섬웨어 사태 5주년 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106899&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106899&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
-            <pubDate>Sun, 22 May 2022 18:19:49 GMT</pubDate>
-            <content:encoded><![CDATA[5월 19일 발간된 ‘Weekly Security Premium Report’ 제51호에는 &lt;보안 심층 리포트&gt; 코너에서는 워너크라이가 세상을 뒤집은 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/20220519report-sm.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
             <title><![CDATA[[개인정보보호 우수사례-음성군] 충북 유일의 3연속 개인정보 우수기관 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=106957&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=106957&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
             <pubDate>Mon, 23 May 2022 22:18:54 GMT</pubDate>
             <content:encoded><![CDATA[충북 음성군은 2021년 행정안전부 ‘공공기관 개인정보 관리수준 진단’에서 13개 지표 중 9개 지표에서 만점을 획득해 3년 연속 최고등급인 양호등급을 달성했다....]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/umsung_0520_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Weekly Security Premium Report 제51호 발간! 워너크라이 랜섬웨어 사태 5주년 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106899&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106899&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
+            <pubDate>Sun, 22 May 2022 18:19:49 GMT</pubDate>
+            <content:encoded><![CDATA[5월 19일 발간된 ‘Weekly Security Premium Report’ 제51호에는 &lt;보안 심층 리포트&gt; 코너에서는 워너크라이가 세상을 뒤집은 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/20220519report-sm.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[[정재동의 창업에세이-5] 학생창업 성공! 액셀러레이터의 도움으로 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
@@ -342,6 +342,14 @@
             <pubDate>Wed, 25 May 2022 01:26:03 GMT</pubDate>
             <content:encoded><![CDATA[개인정보보호위원회(위원장 윤종인, 이하 개인정보위)는 과학기술정보통신부(장관 이종호), 보건복지부(장관 권덕철), 금융위원회(위원장 고승범), 국세청(청장 김대지...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/msit_052402_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[가짜 윈도 업데이트로 러시아 정보 기관 노리는 해커들 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107035&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107035&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Wed, 25 May 2022 20:18:56 GMT</pubDate>
+            <content:encoded><![CDATA[IT 외신 블리핑컴퓨터에 의하면 러시아 정부 기관들이 여러 해커들의 표적이 되고 있다고 한다. 최근 일부 해커들이 가짜 윈도 업데이트 파일로 원격 접근 도구(RA...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/21652253_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[과기정통부, ‘시큐레터’ 등 ICT 분야 유망기업 ‘미래 유니콘’으로 키운다 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
@@ -366,14 +374,6 @@
             <pubDate>Tue, 24 May 2022 04:34:14 GMT</pubDate>
             <content:encoded><![CDATA[조직이 디지털 혁신 경로를 따라갈수록 전반적인 보안 태세 확립에 있어 API 보안은 더욱 중요해지고 있다. 매일 개발팀은 혁신을 거듭하고 있다. 그들은 B2B 프...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/API-C(0).jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가짜 윈도 업데이트로 러시아 정보 기관 노리는 해커들 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107035&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107035&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Wed, 25 May 2022 20:18:56 GMT</pubDate>
-            <content:encoded><![CDATA[IT 외신 블리핑컴퓨터에 의하면 러시아 정부 기관들이 여러 해커들의 표적이 되고 있다고 한다. 최근 일부 해커들이 가짜 윈도 업데이트 파일로 원격 접근 도구(RA...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/21652253_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[개인정보보호 우수사례-새만금개발청] 글로벌 명품 새만금, 개인정보보호로 세운다 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
