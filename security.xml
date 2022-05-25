@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-05-25T04:34:26.170Z</updated>
+    <updated>2022-05-25T05:23:37.984Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[K-Shield 주니어 제8기 교육생 6월 3일까지 모집]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107027&amp;page=1&amp;mkind=1&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107027&amp;page=1&amp;mkind=1&amp;kind=2"/>
+        <updated>2022-05-25T05:21:08.419Z</updated>
+        <content type="html"><![CDATA[한국인터넷진흥원(KISA, 원장 이원태)은 과학기술정보통신부(장관 이종호)와 함께 실무에 즉각 투입 가능한 사이버보안 실무 인력을 양성하는 ‘K-Shield 주니어 제8기 교육생’을 오는 6월 3일(금)까지 모집한다고 밝혔다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[가짜 윈도 업데이트로 러시아 정보 기관 노리는 해커들]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=107035&amp;page=1&amp;mkind=1&amp;kind=1</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=106995&amp;page=1&amp;mkind=1&amp;kind=3"/>
         <updated>2022-05-24T03:24:26.834Z</updated>
         <content type="html"><![CDATA[공공기관 화상회의 시스템에 ‘양자보안’이 국내 최초로 시범 적용된다. 클라우드 서비스와 무인정산 시스템 등 민간부문 보안성 강화에도 양자 알고리즘이 신규 접목된다. 이를 위해, ‘보안 반도체’를 탑재한 강력한 물리적 양자보안 체계를 구축, 간편한 사용자 인증을 구현한다...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[PIS FAIR 2022 미리보기] 인트루바인·컴트루테크놀로지·이너버스]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=106824&amp;page=1&amp;mkind=1&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=106824&amp;page=1&amp;mkind=1&amp;kind=3"/>
-        <updated>2022-05-24T03:24:26.834Z</updated>
-        <content type="html"><![CDATA[한편, ‘데이터 경제 시대의 개인정보보호’를 주제로 6월 2일부터 3일까지 서울 코엑스 그랜드볼룸에서 개최되는 ‘제11회 개인정보보호 페어&amp;CPO워크숍’은 국내 최대 규모의 개인정보보호 콘퍼런스다. 개인정보보호위원회와 PIS FAIR 2022 조직위원회가 주최하고, 한...]]></content>
     </entry>
 </feed>
