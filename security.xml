@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-05-25T03:22:41.420Z</updated>
+    <updated>2022-05-25T04:34:26.170Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[가짜 윈도 업데이트로 러시아 정보 기관 노리는 해커들]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107035&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107035&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-05-25T04:31:27.825Z</updated>
+        <content type="html"><![CDATA[IT 외신 블리핑컴퓨터에 의하면 러시아 정부 기관들이 여러 해커들의 표적이 되고 있다고 한다. 최근 일부 해커들이 가짜 윈도 업데이트 파일로 원격 접근 도구(RAT)를 정부 기관 시스템들에 심고 있는 것이 포착됐다. 재미있는 건 이 공격의 배후 세력이 중국으로 보인다는...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[파이선 개발자들의 리포지터리에서 가짜 Ctx 패키지 퍼지고 있어]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107034&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107034&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-05-25T04:31:27.826Z</updated>
+        <content type="html"><![CDATA[보안 외신 시큐리티위크에 의하면 파이선 개발자들 사이에서 가장 유명한 리포지터리인 PyPI에서 또 다른 악성 코드 유포 시도가 있었다고 한다. 아직 신원을 알 수 없는 공격자들은 인기 높은 패키지인 Ctx 속에 악성 코드를 심었다. 이 악성 코드는 피해자의 AWS 크리...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[우크라이나와 러시아인들의 개인정보 수천만 건 온라인에 공개돼]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107033&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107033&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-05-25T04:31:27.828Z</updated>
+        <content type="html"><![CDATA[보안 외신 핵리드에 의하면 엘라스틱서치(ElasticSearch)의 서버 하나가 잘못 설정되는 바람에 147GB의 데이터가 유출됐다고 한다. 여기에는 8억 7천만 건의 기록들이 저장되어 있었다고 하는데, 보안 업체 세이프티디텍티브(SafetyDetectives)에 의하...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[새로운 카오스 랜섬웨어 빌더, 해커들 사이에서 인지도 높이고 있어]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=107031&amp;page=1&amp;mkind=1&amp;kind=1</id>
@@ -102,26 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=106824&amp;page=1&amp;mkind=1&amp;kind=3"/>
         <updated>2022-05-24T03:24:26.834Z</updated>
         <content type="html"><![CDATA[한편, ‘데이터 경제 시대의 개인정보보호’를 주제로 6월 2일부터 3일까지 서울 코엑스 그랜드볼룸에서 개최되는 ‘제11회 개인정보보호 페어&amp;CPO워크숍’은 국내 최대 규모의 개인정보보호 콘퍼런스다. 개인정보보호위원회와 PIS FAIR 2022 조직위원회가 주최하고, 한...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엑스트라홉, 사이버 교전 대응 보안 준수 지침  평가 서비스 무료 제공]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=106966&amp;page=1&amp;mkind=1&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=106966&amp;page=1&amp;mkind=1&amp;kind=3"/>
-        <updated>2022-05-24T03:24:26.835Z</updated>
-        <content type="html"><![CDATA[클라우드-네이티브 네트워크 탐지 및 대응 분야 선두기업인 엑스트라홉(지사장 김훈철)은 자사가 전 세계 보안 당국들이 네트워크 감시 및 보안 태세를 강화하기 위해 네트워크의 모든 불규칙성 또는 의심되는 문제들을 보고하도록 발표한 지침인 ‘쉴드업’ 준수 여부를 평가하는 ‘...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우리나라 주도로 개발된 정보보안 표준 4건,  국제표준으로 채택됐다]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=106973&amp;page=1&amp;mkind=1&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=106973&amp;page=1&amp;mkind=1&amp;kind=2"/>
-        <updated>2022-05-24T03:24:26.843Z</updated>
-        <content type="html"><![CDATA[과학기술정보통신부 국립전파연구원은 지난 10일부터 20일까지 온라인으로 개최된 ‘국제전기통신연합 전기통신표준화 부문(ITU-T) 정보보호 연구반(SG17) 회의’에서 우리나라 주도로 개발한 5세대(5G) 보안, 양자암호통신 보안 등 국제표준안 4건의 사전 채택과 신규 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국수력원자력, ‘보안 뉴스레터’ 최초 발간]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=106983&amp;page=1&amp;mkind=1&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=106983&amp;page=1&amp;mkind=1&amp;kind=2"/>
-        <updated>2022-05-24T01:27:29.532Z</updated>
-        <content type="html"><![CDATA[한국수력원자력 정보보안처가 지난 23일 창립 이래 최초로 임직원들을 대상으로 한 보안 뉴스레터를 발간했다. 한수원은 최근 정보보안 위협과 정보유출 수단이 고도화됨에 따라 임직원의 정보보안 의식과 위기 대응 능력을 높이기 위해 보안 뉴스레터를 도입했다.]]></content>
     </entry>
 </feed>
