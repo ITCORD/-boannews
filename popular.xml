@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 25 May 2022 06:24:57 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 May 2022 07:19:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -88,14 +88,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/pat-thumb-0519.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[구글, 오픈소스 강화 위한 유료 큐레이션 서비스 곧 출시]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106856&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106856&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Sun, 22 May 2022 17:15:34 GMT</pubDate>
-            <content:encoded><![CDATA[구글이 개발자들을 위한 새로운 보안 도구를 조만간 공개할 예정이다. 이 보안 도구는 오픈소스 요소들을 적극적으로 활용하는 개발자들이 보다 안전하게 프로그램 개발을...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/cur-thumb-0518.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[빨리 하지 않는다면 모두 패치하나 일부만 패치하나 위험성은 거기서 거기]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=106963&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=106963&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
@@ -166,6 +158,14 @@
             <pubDate>Wed, 25 May 2022 03:20:03 GMT</pubDate>
             <content:encoded><![CDATA[새만금개발청은 개인정보보호위원회가 주관하는 2021년도 공공기관 개인정보 관리수준 진단에서 100점 만점이라는 평가를 받았고, 2019년부터 3년 연속 최고등급인...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/saeman_0523_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[주피터 워드프레스 플러그인에서 여러 취약점 발견돼]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106889&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106889&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Wed, 25 May 2022 07:16:55 GMT</pubDate>
+            <content:encoded><![CDATA[IT 외신 블리핑컴퓨터에 의하면 주피터(Jupiter)라는 워드프레스 플러그인들에서 위험한 취약점들이 다수 발견됐다고 한다. 이 중 하나는 초고위험도로 분류됐으며...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/jup-thumb-0519.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
