@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-05-25T09:20:34.936Z</updated>
+    <updated>2022-05-25T10:28:23.490Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[개인정보보호 우수사례-SR] 누적고객 1억명의 개인정보를 보호하라]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107005&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107005&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-05-25T10:25:53.718Z</updated>
+        <content type="html"><![CDATA[대한민국 철도산업 발전과 국민안전 및 편익 제고라는 소임을 다하기 위해 2013년 12월에 설립되어 2016년 12월에 SRT 고속열차 운영을 개통한 에스알(이하 SR)은 국토교통부 산하의 공공기관이다. SR은 SRT수서역, 동탄역, 평택지제역을 기점으로, 수서에서 부...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[포티넷, AI 기반의 보안 서비스와 차세대 방화벽 제품군 발표]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107032&amp;page=1&amp;mkind=1&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107032&amp;page=1&amp;mkind=1&amp;kind=3"/>
+        <updated>2022-05-25T10:25:53.720Z</updated>
+        <content type="html"><![CDATA[광범위하고 자동화된 통합 사이버보안 분야의 글로벌 리더인 포티넷코리아(조원균 대표)는 오늘, 새로운 고성능 차세대 방화벽 ‘포티게이트 600F’, ‘포티게이트 3700F’ 및 ‘포티게이트70F’를 발표했다. 이 제품들은 캠퍼스, 지사 및 하이브리드 데이터센터 환경을 지...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한드림넷, 우수기술기업 인증 T2등급 획득]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=107036&amp;page=1&amp;mkind=1&amp;kind=3</id>
@@ -109,19 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=106999&amp;page=1&amp;mkind=1&amp;kind=1"/>
         <updated>2022-05-24T03:24:26.815Z</updated>
         <content type="html"><![CDATA[보안 외신 쓰레트포스트에 의하면 스네이크키로거(Snake Keylogger)라는 멀웨어가 악성 PDF 문서를 이용해 빠르게 번져가고 있다고 한다. 공격자들은 지불/환불과 관련된 가짜 이메일을 피해자들에게 보내는데, 여기에 문제의 악성 PDF 파일이 첨부되어 있다고 한다...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GM 겨냥한 크리덴셜 스터핑 공격, 고객 정보 노출시켜]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=106997&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=106997&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-05-24T03:24:26.825Z</updated>
-        <content type="html"><![CDATA[미국의 대형 자동차 생산 업자인 GM이 해커들의 크리덴셜 스터핑 공격에 당했다는 보도가 IT 외신인 블리핑컴퓨터로부터 나왔다. 공격은 지난 달에 발생했고, 일부 GM 고객들의 정보가 공격자들의 손에 넘어간 것으로 보인다. GM사로부터 자동차를 구매한 고객들은 GM의 웹...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[페이팔의 시스템 오류 이용한 해커들, 사용자 계정으로부터 돈 훔칠 수 있어]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=106996&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=106996&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-05-24T03:24:26.826Z</updated>
-        <content type="html"><![CDATA[보안 블로그 시큐리티어페어즈에 의하면 최근 페이팔 시스템에서 오류가 발견되었다고 한다. 아직 패치가 되지 않았으며, 공격자들이 이를 익스플로잇 할 경우 고객들의 계정으로부터 돈을 가져갈 수 있게 된다. 일종의 오버레이 공격이 가능하게 되는 것이 이 취약점의 내용이며, ...]]></content>
     </entry>
 </feed>
