@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 May 2022 11:18:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 May 2022 12:36:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -128,20 +128,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/suc-thumb-0525.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[API 보안, 필수 애플리케이션 보안전략으로 만드는 방법]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106960&amp;page=1&amp;kind=5&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106960&amp;page=1&amp;kind=5&amp;search=title&amp;find=</guid>
-            <pubDate>Tue, 24 May 2022 04:34:14 GMT</pubDate>
-            <content:encoded><![CDATA[조직이 디지털 혁신 경로를 따라갈수록 전반적인 보안 태세 확립에 있어 API 보안은 더욱 중요해지고 있다. 매일 개발팀은 혁신을 거듭하고 있다. 그들은 B2B 프...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/API-C(0).jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[개인정보보호 우수사례-새만금개발청] 글로벌 명품 새만금, 개인정보보호로 세운다]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=106964&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=106964&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
             <pubDate>Wed, 25 May 2022 03:20:03 GMT</pubDate>
             <content:encoded><![CDATA[새만금개발청은 개인정보보호위원회가 주관하는 2021년도 공공기관 개인정보 관리수준 진단에서 100점 만점이라는 평가를 받았고, 2019년부터 3년 연속 최고등급인...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/saeman_0523_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[API 보안, 필수 애플리케이션 보안전략으로 만드는 방법]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106960&amp;page=1&amp;kind=5&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106960&amp;page=1&amp;kind=5&amp;search=title&amp;find=</guid>
+            <pubDate>Tue, 24 May 2022 04:34:14 GMT</pubDate>
+            <content:encoded><![CDATA[조직이 디지털 혁신 경로를 따라갈수록 전반적인 보안 태세 확립에 있어 API 보안은 더욱 중요해지고 있다. 매일 개발팀은 혁신을 거듭하고 있다. 그들은 B2B 프...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/API-C(0).jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[개발자들의 필수 방문지인 공공 리포지터리가 위험하다]]></title>
