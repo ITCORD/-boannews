@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 May 2022 05:23:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 May 2022 06:25:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[레빌의 부활? 순수 디도스 공격만으로 협박하는 단체 나타나 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107077&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107077&amp;page=1&amp;kind=1</guid>
+            <pubDate>Thu, 26 May 2022 06:22:01 GMT</pubDate>
+            <content:encoded><![CDATA[한 사이버 공격 단체가 조직적으로 디도스 공격을 하기 시작했는데, 이 단체가 다름 아닌 레빌(REvil)이라는 악명 높은 랜섬웨어 운영자일 가능성이 있는 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/return-thumb-0526.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“보안 감시 기술의 혁신, 글로벌 보안 감시 솔루션 쑥쑥 성장” (보안뉴스 ─ 전체기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107065&amp;page=1&amp;kind=3</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 26 May 2022 03:23:51 GMT</pubDate>
             <content:encoded><![CDATA[2021년은 많은 기술 분야에 있어 대단히 중요한 해였고, 데이터 패브릭이라는 기술 역시 중요한 시기를 지나고 있다. 데이터 패브릭은 현존하는 데이터 관리...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/data-thumb-0526.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2021년, MS 제품에서 취약점 감소했는데 권한 상승 취약점만 예외 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107040&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107040&amp;page=1&amp;kind=1</guid>
-            <pubDate>Wed, 25 May 2022 10:25:32 GMT</pubDate>
-            <content:encoded><![CDATA[마이크로소프트 제품에서 발견되는 권한 상승 취약점이 2년 연속 증가하고 있는 것으로 조사됐다. MS 제품이 사용되는 기업과 기관들의 수를 생각했을 때 당분...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/pri-thumb-0525.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[IBM, AWS와 전략적 협력 협약 통해 서비스형 소프트웨어 제공 (보안뉴스 ─ 전체기사)]]></title>
@@ -298,14 +298,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/score-thumb-0519.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[VM웨어에서 얼마 전 패치된 취약점, 아직도 공격자들이 노린다 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106896&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106896&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Sun, 22 May 2022 17:15:34 GMT</pubDate>
-            <content:encoded><![CDATA[최근 발견된 VM웨어 취약점들이 지속적인 사이버 공격자들의 익스플로잇 재료가 되고 있다는 소식이다. 보안 업체 바라쿠다(Barracuda)에 의하면 공격자들이 계...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/pat-thumb-0519.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[빨리 하지 않는다면 모두 패치하나 일부만 패치하나 위험성은 거기서 거기 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=106963&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=106963&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
@@ -400,6 +392,21 @@
             <pubDate>Wed, 25 May 2022 03:20:03 GMT</pubDate>
             <content:encoded><![CDATA[새만금개발청은 개인정보보호위원회가 주관하는 2021년도 공공기관 개인정보 관리수준 진단에서 100점 만점이라는 평가를 받았고, 2019년부터 3년 연속 최고등급인...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/saeman_0523_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[우리는 랜섬웨어와 데이터 침해가 결합되는 시대에 살고 있다 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107039&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107039&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Thu, 26 May 2022 06:22:12 GMT</pubDate>
+            <content:encoded><![CDATA[2021년 한 해 동안 랜섬웨어 사건은 깜짝 놀랄 정도로 증가했다. 모든 침해 사고의 25%가 랜섬웨어의 요소를 일부라도 포함하고 있을 정도라고 한다. 이는 올해...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/suc-thumb-0525.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[에스에스알 취약점 진단 자동화 솔루션, 공공 조달시장 점유율 1위 (보안뉴스 ─ SECURITY)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107072&amp;page=1&amp;mkind=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107072&amp;page=1&amp;mkind=1&amp;kind=3</guid>
+            <pubDate>Thu, 26 May 2022 06:22:25 GMT</pubDate>
+            <content:encoded><![CDATA[정보보호 전문서비스 기업 에스에스알(대표 고필주)은 주력 제품인 취약점 진단 자동화 솔루션 ‘SolidStep(솔리드스텝)’을 앞세워 공공 시장에서의 영향력을 빠르게 확대해 가고 있다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[시큐레터, 파트너사 엔지니어 대상 제품 기술 교육 진행 (보안뉴스 ─ SECURITY)]]></title>
@@ -512,13 +519,6 @@
             <guid>https://www.boannews.com/media/view.asp?idx=107005&amp;page=1&amp;mkind=1&amp;kind=1</guid>
             <pubDate>Wed, 25 May 2022 10:25:53 GMT</pubDate>
             <content:encoded><![CDATA[대한민국 철도산업 발전과 국민안전 및 편익 제고라는 소임을 다하기 위해 2013년 12월에 설립되어 2016년 12월에 SRT 고속열차 운영을 개통한 에스알(이하 SR)은 국토교통부 산하의 공공기관이다. SR은 SRT수서역, 동탄역, 평택지제역을 기점으로, 수서에서 부...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[포티넷, AI 기반의 보안 서비스와 차세대 방화벽 제품군 발표 (보안뉴스 ─ SECURITY)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107032&amp;page=1&amp;mkind=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107032&amp;page=1&amp;mkind=1&amp;kind=3</guid>
-            <pubDate>Wed, 25 May 2022 10:25:53 GMT</pubDate>
-            <content:encoded><![CDATA[광범위하고 자동화된 통합 사이버보안 분야의 글로벌 리더인 포티넷코리아(조원균 대표)는 오늘, 새로운 고성능 차세대 방화벽 ‘포티게이트 600F’, ‘포티게이트 3700F’ 및 ‘포티게이트70F’를 발표했다. 이 제품들은 캠퍼스, 지사 및 하이브리드 데이터센터 환경을 지...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[국표원, 자율차·스마트제조 현장에서 적용될 데이터 표준 4종 개발 (보안뉴스 ─ IT)]]></title>
@@ -1895,6 +1895,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/pipc_042701_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[레빌의 부활? 순수 디도스 공격만으로 협박하는 단체 나타나 (보안뉴스 ─ 국제)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107077&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107077&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
+            <pubDate>Thu, 26 May 2022 06:24:21 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/view.asp?idx=107077&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
+					
+					<img src="/media/upFiles2/2022/05/return-thumb-0526.jpg" alt="" class="news_img" height="70">
+					
+					<span class="news_txt">레빌의 부활? 순수 디도스 공격만으로 협박하는 단체 나타나</span>
+					</a><br>
+					<a href="/media/view.asp?idx=107077&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">한 사이버 공격 단체가 조직적으로 디도스 공격을 하기 시작했는데, 이 단체가 다름 아닌 레빌(REvil)이라는 악명 높은 랜섬웨어 운영자일 가능성이 있는 것으로 ...</a> <span class="news_writer">문가용 기자 | 2022년 05월 26일 14:42</span>]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/return-thumb-0526.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[트위터, 사용자 데이터 프라이버시 침해로 1억 5천만 달러 벌금형에 처해 (보안뉴스 ─ 국제)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107073&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107073&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
@@ -2159,20 +2173,6 @@
 					</a><br>
 					<a href="/media/view.asp?idx=107000&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">보안 외신 핵리드에 의하면 핵티비스트 단체 어나니머스가 친러 성향 해킹 단체인 킬넷(Killnet)에 전쟁을 선포했다고 한다. 최근 킬넷은 유럽 여러 국가들을 공...</a> <span class="news_writer">문가용 기자 | 2022년 05월 24일 11:22</span>]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/20300698_copy_295x190_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[스네이크키로거, 악성 PDF 타고 인터넷 상에 퍼지고 있어 (보안뉴스 ─ 국제)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106999&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106999&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
-            <pubDate>Tue, 24 May 2022 03:26:38 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/view.asp?idx=106999&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
-					
-					<img src="/media/upFiles2/2022/05/20366950_copy_295x190_1.jpg" alt="" class="news_img" height="70">
-					
-					<span class="news_txt">스네이크키로거, 악성 PDF 타고 인터넷 상에 퍼지고 있어</span>
-					</a><br>
-					<a href="/media/view.asp?idx=106999&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">보안 외신 쓰레트포스트에 의하면 스네이크키로거(Snake Keylogger)라는 멀웨어가 악성 PDF 문서를 이용해 빠르게 번져가고 있다고 한다. 공격자들은 지불...</a> <span class="news_writer">문가용 기자 | 2022년 05월 24일 11:20</span>]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/20366950_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[영상보안 분야 상장기업 8곳, 지난해 활약상과 2022년 청사진 (보안뉴스 ─ 기획특집)]]></title>

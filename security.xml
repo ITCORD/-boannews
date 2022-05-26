@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-05-26T05:23:53.233Z</updated>
+    <updated>2022-05-26T06:25:25.961Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[에스에스알 취약점 진단 자동화 솔루션, 공공 조달시장 점유율 1위]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107072&amp;page=1&amp;mkind=1&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107072&amp;page=1&amp;mkind=1&amp;kind=3"/>
+        <updated>2022-05-26T06:22:25.823Z</updated>
+        <content type="html"><![CDATA[정보보호 전문서비스 기업 에스에스알(대표 고필주)은 주력 제품인 취약점 진단 자동화 솔루션 ‘SolidStep(솔리드스텝)’을 앞세워 공공 시장에서의 영향력을 빠르게 확대해 가고 있다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[시큐레터, 파트너사 엔지니어 대상 제품 기술 교육 진행]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=107067&amp;page=1&amp;mkind=1&amp;kind=3</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=107005&amp;page=1&amp;mkind=1&amp;kind=1"/>
         <updated>2022-05-25T10:25:53.718Z</updated>
         <content type="html"><![CDATA[대한민국 철도산업 발전과 국민안전 및 편익 제고라는 소임을 다하기 위해 2013년 12월에 설립되어 2016년 12월에 SRT 고속열차 운영을 개통한 에스알(이하 SR)은 국토교통부 산하의 공공기관이다. SR은 SRT수서역, 동탄역, 평택지제역을 기점으로, 수서에서 부...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[포티넷, AI 기반의 보안 서비스와 차세대 방화벽 제품군 발표]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107032&amp;page=1&amp;mkind=1&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107032&amp;page=1&amp;mkind=1&amp;kind=3"/>
-        <updated>2022-05-25T10:25:53.720Z</updated>
-        <content type="html"><![CDATA[광범위하고 자동화된 통합 사이버보안 분야의 글로벌 리더인 포티넷코리아(조원균 대표)는 오늘, 새로운 고성능 차세대 방화벽 ‘포티게이트 600F’, ‘포티게이트 3700F’ 및 ‘포티게이트70F’를 발표했다. 이 제품들은 캠퍼스, 지사 및 하이브리드 데이터센터 환경을 지...]]></content>
     </entry>
 </feed>

@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 May 2022 05:23:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 May 2022 06:25:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -62,14 +62,6 @@
             <pubDate>Sun, 22 May 2022 17:15:34 GMT</pubDate>
             <content:encoded><![CDATA[현 시점에서 보안 업계의 가장 큰 이슈 중 하나는 공급망이다. 솔라윈즈(SolarWinds) 사태와 로그4j(Log4j) 사태 등 굵직한 사건들이 꾸준히 터지면서...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/score-thumb-0519.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[VM웨어에서 얼마 전 패치된 취약점, 아직도 공격자들이 노린다]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106896&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106896&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Sun, 22 May 2022 17:15:34 GMT</pubDate>
-            <content:encoded><![CDATA[최근 발견된 VM웨어 취약점들이 지속적인 사이버 공격자들의 익스플로잇 재료가 되고 있다는 소식이다. 보안 업체 바라쿠다(Barracuda)에 의하면 공격자들이 계...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/pat-thumb-0519.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[빨리 하지 않는다면 모두 패치하나 일부만 패치하나 위험성은 거기서 거기]]></title>
@@ -166,6 +158,14 @@
             <pubDate>Wed, 25 May 2022 03:20:03 GMT</pubDate>
             <content:encoded><![CDATA[새만금개발청은 개인정보보호위원회가 주관하는 2021년도 공공기관 개인정보 관리수준 진단에서 100점 만점이라는 평가를 받았고, 2019년부터 3년 연속 최고등급인...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/saeman_0523_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[우리는 랜섬웨어와 데이터 침해가 결합되는 시대에 살고 있다]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107039&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107039&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Thu, 26 May 2022 06:22:12 GMT</pubDate>
+            <content:encoded><![CDATA[2021년 한 해 동안 랜섬웨어 사건은 깜짝 놀랄 정도로 증가했다. 모든 침해 사고의 25%가 랜섬웨어의 요소를 일부라도 포함하고 있을 정도라고 한다. 이는 올해...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/suc-thumb-0525.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>보안뉴스 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 May 2022 05:23:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 May 2022 06:25:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[레빌의 부활? 순수 디도스 공격만으로 협박하는 단체 나타나]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107077&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107077&amp;page=1&amp;kind=1</guid>
+            <pubDate>Thu, 26 May 2022 06:22:01 GMT</pubDate>
+            <content:encoded><![CDATA[한 사이버 공격 단체가 조직적으로 디도스 공격을 하기 시작했는데, 이 단체가 다름 아닌 레빌(REvil)이라는 악명 높은 랜섬웨어 운영자일 가능성이 있는 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/return-thumb-0526.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“보안 감시 기술의 혁신, 글로벌 보안 감시 솔루션 쑥쑥 성장”]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107065&amp;page=1&amp;kind=3</link>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 26 May 2022 03:23:51 GMT</pubDate>
             <content:encoded><![CDATA[2021년은 많은 기술 분야에 있어 대단히 중요한 해였고, 데이터 패브릭이라는 기술 역시 중요한 시기를 지나고 있다. 데이터 패브릭은 현존하는 데이터 관리...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/data-thumb-0526.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2021년, MS 제품에서 취약점 감소했는데 권한 상승 취약점만 예외]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107040&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107040&amp;page=1&amp;kind=1</guid>
-            <pubDate>Wed, 25 May 2022 10:25:32 GMT</pubDate>
-            <content:encoded><![CDATA[마이크로소프트 제품에서 발견되는 권한 상승 취약점이 2년 연속 증가하고 있는 것으로 조사됐다. MS 제품이 사용되는 기업과 기관들의 수를 생각했을 때 당분...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/pri-thumb-0525.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[IBM, AWS와 전략적 협력 협약 통해 서비스형 소프트웨어 제공]]></title>
