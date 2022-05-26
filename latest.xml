@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 May 2022 04:34:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 May 2022 05:23:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -86,6 +86,22 @@
             <pubDate>Wed, 25 May 2022 10:25:32 GMT</pubDate>
             <content:encoded><![CDATA[마이크로소프트 제품에서 발견되는 권한 상승 취약점이 2년 연속 증가하고 있는 것으로 조사됐다. MS 제품이 사용되는 기업과 기관들의 수를 생각했을 때 당분...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/pri-thumb-0525.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[IBM, AWS와 전략적 협력 협약 통해 서비스형 소프트웨어 제공]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107076&amp;page=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107076&amp;page=1&amp;kind=3</guid>
+            <pubDate>Thu, 26 May 2022 05:20:43 GMT</pubDate>
+            <content:encoded><![CDATA[IBM은 아마존웹서비스(Amazon Web Services, 이하 AWS)와 전략적 협력 계약(Strategic Collaboration Agreement...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/IBM%20CI_0526_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[금융보안원, 금융 데이터 분석·활용 경진대회 ‘FSI Data Challenge 2022’ 개최]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107075&amp;page=1&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107075&amp;page=1&amp;kind=2</guid>
+            <pubDate>Thu, 26 May 2022 05:20:43 GMT</pubDate>
+            <content:encoded><![CDATA[금융권 유일의 금융데이터거래소(FinDX)를 운영하는 금융보안원(원장 김철웅)은 국내 데이터 경제 활성화 및 금융분야 데이터 혁신을 지원하기 위해 금융권 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/fsi_052601_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[SK쉴더스, 오피스넥스와 ‘미래형 무인문구점 안심 솔루션 개발’ 맞손]]></title>
@@ -224,21 +240,6 @@
             <pubDate>Thu, 26 May 2022 01:28:04 GMT</pubDate>
             <content:encoded><![CDATA[삼성전자와 레드햇(Red Hat)은 차세대 메모리 분야 소프트웨어 기술 관련 상호 협력하기로 했다. 레드햇은 글로벌 오픈소스 솔루션 선도 기업으로, 두 회...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/5-246(295).jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[현대차그룹, 항공 분야 산업 활성화 위한 ‘AAM 테크데이 2022’ 개최]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107054&amp;page=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107054&amp;page=1&amp;kind=3</guid>
-            <pubDate>Thu, 26 May 2022 01:28:04 GMT</pubDate>
-            <content:encoded><![CDATA[현대차그룹은 지난 25일 경기도 고양시 일산서구 소재 ‘현대모터스튜디오 고양’에서 국내 관련 학회 관계자 및 전공 교수와 대학생 등 약 100여명을 초청해...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/5-247(295).jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[울산시-ETRI, 해양물류산업 신 성장동력 확보]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107055&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107055&amp;page=1&amp;kind=2</guid>
-            <pubDate>Thu, 26 May 2022 01:28:04 GMT</pubDate>
-            <content:encoded><![CDATA[울산시는 해양수산부(전담기관: 해양수산과학기술진흥원)에서 공모한 ‘해상물류 통신기술 검증 성능시험장(테스트베드) 구축’ 사업의 총괄주관기관으로 한국전자통신...]]></content:encoded>
         </item>
     </channel>
 </rss>

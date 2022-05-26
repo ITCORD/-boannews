@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-05-26T04:34:37.783Z</updated>
+    <updated>2022-05-26T05:23:53.233Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[시큐레터, 파트너사 엔지니어 대상 제품 기술 교육 진행]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107067&amp;page=1&amp;mkind=1&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107067&amp;page=1&amp;mkind=1&amp;kind=3"/>
+        <updated>2022-05-26T05:21:08.821Z</updated>
+        <content type="html"><![CDATA[악성코드 탐지 및 차단 전문기업 시큐레터(대표 임차성)는 5월 25일부터 26일 양일간 시큐레터 판교 사옥에서 파트너사 엔지니어를 대상으로 제품 기술 교육을 진행했다고 26일 밝혔다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[트위터, 사용자 데이터 프라이버시 침해로 1억 5천만 달러 벌금형에 처해]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107073&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107073&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-05-26T05:21:08.823Z</updated>
+        <content type="html"><![CDATA[AP통신에 따르면 미국 사법부와 연방거래위원회가 지난 6년 동안 트위터의 사용자 데이터 프라이버시 보호 시스템의 미흡함을 문제 삼아 1억 5천만 달러의 벌금형을 내렸다고 한다. 2013년 5월부터 2019년 9월까지 트위터는 사용자들의 전화번호와 이메일 주소를 수집하며...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[새로운 리눅스 랜섬웨어인 치어스, VM웨어 ESXi 서버 노려]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=107071&amp;page=1&amp;mkind=1&amp;kind=1</id>
@@ -109,19 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=107032&amp;page=1&amp;mkind=1&amp;kind=3"/>
         <updated>2022-05-25T10:25:53.720Z</updated>
         <content type="html"><![CDATA[광범위하고 자동화된 통합 사이버보안 분야의 글로벌 리더인 포티넷코리아(조원균 대표)는 오늘, 새로운 고성능 차세대 방화벽 ‘포티게이트 600F’, ‘포티게이트 3700F’ 및 ‘포티게이트70F’를 발표했다. 이 제품들은 캠퍼스, 지사 및 하이브리드 데이터센터 환경을 지...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한드림넷, 우수기술기업 인증 T2등급 획득]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107036&amp;page=1&amp;mkind=1&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107036&amp;page=1&amp;mkind=1&amp;kind=3"/>
-        <updated>2022-05-25T07:17:06.672Z</updated>
-        <content type="html"><![CDATA[한드림넷(대표 서현원)이 기술신용평가기관 SCI평가정보와의 기술신용평가에서 기술사업역량 및 기술경쟁력 분야에서 우수한 평가를 받아 T2등급을 획득했다고 밝혔다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[K-Shield 주니어 제8기 교육생 6월 3일까지 모집]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107027&amp;page=1&amp;mkind=1&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107027&amp;page=1&amp;mkind=1&amp;kind=2"/>
-        <updated>2022-05-25T05:21:08.419Z</updated>
-        <content type="html"><![CDATA[한국인터넷진흥원(KISA, 원장 이원태)은 과학기술정보통신부(장관 이종호)와 함께 실무에 즉각 투입 가능한 사이버보안 실무 인력을 양성하는 ‘K-Shield 주니어 제8기 교육생’을 오는 6월 3일(금)까지 모집한다고 밝혔다.]]></content>
     </entry>
 </feed>

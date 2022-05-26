@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 May 2022 04:34:37 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 May 2022 05:23:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -86,6 +86,22 @@
             <pubDate>Wed, 25 May 2022 10:25:32 GMT</pubDate>
             <content:encoded><![CDATA[마이크로소프트 제품에서 발견되는 권한 상승 취약점이 2년 연속 증가하고 있는 것으로 조사됐다. MS 제품이 사용되는 기업과 기관들의 수를 생각했을 때 당분...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/pri-thumb-0525.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[IBM, AWS와 전략적 협력 협약 통해 서비스형 소프트웨어 제공 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107076&amp;page=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107076&amp;page=1&amp;kind=3</guid>
+            <pubDate>Thu, 26 May 2022 05:20:43 GMT</pubDate>
+            <content:encoded><![CDATA[IBM은 아마존웹서비스(Amazon Web Services, 이하 AWS)와 전략적 협력 계약(Strategic Collaboration Agreement...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/IBM%20CI_0526_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[금융보안원, 금융 데이터 분석·활용 경진대회 ‘FSI Data Challenge 2022’ 개최 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107075&amp;page=1&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107075&amp;page=1&amp;kind=2</guid>
+            <pubDate>Thu, 26 May 2022 05:20:43 GMT</pubDate>
+            <content:encoded><![CDATA[금융권 유일의 금융데이터거래소(FinDX)를 운영하는 금융보안원(원장 김철웅)은 국내 데이터 경제 활성화 및 금융분야 데이터 혁신을 지원하기 위해 금융권 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/fsi_052601_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[SK쉴더스, 오피스넥스와 ‘미래형 무인문구점 안심 솔루션 개발’ 맞손 (보안뉴스 ─ 전체기사)]]></title>
@@ -224,21 +240,6 @@
             <pubDate>Thu, 26 May 2022 01:28:04 GMT</pubDate>
             <content:encoded><![CDATA[삼성전자와 레드햇(Red Hat)은 차세대 메모리 분야 소프트웨어 기술 관련 상호 협력하기로 했다. 레드햇은 글로벌 오픈소스 솔루션 선도 기업으로, 두 회...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/5-246(295).jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[현대차그룹, 항공 분야 산업 활성화 위한 ‘AAM 테크데이 2022’ 개최 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107054&amp;page=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107054&amp;page=1&amp;kind=3</guid>
-            <pubDate>Thu, 26 May 2022 01:28:04 GMT</pubDate>
-            <content:encoded><![CDATA[현대차그룹은 지난 25일 경기도 고양시 일산서구 소재 ‘현대모터스튜디오 고양’에서 국내 관련 학회 관계자 및 전공 교수와 대학생 등 약 100여명을 초청해...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/5-247(295).jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[울산시-ETRI, 해양물류산업 신 성장동력 확보 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107055&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107055&amp;page=1&amp;kind=2</guid>
-            <pubDate>Thu, 26 May 2022 01:28:04 GMT</pubDate>
-            <content:encoded><![CDATA[울산시는 해양수산부(전담기관: 해양수산과학기술진흥원)에서 공모한 ‘해상물류 통신기술 검증 성능시험장(테스트베드) 구축’ 사업의 총괄주관기관으로 한국전자통신...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[단독] 토론회 개최한 태영호 의원실 사칭 북한 해킹 메일 공격 포착됐다 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
@@ -401,6 +402,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/saeman_0523_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[시큐레터, 파트너사 엔지니어 대상 제품 기술 교육 진행 (보안뉴스 ─ SECURITY)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107067&amp;page=1&amp;mkind=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107067&amp;page=1&amp;mkind=1&amp;kind=3</guid>
+            <pubDate>Thu, 26 May 2022 05:21:08 GMT</pubDate>
+            <content:encoded><![CDATA[악성코드 탐지 및 차단 전문기업 시큐레터(대표 임차성)는 5월 25일부터 26일 양일간 시큐레터 판교 사옥에서 파트너사 엔지니어를 대상으로 제품 기술 교육을 진행했다고 26일 밝혔다.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[트위터, 사용자 데이터 프라이버시 침해로 1억 5천만 달러 벌금형에 처해 (보안뉴스 ─ SECURITY)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107073&amp;page=1&amp;mkind=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107073&amp;page=1&amp;mkind=1&amp;kind=1</guid>
+            <pubDate>Thu, 26 May 2022 05:21:08 GMT</pubDate>
+            <content:encoded><![CDATA[AP통신에 따르면 미국 사법부와 연방거래위원회가 지난 6년 동안 트위터의 사용자 데이터 프라이버시 보호 시스템의 미흡함을 문제 삼아 1억 5천만 달러의 벌금형을 내렸다고 한다. 2013년 5월부터 2019년 9월까지 트위터는 사용자들의 전화번호와 이메일 주소를 수집하며...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[새로운 리눅스 랜섬웨어인 치어스, VM웨어 ESXi 서버 노려 (보안뉴스 ─ SECURITY)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107071&amp;page=1&amp;mkind=1&amp;kind=1</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107071&amp;page=1&amp;mkind=1&amp;kind=1</guid>
@@ -504,20 +519,6 @@
             <guid>https://www.boannews.com/media/view.asp?idx=107032&amp;page=1&amp;mkind=1&amp;kind=3</guid>
             <pubDate>Wed, 25 May 2022 10:25:53 GMT</pubDate>
             <content:encoded><![CDATA[광범위하고 자동화된 통합 사이버보안 분야의 글로벌 리더인 포티넷코리아(조원균 대표)는 오늘, 새로운 고성능 차세대 방화벽 ‘포티게이트 600F’, ‘포티게이트 3700F’ 및 ‘포티게이트70F’를 발표했다. 이 제품들은 캠퍼스, 지사 및 하이브리드 데이터센터 환경을 지...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[한드림넷, 우수기술기업 인증 T2등급 획득 (보안뉴스 ─ SECURITY)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107036&amp;page=1&amp;mkind=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107036&amp;page=1&amp;mkind=1&amp;kind=3</guid>
-            <pubDate>Wed, 25 May 2022 07:17:06 GMT</pubDate>
-            <content:encoded><![CDATA[한드림넷(대표 서현원)이 기술신용평가기관 SCI평가정보와의 기술신용평가에서 기술사업역량 및 기술경쟁력 분야에서 우수한 평가를 받아 T2등급을 획득했다고 밝혔다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[K-Shield 주니어 제8기 교육생 6월 3일까지 모집 (보안뉴스 ─ SECURITY)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107027&amp;page=1&amp;mkind=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107027&amp;page=1&amp;mkind=1&amp;kind=2</guid>
-            <pubDate>Wed, 25 May 2022 05:21:08 GMT</pubDate>
-            <content:encoded><![CDATA[한국인터넷진흥원(KISA, 원장 이원태)은 과학기술정보통신부(장관 이종호)와 함께 실무에 즉각 투입 가능한 사이버보안 실무 인력을 양성하는 ‘K-Shield 주니어 제8기 교육생’을 오는 6월 3일(금)까지 모집한다고 밝혔다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[국표원, 자율차·스마트제조 현장에서 적용될 데이터 표준 4종 개발 (보안뉴스 ─ IT)]]></title>
