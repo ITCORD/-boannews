@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 May 2022 07:20:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 May 2022 08:26:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,14 +54,6 @@
             <pubDate>Mon, 23 May 2022 21:16:03 GMT</pubDate>
             <content:encoded><![CDATA[최근 문화체육관광부 산하 한국정책방송원(KTV)의 유튜브 방송 출연 섭외로 위장한 HWP 악성 문서가 전파되고 있어 각별한 주의가 요구된다고 보안 전문 기업 이스...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/est_0523_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마이터, “공급망이 위험하다고 말하는데, 위험 평가는 제대로 하고 있는가?”]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106897&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106897&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Sun, 22 May 2022 17:15:34 GMT</pubDate>
-            <content:encoded><![CDATA[현 시점에서 보안 업계의 가장 큰 이슈 중 하나는 공급망이다. 솔라윈즈(SolarWinds) 사태와 로그4j(Log4j) 사태 등 굵직한 사건들이 꾸준히 터지면서...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/score-thumb-0519.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[빨리 하지 않는다면 모두 패치하나 일부만 패치하나 위험성은 거기서 거기]]></title>
@@ -166,6 +158,14 @@
             <pubDate>Thu, 26 May 2022 06:22:12 GMT</pubDate>
             <content:encoded><![CDATA[2021년 한 해 동안 랜섬웨어 사건은 깜짝 놀랄 정도로 증가했다. 모든 침해 사고의 25%가 랜섬웨어의 요소를 일부라도 포함하고 있을 정도라고 한다. 이는 올해...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/suc-thumb-0525.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[개발자들의 필수 방문지인 공공 리포지터리가 위험하다]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107007&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107007&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Thu, 26 May 2022 08:23:47 GMT</pubDate>
+            <content:encoded><![CDATA[오픈소스 코드가 저장되고 공유되는 공공 리포지터리는 소프트웨어 공급망을 구성하는 요소 중 가장 중요한 부분을 차지하고 있다고 해도 과언이 아니다. 그렇기 때문에 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/py-thumb-0524.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-05-26T07:20:17.200Z</updated>
+    <updated>2022-05-26T08:26:52.494Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[금융보안원, 금융 데이터 분석·활용 경진대회 ‘FSI Data Challenge 2022’ 개최]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107075&amp;page=1&amp;mkind=1&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107075&amp;page=1&amp;mkind=1&amp;kind=2"/>
+        <updated>2022-05-26T08:24:02.861Z</updated>
+        <content type="html"><![CDATA[금융권 유일의 금융데이터거래소(FinDX)를 운영하는 금융보안원(원장 김철웅)은 국내 데이터 경제 활성화 및 금융분야 데이터 혁신을 지원하기 위해 금융권 최대 규모의 데이터 분석·활용 경진대회인 ‘FSI Data Challenge 2022’를 개최한다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[에스에스알 취약점 진단 자동화 솔루션, 공공 조달시장 점유율 1위]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=107072&amp;page=1&amp;mkind=1&amp;kind=3</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=107038&amp;page=1&amp;mkind=1&amp;kind=2"/>
         <updated>2022-05-26T01:28:33.765Z</updated>
         <content type="html"><![CDATA[계원예술대학교 등 7개 공공기관과 1개 사업자가 개인정보보호법 위반으로 4,050만 원의 과태료 부과와 시정권고 조치를 받았다. 개인정보보호위원회(위원장 윤종인, 이하 ‘개인정보위’)는 5월 25일 정부서울청사에서 제9회 전체회의를 열고 이와같이 의결했다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[개인정보보호 우수사례-SR] 누적고객 1억명의 개인정보를 보호하라]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107005&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107005&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-05-25T10:25:53.718Z</updated>
-        <content type="html"><![CDATA[대한민국 철도산업 발전과 국민안전 및 편익 제고라는 소임을 다하기 위해 2013년 12월에 설립되어 2016년 12월에 SRT 고속열차 운영을 개통한 에스알(이하 SR)은 국토교통부 산하의 공공기관이다. SR은 SRT수서역, 동탄역, 평택지제역을 기점으로, 수서에서 부...]]></content>
     </entry>
 </feed>

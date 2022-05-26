@@ -4,9 +4,17 @@
         <title>보안뉴스 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 26 May 2022 07:20:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 May 2022 08:26:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[줌에서 발견된 네 가지 취약점, 연쇄적으로 익스플로잇 하면 무서워져]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107081&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107081&amp;page=1&amp;kind=1</guid>
+            <pubDate>Thu, 26 May 2022 08:23:31 GMT</pubDate>
+            <content:encoded><![CDATA[유명 화상 회의 및 원격 협업 플랫폼인 줌(Zoom)에서 새로운 공격 가능성이 발견됐다. 기존에 발견됐던 취약점 4개를 엮어서 익스플로잇 하면 제로클릭 원...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/chain-thumb-0526.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[레빌의 부활? 순수 디도스 공격만으로 협박하는 단체 나타나]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107077&amp;page=1&amp;kind=1</link>
@@ -80,14 +88,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/20220526PIS.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[2022년, 데이터 패브릭에 주목하라]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107060&amp;page=1&amp;kind=4</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107060&amp;page=1&amp;kind=4</guid>
-            <pubDate>Thu, 26 May 2022 03:23:51 GMT</pubDate>
-            <content:encoded><![CDATA[2021년은 많은 기술 분야에 있어 대단히 중요한 해였고, 데이터 패브릭이라는 기술 역시 중요한 시기를 지나고 있다. 데이터 패브릭은 현존하는 데이터 관리...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/data-thumb-0526.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[IBM, AWS와 전략적 협력 협약 통해 서비스형 소프트웨어 제공]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107076&amp;page=1&amp;kind=3</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107076&amp;page=1&amp;kind=3</guid>
@@ -134,6 +134,14 @@
             <pubDate>Thu, 26 May 2022 03:23:51 GMT</pubDate>
             <content:encoded><![CDATA[파블로항공(대표 김영준)은 ‘2022 전국 대학생 드론·UAM 올림피아드’를 국토교통부, 한국교통안전공단, 한국공항공사, 한국국토정보공사와 함께 공동 개...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/22052601ss.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022년, 데이터 패브릭에 주목하라]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107060&amp;page=1&amp;kind=4</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107060&amp;page=1&amp;kind=4</guid>
+            <pubDate>Thu, 26 May 2022 03:23:51 GMT</pubDate>
+            <content:encoded><![CDATA[2021년은 많은 기술 분야에 있어 대단히 중요한 해였고, 데이터 패브릭이라는 기술 역시 중요한 시기를 지나고 있다. 데이터 패브릭은 현존하는 데이터 관리...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/data-thumb-0526.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이글루코퍼레이션 SPiDER SOAR, GS 인증 1등급 획득]]></title>
@@ -232,14 +240,6 @@
             <pubDate>Thu, 26 May 2022 01:28:04 GMT</pubDate>
             <content:encoded><![CDATA[LG유플러스는 주니퍼 네트웍스와 함께 오픈랜 핵심 기술인 소프트웨어 플랫폼 RAN 지능형 컨트롤러(RIC; Radio Access Network Intel...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/5-245(295).jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[삼성전자, 레드햇과 차세대 메모리 분야 소프트웨어 기술 상호 협력]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107053&amp;page=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107053&amp;page=1&amp;kind=3</guid>
-            <pubDate>Thu, 26 May 2022 01:28:04 GMT</pubDate>
-            <content:encoded><![CDATA[삼성전자와 레드햇(Red Hat)은 차세대 메모리 분야 소프트웨어 기술 관련 상호 협력하기로 했다. 레드햇은 글로벌 오픈소스 솔루션 선도 기업으로, 두 회...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/5-246(295).jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
