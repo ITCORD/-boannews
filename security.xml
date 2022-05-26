@@ -2,9 +2,65 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-05-26T01:31:42.550Z</updated>
+    <updated>2022-05-26T03:26:55.565Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[가난한 사람들에게 음식을 제공하라고 협박하는 굿윌 랜섬웨어]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107069&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107069&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-05-26T03:24:25.915Z</updated>
+        <content type="html"><![CDATA[보안 외신 핵리드에 의하면 식량난에 로빈후드를 자처하는 랜섬웨어 그룹이 나타났다고 한다. 이 랜섬웨어의 이름은 굿윌(GoodWill)이라고 하며, 피해자들에게는 무려 3페이지에 달하는 협박 편지가 배달된다. 불우한 사람들에게 음식이나 돈을 제공했다는 증거 자료를 내놓으...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[줌 취약점 연쇄적으로 익스플로잇 해서 사용자 해킹 가능]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107068&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107068&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-05-26T03:24:25.916Z</updated>
+        <content type="html"><![CDATA[보안 블로그 시큐리티어페어즈에 의하면 줌의 취약점 네 개를 연쇄적으로 해킹하면, 다른 줌 계정을 침해하는 게 가능하다고 한다. 공격자가 줌에 접속해 다른 사용자 계정으로 특수한 채팅 메시지를 전송하는 것으로 이 공격은 끝난다. 이를 바탕으로 피해자의 시스템에 원격 코드...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[PIS FAIR 2022 미리보기] 지란지교데이터·파수·센티널테크놀로지]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=106895&amp;page=1&amp;mkind=1&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=106895&amp;page=1&amp;mkind=1&amp;kind=3"/>
+        <updated>2022-05-26T03:24:25.916Z</updated>
+        <content type="html"><![CDATA[‘데이터 경제 시대의 개인정보보호’를 주제로 6월 2일부터 3일까지 서울 코엑스 그랜드볼룸에서 개최되는 ‘제11회 개인정보보호 페어&amp;CPO워크숍’은 국내 최대 규모의 개인정보보호 콘퍼런스다. 개인정보보호위원회와 PIS FAIR 2022 조직위원회가 주최하고, 한국인터넷...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022년, 데이터 패브릭에 주목하라]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107060&amp;page=1&amp;mkind=1&amp;kind=4</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107060&amp;page=1&amp;mkind=1&amp;kind=4"/>
+        <updated>2022-05-26T03:24:25.916Z</updated>
+        <content type="html"><![CDATA[2021년은 많은 기술 분야에 있어 대단히 중요한 해였고, 데이터 패브릭이라는 기술 역시 중요한 시기를 지나고 있다. 데이터 패브릭은 현존하는 데이터 관리 체제의 허점들이 드러나면서 염려가 되었던 부분을 많이 보충해주는 기술이며, 2026년까지 시장 규모는 42억 달러...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이글루코퍼레이션 SPiDER SOAR, GS 인증 1등급 획득]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107063&amp;page=1&amp;mkind=1&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107063&amp;page=1&amp;mkind=1&amp;kind=3"/>
+        <updated>2022-05-26T03:24:25.920Z</updated>
+        <content type="html"><![CDATA[이글루코퍼레이션(대표 이득춘)은 보안 오케스트레이션·자동화·대응(Security Orchestration, Automation and Response, SOAR) 솔루션인 ‘SPiDER SOAR (스파이더 쏘아)’가 한국정보통신기술협회(TTA)의 GS(굿소프트웨어) 인...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[식약처-KISA, 의료기기 사이버보안 강화 협력 지속한다]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107050&amp;page=1&amp;mkind=1&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107050&amp;page=1&amp;mkind=1&amp;kind=2"/>
+        <updated>2022-05-26T03:24:25.920Z</updated>
+        <content type="html"><![CDATA[식품의약품안전처 식품의약품안전평가원과 한국인터넷진흥원(KISA)은 26일 의료기기 보안성 강화 협력을 지속하기 위한 업무협약을 2024년까지 2년 연장 체결했다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SKT-암호 강소기업, ‘양자생태계’ 가속페달]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107051&amp;page=1&amp;mkind=1&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107051&amp;page=1&amp;mkind=1&amp;kind=3"/>
+        <updated>2022-05-26T03:24:25.927Z</updated>
+        <content type="html"><![CDATA[SK텔레콤과 IDQ가 함께 개발한 양자 난수 생성(QRNG) 칩이 국내 암호 분야 강소기업 기술과 융합돼 국방 및 공공시장 진출이 가시화될 전망이다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[경북교육청, 정보보호 수준진단 지표 설명회 개최]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107056&amp;page=1&amp;mkind=1&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107056&amp;page=1&amp;mkind=1&amp;kind=2"/>
+        <updated>2022-05-26T03:24:25.929Z</updated>
+        <content type="html"><![CDATA[경북교육청은 지난 24일 한층 강화된 정보보호 수준진단 업무의 원활한 추진을 위해 ‘직속기관 및 교육지원청 담당자 대상 정보보호 수준진단 지표 설명회’를 개최했다고 밝혔다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2021년, MS 제품에서 취약점 감소했는데 권한 상승 취약점만 예외]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=107040&amp;page=1&amp;mkind=1&amp;kind=1</id>
@@ -67,61 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=107034&amp;page=1&amp;mkind=1&amp;kind=1"/>
         <updated>2022-05-25T04:31:27.826Z</updated>
         <content type="html"><![CDATA[보안 외신 시큐리티위크에 의하면 파이선 개발자들 사이에서 가장 유명한 리포지터리인 PyPI에서 또 다른 악성 코드 유포 시도가 있었다고 한다. 아직 신원을 알 수 없는 공격자들은 인기 높은 패키지인 Ctx 속에 악성 코드를 심었다. 이 악성 코드는 피해자의 AWS 크리...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우크라이나와 러시아인들의 개인정보 수천만 건 온라인에 공개돼]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107033&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107033&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-05-25T04:31:27.828Z</updated>
-        <content type="html"><![CDATA[보안 외신 핵리드에 의하면 엘라스틱서치(ElasticSearch)의 서버 하나가 잘못 설정되는 바람에 147GB의 데이터가 유출됐다고 한다. 여기에는 8억 7천만 건의 기록들이 저장되어 있었다고 하는데, 보안 업체 세이프티디텍티브(SafetyDetectives)에 의하...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[새로운 카오스 랜섬웨어 빌더, 해커들 사이에서 인지도 높이고 있어]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107031&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107031&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-05-25T03:20:17.098Z</updated>
-        <content type="html"><![CDATA[보안 외신 해커뉴스에 의하면 보안 업체 블랙베리(BlackBerry)의 보안 전문가들이 카오스(Chaos)라는 랜섬웨어의 새로운 빌더를 발견했다고 한다. 이 빌더의 이름은 야시마(Yashma)라고 하며 현재 해커들 사이에서 인기리에 사용되고 있는 것은 6.0 버전이라고...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인터폴, “국가 지원 해커들의 무기, 곧 일반 해커들에게도 퍼질 수 있다”]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107030&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107030&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-05-25T03:20:17.101Z</updated>
-        <content type="html"><![CDATA[보안 블로그 시큐리티어페어즈에 의하면 국가 지원 해커들만이 사용할 수 있었던 고급 공격 도구들이 일반 해커들 사이에서도 흔한 것이 될 가능성이 매우 높다는 경고가 인터폴에서부터 나왔다고 한다. 최고 해커들의 도구가 평범하거나 낮은 수준의 해커들의 손에 들어감으로써 해커...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[프레데이터 스파이웨어, 크롬과 안드로이드 제로데이 익스플로잇과 같이 판매돼]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107029&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107029&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-05-25T03:20:17.102Z</updated>
-        <content type="html"><![CDATA[IT 외신 더레지스터에 의하면 스파이웨어 제조사인 사이트록스(Cytrox)가 정부 기관들에 프레데이터(Predator)라는 스파이웨어를 판매할 때 다섯 가지 취약점들에 대한 익스플로잇도 함께 판매했다고 한다. 이 취약점은 CVE-2021-37973, CVE-2021-3...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[개발자들의 필수 방문지인 공공 리포지터리가 위험하다]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107007&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107007&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-05-25T03:20:17.103Z</updated>
-        <content type="html"><![CDATA[오픈소스 코드가 저장되고 공유되는 공공 리포지터리는 소프트웨어 공급망을 구성하는 요소 중 가장 중요한 부분을 차지하고 있다고 해도 과언이 아니다. 그렇기 때문에 공격자들의 위협에 자주 노출되는 편이며, 한 번 공격이 성공하면 그 여파가 상당히 큰 규모로 퍼져간다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[개인정보보호 우수사례-새만금개발청] 글로벌 명품 새만금, 개인정보보호로 세운다]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=106964&amp;page=1&amp;mkind=1&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=106964&amp;page=1&amp;mkind=1&amp;kind=2"/>
-        <updated>2022-05-25T03:20:17.104Z</updated>
-        <content type="html"><![CDATA[새만금개발청은 개인정보보호위원회가 주관하는 2021년도 공공기관 개인정보 관리수준 진단에서 100점 만점이라는 평가를 받았고, 2019년부터 3년 연속 최고등급인 ‘양호’를 달성했다. 이런 좋은 평가를 받을 수 있었던 것은 기관장을 비롯해 CPO(기획조정관)의 개인정보...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가명정보 활용의 유용성 알릴 우수사례 및 아이디어 모집한다]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=106998&amp;page=1&amp;mkind=1&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=106998&amp;page=1&amp;mkind=1&amp;kind=2"/>
-        <updated>2022-05-25T03:20:17.106Z</updated>
-        <content type="html"><![CDATA[개인정보보호위원회(위원장 윤종인, 이하 개인정보위)는 과학기술정보통신부(장관 이종호), 보건복지부(장관 권덕철), 금융위원회(위원장 고승범), 국세청(청장 김대지)과 공동으로 ‘제2회 가명정보 활용 우수사례·아이디어 경진대회’를 개최한다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가짜뉴스 살포 위해 사용되고 있는 러시아산 IoT 봇넷, 프론톤]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107002&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107002&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-05-24T12:34:22.047Z</updated>
-        <content type="html"><![CDATA[보안 외신 해커뉴스에 의하면 2020년 3월 세상에 처음 공개된 사물인터넷 봇넷 프론톤(Fronton)이 현재 훨씬 강력해진 모습으로 활동하고 있다고 한다. 보안 업체 니소스(Nisos)가 조사한 바에 따르면 현재 프론톤은 각종 소셜미디어 플랫폼에서 러시아 정권에 유리...]]></content>
     </entry>
 </feed>
