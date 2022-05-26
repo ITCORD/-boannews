@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-05-25T23:20:12.072Z</updated>
+    <updated>2022-05-26T01:31:42.550Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2021년, MS 제품에서 취약점 감소했는데 권한 상승 취약점만 예외]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107040&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107040&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-05-26T01:28:33.763Z</updated>
+        <content type="html"><![CDATA[마이크로소프트 제품에서 발견되는 권한 상승 취약점이 2년 연속 증가하고 있는 것으로 조사됐다. MS 제품이 사용되는 기업과 기관들의 수를 생각했을 때 당분간 권한 상승 취약점으로 분류되는 버그들과 익스플로잇들이 유행할 가능성이 높아 보인다. 그러므로 이 부분에 초점을 ...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[우리는 랜섬웨어와 데이터 침해가 결합되는 시대에 살고 있다]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107039&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107039&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-05-26T01:28:33.763Z</updated>
+        <content type="html"><![CDATA[2021년 한 해 동안 랜섬웨어 사건은 깜짝 놀랄 정도로 증가했다. 모든 침해 사고의 25%가 랜섬웨어의 요소를 일부라도 포함하고 있을 정도라고 한다. 이는 올해 발표된 ‘버라이즌 데이터 침해 수사 보고서(DBIR)’의 핵심이 되는 내용으로, 랜섬웨어의 지난 한 해 동...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[공공기관 등 8개 기관 ‘개인정보보호법 위반’으로 제재]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107038&amp;page=1&amp;mkind=1&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107038&amp;page=1&amp;mkind=1&amp;kind=2"/>
+        <updated>2022-05-26T01:28:33.765Z</updated>
+        <content type="html"><![CDATA[계원예술대학교 등 7개 공공기관과 1개 사업자가 개인정보보호법 위반으로 4,050만 원의 과태료 부과와 시정권고 조치를 받았다. 개인정보보호위원회(위원장 윤종인, 이하 ‘개인정보위’)는 5월 25일 정부서울청사에서 제9회 전체회의를 열고 이와같이 의결했다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[개인정보보호 우수사례-SR] 누적고객 1억명의 개인정보를 보호하라]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=107005&amp;page=1&amp;mkind=1&amp;kind=1</id>
@@ -102,26 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=107002&amp;page=1&amp;mkind=1&amp;kind=1"/>
         <updated>2022-05-24T12:34:22.047Z</updated>
         <content type="html"><![CDATA[보안 외신 해커뉴스에 의하면 2020년 3월 세상에 처음 공개된 사물인터넷 봇넷 프론톤(Fronton)이 현재 훨씬 강력해진 모습으로 활동하고 있다고 한다. 보안 업체 니소스(Nisos)가 조사한 바에 따르면 현재 프론톤은 각종 소셜미디어 플랫폼에서 러시아 정권에 유리...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[얼굴인식 업체 클리어뷰AI, 영국에서 940만 달러 벌금형 선고 받아]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107001&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107001&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-05-24T09:24:44.526Z</updated>
-        <content type="html"><![CDATA[보안 외신 시큐리티위크에 따르면 영국 정보 위원회(ICO)가 얼굴인식 전문 업체인 클리어뷰AI(Clearview AI)에 940만 달러에 달하는 벌금형을 내렸다고 한다. 영국 GDPR 규정을 어겼기 때문이다. 영국인들을 대상으로 한 개인정보 수집 중단 명령과, 이미 보...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[어나니머스, 친러 성향 해킹 단체인 킬넷에 전쟁 선포]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107000&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107000&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-05-24T04:34:28.932Z</updated>
-        <content type="html"><![CDATA[보안 외신 핵리드에 의하면 핵티비스트 단체 어나니머스가 친러 성향 해킹 단체인 킬넷(Killnet)에 전쟁을 선포했다고 한다. 최근 킬넷은 유럽 여러 국가들을 공격하는 것으로 알려져 있으며, 얼마 전에는 이탈리아 정부 기관 일부를 마비시키는 데 성공했다. 어나니머스는 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스네이크키로거, 악성 PDF 타고 인터넷 상에 퍼지고 있어]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=106999&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=106999&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-05-24T03:24:26.815Z</updated>
-        <content type="html"><![CDATA[보안 외신 쓰레트포스트에 의하면 스네이크키로거(Snake Keylogger)라는 멀웨어가 악성 PDF 문서를 이용해 빠르게 번져가고 있다고 한다. 공격자들은 지불/환불과 관련된 가짜 이메일을 피해자들에게 보내는데, 여기에 문제의 악성 PDF 파일이 첨부되어 있다고 한다...]]></content>
     </entry>
 </feed>
