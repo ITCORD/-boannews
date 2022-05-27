@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=2</id>
     <title>보안뉴스 ─ IT</title>
-    <updated>2022-05-27T19:18:10.213Z</updated>
+    <updated>2022-05-27T20:22:08.510Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[중기부, 2022년 소재·부품·장비 스타트업 100 선정식 개최]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107085&amp;page=1&amp;mkind=2&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107085&amp;page=1&amp;mkind=2&amp;kind=2"/>
+        <updated>2022-05-27T20:19:40.268Z</updated>
+        <content type="html"><![CDATA[중소벤처기업부는 지난 26일 ‘2022년 소재·부품·장비 스타트업 100 선정식’을 개최하고, 미래 신기술·제품 개발 등에 필요한 소재·부품·장비의 선점과 안정적 공급을 선도할 창업기업 20개사를 선정했다고 밝혔다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[복지부, 의료인공지능 융합인재 양성 5개 대학 산업단 선정]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=107086&amp;page=1&amp;mkind=2&amp;kind=2</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=107052&amp;page=1&amp;mkind=2&amp;kind=3"/>
         <updated>2022-05-26T01:28:49.588Z</updated>
         <content type="html"><![CDATA[LG유플러스는 주니퍼 네트웍스와 함께 오픈랜 핵심 기술인 소프트웨어 플랫폼 RAN 지능형 컨트롤러(RIC; Radio Access Network Intelligent Controller)의 기술 검증을 국내 최초로 진행했다고 밝혔다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[삼성전자, 레드햇과 차세대 메모리 분야 소프트웨어 기술 상호 협력]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107053&amp;page=1&amp;mkind=2&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107053&amp;page=1&amp;mkind=2&amp;kind=3"/>
-        <updated>2022-05-26T01:28:49.588Z</updated>
-        <content type="html"><![CDATA[삼성전자와 레드햇(Red Hat)은 차세대 메모리 분야 소프트웨어 기술 관련 상호 협력하기로 했다. 레드햇은 글로벌 오픈소스 솔루션 선도 기업으로, 두 회사는 NVMe SSD·CXL 메모리·컴퓨테이셔널 메모리/스토리지(Computational emory/Storage)...]]></content>
     </entry>
 </feed>
