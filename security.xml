@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-05-27T06:25:14.240Z</updated>
+    <updated>2022-05-27T07:31:52.253Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[PIS FAIR 2022 미리보기] 안랩·플랜티넷·엘세븐시큐리티·롤텍]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107074&amp;page=1&amp;mkind=1&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107074&amp;page=1&amp;mkind=1&amp;kind=3"/>
+        <updated>2022-05-27T07:29:12.375Z</updated>
+        <content type="html"><![CDATA[‘데이터 경제 시대의 개인정보보호’를 주제로 6월 2일부터 3일까지 서울 코엑스 그랜드볼룸에서 개최되는 ‘제11회 개인정보보호 페어&amp;CPO워크숍’은 국내 최대 규모의 개인정보보호 콘퍼런스다. 개인정보보호위원회와 PIS FAIR 2022 조직위원회가 주최하고, 한국인터넷...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KISIA, ‘2022 상반기 정보보호 취업박람회’ 600여명 몰렸다]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107113&amp;page=1&amp;mkind=1&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107113&amp;page=1&amp;mkind=1&amp;kind=3"/>
+        <updated>2022-05-27T07:29:12.377Z</updated>
+        <content type="html"><![CDATA[한국정보보호산업협회(회장 이동범, 이하 ‘KISIA’)는 과학기술정보통신부와 함께 5월 26일(목)에 한국과학기술회관에서 ‘2022 상반기 정보보호 취업박람회’를 열어 성황리에 종료했다고 밝혔다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[외교부, ‘2022 세계신안보포럼’ 준비를 위한 라운드테이블 개최]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=107084&amp;page=1&amp;mkind=1&amp;kind=2</id>
@@ -109,19 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=107075&amp;page=1&amp;mkind=1&amp;kind=2"/>
         <updated>2022-05-26T08:24:02.861Z</updated>
         <content type="html"><![CDATA[금융권 유일의 금융데이터거래소(FinDX)를 운영하는 금융보안원(원장 김철웅)은 국내 데이터 경제 활성화 및 금융분야 데이터 혁신을 지원하기 위해 금융권 최대 규모의 데이터 분석·활용 경진대회인 ‘FSI Data Challenge 2022’를 개최한다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에스에스알 취약점 진단 자동화 솔루션, 공공 조달시장 점유율 1위]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107072&amp;page=1&amp;mkind=1&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107072&amp;page=1&amp;mkind=1&amp;kind=3"/>
-        <updated>2022-05-26T06:22:25.823Z</updated>
-        <content type="html"><![CDATA[정보보호 전문서비스 기업 에스에스알(대표 고필주)은 주력 제품인 취약점 진단 자동화 솔루션 ‘SolidStep(솔리드스텝)’을 앞세워 공공 시장에서의 영향력을 빠르게 확대해 가고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[시큐레터, 파트너사 엔지니어 대상 제품 기술 교육 진행]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107067&amp;page=1&amp;mkind=1&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107067&amp;page=1&amp;mkind=1&amp;kind=3"/>
-        <updated>2022-05-26T05:21:08.821Z</updated>
-        <content type="html"><![CDATA[악성코드 탐지 및 차단 전문기업 시큐레터(대표 임차성)는 5월 25일부터 26일 양일간 시큐레터 판교 사옥에서 파트너사 엔지니어를 대상으로 제품 기술 교육을 진행했다고 26일 밝혔다.]]></content>
     </entry>
 </feed>
