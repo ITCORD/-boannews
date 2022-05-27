@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 May 2022 09:22:07 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 May 2022 10:24:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[bnTV] 무수히 많은 해커가 활동하는 다크웹, 그 실체를 파헤치다 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107124&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107124&amp;page=1&amp;kind=1</guid>
+            <pubDate>Fri, 27 May 2022 10:20:36 GMT</pubDate>
+            <content:encoded><![CDATA[저희가 오늘 보여드릴 다크웹내 사이트들은 여러 개 종류로 해봤는데요. 해커들이 모여서 탈취 데이터 팔고, 그 다음에 구인공고하고 이러한 해킹포럼을 먼저 찾...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/20220527DARK-S.JPG" length="0" type="image/JPG"/>
+        </item>
         <item>
             <title><![CDATA[QCT 서버 내 BMC에서 서버 완전 장악 가능케 하는 초고위험도 취약점 발견돼 (보안뉴스 ─ 전체기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107123&amp;page=1&amp;kind=1</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 27 May 2022 03:25:16 GMT</pubDate>
             <content:encoded><![CDATA[5월 26일 발간된 ‘Weekly Security Premium Report’ 제52호에는 &lt;보안 심층 리포트&gt; 코너에서는 러시아와 우크라이나 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/20220527REPORT-MS.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[줌에서 발견된 네 가지 취약점, 연쇄적으로 익스플로잇 하면 무서워져 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107081&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107081&amp;page=1&amp;kind=1</guid>
-            <pubDate>Thu, 26 May 2022 08:23:31 GMT</pubDate>
-            <content:encoded><![CDATA[유명 화상 회의 및 원격 협업 플랫폼인 줌(Zoom)에서 새로운 공격 가능성이 발견됐다. 기존에 발견됐던 취약점 4개를 엮어서 익스플로잇 하면 제로클릭 원...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/chain-thumb-0526.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한국입법기자협회, 창립총회 및 세미나 개최 (보안뉴스 ─ 전체기사)]]></title>
@@ -302,20 +302,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/SR_0524_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[가짜 윈도 업데이트로 러시아 정보 기관 노리는 해커들 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107035&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107035&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Wed, 25 May 2022 20:18:56 GMT</pubDate>
-            <content:encoded><![CDATA[IT 외신 블리핑컴퓨터에 의하면 러시아 정부 기관들이 여러 해커들의 표적이 되고 있다고 한다. 최근 일부 해커들이 가짜 윈도 업데이트 파일로 원격 접근 도구(RA...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/21652253_copy_295x190_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[“보안 감시 기술의 혁신, 글로벌 보안 감시 솔루션 쑥쑥 성장” (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107065&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107065&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
             <pubDate>Fri, 27 May 2022 01:23:55 GMT</pubDate>
             <content:encoded><![CDATA[보안 감시 분야가 지속적으로 발전하고, 혁신적인 기능이 제공되면서 보안 감시 솔루션 시장이 고속 성장하고 있다. 새로운 통합 기능과 분석 오퍼링과 같은 기능 제공...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/20013295-c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[가짜 윈도 업데이트로 러시아 정보 기관 노리는 해커들 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107035&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107035&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Wed, 25 May 2022 20:18:56 GMT</pubDate>
+            <content:encoded><![CDATA[IT 외신 블리핑컴퓨터에 의하면 러시아 정부 기관들이 여러 해커들의 표적이 되고 있다고 한다. 최근 일부 해커들이 가짜 윈도 업데이트 파일로 원격 접근 도구(RA...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/21652253_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[줌에서 발견된 네 가지 취약점, 연쇄적으로 익스플로잇 하면 무서워져 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
@@ -396,6 +396,13 @@
             <pubDate>Fri, 27 May 2022 09:18:38 GMT</pubDate>
             <content:encoded><![CDATA[조직이 디지털 혁신 경로를 따라갈수록 전반적인 보안 태세 확립에 있어 API 보안은 더욱 중요해지고 있다. 매일 개발팀은 혁신을 거듭하고 있다. 그들은 B2B 프...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/API-C(0).jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SNS 이벤트 당첨? 알고보니 개인정보 유출 당첨! (보안뉴스 ─ SECURITY)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107119&amp;page=1&amp;mkind=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107119&amp;page=1&amp;mkind=1&amp;kind=1</guid>
+            <pubDate>Fri, 27 May 2022 10:21:14 GMT</pubDate>
+            <content:encoded><![CDATA[최근 SNS 이벤트를 사칭해 사용자 개인정보 노린 공격이 급증하고 있어 사용자의 주의가 요구된다고 이스트시큐리티&nbsp;시큐리티대응센터(이하&nbsp;ESRC)가 밝혔다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[SR, 한국인터넷진흥원과 안전한 인터넷 환경 조성 (보안뉴스 ─ SECURITY)]]></title>
@@ -508,13 +515,6 @@
             <guid>https://www.boannews.com/media/view.asp?idx=107077&amp;page=1&amp;mkind=1&amp;kind=1</guid>
             <pubDate>Fri, 27 May 2022 03:25:44 GMT</pubDate>
             <content:encoded><![CDATA[한 사이버 공격 단체가 조직적으로 디도스 공격을 하기 시작했는데, 이 단체가 다름 아닌 레빌(REvil)이라는 악명 높은 랜섬웨어 운영자일 가능성이 있는 것으로 분석되고 있다. 보안 업체 아카마이(Akamai)에 의하면 이번 디도스 공격은 아카마이 고객사 한 곳을 겨냥...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[IBM, AWS와 전략적 협력 협약 통해 서비스형 소프트웨어 제공 (보안뉴스 ─ SECURITY)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107076&amp;page=1&amp;mkind=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107076&amp;page=1&amp;mkind=1&amp;kind=3</guid>
-            <pubDate>Fri, 27 May 2022 03:25:44 GMT</pubDate>
-            <content:encoded><![CDATA[IBM은 아마존웹서비스(Amazon Web Services, 이하 AWS)와 전략적 협력 계약(Strategic Collaboration Agreement, SCA)을 체결하며 앞으로 AWS 상에서 다양한 소프트웨어를 서비스형 소프트웨어(Software-as-a-Ser...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[복지부, 의료인공지능 융합인재 양성 5개 대학 산업단 선정 (보안뉴스 ─ IT)]]></title>
@@ -769,6 +769,20 @@
             <pubDate>Fri, 27 May 2022 03:26:19 GMT</pubDate>
             <content:encoded><![CDATA[영상인식 AI 기업 알체라(대표 황영규)는 데이터산업진흥원 주관 ‘2022 데이터 바우처 지원사업’의 공급기업으로서 오는 11월까지 선정된 수요기업을 대상...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/22052701ss.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[bnTV] 무수히 많은 해커가 활동하는 다크웹, 그 실체를 파헤치다 (보안뉴스 ─ 취약점 경고 및 버그리포트)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107124&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107124&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=</guid>
+            <pubDate>Fri, 27 May 2022 10:22:19 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/view.asp?idx=107124&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=">
+					
+					<img src="/media/upFiles2/2022/05/20220527DARK-S.JPG" alt="" class="news_img" height="70">
+					
+					<span class="news_txt">[bnTV] 무수히 많은 해커가 활동하는 다크웹, 그 실체를 파헤치다  </span>
+					</a><br>
+					<a href="/media/view.asp?idx=107124&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=">저희가 오늘 보여드릴 다크웹내 사이트들은 여러 개 종류로 해봤는데요. 해커들이 모여서 탈취 데이터 팔고, 그 다음에 구인공고하고 이러한 해킹포럼을 먼저 찾아볼 겁...</a> <span class="news_writer">권준  기자 | 2022년 05월 27일 18:26</span>]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/20220527DARK-S.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[SNS 이벤트 당첨? 알고보니 개인정보 유출 당첨! (보안뉴스 ─ 취약점 경고 및 버그리포트)]]></title>
@@ -1035,20 +1049,6 @@
 					</a><br>
 					<a href="/media/view.asp?idx=106612&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=">북한이탈주민(탈북민) 자문위원들에게 의견을 수렴하는 내용처럼 위장한 HWP 악성 문서 기반 북한 연계 해킹 공격이 발견됐다.  </a> <span class="news_writer">권준  기자 | 2022년 05월 09일 11:34</span>]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/20220509EST1-SM.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[[단독] 중국 해커조직 “한국 보건·국방분야 정부기관 해킹해 데이터 탈취” 주장 (보안뉴스 ─ 취약점 경고 및 버그리포트)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106607&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106607&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=</guid>
-            <pubDate>Sun, 08 May 2022 16:23:36 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/view.asp?idx=106607&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=">
-					
-					<img src="/media/upFiles2/2022/05/20220508CHINA-S.jpg" alt="" class="news_img" height="70">
-					
-					<span class="news_txt">[단독] 중국 해커조직 “한국 보건·국방분야 정부기관 해킹해 데이터 탈취” 주장 </span>
-					</a><br>
-					<a href="/media/view.asp?idx=106607&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=">윤석열 정부 출범을 앞두고 북한의 연이은 미사일 발사 등으로 한반도의 긴장감이 높아지고 있는 가운데 북한뿐만 아니라 중국의 해커그룹까지 우리나라 국방 및 의료 부...</a> <span class="news_writer">권준  기자 | 2022년 05월 09일 00:57</span>]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/20220508CHINA-S.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[최정식 발행인 칼럼] <시큐리티월드> 통권 300호를 맞아 드리는 감사의 말씀 (보안뉴스 ─ 오피니언)]]></title>

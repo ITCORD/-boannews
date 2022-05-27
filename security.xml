@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-05-27T09:22:07.021Z</updated>
+    <updated>2022-05-27T10:24:20.273Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[SNS 이벤트 당첨? 알고보니 개인정보 유출 당첨!]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107119&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107119&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-05-27T10:21:14.810Z</updated>
+        <content type="html"><![CDATA[최근 SNS 이벤트를 사칭해 사용자 개인정보 노린 공격이 급증하고 있어 사용자의 주의가 요구된다고 이스트시큐리티&nbsp;시큐리티대응센터(이하&nbsp;ESRC)가 밝혔다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SR, 한국인터넷진흥원과 안전한 인터넷 환경 조성]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=107114&amp;page=1&amp;mkind=1&amp;kind=3</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=107077&amp;page=1&amp;mkind=1&amp;kind=1"/>
         <updated>2022-05-27T03:25:44.819Z</updated>
         <content type="html"><![CDATA[한 사이버 공격 단체가 조직적으로 디도스 공격을 하기 시작했는데, 이 단체가 다름 아닌 레빌(REvil)이라는 악명 높은 랜섬웨어 운영자일 가능성이 있는 것으로 분석되고 있다. 보안 업체 아카마이(Akamai)에 의하면 이번 디도스 공격은 아카마이 고객사 한 곳을 겨냥...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IBM, AWS와 전략적 협력 협약 통해 서비스형 소프트웨어 제공]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107076&amp;page=1&amp;mkind=1&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107076&amp;page=1&amp;mkind=1&amp;kind=3"/>
-        <updated>2022-05-27T03:25:44.820Z</updated>
-        <content type="html"><![CDATA[IBM은 아마존웹서비스(Amazon Web Services, 이하 AWS)와 전략적 협력 계약(Strategic Collaboration Agreement, SCA)을 체결하며 앞으로 AWS 상에서 다양한 소프트웨어를 서비스형 소프트웨어(Software-as-a-Ser...]]></content>
     </entry>
 </feed>
