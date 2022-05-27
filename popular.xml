@@ -4,17 +4,9 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 27 May 2022 08:24:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 May 2022 09:22:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[단독] 토론회 개최한 태영호 의원실 사칭 북한 해킹 메일 공격 포착됐다]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106924&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106924&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Sun, 22 May 2022 17:15:34 GMT</pubDate>
-            <content:encoded><![CDATA[국민의힘 태영호 의원실을 사칭한 악성파일이 발견됐다. 특히, 북한 관련 정부 주요 인사와 전문가를 겨냥한 정보 탈취와 그들의 일거수일투족을 감시하려는 목적의 이메...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/20220520younghomain-s.JPG" length="0" type="image/JPG"/>
-        </item>
         <item>
             <title><![CDATA[[주말판] 러시아-우크라이나 전쟁 계기로 하이브리드전 시대 본격 개막한다]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=106941&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
@@ -166,6 +158,14 @@
             <pubDate>Fri, 27 May 2022 08:22:05 GMT</pubDate>
             <content:encoded><![CDATA[새만금개발청은 개인정보보호위원회가 주관하는 2021년도 공공기관 개인정보 관리수준 진단에서 100점 만점이라는 평가를 받았고, 2019년부터 3년 연속 최고등급인...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/saeman_0523_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[API 보안, 필수 애플리케이션 보안전략으로 만드는 방법]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106960&amp;page=1&amp;kind=5&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106960&amp;page=1&amp;kind=5&amp;search=title&amp;find=</guid>
+            <pubDate>Fri, 27 May 2022 09:18:38 GMT</pubDate>
+            <content:encoded><![CDATA[조직이 디지털 혁신 경로를 따라갈수록 전반적인 보안 태세 확립에 있어 API 보안은 더욱 중요해지고 있다. 매일 개발팀은 혁신을 거듭하고 있다. 그들은 B2B 프...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/API-C(0).jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

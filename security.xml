@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-05-27T08:24:31.602Z</updated>
+    <updated>2022-05-27T09:22:07.021Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[SR, 한국인터넷진흥원과 안전한 인터넷 환경 조성]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107114&amp;page=1&amp;mkind=1&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107114&amp;page=1&amp;mkind=1&amp;kind=3"/>
+        <updated>2022-05-27T09:18:53.702Z</updated>
+        <content type="html"><![CDATA[SRT 운영사 SR(대표이사 이종국)은 26일(목) 한국인터넷진흥원(KISA. 원장 이원태)과 안전한 인터넷 환경 조성을 위한 ‘보안 취약점 신고 포상제’ 공동운영 업무협약(MOU)을 체결했다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[PIS FAIR 2022 미리보기] 안랩·플랜티넷·엘세븐시큐리티·롤텍]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=107074&amp;page=1&amp;mkind=1&amp;kind=3</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=107076&amp;page=1&amp;mkind=1&amp;kind=3"/>
         <updated>2022-05-27T03:25:44.820Z</updated>
         <content type="html"><![CDATA[IBM은 아마존웹서비스(Amazon Web Services, 이하 AWS)와 전략적 협력 계약(Strategic Collaboration Agreement, SCA)을 체결하며 앞으로 AWS 상에서 다양한 소프트웨어를 서비스형 소프트웨어(Software-as-a-Ser...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[금융보안원, 금융 데이터 분석·활용 경진대회 ‘FSI Data Challenge 2022’ 개최]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107075&amp;page=1&amp;mkind=1&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107075&amp;page=1&amp;mkind=1&amp;kind=2"/>
-        <updated>2022-05-26T08:24:02.861Z</updated>
-        <content type="html"><![CDATA[금융권 유일의 금융데이터거래소(FinDX)를 운영하는 금융보안원(원장 김철웅)은 국내 데이터 경제 활성화 및 금융분야 데이터 혁신을 지원하기 위해 금융권 최대 규모의 데이터 분석·활용 경진대회인 ‘FSI Data Challenge 2022’를 개최한다.]]></content>
     </entry>
 </feed>
