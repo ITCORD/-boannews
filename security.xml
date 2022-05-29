@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-05-29T12:32:25.034Z</updated>
+    <updated>2022-05-29T13:31:14.754Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[엔피코어, 모니터랩과  APT대응시스템 공동사업 위한 업무협약 체결]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107138&amp;page=1&amp;mkind=1&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107138&amp;page=1&amp;mkind=1&amp;kind=3"/>
+        <updated>2022-05-29T13:28:20.701Z</updated>
+        <content type="html"><![CDATA[엔피코어(대표이사 한승철)는 지난 23일 모니터랩과 SSL가시성이 통합된 APT대응시스템 공동사업을 위한 업무협약을 체결했다고 밝혔다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[bnTV] 무수히 많은 해커가 활동하는 다크웹, 그 실체를 파헤치다]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=107124&amp;page=1&amp;mkind=1&amp;kind=1</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=107110&amp;page=1&amp;mkind=1&amp;kind=1"/>
         <updated>2022-05-27T03:25:44.815Z</updated>
         <content type="html"><![CDATA[보안 외신 해커뉴스에 의하면 최근 크롬로더(ChromeLoader)라는 새로운 멀웨어가 위협적으로 유포되는 중이라고 한다. 보안 업체 레드카나리아(Red Canary)가 공식 보고서를 통해 밝힌 내용에 따르면 크롬로더는 가짜 크롬 브라우저 플러그인으로 위장되어 있으며,...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[자이젤, 다양한 제품에서 발견된 네 가지 취약점 패치해]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107108&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107108&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-05-27T03:25:44.816Z</updated>
-        <content type="html"><![CDATA[보안 블로그 시큐리티어페어즈에 의하면 자이젤(Zyxel)이 다양한 제품군에 영향을 주는 취약점 네 개에 대한 패치를 개발해 배포 중에 있다고 한다. 자이젤에서 출시한 USG/ZyWALL, USG FLEX, ATP, VPN, NSG 방화벽 제품들, NXC2500과 NXC...]]></content>
     </entry>
 </feed>
