@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-05-29T14:19:41.096Z</updated>
+    <updated>2022-05-29T15:20:58.740Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[추경 등 소상공인 지원자금 지급? 해당 유형 보이스피싱·스미싱 급증]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107126&amp;page=1&amp;mkind=1&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107126&amp;page=1&amp;mkind=1&amp;kind=2"/>
+        <updated>2022-05-29T15:18:02.825Z</updated>
+        <content type="html"><![CDATA[경찰청 국가수사본부는 지난 4월 전화금융사기 피해 현황을 분석한 결과, 발생 건수와 피해액이 모두 3월 대비 증가했다고 밝혔다. 찰청은 국민·언론·방송 등 누구에게나 전화금융사기가 익숙한 주제라는 점이 경계심을 약하게 만드는 원인으로 판단하고 있다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[엔피코어, 모니터랩과  APT대응시스템 공동사업 위한 업무협약 체결]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=107138&amp;page=1&amp;mkind=1&amp;kind=3</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=107111&amp;page=1&amp;mkind=1&amp;kind=1"/>
         <updated>2022-05-27T03:25:44.814Z</updated>
         <content type="html"><![CDATA[AFP통신에 의하면 얼마 전 스파이웨어 스캔들이 터진 스페인 정부가 비밀국에 대한 감시와 견제를 강화한다고 발표했다고 한다. 이는 지난 4월 캐나다의 시티즌랩(Citizen Lab)이 공개한 사건으로, 카탈로니아의 분리와 독립을 주장하는 정치인 60여 명의 스마트폰에서...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[크롬로더 멀웨어, 사용자 브라우저 하이재킹해]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107110&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107110&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-05-27T03:25:44.815Z</updated>
-        <content type="html"><![CDATA[보안 외신 해커뉴스에 의하면 최근 크롬로더(ChromeLoader)라는 새로운 멀웨어가 위협적으로 유포되는 중이라고 한다. 보안 업체 레드카나리아(Red Canary)가 공식 보고서를 통해 밝힌 내용에 따르면 크롬로더는 가짜 크롬 브라우저 플러그인으로 위장되어 있으며,...]]></content>
     </entry>
 </feed>
