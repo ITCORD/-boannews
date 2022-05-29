@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 29 May 2022 16:26:12 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 May 2022 17:23:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,20 +24,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/20220528voice-s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[문체부 산하 ‘KTV 유튜브 채널’ 방송 섭외로 둔갑한 북한 소행 해킹 공격]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106961&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106961&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Mon, 23 May 2022 21:16:03 GMT</pubDate>
-            <content:encoded><![CDATA[최근 문화체육관광부 산하 한국정책방송원(KTV)의 유튜브 방송 출연 섭외로 위장한 HWP 악성 문서가 전파되고 있어 각별한 주의가 요구된다고 보안 전문 기업 이스...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/est_0523_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[주말판] 데브옵스, 왜 소문만 무성하고 실제로는 잘 구현되지 않는가?]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107137&amp;page=1&amp;kind=4&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107137&amp;page=1&amp;kind=4&amp;search=title&amp;find=</guid>
             <pubDate>Sun, 29 May 2022 03:27:30 GMT</pubDate>
             <content:encoded><![CDATA[2007년 IT 업계에서는 데브옵스(DevOps)라는 움직임이 일어나기 시작했다. 소프트웨어 개발과 IT 운영 사이의 간극을 메워줄 방법론으로서 각광받기 시작했으...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/19943035_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[문체부 산하 ‘KTV 유튜브 채널’ 방송 섭외로 둔갑한 북한 소행 해킹 공격]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=106961&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=106961&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Mon, 23 May 2022 21:16:03 GMT</pubDate>
+            <content:encoded><![CDATA[최근 문화체육관광부 산하 한국정책방송원(KTV)의 유튜브 방송 출연 섭외로 위장한 HWP 악성 문서가 전파되고 있어 각별한 주의가 요구된다고 보안 전문 기업 이스...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/est_0523_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[재난재해 많은 시기, 지역 특화형 ‘안전체험관’으로 고고!]]></title>
@@ -144,14 +144,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/site-thumb-0527.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[윤석열-바이든 한미정상회담, 핵심의제로 급부상한 ‘사이버 보안’]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106943&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106943&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
-            <pubDate>Tue, 24 May 2022 10:19:38 GMT</pubDate>
-            <content:encoded><![CDATA[5월 21일 한국의 윤석열 대통령과 미국의 조 바이든 대통령이 한미 정상 공동기자회견을 통해 언급한 공동선언문에서 ‘사이버 보안’이 핵심의제 가운데 하나로 급부상...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/20220522summit-s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[트위터, 사용자 데이터 프라이버시 침해로 1억 5천만 달러 벌금형에 처해]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107073&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107073&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
@@ -166,6 +158,14 @@
             <pubDate>Sun, 29 May 2022 10:19:06 GMT</pubDate>
             <content:encoded><![CDATA[콴타 클라우드 테크롤로지(Quanta Cloud Technology, QCT)의 서버 모델 일부에서 초고위험도 펌웨어 취약점이 발견됐다. 이 취약점의 익스플로잇에...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/21772404_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[개발자들의 필수 방문지인 공공 리포지터리가 위험하다]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107007&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107007&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Sun, 29 May 2022 17:20:34 GMT</pubDate>
+            <content:encoded><![CDATA[오픈소스 코드가 저장되고 공유되는 공공 리포지터리는 소프트웨어 공급망을 구성하는 요소 중 가장 중요한 부분을 차지하고 있다고 해도 과언이 아니다. 그렇기 때문에 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/py-thumb-0524.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
