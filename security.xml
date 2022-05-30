@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-05-30T01:30:25.648Z</updated>
+    <updated>2022-05-30T03:38:12.760Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[친러 성향 해커 킬넷, 5월 30일에 이탈리아 공격 예고]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107144&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107144&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-05-30T03:36:20.824Z</updated>
+        <content type="html"><![CDATA[보안 블로그 시큐리티어페어즈에 의하면 친러 성향 해킹 단체인 킬넷(KillNet)이 5월 30일에 이탈리아에 해킹 공격을 감행하겠다고 예고했다고 한다. 이탈리아의 은행, 매체, 에너지 기업 등이 공격 표적이 될 것이라고 하는데, 현재까지는 세 개의 정부 웹사이트들에서 ...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NSIS 설치 파일 받으려다... 악성코드가 우르르 쏟아진다]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107141&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107141&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-05-30T03:36:20.826Z</updated>
+        <content type="html"><![CDATA[최근 들어 NSIS 설치 파일을 통해 다수의 악성 파일들을 배포하고 있는 정황을 확인돼 사용자들의 주의가 요구된다고 안랩 ASEC 분석팀이 밝혔다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘스파이스웨어’ 등 스타트업 우수 개인정보 기술 선정·사업화 지원한다]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107140&amp;page=1&amp;mkind=1&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107140&amp;page=1&amp;mkind=1&amp;kind=2"/>
+        <updated>2022-05-30T03:36:20.827Z</updated>
+        <content type="html"><![CDATA[복잡한 개인정보 처리 동의내용을 이해하기 쉽게 알려주고, 나의 동의이력 조회 및 철회까지 돕는 기술을 보유한 기업 등 총 6개 새싹기업(스타트업)이 우수 개인정보 보호·활용 기업에 선정돼 사업화 지원을 받는다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[강원도교육청, 정보보호 교육 실시]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107128&amp;page=1&amp;mkind=1&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107128&amp;page=1&amp;mkind=1&amp;kind=2"/>
+        <updated>2022-05-30T03:36:20.833Z</updated>
+        <content type="html"><![CDATA[강원도교육청은 지난 27일 도교육청 전 직원 및 행정기관 정보보호 업무 담당자를 대상으로 정보보호 교육을 실시했다. 이번 교육은 사회적 거리두기 조치가 해제되면서 대면 교육으로 진행됐으며, 공직자의 정보보호에 대한 인식 및 정보보호 조치와 안전한 관리에 대한 이해도를 ...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[추경 등 소상공인 지원자금 지급? 해당 유형 보이스피싱·스미싱 급증]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=107126&amp;page=1&amp;mkind=1&amp;kind=2</id>
@@ -95,33 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=107102&amp;page=1&amp;mkind=1&amp;kind=3"/>
         <updated>2022-05-27T05:38:59.743Z</updated>
         <content type="html"><![CDATA[KMH그룹(회장 최상주) 운영 네트워크 보안 솔루션 업체인 넥스지(대표 김익수)가 ‘KB국민은행 통신 인프라 재구축 사업’에 참여해 차세대 가상사설망(VPN) 구축 프로젝트를 수주했다고 27일 밝혔다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[로그프레소, 보안운영 플랫폼 ‘로그프레소 엔터프라이즈 4.0’ 출시]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107101&amp;page=1&amp;mkind=1&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107101&amp;page=1&amp;mkind=1&amp;kind=3"/>
-        <updated>2022-05-27T05:38:59.746Z</updated>
-        <content type="html"><![CDATA[보안운영(SecOps) 플랫폼 전문기업 로그프레소(대표 양봉열)는 사용자가 자유자재로 기능을 확장할 수 있는 보안운영 플랫폼 ‘로그프레소 엔터프라이즈 4.0’을 출시한다고 27일 밝혔다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KISA-부산광역시, 국내 최초 ‘지역 블록체인 기술혁신지원센터’ 구축 MOU]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107112&amp;page=1&amp;mkind=1&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107112&amp;page=1&amp;mkind=1&amp;kind=2"/>
-        <updated>2022-05-27T03:25:44.811Z</updated>
-        <content type="html"><![CDATA[한국인터넷진흥원(KISA, 원장 이원태)은 부산광역시(시장권한대행 이병진), 부산테크노파크(원장 김형균)와 함께 ‘2022년 지역 블록체인 기술혁신지원센터 구축 사업’에 관한 업무협약을 부산광역시청에서 5월 27일(금) 체결했다고 밝혔다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[안랩, 파트너사 실무 역량 강화 프로그램 ‘안랩 파트너 부트캠프’ 성료]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107100&amp;page=1&amp;mkind=1&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107100&amp;page=1&amp;mkind=1&amp;kind=3"/>
-        <updated>2022-05-27T03:25:44.812Z</updated>
-        <content type="html"><![CDATA[안랩(대표 강석균)이 5월 9일부터 27일까지 3주간 엔드포인트 및 네트워크 공인 파트너사의 엔지니어를 대상으로 실무교육 프로그램인 ‘안랩 파트너 부트캠프(AhnLab Partner Boot Camp)’를 개최했다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스파이웨어 스캔들 난 스페인, 비밀국 서비스에 대한 통제 강화하기로]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107111&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107111&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-05-27T03:25:44.814Z</updated>
-        <content type="html"><![CDATA[AFP통신에 의하면 얼마 전 스파이웨어 스캔들이 터진 스페인 정부가 비밀국에 대한 감시와 견제를 강화한다고 발표했다고 한다. 이는 지난 4월 캐나다의 시티즌랩(Citizen Lab)이 공개한 사건으로, 카탈로니아의 분리와 독립을 주장하는 정치인 60여 명의 스마트폰에서...]]></content>
     </entry>
 </feed>
