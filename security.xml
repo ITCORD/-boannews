@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-05-30T08:27:49.639Z</updated>
+    <updated>2022-05-30T09:22:49.094Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[차상길 KAIST 교수, IEEE Test-of-Time Award 수상]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107152&amp;page=1&amp;mkind=1&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107152&amp;page=1&amp;mkind=1&amp;kind=2"/>
+        <updated>2022-05-30T09:20:13.334Z</updated>
+        <content type="html"><![CDATA[KAIST 정보보호대학원 차상길 교수(KAIST 사이버보안연구센터장)가 올해 5월에 열린 정보보안 최정상 학회인 IEEE Security &amp; Privacy에서 Test-of-Time Award를 수상했다. Test-of-Time Award란 지난 10년간 정보보안 분야...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[엠클라우독, 6월 7일 ‘aidoc’ 출시기념 세미나 개최]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107142&amp;page=1&amp;mkind=1&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107142&amp;page=1&amp;mkind=1&amp;kind=3"/>
+        <updated>2022-05-30T09:20:13.336Z</updated>
+        <content type="html"><![CDATA[인공지능 문서중앙화 솔루션 전문기업 엠클라우독(대표 유상열)이 오는 6월 7일 잠실 롯데타워 SKY31 컨벤션에서 ‘AI 지식관리 솔루션 aidoc 출시기념 세미나’를 개최한다고 30일 밝혔다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[OT 환경에서 널리 사용되는 OAS 플랫폼 여러 버전에서 다양한 취약점 발견돼]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=107150&amp;page=1&amp;mkind=1&amp;kind=1</id>
@@ -109,19 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=107114&amp;page=1&amp;mkind=1&amp;kind=3"/>
         <updated>2022-05-27T09:18:53.702Z</updated>
         <content type="html"><![CDATA[SRT 운영사 SR(대표이사 이종국)은 26일(목) 한국인터넷진흥원(KISA. 원장 이원태)과 안전한 인터넷 환경 조성을 위한 ‘보안 취약점 신고 포상제’ 공동운영 업무협약(MOU)을 체결했다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[PIS FAIR 2022 미리보기] 안랩·플랜티넷·엘세븐시큐리티·롤텍]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107074&amp;page=1&amp;mkind=1&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107074&amp;page=1&amp;mkind=1&amp;kind=3"/>
-        <updated>2022-05-27T08:22:19.932Z</updated>
-        <content type="html"><![CDATA[‘데이터 경제 시대의 개인정보보호’를 주제로 6월 2일부터 3일까지 서울 코엑스 그랜드볼룸에서 개최되는 ‘제11회 개인정보보호 페어&amp;CPO워크숍’은 국내 최대 규모의 개인정보보호 콘퍼런스다. 개인정보보호위원회와 PIS FAIR 2022 조직위원회가 주최하고, 한국인터넷...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KISIA, ‘2022 상반기 정보보호 취업박람회’ 600여명 몰렸다]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107113&amp;page=1&amp;mkind=1&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107113&amp;page=1&amp;mkind=1&amp;kind=3"/>
-        <updated>2022-05-27T08:22:19.933Z</updated>
-        <content type="html"><![CDATA[한국정보보호산업협회(회장 이동범, 이하 ‘KISIA’)는 과학기술정보통신부와 함께 5월 26일(목)에 한국과학기술회관에서 ‘2022 상반기 정보보호 취업박람회’를 열어 성황리에 종료했다고 밝혔다.]]></content>
     </entry>
 </feed>
