@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=4</id>
     <title>보안뉴스 ─ SAFETY</title>
-    <updated>2022-05-30T06:30:11.327Z</updated>
+    <updated>2022-05-30T07:22:01.258Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[캠핑 안전수칙 지켜주세요]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107096&amp;page=1&amp;mkind=4&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107096&amp;page=1&amp;mkind=4&amp;kind=2"/>
+        <updated>2022-05-30T07:19:42.416Z</updated>
+        <content type="html"><![CDATA[광주시 소방안전본부는 캠핑 활동이 증가함에 따라 안전한 캠핑 문화 정착을 위해 화재 등 안전사고 예방에 각별한 주의를 당부했다. 캠핑 관련 사고를 예방하기 위해 먼저 캠핑장 주변의 시설 배치나 대피소, 소화기구 위치, 이용자 안전수칙 등을 숙지하고 전기 연장선을 사용할...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[인권위, 교통사고 위험으로부터 노인 인권을 보호하기 위한 권고 및 의견 표명]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=107083&amp;page=1&amp;mkind=4&amp;kind=2</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=106902&amp;page=1&amp;mkind=4&amp;kind=2"/>
         <updated>2022-05-22T17:16:14.175Z</updated>
         <content type="html"><![CDATA[서울 은평구가 미혼모·한부모 가정 대상으로 범죄 예방 사물인터넷(IoT) 장비를 지원한다고 밝혔다. 구는 엘지유플러스와 협력해 지난해부터 범죄예방환경설계(CPTED) 사업으로 미혼모·한부모 가정에 범죄 예방을 돕는 사물인터넷(IoT) 장비를 지원하고 있다. 장비 설치는...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BGF리테일-나르마, 드론 긴급구호 활동 업무협약 체결]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=106901&amp;page=1&amp;mkind=4&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=106901&amp;page=1&amp;mkind=4&amp;kind=3"/>
-        <updated>2022-05-22T17:16:14.183Z</updated>
-        <content type="html"><![CDATA[편의점 업계 1위 CU를 운영하는 BGF리테일이 한국항공우주연구원의 1호 연구소 기업인 나르마와 업계 최초로 드론을 활용한 재난 예방 및 구호 활동 협력을 위한 업무협약을 지난 18일 체결했다.]]></content>
     </entry>
 </feed>
