@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 May 2022 06:25:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 May 2022 07:20:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -372,20 +372,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/22052731ss.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[개발자들의 필수 방문지인 공공 리포지터리가 위험하다 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107007&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107007&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Mon, 30 May 2022 05:25:43 GMT</pubDate>
-            <content:encoded><![CDATA[오픈소스 코드가 저장되고 공유되는 공공 리포지터리는 소프트웨어 공급망을 구성하는 요소 중 가장 중요한 부분을 차지하고 있다고 해도 과언이 아니다. 그렇기 때문에 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/py-thumb-0524.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[2022 NGIPS 리포트] 고도화·지능화 사이버공격에  차세대 IPS 솔루션 ‘뜬다’ (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107107&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107107&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
             <pubDate>Tue, 31 May 2022 06:22:21 GMT</pubDate>
             <content:encoded><![CDATA[최근 공격 트렌드를 살펴보면 공격자는 복잡한 네트워크 환경을 악용해 보안의 사각지대를 노린다. 네트워크·OS·웹·애플리케이션의 취약점 공격, 알려지지 않은 지능화...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/20220530ngips-ms.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[개발자들의 필수 방문지인 공공 리포지터리가 위험하다 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107007&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107007&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Mon, 30 May 2022 05:25:43 GMT</pubDate>
+            <content:encoded><![CDATA[오픈소스 코드가 저장되고 공유되는 공공 리포지터리는 소프트웨어 공급망을 구성하는 요소 중 가장 중요한 부분을 차지하고 있다고 해도 과언이 아니다. 그렇기 때문에 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/py-thumb-0524.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[개인정보보호 우수사례-새만금개발청] 글로벌 명품 새만금, 개인정보보호로 세운다 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
