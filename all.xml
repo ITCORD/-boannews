@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 May 2022 15:25:23 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 May 2022 16:30:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[北 해커조직 김수키, 인터넷 공유기 설치파일 위장 AppleSeed 유포 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107188&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107188&amp;page=1&amp;kind=1</guid>
+            <pubDate>Tue, 31 May 2022 16:26:53 GMT</pubDate>
+            <content:encoded><![CDATA[북한 해커조직으로 추정되는 악성코드가 유포된 정황이 포착돼 이용자들의 각별한 주의가 요구된다.]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/20220601KIM-S.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[5월 마지막 주 악성코드 통계는? 정보탈취용 악성코드 들끓어 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107187&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107187&amp;page=1&amp;kind=1</guid>
+            <pubDate>Tue, 31 May 2022 16:26:53 GMT</pubDate>
+            <content:encoded><![CDATA[메일 등에 저장된 사용자 정보를 유출하는 악성코드가 한 주간 기승을 부린 것으로 조사됐다. 정보탈취용 악성코드인 만큼 중요 데티어와 개인정보가 유출되지 않...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/2022-05-31-ASEC-C.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[GDPR 4주년을 맞아 데이터 레이크에 종말을 고하다 (보안뉴스 ─ 전체기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107155&amp;page=1&amp;kind=4</link>
@@ -70,22 +86,6 @@
             <pubDate>Mon, 30 May 2022 09:19:41 GMT</pubDate>
             <content:encoded><![CDATA[카오스(Chaos)라는 멀웨어 빌더가 1년 전에는 와이퍼(wiper) 쪽으로 가닥을 잡는 듯 하더니 최근 이름을 야시마(Yashma)로 바꾸며 랜섬웨어로 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/21554534_copy_295x190_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[제품리뷰] 신제품(NEP) 인증 획득한 에스카의 저시정 영상개선 솔루션 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107080&amp;page=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107080&amp;page=1&amp;kind=3</guid>
-            <pubDate>Mon, 30 May 2022 08:23:50 GMT</pubDate>
-            <content:encoded><![CDATA[저시정 영상개선 솔루션 분야에 탄탄한 기술력을 갖춘 ‘에스카’가 국내에서 최초로 개발된 기술 또는 이에 준하는 대체기술로서 기존의 기술을 혁신적으로 개선·...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/22052611ss.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[물리·정보보안 업계, 6월에는 어느 기업이 어떤 인재 찾고 있나 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107078&amp;page=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107078&amp;page=1&amp;kind=3</guid>
-            <pubDate>Mon, 30 May 2022 08:23:50 GMT</pubDate>
-            <content:encoded><![CDATA[상반기를 마무리하는 6월이 코앞으로 다가왔다. 코로나19로 제약적이던 일상은 일부를 제외하고 예전과 같은 모습을 되찾고 있으며, 막혀있던 해외여행과 판로도...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/22052606dd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[경기도소방재난본부, 재난안전통신망 구축 완료… 6월 1일부터 정식 사용 (보안뉴스 ─ 전체기사)]]></title>
@@ -397,6 +397,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/21554534_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[GDPR 4주년을 맞아 데이터 레이크에 종말을 고하다 (보안뉴스 ─ SECURITY)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107155&amp;page=1&amp;mkind=1&amp;kind=4</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107155&amp;page=1&amp;mkind=1&amp;kind=4</guid>
+            <pubDate>Tue, 31 May 2022 16:27:27 GMT</pubDate>
+            <content:encoded><![CDATA[이번 달로서 세계는 유럽연합이 GDPR이라는 역사적 규정을 시행한 지 4주년을 맞게 됐다. 그 동안 개인의 프라이버시, 혹은 데이터의 프라이버시에 대한 우리의 관념은 계속해서 변해왔고, 그 변화의 중심에 GDPR이 있었음은 부인할 수 없는 사실이다. 싫든 좋든 GDPR...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[안랩, 금융권 클라우드 규제대응 및 구축 전략 온라인 세미나 개최 (보안뉴스 ─ SECURITY)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107183&amp;page=1&amp;mkind=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107183&amp;page=1&amp;mkind=1&amp;kind=1</guid>
+            <pubDate>Tue, 31 May 2022 16:27:27 GMT</pubDate>
+            <content:encoded><![CDATA[안랩(대표 강석균)이 6월 7일(화) 2시 금융권 및 핀테크 분야 클라우드 인프라·보안 담당자를 대상으로 ‘금융분야 클라우드 규제 개선 가이드 및 클라우드 구축 사례’를 주제로 ‘안랩 온라인 세미나’를 개최한다.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[긴급] MS 오피스, 제로데이 취약점 Follina 발견 (보안뉴스 ─ SECURITY)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107186&amp;page=1&amp;mkind=1&amp;kind=1</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107186&amp;page=1&amp;mkind=1&amp;kind=1</guid>
@@ -500,20 +514,6 @@
             <guid>https://www.boannews.com/media/view.asp?idx=107141&amp;page=1&amp;mkind=1&amp;kind=1</guid>
             <pubDate>Mon, 30 May 2022 03:36:20 GMT</pubDate>
             <content:encoded><![CDATA[최근 들어 NSIS 설치 파일을 통해 다수의 악성 파일들을 배포하고 있는 정황을 확인돼 사용자들의 주의가 요구된다고 안랩 ASEC 분석팀이 밝혔다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[‘스파이스웨어’ 등 스타트업 우수 개인정보 기술 선정·사업화 지원한다 (보안뉴스 ─ SECURITY)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107140&amp;page=1&amp;mkind=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107140&amp;page=1&amp;mkind=1&amp;kind=2</guid>
-            <pubDate>Mon, 30 May 2022 03:36:20 GMT</pubDate>
-            <content:encoded><![CDATA[복잡한 개인정보 처리 동의내용을 이해하기 쉽게 알려주고, 나의 동의이력 조회 및 철회까지 돕는 기술을 보유한 기업 등 총 6개 새싹기업(스타트업)이 우수 개인정보 보호·활용 기업에 선정돼 사업화 지원을 받는다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[강원도교육청, 정보보호 교육 실시 (보안뉴스 ─ SECURITY)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107128&amp;page=1&amp;mkind=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107128&amp;page=1&amp;mkind=1&amp;kind=2</guid>
-            <pubDate>Mon, 30 May 2022 03:36:20 GMT</pubDate>
-            <content:encoded><![CDATA[강원도교육청은 지난 27일 도교육청 전 직원 및 행정기관 정보보호 업무 담당자를 대상으로 정보보호 교육을 실시했다. 이번 교육은 사회적 거리두기 조치가 해제되면서 대면 교육으로 진행됐으며, 공직자의 정보보호에 대한 인식 및 정보보호 조치와 안전한 관리에 대한 이해도를 ...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[SKT, AI로 만성질환 관리 돕는다 (보안뉴스 ─ IT)]]></title>
@@ -770,6 +770,34 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/22052714ss.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[北 해커조직 김수키, 인터넷 공유기 설치파일 위장 AppleSeed 유포 (보안뉴스 ─ 취약점 경고 및 버그리포트)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107188&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107188&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=</guid>
+            <pubDate>Tue, 31 May 2022 16:28:16 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/view.asp?idx=107188&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=">
+					
+					<img src="/media/upFiles2/2022/05/20220601KIM-S.jpg" alt="" class="news_img" height="70">
+					
+					<span class="news_txt">北 해커조직 김수키, 인터넷 공유기 설치파일 위장 AppleSeed 유포</span>
+					</a><br>
+					<a href="/media/view.asp?idx=107188&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=">북한 해커조직으로 추정되는 악성코드가 유포된 정황이 포착돼 이용자들의 각별한 주의가 요구된다. </a> <span class="news_writer">권준  기자 | 2022년 06월 01일 00:47</span>]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/20220601KIM-S.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[5월 마지막 주 악성코드 통계는? 정보탈취용 악성코드 들끓어 (보안뉴스 ─ 취약점 경고 및 버그리포트)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107187&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107187&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=</guid>
+            <pubDate>Tue, 31 May 2022 16:28:16 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/view.asp?idx=107187&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=">
+					
+					<img src="/media/upFiles2/2022/05/2022-05-31-ASEC-C.jpg" alt="" class="news_img" height="70">
+					
+					<span class="news_txt">5월 마지막 주 악성코드 통계는? 정보탈취용 악성코드 들끓어</span>
+					</a><br>
+					<a href="/media/view.asp?idx=107187&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=">메일 등에 저장된 사용자 정보를 유출하는 악성코드가 한 주간 기승을 부린 것으로 조사됐다. 정보탈취용 악성코드인 만큼 중요 데티어와 개인정보가 유출되지 않도록 메...</a> <span class="news_writer">권준  기자 | 2022년 06월 01일 00:33</span>]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/2022-05-31-ASEC-C.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[긴급] MS 오피스, 제로데이 취약점 Follina 발견 (보안뉴스 ─ 취약점 경고 및 버그리포트)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107186&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107186&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=</guid>
@@ -1020,34 +1048,6 @@
 					</a><br>
 					<a href="/media/view.asp?idx=106749&amp;page=1&amp;mkind=&amp;kind=2&amp;skind=5&amp;search=title&amp;find=">방송통신위원회·금융위원회·경찰청·금융감독원은 코로나19 이후 비대면 매체 이용이 증가하면서 메신저피싱(messenger phishing) 사기가 급증하고 있어 이...</a> <span class="news_writer">박미영 기자 | 2022년 05월 13일 09:54</span>]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/21048036_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가짜 WHO 이메일, 네르비안 RAT를 유럽 전역에 퍼트리고 있어 (보안뉴스 ─ 취약점 경고 및 버그리포트)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106720&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106720&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=</guid>
-            <pubDate>Thu, 12 May 2022 08:23:11 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/view.asp?idx=106720&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=">
-					
-					<img src="/media/upFiles2/2022/05/21089096_copy_295x190_1.jpg" alt="" class="news_img" height="70">
-					
-					<span class="news_txt">가짜 WHO 이메일, 네르비안 RAT를 유럽 전역에 퍼트리고 있어</span>
-					</a><br>
-					<a href="/media/view.asp?idx=106720&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=">보안 외신 핵리드에 의하면 최근 유럽에 새로운 RAT인 네르비안(Nerbian)이 나타났다고 한다. 고 언어로 개발됐으며, 영국, 이탈리아, 스페인에서 주로 피해...</a> <span class="news_writer">문가용 기자 | 2022년 05월 12일 11:11</span>]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/21089096_copy_295x190_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[긴급] 지몬즈 가죽소파 주문? 농협은행 164만원 결제?? 스미싱 연이어 유포 (보안뉴스 ─ 취약점 경고 및 버그리포트)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106690&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106690&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=</guid>
-            <pubDate>Wed, 11 May 2022 09:19:14 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/view.asp?idx=106690&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=">
-					
-					<img src="/media/upFiles2/2022/05/20220511SMI-MS-S.JPG" alt="" class="news_img" height="70">
-					
-					<span class="news_txt">[긴급] 지몬즈 가죽소파 주문? 농협은행 164만원 결제?? 스미싱 연이어 유포  </span>
-					</a><br>
-					<a href="/media/view.asp?idx=106690&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=">최근 해외나 국내에서의 온라인 쇼핑 결제를 사칭한 스미싱 유포가 기승을 부리고 있는 가운데 최근에는 주문한 지몬즈 가죽소파 결제가 완료됐다고 속여 보이스피싱으로 ...</a> <span class="news_writer">권준  기자 | 2022년 05월 11일 14:36</span>]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/20220511SMI-MS-S.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[[최정식 발행인 칼럼] <시큐리티월드> 통권 300호를 맞아 드리는 감사의 말씀 (보안뉴스 ─ 오피니언)]]></title>
