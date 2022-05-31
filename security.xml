@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-05-31T01:28:51.308Z</updated>
+    <updated>2022-05-31T03:26:43.246Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[2022 NGIPS 리포트] 고도화·지능화 사이버공격에  차세대 IPS 솔루션 ‘뜬다’]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107107&amp;page=1&amp;mkind=1&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107107&amp;page=1&amp;mkind=1&amp;kind=3"/>
+        <updated>2022-05-31T03:23:38.721Z</updated>
+        <content type="html"><![CDATA[최근 공격 트렌드를 살펴보면 공격자는 복잡한 네트워크 환경을 악용해 보안의 사각지대를 노린다. 네트워크·OS·웹·애플리케이션의 취약점 공격, 알려지지 않은 지능화된 공격으로 보안 성벽을 무너뜨린다. 이러한 보안위협에 최근 기업의 보안담당자는 보안 성벽을 쌓는 것에 더해...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[브랜드명 바꾼 카오스 빌더, 드디어 어엿한 랜섬웨어로 거듭나]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107154&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107154&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-05-31T03:23:38.723Z</updated>
+        <content type="html"><![CDATA[카오스(Chaos)라는 멀웨어 빌더가 1년 전에는 와이퍼(wiper) 쪽으로 가닥을 잡는 듯 하더니 최근 이름을 야시마(Yashma)로 바꾸며 랜섬웨어로 업종을 변경하는 분위기다. 이는 보안 업체 블랙베리(BlackBerry)가 연구 및 조사하여 얻은 결과로, “카오스...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[차세대 보안리더 양성 프로그램 ‘BoB’ 11기 모집... 6월 3일 신청 마감]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107153&amp;page=1&amp;mkind=1&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107153&amp;page=1&amp;mkind=1&amp;kind=2"/>
+        <updated>2022-05-31T03:23:38.728Z</updated>
+        <content type="html"><![CDATA[디지털 대전환 시대를 선도할 차세대 보안리더 양성 프로그램(Best of the Best, 이하 BoB) 11기 교육생을 모집 중이다. BoB 11기는 오는 6월 3일(금) 16시까지 BoB 공식 홈페이지를 통해 신청할 수 있다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[차상길 KAIST 교수, IEEE Test-of-Time Award 수상]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=107152&amp;page=1&amp;mkind=1&amp;kind=2</id>
@@ -102,26 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=107123&amp;page=1&amp;mkind=1&amp;kind=1"/>
         <updated>2022-05-28T03:09:34.793Z</updated>
         <content type="html"><![CDATA[콴타 클라우드 테크롤로지(Quanta Cloud Technology, QCT)의 서버 모델 일부에서 초고위험도 펌웨어 취약점이 발견됐다. 이 취약점의 익스플로잇에 성공할 경우 공격자들은 서버를 완전히 장악할 수 있게 된다. 또한 같은 네트워크에 연결된 비슷한 서버들도 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서드파티 스크립트가 넘쳐나는 현대의 웹사이트들, 생각보다 더 위험하다]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107121&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107121&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-05-27T20:19:28.558Z</updated>
-        <content type="html"><![CDATA[서드파티 자바스크립트 때문에 여러 기업들이 위험에 노출되어 있다는 건 그리 새로운 소식이 아니다. 하지만 그 정도가 예상보다 훨씬 더하다는 경고가 나왔다. IT 및 보안 업체 소스디펜스(Source Defense)가 새롭게 분석한 바에 따르면 현존하는 거의 모든 웹사이...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SNS 이벤트 당첨? 알고보니 개인정보 유출 당첨!]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107119&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107119&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-05-27T10:21:14.810Z</updated>
-        <content type="html"><![CDATA[최근 SNS 이벤트를 사칭해 사용자 개인정보 노린 공격이 급증하고 있어 사용자의 주의가 요구된다고 이스트시큐리티&nbsp;시큐리티대응센터(이하&nbsp;ESRC)가 밝혔다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SR, 한국인터넷진흥원과 안전한 인터넷 환경 조성]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107114&amp;page=1&amp;mkind=1&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107114&amp;page=1&amp;mkind=1&amp;kind=3"/>
-        <updated>2022-05-27T09:18:53.702Z</updated>
-        <content type="html"><![CDATA[SRT 운영사 SR(대표이사 이종국)은 26일(목) 한국인터넷진흥원(KISA. 원장 이원태)과 안전한 인터넷 환경 조성을 위한 ‘보안 취약점 신고 포상제’ 공동운영 업무협약(MOU)을 체결했다.]]></content>
     </entry>
 </feed>
