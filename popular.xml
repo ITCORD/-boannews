@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 May 2022 03:26:43 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 May 2022 04:35:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -88,14 +88,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/SR_0524_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[정재동의 창업에세이-5] 학생창업 성공! 액셀러레이터의 도움으로]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107004&amp;page=1&amp;kind=6&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107004&amp;page=1&amp;kind=6&amp;search=title&amp;find=</guid>
-            <pubDate>Wed, 25 May 2022 01:26:03 GMT</pubDate>
-            <content:encoded><![CDATA[정부의 지원과 대학들의 노력으로 창업활동 및 창업지원 인프라가 잘 갖춰진 대학이 많아 졌다, 대학에서 학생이 창업하기 쉬워진 것이다. 창업에 필요한 실무 교육과 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/10741910_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[서드파티 스크립트가 넘쳐나는 현대의 웹사이트들, 생각보다 더 위험하다]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107121&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107121&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
@@ -166,6 +158,14 @@
             <pubDate>Mon, 30 May 2022 05:25:43 GMT</pubDate>
             <content:encoded><![CDATA[새만금개발청은 개인정보보호위원회가 주관하는 2021년도 공공기관 개인정보 관리수준 진단에서 100점 만점이라는 평가를 받았고, 2019년부터 3년 연속 최고등급인...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/saeman_0523_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[우리는 랜섬웨어와 데이터 침해가 결합되는 시대에 살고 있다]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107039&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107039&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Tue, 31 May 2022 04:33:02 GMT</pubDate>
+            <content:encoded><![CDATA[2021년 한 해 동안 랜섬웨어 사건은 깜짝 놀랄 정도로 증가했다. 모든 침해 사고의 25%가 랜섬웨어의 요소를 일부라도 포함하고 있을 정도라고 한다. 이는 올해...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/suc-thumb-0525.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
