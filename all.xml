@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 May 2022 17:30:32 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 May 2022 18:25:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -317,20 +317,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/SR_0524_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[서드파티 스크립트가 넘쳐나는 현대의 웹사이트들, 생각보다 더 위험하다 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107121&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107121&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Sat, 28 May 2022 04:22:44 GMT</pubDate>
-            <content:encoded><![CDATA[서드파티 자바스크립트 때문에 여러 기업들이 위험에 노출되어 있다는 건 그리 새로운 소식이 아니다. 하지만 그 정도가 예상보다 훨씬 더하다는 경고가 나왔다. IT ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/site-thumb-0527.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[2022 NGIPS 리포트] 고도화·지능화 사이버공격에  차세대 IPS 솔루션 ‘뜬다’ (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107107&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107107&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
             <pubDate>Tue, 31 May 2022 06:22:21 GMT</pubDate>
             <content:encoded><![CDATA[최근 공격 트렌드를 살펴보면 공격자는 복잡한 네트워크 환경을 악용해 보안의 사각지대를 노린다. 네트워크·OS·웹·애플리케이션의 취약점 공격, 알려지지 않은 지능화...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/20220530ngips-ms.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[서드파티 스크립트가 넘쳐나는 현대의 웹사이트들, 생각보다 더 위험하다 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107121&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107121&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Sat, 28 May 2022 04:22:44 GMT</pubDate>
+            <content:encoded><![CDATA[서드파티 자바스크립트 때문에 여러 기업들이 위험에 노출되어 있다는 건 그리 새로운 소식이 아니다. 하지만 그 정도가 예상보다 훨씬 더하다는 경고가 나왔다. IT ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/site-thumb-0527.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[트위터, 사용자 데이터 프라이버시 침해로 1억 5천만 달러 벌금형에 처해 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
