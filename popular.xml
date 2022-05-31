@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 May 2022 20:23:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 May 2022 21:20:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -112,20 +112,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/fine-thumb-0526.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[QCT 서버 내 BMC에서 서버 완전 장악 가능케 하는 초고위험도 취약점 발견돼]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107123&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107123&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Sun, 29 May 2022 10:19:06 GMT</pubDate>
-            <content:encoded><![CDATA[콴타 클라우드 테크롤로지(Quanta Cloud Technology, QCT)의 서버 모델 일부에서 초고위험도 펌웨어 취약점이 발견됐다. 이 취약점의 익스플로잇에...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/21772404_copy_295x190_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[윤석열 정부의 110대 국정과제에 담긴 대한민국 보안의 밑그림]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107122&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107122&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
             <pubDate>Tue, 31 May 2022 01:25:26 GMT</pubDate>
             <content:encoded><![CDATA[지난 5월 10일 제20대 윤석열 정부가 출범했다. 정부 출범에 앞서 5월 3일 발표된 110대 국정과제는 △상식이 회복된 반듯한 나라 △민간이 끌고 정부가 미는...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/22052731ss.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[QCT 서버 내 BMC에서 서버 완전 장악 가능케 하는 초고위험도 취약점 발견돼]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107123&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107123&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Sun, 29 May 2022 10:19:06 GMT</pubDate>
+            <content:encoded><![CDATA[콴타 클라우드 테크롤로지(Quanta Cloud Technology, QCT)의 서버 모델 일부에서 초고위험도 펌웨어 취약점이 발견됐다. 이 취약점의 익스플로잇에...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/21772404_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[레빌의 부활? 순수 디도스 공격만으로 협박하는 단체 나타나]]></title>
