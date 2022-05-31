@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-05-31T04:35:44.795Z</updated>
+    <updated>2022-05-31T05:25:24.990Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[교통안전공단, 전국 대학생 대상 드론·UAM 올림피아드 개최한다]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107181&amp;page=1&amp;mkind=1&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107181&amp;page=1&amp;mkind=1&amp;kind=2"/>
+        <updated>2022-05-31T05:22:44.598Z</updated>
+        <content type="html"><![CDATA[한국교통안전공단은 11월 3일부터 4일까지 양일간 공단 자동차안전연구원(경기도 화성시 소재)에서 ‘2022 전국 대학생 드론·UAM 올림피아드’를 개최한다고 밝혔다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[인천시, ICT로 치매 틈새 원격 차단]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107157&amp;page=1&amp;mkind=1&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107157&amp;page=1&amp;mkind=1&amp;kind=2"/>
+        <updated>2022-05-31T05:22:44.602Z</updated>
+        <content type="html"><![CDATA[인천시가 정보통신기술(ICT)과 휴먼서비스(치매안심돌봄상담가)를 활용한 치매 통합관리서비스를 확대해 치매 예방·관리·돌봄의 틈새를 원격 차단한다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[2022 NGIPS 리포트] 고도화·지능화 사이버공격에  차세대 IPS 솔루션 ‘뜬다’]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=107107&amp;page=1&amp;mkind=1&amp;kind=3</id>
@@ -109,19 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=107138&amp;page=1&amp;mkind=1&amp;kind=3"/>
         <updated>2022-05-29T13:28:20.701Z</updated>
         <content type="html"><![CDATA[엔피코어(대표이사 한승철)는 지난 23일 모니터랩과 SSL가시성이 통합된 APT대응시스템 공동사업을 위한 업무협약을 체결했다고 밝혔다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[bnTV] 무수히 많은 해커가 활동하는 다크웹, 그 실체를 파헤치다]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107124&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107124&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-05-28T03:09:34.792Z</updated>
-        <content type="html"><![CDATA[저희가 오늘 보여드릴 다크웹내 사이트들은 여러 개 종류로 해봤는데요. 해커들이 모여서 탈취 데이터 팔고, 그 다음에 구인공고하고 이러한 해킹포럼을 먼저 찾아볼 겁니다. 그 다음에 데이터 릭(leak)만 전문적으로 하는 지난 번에 말씀드렸던 ‘인더스트리얼 스파이’라는 웹...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[QCT 서버 내 BMC에서 서버 완전 장악 가능케 하는 초고위험도 취약점 발견돼]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107123&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107123&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-05-28T03:09:34.793Z</updated>
-        <content type="html"><![CDATA[콴타 클라우드 테크롤로지(Quanta Cloud Technology, QCT)의 서버 모델 일부에서 초고위험도 펌웨어 취약점이 발견됐다. 이 취약점의 익스플로잇에 성공할 경우 공격자들은 서버를 완전히 장악할 수 있게 된다. 또한 같은 네트워크에 연결된 비슷한 서버들도 ...]]></content>
     </entry>
 </feed>

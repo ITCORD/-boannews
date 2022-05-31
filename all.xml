@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 May 2022 04:35:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 May 2022 05:25:25 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인공지능을 대하는 모두의 자세 : 기대치 재조정 하기 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107156&amp;page=1&amp;kind=4</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107156&amp;page=1&amp;kind=4</guid>
+            <pubDate>Tue, 31 May 2022 05:22:21 GMT</pubDate>
+            <content:encoded><![CDATA[난 아직도 알렉사를 처음 사용했던 때를 기억한다. 그 때 나의 첫 마디는 이것이었다. “알렉사, 테이크온미(Take on Me)라는 노래를 재생해줘!” 그...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/ai-thumb-0530.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[긴급] MS 오피스, 제로데이 취약점 Follina 발견 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107186&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107186&amp;page=1&amp;kind=1</guid>
+            <pubDate>Tue, 31 May 2022 05:22:21 GMT</pubDate>
+            <content:encoded><![CDATA[최근 마이크로소프트 오피스(Microsoft Office)에서 제로데이 취약점인 ‘Follina’가 발견됐다. 특히, 이번 취약점은 사용자가 문서를 열람하...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/20220531MS3-S.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[제품리뷰] 아마노코리아의 3 in 1 주차솔루션 (보안뉴스 ─ 전체기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107104&amp;page=1&amp;kind=3</link>
@@ -72,20 +88,27 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/kaist_053001_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[네트워크를 구성할 때 가장 중요한 건 책임 소재 분명히 하기 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107139&amp;page=1&amp;kind=4</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107139&amp;page=1&amp;kind=4</guid>
-            <pubDate>Mon, 30 May 2022 06:26:14 GMT</pubDate>
-            <content:encoded><![CDATA[사이버 공격이 매일처럼 벌어지는 날들이 수년 동안 누적되면서 우리는 이런 질문을 하는 데에 익숙해졌다. “생산성을 저해하지 않으면서도 안전한 네트워크를 설...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/21855389_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[이스트소프트-n.CH엔터테인먼트, 버추얼휴먼 제작을 위한 IP 전략적 제휴 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107185&amp;page=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107185&amp;page=1&amp;kind=3</guid>
+            <pubDate>Tue, 31 May 2022 05:22:21 GMT</pubDate>
+            <content:encoded><![CDATA[AI 서비스 전문 기업 이스트소프트(대표 정상원)는 n.CH엔터테인먼트(총괄 프로듀서 정창환)와 버추얼휴먼 엔터테이너 개발을 위한 업무협약(MOU)을 체결...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/CH%20MOU-C.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[OT 환경에서 널리 사용되는 OAS 플랫폼 여러 버전에서 다양한 취약점 발견돼 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107150&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107150&amp;page=1&amp;kind=1</guid>
-            <pubDate>Mon, 30 May 2022 06:26:14 GMT</pubDate>
-            <content:encoded><![CDATA[산업용 IoT 데이터 플랫폼 벤더인 오픈 오토메이션 소프트웨어(Open Automation Software, OAS)의 솔루션에서 초고위험도 취약점 2개가...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/22038124_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[엔비디아, 하이브리드 양자 및 고성능 컴퓨팅 데이터센터로의 여정 시작 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107184&amp;page=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107184&amp;page=1&amp;kind=3</guid>
+            <pubDate>Tue, 31 May 2022 05:22:21 GMT</pubDate>
+            <content:encoded><![CDATA[인공지능(AI) 컴퓨팅 기술 분야의 선두주자인 엔비디아(CEO 젠슨 황)는 이제 미래의 하이브리드 양자 컴퓨터 구축을 시작할 시간이라고 밝혔다. 양자 컴퓨...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/nvidia20220531-c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[안랩, 금융권 클라우드 규제대응 및 구축 전략 온라인 세미나 개최 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107183&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107183&amp;page=1&amp;kind=1</guid>
+            <pubDate>Tue, 31 May 2022 05:22:21 GMT</pubDate>
+            <content:encoded><![CDATA[안랩(대표 강석균)이 6월 7일(화) 2시 금융권 및 핀테크 분야 클라우드 인프라·보안 담당자를 대상으로 ‘금융분야 클라우드 규제 개선 가이드 및 클라우드...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[고용부, 전 국민의 디지털 역량 강화를 위해 훈련 과정 지속 확대 (보안뉴스 ─ 전체기사)]]></title>
@@ -211,29 +234,6 @@
             <guid>https://www.boannews.com/media/view.asp?idx=107182&amp;page=1&amp;kind=2</guid>
             <pubDate>Tue, 31 May 2022 03:23:10 GMT</pubDate>
             <content:encoded><![CDATA[보령시가 올해 대천방조제로와 해안도로 앞 갯벌에 스마트 안전 인프라를 조성해 안전사고 제로화에 나선다. 시는 2017년 5월부터 가장 물이 많이 빠지는 사...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[인천시, ICT로 치매 틈새 원격 차단 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107157&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107157&amp;page=1&amp;kind=2</guid>
-            <pubDate>Tue, 31 May 2022 03:23:10 GMT</pubDate>
-            <content:encoded><![CDATA[인천시가 정보통신기술(ICT)과 휴먼서비스(치매안심돌봄상담가)를 활용한 치매 통합관리서비스를 확대해 치매 예방·관리·돌봄의 틈새를 원격 차단한다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[차세대 보안리더 양성 프로그램 ‘BoB’ 11기 모집... 6월 3일 신청 마감 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107153&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107153&amp;page=1&amp;kind=2</guid>
-            <pubDate>Mon, 30 May 2022 07:18:36 GMT</pubDate>
-            <content:encoded><![CDATA[디지털 대전환 시대를 선도할 차세대 보안리더 양성 프로그램(Best of the Best, 이하 BoB) 11기 교육생을 모집 중이다. BoB 11기는 오...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/bob-c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[적십자, 재난 현장에서 드론 활용 구호 활동 본격화 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107151&amp;page=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107151&amp;page=1&amp;kind=3</guid>
-            <pubDate>Mon, 30 May 2022 07:18:36 GMT</pubDate>
-            <content:encoded><![CDATA[대한적십자사(회장 신희영, 이하 적십자)는 5월 28일, 드론을 활용한 체계적이고 효과적인 재난구호 활동을 위해 ‘드론운용팀’을 조직하고, 드론 전문 개발...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/22053002ss.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[bnTV] 무수히 많은 해커가 활동하는 다크웹, 그 실체를 파헤치다 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
@@ -396,6 +396,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/suc-thumb-0525.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[교통안전공단, 전국 대학생 대상 드론·UAM 올림피아드 개최한다 (보안뉴스 ─ SECURITY)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107181&amp;page=1&amp;mkind=1&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107181&amp;page=1&amp;mkind=1&amp;kind=2</guid>
+            <pubDate>Tue, 31 May 2022 05:22:44 GMT</pubDate>
+            <content:encoded><![CDATA[한국교통안전공단은 11월 3일부터 4일까지 양일간 공단 자동차안전연구원(경기도 화성시 소재)에서 ‘2022 전국 대학생 드론·UAM 올림피아드’를 개최한다고 밝혔다.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[인천시, ICT로 치매 틈새 원격 차단 (보안뉴스 ─ SECURITY)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107157&amp;page=1&amp;mkind=1&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107157&amp;page=1&amp;mkind=1&amp;kind=2</guid>
+            <pubDate>Tue, 31 May 2022 05:22:44 GMT</pubDate>
+            <content:encoded><![CDATA[인천시가 정보통신기술(ICT)과 휴먼서비스(치매안심돌봄상담가)를 활용한 치매 통합관리서비스를 확대해 치매 예방·관리·돌봄의 틈새를 원격 차단한다.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[[2022 NGIPS 리포트] 고도화·지능화 사이버공격에  차세대 IPS 솔루션 ‘뜬다’ (보안뉴스 ─ SECURITY)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107107&amp;page=1&amp;mkind=1&amp;kind=3</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107107&amp;page=1&amp;mkind=1&amp;kind=3</guid>
@@ -501,18 +515,25 @@
             <content:encoded><![CDATA[엔피코어(대표이사 한승철)는 지난 23일 모니터랩과 SSL가시성이 통합된 APT대응시스템 공동사업을 위한 업무협약을 체결했다고 밝혔다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[[bnTV] 무수히 많은 해커가 활동하는 다크웹, 그 실체를 파헤치다 (보안뉴스 ─ SECURITY)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107124&amp;page=1&amp;mkind=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107124&amp;page=1&amp;mkind=1&amp;kind=1</guid>
-            <pubDate>Sat, 28 May 2022 03:09:34 GMT</pubDate>
-            <content:encoded><![CDATA[저희가 오늘 보여드릴 다크웹내 사이트들은 여러 개 종류로 해봤는데요. 해커들이 모여서 탈취 데이터 팔고, 그 다음에 구인공고하고 이러한 해킹포럼을 먼저 찾아볼 겁니다. 그 다음에 데이터 릭(leak)만 전문적으로 하는 지난 번에 말씀드렸던 ‘인더스트리얼 스파이’라는 웹...]]></content:encoded>
+            <title><![CDATA[고용부, 전 국민의 디지털 역량 강화를 위해 훈련 과정 지속 확대 (보안뉴스 ─ IT)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107161&amp;page=1&amp;mkind=2&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107161&amp;page=1&amp;mkind=2&amp;kind=2</guid>
+            <pubDate>Tue, 31 May 2022 05:22:55 GMT</pubDate>
+            <content:encoded><![CDATA[고용노동부와 직업능력심사평가원은 ‘K-디지털 기초역량훈련’의 훈련과정 공모를 31일부터 실시한다. ‘K-디지털 기초역량훈련’은 청년과 중장년 구직자에게 디지털·신기술 분야의 기초훈련을 100% 원격으로 지원하는 훈련이다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[QCT 서버 내 BMC에서 서버 완전 장악 가능케 하는 초고위험도 취약점 발견돼 (보안뉴스 ─ SECURITY)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107123&amp;page=1&amp;mkind=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107123&amp;page=1&amp;mkind=1&amp;kind=1</guid>
-            <pubDate>Sat, 28 May 2022 03:09:34 GMT</pubDate>
-            <content:encoded><![CDATA[콴타 클라우드 테크롤로지(Quanta Cloud Technology, QCT)의 서버 모델 일부에서 초고위험도 펌웨어 취약점이 발견됐다. 이 취약점의 익스플로잇에 성공할 경우 공격자들은 서버를 완전히 장악할 수 있게 된다. 또한 같은 네트워크에 연결된 비슷한 서버들도 ...]]></content:encoded>
+            <title><![CDATA[과기정통부, 세계 최고 반도체 강국 이끌 반도체 핵심 인력 양성 적극 나선다 (보안뉴스 ─ IT)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107162&amp;page=1&amp;mkind=2&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107162&amp;page=1&amp;mkind=2&amp;kind=2</guid>
+            <pubDate>Tue, 31 May 2022 05:22:55 GMT</pubDate>
+            <content:encoded><![CDATA[이종호 과학기술정보통신부 장관은 초격차 반도체 강국 실현을 위한 반도체 핵심 인력 양성을 위해 지난 30일 산업계 대표, 과학기술원 총장 등과 간담회를 개최했다.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[중기부, ‘한국형 등대공장’ 11개사 선정 발표 (보안뉴스 ─ IT)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107160&amp;page=1&amp;mkind=2&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107160&amp;page=1&amp;mkind=2&amp;kind=2</guid>
+            <pubDate>Tue, 31 May 2022 05:22:55 GMT</pubDate>
+            <content:encoded><![CDATA[중소벤처기업부는 인공지능, 빅데이터, 디지털복제물(디지털 트윈)이 적용된 최고 수준의 지능형공장(스마트공장) 구축을 지원하는 2022년도 ‘케이(K)-스마트등대공장’ 최종 11개사를 선정했다고 밝혔다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[과기정통부, 디지털 트윈 2022년 실증 사업 본격 착수 (보안뉴스 ─ IT)]]></title>
@@ -611,27 +632,6 @@
             <guid>https://www.boannews.com/media/view.asp?idx=107143&amp;page=1&amp;mkind=2&amp;kind=3</guid>
             <pubDate>Tue, 31 May 2022 03:23:53 GMT</pubDate>
             <content:encoded><![CDATA[IBM의 오픈소스, 하이브리드 클라우드, 그리고 인공지능(AI) 기술을 비롯해 IBM의 자회사인 레드햇(Red Hat)의 기술이 최근 엔듀로샛(EnduroSat)이 발사한 로켓에 탑재되어 우주로 발사됐다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[주말판] 데브옵스, 왜 소문만 무성하고 실제로는 잘 구현되지 않는가? (보안뉴스 ─ IT)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107137&amp;page=1&amp;mkind=2&amp;kind=4</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107137&amp;page=1&amp;mkind=2&amp;kind=4</guid>
-            <pubDate>Tue, 31 May 2022 03:23:53 GMT</pubDate>
-            <content:encoded><![CDATA[2007년 IT 업계에서는 데브옵스(DevOps)라는 움직임이 일어나기 시작했다. 소프트웨어 개발과 IT 운영 사이의 간극을 메워줄 방법론으로서 각광받기 시작했으며, 이를 통해 불필요한 비용들이 절감되고 비효율성이 개선될 것이 기대됐다. 당시 기업들의 85%는 새로운 ...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[인슈어테크가 이끄는 보험 업계의 변화, 모두의 생존을 책임진다 (보안뉴스 ─ IT)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107082&amp;page=1&amp;mkind=2&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107082&amp;page=1&amp;mkind=2&amp;kind=3</guid>
-            <pubDate>Tue, 31 May 2022 03:23:53 GMT</pubDate>
-            <content:encoded><![CDATA[보험 상품은 재정적 손해를 막아주는 일종의 보호막이다. 개개인들은 물론 회사와 단체들까지도 이 보호막이 필요하고, 그래서 다양한 보험 상품에 가입하여 보장을 받는다. 게다가 요즘처럼 갖가지 변수들이 넘쳐나는 때에 보험의 가치는 더욱 올라가기 마련이다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[인천경제청, 커넥티드카 무선통신기술 인증평가 시스템 구축 사업 선정 (보안뉴스 ─ IT)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107135&amp;page=1&amp;mkind=2&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107135&amp;page=1&amp;mkind=2&amp;kind=2</guid>
-            <pubDate>Mon, 30 May 2022 06:27:16 GMT</pubDate>
-            <content:encoded><![CDATA[인천경제자유구역청은 산업통상자원부가 주관하는 ‘산업혁신 기반 구축 사업’ 공모에서 ‘커넥티드카 무선통신기술 인증평가 시스템 구축 사업’이 최근 선정됐다고 밝혔다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[캠핑 안전수칙 지켜주세요 (보안뉴스 ─ SAFETY)]]></title>
@@ -1889,6 +1889,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/21064997_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[인공지능을 대하는 모두의 자세 : 기대치 재조정 하기 (보안뉴스 ─ 국제)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107156&amp;page=1&amp;mkind=&amp;kind=4&amp;skind=D&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107156&amp;page=1&amp;mkind=&amp;kind=4&amp;skind=D&amp;search=title&amp;find=</guid>
+            <pubDate>Tue, 31 May 2022 05:24:32 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/view.asp?idx=107156&amp;page=1&amp;mkind=&amp;kind=4&amp;skind=D&amp;search=title&amp;find=">
+					
+					<img src="/media/upFiles2/2022/05/ai-thumb-0530.jpg" alt="" class="news_img" height="70">
+					
+					<span class="news_txt">인공지능을 대하는 모두의 자세 : 기대치 재조정 하기</span>
+					</a><br>
+					<a href="/media/view.asp?idx=107156&amp;page=1&amp;mkind=&amp;kind=4&amp;skind=D&amp;search=title&amp;find=">난 아직도 알렉사를 처음 사용했던 때를 기억한다. 그 때 나의 첫 마디는 이것이었다. “알렉사, 테이크온미(Take on Me)라는 노래를 재생해줘!” 그러자 몇...</a> <span class="news_writer">문가용 기자 | 2022년 05월 31일 13:47</span>]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/ai-thumb-0530.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[브랜드명 바꾼 카오스 빌더, 드디어 어엿한 랜섬웨어로 거듭나 (보안뉴스 ─ 국제)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107154&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107154&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
@@ -2153,20 +2167,6 @@
 					</a><br>
 					<a href="/media/view.asp?idx=107069&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">보안 외신 핵리드에 의하면 식량난에 로빈후드를 자처하는 랜섬웨어 그룹이 나타났다고 한다. 이 랜섬웨어의 이름은 굿윌(GoodWill)이라고 하며, 피해자들에게는 ...</a> <span class="news_writer">문가용 기자 | 2022년 05월 26일 11:47</span>]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/robin-thumb-0526.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[줌 취약점 연쇄적으로 익스플로잇 해서 사용자 해킹 가능 (보안뉴스 ─ 국제)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107068&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107068&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
-            <pubDate>Thu, 26 May 2022 03:26:19 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/view.asp?idx=107068&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
-					
-					<img src="/media/upFiles2/2022/05/zoom-thumb-0526.jpg" alt="" class="news_img" height="70">
-					
-					<span class="news_txt">줌 취약점 연쇄적으로 익스플로잇 해서 사용자 해킹 가능</span>
-					</a><br>
-					<a href="/media/view.asp?idx=107068&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">보안 블로그 시큐리티어페어즈에 의하면 줌의 취약점 네 개를 연쇄적으로 해킹하면, 다른 줌 계정을 침해하는 게 가능하다고 한다. 공격자가 줌에 접속해 다른 사용자 ...</a> <span class="news_writer">문가용 기자 | 2022년 05월 26일 11:45</span>]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/zoom-thumb-0526.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[2022 NGIPS 리포트] 고도화·지능화 사이버공격에  차세대 IPS 솔루션 ‘뜬다’ (보안뉴스 ─ 기획특집)]]></title>
@@ -2449,6 +2449,45 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2021/12/21122107ss.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[이스트소프트-n.CH엔터테인먼트, 버추얼휴먼 제작을 위한 IP 전략적 제휴 (보안뉴스 ─ 기업뉴스)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107185&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107185&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=</guid>
+            <pubDate>Tue, 31 May 2022 05:25:07 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/view.asp?idx=107185&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=">
+					
+					<img src="/media/upFiles2/2022/05/CH MOU-C.jpg" alt="" class="news_img" height="70">
+					
+					<span class="news_txt">이스트소프트-n.CH엔터테인먼트, 버추얼휴먼 제작을 위한 IP 전략적 제휴 </span>
+					</a><br>
+					<a href="/media/view.asp?idx=107185&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=">AI 서비스 전문 기업 이스트소프트(대표 정상원)는 n.CH엔터테인먼트(총괄 프로듀서 정창환)와 버추얼휴먼 엔터테이너 개발을 위한 업무협약(MOU)을 체결했다고 ...</a> <span class="news_writer">권준  기자 | 2022년 05월 31일 13:41</span>]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/CH%20MOU-C.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[엔비디아, 하이브리드 양자 및 고성능 컴퓨팅 데이터센터로의 여정 시작 (보안뉴스 ─ 기업뉴스)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107184&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107184&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=</guid>
+            <pubDate>Tue, 31 May 2022 05:25:07 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/view.asp?idx=107184&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=">
+					
+					<img src="/media/upFiles2/2022/05/nvidia20220531-c.jpg" alt="" class="news_img" height="70">
+					
+					<span class="news_txt">엔비디아, 하이브리드 양자 및 고성능 컴퓨팅 데이터센터로의 여정 시작</span>
+					</a><br>
+					<a href="/media/view.asp?idx=107184&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=">인공지능(AI) 컴퓨팅 기술 분야의 선두주자인 엔비디아(CEO 젠슨 황)는 이제 미래의 하이브리드 양자 컴퓨터 구축을 시작할 시간이라고 밝혔다. 양자 컴퓨팅은 신...</a> <span class="news_writer">권준  기자 | 2022년 05월 31일 13:39</span>]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/nvidia20220531-c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[안랩, 금융권 클라우드 규제대응 및 구축 전략 온라인 세미나 개최 (보안뉴스 ─ 기업뉴스)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107183&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=8&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107183&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=8&amp;search=title&amp;find=</guid>
+            <pubDate>Tue, 31 May 2022 05:25:07 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/view.asp?idx=107183&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=8&amp;search=title&amp;find=">
+					
+					<span class="news_txt">안랩, 금융권 클라우드 규제대응 및 구축 전략 온라인 세미나 개최</span>
+					</a><br>
+					<a href="/media/view.asp?idx=107183&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=8&amp;search=title&amp;find=">안랩(대표 강석균)이 6월 7일(화) 2시 금융권 및 핀테크 분야 클라우드 인프라·보안 담당자를 대상으로 ‘금융분야 클라우드 규제 개선 가이드 및 클라우드 구축 ...</a> <span class="news_writer">권준  기자 | 2022년 05월 31일 13:36</span>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[IBM, 인공위성에 하이브리드 클라우드 및 AI 기술 탑재... 우주 공략 본격화 (보안뉴스 ─ 기업뉴스)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107143&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107143&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=</guid>
@@ -2685,48 +2724,6 @@
 					</a><br>
 					<a href="/media/view.asp?idx=106992&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=">공공 안전 및 기업 보안 분야의 글로벌 기업이자 Pelco의 모기업인 모토로라 솔루션(Motorola Solutions(NYSE: MSI))이 이탈리아에 기반을 ...</a> <span class="news_writer">엄호식 기자 | 2022년 05월 24일 10:11</span>]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/22052401ss.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[엑스트라홉, 사이버 교전 대응 보안 준수 지침  평가 서비스 무료 제공 (보안뉴스 ─ 기업뉴스)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106966&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106966&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=</guid>
-            <pubDate>Tue, 24 May 2022 01:29:58 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/view.asp?idx=106966&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=">
-					
-					<img src="/media/upFiles2/2022/05/x-shild-c.jpg" alt="" class="news_img" height="70">
-					
-					<span class="news_txt">엑스트라홉, 사이버 교전 대응 보안 준수 지침  평가 서비스 무료 제공</span>
-					</a><br>
-					<a href="/media/view.asp?idx=106966&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=">클라우드-네이티브 네트워크 탐지 및 대응 분야 선두기업인 엑스트라홉(지사장 김훈철)은 자사가 전 세계 보안 당국들이 네트워크 감시 및 보안 태세를 강화하기 위해 ...</a> <span class="news_writer">권준  기자 | 2022년 05월 24일 10:05</span>]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/x-shild-c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[API 보안, 필수 애플리케이션 보안전략으로 만드는 방법 (보안뉴스 ─ 기업뉴스)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106960&amp;page=1&amp;mkind=&amp;kind=5&amp;skind=8&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106960&amp;page=1&amp;mkind=&amp;kind=5&amp;skind=8&amp;search=title&amp;find=</guid>
-            <pubDate>Mon, 23 May 2022 07:21:54 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/view.asp?idx=106960&amp;page=1&amp;mkind=&amp;kind=5&amp;skind=8&amp;search=title&amp;find=">
-					
-					<img src="/media/upFiles2/2022/05/API-C(0).jpg" alt="" class="news_img" height="70">
-					
-					<span class="news_txt">API 보안, 필수 애플리케이션 보안전략으로 만드는 방법</span>
-					</a><br>
-					<a href="/media/view.asp?idx=106960&amp;page=1&amp;mkind=&amp;kind=5&amp;skind=8&amp;search=title&amp;find=">조직이 디지털 혁신 경로를 따라갈수록 전반적인 보안 태세 확립에 있어 API 보안은 더욱 중요해지고 있다. 매일 개발팀은 혁신을 거듭하고 있다. 그들은 B2B 프...</a> <span class="news_writer">권준  기자 | 2022년 05월 23일 16:15</span>]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/API-C(0).jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SGA솔루션즈, 시스템 접근통제 기업 에스지앤 인수... 1위 통합보안 기업 목표 (보안뉴스 ─ 기업뉴스)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106962&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106962&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=</guid>
-            <pubDate>Mon, 23 May 2022 07:21:54 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/view.asp?idx=106962&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=">
-					
-					<img src="/media/upFiles2/2022/05/SGA-C.jpg" alt="" class="news_img" height="70">
-					
-					<span class="news_txt">SGA솔루션즈, 시스템 접근통제 기업 에스지앤 인수... 1위 통합보안 기업 목표</span>
-					</a><br>
-					<a href="/media/view.asp?idx=106962&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=">통합보안 전문 기업 SGA솔루션즈(대표 최영철)는 시스템 접근통제 솔루션 기업 에스지앤(대표 강현모)의 지분 및 경영권을 인수한다고 지난 20일 공시를 통해 밝혔...</a> <span class="news_writer">권준  기자 | 2022년 05월 23일 16:05</span>]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/SGA-C.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[인사] 과학기술정보통신부 (보안뉴스 ─ 인사 부고)]]></title>
