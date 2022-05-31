@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 May 2022 10:25:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 May 2022 11:18:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -112,20 +112,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/21772404_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[레빌의 부활? 순수 디도스 공격만으로 협박하는 단체 나타나]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107077&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107077&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Fri, 27 May 2022 01:23:55 GMT</pubDate>
-            <content:encoded><![CDATA[한 사이버 공격 단체가 조직적으로 디도스 공격을 하기 시작했는데, 이 단체가 다름 아닌 레빌(REvil)이라는 악명 높은 랜섬웨어 운영자일 가능성이 있는 것으로 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/return-thumb-0526.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[2022 NGIPS 리포트] 고도화·지능화 사이버공격에  차세대 IPS 솔루션 ‘뜬다’]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107107&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107107&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
             <pubDate>Tue, 31 May 2022 06:22:21 GMT</pubDate>
             <content:encoded><![CDATA[최근 공격 트렌드를 살펴보면 공격자는 복잡한 네트워크 환경을 악용해 보안의 사각지대를 노린다. 네트워크·OS·웹·애플리케이션의 취약점 공격, 알려지지 않은 지능화...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/20220530ngips-ms.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[레빌의 부활? 순수 디도스 공격만으로 협박하는 단체 나타나]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107077&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107077&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Fri, 27 May 2022 01:23:55 GMT</pubDate>
+            <content:encoded><![CDATA[한 사이버 공격 단체가 조직적으로 디도스 공격을 하기 시작했는데, 이 단체가 다름 아닌 레빌(REvil)이라는 악명 높은 랜섬웨어 운영자일 가능성이 있는 것으로 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/return-thumb-0526.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[가짜 윈도 업데이트로 러시아 정보 기관 노리는 해커들]]></title>
