@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-05-31T07:20:01.007Z</updated>
+    <updated>2022-05-31T08:28:51.591Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[서울시 ‘서울지갑’, 주요 전자증명서 7종 신청·발급 서비스 시작]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107179&amp;page=1&amp;mkind=1&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107179&amp;page=1&amp;mkind=1&amp;kind=2"/>
+        <updated>2022-05-31T08:26:08.871Z</updated>
+        <content type="html"><![CDATA[서울시 행정서비스를 이용하기 위해 일상에서 자주 필요한 각종 전자증명서를 한곳에 수령·제출할 수 있는 스마트폰 앱 ‘서울지갑’에서 이제 전자증명서를 신청·발급까지 한번에 할 수 있게 된다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[교통안전공단, 전국 대학생 대상 드론·UAM 올림피아드 개최한다]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=107181&amp;page=1&amp;mkind=1&amp;kind=2</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=107126&amp;page=1&amp;mkind=1&amp;kind=2"/>
         <updated>2022-05-29T15:18:02.825Z</updated>
         <content type="html"><![CDATA[경찰청 국가수사본부는 지난 4월 전화금융사기 피해 현황을 분석한 결과, 발생 건수와 피해액이 모두 3월 대비 증가했다고 밝혔다. 찰청은 국민·언론·방송 등 누구에게나 전화금융사기가 익숙한 주제라는 점이 경계심을 약하게 만드는 원인으로 판단하고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엔피코어, 모니터랩과  APT대응시스템 공동사업 위한 업무협약 체결]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107138&amp;page=1&amp;mkind=1&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107138&amp;page=1&amp;mkind=1&amp;kind=3"/>
-        <updated>2022-05-29T13:28:20.701Z</updated>
-        <content type="html"><![CDATA[엔피코어(대표이사 한승철)는 지난 23일 모니터랩과 SSL가시성이 통합된 APT대응시스템 공동사업을 위한 업무협약을 체결했다고 밝혔다.]]></content>
     </entry>
 </feed>

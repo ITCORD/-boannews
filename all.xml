@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 May 2022 07:20:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 31 May 2022 08:28:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[GDPR 4주년을 맞아 데이터 레이크에 종말을 고하다 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107155&amp;page=1&amp;kind=4</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107155&amp;page=1&amp;kind=4</guid>
+            <pubDate>Tue, 31 May 2022 08:25:35 GMT</pubDate>
+            <content:encoded><![CDATA[이번 달로서 세계는 유럽연합이 GDPR이라는 역사적 규정을 시행한 지 4주년을 맞게 됐다. 그 동안 개인의 프라이버시, 혹은 데이터의 프라이버시에 대한 우...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/21472803_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[인공지능을 대하는 모두의 자세 : 기대치 재조정 하기 (보안뉴스 ─ 전체기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107156&amp;page=1&amp;kind=4</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 30 May 2022 08:23:50 GMT</pubDate>
             <content:encoded><![CDATA[상반기를 마무리하는 6월이 코앞으로 다가왔다. 코로나19로 제약적이던 일상은 일부를 제외하고 예전과 같은 모습을 되찾고 있으며, 막혀있던 해외여행과 판로도...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/22052606dd.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[차상길 KAIST 교수, IEEE Test-of-Time Award 수상 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107152&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107152&amp;page=1&amp;kind=2</guid>
-            <pubDate>Mon, 30 May 2022 07:18:36 GMT</pubDate>
-            <content:encoded><![CDATA[KAIST 정보보호대학원 차상길 교수(KAIST 사이버보안연구센터장)가 올해 5월에 열린 정보보안 최정상 학회인 IEEE Security &amp; Privacy...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/kaist_053001_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이스트소프트-n.CH엔터테인먼트, 버추얼휴먼 제작을 위한 IP 전략적 제휴 (보안뉴스 ─ 전체기사)]]></title>
@@ -364,20 +364,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/pis%20somenail.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[윤석열 정부의 110대 국정과제에 담긴 대한민국 보안의 밑그림 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107122&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107122&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
-            <pubDate>Tue, 31 May 2022 01:25:26 GMT</pubDate>
-            <content:encoded><![CDATA[지난 5월 10일 제20대 윤석열 정부가 출범했다. 정부 출범에 앞서 5월 3일 발표된 110대 국정과제는 △상식이 회복된 반듯한 나라 △민간이 끌고 정부가 미는...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/22052731ss.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[2022 NGIPS 리포트] 고도화·지능화 사이버공격에  차세대 IPS 솔루션 ‘뜬다’ (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107107&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107107&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
             <pubDate>Tue, 31 May 2022 06:22:21 GMT</pubDate>
             <content:encoded><![CDATA[최근 공격 트렌드를 살펴보면 공격자는 복잡한 네트워크 환경을 악용해 보안의 사각지대를 노린다. 네트워크·OS·웹·애플리케이션의 취약점 공격, 알려지지 않은 지능화...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/20220530ngips-ms.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[윤석열 정부의 110대 국정과제에 담긴 대한민국 보안의 밑그림 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107122&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107122&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
+            <pubDate>Tue, 31 May 2022 01:25:26 GMT</pubDate>
+            <content:encoded><![CDATA[지난 5월 10일 제20대 윤석열 정부가 출범했다. 정부 출범에 앞서 5월 3일 발표된 110대 국정과제는 △상식이 회복된 반듯한 나라 △민간이 끌고 정부가 미는...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/22052731ss.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[개발자들의 필수 방문지인 공공 리포지터리가 위험하다 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
@@ -394,6 +394,13 @@
             <pubDate>Mon, 30 May 2022 05:25:43 GMT</pubDate>
             <content:encoded><![CDATA[새만금개발청은 개인정보보호위원회가 주관하는 2021년도 공공기관 개인정보 관리수준 진단에서 100점 만점이라는 평가를 받았고, 2019년부터 3년 연속 최고등급인...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/saeman_0523_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[서울시 ‘서울지갑’, 주요 전자증명서 7종 신청·발급 서비스 시작 (보안뉴스 ─ SECURITY)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107179&amp;page=1&amp;mkind=1&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107179&amp;page=1&amp;mkind=1&amp;kind=2</guid>
+            <pubDate>Tue, 31 May 2022 08:26:08 GMT</pubDate>
+            <content:encoded><![CDATA[서울시 행정서비스를 이용하기 위해 일상에서 자주 필요한 각종 전자증명서를 한곳에 수령·제출할 수 있는 스마트폰 앱 ‘서울지갑’에서 이제 전자증명서를 신청·발급까지 한번에 할 수 있게 된다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[교통안전공단, 전국 대학생 대상 드론·UAM 올림피아드 개최한다 (보안뉴스 ─ SECURITY)]]></title>
@@ -506,13 +513,6 @@
             <guid>https://www.boannews.com/media/view.asp?idx=107126&amp;page=1&amp;mkind=1&amp;kind=2</guid>
             <pubDate>Sun, 29 May 2022 15:18:02 GMT</pubDate>
             <content:encoded><![CDATA[경찰청 국가수사본부는 지난 4월 전화금융사기 피해 현황을 분석한 결과, 발생 건수와 피해액이 모두 3월 대비 증가했다고 밝혔다. 찰청은 국민·언론·방송 등 누구에게나 전화금융사기가 익숙한 주제라는 점이 경계심을 약하게 만드는 원인으로 판단하고 있다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[엔피코어, 모니터랩과  APT대응시스템 공동사업 위한 업무협약 체결 (보안뉴스 ─ SECURITY)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107138&amp;page=1&amp;mkind=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107138&amp;page=1&amp;mkind=1&amp;kind=3</guid>
-            <pubDate>Sun, 29 May 2022 13:28:20 GMT</pubDate>
-            <content:encoded><![CDATA[엔피코어(대표이사 한승철)는 지난 23일 모니터랩과 SSL가시성이 통합된 APT대응시스템 공동사업을 위한 업무협약을 체결했다고 밝혔다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[고용부, 전 국민의 디지털 역량 강화를 위해 훈련 과정 지속 확대 (보안뉴스 ─ IT)]]></title>
@@ -1889,6 +1889,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/04/21064997_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[GDPR 4주년을 맞아 데이터 레이크에 종말을 고하다 (보안뉴스 ─ 국제)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107155&amp;page=1&amp;mkind=&amp;kind=4&amp;skind=D&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107155&amp;page=1&amp;mkind=&amp;kind=4&amp;skind=D&amp;search=title&amp;find=</guid>
+            <pubDate>Tue, 31 May 2022 08:28:12 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/view.asp?idx=107155&amp;page=1&amp;mkind=&amp;kind=4&amp;skind=D&amp;search=title&amp;find=">
+					
+					<img src="/media/upFiles2/2022/05/21472803_copy_295x190_1.jpg" alt="" class="news_img" height="70">
+					
+					<span class="news_txt">GDPR 4주년을 맞아 데이터 레이크에 종말을 고하다</span>
+					</a><br>
+					<a href="/media/view.asp?idx=107155&amp;page=1&amp;mkind=&amp;kind=4&amp;skind=D&amp;search=title&amp;find=">이번 달로서 세계는 유럽연합이 GDPR이라는 역사적 규정을 시행한 지 4주년을 맞게 됐다. 그 동안 개인의 프라이버시, 혹은 데이터의 프라이버시에 대한 우리의 관...</a> <span class="news_writer">문가용 기자 | 2022년 05월 31일 16:20</span>]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/21472803_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[인공지능을 대하는 모두의 자세 : 기대치 재조정 하기 (보안뉴스 ─ 국제)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107156&amp;page=1&amp;mkind=&amp;kind=4&amp;skind=D&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107156&amp;page=1&amp;mkind=&amp;kind=4&amp;skind=D&amp;search=title&amp;find=</guid>
@@ -2153,20 +2167,6 @@
 					</a><br>
 					<a href="/media/view.asp?idx=107070&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">보안 외신 해커뉴스에 의하면 인터폴과 나이지리아 경찰의 공조로 사이버 사기단의 리더가 결국 체포됐다고 한다. 이 범죄단의 이름은 실버테리어(SilverTerrie...</a> <span class="news_writer">문가용 기자 | 2022년 05월 26일 11:48</span>]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/nig-thumb-0526.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[가난한 사람들에게 음식을 제공하라고 협박하는 굿윌 랜섬웨어 (보안뉴스 ─ 국제)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107069&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107069&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
-            <pubDate>Thu, 26 May 2022 03:26:19 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/view.asp?idx=107069&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
-					
-					<img src="/media/upFiles2/2022/05/robin-thumb-0526.jpg" alt="" class="news_img" height="70">
-					
-					<span class="news_txt">가난한 사람들에게 음식을 제공하라고 협박하는 굿윌 랜섬웨어</span>
-					</a><br>
-					<a href="/media/view.asp?idx=107069&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">보안 외신 핵리드에 의하면 식량난에 로빈후드를 자처하는 랜섬웨어 그룹이 나타났다고 한다. 이 랜섬웨어의 이름은 굿윌(GoodWill)이라고 하며, 피해자들에게는 ...</a> <span class="news_writer">문가용 기자 | 2022년 05월 26일 11:47</span>]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/robin-thumb-0526.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[2022 NGIPS 리포트] 고도화·지능화 사이버공격에  차세대 IPS 솔루션 ‘뜬다’ (보안뉴스 ─ 기획특집)]]></title>
