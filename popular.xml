@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Jun 2022 06:30:14 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jun 2022 07:21:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -72,14 +72,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/est_sns_052701_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[공공기관 등 8개 기관 ‘개인정보보호법 위반’으로 제재]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107038&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107038&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
-            <pubDate>Thu, 26 May 2022 01:28:18 GMT</pubDate>
-            <content:encoded><![CDATA[계원예술대학교 등 7개 공공기관과 1개 사업자가 개인정보보호법 위반으로 4,050만 원의 과태료 부과와 시정권고 조치를 받았다. 개인정보보호위원회(위원장 윤종인,...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/21743177_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[줌에서 발견된 네 가지 취약점, 연쇄적으로 익스플로잇 하면 무서워져]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107081&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107081&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
@@ -96,6 +88,14 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/20220530ngips-ms.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[윤석열 정부의 110대 국정과제에 담긴 대한민국 보안의 밑그림]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107122&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107122&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
+            <pubDate>Tue, 31 May 2022 01:25:26 GMT</pubDate>
+            <content:encoded><![CDATA[지난 5월 10일 제20대 윤석열 정부가 출범했다. 정부 출범에 앞서 5월 3일 발표된 110대 국정과제는 △상식이 회복된 반듯한 나라 △민간이 끌고 정부가 미는...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/22052731ss.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[서드파티 스크립트가 넘쳐나는 현대의 웹사이트들, 생각보다 더 위험하다]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107121&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107121&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
@@ -110,14 +110,6 @@
             <pubDate>Fri, 27 May 2022 01:23:55 GMT</pubDate>
             <content:encoded><![CDATA[AP통신에 따르면 미국 사법부와 연방거래위원회가 지난 6년 동안 트위터의 사용자 데이터 프라이버시 보호 시스템의 미흡함을 문제 삼아 1억 5천만 달러의 벌금형을 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/fine-thumb-0526.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[윤석열 정부의 110대 국정과제에 담긴 대한민국 보안의 밑그림]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107122&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107122&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
-            <pubDate>Tue, 31 May 2022 01:25:26 GMT</pubDate>
-            <content:encoded><![CDATA[지난 5월 10일 제20대 윤석열 정부가 출범했다. 정부 출범에 앞서 5월 3일 발표된 110대 국정과제는 △상식이 회복된 반듯한 나라 △민간이 끌고 정부가 미는...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/22052731ss.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[QCT 서버 내 BMC에서 서버 완전 장악 가능케 하는 초고위험도 취약점 발견돼]]></title>
@@ -166,6 +158,14 @@
             <pubDate>Wed, 01 Jun 2022 06:26:59 GMT</pubDate>
             <content:encoded><![CDATA[이번 달로서 세계는 유럽연합이 GDPR이라는 역사적 규정을 시행한 지 4주년을 맞게 됐다. 그 동안 개인의 프라이버시, 혹은 데이터의 프라이버시에 대한 우리의 관...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/21472803_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NSIS 설치 파일 받으려다... 악성코드가 우르르 쏟아진다]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107141&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107141&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Wed, 01 Jun 2022 07:19:08 GMT</pubDate>
+            <content:encoded><![CDATA[최근 들어 NSIS 설치 파일을 통해 다수의 악성 파일들을 배포하고 있는 정황을 확인돼 사용자들의 주의가 요구된다고 안랩 ASEC 분석팀이 밝혔다.]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/20824594_main.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

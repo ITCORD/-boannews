@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-06-01T06:30:14.104Z</updated>
+    <updated>2022-06-01T07:21:37.094Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[5월 마지막 주 악성코드 통계는? 정보탈취용 악성코드 들끓어]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107187&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107187&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-06-01T07:19:22.940Z</updated>
+        <content type="html"><![CDATA[메일 등에 저장된 사용자 정보를 유출하는 악성코드가 한 주간 기승을 부린 것으로 조사됐다. 정보탈취용 악성코드인 만큼 중요 데티어와 개인정보가 유출되지 않도록 메일 서비스 이용시 각별한 주의가 필요하다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[조폐공사, 고려대와 손잡고 ICT 기술역량 강화한다]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107198&amp;page=1&amp;mkind=1&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107198&amp;page=1&amp;mkind=1&amp;kind=2"/>
+        <updated>2022-06-01T07:19:22.942Z</updated>
+        <content type="html"><![CDATA[한국조폐공사는 고려대와 손잡고 디지털 세계에서의 신뢰 기반을 구축하기 위해 블록체인 기술개발 등 ICT 기술 역량 강화에 나선다. 조폐공사는 반장식 사장과 정진택 고려대 총장 등이 참석한 가운데 블록체인과 정보보호 분야 산학협력 협약을 지난달 31일 체결했다고 밝혔다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GDPR 4주년을 맞아 데이터 레이크에 종말을 고하다]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=107155&amp;page=1&amp;mkind=1&amp;kind=4</id>
@@ -109,19 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=107145&amp;page=1&amp;mkind=1&amp;kind=1"/>
         <updated>2022-05-30T06:26:59.087Z</updated>
         <content type="html"><![CDATA[MS가 안드로이드 장비 수백만 대에 미리 설치된 앱들에서 고위험도 취약점들을 발견했다고 보안 외신 해커뉴스가 전했다. 안드로이드 장비들에 보통 ‘디폴트’로 설치되어 있는 앱들이며, 경우에 따라 제거가 불가능하기도 하다. 발견된 취약점들은 CVE-2021-42598, C...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[친러 성향 해커 킬넷, 5월 30일에 이탈리아 공격 예고]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107144&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107144&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-05-30T03:36:20.824Z</updated>
-        <content type="html"><![CDATA[보안 블로그 시큐리티어페어즈에 의하면 친러 성향 해킹 단체인 킬넷(KillNet)이 5월 30일에 이탈리아에 해킹 공격을 감행하겠다고 예고했다고 한다. 이탈리아의 은행, 매체, 에너지 기업 등이 공격 표적이 될 것이라고 하는데, 현재까지는 세 개의 정부 웹사이트들에서 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NSIS 설치 파일 받으려다... 악성코드가 우르르 쏟아진다]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107141&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107141&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-05-30T03:36:20.826Z</updated>
-        <content type="html"><![CDATA[최근 들어 NSIS 설치 파일을 통해 다수의 악성 파일들을 배포하고 있는 정황을 확인돼 사용자들의 주의가 요구된다고 안랩 ASEC 분석팀이 밝혔다.]]></content>
     </entry>
 </feed>
