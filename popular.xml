@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Jun 2022 14:36:09 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jun 2022 15:33:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -144,6 +144,14 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/22052714ss.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[北 해커조직 김수키, 인터넷 공유기 설치파일 위장 AppleSeed 유포]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107188&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107188&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Wed, 01 Jun 2022 14:33:30 GMT</pubDate>
+            <content:encoded><![CDATA[북한 해커조직으로 추정되는 악성코드가 유포된 정황이 포착돼 이용자들의 각별한 주의가 요구된다.]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/20220601KIM-S.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[레빌의 부활? 순수 디도스 공격만으로 협박하는 단체 나타나]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107077&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107077&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
@@ -158,14 +166,6 @@
             <pubDate>Wed, 01 Jun 2022 04:03:14 GMT</pubDate>
             <content:encoded><![CDATA[카오스(Chaos)라는 멀웨어 빌더가 1년 전에는 와이퍼(wiper) 쪽으로 가닥을 잡는 듯 하더니 최근 이름을 야시마(Yashma)로 바꾸며 랜섬웨어로 업종을 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/21554534_copy_295x190_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[北 해커조직 김수키, 인터넷 공유기 설치파일 위장 AppleSeed 유포]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107188&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107188&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Wed, 01 Jun 2022 14:33:30 GMT</pubDate>
-            <content:encoded><![CDATA[북한 해커조직으로 추정되는 악성코드가 유포된 정황이 포착돼 이용자들의 각별한 주의가 요구된다.]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/20220601KIM-S.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
