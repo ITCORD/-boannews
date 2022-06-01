@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 31 May 2022 23:21:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jun 2022 01:50:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -88,6 +88,14 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/SR_0524_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[긴급] MS 오피스, 제로데이 취약점 Follina 발견]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107186&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107186&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Tue, 31 May 2022 22:17:46 GMT</pubDate>
+            <content:encoded><![CDATA[최근 마이크로소프트 오피스(Microsoft Office)에서 제로데이 취약점인 ‘Follina’가 발견됐다. 특히, 이번 취약점은 사용자가 문서를 열람하기만 해...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/20220531MS3-S.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[2022 NGIPS 리포트] 고도화·지능화 사이버공격에  차세대 IPS 솔루션 ‘뜬다’]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107107&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107107&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
@@ -128,14 +136,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/21772404_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[레빌의 부활? 순수 디도스 공격만으로 협박하는 단체 나타나]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107077&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107077&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Fri, 27 May 2022 01:23:55 GMT</pubDate>
-            <content:encoded><![CDATA[한 사이버 공격 단체가 조직적으로 디도스 공격을 하기 시작했는데, 이 단체가 다름 아닌 레빌(REvil)이라는 악명 높은 랜섬웨어 운영자일 가능성이 있는 것으로 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/return-thumb-0526.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[PIS FAIR 2022 미리보기] 안랩·플랜티넷·엘세븐시큐리티·롤텍]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107074&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107074&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
@@ -144,20 +144,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/pis%20somenail.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[레빌의 부활? 순수 디도스 공격만으로 협박하는 단체 나타나]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107077&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107077&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Fri, 27 May 2022 01:23:55 GMT</pubDate>
+            <content:encoded><![CDATA[한 사이버 공격 단체가 조직적으로 디도스 공격을 하기 시작했는데, 이 단체가 다름 아닌 레빌(REvil)이라는 악명 높은 랜섬웨어 운영자일 가능성이 있는 것으로 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/return-thumb-0526.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[가짜 윈도 업데이트로 러시아 정보 기관 노리는 해커들]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107035&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107035&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Wed, 25 May 2022 20:18:56 GMT</pubDate>
             <content:encoded><![CDATA[IT 외신 블리핑컴퓨터에 의하면 러시아 정부 기관들이 여러 해커들의 표적이 되고 있다고 한다. 최근 일부 해커들이 가짜 윈도 업데이트 파일로 원격 접근 도구(RA...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/21652253_copy_295x190_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[긴급] MS 오피스, 제로데이 취약점 Follina 발견]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107186&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107186&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Tue, 31 May 2022 22:17:46 GMT</pubDate>
-            <content:encoded><![CDATA[최근 마이크로소프트 오피스(Microsoft Office)에서 제로데이 취약점인 ‘Follina’가 발견됐다. 특히, 이번 취약점은 사용자가 문서를 열람하기만 해...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/20220531MS3-S.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[취임 첫 인터뷰] 백동융 다후아테크놀로지코리아 대표]]></title>
