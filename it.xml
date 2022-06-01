@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=2</id>
     <title>보안뉴스 ─ IT</title>
-    <updated>2022-06-01T22:22:02.360Z</updated>
+    <updated>2022-06-01T23:21:22.179Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[K-UAM 드림팀, 2025년 도심 하늘길 여는 ‘첫 단추’ 뀄다]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107197&amp;page=1&amp;mkind=2&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107197&amp;page=1&amp;mkind=2&amp;kind=2"/>
+        <updated>2022-06-01T23:18:45.567Z</updated>
+        <content type="html"><![CDATA[SK텔레콤은 한국공항공사, 한화시스템, 한국기상산업기술원, 한국국토정보공사와 함께 국토교통부(국토부)가 주관하는 ‘한국형 도심항공교통 그랜드챌린지(K-UAM 그랜드챌린지)’ 1단계 실증사업 참여를 위한 제안서를 지난달 31일 제출했다고 밝혔다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SKT, AI로 만성질환 관리 돕는다]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=107196&amp;page=1&amp;mkind=2&amp;kind=2</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=107171&amp;page=1&amp;mkind=2&amp;kind=2"/>
         <updated>2022-05-31T04:33:31.054Z</updated>
         <content type="html"><![CDATA[과학기술정보통신부는 초·중등 학생과 청소년들의 소프트웨어(SW) 역량 강화와 경험 확대를 위해 지난 30일부터 ‘제4회 한국코드페어’를 시작했다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[하남시, IoT 활용 대규모 공사장 미세먼지·소음 실시간 원격 감시]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107158&amp;page=1&amp;mkind=2&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107158&amp;page=1&amp;mkind=2&amp;kind=2"/>
-        <updated>2022-05-31T04:33:31.057Z</updated>
-        <content type="html"><![CDATA[하남시가 미세먼지·소음 등으로 인한 시민 불편 최소화를 위해 대규모 공사 현장에 IoT(사물인터넷) 기술을 활용한 원격 감시 체계를 구축해 가동한다.]]></content>
     </entry>
 </feed>

@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Jun 2022 22:22:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jun 2022 23:21:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -80,20 +80,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/20220601KIM-S.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[SNS 이벤트 당첨? 알고보니 개인정보 유출 당첨!]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107119&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107119&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Sat, 28 May 2022 03:09:19 GMT</pubDate>
-            <content:encoded><![CDATA[최근 SNS 이벤트를 사칭해 사용자 개인정보 노린 공격이 급증하고 있어 사용자의 주의가 요구된다고 이스트시큐리티&nbsp;시큐리티대응센터(이하&nbsp;ESRC)...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/est_sns_052701_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[5월 마지막 주 악성코드 통계는? 정보탈취용 악성코드 들끓어]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107187&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107187&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Wed, 01 Jun 2022 16:27:38 GMT</pubDate>
             <content:encoded><![CDATA[메일 등에 저장된 사용자 정보를 유출하는 악성코드가 한 주간 기승을 부린 것으로 조사됐다. 정보탈취용 악성코드인 만큼 중요 데티어와 개인정보가 유출되지 않도록 메...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/2022-05-31-ASEC-C.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SNS 이벤트 당첨? 알고보니 개인정보 유출 당첨!]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107119&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107119&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Sat, 28 May 2022 03:09:19 GMT</pubDate>
+            <content:encoded><![CDATA[최근 SNS 이벤트를 사칭해 사용자 개인정보 노린 공격이 급증하고 있어 사용자의 주의가 요구된다고 이스트시큐리티&nbsp;시큐리티대응센터(이하&nbsp;ESRC)...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/est_sns_052701_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[줌에서 발견된 네 가지 취약점, 연쇄적으로 익스플로잇 하면 무서워져]]></title>
