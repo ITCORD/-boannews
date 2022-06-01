@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 01 Jun 2022 15:33:01 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jun 2022 16:30:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -64,20 +64,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/20013295-c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[SNS 이벤트 당첨? 알고보니 개인정보 유출 당첨!]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107119&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107119&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Sat, 28 May 2022 03:09:19 GMT</pubDate>
-            <content:encoded><![CDATA[최근 SNS 이벤트를 사칭해 사용자 개인정보 노린 공격이 급증하고 있어 사용자의 주의가 요구된다고 이스트시큐리티&nbsp;시큐리티대응센터(이하&nbsp;ESRC)...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/est_sns_052701_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[GDPR 4주년을 맞아 데이터 레이크에 종말을 고하다]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107155&amp;page=1&amp;kind=4&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107155&amp;page=1&amp;kind=4&amp;search=title&amp;find=</guid>
             <pubDate>Wed, 01 Jun 2022 06:26:59 GMT</pubDate>
             <content:encoded><![CDATA[이번 달로서 세계는 유럽연합이 GDPR이라는 역사적 규정을 시행한 지 4주년을 맞게 됐다. 그 동안 개인의 프라이버시, 혹은 데이터의 프라이버시에 대한 우리의 관...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/21472803_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SNS 이벤트 당첨? 알고보니 개인정보 유출 당첨!]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107119&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107119&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Sat, 28 May 2022 03:09:19 GMT</pubDate>
+            <content:encoded><![CDATA[최근 SNS 이벤트를 사칭해 사용자 개인정보 노린 공격이 급증하고 있어 사용자의 주의가 요구된다고 이스트시큐리티&nbsp;시큐리티대응센터(이하&nbsp;ESRC)...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/est_sns_052701_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[줌에서 발견된 네 가지 취약점, 연쇄적으로 익스플로잇 하면 무서워져]]></title>
@@ -104,6 +104,14 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/22052731ss.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[北 해커조직 김수키, 인터넷 공유기 설치파일 위장 AppleSeed 유포]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107188&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107188&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Wed, 01 Jun 2022 14:33:30 GMT</pubDate>
+            <content:encoded><![CDATA[북한 해커조직으로 추정되는 악성코드가 유포된 정황이 포착돼 이용자들의 각별한 주의가 요구된다.]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/20220601KIM-S.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[서드파티 스크립트가 넘쳐나는 현대의 웹사이트들, 생각보다 더 위험하다]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107121&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107121&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
@@ -128,14 +136,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/pis%20somenail.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[QCT 서버 내 BMC에서 서버 완전 장악 가능케 하는 초고위험도 취약점 발견돼]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107123&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107123&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Sun, 29 May 2022 10:19:06 GMT</pubDate>
-            <content:encoded><![CDATA[콴타 클라우드 테크롤로지(Quanta Cloud Technology, QCT)의 서버 모델 일부에서 초고위험도 펌웨어 취약점이 발견됐다. 이 취약점의 익스플로잇에...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/21772404_copy_295x190_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[취임 첫 인터뷰] 백동융 다후아테크놀로지코리아 대표]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107106&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107106&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
@@ -144,12 +144,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/22052714ss.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[北 해커조직 김수키, 인터넷 공유기 설치파일 위장 AppleSeed 유포]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107188&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107188&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Wed, 01 Jun 2022 14:33:30 GMT</pubDate>
-            <content:encoded><![CDATA[북한 해커조직으로 추정되는 악성코드가 유포된 정황이 포착돼 이용자들의 각별한 주의가 요구된다.]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/20220601KIM-S.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[QCT 서버 내 BMC에서 서버 완전 장악 가능케 하는 초고위험도 취약점 발견돼]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107123&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107123&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Sun, 29 May 2022 10:19:06 GMT</pubDate>
+            <content:encoded><![CDATA[콴타 클라우드 테크롤로지(Quanta Cloud Technology, QCT)의 서버 모델 일부에서 초고위험도 펌웨어 취약점이 발견됐다. 이 취약점의 익스플로잇에...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/21772404_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[5월 마지막 주 악성코드 통계는? 정보탈취용 악성코드 들끓어]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107187&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107187&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Wed, 01 Jun 2022 16:27:38 GMT</pubDate>
+            <content:encoded><![CDATA[메일 등에 저장된 사용자 정보를 유출하는 악성코드가 한 주간 기승을 부린 것으로 조사됐다. 정보탈취용 악성코드인 만큼 중요 데티어와 개인정보가 유출되지 않도록 메...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/2022-05-31-ASEC-C.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[레빌의 부활? 순수 디도스 공격만으로 협박하는 단체 나타나]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 27 May 2022 01:23:55 GMT</pubDate>
             <content:encoded><![CDATA[한 사이버 공격 단체가 조직적으로 디도스 공격을 하기 시작했는데, 이 단체가 다름 아닌 레빌(REvil)이라는 악명 높은 랜섬웨어 운영자일 가능성이 있는 것으로 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/return-thumb-0526.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[브랜드명 바꾼 카오스 빌더, 드디어 어엿한 랜섬웨어로 거듭나]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107154&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107154&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Wed, 01 Jun 2022 04:03:14 GMT</pubDate>
-            <content:encoded><![CDATA[카오스(Chaos)라는 멀웨어 빌더가 1년 전에는 와이퍼(wiper) 쪽으로 가닥을 잡는 듯 하더니 최근 이름을 야시마(Yashma)로 바꾸며 랜섬웨어로 업종을 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/21554534_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
