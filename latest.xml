@@ -4,9 +4,25 @@
         <title>보안뉴스 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Jun 2022 07:21:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jun 2022 08:27:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[PIS FAIR 2022] 해커가 의료기관에 군침을 흘리는 이유]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107225&amp;page=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107225&amp;page=1&amp;kind=3</guid>
+            <pubDate>Thu, 02 Jun 2022 08:24:23 GMT</pubDate>
+            <content:encoded><![CDATA[의료기관의 보안위협이 심상치 않다. 민감한 개인정보를 보유하고 있는 만큼 해커들이 군침을 흘리고 있다. 이와 관련해 한국사회보장정보원 최주원 박사는 2일 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/KakaoTalk_20220602_163323032_02-c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[PIS FAIR 2022] 공공기관 CPO를 위한 전문 교육 ‘CPO 워크숍’ 개최]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107224&amp;page=1&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107224&amp;page=1&amp;kind=2</guid>
+            <pubDate>Thu, 02 Jun 2022 08:24:23 GMT</pubDate>
+            <content:encoded><![CDATA[개인정보보호최고책임자(CPO, Chief Privacy Officer)를 위한 개인정보보호 전문 교육이 ‘제11회 개인정보보호 페어 &amp; CPO 워크숍’에서...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/pis_track_060201_main.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[PIS FAIR 2022] 아모레퍼시픽 백인혁 차장 “개인정보 흐름상의 유출 포인트 통제해야”]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107220&amp;page=1&amp;kind=3</link>
@@ -72,22 +88,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/ser-thumb-0602.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[새로운 엑스로더 봇넷, C&C 서버 감추기 위해 확률 이론 활용]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107211&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107211&amp;page=1&amp;kind=1</guid>
-            <pubDate>Thu, 02 Jun 2022 03:47:04 GMT</pubDate>
-            <content:encoded><![CDATA[보안 외신 해커뉴스에 의하면 엑스로더(XLoader)의 새 버전이 사이버 공간에 출몰했다고 한다. 이번 변종의 경우 확률 이론을 동원하여 C&amp;C 서버를 감...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/prob-thumb-0602.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[수백 개의 엘라스틱서치 데이터베이스, 표적형 협박 공격에 당해]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107210&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107210&amp;page=1&amp;kind=1</guid>
-            <pubDate>Thu, 02 Jun 2022 03:47:04 GMT</pubDate>
-            <content:encoded><![CDATA[IT 외신 블리핑컴퓨터에 의하면 엘라스틱서치(Elasticsearch) 데이터베이스 수백 대가 표적 공격에 당했다고 한다. 공격자들은 보안 설정이 제대로...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/els-thumb-0602.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[슈프리마아이디, 독일 ‘시큐넷’과 유럽 진출 가속화]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107206&amp;page=1&amp;kind=3</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107206&amp;page=1&amp;kind=3</guid>
@@ -126,6 +126,22 @@
             <pubDate>Thu, 02 Jun 2022 05:30:32 GMT</pubDate>
             <content:encoded><![CDATA[악성코드 탐지 및 차단 전문기업 시큐레터(대표 임차성)가 제2판교테크노밸리로 사옥으로 이전하며 새로운 도약에 나선다고 2일 밝혔다. 시큐레터는 약 7년간의...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/ceculetter20220602-c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[새로운 엑스로더 봇넷, C&C 서버 감추기 위해 확률 이론 활용]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107211&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107211&amp;page=1&amp;kind=1</guid>
+            <pubDate>Thu, 02 Jun 2022 03:47:04 GMT</pubDate>
+            <content:encoded><![CDATA[보안 외신 해커뉴스에 의하면 엑스로더(XLoader)의 새 버전이 사이버 공간에 출몰했다고 한다. 이번 변종의 경우 확률 이론을 동원하여 C&amp;C 서버를 감...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/prob-thumb-0602.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[수백 개의 엘라스틱서치 데이터베이스, 표적형 협박 공격에 당해]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107210&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107210&amp;page=1&amp;kind=1</guid>
+            <pubDate>Thu, 02 Jun 2022 03:47:04 GMT</pubDate>
+            <content:encoded><![CDATA[IT 외신 블리핑컴퓨터에 의하면 엘라스틱서치(Elasticsearch) 데이터베이스 수백 대가 표적 공격에 당했다고 한다. 공격자들은 보안 설정이 제대로...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/els-thumb-0602.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[유로폴, 플루봇 모바일 멀웨어 공격 인프라 무력화 성공]]></title>
@@ -228,22 +244,6 @@
             <guid>https://www.boannews.com/media/view.asp?idx=107199&amp;page=1&amp;kind=3</guid>
             <pubDate>Tue, 31 May 2022 15:21:45 GMT</pubDate>
             <content:encoded><![CDATA[현대차가 최근 미래 모빌리티 산업 인재를 양성하기 위한 교육 프로그램인 ‘H-모빌리티 클래스’의 모집을 시작했다고 밝혔다. 올해로 3년차를 맞은 현대차의 ...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[조폐공사, 고려대와 손잡고 ICT 기술역량 강화한다]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107198&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107198&amp;page=1&amp;kind=2</guid>
-            <pubDate>Tue, 31 May 2022 15:21:45 GMT</pubDate>
-            <content:encoded><![CDATA[한국조폐공사는 고려대와 손잡고 디지털 세계에서의 신뢰 기반을 구축하기 위해 블록체인 기술개발 등 ICT 기술 역량 강화에 나선다. 조폐공사는 반장식 사장과...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/6-9(295).jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[K-UAM 드림팀, 2025년 도심 하늘길 여는 ‘첫 단추’ 뀄다]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107197&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107197&amp;page=1&amp;kind=2</guid>
-            <pubDate>Tue, 31 May 2022 15:21:45 GMT</pubDate>
-            <content:encoded><![CDATA[SK텔레콤은 한국공항공사, 한화시스템, 한국기상산업기술원, 한국국토정보공사와 함께 국토교통부(국토부)가 주관하는 ‘한국형 도심항공교통 그랜드챌린지(K-UA...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/6-8(295).jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

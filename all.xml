@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Jun 2022 07:21:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jun 2022 08:27:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[PIS FAIR 2022] 해커가 의료기관에 군침을 흘리는 이유 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107225&amp;page=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107225&amp;page=1&amp;kind=3</guid>
+            <pubDate>Thu, 02 Jun 2022 08:24:23 GMT</pubDate>
+            <content:encoded><![CDATA[의료기관의 보안위협이 심상치 않다. 민감한 개인정보를 보유하고 있는 만큼 해커들이 군침을 흘리고 있다. 이와 관련해 한국사회보장정보원 최주원 박사는 2일 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/KakaoTalk_20220602_163323032_02-c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[PIS FAIR 2022] 공공기관 CPO를 위한 전문 교육 ‘CPO 워크숍’ 개최 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107224&amp;page=1&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107224&amp;page=1&amp;kind=2</guid>
+            <pubDate>Thu, 02 Jun 2022 08:24:23 GMT</pubDate>
+            <content:encoded><![CDATA[개인정보보호최고책임자(CPO, Chief Privacy Officer)를 위한 개인정보보호 전문 교육이 ‘제11회 개인정보보호 페어 &amp; CPO 워크숍’에서...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/pis_track_060201_main.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[PIS FAIR 2022] 아모레퍼시픽 백인혁 차장 “개인정보 흐름상의 유출 포인트 통제해야” (보안뉴스 ─ 전체기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107220&amp;page=1&amp;kind=3</link>
@@ -72,22 +88,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/ser-thumb-0602.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[새로운 엑스로더 봇넷, C&C 서버 감추기 위해 확률 이론 활용 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107211&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107211&amp;page=1&amp;kind=1</guid>
-            <pubDate>Thu, 02 Jun 2022 03:47:04 GMT</pubDate>
-            <content:encoded><![CDATA[보안 외신 해커뉴스에 의하면 엑스로더(XLoader)의 새 버전이 사이버 공간에 출몰했다고 한다. 이번 변종의 경우 확률 이론을 동원하여 C&amp;C 서버를 감...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/prob-thumb-0602.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[수백 개의 엘라스틱서치 데이터베이스, 표적형 협박 공격에 당해 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107210&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107210&amp;page=1&amp;kind=1</guid>
-            <pubDate>Thu, 02 Jun 2022 03:47:04 GMT</pubDate>
-            <content:encoded><![CDATA[IT 외신 블리핑컴퓨터에 의하면 엘라스틱서치(Elasticsearch) 데이터베이스 수백 대가 표적 공격에 당했다고 한다. 공격자들은 보안 설정이 제대로...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/els-thumb-0602.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[슈프리마아이디, 독일 ‘시큐넷’과 유럽 진출 가속화 (보안뉴스 ─ 전체기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107206&amp;page=1&amp;kind=3</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107206&amp;page=1&amp;kind=3</guid>
@@ -126,6 +126,22 @@
             <pubDate>Thu, 02 Jun 2022 05:30:32 GMT</pubDate>
             <content:encoded><![CDATA[악성코드 탐지 및 차단 전문기업 시큐레터(대표 임차성)가 제2판교테크노밸리로 사옥으로 이전하며 새로운 도약에 나선다고 2일 밝혔다. 시큐레터는 약 7년간의...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/ceculetter20220602-c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[새로운 엑스로더 봇넷, C&C 서버 감추기 위해 확률 이론 활용 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107211&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107211&amp;page=1&amp;kind=1</guid>
+            <pubDate>Thu, 02 Jun 2022 03:47:04 GMT</pubDate>
+            <content:encoded><![CDATA[보안 외신 해커뉴스에 의하면 엑스로더(XLoader)의 새 버전이 사이버 공간에 출몰했다고 한다. 이번 변종의 경우 확률 이론을 동원하여 C&amp;C 서버를 감...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/prob-thumb-0602.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[수백 개의 엘라스틱서치 데이터베이스, 표적형 협박 공격에 당해 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107210&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107210&amp;page=1&amp;kind=1</guid>
+            <pubDate>Thu, 02 Jun 2022 03:47:04 GMT</pubDate>
+            <content:encoded><![CDATA[IT 외신 블리핑컴퓨터에 의하면 엘라스틱서치(Elasticsearch) 데이터베이스 수백 대가 표적 공격에 당했다고 한다. 공격자들은 보안 설정이 제대로...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/els-thumb-0602.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[유로폴, 플루봇 모바일 멀웨어 공격 인프라 무력화 성공 (보안뉴스 ─ 전체기사)]]></title>
@@ -230,22 +246,6 @@
             <content:encoded><![CDATA[현대차가 최근 미래 모빌리티 산업 인재를 양성하기 위한 교육 프로그램인 ‘H-모빌리티 클래스’의 모집을 시작했다고 밝혔다. 올해로 3년차를 맞은 현대차의 ...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[조폐공사, 고려대와 손잡고 ICT 기술역량 강화한다 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107198&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107198&amp;page=1&amp;kind=2</guid>
-            <pubDate>Tue, 31 May 2022 15:21:45 GMT</pubDate>
-            <content:encoded><![CDATA[한국조폐공사는 고려대와 손잡고 디지털 세계에서의 신뢰 기반을 구축하기 위해 블록체인 기술개발 등 ICT 기술 역량 강화에 나선다. 조폐공사는 반장식 사장과...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/6-9(295).jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[K-UAM 드림팀, 2025년 도심 하늘길 여는 ‘첫 단추’ 뀄다 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107197&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107197&amp;page=1&amp;kind=2</guid>
-            <pubDate>Tue, 31 May 2022 15:21:45 GMT</pubDate>
-            <content:encoded><![CDATA[SK텔레콤은 한국공항공사, 한화시스템, 한국기상산업기술원, 한국국토정보공사와 함께 국토교통부(국토부)가 주관하는 ‘한국형 도심항공교통 그랜드챌린지(K-UA...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/6-8(295).jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[bnTV] 무수히 많은 해커가 활동하는 다크웹, 그 실체를 파헤치다 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107124&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107124&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
@@ -316,14 +316,6 @@
             <pubDate>Sat, 28 May 2022 03:09:19 GMT</pubDate>
             <content:encoded><![CDATA[최근 SNS 이벤트를 사칭해 사용자 개인정보 노린 공격이 급증하고 있어 사용자의 주의가 요구된다고 이스트시큐리티&nbsp;시큐리티대응센터(이하&nbsp;ESRC)...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/est_sns_052701_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[줌에서 발견된 네 가지 취약점, 연쇄적으로 익스플로잇 하면 무서워져 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107081&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107081&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Fri, 27 May 2022 03:25:31 GMT</pubDate>
-            <content:encoded><![CDATA[유명 화상 회의 및 원격 협업 플랫폼인 줌(Zoom)에서 새로운 공격 가능성이 발견됐다. 기존에 발견됐던 취약점 4개를 엮어서 익스플로잇 하면 제로클릭 원격 코드...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/chain-thumb-0526.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[2022 NGIPS 리포트] 고도화·지능화 사이버공격에  차세대 IPS 솔루션 ‘뜬다’ (보안뉴스 ─ 가장 많이 본 기사)]]></title>
@@ -404,6 +396,28 @@
             <pubDate>Thu, 02 Jun 2022 07:19:08 GMT</pubDate>
             <content:encoded><![CDATA[개인정보보호위원회(위원장 윤종인, 이하 ‘개인정보위’)와 개인정보보호페어조직위원회(위원장 황서종)는 공공·산업계 전반의 개인정보보호 수준을 높이고, 정책̷...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/pisfair_2022_060102_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[물리·정보보안 업계, 6월에는 어느 기업이 어떤 인재 찾고 있나 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107078&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107078&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
+            <pubDate>Thu, 02 Jun 2022 08:24:40 GMT</pubDate>
+            <content:encoded><![CDATA[상반기를 마무리하는 6월이 코앞으로 다가왔다. 코로나19로 제약적이던 일상은 일부를 제외하고 예전과 같은 모습을 되찾고 있으며, 막혀있던 해외여행과 판로도 서서히...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/22052606dd.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘데이터 경제 시대의 개인정보보호’ 주제로 PIS FAIR 2022 성황리 개막 (보안뉴스 ─ SECURITY)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107219&amp;page=1&amp;mkind=1&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107219&amp;page=1&amp;mkind=1&amp;kind=2</guid>
+            <pubDate>Thu, 02 Jun 2022 08:24:52 GMT</pubDate>
+            <content:encoded><![CDATA[국내 최대 규모의 개인정보보호 콘퍼런스로 자리매김한 ‘PIS FAIR 2022’는 개인정보보호위원회와 PIS FAIR 조직위원회가 주최한다. 올해는 개인정보보호 분야 유관기관 및 기업 총 70개가 함께 참여했으며, 기관과 기업의 개인정보보호최고책임자(CPO), 개인정보...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[디지털 공급망 공격이 점점 거세지는 이유와 방어의 기본 (보안뉴스 ─ SECURITY)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107223&amp;page=1&amp;mkind=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107223&amp;page=1&amp;mkind=1&amp;kind=1</guid>
+            <pubDate>Thu, 02 Jun 2022 08:24:52 GMT</pubDate>
+            <content:encoded><![CDATA[그 어느 때보다 디지털 공급망 공격이 심해지고 있다. 가트너는 2022년을 위협하는 일곱 가지 보안 위험요소들 중 공급망 공격을 포함시키기도 했다. 이 때문에 CISO들과 CIO들, 더 나아가 CEO들까지 공급망 공격에 대해 보다 깊은 관심을 보일 수밖에 없는 상황이다...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[PIS FAIR 2022] 개인정보보호법 개정안, 어떤 내용 담겼나 (보안뉴스 ─ SECURITY)]]></title>
@@ -509,20 +523,6 @@
             <guid>https://www.boannews.com/media/view.asp?idx=107187&amp;page=1&amp;mkind=1&amp;kind=1</guid>
             <pubDate>Wed, 01 Jun 2022 07:19:22 GMT</pubDate>
             <content:encoded><![CDATA[메일 등에 저장된 사용자 정보를 유출하는 악성코드가 한 주간 기승을 부린 것으로 조사됐다. 정보탈취용 악성코드인 만큼 중요 데티어와 개인정보가 유출되지 않도록 메일 서비스 이용시 각별한 주의가 필요하다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[조폐공사, 고려대와 손잡고 ICT 기술역량 강화한다 (보안뉴스 ─ SECURITY)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107198&amp;page=1&amp;mkind=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107198&amp;page=1&amp;mkind=1&amp;kind=2</guid>
-            <pubDate>Wed, 01 Jun 2022 07:19:22 GMT</pubDate>
-            <content:encoded><![CDATA[한국조폐공사는 고려대와 손잡고 디지털 세계에서의 신뢰 기반을 구축하기 위해 블록체인 기술개발 등 ICT 기술 역량 강화에 나선다. 조폐공사는 반장식 사장과 정진택 고려대 총장 등이 참석한 가운데 블록체인과 정보보호 분야 산학협력 협약을 지난달 31일 체결했다고 밝혔다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[GDPR 4주년을 맞아 데이터 레이크에 종말을 고하다 (보안뉴스 ─ SECURITY)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107155&amp;page=1&amp;mkind=1&amp;kind=4</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107155&amp;page=1&amp;mkind=1&amp;kind=4</guid>
-            <pubDate>Tue, 31 May 2022 16:27:27 GMT</pubDate>
-            <content:encoded><![CDATA[이번 달로서 세계는 유럽연합이 GDPR이라는 역사적 규정을 시행한 지 4주년을 맞게 됐다. 그 동안 개인의 프라이버시, 혹은 데이터의 프라이버시에 대한 우리의 관념은 계속해서 변해왔고, 그 변화의 중심에 GDPR이 있었음은 부인할 수 없는 사실이다. 싫든 좋든 GDPR...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[충북도, 미래 신산업 선도할 인력 양성 계획 수립 (보안뉴스 ─ IT)]]></title>
@@ -1619,6 +1619,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2021/12/20211231daegu-s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[PIS FAIR 2022] 공공기관 CPO를 위한 전문 교육 ‘CPO 워크숍’ 개최 (보안뉴스 ─ 정책)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107224&amp;page=1&amp;mkind=&amp;kind=2&amp;skind=6&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107224&amp;page=1&amp;mkind=&amp;kind=2&amp;skind=6&amp;search=title&amp;find=</guid>
+            <pubDate>Thu, 02 Jun 2022 08:26:26 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/view.asp?idx=107224&amp;page=1&amp;mkind=&amp;kind=2&amp;skind=6&amp;search=title&amp;find=">
+					
+					<img src="/media/upFiles2/2022/06/pis_track_060201_main.jpg" alt="" class="news_img" height="70">
+					
+					<span class="news_txt">[PIS FAIR 2022] 공공기관 CPO를 위한 전문 교육 ‘CPO 워크숍’ 개최</span>
+					</a><br>
+					<a href="/media/view.asp?idx=107224&amp;page=1&amp;mkind=&amp;kind=2&amp;skind=6&amp;search=title&amp;find=">개인정보보호최고책임자(CPO, Chief Privacy Officer)를 위한 개인정보보호 전문 교육이 ‘제11회 개인정보보호 페어 &amp; CPO 워크숍’에서 개최됐...</a> <span class="news_writer">원병철 기자 | 2022년 06월 02일 16:41</span>]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/pis_track_060201_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[PIS FAIR 2022] 개인정보보호법 개정안, 어떤 내용 담겼나 (보안뉴스 ─ 정책)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107218&amp;page=1&amp;mkind=&amp;kind=2&amp;skind=6&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107218&amp;page=1&amp;mkind=&amp;kind=2&amp;skind=6&amp;search=title&amp;find=</guid>
@@ -1883,20 +1897,6 @@
 					</a><br>
 					<a href="/media/view.asp?idx=106546&amp;page=1&amp;mkind=&amp;kind=2&amp;skind=6&amp;search=title&amp;find=">윤석열 정부가 사이버보안 역량 강화를 위해 보안클러스터 모델의 지역거점 확산으로 기업 성장을 지원하고, 10만 사이버보안 인재를 양성하겠다고 공식적으로 발표했다....</a> <span class="news_writer">원병철 기자 | 2022년 05월 04일 10:53</span>]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/insu_050401_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[개인정보위, 아태지역 개인정보 국제인증제도 운영 개시 (보안뉴스 ─ 정책)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106498&amp;page=1&amp;mkind=&amp;kind=2&amp;skind=6&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106498&amp;page=1&amp;mkind=&amp;kind=2&amp;skind=6&amp;search=title&amp;find=</guid>
-            <pubDate>Mon, 02 May 2022 05:32:04 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/view.asp?idx=106498&amp;page=1&amp;mkind=&amp;kind=2&amp;skind=6&amp;search=title&amp;find=">
-					
-					<img src="/media/upFiles2/2022/05/pipc_050201_main.jpg" alt="" class="news_img" height="70">
-					
-					<span class="news_txt">개인정보위, 아태지역 개인정보 국제인증제도 운영 개시</span>
-					</a><br>
-					<a href="/media/view.asp?idx=106498&amp;page=1&amp;mkind=&amp;kind=2&amp;skind=6&amp;search=title&amp;find=">우리 기업들도 이제부터는 해외 기관을 통하지 않고도 국내에서 개인정보 보호 수준에 대한 국제인증을 편리하게 받을 수 있게 된다. 개인정보보호위원회(위원장 윤종인,...</a> <span class="news_writer">원병철 기자 | 2022년 05월 02일 14:23</span>]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/pipc_050201_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[디지털 공급망 공격이 점점 거세지는 이유와 방어의 기본 (보안뉴스 ─ 국제)]]></title>

@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Jun 2022 07:21:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jun 2022 08:27:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -78,14 +78,6 @@
             <pubDate>Sat, 28 May 2022 03:09:19 GMT</pubDate>
             <content:encoded><![CDATA[최근 SNS 이벤트를 사칭해 사용자 개인정보 노린 공격이 급증하고 있어 사용자의 주의가 요구된다고 이스트시큐리티&nbsp;시큐리티대응센터(이하&nbsp;ESRC)...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/est_sns_052701_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[줌에서 발견된 네 가지 취약점, 연쇄적으로 익스플로잇 하면 무서워져]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107081&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107081&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Fri, 27 May 2022 03:25:31 GMT</pubDate>
-            <content:encoded><![CDATA[유명 화상 회의 및 원격 협업 플랫폼인 줌(Zoom)에서 새로운 공격 가능성이 발견됐다. 기존에 발견됐던 취약점 4개를 엮어서 익스플로잇 하면 제로클릭 원격 코드...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/chain-thumb-0526.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[2022 NGIPS 리포트] 고도화·지능화 사이버공격에  차세대 IPS 솔루션 ‘뜬다’]]></title>
@@ -166,6 +158,14 @@
             <pubDate>Thu, 02 Jun 2022 07:19:08 GMT</pubDate>
             <content:encoded><![CDATA[개인정보보호위원회(위원장 윤종인, 이하 ‘개인정보위’)와 개인정보보호페어조직위원회(위원장 황서종)는 공공·산업계 전반의 개인정보보호 수준을 높이고, 정책̷...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/pisfair_2022_060102_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[물리·정보보안 업계, 6월에는 어느 기업이 어떤 인재 찾고 있나]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107078&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107078&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
+            <pubDate>Thu, 02 Jun 2022 08:24:40 GMT</pubDate>
+            <content:encoded><![CDATA[상반기를 마무리하는 6월이 코앞으로 다가왔다. 코로나19로 제약적이던 일상은 일부를 제외하고 예전과 같은 모습을 되찾고 있으며, 막혀있던 해외여행과 판로도 서서히...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/22052606dd.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
