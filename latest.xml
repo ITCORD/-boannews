@@ -4,9 +4,33 @@
         <title>보안뉴스 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Jun 2022 06:26:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jun 2022 07:21:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[PIS FAIR 2022] 아모레퍼시픽 백인혁 차장 “개인정보 흐름상의 유출 포인트 통제해야”]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107220&amp;page=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107220&amp;page=1&amp;kind=3</guid>
+            <pubDate>Thu, 02 Jun 2022 07:18:57 GMT</pubDate>
+            <content:encoded><![CDATA[아모레퍼시픽 정보보안팀 백인혁 차장은 2일 개최된 ‘PIS FAIR 2022’에서 아모레퍼시픽의 개인정보보호 실무사례를 소개하며, 개인정보보호를 위해 △개...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/amorae1-C.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘데이터 경제 시대의 개인정보보호’ 주제로 PIS FAIR 2022 성황리 개막]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107219&amp;page=1&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107219&amp;page=1&amp;kind=2</guid>
+            <pubDate>Thu, 02 Jun 2022 07:18:58 GMT</pubDate>
+            <content:encoded><![CDATA[국내 최대 규모의 개인정보보호 콘퍼런스로 자리매김한 ‘PIS FAIR 2022’는 개인정보보호위원회와 PIS FAIR 조직위원회가 주최한다. 올해는 개인정...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/PIS%20FAIR%20202201_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[디지털 공급망 공격이 점점 거세지는 이유와 방어의 기본]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107223&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107223&amp;page=1&amp;kind=1</guid>
+            <pubDate>Thu, 02 Jun 2022 07:18:58 GMT</pubDate>
+            <content:encoded><![CDATA[그 어느 때보다 디지털 공급망 공격이 심해지고 있다. 가트너는 2022년을 위협하는 일곱 가지 보안 위험요소들 중 공급망 공격을 포함시키기도 했다. 이 때...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/zen-thumb-0602.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[PIS FAIR 2022] 개인정보보호법 개정안, 어떤 내용 담겼나]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107218&amp;page=1&amp;kind=2</link>
@@ -64,28 +88,12 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/els-thumb-0602.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[유로폴, 플루봇 모바일 멀웨어 공격 인프라 무력화 성공]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107209&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107209&amp;page=1&amp;kind=1</guid>
-            <pubDate>Thu, 02 Jun 2022 03:47:04 GMT</pubDate>
-            <content:encoded><![CDATA[보안 외신 시큐리티위크에 의하면 유로폴이 플루봇(FluBot)을 무력화시키는 데 성공했다고 한다. 플루봇은 주로 SMS 메시지를 통해 iOS와 안드로이드 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/flu-thumb-0602.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[MS, 최근 발견된 제로데이 취약점에 대한 완화 대책 발표]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107207&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107207&amp;page=1&amp;kind=1</guid>
-            <pubDate>Thu, 02 Jun 2022 03:47:04 GMT</pubDate>
-            <content:encoded><![CDATA[보안 외신 쓰레트포스트에 의하면 MS가 폴리나(Follina)라고 알려진 제로데이 취약점에 대한 위험 완화 대책을 발표했다고 한다. 이 취약점은 CVE-2...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/warn-thumb-0602.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[보안 실무·책임자가 선호하는 영상보안 장비 제조사는 어디?]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107118&amp;page=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107118&amp;page=1&amp;kind=3</guid>
-            <pubDate>Wed, 01 Jun 2022 23:17:59 GMT</pubDate>
-            <content:encoded><![CDATA[안전과 보안에 대한 인식이 높아지며 물리보안은 사람과 자산을 보호하는 것 이상의 목적으로 사용되고 있다. 여기에 기술이 고도화되고 정보보안과의 융합을 통...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/22052719ss.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[슈프리마아이디, 독일 ‘시큐넷’과 유럽 진출 가속화]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107206&amp;page=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107206&amp;page=1&amp;kind=3</guid>
+            <pubDate>Thu, 02 Jun 2022 07:18:58 GMT</pubDate>
+            <content:encoded><![CDATA[디지털 아이디 솔루션 전문기업 슈프리마아이디(대표이사 박보건)가 독일의 디지털 인프라 보안 선두업체 ‘시큐넷(Secunet)’과 협력관계를 맺게 됐다고 2...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/22060201ss.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[플랜티넷, PIS FAIR 2022서 SSL 암복호화 솔루션 ’오피스가드 SV’ 선봬]]></title>
@@ -118,6 +126,30 @@
             <pubDate>Thu, 02 Jun 2022 05:30:32 GMT</pubDate>
             <content:encoded><![CDATA[악성코드 탐지 및 차단 전문기업 시큐레터(대표 임차성)가 제2판교테크노밸리로 사옥으로 이전하며 새로운 도약에 나선다고 2일 밝혔다. 시큐레터는 약 7년간의...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/ceculetter20220602-c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[유로폴, 플루봇 모바일 멀웨어 공격 인프라 무력화 성공]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107209&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107209&amp;page=1&amp;kind=1</guid>
+            <pubDate>Thu, 02 Jun 2022 03:47:04 GMT</pubDate>
+            <content:encoded><![CDATA[보안 외신 시큐리티위크에 의하면 유로폴이 플루봇(FluBot)을 무력화시키는 데 성공했다고 한다. 플루봇은 주로 SMS 메시지를 통해 iOS와 안드로이드 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/flu-thumb-0602.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[MS, 최근 발견된 제로데이 취약점에 대한 완화 대책 발표]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107207&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107207&amp;page=1&amp;kind=1</guid>
+            <pubDate>Thu, 02 Jun 2022 03:47:04 GMT</pubDate>
+            <content:encoded><![CDATA[보안 외신 쓰레트포스트에 의하면 MS가 폴리나(Follina)라고 알려진 제로데이 취약점에 대한 위험 완화 대책을 발표했다고 한다. 이 취약점은 CVE-2...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/warn-thumb-0602.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[보안 실무·책임자가 선호하는 영상보안 장비 제조사는 어디?]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107118&amp;page=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107118&amp;page=1&amp;kind=3</guid>
+            <pubDate>Wed, 01 Jun 2022 23:17:59 GMT</pubDate>
+            <content:encoded><![CDATA[안전과 보안에 대한 인식이 높아지며 물리보안은 사람과 자산을 보호하는 것 이상의 목적으로 사용되고 있다. 여기에 기술이 고도화되고 정보보안과의 융합을 통...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/22052719ss.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[인터뷰] 이규환 지케이테코 대표, “제품 현지화로 국내 공공시장 공략”]]></title>
@@ -212,35 +244,6 @@
             <pubDate>Tue, 31 May 2022 15:21:45 GMT</pubDate>
             <content:encoded><![CDATA[SK텔레콤은 한국공항공사, 한화시스템, 한국기상산업기술원, 한국국토정보공사와 함께 국토교통부(국토부)가 주관하는 ‘한국형 도심항공교통 그랜드챌린지(K-UA...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/6-8(295).jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SKT, AI로 만성질환 관리 돕는다]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107196&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107196&amp;page=1&amp;kind=2</guid>
-            <pubDate>Tue, 31 May 2022 15:21:45 GMT</pubDate>
-            <content:encoded><![CDATA[SKT의 AI 기반 음성 안내 플랫폼 ‘누구 비즈콜(NUGU bizcall)’이 만성질환 관리 환자의 모니터링을 돕는다. SK텔레콤은 국민건강보험공단과 ‘...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/6-7(295).jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[중기부-과기정통부, 스마트 제조혁신 R&D 2,418억원 지원]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107194&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107194&amp;page=1&amp;kind=2</guid>
-            <pubDate>Tue, 31 May 2022 15:21:45 GMT</pubDate>
-            <content:encoded><![CDATA[중소벤처기업부와 과학기술정보통신부는 ‘2022년 스마트 제조혁신 기술개발사업’ 지원 대상으로 71개 기업·기관(중기부 49개, 과기정통부 22개)을 선정했...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[온라인상 피해, 전화 한 통으로 해결한다]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107193&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107193&amp;page=1&amp;kind=2</guid>
-            <pubDate>Tue, 31 May 2022 15:21:45 GMT</pubDate>
-            <content:encoded><![CDATA[방송통신위원회와 한국정보통신진흥협회는 지난달 31일 ‘온라인서비스피해상담센터’ 개소식을 가졌다. 상담센터에서는 접수받은 피해민원에 대해 직접 상담·지원하거...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[추경호 부총리, 서울대 반도체공동연구소 방문]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107192&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107192&amp;page=1&amp;kind=2</guid>
-            <pubDate>Tue, 31 May 2022 15:21:45 GMT</pubDate>
-            <content:encoded><![CDATA[추경호 부총리는 지난달 31일 서울대 반도체공동연구소를 방문해 공동연구소 내 반도체 시설과 장비를 시찰하고, 학계 및 업계 전문가들과 간담회를 개최했다.]]></content:encoded>
         </item>
     </channel>
 </rss>

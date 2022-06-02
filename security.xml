@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-06-02T06:26:28.897Z</updated>
+    <updated>2022-06-02T07:21:53.098Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[PIS FAIR 2022] 개인정보보호법 개정안, 어떤 내용 담겼나]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107218&amp;page=1&amp;mkind=1&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107218&amp;page=1&amp;mkind=1&amp;kind=2"/>
+        <updated>2022-06-02T07:19:21.407Z</updated>
+        <content type="html"><![CDATA[디지털 전환이 가속화하고 개인정보 보호·활용 패러다임에 대한 혁신 필요성이 증가하며 개인정보의 보호와 활용에 대한 관심도 높아지고 있다. 이러한 가운데 이병남 개인정보보호위원회 개인정보보호정책과 과장은 6월 2일 서울 삼성동 코엑스 그랜드볼룸에서 개막한 ‘제11회 개인...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[PIS FAIR 2022] 신동휘 스틸리언 CTO “해커, 40원짜리 개인정보를 500만원 가치로 높여”]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107214&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107214&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-06-02T07:19:21.410Z</updated>
+        <content type="html"><![CDATA[“문자 발신용 개인정보 1건당 가치는 40원입니다. 하지만 ‘실직한 세 아이의 아빠, 최근 대출심사에서 떨어져 2억 원의 급전이 필요한 A씨의 정보’는 순식간에 5백만원 이상의 가치로 높아집니다. 한 사람의 경제적 환경, 그 사람의 상황 등 아이덴티티가 쌓여지는 순간 ...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[플랜티넷, PIS FAIR 2022서 SSL 암복호화 솔루션 ’오피스가드 SV’ 선봬]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107222&amp;page=1&amp;mkind=1&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107222&amp;page=1&amp;mkind=1&amp;kind=3"/>
+        <updated>2022-06-02T07:19:21.411Z</updated>
+        <content type="html"><![CDATA[유해콘텐츠 필터링 및 네트워크 보안 전문기업 플랜티넷(대표 김태주)이 6월 2일부터 3일까지 양일간 코엑스에서 열리는 ‘제11회 개인정보보호 페어&amp;CPO워크숍’(이하 PIS FAIR 2022)에 참가해, 보안 웹 게이트웨이(SWG)에 SSL 암·복호화 기능을 강화해 더...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[시큐레터, 제2판교 신사옥 이전으로 시너지 극대화 기대]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=107215&amp;page=1&amp;mkind=1&amp;kind=3</id>
@@ -102,26 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=107155&amp;page=1&amp;mkind=1&amp;kind=4"/>
         <updated>2022-05-31T16:27:27.761Z</updated>
         <content type="html"><![CDATA[이번 달로서 세계는 유럽연합이 GDPR이라는 역사적 규정을 시행한 지 4주년을 맞게 됐다. 그 동안 개인의 프라이버시, 혹은 데이터의 프라이버시에 대한 우리의 관념은 계속해서 변해왔고, 그 변화의 중심에 GDPR이 있었음은 부인할 수 없는 사실이다. 싫든 좋든 GDPR...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[안랩, 금융권 클라우드 규제대응 및 구축 전략 온라인 세미나 개최]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107183&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107183&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-05-31T16:27:27.763Z</updated>
-        <content type="html"><![CDATA[안랩(대표 강석균)이 6월 7일(화) 2시 금융권 및 핀테크 분야 클라우드 인프라·보안 담당자를 대상으로 ‘금융분야 클라우드 규제 개선 가이드 및 클라우드 구축 사례’를 주제로 ‘안랩 온라인 세미나’를 개최한다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[긴급] MS 오피스, 제로데이 취약점 Follina 발견]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107186&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107186&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-05-31T15:22:25.383Z</updated>
-        <content type="html"><![CDATA[최근 마이크로소프트 오피스(Microsoft Office)에서 제로데이 취약점인 ‘Follina’가 발견됐다. 특히, 이번 취약점은 사용자가 문서를 열람하기만 해도 악성코드가 실행될 수 있어 PC 사용자들의 주의가 필요하다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서울시 ‘서울지갑’, 주요 전자증명서 7종 신청·발급 서비스 시작]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107179&amp;page=1&amp;mkind=1&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107179&amp;page=1&amp;mkind=1&amp;kind=2"/>
-        <updated>2022-05-31T08:26:08.871Z</updated>
-        <content type="html"><![CDATA[서울시 행정서비스를 이용하기 위해 일상에서 자주 필요한 각종 전자증명서를 한곳에 수령·제출할 수 있는 스마트폰 앱 ‘서울지갑’에서 이제 전자증명서를 신청·발급까지 한번에 할 수 있게 된다.]]></content>
     </entry>
 </feed>
