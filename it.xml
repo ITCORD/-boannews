@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=2</id>
     <title>보안뉴스 ─ IT</title>
-    <updated>2022-06-02T04:48:45.633Z</updated>
+    <updated>2022-06-02T05:33:22.883Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[현대차, ‘H-모빌리티 클래스’ 통해 미래 모빌리티 인재 양성에 나선다]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107199&amp;page=1&amp;mkind=2&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107199&amp;page=1&amp;mkind=2&amp;kind=3"/>
+        <updated>2022-06-02T05:31:14.907Z</updated>
+        <content type="html"><![CDATA[현대차가 최근 미래 모빌리티 산업 인재를 양성하기 위한 교육 프로그램인 ‘H-모빌리티 클래스’의 모집을 시작했다고 밝혔다. 올해로 3년차를 맞은 현대차의 ‘H-모빌리티 클래스’는 미래 모빌리티 주요 분야의 국가경쟁력 강화를 위해 시행되는 전문 교육 프로그램으로, 국내 ...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[K-UAM 드림팀, 2025년 도심 하늘길 여는 ‘첫 단추’ 뀄다]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=107197&amp;page=1&amp;mkind=2&amp;kind=2</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=107169&amp;page=1&amp;mkind=2&amp;kind=2"/>
         <updated>2022-05-31T04:33:31.052Z</updated>
         <content type="html"><![CDATA[이창양 산업통상자원부장관은 지난 30일 경기도 이천의 SK하이닉스 본사에서 ‘제1차 산업전략 원탁회의’를 개최, 반도체 기업인들과 업계의 주요 현안 및 애로 사항·新정부의 반도체산업 정책 방향 등에 관해 논의했다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[소프트웨어로 세상을 바꿀 청소년들 모여라]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107171&amp;page=1&amp;mkind=2&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107171&amp;page=1&amp;mkind=2&amp;kind=2"/>
-        <updated>2022-05-31T04:33:31.054Z</updated>
-        <content type="html"><![CDATA[과학기술정보통신부는 초·중등 학생과 청소년들의 소프트웨어(SW) 역량 강화와 경험 확대를 위해 지난 30일부터 ‘제4회 한국코드페어’를 시작했다.]]></content>
     </entry>
 </feed>
