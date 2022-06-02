@@ -4,9 +4,57 @@
         <title>보안뉴스 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Jun 2022 01:30:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jun 2022 03:50:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[OT 네트워크에도 랜섬웨어 심는 개념 증명 공격 성공해]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107213&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107213&amp;page=1&amp;kind=1</guid>
+            <pubDate>Thu, 02 Jun 2022 03:47:04 GMT</pubDate>
+            <content:encoded><![CDATA[랜섬웨어가 각 기업과 기관들의 IT 망 만이 아니라 생산 및 기반 시설의 OT 망까지도 위협할 수 있다는 연구 결과가 발표됐다고 보안 외신 핵리드가 보도했...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/ran-thumb-0602.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘무혈입성’ 가능한 MySQL 서버, 전 세계 360만 대 발견돼]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107212&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107212&amp;page=1&amp;kind=1</guid>
+            <pubDate>Thu, 02 Jun 2022 03:47:04 GMT</pubDate>
+            <content:encoded><![CDATA[보안 블로그 시큐리티어페어즈에 의하면 누구나 접근 가능한 MySQL 서버 인스턴스들이 무려 360만 개나 발견됐다고 한다. 보안 업체 셰도우서버(Shado...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/ser-thumb-0602.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[새로운 엑스로더 봇넷, C&C 서버 감추기 위해 확률 이론 활용]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107211&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107211&amp;page=1&amp;kind=1</guid>
+            <pubDate>Thu, 02 Jun 2022 03:47:04 GMT</pubDate>
+            <content:encoded><![CDATA[보안 외신 해커뉴스에 의하면 엑스로더(XLoader)의 새 버전이 사이버 공간에 출몰했다고 한다. 이번 변종의 경우 확률 이론을 동원하여 C&amp;C 서버를 감...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/prob-thumb-0602.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[수백 개의 엘라스틱서치 데이터베이스, 표적형 협박 공격에 당해]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107210&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107210&amp;page=1&amp;kind=1</guid>
+            <pubDate>Thu, 02 Jun 2022 03:47:04 GMT</pubDate>
+            <content:encoded><![CDATA[IT 외신 블리핑컴퓨터에 의하면 엘라스틱서치(Elasticsearch) 데이터베이스 수백 대가 표적 공격에 당했다고 한다. 공격자들은 보안 설정이 제대로...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/els-thumb-0602.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[유로폴, 플루봇 모바일 멀웨어 공격 인프라 무력화 성공]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107209&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107209&amp;page=1&amp;kind=1</guid>
+            <pubDate>Thu, 02 Jun 2022 03:47:04 GMT</pubDate>
+            <content:encoded><![CDATA[보안 외신 시큐리티위크에 의하면 유로폴이 플루봇(FluBot)을 무력화시키는 데 성공했다고 한다. 플루봇은 주로 SMS 메시지를 통해 iOS와 안드로이드 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/flu-thumb-0602.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[MS, 최근 발견된 제로데이 취약점에 대한 완화 대책 발표]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107207&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107207&amp;page=1&amp;kind=1</guid>
+            <pubDate>Thu, 02 Jun 2022 03:47:04 GMT</pubDate>
+            <content:encoded><![CDATA[보안 외신 쓰레트포스트에 의하면 MS가 폴리나(Follina)라고 알려진 제로데이 취약점에 대한 위험 완화 대책을 발표했다고 한다. 이 취약점은 CVE-2...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/warn-thumb-0602.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[보안 실무·책임자가 선호하는 영상보안 장비 제조사는 어디?]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107118&amp;page=1&amp;kind=3</link>
@@ -40,6 +88,13 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/pisfair_2022_060102_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[인사] 한국정보보호산업협회]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107205&amp;page=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107205&amp;page=1&amp;kind=3</guid>
+            <pubDate>Wed, 01 Jun 2022 07:18:51 GMT</pubDate>
+            <content:encoded><![CDATA[◇승진 △2급 부장 황지은(산업지원실) △4급 과장 강주영(교육개발팀), 정호준(산업진흥팀)  ◇인사(보임)  △한국정보보호교육원 원장 정성환(겸. 한국정...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[北 해커조직 김수키, 인터넷 공유기 설치파일 위장 AppleSeed 유포]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107188&amp;page=1&amp;kind=1</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107188&amp;page=1&amp;kind=1</guid>
@@ -54,45 +109,6 @@
             <pubDate>Tue, 31 May 2022 16:26:53 GMT</pubDate>
             <content:encoded><![CDATA[메일 등에 저장된 사용자 정보를 유출하는 악성코드가 한 주간 기승을 부린 것으로 조사됐다. 정보탈취용 악성코드인 만큼 중요 데티어와 개인정보가 유출되지 않...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/2022-05-31-ASEC-C.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[GDPR 4주년을 맞아 데이터 레이크에 종말을 고하다]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107155&amp;page=1&amp;kind=4</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107155&amp;page=1&amp;kind=4</guid>
-            <pubDate>Tue, 31 May 2022 08:25:35 GMT</pubDate>
-            <content:encoded><![CDATA[이번 달로서 세계는 유럽연합이 GDPR이라는 역사적 규정을 시행한 지 4주년을 맞게 됐다. 그 동안 개인의 프라이버시, 혹은 데이터의 프라이버시에 대한 우...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/21472803_copy_295x190_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[인공지능을 대하는 모두의 자세 : 기대치 재조정 하기]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107156&amp;page=1&amp;kind=4</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107156&amp;page=1&amp;kind=4</guid>
-            <pubDate>Tue, 31 May 2022 05:22:21 GMT</pubDate>
-            <content:encoded><![CDATA[난 아직도 알렉사를 처음 사용했던 때를 기억한다. 그 때 나의 첫 마디는 이것이었다. “알렉사, 테이크온미(Take on Me)라는 노래를 재생해줘!” 그...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/ai-thumb-0530.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[긴급] MS 오피스, 제로데이 취약점 Follina 발견]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107186&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107186&amp;page=1&amp;kind=1</guid>
-            <pubDate>Tue, 31 May 2022 05:22:21 GMT</pubDate>
-            <content:encoded><![CDATA[최근 마이크로소프트 오피스(Microsoft Office)에서 제로데이 취약점인 ‘Follina’가 발견됐다. 특히, 이번 취약점은 사용자가 문서를 열람하...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/20220531MS3-S.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[제품리뷰] 아마노코리아의 3 in 1 주차솔루션]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107104&amp;page=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107104&amp;page=1&amp;kind=3</guid>
-            <pubDate>Tue, 31 May 2022 04:32:51 GMT</pubDate>
-            <content:encoded><![CDATA[아마노코리아는 주차관제 시스템, 주차유도·영상위치확인 시스템, 카메라 기반의 보안솔루션 등 여러 분야에서 자체개발 생산 제품과 솔루션을 바탕으로 전세계 사...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/22052706ss.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[인사] 한국정보보호산업협회]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107205&amp;page=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107205&amp;page=1&amp;kind=3</guid>
-            <pubDate>Wed, 01 Jun 2022 07:18:51 GMT</pubDate>
-            <content:encoded><![CDATA[◇승진 △2급 부장 황지은(산업지원실) △4급 과장 강주영(교육개발팀), 정호준(산업진흥팀)  ◇인사(보임)  △한국정보보호교육원 원장 정성환(겸. 한국정...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[경기도소방재난본부, 재난안전통신망 구축 완료… 6월 1일부터 정식 사용]]></title>
@@ -186,6 +202,22 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/6-1(295).jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[GDPR 4주년을 맞아 데이터 레이크에 종말을 고하다]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107155&amp;page=1&amp;kind=4</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107155&amp;page=1&amp;kind=4</guid>
+            <pubDate>Tue, 31 May 2022 08:25:35 GMT</pubDate>
+            <content:encoded><![CDATA[이번 달로서 세계는 유럽연합이 GDPR이라는 역사적 규정을 시행한 지 4주년을 맞게 됐다. 그 동안 개인의 프라이버시, 혹은 데이터의 프라이버시에 대한 우...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/21472803_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[인공지능을 대하는 모두의 자세 : 기대치 재조정 하기]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107156&amp;page=1&amp;kind=4</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107156&amp;page=1&amp;kind=4</guid>
+            <pubDate>Tue, 31 May 2022 05:22:21 GMT</pubDate>
+            <content:encoded><![CDATA[난 아직도 알렉사를 처음 사용했던 때를 기억한다. 그 때 나의 첫 마디는 이것이었다. “알렉사, 테이크온미(Take on Me)라는 노래를 재생해줘!” 그...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/ai-thumb-0530.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[이스트소프트-n.CH엔터테인먼트, 버추얼휴먼 제작을 위한 IP 전략적 제휴]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107185&amp;page=1&amp;kind=3</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107185&amp;page=1&amp;kind=3</guid>
@@ -207,34 +239,6 @@
             <guid>https://www.boannews.com/media/view.asp?idx=107183&amp;page=1&amp;kind=1</guid>
             <pubDate>Tue, 31 May 2022 05:22:21 GMT</pubDate>
             <content:encoded><![CDATA[안랩(대표 강석균)이 6월 7일(화) 2시 금융권 및 핀테크 분야 클라우드 인프라·보안 담당자를 대상으로 ‘금융분야 클라우드 규제 개선 가이드 및 클라우드...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[고용부, 전 국민의 디지털 역량 강화를 위해 훈련 과정 지속 확대]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107161&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107161&amp;page=1&amp;kind=2</guid>
-            <pubDate>Tue, 31 May 2022 04:32:51 GMT</pubDate>
-            <content:encoded><![CDATA[고용노동부와 직업능력심사평가원은 ‘K-디지털 기초역량훈련’의 훈련과정 공모를 31일부터 실시한다. ‘K-디지털 기초역량훈련’은 청년과 중장년 구직자에게 디...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[과기정통부, 세계 최고 반도체 강국 이끌 반도체 핵심 인력 양성 적극 나선다]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107162&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107162&amp;page=1&amp;kind=2</guid>
-            <pubDate>Tue, 31 May 2022 04:32:51 GMT</pubDate>
-            <content:encoded><![CDATA[이종호 과학기술정보통신부 장관은 초격차 반도체 강국 실현을 위한 반도체 핵심 인력 양성을 위해 지난 30일 산업계 대표, 과학기술원 총장 등과 간담회를 개...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[중기부, ‘한국형 등대공장’ 11개사 선정 발표]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107160&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107160&amp;page=1&amp;kind=2</guid>
-            <pubDate>Tue, 31 May 2022 04:32:51 GMT</pubDate>
-            <content:encoded><![CDATA[중소벤처기업부는 인공지능, 빅데이터, 디지털복제물(디지털 트윈)이 적용된 최고 수준의 지능형공장(스마트공장) 구축을 지원하는 2022년도 ‘케이(K)-스마...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[과기정통부, 디지털 트윈 2022년 실증 사업 본격 착수]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107163&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107163&amp;page=1&amp;kind=2</guid>
-            <pubDate>Tue, 31 May 2022 04:32:51 GMT</pubDate>
-            <content:encoded><![CDATA[과학기술정보통신부는 31일 한국지능정보사회진흥원 및 정보통신산업진흥원과 함께 디지털 트윈 분야의 성장을 지원하기 위한 실증 사업에 본격 착수한다고 밝혔다.]]></content:encoded>
         </item>
     </channel>
 </rss>

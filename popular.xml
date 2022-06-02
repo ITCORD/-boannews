@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Jun 2022 01:30:05 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jun 2022 03:50:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,20 +48,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/20220526kook-s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[GDPR 4주년을 맞아 데이터 레이크에 종말을 고하다]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107155&amp;page=1&amp;kind=4&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107155&amp;page=1&amp;kind=4&amp;search=title&amp;find=</guid>
-            <pubDate>Wed, 01 Jun 2022 06:26:59 GMT</pubDate>
-            <content:encoded><![CDATA[이번 달로서 세계는 유럽연합이 GDPR이라는 역사적 규정을 시행한 지 4주년을 맞게 됐다. 그 동안 개인의 프라이버시, 혹은 데이터의 프라이버시에 대한 우리의 관...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/21472803_copy_295x190_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[긴급] MS 오피스, 제로데이 취약점 Follina 발견]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107186&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107186&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Tue, 31 May 2022 22:17:46 GMT</pubDate>
             <content:encoded><![CDATA[최근 마이크로소프트 오피스(Microsoft Office)에서 제로데이 취약점인 ‘Follina’가 발견됐다. 특히, 이번 취약점은 사용자가 문서를 열람하기만 해...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/20220531MS3-S.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[GDPR 4주년을 맞아 데이터 레이크에 종말을 고하다]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107155&amp;page=1&amp;kind=4&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107155&amp;page=1&amp;kind=4&amp;search=title&amp;find=</guid>
+            <pubDate>Wed, 01 Jun 2022 06:26:59 GMT</pubDate>
+            <content:encoded><![CDATA[이번 달로서 세계는 유럽연합이 GDPR이라는 역사적 규정을 시행한 지 4주년을 맞게 됐다. 그 동안 개인의 프라이버시, 혹은 데이터의 프라이버시에 대한 우리의 관...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/21472803_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[北 해커조직 김수키, 인터넷 공유기 설치파일 위장 AppleSeed 유포]]></title>
@@ -136,14 +136,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/pis%20somenail.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[트위터, 사용자 데이터 프라이버시 침해로 1억 5천만 달러 벌금형에 처해]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107073&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107073&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Fri, 27 May 2022 01:23:55 GMT</pubDate>
-            <content:encoded><![CDATA[AP통신에 따르면 미국 사법부와 연방거래위원회가 지난 6년 동안 트위터의 사용자 데이터 프라이버시 보호 시스템의 미흡함을 문제 삼아 1억 5천만 달러의 벌금형을 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/fine-thumb-0526.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[서드파티 스크립트가 넘쳐나는 현대의 웹사이트들, 생각보다 더 위험하다]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107121&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107121&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
@@ -166,6 +158,14 @@
             <pubDate>Sun, 29 May 2022 10:19:06 GMT</pubDate>
             <content:encoded><![CDATA[콴타 클라우드 테크롤로지(Quanta Cloud Technology, QCT)의 서버 모델 일부에서 초고위험도 펌웨어 취약점이 발견됐다. 이 취약점의 익스플로잇에...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/21772404_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[레빌의 부활? 순수 디도스 공격만으로 협박하는 단체 나타나]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107077&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107077&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Thu, 02 Jun 2022 03:47:19 GMT</pubDate>
+            <content:encoded><![CDATA[한 사이버 공격 단체가 조직적으로 디도스 공격을 하기 시작했는데, 이 단체가 다름 아닌 레빌(REvil)이라는 악명 높은 랜섬웨어 운영자일 가능성이 있는 것으로 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/return-thumb-0526.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
