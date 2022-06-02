@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=2</id>
     <title>보안뉴스 ─ IT</title>
-    <updated>2022-06-02T05:33:22.883Z</updated>
+    <updated>2022-06-02T06:26:28.908Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[충북도, 미래 신산업 선도할 인력 양성 계획 수립]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107201&amp;page=1&amp;mkind=2&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107201&amp;page=1&amp;mkind=2&amp;kind=2"/>
+        <updated>2022-06-02T06:23:19.059Z</updated>
+        <content type="html"><![CDATA[충북도는 지난달 31일 ‘미래 신산업 인력 양성 실행계획 수립’ 착수보고회를 열고 사업 추진 방향을 점검했다. ‘미래 신산업 인력 양성 실행계획 수립’ 사업은 도내 전략산업 육성과 일자리 불균형 해소를 위해 6대 신성장 동력산업 중 정보통신기술(ICT)융합, 신에너지,...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[현대차, ‘H-모빌리티 클래스’ 통해 미래 모빌리티 인재 양성에 나선다]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=107199&amp;page=1&amp;mkind=2&amp;kind=3</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=107167&amp;page=1&amp;mkind=2&amp;kind=2"/>
         <updated>2022-05-31T04:33:31.051Z</updated>
         <content type="html"><![CDATA[행정안전부는 ‘디지털플랫폼정부’의 추진 방안 등을 논의하기 위해 중앙행정기관과 지방자치단체와 함께 지능정보화책임관(CIO) 협의회를 31일 개최했다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[산업부 장관, 반도체 초강대국 건설 논의로 업계와의 릴레이 소통 행보 시작]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107169&amp;page=1&amp;mkind=2&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107169&amp;page=1&amp;mkind=2&amp;kind=2"/>
-        <updated>2022-05-31T04:33:31.052Z</updated>
-        <content type="html"><![CDATA[이창양 산업통상자원부장관은 지난 30일 경기도 이천의 SK하이닉스 본사에서 ‘제1차 산업전략 원탁회의’를 개최, 반도체 기업인들과 업계의 주요 현안 및 애로 사항·新정부의 반도체산업 정책 방향 등에 관해 논의했다.]]></content>
     </entry>
 </feed>
