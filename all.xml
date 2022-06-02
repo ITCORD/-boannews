@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Jun 2022 08:27:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Jun 2022 09:21:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -358,20 +358,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/site-thumb-0527.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[브랜드명 바꾼 카오스 빌더, 드디어 어엿한 랜섬웨어로 거듭나 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107154&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107154&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Wed, 01 Jun 2022 20:19:54 GMT</pubDate>
-            <content:encoded><![CDATA[카오스(Chaos)라는 멀웨어 빌더가 1년 전에는 와이퍼(wiper) 쪽으로 가닥을 잡는 듯 하더니 최근 이름을 야시마(Yashma)로 바꾸며 랜섬웨어로 업종을 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/21554534_copy_295x190_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[NSIS 설치 파일 받으려다... 악성코드가 우르르 쏟아진다 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107141&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107141&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Thu, 02 Jun 2022 04:46:07 GMT</pubDate>
             <content:encoded><![CDATA[최근 들어 NSIS 설치 파일을 통해 다수의 악성 파일들을 배포하고 있는 정황을 확인돼 사용자들의 주의가 요구된다고 안랩 ASEC 분석팀이 밝혔다.]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/20824594_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[브랜드명 바꾼 카오스 빌더, 드디어 어엿한 랜섬웨어로 거듭나 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107154&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107154&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Wed, 01 Jun 2022 20:19:54 GMT</pubDate>
+            <content:encoded><![CDATA[카오스(Chaos)라는 멀웨어 빌더가 1년 전에는 와이퍼(wiper) 쪽으로 가닥을 잡는 듯 하더니 최근 이름을 야시마(Yashma)로 바꾸며 랜섬웨어로 업종을 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/21554534_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[QCT 서버 내 BMC에서 서버 완전 장악 가능케 하는 초고위험도 취약점 발견돼 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
