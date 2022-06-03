@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-06-03T03:14:53.614Z</updated>
+    <updated>2022-06-03T04:24:35.204Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[PIS FAIR 2022] 이지서티, 개인정보 안전성 확보조치 기준 고시 준수 방안]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107227&amp;page=1&amp;mkind=1&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107227&amp;page=1&amp;mkind=1&amp;kind=3"/>
+        <updated>2022-06-03T04:21:28.260Z</updated>
+        <content type="html"><![CDATA[국내 최대 개인정보보호 축제의 장인 ‘제11회 개인정보보호페어&amp;CPO워크숍(PIS FAIR 2022)’가 서울 코엑스 그랜드볼룸에서 6월 2~3일 양일간 진행되는 가운데 행사 1일차인 6월 2일 트랙 A(Tech&amp;Trend)에서 두 번째 강연자인 이지서티 김우석 이사는...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[PIS FAIR 2022] 안랩, 사회공학기법을 통한 개인정보 유출 사례 및 대응방안]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107226&amp;page=1&amp;mkind=1&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107226&amp;page=1&amp;mkind=1&amp;kind=3"/>
+        <updated>2022-06-03T04:21:28.262Z</updated>
+        <content type="html"><![CDATA[국내 최대 개인정보보호 축제의 장인 ‘제11회 개인정보보호페어&amp;CPO워크숍(PIS FAIR 2022)’가 서울 코엑스 그랜드볼룸에서 6월 2~3일 양일간 진행되는 가운데 행사 1일차인 6월 2일 트랙 A(Tech&amp;Trend)에서 첫 번째 강연자인 안랩 백민경 부장은 ‘...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[PIS FAIR 2022] 해커가 의료기관에 군침을 흘리는 이유]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107225&amp;page=1&amp;mkind=1&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107225&amp;page=1&amp;mkind=1&amp;kind=3"/>
+        <updated>2022-06-03T04:21:28.263Z</updated>
+        <content type="html"><![CDATA[의료기관의 보안위협이 심상치 않다. 민감한 개인정보를 보유하고 있는 만큼 해커들이 군침을 흘리고 있다. 이와 관련해 한국사회보장정보원 최주원 박사는 2일 개최된 ‘PIS FAIR 2022’에서 “의료기관에서의 개인정보 유출은 관리적 측면에서 이해관계자의 유출, 시스템 ...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[PIS FAIR 2022] 공공기관 CPO를 위한 전문 교육 ‘CPO 워크숍’ 개최]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=107224&amp;page=1&amp;mkind=1&amp;kind=2</id>
@@ -102,26 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=107209&amp;page=1&amp;mkind=1&amp;kind=1"/>
         <updated>2022-06-02T03:47:38.081Z</updated>
         <content type="html"><![CDATA[보안 외신 시큐리티위크에 의하면 유로폴이 플루봇(FluBot)을 무력화시키는 데 성공했다고 한다. 플루봇은 주로 SMS 메시지를 통해 iOS와 안드로이드 모바일에 전파되는 멀웨어로, 페덱스 뱅커(Fedex Banker)로 불리기도 한다. 주로 유럽에서 피해자를 양산하고...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MS, 최근 발견된 제로데이 취약점에 대한 완화 대책 발표]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107207&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107207&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-06-02T03:47:38.088Z</updated>
-        <content type="html"><![CDATA[보안 외신 쓰레트포스트에 의하면 MS가 폴리나(Follina)라고 알려진 제로데이 취약점에 대한 위험 완화 대책을 발표했다고 한다. 이 취약점은 CVE-2022-3019이며, 지난 4월에 MS 측에 보고됐다. 익스플로잇에 성공할 경우 공격자는 임의의 프로그램을 설치하고...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[인사] 한국정보보호산업협회]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107205&amp;page=1&amp;mkind=1&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107205&amp;page=1&amp;mkind=1&amp;kind=3"/>
-        <updated>2022-06-02T03:47:38.089Z</updated>
-        <content type="html"><![CDATA[◇승진 △2급 부장 황지은(산업지원실) △4급 과장 강주영(교육개발팀), 정호준(산업진흥팀)  ◇인사(보임)  △한국정보보호교육원 원장 정성환(겸. 한국정보보호산업협회 상근부회장) △한국정보보호교육원 부원장 홍준호]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[개인정보위·PIS FAIR 조직위, 제11회 개인정보보호페어 & CPO워크숍 개최]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107204&amp;page=1&amp;mkind=1&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107204&amp;page=1&amp;mkind=1&amp;kind=2"/>
-        <updated>2022-06-02T03:47:38.093Z</updated>
-        <content type="html"><![CDATA[개인정보보호위원회(위원장 윤종인, 이하 ‘개인정보위’)와 개인정보보호페어조직위원회(위원장 황서종)는 공공·산업계 전반의 개인정보보호 수준을 높이고, 정책‧현안과 신기술 정보를 공유하기 위해 국내 최대 규모의 개인정보보호 행사인 ‘제11회 개인정보보호페어 &amp; ...]]></content>
     </entry>
 </feed>
