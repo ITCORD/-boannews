@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Jun 2022 15:21:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jun 2022 16:26:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -254,20 +254,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/20220528voice-s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[재난재해 많은 시기, 지역 특화형 ‘안전체험관’으로 고고! (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107120&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107120&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
-            <pubDate>Sun, 29 May 2022 01:26:10 GMT</pubDate>
-            <content:encoded><![CDATA[여름이 다가오며 폭염·태풍·집중호우 등으로 인한 자연재해 발생과 대처에 대한 관심이 높아진다. 각 지자체 역시 대부분 5월 중하순부터 10월 초중순까지를 여름재난...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/20220628SAFE-S.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[긴급] MS 오피스, 제로데이 취약점 Follina 발견 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107186&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107186&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Tue, 31 May 2022 22:17:46 GMT</pubDate>
             <content:encoded><![CDATA[최근 마이크로소프트 오피스(Microsoft Office)에서 제로데이 취약점인 ‘Follina’가 발견됐다. 특히, 이번 취약점은 사용자가 문서를 열람하기만 해...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/20220531MS3-S.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[재난재해 많은 시기, 지역 특화형 ‘안전체험관’으로 고고! (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107120&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107120&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
+            <pubDate>Sun, 29 May 2022 01:26:10 GMT</pubDate>
+            <content:encoded><![CDATA[여름이 다가오며 폭염·태풍·집중호우 등으로 인한 자연재해 발생과 대처에 대한 관심이 높아진다. 각 지자체 역시 대부분 5월 중하순부터 10월 초중순까지를 여름재난...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/20220628SAFE-S.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[北 해커조직 김수키, 인터넷 공유기 설치파일 위장 AppleSeed 유포 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
