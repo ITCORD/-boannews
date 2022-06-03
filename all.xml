@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Jun 2022 09:20:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Jun 2022 10:24:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -238,14 +238,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/6-30(295).jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[bnTV] 무수히 많은 해커가 활동하는 다크웹, 그 실체를 파헤치다 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107124&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107124&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Sat, 28 May 2022 05:16:37 GMT</pubDate>
-            <content:encoded><![CDATA[저희가 오늘 보여드릴 다크웹내 사이트들은 여러 개 종류로 해봤는데요. 해커들이 모여서 탈취 데이터 팔고, 그 다음에 구인공고하고 이러한 해킹포럼을 먼저 찾아볼 겁...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/20220527DARK-S.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
             <title><![CDATA[[주말판] 데브옵스, 왜 소문만 무성하고 실제로는 잘 구현되지 않는가? (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107137&amp;page=1&amp;kind=4&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107137&amp;page=1&amp;kind=4&amp;search=title&amp;find=</guid>
@@ -396,6 +388,14 @@
             <pubDate>Fri, 03 Jun 2022 09:17:32 GMT</pubDate>
             <content:encoded><![CDATA[의료기관의 보안위협이 심상치 않다. 민감한 개인정보를 보유하고 있는 만큼 해커들이 군침을 흘리고 있다. 이와 관련해 한국사회보장정보원 최주원 박사는 2일 개최된 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/KakaoTalk_20220602_163323032_02-c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[제품리뷰] 아마노코리아의 3 in 1 주차솔루션 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107104&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107104&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
+            <pubDate>Fri, 03 Jun 2022 10:20:37 GMT</pubDate>
+            <content:encoded><![CDATA[아마노코리아는 주차관제 시스템, 주차유도·영상위치확인 시스템, 카메라 기반의 보안솔루션 등 여러 분야에서 자체개발 생산 제품과 솔루션을 바탕으로 전세계 사업장에서...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/22052706ss.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[PIS FAIR 2022] 데이터의 혁신적 활용 위해서는 든든한 보호 기반 전제돼야 (보안뉴스 ─ SECURITY)]]></title>
