@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=4</id>
     <title>보안뉴스 ─ SAFETY</title>
-    <updated>2022-06-03T04:24:35.191Z</updated>
+    <updated>2022-06-03T05:19:53.005Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[RIST, KG스틸과 스마트 안전기술 보급 활성화를 위한 업무협약 체결]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107245&amp;page=1&amp;mkind=4&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107245&amp;page=1&amp;mkind=4&amp;kind=2"/>
+        <updated>2022-06-03T05:17:18.426Z</updated>
+        <content type="html"><![CDATA[포항산업과학연구원(RIST)은 지난달 31일 KG스틸과 인공지능(AI)을 이용한 스마트 안전기술 개발을 위한 업무협약식을 가졌다. 이번 협약을 통해 KG스틸 기술연구소와 RIST 융합혁신연구소는 컬러강판 제조공정 등에 특화된 지능형 안전 CCTV 솔루션을 공동 개발할 ...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[경기도소방재난본부, 재난안전통신망 구축 완료… 6월 1일부터 정식 사용]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107202&amp;page=1&amp;mkind=4&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107202&amp;page=1&amp;mkind=4&amp;kind=2"/>
+        <updated>2022-06-03T05:17:18.431Z</updated>
+        <content type="html"><![CDATA[6월 1일부터 소방과 경찰, 일선 지자체 등 기관별 서로 달랐던 무선통신망이 하나로 통합돼 재난 상황 공유에 따른 신속·정확한 대응 체계 구축이 가능해질 전망이다. 경기도 소방재난본부는 국가 재난안전통신망 구축이 완료돼 6월 1일부터 본격 운영에 들어간다고 밝혔다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[울산교육청, 전국 최초 방사능 교육용 VR기기 도입]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=107200&amp;page=1&amp;mkind=4&amp;kind=2</id>
@@ -109,19 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=106930&amp;page=1&amp;mkind=4&amp;kind=2"/>
         <updated>2022-05-25T01:26:51.828Z</updated>
         <content type="html"><![CDATA[광주광역시는 행정안전부 2022년 공공데이터 기업매칭 지원 사업 공모에 ‘광주시 재난위치 대상물 DB 구축 사업’이 선정돼 국비 3억원을 확보했다고 밝혔다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서울소방, 빅데이터·AI 적용한 ‘재난대응 디지털 플랫폼’ 구축한다]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=106915&amp;page=1&amp;mkind=4&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=106915&amp;page=1&amp;mkind=4&amp;kind=2"/>
-        <updated>2022-05-24T01:27:53.420Z</updated>
-        <content type="html"><![CDATA[서울시 소방재난본부는 대도시의 특수성과 재난·사고 발생 현황 등을 반영해 4차 산업혁명 기술을 접목한 재난대응 디지털 플랫폼을 구축한다고 밝혔다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2021년도 영아 구급출동 3분의 1이 생활안전사고, 떨어짐 사고 가장 많아]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=106912&amp;page=1&amp;mkind=4&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=106912&amp;page=1&amp;mkind=4&amp;kind=2"/>
-        <updated>2022-05-22T17:16:14.162Z</updated>
-        <content type="html"><![CDATA[소방청은 2021년도 구급출동 분석 결과를 바탕으로 영아 안전사고 예방을 위한 보호자의 각별한 주의를 당부했다. 지난해 영아(0세) 구급출동 건수는 총 8,014건이었으며, 이 가운데 2,485건(30.7%)이 생활안전사고인 것으로 나타났다.]]></content>
     </entry>
 </feed>
