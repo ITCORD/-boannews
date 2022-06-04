@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 Jun 2022 10:19:50 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Jun 2022 11:17:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -152,20 +152,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/fin-thumb-0603.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[PIS FAIR 2022] 공공기관 CPO를 위한 전문 교육 ‘CPO 워크숍’ 개최]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107224&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107224&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
-            <pubDate>Fri, 03 Jun 2022 08:20:05 GMT</pubDate>
-            <content:encoded><![CDATA[개인정보보호최고책임자(CPO, Chief Privacy Officer)를 위한 개인정보보호 전문 교육이 ‘제11회 개인정보보호 페어 &amp; CPO 워크숍’에서 개최됐...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/pis_track_060201_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[PIS FAIR 2022] 서울시민을 위한 실질적인 개인정보보호 정책 방향]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107266&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107266&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
             <pubDate>Sat, 04 Jun 2022 06:19:09 GMT</pubDate>
             <content:encoded><![CDATA[서울시민의 개인정보보호를 위한 특별한 행사가 PIS FAIR 2022에서 열렸다. ‘서울시 개인정보보호 포럼’은 지난 PIS FAIR 2019에서 처음 열린 행사...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/seoul_060301_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[PIS FAIR 2022] 공공기관 CPO를 위한 전문 교육 ‘CPO 워크숍’ 개최]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107224&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107224&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
+            <pubDate>Fri, 03 Jun 2022 08:20:05 GMT</pubDate>
+            <content:encoded><![CDATA[개인정보보호최고책임자(CPO, Chief Privacy Officer)를 위한 개인정보보호 전문 교육이 ‘제11회 개인정보보호 페어 &amp; CPO 워크숍’에서 개최됐...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/pis_track_060201_main.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
