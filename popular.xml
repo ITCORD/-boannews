@@ -4,17 +4,9 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 04 Jun 2022 04:23:03 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Jun 2022 05:17:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[주말판] 데브옵스, 왜 소문만 무성하고 실제로는 잘 구현되지 않는가?]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107137&amp;page=1&amp;kind=4&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107137&amp;page=1&amp;kind=4&amp;search=title&amp;find=</guid>
-            <pubDate>Sun, 29 May 2022 03:27:30 GMT</pubDate>
-            <content:encoded><![CDATA[2007년 IT 업계에서는 데브옵스(DevOps)라는 움직임이 일어나기 시작했다. 소프트웨어 개발과 IT 운영 사이의 간극을 메워줄 방법론으로서 각광받기 시작했으...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/19943035_copy_295x190_1.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[긴급] MS 오피스, 제로데이 취약점 Follina 발견]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107186&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
@@ -144,14 +136,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/pis_track_060201_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[PIS FAIR 2022] 해커가 의료기관에 군침을 흘리는 이유]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107225&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107225&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
-            <pubDate>Fri, 03 Jun 2022 09:17:32 GMT</pubDate>
-            <content:encoded><![CDATA[의료기관의 보안위협이 심상치 않다. 민감한 개인정보를 보유하고 있는 만큼 해커들이 군침을 흘리고 있다. 이와 관련해 한국사회보장정보원 최주원 박사는 2일 개최된 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/KakaoTalk_20220602_163323032_02-c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[봇넷으로도 변할 수 있는 암호화폐 멀웨어 클립마이너, 조용히 수익 높여]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107268&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107268&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
@@ -160,12 +144,28 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/bit-thumb-0603.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[PIS FAIR 2022] 해커가 의료기관에 군침을 흘리는 이유]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107225&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107225&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
+            <pubDate>Fri, 03 Jun 2022 09:17:32 GMT</pubDate>
+            <content:encoded><![CDATA[의료기관의 보안위협이 심상치 않다. 민감한 개인정보를 보유하고 있는 만큼 해커들이 군침을 흘리고 있다. 이와 관련해 한국사회보장정보원 최주원 박사는 2일 개최된 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/KakaoTalk_20220602_163323032_02-c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[PIS FAIR 2022] 데이터의 혁신적 활용 위해서는 든든한 보호 기반 전제돼야]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107260&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107260&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
             <pubDate>Sat, 04 Jun 2022 04:19:59 GMT</pubDate>
             <content:encoded><![CDATA[2011년 가트너가 ‘데이터 경제’라는 말을 처음 쓰면서 데이터를 활용한 사업 행위, 더 나아가 데이터를 활용한 산업과 산업 간 시너지 증진의 방법들이 적극적으로...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/fin-thumb-0603.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[PIS FAIR 2022] CPO의 최대 고민, ‘데이터 활용과 개인정보보호의 밸런스’]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107262&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107262&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
+            <pubDate>Sat, 04 Jun 2022 05:14:44 GMT</pubDate>
+            <content:encoded><![CDATA[PIS FAIR 2022 둘째 날 열린 ‘토크콘서트’에서는 신용석 비바리퍼블리카(토스) CPO, 김창오 야놀자 CPO, 박의원 엔씨소프트 CPO가 나와 CPO의 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/talk_060301_main.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
