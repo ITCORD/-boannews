@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-06-05T12:29:40.101Z</updated>
+    <updated>2022-06-05T13:26:24.623Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[급성장하고 있는 헬스케어 시장, 보안위협도  ‘급성장’]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107251&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107251&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-06-05T13:23:11.850Z</updated>
+        <content type="html"><![CDATA[헬스케어 산업이 디지털 기술 기반으로 급성장하고 있다. 특히 코로나19로 인해  원격의료 행위가 증가하고, 빅데이터를 통한 개인 맞춤형 건강관리로 발전하고 있다. 미국 보건복지부에서 2022년 3월 15일 발표한 보고서에 따르면 미국에서 코로나19 발생 첫 해(2020...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[PIS FAIR 2022] 다크트레이스, 무자비한 사이버 공격과 인공지능을 이용한 정밀 대응]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=107269&amp;page=1&amp;mkind=1&amp;kind=3</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=107247&amp;page=1&amp;mkind=1&amp;kind=3"/>
         <updated>2022-06-03T06:21:08.282Z</updated>
         <content type="html"><![CDATA[국내 최대 개인정보보호 축제의 장인 ‘제11회 개인정보보호페어&amp;CPO워크숍(PIS FAIR 2022)’가 서울 코엑스 그랜드볼룸에서 6월 2~3일 양일간 진행되는 가운데 행사 1일차인 6월 2일 트랙 A(Tech&amp;Trend)에서 세 번째 강연자인 엘세븐시큐리티 최복희 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[과기정통부, 지능형공장 대상으로 ‘찾아가는 보안리빙랩’ 서비스 개시]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107235&amp;page=1&amp;mkind=1&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107235&amp;page=1&amp;mkind=1&amp;kind=2"/>
-        <updated>2022-06-03T06:21:08.282Z</updated>
-        <content type="html"><![CDATA[과학기술정보통신부는 한국인터넷진흥원(KISA)과 함께 스마트공장 제조·운영설비에서 발생되는 융합보안 문제를 해결하기 위해 전국에 위치한 스마트공장을 ‘찾아가는 보안리빙랩’을 처음 시행한다고 밝혔다.]]></content>
     </entry>
 </feed>
