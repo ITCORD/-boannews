@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Jun 2022 13:26:24 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Jun 2022 14:17:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -246,20 +246,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20220602_151513(%EC%8D%B8).jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[긴급] MS 오피스, 제로데이 취약점 Follina 발견 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107186&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107186&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Tue, 31 May 2022 22:17:46 GMT</pubDate>
-            <content:encoded><![CDATA[최근 마이크로소프트 오피스(Microsoft Office)에서 제로데이 취약점인 ‘Follina’가 발견됐다. 특히, 이번 취약점은 사용자가 문서를 열람하기만 해...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/20220531MS3-S.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[北 해커조직 김수키, 인터넷 공유기 설치파일 위장 AppleSeed 유포 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107188&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107188&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Wed, 01 Jun 2022 14:33:30 GMT</pubDate>
             <content:encoded><![CDATA[북한 해커조직으로 추정되는 악성코드가 유포된 정황이 포착돼 이용자들의 각별한 주의가 요구된다.]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/20220601KIM-S.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[긴급] MS 오피스, 제로데이 취약점 Follina 발견 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107186&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107186&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Tue, 31 May 2022 22:17:46 GMT</pubDate>
+            <content:encoded><![CDATA[최근 마이크로소프트 오피스(Microsoft Office)에서 제로데이 취약점인 ‘Follina’가 발견됐다. 특히, 이번 취약점은 사용자가 문서를 열람하기만 해...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/20220531MS3-S.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[GDPR 4주년을 맞아 데이터 레이크에 종말을 고하다 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
@@ -294,14 +294,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/20220530ngips-ms.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[NSIS 설치 파일 받으려다... 악성코드가 우르르 쏟아진다 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107141&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107141&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Thu, 02 Jun 2022 04:46:07 GMT</pubDate>
-            <content:encoded><![CDATA[최근 들어 NSIS 설치 파일을 통해 다수의 악성 파일들을 배포하고 있는 정황을 확인돼 사용자들의 주의가 요구된다고 안랩 ASEC 분석팀이 밝혔다.]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/20824594_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[급성장하고 있는 헬스케어 시장, 보안위협도  ‘급성장’ (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107251&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107251&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
@@ -310,12 +302,12 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[취임 첫 인터뷰] 백동융 다후아테크놀로지코리아 대표 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107106&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107106&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
-            <pubDate>Tue, 31 May 2022 12:34:57 GMT</pubDate>
-            <content:encoded><![CDATA[현지화는 외국계 기업에게는 쉽지 않지만 꼭 거쳐야 하는 과정이다. 2015년 본격적인 한국시장 진출을 위해 다후아테크놀로지에서 설립한 한국법인 ‘다후아코리아’에 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/22052714ss.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[NSIS 설치 파일 받으려다... 악성코드가 우르르 쏟아진다 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107141&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107141&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Thu, 02 Jun 2022 04:46:07 GMT</pubDate>
+            <content:encoded><![CDATA[최근 들어 NSIS 설치 파일을 통해 다수의 악성 파일들을 배포하고 있는 정황을 확인돼 사용자들의 주의가 요구된다고 안랩 ASEC 분석팀이 밝혔다.]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/20824594_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[주말판] 소프트웨어 엔지니어들에게 힘이 되어줄 지식들 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
@@ -324,6 +316,14 @@
             <pubDate>Sun, 05 Jun 2022 06:19:25 GMT</pubDate>
             <content:encoded><![CDATA[소프트웨어 엔지니어들은 항상 외롭고 고독한 존재였다. 특히 회사의 사업 진행과 별개로 움직이는 경우가 많았고, 경영진들이 마음대로 건드리기도 애매한 사람들이었다....]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20972129_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[취임 첫 인터뷰] 백동융 다후아테크놀로지코리아 대표 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107106&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107106&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
+            <pubDate>Tue, 31 May 2022 12:34:57 GMT</pubDate>
+            <content:encoded><![CDATA[현지화는 외국계 기업에게는 쉽지 않지만 꼭 거쳐야 하는 과정이다. 2015년 본격적인 한국시장 진출을 위해 다후아테크놀로지에서 설립한 한국법인 ‘다후아코리아’에 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/22052714ss.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[제품리뷰] 신제품(NEP) 인증 획득한 에스카의 저시정 영상개선 솔루션 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
@@ -342,20 +342,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/pisfair_2022_060102_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[PIS FAIR 2022] 개인정보보호 정책, 정보주체 주도형 디지털 패러다임으로 전환중 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107257&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107257&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
-            <pubDate>Fri, 03 Jun 2022 22:15:53 GMT</pubDate>
-            <content:encoded><![CDATA[국내 최대 규모의 개인정보보호 콘퍼런스인 ‘PIS FAIR 2022’의 둘째 날, 이정은 개인정보보호위원회 자율보호정책과 과장이 ‘개인정보보호 자율보호 정책과 제...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/22060302ss.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[PIS FAIR 2022] 다크트레이스, 무자비한 사이버 공격과 인공지능을 이용한 정밀 대응 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107269&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107269&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
             <pubDate>Sun, 05 Jun 2022 09:15:02 GMT</pubDate>
             <content:encoded><![CDATA[국내 최대 개인정보보호 축제의 장인 ‘제11회 개인정보보호페어&amp;CPO워크숍(PIS FAIR 2022)’이 서울 코엑스 그랜드볼룸에서 6월 2~3일 양일간 열린 가...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20220603_162158(%EC%8D%B8).jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[PIS FAIR 2022] 개인정보보호 정책, 정보주체 주도형 디지털 패러다임으로 전환중 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107257&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107257&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
+            <pubDate>Fri, 03 Jun 2022 22:15:53 GMT</pubDate>
+            <content:encoded><![CDATA[국내 최대 규모의 개인정보보호 콘퍼런스인 ‘PIS FAIR 2022’의 둘째 날, 이정은 개인정보보호위원회 자율보호정책과 과장이 ‘개인정보보호 자율보호 정책과 제...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/22060302ss.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[PIS FAIR 2022] 파수, 2022 개인정보 비식별 처리 변화내용 및 적용기술 분석 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
@@ -374,20 +374,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/22052606dd.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[브랜드명 바꾼 카오스 빌더, 드디어 어엿한 랜섬웨어로 거듭나 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107154&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107154&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Wed, 01 Jun 2022 20:19:54 GMT</pubDate>
-            <content:encoded><![CDATA[카오스(Chaos)라는 멀웨어 빌더가 1년 전에는 와이퍼(wiper) 쪽으로 가닥을 잡는 듯 하더니 최근 이름을 야시마(Yashma)로 바꾸며 랜섬웨어로 업종을 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/21554534_copy_295x190_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[PIS FAIR 2022] CPO의 최대 고민, ‘데이터 활용과 개인정보보호의 밸런스’ (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107262&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107262&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
             <pubDate>Sat, 04 Jun 2022 05:14:44 GMT</pubDate>
             <content:encoded><![CDATA[PIS FAIR 2022 둘째 날 열린 ‘토크콘서트’에서는 신용석 비바리퍼블리카(토스) CPO, 김창오 야놀자 CPO, 박의원 엔씨소프트 CPO가 나와 CPO의 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/talk_060301_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[브랜드명 바꾼 카오스 빌더, 드디어 어엿한 랜섬웨어로 거듭나 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107154&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107154&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Wed, 01 Jun 2022 20:19:54 GMT</pubDate>
+            <content:encoded><![CDATA[카오스(Chaos)라는 멀웨어 빌더가 1년 전에는 와이퍼(wiper) 쪽으로 가닥을 잡는 듯 하더니 최근 이름을 야시마(Yashma)로 바꾸며 랜섬웨어로 업종을 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/21554534_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[PIS FAIR 2022] 데이터의 혁신적 활용 위해서는 든든한 보호 기반 전제돼야 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
