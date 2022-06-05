@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Jun 2022 04:22:34 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Jun 2022 05:18:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -144,6 +144,14 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/amorae1-C.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[급성장하고 있는 헬스케어 시장, 보안위협도  ‘급성장’]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107251&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107251&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Sun, 05 Jun 2022 03:10:14 GMT</pubDate>
+            <content:encoded><![CDATA[헬스케어 산업이 디지털 기술 기반으로 급성장하고 있다. 특히 코로나19로 인해  원격의료 행위가 증가하고, 빅데이터를 통한 개인 맞춤형 건강관리로 발전하고 있다....]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[인터뷰] 정순욱 준영테크 대표 “지원·상생 키워드로 하이크비전 총판 충실히 이행”]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107079&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107079&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
@@ -158,14 +166,6 @@
             <pubDate>Sat, 04 Jun 2022 06:19:09 GMT</pubDate>
             <content:encoded><![CDATA[서울시민의 개인정보보호를 위한 특별한 행사가 PIS FAIR 2022에서 열렸다. ‘서울시 개인정보보호 포럼’은 지난 PIS FAIR 2019에서 처음 열린 행사...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/seoul_060301_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[급성장하고 있는 헬스케어 시장, 보안위협도  ‘급성장’]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107251&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107251&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Sun, 05 Jun 2022 03:10:14 GMT</pubDate>
-            <content:encoded><![CDATA[헬스케어 산업이 디지털 기술 기반으로 급성장하고 있다. 특히 코로나19로 인해  원격의료 행위가 증가하고, 빅데이터를 통한 개인 맞춤형 건강관리로 발전하고 있다....]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
