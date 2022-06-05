@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-06-05T07:19:02.544Z</updated>
+    <updated>2022-06-05T08:22:19.898Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[PIS FAIR 2022] 다크트레이스, 무자비한 사이버 공격과 인공지능을 이용한 정밀 대응]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107269&amp;page=1&amp;mkind=1&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107269&amp;page=1&amp;mkind=1&amp;kind=3"/>
+        <updated>2022-06-05T08:19:49.691Z</updated>
+        <content type="html"><![CDATA[국내 최대 개인정보보호 축제의 장인 ‘제11회 개인정보보호페어&amp;CPO워크숍(PIS FAIR 2022)’이 서울 코엑스 그랜드볼룸에서 6월 2~3일 양일간 열린 가운데 행사 2일차인 6월 3일 트랙 A(Tech&amp;Trend)의 다섯 번째 강연자인 다크트레이스 이주형 차장은...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[PIS FAIR 2022] 파수, 2022 개인정보 비식별 처리 변화내용 및 적용기술 분석]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=107267&amp;page=1&amp;mkind=1&amp;kind=3</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=107235&amp;page=1&amp;mkind=1&amp;kind=2"/>
         <updated>2022-06-03T06:21:08.282Z</updated>
         <content type="html"><![CDATA[과학기술정보통신부는 한국인터넷진흥원(KISA)과 함께 스마트공장 제조·운영설비에서 발생되는 융합보안 문제를 해결하기 위해 전국에 위치한 스마트공장을 ‘찾아가는 보안리빙랩’을 처음 시행한다고 밝혔다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KIST, SDT에 차세대 통신보안기술을 포함하는 양자암호통신장치 기술이전]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107243&amp;page=1&amp;mkind=1&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107243&amp;page=1&amp;mkind=1&amp;kind=2"/>
-        <updated>2022-06-03T05:16:42.432Z</updated>
-        <content type="html"><![CDATA[한국과학기술연구원(KIST)과 SDT는 지난달 31일 ‘양자암호통신장치 기술’에 대한 기술이전 및 사업화 협력을 위한 조인식을 가졌다. 양자컴퓨팅 기술은 비약적인 계산 속도 증가로 인해 수학적 문제에 기반한 현대 보안통신에 심각한 위협으로 대두되고 있다.]]></content>
     </entry>
 </feed>
