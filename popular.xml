@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 05 Jun 2022 14:17:40 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Jun 2022 15:19:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -40,22 +40,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/2022-05-31-ASEC-C.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[윤석열 정부의 110대 국정과제에 담긴 대한민국 보안의 밑그림]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107122&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107122&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
-            <pubDate>Tue, 31 May 2022 01:25:26 GMT</pubDate>
-            <content:encoded><![CDATA[지난 5월 10일 제20대 윤석열 정부가 출범했다. 정부 출범에 앞서 5월 3일 발표된 110대 국정과제는 △상식이 회복된 반듯한 나라 △민간이 끌고 정부가 미는...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/22052731ss.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[2022 NGIPS 리포트] 고도화·지능화 사이버공격에  차세대 IPS 솔루션 ‘뜬다’]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107107&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107107&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
-            <pubDate>Tue, 31 May 2022 06:22:21 GMT</pubDate>
-            <content:encoded><![CDATA[최근 공격 트렌드를 살펴보면 공격자는 복잡한 네트워크 환경을 악용해 보안의 사각지대를 노린다. 네트워크·OS·웹·애플리케이션의 취약점 공격, 알려지지 않은 지능화...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/20220530ngips-ms.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[급성장하고 있는 헬스케어 시장, 보안위협도  ‘급성장’]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107251&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107251&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
@@ -64,12 +48,12 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[NSIS 설치 파일 받으려다... 악성코드가 우르르 쏟아진다]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107141&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107141&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Thu, 02 Jun 2022 04:46:07 GMT</pubDate>
-            <content:encoded><![CDATA[최근 들어 NSIS 설치 파일을 통해 다수의 악성 파일들을 배포하고 있는 정황을 확인돼 사용자들의 주의가 요구된다고 안랩 ASEC 분석팀이 밝혔다.]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/20824594_main.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[2022 NGIPS 리포트] 고도화·지능화 사이버공격에  차세대 IPS 솔루션 ‘뜬다’]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107107&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107107&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
+            <pubDate>Tue, 31 May 2022 06:22:21 GMT</pubDate>
+            <content:encoded><![CDATA[최근 공격 트렌드를 살펴보면 공격자는 복잡한 네트워크 환경을 악용해 보안의 사각지대를 노린다. 네트워크·OS·웹·애플리케이션의 취약점 공격, 알려지지 않은 지능화...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/20220530ngips-ms.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[주말판] 소프트웨어 엔지니어들에게 힘이 되어줄 지식들]]></title>
@@ -88,6 +72,14 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/22052714ss.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[PIS FAIR 2022] 다크트레이스, 무자비한 사이버 공격과 인공지능을 이용한 정밀 대응]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107269&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107269&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
+            <pubDate>Sun, 05 Jun 2022 09:15:02 GMT</pubDate>
+            <content:encoded><![CDATA[국내 최대 개인정보보호 축제의 장인 ‘제11회 개인정보보호페어&amp;CPO워크숍(PIS FAIR 2022)’이 서울 코엑스 그랜드볼룸에서 6월 2~3일 양일간 열린 가...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20220603_162158(%EC%8D%B8).jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[제품리뷰] 신제품(NEP) 인증 획득한 에스카의 저시정 영상개선 솔루션]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107080&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107080&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
@@ -102,14 +94,6 @@
             <pubDate>Thu, 02 Jun 2022 07:19:08 GMT</pubDate>
             <content:encoded><![CDATA[개인정보보호위원회(위원장 윤종인, 이하 ‘개인정보위’)와 개인정보보호페어조직위원회(위원장 황서종)는 공공·산업계 전반의 개인정보보호 수준을 높이고, 정책̷...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/pisfair_2022_060102_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[PIS FAIR 2022] 다크트레이스, 무자비한 사이버 공격과 인공지능을 이용한 정밀 대응]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107269&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107269&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
-            <pubDate>Sun, 05 Jun 2022 09:15:02 GMT</pubDate>
-            <content:encoded><![CDATA[국내 최대 개인정보보호 축제의 장인 ‘제11회 개인정보보호페어&amp;CPO워크숍(PIS FAIR 2022)’이 서울 코엑스 그랜드볼룸에서 6월 2~3일 양일간 열린 가...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20220603_162158(%EC%8D%B8).jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[PIS FAIR 2022] 개인정보보호 정책, 정보주체 주도형 디지털 패러다임으로 전환중]]></title>
@@ -166,6 +150,22 @@
             <pubDate>Sat, 04 Jun 2022 03:08:05 GMT</pubDate>
             <content:encoded><![CDATA[클립마이너(Clipminer)라고 하는 멀웨어의 운영자들이 암호화폐 채굴을 통해 170만 달러를 벌었다는 조사 결과가 발표됐다. 게다가 이들의 수익은 지금도 계속...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/bit-thumb-0603.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[PIS FAIR 2022] 컴트루테크놀로지, 이미지 개인정보 검출부터 행정문서 분류까지]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107265&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107265&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
+            <pubDate>Sun, 05 Jun 2022 15:16:04 GMT</pubDate>
+            <content:encoded><![CDATA[국내 최대 개인정보보호 축제의 장인 ‘제11회 개인정보보호페어&amp;CPO워크숍(PIS FAIR 2022)’이 서울 코엑스 그랜드볼룸에서 6월 2~3일 양일간 열린 가...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20220603_144911(%EC%8D%B8).jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[PIS FAIR 2022] 아모레퍼시픽 백인혁 차장 “개인정보 흐름상의 유출 포인트 통제해야”]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107220&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107220&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
+            <pubDate>Sun, 05 Jun 2022 15:16:04 GMT</pubDate>
+            <content:encoded><![CDATA[아모레퍼시픽 정보보안팀 백인혁 차장은 2일 개최된 ‘PIS FAIR 2022’에서 아모레퍼시픽의 개인정보보호 실무사례를 소개하며, 개인정보보호를 위해 △개인정보 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/amorae1-C.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
