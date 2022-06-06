@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-06-06T07:19:19.447Z</updated>
+    <updated>2022-06-06T08:22:46.185Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[‘밀리의 서재’ 해킹으로 고객 ‘개인정보’ 또 유출]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107282&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107282&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-06-06T08:19:38.937Z</updated>
+        <content type="html"><![CDATA[밀리의 서재가 지난 6월 3일 새벽 4시경 해킹으로 인해 1만 3,182명의 고객 개인정보가 유출된 것이 확인됐다고 공지했다. 유출된 정보는 이메일 주소, 암호화된 전화번호와 비밀번호다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[주말판] 소프트웨어 엔지니어들에게 힘이 되어줄 지식들]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=107281&amp;page=1&amp;mkind=1&amp;kind=3</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=107249&amp;page=1&amp;mkind=1&amp;kind=3"/>
         <updated>2022-06-03T08:20:17.400Z</updated>
         <content type="html"><![CDATA[국내 최대 개인정보보호 축제의 장인 ‘제11회 개인정보보호페어&amp;CPO워크숍(PIS FAIR 2022)’가 서울 코엑스 그랜드볼룸에서 6월 2~3일 양일간 진행되는 가운데 행사 1일차인 6월 2일 트랙 A(Tech&amp;Trend)에서 다섯 번째 강연자인 KAIST 사이버보안...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[PIS FAIR 2022] Group-IB, 공격표면관리 솔루션 이용한 외부 디지털 자산의 취약점 해결방안]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107248&amp;page=1&amp;mkind=1&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107248&amp;page=1&amp;mkind=1&amp;kind=3"/>
-        <updated>2022-06-03T06:21:08.280Z</updated>
-        <content type="html"><![CDATA[국내 최대 개인정보보호 축제의 장인 ‘제11회 개인정보보호페어&amp;CPO워크숍(PIS FAIR 2022)’가 서울 코엑스 그랜드볼룸에서 6월 2~3일 양일간 진행되는 가운데 행사 1일차인 6월 2일 트랙 A(Tech&amp;Trend)에서 네 번째 강연자인 Group-IB 서현석...]]></content>
     </entry>
 </feed>
