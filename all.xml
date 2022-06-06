@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Jun 2022 12:37:15 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 06 Jun 2022 13:41:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -246,20 +246,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20220602_161012(%EC%8D%B8)(0).jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[北 해커조직 김수키, 인터넷 공유기 설치파일 위장 AppleSeed 유포 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107188&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107188&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Wed, 01 Jun 2022 14:33:30 GMT</pubDate>
-            <content:encoded><![CDATA[북한 해커조직으로 추정되는 악성코드가 유포된 정황이 포착돼 이용자들의 각별한 주의가 요구된다.]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/20220601KIM-S.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[주말판] 소프트웨어 엔지니어들에게 힘이 되어줄 지식들 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107281&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107281&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
             <pubDate>Sun, 05 Jun 2022 06:19:25 GMT</pubDate>
             <content:encoded><![CDATA[소프트웨어 엔지니어들은 항상 외롭고 고독한 존재였다. 특히 회사의 사업 진행과 별개로 움직이는 경우가 많았고, 경영진들이 마음대로 건드리기도 애매한 사람들이었다....]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20972129_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[北 해커조직 김수키, 인터넷 공유기 설치파일 위장 AppleSeed 유포 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107188&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107188&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Wed, 01 Jun 2022 14:33:30 GMT</pubDate>
+            <content:encoded><![CDATA[북한 해커조직으로 추정되는 악성코드가 유포된 정황이 포착돼 이용자들의 각별한 주의가 요구된다.]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/20220601KIM-S.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[긴급] MS 오피스, 제로데이 취약점 Follina 발견 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
