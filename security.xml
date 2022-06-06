@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-06-06T14:17:14.064Z</updated>
+    <updated>2022-06-06T15:21:48.072Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[유명 협업 플랫폼인 아틀라시안 컨플루언스에서 제로데이 공격 진행 중]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107285&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107285&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-06-06T15:18:50.863Z</updated>
+        <content type="html"><![CDATA[아틀라시안 컨플루언스(Atlassian Confluence)라는 유명 소프트웨어에서 발견된 초고위험도 취약점이 현재 해킹 공격에 적극 활용되는 중이다. 문제의 취약점은 CVE-2022-26134로, 공격자들은 이를 익스플로잇 함으로써 피해자의 서버에 침투하고 시스템 전...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[데이터 폭발의 시대, 다시 점검해야 할 건 스토리지 전략]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107280&amp;page=1&amp;mkind=1&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107280&amp;page=1&amp;mkind=1&amp;kind=3"/>
+        <updated>2022-06-06T15:18:50.866Z</updated>
+        <content type="html"><![CDATA[고성능 컴퓨터에 페타바이트 단위의 데이터를 다루는 애플리케이션들이 점점 더 많이 탑재되고 있다. 이런 현상 때문에 현대의 스토리지 기술이 빠르게 갈 곳을 잃고 있다. 또한 기존 스토리지 기술에 의존해 왔던 기업과 기관들도 언제 스토리지 시스템을 싹 갈아치워야 하는가 골...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[4월 개정된 가명정보 처리 가이드라인, 핵심 내용 살펴보니]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107258&amp;page=1&amp;mkind=1&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107258&amp;page=1&amp;mkind=1&amp;kind=2"/>
+        <updated>2022-06-06T15:18:50.867Z</updated>
+        <content type="html"><![CDATA[2022년 4월 가명정보 결합 및 반출 등에 관한 고시가 개정·시행됐다. 이번 개정은 개인정보보호법, 신용정보의 이용 및 보호에 관한 법률 등 데이터 3법의 개정·시행에 따른 것으로, 4차 산업혁명 시대의 데이터 경제 활성화 추세에 따라 개인정보를 안전하게 활용할 수 ...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘밀리의 서재’ 해킹으로 고객 ‘개인정보’ 또 유출]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=107282&amp;page=1&amp;mkind=1&amp;kind=1</id>
@@ -102,26 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=107268&amp;page=1&amp;mkind=1&amp;kind=1"/>
         <updated>2022-06-03T08:20:17.396Z</updated>
         <content type="html"><![CDATA[클립마이너(Clipminer)라고 하는 멀웨어의 운영자들이 암호화폐 채굴을 통해 170만 달러를 벌었다는 조사 결과가 발표됐다. 게다가 이들의 수익은 지금도 계속해서 증가하는 중이라고 한다. 앞으로 얼마나 더 부당한 수익이 공격자들의 손에 넘어갈지 예측조차 할 수 없다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[PIS FAIR 2022] 개인정보보호 정책, 정보주체 주도형 디지털 패러다임으로 전환중]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107257&amp;page=1&amp;mkind=1&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107257&amp;page=1&amp;mkind=1&amp;kind=2"/>
-        <updated>2022-06-03T08:20:17.398Z</updated>
-        <content type="html"><![CDATA[국내 최대 규모의 개인정보보호 콘퍼런스인 ‘PIS FAIR 2022’의 둘째 날, 이정은 개인정보보호위원회 자율보호정책과 과장이 ‘개인정보보호 자율보호 정책과 제도’를 주제로 키노트 강연을 펼쳤다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[윤석열 대통령, 과기정통부 제2차관에 박윤규 정보통신정책실장 임명]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107259&amp;page=1&amp;mkind=1&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107259&amp;page=1&amp;mkind=1&amp;kind=2"/>
-        <updated>2022-06-03T08:20:17.399Z</updated>
-        <content type="html"><![CDATA[박윤규 과학기술정보통신부 정보통신정책실장이 6월 3일 과기정통부 제2차관에 임명됐다. 윤석열 대통령은 3일 과기정통부 2차관과 국정원 2차장 등 남아있던 차관급 인사를 발표했다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[PIS FAIR 2022] KAIST 사이버보안연구센터, AI 시대의 프라이버시와 개인정보보호]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107249&amp;page=1&amp;mkind=1&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107249&amp;page=1&amp;mkind=1&amp;kind=3"/>
-        <updated>2022-06-03T08:20:17.400Z</updated>
-        <content type="html"><![CDATA[국내 최대 개인정보보호 축제의 장인 ‘제11회 개인정보보호페어&amp;CPO워크숍(PIS FAIR 2022)’가 서울 코엑스 그랜드볼룸에서 6월 2~3일 양일간 진행되는 가운데 행사 1일차인 6월 2일 트랙 A(Tech&amp;Trend)에서 다섯 번째 강연자인 KAIST 사이버보안...]]></content>
     </entry>
 </feed>
