@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-06-06T01:26:06.157Z</updated>
+    <updated>2022-06-06T03:23:17.199Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[주말판] 소프트웨어 엔지니어들에게 힘이 되어줄 지식들]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107281&amp;page=1&amp;mkind=1&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107281&amp;page=1&amp;mkind=1&amp;kind=3"/>
+        <updated>2022-06-06T03:20:25.922Z</updated>
+        <content type="html"><![CDATA[소프트웨어 엔지니어들은 항상 외롭고 고독한 존재였다. 특히 회사의 사업 진행과 별개로 움직이는 경우가 많았고, 경영진들이 마음대로 건드리기도 애매한 사람들이었다. 다행히 데이터에 대한 사람들의 관심이 비약적으로 높아지면서 이러한 점에도 변화가 시작되고 있다. 소프트웨어...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[급성장하고 있는 헬스케어 시장, 보안위협도  ‘급성장’]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=107251&amp;page=1&amp;mkind=1&amp;kind=1</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=107248&amp;page=1&amp;mkind=1&amp;kind=3"/>
         <updated>2022-06-03T06:21:08.280Z</updated>
         <content type="html"><![CDATA[국내 최대 개인정보보호 축제의 장인 ‘제11회 개인정보보호페어&amp;CPO워크숍(PIS FAIR 2022)’가 서울 코엑스 그랜드볼룸에서 6월 2~3일 양일간 진행되는 가운데 행사 1일차인 6월 2일 트랙 A(Tech&amp;Trend)에서 네 번째 강연자인 Group-IB 서현석...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[PIS FAIR 2022] 엘세븐시큐리티, 이미지 속 개인정보의 유출사례 분석]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107247&amp;page=1&amp;mkind=1&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107247&amp;page=1&amp;mkind=1&amp;kind=3"/>
-        <updated>2022-06-03T06:21:08.282Z</updated>
-        <content type="html"><![CDATA[국내 최대 개인정보보호 축제의 장인 ‘제11회 개인정보보호페어&amp;CPO워크숍(PIS FAIR 2022)’가 서울 코엑스 그랜드볼룸에서 6월 2~3일 양일간 진행되는 가운데 행사 1일차인 6월 2일 트랙 A(Tech&amp;Trend)에서 세 번째 강연자인 엘세븐시큐리티 최복희 ...]]></content>
     </entry>
 </feed>
