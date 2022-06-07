@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Jun 2022 07:20:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jun 2022 08:24:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아틀라시안 컨플루언스 취약점 악용 공격 발견! 쇼단에 노출된 서버는 무방비 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107304&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107304&amp;page=1&amp;kind=1</guid>
+            <pubDate>Tue, 07 Jun 2022 08:21:20 GMT</pubDate>
+            <content:encoded><![CDATA[최근 아틀라시안 컨플루언스(Atlassian Confluence) 플랫폼에서 발견된 취약점(CVE-2022-26134)을 이용한 공격이 잇따라 포착돼 이용...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20220607con-s.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[그나마 있던 보안인력들은 다 어디로 간 걸까? (보안뉴스 ─ 전체기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107149&amp;page=1&amp;kind=2</link>
@@ -80,14 +88,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20220606spy-s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[AI와 스마트도시 등 신기술 등장에 따른 개인정보보호 정책방향은? (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107284&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107284&amp;page=1&amp;kind=2</guid>
-            <pubDate>Mon, 06 Jun 2022 15:18:11 GMT</pubDate>
-            <content:encoded><![CDATA[디지털 전환의 시대가 다가오면서 데이터가 핵심 원천으로 등장했다. 특히 데이터 중 개인정보가 75% 이상을 차지하면서 이제는 ‘보호’의 대상에서 ‘안전한 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/pisfair2022_0606_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[시놀로지, 가정·소기업용 AI 기반 비디오 감시 솔루션 Synology DVA1622 출시 (보안뉴스 ─ 전체기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107303&amp;page=1&amp;kind=3</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107303&amp;page=1&amp;kind=3</guid>
@@ -125,6 +125,14 @@
             <pubDate>Tue, 07 Jun 2022 03:21:12 GMT</pubDate>
             <content:encoded><![CDATA[안랩(대표 강석균)이 최근 열린 ‘AWS 파트너 서밋 코리아 2022(AWS Partner Summit Korea 2022)’ 행사에서 ‘AWS 올해의 라...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20220607-anlab-c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[AI와 스마트도시 등 신기술 등장에 따른 개인정보보호 정책방향은? (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107284&amp;page=1&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107284&amp;page=1&amp;kind=2</guid>
+            <pubDate>Mon, 06 Jun 2022 15:18:11 GMT</pubDate>
+            <content:encoded><![CDATA[디지털 전환의 시대가 다가오면서 데이터가 핵심 원천으로 등장했다. 특히 데이터 중 개인정보가 75% 이상을 차지하면서 이제는 ‘보호’의 대상에서 ‘안전한 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/pisfair2022_0606_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[주요 게임사 8곳 보안 실태 조사결과 살펴보니 (보안뉴스 ─ 전체기사)]]></title>
@@ -239,14 +247,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/6-39(295).jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[국민대-디지털존, 인공지능 분야 공동 프로젝트 운영 위한 업무협약 체결 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107276&amp;page=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107276&amp;page=1&amp;kind=3</guid>
-            <pubDate>Sat, 04 Jun 2022 06:18:50 GMT</pubDate>
-            <content:encoded><![CDATA[국민대 경영대학원이 지난달 31일 디지털존과 함께 인공지능 분야의 공동 프로젝트 운영과 협조 체계 구축을 위한 업무협약(MOU)을 체결했다.]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/6-38(295).jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[주말판] 소프트웨어 엔지니어들에게 힘이 되어줄 지식들 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107281&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107281&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
@@ -277,14 +277,6 @@
             <pubDate>Mon, 06 Jun 2022 03:20:05 GMT</pubDate>
             <content:encoded><![CDATA[밀리의 서재가 지난 6월 3일 새벽 4시경 해킹으로 인해 1만 3,182명의 고객 개인정보가 유출된 것이 확인됐다고 공지했다. 유출된 정보는 이메일 주소, 암호화...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/millie_060501_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[GDPR 4주년을 맞아 데이터 레이크에 종말을 고하다 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107155&amp;page=1&amp;kind=4&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107155&amp;page=1&amp;kind=4&amp;search=title&amp;find=</guid>
-            <pubDate>Wed, 01 Jun 2022 06:26:59 GMT</pubDate>
-            <content:encoded><![CDATA[이번 달로서 세계는 유럽연합이 GDPR이라는 역사적 규정을 시행한 지 4주년을 맞게 됐다. 그 동안 개인의 프라이버시, 혹은 데이터의 프라이버시에 대한 우리의 관...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/21472803_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[5월 마지막 주 악성코드 통계는? 정보탈취용 악성코드 들끓어 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
@@ -391,6 +383,14 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/pis_track_060201_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[유명 협업 플랫폼인 아틀라시안 컨플루언스에서 제로데이 공격 진행 중 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107285&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107285&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Tue, 07 Jun 2022 05:20:18 GMT</pubDate>
+            <content:encoded><![CDATA[아틀라시안 컨플루언스(Atlassian Confluence)라는 유명 소프트웨어에서 발견된 초고위험도 취약점이 현재 해킹 공격에 적극 활용되는 중이다. 문제의 취...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/con-thumb-0606.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[PIS FAIR 2022] 해커가 의료기관에 군침을 흘리는 이유 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107225&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107225&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
@@ -399,12 +399,19 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/KakaoTalk_20220602_163323032_02-c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[유명 협업 플랫폼인 아틀라시안 컨플루언스에서 제로데이 공격 진행 중 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107285&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107285&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Tue, 07 Jun 2022 05:20:18 GMT</pubDate>
-            <content:encoded><![CDATA[아틀라시안 컨플루언스(Atlassian Confluence)라는 유명 소프트웨어에서 발견된 초고위험도 취약점이 현재 해킹 공격에 적극 활용되는 중이다. 문제의 취...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/con-thumb-0606.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[‘데이터 경제 시대의 개인정보보호’ 주제로 PIS FAIR 2022 성황리 개막 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107219&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107219&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
+            <pubDate>Tue, 07 Jun 2022 08:21:36 GMT</pubDate>
+            <content:encoded><![CDATA[국내 최대 규모의 개인정보보호 콘퍼런스로 자리매김한 ‘PIS FAIR 2022’는 개인정보보호위원회와 PIS FAIR 조직위원회가 주최한다. 올해는 개인정보보호 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/PIS%20FAIR%20202201_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[코로나로 촉발된 원격 의료 서비스, 커넥티드 기술이 확산시키는 중 (보안뉴스 ─ SECURITY)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107283&amp;page=1&amp;mkind=1&amp;kind=4</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107283&amp;page=1&amp;mkind=1&amp;kind=4</guid>
+            <pubDate>Tue, 07 Jun 2022 08:21:52 GMT</pubDate>
+            <content:encoded><![CDATA[원격 의료 체제의 혁신이 코앞에 있다는 말이 나온 것이 족히 20년은 넘었다. 하지만 그 원격 의료라는 것의 실현을 진지하고 실제적으로 논의하기 시작한 건 2020년 초, 코로나 팬데믹 사태가 터지고 나서부터였다. 마치 원격 근무와 교육이 코로나를 계기로 공상 과학의 ...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[KISA, 전자문서 기반의 디지털 전환 서비스 4개 과제 선정 (보안뉴스 ─ SECURITY)]]></title>
@@ -517,13 +524,6 @@
             <guid>https://www.boannews.com/media/view.asp?idx=107281&amp;page=1&amp;mkind=1&amp;kind=3</guid>
             <pubDate>Mon, 06 Jun 2022 03:20:25 GMT</pubDate>
             <content:encoded><![CDATA[소프트웨어 엔지니어들은 항상 외롭고 고독한 존재였다. 특히 회사의 사업 진행과 별개로 움직이는 경우가 많았고, 경영진들이 마음대로 건드리기도 애매한 사람들이었다. 다행히 데이터에 대한 사람들의 관심이 비약적으로 높아지면서 이러한 점에도 변화가 시작되고 있다. 소프트웨어...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[급성장하고 있는 헬스케어 시장, 보안위협도  ‘급성장’ (보안뉴스 ─ SECURITY)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107251&amp;page=1&amp;mkind=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107251&amp;page=1&amp;mkind=1&amp;kind=1</guid>
-            <pubDate>Sun, 05 Jun 2022 13:23:11 GMT</pubDate>
-            <content:encoded><![CDATA[헬스케어 산업이 디지털 기술 기반으로 급성장하고 있다. 특히 코로나19로 인해  원격의료 행위가 증가하고, 빅데이터를 통한 개인 맞춤형 건강관리로 발전하고 있다. 미국 보건복지부에서 2022년 3월 15일 발표한 보고서에 따르면 미국에서 코로나19 발생 첫 해(2020...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[유영상 CEO, “SKT, AI 시대 고객 관계의 중심에 설 것” (보안뉴스 ─ IT)]]></title>
@@ -778,6 +778,20 @@
             <pubDate>Sat, 04 Jun 2022 06:20:08 GMT</pubDate>
             <content:encoded><![CDATA[한국철도공사(코레일)가 열차 내 범죄 예방과 안전 확보를 위해 모든 객실에 CCTV(영상기록장치)를 설치한다고 밝혔다. 코레일은 2023년까지 322억원을...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/6-39(295).jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[아틀라시안 컨플루언스 취약점 악용 공격 발견! 쇼단에 노출된 서버는 무방비 (보안뉴스 ─ 취약점 경고 및 버그리포트)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107304&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107304&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=</guid>
+            <pubDate>Tue, 07 Jun 2022 08:22:41 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/view.asp?idx=107304&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=">
+					
+					<img src="/media/upFiles2/2022/06/20220607con-s.jpg" alt="" class="news_img" height="70">
+					
+					<span class="news_txt">아틀라시안 컨플루언스 취약점 악용 공격 발견! 쇼단에 노출된 서버는 무방비 </span>
+					</a><br>
+					<a href="/media/view.asp?idx=107304&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=">최근 아틀라시안 컨플루언스(Atlassian Confluence) 플랫폼에서 발견된 취약점(CVE-2022-26134)을 이용한 공격이 잇따라 포착돼 이용자들의 ...</a> <span class="news_writer">권준  기자 | 2022년 06월 07일 16:26</span>]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20220607con-s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[주요 게임사 8곳 보안 실태 조사결과 살펴보니 (보안뉴스 ─ 취약점 경고 및 버그리포트)]]></title>
@@ -1044,20 +1058,6 @@
 					</a><br>
 					<a href="/media/view.asp?idx=106843&amp;page=1&amp;mkind=&amp;kind=2&amp;skind=5&amp;search=title&amp;find=">최근 암호화폐에 대한 관심이 높아지는 가운데, 분실 코인 찾기 도움말을 위장한 악성코드 유포 사례가 발견돼 사용자의 주의가 당부된다고 안랩(대표 강석균)이 밝혔다...</a> <span class="news_writer">원병철 기자 | 2022년 05월 18일 09:45</span>]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/ahn_0518%20(1)_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아이폰이 꺼져 있어도 멀웨어 실행이 가능하다? (보안뉴스 ─ 취약점 경고 및 버그리포트)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=106813&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=106813&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=</guid>
-            <pubDate>Sun, 22 May 2022 17:16:47 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/view.asp?idx=106813&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=">
-					
-					<img src="/media/upFiles2/2022/05/21517075_copy_295x190_1.jpg" alt="" class="news_img" height="70">
-					
-					<span class="news_txt">아이폰이 꺼져 있어도 멀웨어 실행이 가능하다?</span>
-					</a><br>
-					<a href="/media/view.asp?idx=106813&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=">보안 외신 해커뉴스에 의하면 iOS에 있는 기능인 파인드마이(Find My)를 통한 새로운 공격 기법이 발견됐다고 한다. 이 공격 기법을 활용할 경우 아이폰이 꺼...</a> <span class="news_writer">문가용 기자 | 2022년 05월 17일 11:43</span>]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/21517075_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[최정식 발행인 칼럼] <시큐리티월드> 통권 300호를 맞아 드리는 감사의 말씀 (보안뉴스 ─ 오피니언)]]></title>

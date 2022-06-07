@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-06-07T07:20:21.915Z</updated>
+    <updated>2022-06-07T08:24:22.868Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[코로나로 촉발된 원격 의료 서비스, 커넥티드 기술이 확산시키는 중]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107283&amp;page=1&amp;mkind=1&amp;kind=4</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107283&amp;page=1&amp;mkind=1&amp;kind=4"/>
+        <updated>2022-06-07T08:21:52.220Z</updated>
+        <content type="html"><![CDATA[원격 의료 체제의 혁신이 코앞에 있다는 말이 나온 것이 족히 20년은 넘었다. 하지만 그 원격 의료라는 것의 실현을 진지하고 실제적으로 논의하기 시작한 건 2020년 초, 코로나 팬데믹 사태가 터지고 나서부터였다. 마치 원격 근무와 교육이 코로나를 계기로 공상 과학의 ...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[KISA, 전자문서 기반의 디지털 전환 서비스 4개 과제 선정]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=107288&amp;page=1&amp;mkind=1&amp;kind=2</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=107281&amp;page=1&amp;mkind=1&amp;kind=3"/>
         <updated>2022-06-06T03:20:25.922Z</updated>
         <content type="html"><![CDATA[소프트웨어 엔지니어들은 항상 외롭고 고독한 존재였다. 특히 회사의 사업 진행과 별개로 움직이는 경우가 많았고, 경영진들이 마음대로 건드리기도 애매한 사람들이었다. 다행히 데이터에 대한 사람들의 관심이 비약적으로 높아지면서 이러한 점에도 변화가 시작되고 있다. 소프트웨어...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[급성장하고 있는 헬스케어 시장, 보안위협도  ‘급성장’]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107251&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107251&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-06-05T13:23:11.850Z</updated>
-        <content type="html"><![CDATA[헬스케어 산업이 디지털 기술 기반으로 급성장하고 있다. 특히 코로나19로 인해  원격의료 행위가 증가하고, 빅데이터를 통한 개인 맞춤형 건강관리로 발전하고 있다. 미국 보건복지부에서 2022년 3월 15일 발표한 보고서에 따르면 미국에서 코로나19 발생 첫 해(2020...]]></content>
     </entry>
 </feed>
