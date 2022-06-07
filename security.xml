@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-06-07T03:24:19.605Z</updated>
+    <updated>2022-06-07T04:29:48.484Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[큐봇 봇넷, 블랙바스타 랜섬웨어 퍼트리는 중]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107296&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107296&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-06-07T04:26:43.292Z</updated>
+        <content type="html"><![CDATA[악명 높은 봇넷인 큐봇(QBot)의 운영자들이 블랙바스타(Black Basta)라는 랜섬웨어를 퍼트리기 시작했다고 IT 외신인 블리핑컴퓨터가 보도했다. 큐봇은 원래 온라인 뱅킹 크리덴셜이나 윈도 도메인 크리덴셜을 훔치는 데 주력하던 멀웨어였다. 그 외에도 여러 종류의 ...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오픈소스 부트로더인 유부트에서 두 개의 취약점 발견돼]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=107295&amp;page=1&amp;mkind=1&amp;kind=1</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=107265&amp;page=1&amp;mkind=1&amp;kind=3"/>
         <updated>2022-06-04T07:16:18.058Z</updated>
         <content type="html"><![CDATA[국내 최대 개인정보보호 축제의 장인 ‘제11회 개인정보보호페어&amp;CPO워크숍(PIS FAIR 2022)’이 서울 코엑스 그랜드볼룸에서 6월 2~3일 양일간 열린 가운데 행사 2일차인 6월 3일 트랙 A(Tech&amp;Trend)의 세 번째 강연자인 컴트루테크놀로지 김현정 팀장...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[PIS FAIR 2022] 위즈코리아, 내부보안 강화 위한 개인정보 접속기록의 생성과 관리]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107264&amp;page=1&amp;mkind=1&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107264&amp;page=1&amp;mkind=1&amp;kind=3"/>
-        <updated>2022-06-04T07:16:18.060Z</updated>
-        <content type="html"><![CDATA[국내 최대 개인정보보호 축제의 장인 ‘제11회 개인정보보호페어&amp;CPO워크숍(PIS FAIR 2022)’이 서울 코엑스 그랜드볼룸에서 6월 2~3일 양일간 열린 가운데 행사 2일차인 6월 3일 트랙 A(Tech&amp;Trend)의 두 번째 강연자인 위즈코리아 김훈 부문장은 ‘...]]></content>
     </entry>
 </feed>
