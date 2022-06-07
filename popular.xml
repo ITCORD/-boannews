@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 07 Jun 2022 04:29:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jun 2022 05:24:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,14 +30,6 @@
             <pubDate>Sun, 05 Jun 2022 03:10:14 GMT</pubDate>
             <content:encoded><![CDATA[헬스케어 산업이 디지털 기술 기반으로 급성장하고 있다. 특히 코로나19로 인해  원격의료 행위가 증가하고, 빅데이터를 통한 개인 맞춤형 건강관리로 발전하고 있다....]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[긴급] MS 오피스, 제로데이 취약점 Follina 발견]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107186&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107186&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Tue, 31 May 2022 22:17:46 GMT</pubDate>
-            <content:encoded><![CDATA[최근 마이크로소프트 오피스(Microsoft Office)에서 제로데이 취약점인 ‘Follina’가 발견됐다. 특히, 이번 취약점은 사용자가 문서를 열람하기만 해...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/20220531MS3-S.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘밀리의 서재’ 해킹으로 고객 ‘개인정보’ 또 유출]]></title>
@@ -166,6 +158,14 @@
             <pubDate>Mon, 06 Jun 2022 09:16:07 GMT</pubDate>
             <content:encoded><![CDATA[의료기관의 보안위협이 심상치 않다. 민감한 개인정보를 보유하고 있는 만큼 해커들이 군침을 흘리고 있다. 이와 관련해 한국사회보장정보원 최주원 박사는 2일 개최된 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/KakaoTalk_20220602_163323032_02-c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[유명 협업 플랫폼인 아틀라시안 컨플루언스에서 제로데이 공격 진행 중]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107285&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107285&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Tue, 07 Jun 2022 05:20:18 GMT</pubDate>
+            <content:encoded><![CDATA[아틀라시안 컨플루언스(Atlassian Confluence)라는 유명 소프트웨어에서 발견된 초고위험도 취약점이 현재 해킹 공격에 적극 활용되는 중이다. 문제의 취...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/con-thumb-0606.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
