@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-06-08T06:23:15.372Z</updated>
+    <updated>2022-06-08T07:20:01.461Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[S2W, ‘RSAC 2022’에서 CTI 솔루션 Quaxar 소개]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107330&amp;page=1&amp;mkind=1&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107330&amp;page=1&amp;mkind=1&amp;kind=3"/>
+        <updated>2022-06-08T07:17:19.231Z</updated>
+        <content type="html"><![CDATA[데이터 인텔리전스 기업인 S2W(에스투더블유, 대표 서상덕)는 미국 현지시간 기준 오는 6일(월)부터 9일(목)까지 미국 샌프란시스코 모스콘센터에서 개최되는 세계 최대 사이버 보안 컨퍼런스 ‘RSAC 2022’에 참가해 CTI (사이버 위협 인텔리전스) 솔루션 Quax...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2025년 글로벌 OT 보안 시장 ‘102억 달러’ 규모로 전망]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107339&amp;page=1&amp;mkind=1&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107339&amp;page=1&amp;mkind=1&amp;kind=3"/>
+        <updated>2022-06-08T07:17:19.239Z</updated>
+        <content type="html"><![CDATA[최근 효과적인 운영기술(OT) 보안을 구축하려는 기관들이 늘어나면서 OT 보안 전문가 부족 현상이 더욱 심화되고 있으며, 이로 인해 OT 보안 전문 기업들의 성장 전망이 밝아지고 있다는 연구결과가 나왔다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[최근 패치된 자이젤 방화벽 취약점의 기술 정보 공개돼]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=107337&amp;page=1&amp;mkind=1&amp;kind=1</id>
@@ -109,19 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=107149&amp;page=1&amp;mkind=1&amp;kind=2"/>
         <updated>2022-06-07T12:33:37.378Z</updated>
         <content type="html"><![CDATA[“보안시장은 자꾸 커지는데 보안 경력자 구하기가 하늘에 별 따기에요.” “보안 솔루션 개발인력이 돈 때문에 클라우드와 프로그램 개발 분야로 이동해요.” “온라인 쇼핑몰의 보안인력은 배달 전문 온라인 플랫폼으로, 배달 전문 온라인 플랫폼 보안 인력은 이보다 더 큰 대형 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국정보보호학회, 2022년 사이버안보 논문공모전 개최]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107299&amp;page=1&amp;mkind=1&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107299&amp;page=1&amp;mkind=1&amp;kind=3"/>
-        <updated>2022-06-07T10:19:11.181Z</updated>
-        <content type="html"><![CDATA[한국정보보호학회(회장 이옥연)는 정보세계정치학회(회장 하영선), 국가정보원과 6월 14일부터 ‘2022년 사이버안보 논문공모전’을 개최하여 논문을 공모한다고 밝혔다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코로나로 촉발된 원격 의료 서비스, 커넥티드 기술이 확산시키는 중]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107283&amp;page=1&amp;mkind=1&amp;kind=4</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107283&amp;page=1&amp;mkind=1&amp;kind=4"/>
-        <updated>2022-06-07T08:21:52.220Z</updated>
-        <content type="html"><![CDATA[원격 의료 체제의 혁신이 코앞에 있다는 말이 나온 것이 족히 20년은 넘었다. 하지만 그 원격 의료라는 것의 실현을 진지하고 실제적으로 논의하기 시작한 건 2020년 초, 코로나 팬데믹 사태가 터지고 나서부터였다. 마치 원격 근무와 교육이 코로나를 계기로 공상 과학의 ...]]></content>
     </entry>
 </feed>
