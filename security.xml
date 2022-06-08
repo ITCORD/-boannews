@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-06-08T07:20:01.461Z</updated>
+    <updated>2022-06-08T08:25:49.406Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[SK브로드밴드, 세계 최초로 국가기간망에 양자암호기술 적용 성공]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107340&amp;page=1&amp;mkind=1&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107340&amp;page=1&amp;mkind=1&amp;kind=3"/>
+        <updated>2022-06-08T08:23:25.407Z</updated>
+        <content type="html"><![CDATA[국가 기간통신망의 안정성이 크게 강화된다. 세계 최초 양자암호기술 적용으로 도청 및 해킹의 리스크를 차단할 수 있게 됐기 때문이다. SK브로드밴드(대표이사 사장 최진환)는 세계 최초로 국가 기간통신망에 양자암호기술을 적용하는 데 성공했다고 8일 밝혔다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[S2W, ‘RSAC 2022’에서 CTI 솔루션 Quaxar 소개]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=107330&amp;page=1&amp;mkind=1&amp;kind=3</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=107304&amp;page=1&amp;mkind=1&amp;kind=1"/>
         <updated>2022-06-08T01:21:50.471Z</updated>
         <content type="html"><![CDATA[최근 아틀라시안 컨플루언스(Atlassian Confluence) 플랫폼에서 발견된 취약점(CVE-2022-26134)을 이용한 공격이 잇따라 포착돼 이용자들의 각별한 주의가 요구되고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[그나마 있던 보안인력들은 다 어디로 간 걸까?]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107149&amp;page=1&amp;mkind=1&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107149&amp;page=1&amp;mkind=1&amp;kind=2"/>
-        <updated>2022-06-07T12:33:37.378Z</updated>
-        <content type="html"><![CDATA[“보안시장은 자꾸 커지는데 보안 경력자 구하기가 하늘에 별 따기에요.” “보안 솔루션 개발인력이 돈 때문에 클라우드와 프로그램 개발 분야로 이동해요.” “온라인 쇼핑몰의 보안인력은 배달 전문 온라인 플랫폼으로, 배달 전문 온라인 플랫폼 보안 인력은 이보다 더 큰 대형 ...]]></content>
     </entry>
 </feed>
