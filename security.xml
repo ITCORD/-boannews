@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-06-08T03:26:31.450Z</updated>
+    <updated>2022-06-08T04:33:03.660Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[애플, 전체 OS 업데이트 하지 않아도 자동으로 보안 업데이트 가능하게 만들어]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107334&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107334&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-06-08T04:30:28.509Z</updated>
+        <content type="html"><![CDATA[보안 외신 해커뉴스에 의하면 애플이 새로운 보안 기능을 iOS 16과 맥OS 벤투라에 추가했다고 한다. 이 기능의 이름은 ‘신속 보안 대응(Rapid Security Response)’이라고 하며, 보안 관련 업데이트 내용을 자동으로 적용한다. 이 때 OS 전체를 업데...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[폴리나 취약점, 국가 지원 해커들에 의해 익스플로잇 되고 있어]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107333&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107333&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-06-08T04:30:28.512Z</updated>
+        <content type="html"><![CDATA[보안 외신 쓰레트포스트에 의하면 얼마 전 MS 생태계에서 발견된 취약점인 폴리나(Follina)가 실제 해킹 공격에 활용되고 있다고 한다. 보안 업체 프루프포인트(Proofpoint)에 의하면 국가의 지원을 받는 해커들이 폴리나 취약점을 익스플로잇 함으로써 미국과 유럽...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[IPA, ‘인천항 안전설비·교통안전시설 설치 지원 사업’ 참여기업 모집]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107311&amp;page=1&amp;mkind=1&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107311&amp;page=1&amp;mkind=1&amp;kind=2"/>
+        <updated>2022-06-08T04:30:28.514Z</updated>
+        <content type="html"><![CDATA[인천항만공사(IPA)는 인천항 작업 현장 안전사고를 예방하고 협력기업 근로자를 보호하기 위해 ‘2022년도 인천항 안전설비·교통안전시설 설치 지원 사업’의 참여기업을 모집한다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[IBM ‘제로 트러스트 시대의 엔드포인트 보안 방안’ 웨비나 개최]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=107292&amp;page=1&amp;mkind=1&amp;kind=3</id>
@@ -102,26 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=107297&amp;page=1&amp;mkind=1&amp;kind=1"/>
         <updated>2022-06-07T05:20:34.683Z</updated>
         <content type="html"><![CDATA[보안 외신 핵리드에 의하면 핵티비스트 단체 어나니머스가 러시아의 대형 로펌인 RKP로(RKP Law)에서 1TB에 달하는 데이터를 탈취하는 데 성공했다고 한다. RKP로는 러시아 정부 기관, 은행, 매체, 석유 및 가스 회사 등을 고객으로 두고 있는 초대형 로펌이다. ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[큐봇 봇넷, 블랙바스타 랜섬웨어 퍼트리는 중]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107296&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107296&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-06-07T04:26:43.292Z</updated>
-        <content type="html"><![CDATA[악명 높은 봇넷인 큐봇(QBot)의 운영자들이 블랙바스타(Black Basta)라는 랜섬웨어를 퍼트리기 시작했다고 IT 외신인 블리핑컴퓨터가 보도했다. 큐봇은 원래 온라인 뱅킹 크리덴셜이나 윈도 도메인 크리덴셜을 훔치는 데 주력하던 멀웨어였다. 그 외에도 여러 종류의 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오픈소스 부트로더인 유부트에서 두 개의 취약점 발견돼]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107295&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107295&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-06-07T03:21:38.861Z</updated>
-        <content type="html"><![CDATA[보안 외신 해커뉴스에 의하면 오픈소스 부트로더인 유부트(U-Boot)에서 두 개의 보안 취약점이 발견됐다고 한다. 이 취약점들을 익스플로잇 하는 데 성공할 경우 디도스 공격을 하거나 임의 아웃오브바운드 쓰기(out-of-bounds write) 상태로 만들 수 있다고 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[록빗 랜섬웨어 갱단, 보안 업체 맨디언트 해킹했다 주장]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107294&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107294&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-06-07T03:21:38.862Z</updated>
-        <content type="html"><![CDATA[보안 블로그 시큐리티어페어즈에 의하면 악명 높은 랜섬웨어 갱단인 록빗(Lockbit)이 대형 보안 업체인 맨디언트(Mandiant)를 해킹하는 데 성공했다고 주장했다고 한다. 맨디언트도 이러한 주장을 접수하고 조사를 시작했다. 현재 록빗의 정보 유출 사이트에 맨디언트의...]]></content>
     </entry>
 </feed>
