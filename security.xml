@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-06-07T23:18:13.410Z</updated>
+    <updated>2022-06-08T01:24:18.856Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아틀라시안 컨플루언스 취약점 악용 공격 발견! 쇼단에 노출된 서버는 무방비]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107304&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107304&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-06-08T01:21:50.471Z</updated>
+        <content type="html"><![CDATA[최근 아틀라시안 컨플루언스(Atlassian Confluence) 플랫폼에서 발견된 취약점(CVE-2022-26134)을 이용한 공격이 잇따라 포착돼 이용자들의 각별한 주의가 요구되고 있다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[그나마 있던 보안인력들은 다 어디로 간 걸까?]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=107149&amp;page=1&amp;mkind=1&amp;kind=2</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=107280&amp;page=1&amp;mkind=1&amp;kind=3"/>
         <updated>2022-06-06T15:18:50.866Z</updated>
         <content type="html"><![CDATA[고성능 컴퓨터에 페타바이트 단위의 데이터를 다루는 애플리케이션들이 점점 더 많이 탑재되고 있다. 이런 현상 때문에 현대의 스토리지 기술이 빠르게 갈 곳을 잃고 있다. 또한 기존 스토리지 기술에 의존해 왔던 기업과 기관들도 언제 스토리지 시스템을 싹 갈아치워야 하는가 골...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[4월 개정된 가명정보 처리 가이드라인, 핵심 내용 살펴보니]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107258&amp;page=1&amp;mkind=1&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107258&amp;page=1&amp;mkind=1&amp;kind=2"/>
-        <updated>2022-06-06T15:18:50.867Z</updated>
-        <content type="html"><![CDATA[2022년 4월 가명정보 결합 및 반출 등에 관한 고시가 개정·시행됐다. 이번 개정은 개인정보보호법, 신용정보의 이용 및 보호에 관한 법률 등 데이터 3법의 개정·시행에 따른 것으로, 4차 산업혁명 시대의 데이터 경제 활성화 추세에 따라 개인정보를 안전하게 활용할 수 ...]]></content>
     </entry>
 </feed>
