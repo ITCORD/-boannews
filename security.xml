@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-06-09T07:23:32.552Z</updated>
+    <updated>2022-06-09T08:27:18.620Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[스파이스웨어, ‘RSAC 2022’서 제로 트러스트 보안 제품 ‘스파이스웨어 원’ 소개]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107375&amp;page=1&amp;mkind=1&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107375&amp;page=1&amp;mkind=1&amp;kind=3"/>
+        <updated>2022-06-09T08:24:18.317Z</updated>
+        <content type="html"><![CDATA[데이터 중심 제로 트러스트 보안 스타트업 스파이스웨어(대표 김근진)는 미국 샌프란시스코에서 6~9일(현지시간)까지 나흘간 개최되는 세계 최대 규모 사이버 보안 전시회 ‘RSAC 2022’에 참가해 ‘스파이스웨어 원(Spiceware One) ZTS’를 소개한다고 9일 ...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[고려대 소프트웨어보안연구소, 공급망 보안을 위한 SBOM 기술개발 나선다]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=107381&amp;page=1&amp;mkind=1&amp;kind=3</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=107345&amp;page=1&amp;mkind=1&amp;kind=1"/>
         <updated>2022-06-09T01:20:28.436Z</updated>
         <content type="html"><![CDATA[최근 법원을 사칭해 첨부된 파일을 실행하도록 유도하는 피싱메일이 재발견돼 사용자의 주의가 요구된다. 이스트시큐리티 시큐리티&nbsp;대응센터(ESRC)는 법원명령을&nbsp;위장한&nbsp;피싱&nbsp;메일이&nbsp;유포되고 있으며, 지난 2021년 연말에 등장했던...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[블루데이타시스템즈-극동대 해킹보안학과, 산학협력 체결]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107343&amp;page=1&amp;mkind=1&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107343&amp;page=1&amp;mkind=1&amp;kind=3"/>
-        <updated>2022-06-09T01:20:28.437Z</updated>
-        <content type="html"><![CDATA[블루데이타시스템즈(대표 이세호)와 극동대학교(총장 류기일) 해킹보안학과가 ‘사이버보안 인력양성 및 사이버 침해사고 탐지 기술 공동연구’에 대한 산학협력을 체결했다고 밝혔다.]]></content>
     </entry>
 </feed>
