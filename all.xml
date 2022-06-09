@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Jun 2022 17:24:19 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jun 2022 18:23:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -347,20 +347,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20220603_144911(%EC%8D%B8).jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[유명 협업 플랫폼인 아틀라시안 컨플루언스에서 제로데이 공격 진행 중 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107285&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107285&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Tue, 07 Jun 2022 05:20:18 GMT</pubDate>
-            <content:encoded><![CDATA[아틀라시안 컨플루언스(Atlassian Confluence)라는 유명 소프트웨어에서 발견된 초고위험도 취약점이 현재 해킹 공격에 적극 활용되는 중이다. 문제의 취...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/con-thumb-0606.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[아틀라시안 컨플루언스 취약점 악용 공격 발견! 쇼단에 노출된 서버는 무방비 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107304&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107304&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Wed, 08 Jun 2022 01:21:36 GMT</pubDate>
             <content:encoded><![CDATA[최근 아틀라시안 컨플루언스(Atlassian Confluence) 플랫폼에서 발견된 취약점(CVE-2022-26134)을 이용한 공격이 잇따라 포착돼 이용자들의 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20220607con-s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[유명 협업 플랫폼인 아틀라시안 컨플루언스에서 제로데이 공격 진행 중 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107285&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107285&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Tue, 07 Jun 2022 05:20:18 GMT</pubDate>
+            <content:encoded><![CDATA[아틀라시안 컨플루언스(Atlassian Confluence)라는 유명 소프트웨어에서 발견된 초고위험도 취약점이 현재 해킹 공격에 적극 활용되는 중이다. 문제의 취...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/con-thumb-0606.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[주요 게임사 8곳 보안 실태 조사결과 살펴보니 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
