@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Jun 2022 06:24:34 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jun 2022 07:23:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -128,14 +128,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20220607con-s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[PIS FAIR 2022] 아모레퍼시픽 백인혁 차장 “개인정보 흐름상의 유출 포인트 통제해야”]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107220&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107220&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
-            <pubDate>Mon, 06 Jun 2022 09:16:07 GMT</pubDate>
-            <content:encoded><![CDATA[아모레퍼시픽 정보보안팀 백인혁 차장은 2일 개최된 ‘PIS FAIR 2022’에서 아모레퍼시픽의 개인정보보호 실무사례를 소개하며, 개인정보보호를 위해 △개인정보 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/amorae1-C.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[주요 게임사 8곳 보안 실태 조사결과 살펴보니]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107253&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107253&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
@@ -166,6 +158,14 @@
             <pubDate>Wed, 08 Jun 2022 07:17:03 GMT</pubDate>
             <content:encoded><![CDATA[경찰청 국가수사본부는 올해 2월부터 5월 말까지 100일간 특별단속을 벌여 산업기술 유출 사범 96명을 검거했다고 6일 밝혔다. 이 중에는 전기차 배터리로 사용되...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20220606spy-s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[피해를 입힐 줄 아는 공격자들, 하다하다 허위 협박에까지 도달해]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107346&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107346&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Thu, 09 Jun 2022 07:20:05 GMT</pubDate>
+            <content:encoded><![CDATA[2000년대 초반, 지금은 대형 회사로 커버린 보안 업체 맨디언트(Mandiant)는 미국의 작은 컨설팅 업체였다. 케빈 맨디아(Kevin Mandia)는 가끔 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/threat-thumb-0608.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

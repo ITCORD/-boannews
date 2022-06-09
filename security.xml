@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-06-09T06:24:34.591Z</updated>
+    <updated>2022-06-09T07:23:32.552Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[고려대 소프트웨어보안연구소, 공급망 보안을 위한 SBOM 기술개발 나선다]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107381&amp;page=1&amp;mkind=1&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107381&amp;page=1&amp;mkind=1&amp;kind=3"/>
+        <updated>2022-06-09T07:20:17.346Z</updated>
+        <content type="html"><![CDATA[우리는 일상생활 곳곳에서 자재명세서(BOM, Bill of Materials)를 만난다. 과자 포장지 뒷면에 적힌 원재료 리스트가 그 대표적인 예다. 식품 원재료 명세서를 활용하면 누구나 쉽게 알레르기 유발 식품이나 원치 않는 식재료를 파악할 수 있고, 안전한 섭취가 ...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[국제 공조로 사이버 범죄자들의 대형 시장인 SSNDOB 폐쇄돼]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=107380&amp;page=1&amp;mkind=1&amp;kind=1</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=107343&amp;page=1&amp;mkind=1&amp;kind=3"/>
         <updated>2022-06-09T01:20:28.437Z</updated>
         <content type="html"><![CDATA[블루데이타시스템즈(대표 이세호)와 극동대학교(총장 류기일) 해킹보안학과가 ‘사이버보안 인력양성 및 사이버 침해사고 탐지 기술 공동연구’에 대한 산학협력을 체결했다고 밝혔다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[개인정보위, 개인정보보호 법규 위반 3개 사업자 제재]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107342&amp;page=1&amp;mkind=1&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107342&amp;page=1&amp;mkind=1&amp;kind=2"/>
-        <updated>2022-06-08T09:16:49.611Z</updated>
-        <content type="html"><![CDATA[개인정보보호위원회(위원장 윤종인, 이하 ‘개인정보위’)는 6월 8일(수) 제10회 전체회의를 열고, 개인정보보호 법규를 위반한 3개 사업자에 총 3,700만 원의 과징금과 2,140만 원의 과태료를 부과하기로 결정했다. 이번 조사는 해당 사업자들이 한국인터넷진흥원(KI...]]></content>
     </entry>
 </feed>
