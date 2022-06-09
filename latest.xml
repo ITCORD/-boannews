@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Jun 2022 03:27:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jun 2022 04:32:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -86,6 +86,13 @@
             <pubDate>Wed, 08 Jun 2022 04:30:00 GMT</pubDate>
             <content:encoded><![CDATA[보안 외신 핵리드에 의하면 대형 보안 업체 맨디언트(Mandiant)가 “해킹에 성공했다”는 록빗(LockBit) 갱단의 주장이 거짓이라고 반박했다고 한다...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20334853_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[KISA, 핀테크 분야 현장맞춤형 교육 프로그램 운영한다]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107367&amp;page=1&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107367&amp;page=1&amp;kind=2</guid>
+            <pubDate>Thu, 09 Jun 2022 04:28:31 GMT</pubDate>
+            <content:encoded><![CDATA[한국인터넷진흥원(KISA, 원장 이원태)은 광운대학교(총장 김종헌), 경희대학교(총장 한균태), 계명대학교(총장 신일희), 숙명여자대학교(총장 장윤금), ...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[SR, 정보보호 투자 공시 우수기업 지정]]></title>
@@ -226,14 +233,6 @@
             <guid>https://www.boannews.com/media/view.asp?idx=107350&amp;page=1&amp;kind=2</guid>
             <pubDate>Thu, 09 Jun 2022 01:20:04 GMT</pubDate>
             <content:encoded><![CDATA[부산시는 차세대 인공지능 전문가 육성 과정인 ‘아이펠(AIFFEL)’ 2기 교육생을 오는 24일까지 모집한다고 밝혔다. 작년 12월에 개설한 ‘아이펠(AI...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[화웨이, R&D 투자 성과로 11가지 핵심 발명 기술 발표]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107366&amp;page=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107366&amp;page=1&amp;kind=3</guid>
-            <pubDate>Thu, 09 Jun 2022 01:20:04 GMT</pubDate>
-            <content:encoded><![CDATA[화웨이가 중국 선전 본사에서 개최한 ‘지적재산권 창출과 혁신 추진: 혁신의 판도를 넓혀라(Creating IP, Driving Innovation: Bro...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/huawei_060901_main.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Jun 2022 03:27:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jun 2022 04:32:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -86,6 +86,13 @@
             <pubDate>Wed, 08 Jun 2022 04:30:00 GMT</pubDate>
             <content:encoded><![CDATA[보안 외신 핵리드에 의하면 대형 보안 업체 맨디언트(Mandiant)가 “해킹에 성공했다”는 록빗(LockBit) 갱단의 주장이 거짓이라고 반박했다고 한다...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20334853_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[KISA, 핀테크 분야 현장맞춤형 교육 프로그램 운영한다 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107367&amp;page=1&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107367&amp;page=1&amp;kind=2</guid>
+            <pubDate>Thu, 09 Jun 2022 04:28:31 GMT</pubDate>
+            <content:encoded><![CDATA[한국인터넷진흥원(KISA, 원장 이원태)은 광운대학교(총장 김종헌), 경희대학교(총장 한균태), 계명대학교(총장 신일희), 숙명여자대학교(총장 장윤금), ...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[SR, 정보보호 투자 공시 우수기업 지정 (보안뉴스 ─ 전체기사)]]></title>
@@ -226,14 +233,6 @@
             <guid>https://www.boannews.com/media/view.asp?idx=107350&amp;page=1&amp;kind=2</guid>
             <pubDate>Thu, 09 Jun 2022 01:20:04 GMT</pubDate>
             <content:encoded><![CDATA[부산시는 차세대 인공지능 전문가 육성 과정인 ‘아이펠(AIFFEL)’ 2기 교육생을 오는 24일까지 모집한다고 밝혔다. 작년 12월에 개설한 ‘아이펠(AI...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[화웨이, R&D 투자 성과로 11가지 핵심 발명 기술 발표 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107366&amp;page=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107366&amp;page=1&amp;kind=3</guid>
-            <pubDate>Thu, 09 Jun 2022 01:20:04 GMT</pubDate>
-            <content:encoded><![CDATA[화웨이가 중국 선전 본사에서 개최한 ‘지적재산권 창출과 혁신 추진: 혁신의 판도를 넓혀라(Creating IP, Driving Innovation: Bro...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/huawei_060901_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[주말판] 소프트웨어 엔지니어들에게 힘이 되어줄 지식들 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
@@ -396,6 +395,13 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20220606spy-s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[아카마이, RSA 컨퍼런스 2022에서 3대 인터넷 보안 위협 발표 (보안뉴스 ─ SECURITY)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107371&amp;page=1&amp;mkind=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107371&amp;page=1&amp;mkind=1&amp;kind=3</guid>
+            <pubDate>Thu, 09 Jun 2022 04:29:06 GMT</pubDate>
+            <content:encoded><![CDATA[온라인 라이프를 강력하게 지원하고 보호하는 클라우드 기업 아카마이 테크놀로지스(아카마이코리아 대표 이경준)가 RSA 컨퍼런스 2022에서 새로운 연구 보고서 3개를 발표했다고 7일(ET, 동부표준시) 밝혔다. 이 3종의 보고서는 웹 보안에서 가장 중요한 3가지 영역인 ...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[파수, ‘가트너 시큐리티 서밋 2022’에 한국 기업으로 유일하게 참가 (보안뉴스 ─ SECURITY)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107368&amp;page=1&amp;mkind=1&amp;kind=3</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107368&amp;page=1&amp;mkind=1&amp;kind=3</guid>
@@ -506,13 +512,6 @@
             <guid>https://www.boannews.com/media/view.asp?idx=107334&amp;page=1&amp;mkind=1&amp;kind=1</guid>
             <pubDate>Wed, 08 Jun 2022 04:30:28 GMT</pubDate>
             <content:encoded><![CDATA[보안 외신 해커뉴스에 의하면 애플이 새로운 보안 기능을 iOS 16과 맥OS 벤투라에 추가했다고 한다. 이 기능의 이름은 ‘신속 보안 대응(Rapid Security Response)’이라고 하며, 보안 관련 업데이트 내용을 자동으로 적용한다. 이 때 OS 전체를 업데...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[폴리나 취약점, 국가 지원 해커들에 의해 익스플로잇 되고 있어 (보안뉴스 ─ SECURITY)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107333&amp;page=1&amp;mkind=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107333&amp;page=1&amp;mkind=1&amp;kind=1</guid>
-            <pubDate>Wed, 08 Jun 2022 04:30:28 GMT</pubDate>
-            <content:encoded><![CDATA[보안 외신 쓰레트포스트에 의하면 얼마 전 MS 생태계에서 발견된 취약점인 폴리나(Follina)가 실제 해킹 공격에 활용되고 있다고 한다. 보안 업체 프루프포인트(Proofpoint)에 의하면 국가의 지원을 받는 해커들이 폴리나 취약점을 익스플로잇 함으로써 미국과 유럽...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[과기정통부, ‘인공지능 월드 2022: 기술과 미래’ 개최 (보안뉴스 ─ IT)]]></title>
