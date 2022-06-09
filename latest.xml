@@ -4,16 +4,24 @@
         <title>보안뉴스 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Jun 2022 08:27:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jun 2022 09:22:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[보안 솔루션 사칭한 악성 앱이 사용자 정보를 노린다]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107387&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107387&amp;page=1&amp;kind=1</guid>
+            <pubDate>Thu, 09 Jun 2022 09:19:15 GMT</pubDate>
+            <content:encoded><![CDATA[모바일 기기를 대상으로 하는 사이버 공격은 보이스피싱과 몸캠피싱은 물론 스미싱 등 다양하다. 수법이 더 다양화되고 정교해지면서 피해 금액도 상당한 수준이다...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/esrc_060901_main.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[Weekly Security Premium Report 제54호 발간! 최신 개인정보보호 이슈분석]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107386&amp;page=1&amp;kind=3</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107386&amp;page=1&amp;kind=3</guid>
             <pubDate>Thu, 09 Jun 2022 08:23:45 GMT</pubDate>
             <content:encoded><![CDATA[6월 9일 발간된 ‘Weekly Security Premium Report’ 제54호에는 &lt;보안 심층 리포트&gt; 코너에서 지난 6월 2일부터 3일...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20220527REPORT-M.JPG" length="0" type="image/JPG"/>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20220527REPORT-MS.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[신규 랜섬웨어 그룹 블랙바스타, 윈도를 넘어 가상기계들도 노리기 시작해]]></title>
@@ -78,14 +86,6 @@
             <pubDate>Thu, 09 Jun 2022 03:24:21 GMT</pubDate>
             <content:encoded><![CDATA[기업 보안책임자를 중심으로 한 산업보안 분야 전문가 단체인 한국기업보안협의회(KCSC, 회장 신현구)가 ‘제72차 Security Round Table’을...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/22060901ss.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[개인정보 처리·활용 관련 알쏭달쏭 9가지 사례, 판례로 풀어보기]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107344&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107344&amp;page=1&amp;kind=2</guid>
-            <pubDate>Thu, 09 Jun 2022 01:20:04 GMT</pubDate>
-            <content:encoded><![CDATA[필기시험 응시자에게 신원조회 서류 요구는 가능할까?  PC방 주인은 개인정보 처리자일까? 타인에 관한 개인정보 공개 요구는 개인정보보호법 적용대상일까? 어...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/21729089-c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한국디지털포렌식센터, 용인대 산학협력단과 디지털콘텐츠 저작권 보호 협력]]></title>
@@ -175,6 +175,14 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/kisia_060901_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[개인정보 처리·활용 관련 알쏭달쏭 9가지 사례, 판례로 풀어보기]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107344&amp;page=1&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107344&amp;page=1&amp;kind=2</guid>
+            <pubDate>Thu, 09 Jun 2022 01:20:04 GMT</pubDate>
+            <content:encoded><![CDATA[필기시험 응시자에게 신원조회 서류 요구는 가능할까?  PC방 주인은 개인정보 처리자일까? 타인에 관한 개인정보 공개 요구는 개인정보보호법 적용대상일까? 어...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/21729089-c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[포스코ICT, 아주대와 함께 AI 인재 키운다]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107364&amp;page=1&amp;kind=3</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107364&amp;page=1&amp;kind=3</guid>
@@ -232,13 +240,6 @@
             <guid>https://www.boannews.com/media/view.asp?idx=107357&amp;page=1&amp;kind=2</guid>
             <pubDate>Thu, 09 Jun 2022 01:20:04 GMT</pubDate>
             <content:encoded><![CDATA[행정안전부와 한국조폐공사는 총 4,000만건의 지역사랑상품권 거래정보 데이터를 바탕으로 ‘의심거래 탐지모델’을 개발해 4개 지자체에 시범 적용한다고 밝혔다...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[우수한 과학기술을 고객과 시장으로 확산하는 과학기술 창업팀 육성한다]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107356&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107356&amp;page=1&amp;kind=2</guid>
-            <pubDate>Thu, 09 Jun 2022 01:20:04 GMT</pubDate>
-            <content:encoded><![CDATA[과학기술정보통신부는 지난 8일 2022년 공공기술 기반 시장 연계 창업 탐색 지원 사업(한국형 아이코어) 발대식을 개최해 ‘한국형 아이코어(I-Corps)...]]></content:encoded>
         </item>
     </channel>
 </rss>
