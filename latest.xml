@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Jun 2022 05:19:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jun 2022 06:24:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -86,6 +86,22 @@
             <pubDate>Thu, 09 Jun 2022 01:20:04 GMT</pubDate>
             <content:encoded><![CDATA[우리는 클라우드로 체제를 바꾸면서 ‘사용한 만큼 비용을 낸다(pay-per-use)’는 과금 모델을 받아들이는 데에 동의했다. 이는 하드웨어와 소프트웨어를...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20517938_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[에스원, 재택근무 확산 영향 ‘클라우드 솔루션’ 수요 급증]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107383&amp;page=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107383&amp;page=1&amp;kind=3</guid>
+            <pubDate>Thu, 09 Jun 2022 06:20:48 GMT</pubDate>
+            <content:encoded><![CDATA[에스원에서 출시한 ‘클라우드 솔루션’이 코로나19 팬데믹으로 인한 재택근무 확산에 따라 수요가 급증하고 있다.]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20220609-01-S-ONE(sum).jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한국IDC, 대구시청과 한국토지주택공사 포함 22개 스마트시티 최우수 프로젝트 선정]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107382&amp;page=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107382&amp;page=1&amp;kind=3</guid>
+            <pubDate>Thu, 09 Jun 2022 06:20:48 GMT</pubDate>
+            <content:encoded><![CDATA[IT 시장분석 및 컨설팅 기관인 한국IDC(International Data Corporation Korea Ltd., 이하 한국IDC)는 제8회 스마트시...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/22060904ss.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[스파이스웨어, ‘RSAC 2022’서 제로 트러스트 보안 제품 ‘스파이스웨어 원’ 소개]]></title>
@@ -221,20 +237,6 @@
             <guid>https://www.boannews.com/media/view.asp?idx=107354&amp;page=1&amp;kind=2</guid>
             <pubDate>Thu, 09 Jun 2022 01:20:04 GMT</pubDate>
             <content:encoded><![CDATA[과학기술정보통신부는 국가차원 전략기술에 대한 체계 정립과 육성 본격화를 위해 기술 및 외교·안보 전문성을 가진 전문가기획자문단을 구성하고 지난 8일 첫 번...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[과기정통부, 제2차 인공지능 윤리정책 포럼 개최]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107353&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107353&amp;page=1&amp;kind=2</guid>
-            <pubDate>Thu, 09 Jun 2022 01:20:04 GMT</pubDate>
-            <content:encoded><![CDATA[과학기술정보통신부는 인공지능 윤리를 사회적으로 확산하고 민간의 자율규제 환경을 조성하기 위한 논의의 장을 열기 위해 정보통신정책연구원(KISDI)·한국정보...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[중기부, 2022년 스마트상점 기술보급사업 참여 소상공인 추가 모집]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107352&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107352&amp;page=1&amp;kind=2</guid>
-            <pubDate>Thu, 09 Jun 2022 01:20:04 GMT</pubDate>
-            <content:encoded><![CDATA[중소벤처기업부는 ‘스마트상점 기술보급사업’에 참여할 소상공인을 9일부터 추가 모집한다고 밝혔다. ‘스마트상점 기술보급사업’은 소상공인 상점에 사물인터넷(I...]]></content:encoded>
         </item>
     </channel>
 </rss>
