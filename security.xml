@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-06-09T09:22:45.344Z</updated>
+    <updated>2022-06-09T10:23:18.188Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[신규 랜섬웨어 그룹 블랙바스타, 윈도를 넘어 가상기계들도 노리기 시작해]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107384&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107384&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-06-09T10:20:30.991Z</updated>
+        <content type="html"><![CDATA[블랙바스타(Black Basta)라는 랜섬웨어 공격 단체가 지난 달 처음 등장해 윈도 기반 시스템들을 노리기 시작했다. 그런데 지금은 VM웨어(VMware)의 가상기계들까지도 공략하고 있다. 공격자들의 빠른 세력 확장과 기술력 보강이 점점 더 위협적으로 다가온다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[‘하이웍스 업데이트’ 사칭 악성 메일, 클릭하면 계정정보 훔친다]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=107372&amp;page=1&amp;mkind=1&amp;kind=1</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=107366&amp;page=1&amp;mkind=1&amp;kind=3"/>
         <updated>2022-06-09T03:24:41.583Z</updated>
         <content type="html"><![CDATA[화웨이가 중국 선전 본사에서 개최한 ‘지적재산권 창출과 혁신 추진: 혁신의 판도를 넓혀라(Creating IP, Driving Innovation: Broadening the Innovation Landscape)’ 포럼에서 11개의 핵심 발명 기술을 발표했다. 이번 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[피해를 입힐 줄 아는 공격자들, 하다하다 허위 협박에까지 도달해]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107346&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107346&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-06-09T01:20:28.436Z</updated>
-        <content type="html"><![CDATA[2000년대 초반, 지금은 대형 회사로 커버린 보안 업체 맨디언트(Mandiant)는 미국의 작은 컨설팅 업체였다. 케빈 맨디아(Kevin Mandia)는 가끔 의뢰가 들어올 때마다 사건 대응을 하러 사무실 밖으로 나서곤 했다. 십수 년이 넉넉히 흐른 지금 그 작은 회...]]></content>
     </entry>
 </feed>
