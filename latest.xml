@@ -4,9 +4,57 @@
         <title>보안뉴스 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 09 Jun 2022 04:32:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Jun 2022 05:19:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[‘하이웍스 업데이트’ 사칭 악성 메일, 클릭하면 계정정보 훔친다]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107372&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107372&amp;page=1&amp;kind=1</guid>
+            <pubDate>Thu, 09 Jun 2022 05:15:29 GMT</pubDate>
+            <content:encoded><![CDATA[최근 가비아의 이메일 서비스 ‘하이웍스(hiworks)’를 사칭한 악성메일이 급증해 사용자의 주의가 요구된다. 발견된 악성메일은 대부분 이메일이나 비밀번호...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/hiworks_060902_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[국제 공조로 사이버 범죄자들의 대형 시장인 SSNDOB 폐쇄돼]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107380&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107380&amp;page=1&amp;kind=1</guid>
+            <pubDate>Thu, 09 Jun 2022 05:15:29 GMT</pubDate>
+            <content:encoded><![CDATA[국제 사법 기관들의 공조로 대형 다크웹 시장 하나가 폐쇄됐다고 보안 블로그 시큐리티 어페어즈가 밝혔다. 이 시장의 이름은 SSNDOB이며, 약 2400만 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20779132_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[텔레그램, 독일 당국과 사용자 개인정보 공유했다]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107379&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107379&amp;page=1&amp;kind=1</guid>
+            <pubDate>Thu, 09 Jun 2022 05:15:29 GMT</pubDate>
+            <content:encoded><![CDATA[보안 외신 핵리드에 의하면 종단간 암호화 메신저 애플리케이션인 텔레그램(Telegram)이 사용자의 개인정보를 독일 경찰과 공유한 사실이 밝혀졌다고 한다....]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/21859164_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[MS 윈도에서 발견된 또 다른 제로데이 취약점, 도그워크]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107378&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107378&amp;page=1&amp;kind=1</guid>
+            <pubDate>Thu, 09 Jun 2022 05:15:29 GMT</pubDate>
+            <content:encoded><![CDATA[보안 외신 해커뉴스에 의하면 MS 윈도에서 제로데이 취약점이 발견됐다고 한다. 이 취약점의 이름은 도그워크(DogWalk)이며, 일종의 경로 조작 취약점으...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20833193_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[칼리 리눅스 팀, 무료 모의 해킹 강좌를 트위치에서 제공]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107377&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107377&amp;page=1&amp;kind=1</guid>
+            <pubDate>Thu, 09 Jun 2022 05:15:29 GMT</pubDate>
+            <content:encoded><![CDATA[IT 외신 블리핑컴퓨터에 의하면 칼리 리눅스(Kali Linux)를 만든 보안 업체 오펜시브시큐리티(Offensive Security)가 이번 달부터 트위...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/21487261_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[랜섬웨에 공격의 피해자들, 돈을 냈어도 80%가 다시 공격 받았다]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107376&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107376&amp;page=1&amp;kind=1</guid>
+            <pubDate>Thu, 09 Jun 2022 05:15:29 GMT</pubDate>
+            <content:encoded><![CDATA[보안 외신 시큐리티위크에 의하면 랜섬웨에 공격자들에게 돈을 내봐야 소용이 없다는 연구 결과가 나왔다고 한다. 랜섬웨어 공격에 당해 돈을 낸 기업들의 80%...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/21878869_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[보안담당자가 꼭 알아야 할 기술 유출 예방 및 사후대처 방안은?]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107370&amp;page=1&amp;kind=3</link>
@@ -40,52 +88,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20517938_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[피해를 입힐 줄 아는 공격자들, 하다하다 허위 협박에까지 도달해]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107346&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107346&amp;page=1&amp;kind=1</guid>
-            <pubDate>Wed, 08 Jun 2022 09:16:22 GMT</pubDate>
-            <content:encoded><![CDATA[2000년대 초반, 지금은 대형 회사로 커버린 보안 업체 맨디언트(Mandiant)는 미국의 작은 컨설팅 업체였다. 케빈 맨디아(Kevin Mandia)는...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/threat-thumb-0608.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[스파이스웨어, ‘RSAC 2022’서 제로 트러스트 보안 제품 ‘스파이스웨어 원’ 소개]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107375&amp;page=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107375&amp;page=1&amp;kind=3</guid>
+            <pubDate>Thu, 09 Jun 2022 05:15:29 GMT</pubDate>
+            <content:encoded><![CDATA[데이터 중심 제로 트러스트 보안 스타트업 스파이스웨어(대표 김근진)는 미국 샌프란시스코에서 6~9일(현지시간)까지 나흘간 개최되는 세계 최대 규모 사이버 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/ZTS-C.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[‘법원명령’ 메일 받았다고? 알고 보니 피싱 메일]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107345&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107345&amp;page=1&amp;kind=1</guid>
-            <pubDate>Wed, 08 Jun 2022 09:16:22 GMT</pubDate>
-            <content:encoded><![CDATA[최근 법원을 사칭해 첨부된 파일을 실행하도록 유도하는 피싱메일이 재발견돼 사용자의 주의가 요구된다. 이스트시큐리티 시큐리티&nbsp;대응센터(ESRC)는 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/esrc_060801_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[개인정보위, 개인정보보호 법규 위반 3개 사업자 제재]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107342&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107342&amp;page=1&amp;kind=2</guid>
-            <pubDate>Wed, 08 Jun 2022 07:16:48 GMT</pubDate>
-            <content:encoded><![CDATA[개인정보보호위원회(위원장 윤종인, 이하 ‘개인정보위’)는 6월 8일(수) 제10회 전체회의를 열고, 개인정보보호 법규를 위반한 3개 사업자에 총 3,700...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/pipc_060801_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2025년 글로벌 OT 보안 시장 ‘102억 달러’ 규모로 전망]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107339&amp;page=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107339&amp;page=1&amp;kind=3</guid>
-            <pubDate>Wed, 08 Jun 2022 05:15:56 GMT</pubDate>
-            <content:encoded><![CDATA[최근 효과적인 운영기술(OT) 보안을 구축하려는 기관들이 늘어나면서 OT 보안 전문가 부족 현상이 더욱 심화되고 있으며, 이로 인해 OT 보안 전문 기업들...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/21865747_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[최근 패치된 자이젤 방화벽 취약점의 기술 정보 공개돼]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107337&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107337&amp;page=1&amp;kind=1</guid>
-            <pubDate>Wed, 08 Jun 2022 04:30:00 GMT</pubDate>
-            <content:encoded><![CDATA[보안 외신 시큐리티위크에 의하면 최근 패치된 자이젤(Zyxel) 방화벽 취약점들에 대한 기술 정보가 공개됐다고 한다. 공개한 건 취약점 최초 발견자이자 제...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/19754035_copy_295x190_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[맨디언트, 록빗의 해킹 공격 주장 부인해]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107336&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107336&amp;page=1&amp;kind=1</guid>
-            <pubDate>Wed, 08 Jun 2022 04:30:00 GMT</pubDate>
-            <content:encoded><![CDATA[보안 외신 핵리드에 의하면 대형 보안 업체 맨디언트(Mandiant)가 “해킹에 성공했다”는 록빗(LockBit) 갱단의 주장이 거짓이라고 반박했다고 한다...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20334853_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[고려대 소프트웨어보안연구소, 공급망 보안을 위한 SBOM 기술개발 나선다]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107381&amp;page=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107381&amp;page=1&amp;kind=3</guid>
+            <pubDate>Thu, 09 Jun 2022 05:15:29 GMT</pubDate>
+            <content:encoded><![CDATA[우리는 일상생활 곳곳에서 자재명세서(BOM, Bill of Materials)를 만난다. 과자 포장지 뒷면에 적힌 원재료 리스트가 그 대표적인 예다. 식품...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/korea_060901_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[KISA, 핀테크 분야 현장맞춤형 교육 프로그램 운영한다]]></title>
@@ -219,20 +235,6 @@
             <guid>https://www.boannews.com/media/view.asp?idx=107352&amp;page=1&amp;kind=2</guid>
             <pubDate>Thu, 09 Jun 2022 01:20:04 GMT</pubDate>
             <content:encoded><![CDATA[중소벤처기업부는 ‘스마트상점 기술보급사업’에 참여할 소상공인을 9일부터 추가 모집한다고 밝혔다. ‘스마트상점 기술보급사업’은 소상공인 상점에 사물인터넷(I...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[한덕수 국무총리, 자율주행로봇 규제샌드박스 기업 현장 방문]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107351&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107351&amp;page=1&amp;kind=2</guid>
-            <pubDate>Thu, 09 Jun 2022 01:20:04 GMT</pubDate>
-            <content:encoded><![CDATA[한덕수 국무총리는 지난 8일 자율주행로봇 전문기업인 로보티즈를 방문했다. 이날 방문은 정부의 신산업 규제혁신 추진 방향에 대해 기업과 직접 소통함으로써 규...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[부산시, 부산디지털혁신아카데미 인공지능 전문인력 양성과정 교육생 모집]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107350&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107350&amp;page=1&amp;kind=2</guid>
-            <pubDate>Thu, 09 Jun 2022 01:20:04 GMT</pubDate>
-            <content:encoded><![CDATA[부산시는 차세대 인공지능 전문가 육성 과정인 ‘아이펠(AIFFEL)’ 2기 교육생을 오는 24일까지 모집한다고 밝혔다. 작년 12월에 개설한 ‘아이펠(AI...]]></content:encoded>
         </item>
     </channel>
 </rss>
