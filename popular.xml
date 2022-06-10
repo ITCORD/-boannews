@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Jun 2022 18:27:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jun 2022 19:17:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -112,20 +112,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/esrc_060801_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[피해를 입힐 줄 아는 공격자들, 하다하다 허위 협박에까지 도달해]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107346&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107346&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Thu, 09 Jun 2022 07:20:05 GMT</pubDate>
-            <content:encoded><![CDATA[2000년대 초반, 지금은 대형 회사로 커버린 보안 업체 맨디언트(Mandiant)는 미국의 작은 컨설팅 업체였다. 케빈 맨디아(Kevin Mandia)는 가끔 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/threat-thumb-0608.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[2025년 글로벌 OT 보안 시장 ‘102억 달러’ 규모로 전망]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107339&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107339&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
             <pubDate>Thu, 09 Jun 2022 08:24:01 GMT</pubDate>
             <content:encoded><![CDATA[최근 효과적인 운영기술(OT) 보안을 구축하려는 기관들이 늘어나면서 OT 보안 전문가 부족 현상이 더욱 심화되고 있으며, 이로 인해 OT 보안 전문 기업들의 성장...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/21865747_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[피해를 입힐 줄 아는 공격자들, 하다하다 허위 협박에까지 도달해]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107346&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107346&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Thu, 09 Jun 2022 07:20:05 GMT</pubDate>
+            <content:encoded><![CDATA[2000년대 초반, 지금은 대형 회사로 커버린 보안 업체 맨디언트(Mandiant)는 미국의 작은 컨설팅 업체였다. 케빈 맨디아(Kevin Mandia)는 가끔 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/threat-thumb-0608.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[‘하이웍스 업데이트’ 사칭 악성 메일, 클릭하면 계정정보 훔친다]]></title>
@@ -160,12 +160,12 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/pisfair2022_0606_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[랜섬웨어 산업에 스며드는 어두움, BEC가 활로될 수 있을까]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107306&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107306&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Fri, 10 Jun 2022 09:16:23 GMT</pubDate>
-            <content:encoded><![CDATA[사법 기관의 체포 활동과 암호화폐 규정이 점점 엄격해지고 있는 가운데 랜섬웨어 사업자들의 수익이 점점 낮아지고 있다고 한다. 앱노멀시큐리티(Abnormal Sec...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/21908049_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[신규 랜섬웨어 그룹 블랙바스타, 윈도를 넘어 가상기계들도 노리기 시작해]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107384&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107384&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Fri, 10 Jun 2022 19:13:55 GMT</pubDate>
+            <content:encoded><![CDATA[블랙바스타(Black Basta)라는 랜섬웨어 공격 단체가 지난 달 처음 등장해 윈도 기반 시스템들을 노리기 시작했다. 그런데 지금은 VM웨어(VMware)의 가...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/21412442_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
