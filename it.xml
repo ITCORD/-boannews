@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=2</id>
     <title>보안뉴스 ─ IT</title>
-    <updated>2022-06-10T01:28:16.308Z</updated>
+    <updated>2022-06-10T03:23:54.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[KAIST, 사람처럼 느끼고 상처 치유가 가능한 로봇 피부 기술 개발​::]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107404&amp;page=1&amp;mkind=2&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107404&amp;page=1&amp;mkind=2&amp;kind=2"/>
+        <updated>2022-06-10T03:21:12.345Z</updated>
+        <content type="html"><![CDATA[KAIST 기계공학과 김정 교수 연구팀이 메사추세츠 공과대학(MIT), 슈투트가르트대의 연구자들과 공동 연구를 통해 ‘넓은 면적에 대해 다양한 외부 촉각 자극을 인지할 수 있으며, 칼로 베어져도 다시 기능을 회복할 수 있는 로봇 피부 기술’을 개발했다고 밝혔다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[삼성SDS, 우정항공과 항공물류사업 상생 협력]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=107403&amp;page=1&amp;mkind=2&amp;kind=3</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=107355&amp;page=1&amp;mkind=2&amp;kind=2"/>
         <updated>2022-06-09T01:20:41.479Z</updated>
         <content type="html"><![CDATA[행정안전부는 행정의 신속성과 정확성 향상을 위해 정부 업무에 대한 로봇업무처리자동화(RPA)를 시범적으로 도입하기 위해 과기정통부 등 중앙부처 6개 기관의 7개 과제를 대상으로 해당 사업 계획을 마련하고 본격 추진한다고 밝혔다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[과기정통부, 민간 전문가와 함께 초격차 전략기술 육성 가속화]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107354&amp;page=1&amp;mkind=2&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107354&amp;page=1&amp;mkind=2&amp;kind=2"/>
-        <updated>2022-06-09T01:20:41.480Z</updated>
-        <content type="html"><![CDATA[과학기술정보통신부는 국가차원 전략기술에 대한 체계 정립과 육성 본격화를 위해 기술 및 외교·안보 전문성을 가진 전문가기획자문단을 구성하고 지난 8일 첫 번째 간담회를 개최했다.]]></content>
     </entry>
 </feed>
