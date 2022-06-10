@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-06-10T09:19:43.889Z</updated>
+    <updated>2022-06-10T10:21:47.058Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“차별화된 AI 지식관리 솔루션 선보인다” 엠클라우독 신제품 출시 세미나]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107420&amp;page=1&amp;mkind=1&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107420&amp;page=1&amp;mkind=1&amp;kind=3"/>
+        <updated>2022-06-10T10:19:03.774Z</updated>
+        <content type="html"><![CDATA[엠클라우독(대표 유상열)이 6월 7일 롯데월드 타워에서 인공지능 지식관리 솔루션 아이독(AIDOC)의 출시기념 세미나를 진행했다. 세미나는 문서관리와 관련된 세계적인 기술의 흐름을 분석한 후에 제품을 소개하는 순서로 진행됐다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[6월 첫째 주, 정보탈취 ‘인포스틸러’ 악성코드 국내 유포 기승 부렸다]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=107419&amp;page=1&amp;mkind=1&amp;kind=1</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=107381&amp;page=1&amp;mkind=1&amp;kind=3"/>
         <updated>2022-06-09T07:20:17.346Z</updated>
         <content type="html"><![CDATA[우리는 일상생활 곳곳에서 자재명세서(BOM, Bill of Materials)를 만난다. 과자 포장지 뒷면에 적힌 원재료 리스트가 그 대표적인 예다. 식품 원재료 명세서를 활용하면 누구나 쉽게 알레르기 유발 식품이나 원치 않는 식재료를 파악할 수 있고, 안전한 섭취가 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국제 공조로 사이버 범죄자들의 대형 시장인 SSNDOB 폐쇄돼]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107380&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107380&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-06-09T05:15:59.722Z</updated>
-        <content type="html"><![CDATA[국제 사법 기관들의 공조로 대형 다크웹 시장 하나가 폐쇄됐다고 보안 블로그 시큐리티 어페어즈가 밝혔다. 이 시장의 이름은 SSNDOB이며, 약 2400만 명의 개인정보가 거래되고 있었다. 이 시장 운영진들은 1900만 달러 이상의 수익을 거두고 있던 것으로 알려져 있다...]]></content>
     </entry>
 </feed>

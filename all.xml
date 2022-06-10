@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Jun 2022 09:19:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jun 2022 10:21:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[1년 반 동안 죽어 지냈던 이모텟, 슬슬 살아날 조짐 보인다 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107423&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107423&amp;page=1&amp;kind=1</guid>
+            <pubDate>Fri, 10 Jun 2022 10:18:28 GMT</pubDate>
+            <content:encoded><![CDATA[악명 높은 봇넷 멀웨어인 이모텟(Emotet)이 되살아났다. 2021년 1월 국제적인 공조로 폐쇄된 조직 및 공격 인프라가 약 1년 반 만에 부활한 것이다...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20872051_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[정보보호제품 성능평가 제도, EDR 추가하고 평가기준 강화된다 (보안뉴스 ─ 전체기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107422&amp;page=1&amp;kind=2</link>
@@ -78,14 +86,6 @@
             <pubDate>Fri, 10 Jun 2022 01:25:14 GMT</pubDate>
             <content:encoded><![CDATA[이제 클라우드로 체제를 옮겨가는 건 할까 말까의 문제가 아니라 시점의 문제다. 사실상 모든 기업들이 이런 방향에서 클라우드를 고민하고 있다. 여기에 더해 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/3-thumb-0608.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[제주도, 인공지능 CCTV 활용한 실종자 수색·추적 신기술 개발 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107390&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107390&amp;page=1&amp;kind=2</guid>
-            <pubDate>Fri, 10 Jun 2022 01:25:14 GMT</pubDate>
-            <content:encoded><![CDATA[제주도는 최근 잇따르는 발달장애인, 치매 어르신 등의 실종 사건과 관련해 사회적 약자의 안전을 확보하기 위해 실종자 수색과 추적 신기술 개발을 추진한다. ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20220610jeju-s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아크로니스, ‘아크로니스 사이버 프로텍트 클라우드’ 출시 (보안뉴스 ─ 전체기사)]]></title>
@@ -399,6 +399,13 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/21908049_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[“차별화된 AI 지식관리 솔루션 선보인다” 엠클라우독 신제품 출시 세미나 (보안뉴스 ─ SECURITY)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107420&amp;page=1&amp;mkind=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107420&amp;page=1&amp;mkind=1&amp;kind=3</guid>
+            <pubDate>Fri, 10 Jun 2022 10:19:03 GMT</pubDate>
+            <content:encoded><![CDATA[엠클라우독(대표 유상열)이 6월 7일 롯데월드 타워에서 인공지능 지식관리 솔루션 아이독(AIDOC)의 출시기념 세미나를 진행했다. 세미나는 문서관리와 관련된 세계적인 기술의 흐름을 분석한 후에 제품을 소개하는 순서로 진행됐다.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[6월 첫째 주, 정보탈취 ‘인포스틸러’ 악성코드 국내 유포 기승 부렸다 (보안뉴스 ─ SECURITY)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107419&amp;page=1&amp;mkind=1&amp;kind=1</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107419&amp;page=1&amp;mkind=1&amp;kind=1</guid>
@@ -509,13 +516,6 @@
             <guid>https://www.boannews.com/media/view.asp?idx=107381&amp;page=1&amp;mkind=1&amp;kind=3</guid>
             <pubDate>Thu, 09 Jun 2022 07:20:17 GMT</pubDate>
             <content:encoded><![CDATA[우리는 일상생활 곳곳에서 자재명세서(BOM, Bill of Materials)를 만난다. 과자 포장지 뒷면에 적힌 원재료 리스트가 그 대표적인 예다. 식품 원재료 명세서를 활용하면 누구나 쉽게 알레르기 유발 식품이나 원치 않는 식재료를 파악할 수 있고, 안전한 섭취가 ...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[국제 공조로 사이버 범죄자들의 대형 시장인 SSNDOB 폐쇄돼 (보안뉴스 ─ SECURITY)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107380&amp;page=1&amp;mkind=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107380&amp;page=1&amp;mkind=1&amp;kind=1</guid>
-            <pubDate>Thu, 09 Jun 2022 05:15:59 GMT</pubDate>
-            <content:encoded><![CDATA[국제 사법 기관들의 공조로 대형 다크웹 시장 하나가 폐쇄됐다고 보안 블로그 시큐리티 어페어즈가 밝혔다. 이 시장의 이름은 SSNDOB이며, 약 2400만 명의 개인정보가 거래되고 있었다. 이 시장 운영진들은 1900만 달러 이상의 수익을 거두고 있던 것으로 알려져 있다...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[KAIST, 사람처럼 느끼고 상처 치유가 가능한 로봇 피부 기술 개발​:: (보안뉴스 ─ IT)]]></title>
@@ -1892,6 +1892,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/5-184(295).jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[1년 반 동안 죽어 지냈던 이모텟, 슬슬 살아날 조짐 보인다 (보안뉴스 ─ 국제)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107423&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107423&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
+            <pubDate>Fri, 10 Jun 2022 10:20:55 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/view.asp?idx=107423&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
+					
+					<img src="/media/upFiles2/2022/06/20872051_copy_295x190_1.jpg" alt="" class="news_img" height="70">
+					
+					<span class="news_txt">1년 반 동안 죽어 지냈던 이모텟, 슬슬 살아날 조짐 보인다</span>
+					</a><br>
+					<a href="/media/view.asp?idx=107423&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">악명 높은 봇넷 멀웨어인 이모텟(Emotet)이 되살아났다. 2021년 1월 국제적인 공조로 폐쇄된 조직 및 공격 인프라가 약 1년 반 만에 부활한 것이다. 국제...</a> <span class="news_writer">문가용 기자 | 2022년 06월 10일 19:02</span>]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20872051_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[이상한 랜섬웨어, 복호화 키를 로블록스 게임 내에서 판매 (보안뉴스 ─ 국제)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107415&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107415&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
@@ -2156,20 +2170,6 @@
 					</a><br>
 					<a href="/media/view.asp?idx=107333&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">보안 외신 쓰레트포스트에 의하면 얼마 전 MS 생태계에서 발견된 취약점인 폴리나(Follina)가 실제 해킹 공격에 활용되고 있다고 한다. 보안 업체 프루프포인트...</a> <span class="news_writer">문가용 기자 | 2022년 06월 08일 11:47</span>]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20220723_copy_295x190_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[와이파이 6를 요구하는 소비자들의 움직임은 기업보다 앞서 있다 (보안뉴스 ─ 국제)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107286&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=D&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107286&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=D&amp;search=title&amp;find=</guid>
-            <pubDate>Wed, 08 Jun 2022 03:25:26 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/view.asp?idx=107286&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=D&amp;search=title&amp;find=">
-					
-					<img src="/media/upFiles2/2022/06/wifi-thumb-0606.jpg" alt="" class="news_img" height="70">
-					
-					<span class="news_txt">와이파이 6를 요구하는 소비자들의 움직임은 기업보다 앞서 있다</span>
-					</a><br>
-					<a href="/media/view.asp?idx=107286&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=D&amp;search=title&amp;find=">IT의 상품화라는 것이 그 대상을 일반 개인 소비자에서 기업과 정부 기관으로 확장시켜 가고 있다. 소비자들이 자신의 각종 IT 장비들을 업무 환경에 자진해서 들고...</a> <span class="news_writer">문가용 기자 | 2022년 06월 08일 11:19</span>]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/wifi-thumb-0606.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[보안 실무·책임자가 선호하는 영상보안 장비 제조사는 어디? (보안뉴스 ─ 기획특집)]]></title>
