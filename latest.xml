@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 10 Jun 2022 05:18:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Jun 2022 06:22:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -86,6 +86,22 @@
             <pubDate>Thu, 09 Jun 2022 08:23:45 GMT</pubDate>
             <content:encoded><![CDATA[6월 9일 발간된 ‘Weekly Security Premium Report’ 제54호에는 &lt;보안 심층 리포트&gt; 코너에서 지난 6월 2일부터 3일...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20220527REPORT-MS.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[우경정보기술, 2022 채널데이 성황리 개최... “파트너와 상생하는 한 해 만들 것”]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107418&amp;page=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107418&amp;page=1&amp;kind=3</guid>
+            <pubDate>Fri, 10 Jun 2022 06:19:45 GMT</pubDate>
+            <content:encoded><![CDATA[인공지능(AI) 영상분석 전문기업 우경정보기술(대표 박윤하)이 지난 9일 서울 양재동 엘타워에서 '2022 우경정보기술 채널데이'를 성황리에 개최했다고 1...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20220610WOO-S.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[[신간] 쉽게 이해하고 적용하는 ESG 투자와 경영]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107417&amp;page=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107417&amp;page=1&amp;kind=3</guid>
+            <pubDate>Fri, 10 Jun 2022 06:19:45 GMT</pubDate>
+            <content:encoded><![CDATA[121개국이 참여하여 전 세계적 주요 쟁점인 2050 탄소중립 시대를 맞아 중요성이 더 커진 환경, 사회, 지배구조(ESG) 관점에서 투자자들이 어떻게 기...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20220610books-sm.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[안랩, ‘다양성의 확대를 위해‘ 주제로 전사 ESG 교육 진행]]></title>
@@ -220,20 +236,6 @@
             <pubDate>Fri, 10 Jun 2022 01:25:14 GMT</pubDate>
             <content:encoded><![CDATA[이종호 과학기술정보통신부 장관은 지난 9일(목) 한국표준과학연구원을 방문해 ‘50큐비트 양자컴퓨터 구축 및 양자인터넷 개발 착수 보고회’를 가졌다.]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20220610moip-s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[해양경찰청, 해양안전정보 공공데이터로 구축·개방]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107391&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107391&amp;page=1&amp;kind=2</guid>
-            <pubDate>Fri, 10 Jun 2022 01:25:14 GMT</pubDate>
-            <content:encoded><![CDATA[해양경찰청은 행정안전부 주관 공공데이터 지원 사업에 선정돼 해양안전 분야 데이터를 연내 개방한다고 밝혔다. 해양경찰청은 그동안 책자 형식으로 관리돼 활용이...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[세종시교육청, 가상현실(VR) 기기로 안전 배운다]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107389&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107389&amp;page=1&amp;kind=2</guid>
-            <pubDate>Fri, 10 Jun 2022 01:25:14 GMT</pubDate>
-            <content:encoded><![CDATA[세종시교육청 안전체험교육원은 10일부터 세종시 초(5학년 이상)·중·고등학생들을 대상으로 화재안전 체험이 가능한 가상현실(VR) 기기 대여 서비스를 운영한...]]></content:encoded>
         </item>
     </channel>
 </rss>
