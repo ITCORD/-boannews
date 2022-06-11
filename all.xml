@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Jun 2022 01:20:02 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Jun 2022 03:21:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -375,6 +375,14 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/esrc_060901_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[이상한 랜섬웨어, 복호화 키를 로블록스 게임 내에서 판매 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107415&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107415&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Sat, 11 Jun 2022 01:16:27 GMT</pubDate>
+            <content:encoded><![CDATA[새로운 랜섬웨어가 등장했다고 외신인 블리핑컴퓨터가 보도했다. 이 랜섬웨어 운영자들은 복호화 키를 로블록스(Roblox)라는 게임 생태계 내에서 판매하는 중이다. ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/21867243_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[개인정보위, 개인정보보호 법규 위반 3개 사업자 제재 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107342&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107342&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
@@ -389,14 +397,6 @@
             <pubDate>Fri, 10 Jun 2022 09:16:23 GMT</pubDate>
             <content:encoded><![CDATA[디지털 전환의 시대가 다가오면서 데이터가 핵심 원천으로 등장했다. 특히 데이터 중 개인정보가 75% 이상을 차지하면서 이제는 ‘보호’의 대상에서 ‘안전한 활용’의...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/pisfair2022_0606_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이상한 랜섬웨어, 복호화 키를 로블록스 게임 내에서 판매 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107415&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107415&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Sat, 11 Jun 2022 01:16:27 GMT</pubDate>
-            <content:encoded><![CDATA[새로운 랜섬웨어가 등장했다고 외신인 블리핑컴퓨터가 보도했다. 이 랜섬웨어 운영자들은 복호화 키를 로블록스(Roblox)라는 게임 생태계 내에서 판매하는 중이다. ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/21867243_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[“차별화된 AI 지식관리 솔루션 선보인다” 엠클라우독 신제품 출시 세미나 (보안뉴스 ─ SECURITY)]]></title>
