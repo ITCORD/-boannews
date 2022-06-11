@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Jun 2022 03:21:03 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Jun 2022 04:24:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -128,20 +128,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/threat-thumb-0608.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[‘하이웍스 업데이트’ 사칭 악성 메일, 클릭하면 계정정보 훔친다]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107372&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107372&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Fri, 10 Jun 2022 06:20:02 GMT</pubDate>
-            <content:encoded><![CDATA[최근 가비아의 이메일 서비스 ‘하이웍스(hiworks)’를 사칭한 악성메일이 급증해 사용자의 주의가 요구된다. 발견된 악성메일은 대부분 이메일이나 비밀번호가 만료...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/hiworks_060902_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[보안 솔루션 사칭한 악성 앱이 사용자 정보를 노린다]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107387&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107387&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Fri, 10 Jun 2022 09:16:23 GMT</pubDate>
             <content:encoded><![CDATA[모바일 기기를 대상으로 하는 사이버 공격은 보이스피싱과 몸캠피싱은 물론 스미싱 등 다양하다. 수법이 더 다양화되고 정교해지면서 피해 금액도 상당한 수준이다. 경찰...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/esrc_060901_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[‘하이웍스 업데이트’ 사칭 악성 메일, 클릭하면 계정정보 훔친다]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107372&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107372&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Fri, 10 Jun 2022 06:20:02 GMT</pubDate>
+            <content:encoded><![CDATA[최근 가비아의 이메일 서비스 ‘하이웍스(hiworks)’를 사칭한 악성메일이 급증해 사용자의 주의가 요구된다. 발견된 악성메일은 대부분 이메일이나 비밀번호가 만료...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/hiworks_060902_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이상한 랜섬웨어, 복호화 키를 로블록스 게임 내에서 판매]]></title>
@@ -152,20 +152,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/21867243_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[6월 첫째 주, 정보탈취 ‘인포스틸러’ 악성코드 국내 유포 기승 부렸다]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107419&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107419&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Sat, 11 Jun 2022 04:21:37 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 6월 첫째 주에는 개인정보 및 계정정보 탈취 목적의 인포스틸러 악성코드가 국내에 유포된 전체 악성코드의 대부분을 차지한 것으로 분석됐다. 보안전문 업체...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20220610malware-s.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
             <title><![CDATA[개인정보위, 개인정보보호 법규 위반 3개 사업자 제재]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107342&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107342&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
             <pubDate>Fri, 10 Jun 2022 07:16:55 GMT</pubDate>
             <content:encoded><![CDATA[개인정보보호위원회(위원장 윤종인, 이하 ‘개인정보위’)는 6월 8일(수) 제10회 전체회의를 열고, 개인정보보호 법규를 위반한 3개 사업자에 총 3,700만 원의...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/pipc_060801_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[AI와 스마트도시 등 신기술 등장에 따른 개인정보보호 정책방향은?]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107284&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107284&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
-            <pubDate>Fri, 10 Jun 2022 09:16:23 GMT</pubDate>
-            <content:encoded><![CDATA[디지털 전환의 시대가 다가오면서 데이터가 핵심 원천으로 등장했다. 특히 데이터 중 개인정보가 75% 이상을 차지하면서 이제는 ‘보호’의 대상에서 ‘안전한 활용’의...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/pisfair2022_0606_main.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
