@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Jun 2022 05:18:17 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Jun 2022 06:22:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -112,14 +112,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/esrc_060801_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[2025년 글로벌 OT 보안 시장 ‘102억 달러’ 규모로 전망]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107339&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107339&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
-            <pubDate>Thu, 09 Jun 2022 08:24:01 GMT</pubDate>
-            <content:encoded><![CDATA[최근 효과적인 운영기술(OT) 보안을 구축하려는 기관들이 늘어나면서 OT 보안 전문가 부족 현상이 더욱 심화되고 있으며, 이로 인해 OT 보안 전문 기업들의 성장...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/21865747_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[이상한 랜섬웨어, 복호화 키를 로블록스 게임 내에서 판매]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107415&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107415&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
@@ -128,12 +120,28 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/21867243_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[2025년 글로벌 OT 보안 시장 ‘102억 달러’ 규모로 전망]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107339&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107339&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
+            <pubDate>Thu, 09 Jun 2022 08:24:01 GMT</pubDate>
+            <content:encoded><![CDATA[최근 효과적인 운영기술(OT) 보안을 구축하려는 기관들이 늘어나면서 OT 보안 전문가 부족 현상이 더욱 심화되고 있으며, 이로 인해 OT 보안 전문 기업들의 성장...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/21865747_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[피해를 입힐 줄 아는 공격자들, 하다하다 허위 협박에까지 도달해]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107346&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107346&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Thu, 09 Jun 2022 07:20:05 GMT</pubDate>
             <content:encoded><![CDATA[2000년대 초반, 지금은 대형 회사로 커버린 보안 업체 맨디언트(Mandiant)는 미국의 작은 컨설팅 업체였다. 케빈 맨디아(Kevin Mandia)는 가끔 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/threat-thumb-0608.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[6월 첫째 주, 정보탈취 ‘인포스틸러’ 악성코드 국내 유포 기승 부렸다]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107419&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107419&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Sat, 11 Jun 2022 04:21:37 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 6월 첫째 주에는 개인정보 및 계정정보 탈취 목적의 인포스틸러 악성코드가 국내에 유포된 전체 악성코드의 대부분을 차지한 것으로 분석됐다. 보안전문 업체...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20220610malware-s.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[보안 솔루션 사칭한 악성 앱이 사용자 정보를 노린다]]></title>
@@ -152,20 +160,12 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/hiworks_060902_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[6월 첫째 주, 정보탈취 ‘인포스틸러’ 악성코드 국내 유포 기승 부렸다]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107419&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107419&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Sat, 11 Jun 2022 04:21:37 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 6월 첫째 주에는 개인정보 및 계정정보 탈취 목적의 인포스틸러 악성코드가 국내에 유포된 전체 악성코드의 대부분을 차지한 것으로 분석됐다. 보안전문 업체...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20220610malware-s.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[개인정보위, 개인정보보호 법규 위반 3개 사업자 제재]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107342&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107342&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
-            <pubDate>Fri, 10 Jun 2022 07:16:55 GMT</pubDate>
-            <content:encoded><![CDATA[개인정보보호위원회(위원장 윤종인, 이하 ‘개인정보위’)는 6월 8일(수) 제10회 전체회의를 열고, 개인정보보호 법규를 위반한 3개 사업자에 총 3,700만 원의...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/pipc_060801_main.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[정보보호제품 성능평가 제도, EDR 추가하고 평가기준 강화된다]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107422&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107422&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
+            <pubDate>Sat, 11 Jun 2022 06:19:49 GMT</pubDate>
+            <content:encoded><![CDATA[정보보호제품 성능평가 제도가 2022년부터 성능평가 기준을 강화하는 등 큰 변화를 맞이한다. 국가정보원(이하 국정원)과 국가보안연구소, 한국인터넷진흥원(이하 KI...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/nis_061001_main.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

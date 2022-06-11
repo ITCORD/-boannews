@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-06-11T05:18:17.085Z</updated>
+    <updated>2022-06-11T06:22:31.453Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아크로니스, ‘아크로니스 사이버 프로텍트 클라우드’ 출시]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107421&amp;page=1&amp;mkind=1&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107421&amp;page=1&amp;mkind=1&amp;kind=3"/>
+        <updated>2022-06-11T06:20:02.152Z</updated>
+        <content type="html"><![CDATA[통합 사이버 보호 선두기업 아크로니스(지사장 고목동)는 10일 데이터 유출 방지(Data Loss Prevention, 이하 DLP) 기능을 적용한 아크로니스 사이버 프로텍트 클라우드(Acronis Cyber Protect Cloud)를 출시했다. 이 솔루션은 매니지드...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“차별화된 AI 지식관리 솔루션 선보인다” 엠클라우독 신제품 출시 세미나]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=107420&amp;page=1&amp;mkind=1&amp;kind=3</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=107375&amp;page=1&amp;mkind=1&amp;kind=3"/>
         <updated>2022-06-09T08:24:18.317Z</updated>
         <content type="html"><![CDATA[데이터 중심 제로 트러스트 보안 스타트업 스파이스웨어(대표 김근진)는 미국 샌프란시스코에서 6~9일(현지시간)까지 나흘간 개최되는 세계 최대 규모 사이버 보안 전시회 ‘RSAC 2022’에 참가해 ‘스파이스웨어 원(Spiceware One) ZTS’를 소개한다고 9일 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[고려대 소프트웨어보안연구소, 공급망 보안을 위한 SBOM 기술개발 나선다]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107381&amp;page=1&amp;mkind=1&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107381&amp;page=1&amp;mkind=1&amp;kind=3"/>
-        <updated>2022-06-09T07:20:17.346Z</updated>
-        <content type="html"><![CDATA[우리는 일상생활 곳곳에서 자재명세서(BOM, Bill of Materials)를 만난다. 과자 포장지 뒷면에 적힌 원재료 리스트가 그 대표적인 예다. 식품 원재료 명세서를 활용하면 누구나 쉽게 알레르기 유발 식품이나 원치 않는 식재료를 파악할 수 있고, 안전한 섭취가 ...]]></content>
     </entry>
 </feed>
