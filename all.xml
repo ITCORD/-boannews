@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Jun 2022 04:24:44 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Jun 2022 05:18:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -351,6 +351,14 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/21865747_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[이상한 랜섬웨어, 복호화 키를 로블록스 게임 내에서 판매 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107415&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107415&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Sat, 11 Jun 2022 01:16:27 GMT</pubDate>
+            <content:encoded><![CDATA[새로운 랜섬웨어가 등장했다고 외신인 블리핑컴퓨터가 보도했다. 이 랜섬웨어 운영자들은 복호화 키를 로블록스(Roblox)라는 게임 생태계 내에서 판매하는 중이다. ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/21867243_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[피해를 입힐 줄 아는 공격자들, 하다하다 허위 협박에까지 도달해 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107346&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107346&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
@@ -373,14 +381,6 @@
             <pubDate>Fri, 10 Jun 2022 06:20:02 GMT</pubDate>
             <content:encoded><![CDATA[최근 가비아의 이메일 서비스 ‘하이웍스(hiworks)’를 사칭한 악성메일이 급증해 사용자의 주의가 요구된다. 발견된 악성메일은 대부분 이메일이나 비밀번호가 만료...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/hiworks_060902_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[이상한 랜섬웨어, 복호화 키를 로블록스 게임 내에서 판매 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107415&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107415&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Sat, 11 Jun 2022 01:16:27 GMT</pubDate>
-            <content:encoded><![CDATA[새로운 랜섬웨어가 등장했다고 외신인 블리핑컴퓨터가 보도했다. 이 랜섬웨어 운영자들은 복호화 키를 로블록스(Roblox)라는 게임 생태계 내에서 판매하는 중이다. ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/21867243_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[6월 첫째 주, 정보탈취 ‘인포스틸러’ 악성코드 국내 유포 기승 부렸다 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
