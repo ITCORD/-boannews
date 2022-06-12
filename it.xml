@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=2</id>
     <title>보안뉴스 ─ IT</title>
-    <updated>2022-06-12T11:16:39.191Z</updated>
+    <updated>2022-06-12T12:28:35.100Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한국로봇산업진흥원, 한·중 글로벌 로봇포럼 개최]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107429&amp;page=1&amp;mkind=2&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107429&amp;page=1&amp;mkind=2&amp;kind=2"/>
+        <updated>2022-06-12T12:26:24.904Z</updated>
+        <content type="html"><![CDATA[한국로봇산업진흥원이 한·중 글로벌 로봇포럼을 통해 중국 로봇시장의 다양한 정보를 교류하는 시간을 가졌다. 진흥원은 지난 9일 스마트테크 코리아 2022의 연계 프로그램으로, ‘KRC(Korea Robot Center) 한·중 로봇 포럼’을 개최했다. 중국 로봇시장의 동...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[KT그룹, 역동적 혁신 성장 위한 미래 계획 발표]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=107428&amp;page=1&amp;mkind=2&amp;kind=3</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=107392&amp;page=1&amp;mkind=2&amp;kind=2"/>
         <updated>2022-06-10T01:25:56.948Z</updated>
         <content type="html"><![CDATA[이종호 과학기술정보통신부 장관은 지난 9일(목) 한국표준과학연구원을 방문해 ‘50큐비트 양자컴퓨터 구축 및 양자인터넷 개발 착수 보고회’를 가졌다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[해양경찰청, 해양안전정보 공공데이터로 구축·개방]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107391&amp;page=1&amp;mkind=2&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107391&amp;page=1&amp;mkind=2&amp;kind=2"/>
-        <updated>2022-06-10T01:25:56.949Z</updated>
-        <content type="html"><![CDATA[해양경찰청은 행정안전부 주관 공공데이터 지원 사업에 선정돼 해양안전 분야 데이터를 연내 개방한다고 밝혔다. 해양경찰청은 그동안 책자 형식으로 관리돼 활용이 어려움이 있던 △연안안전 위험 및 출입통제구역 정보 △인명구조함 등 안전관리시설물 위치 정보 △낚시어선 주조업지 ...]]></content>
     </entry>
 </feed>

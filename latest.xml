@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Jun 2022 11:16:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Jun 2022 12:28:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -86,6 +86,14 @@
             <pubDate>Fri, 10 Jun 2022 04:24:34 GMT</pubDate>
             <content:encoded><![CDATA[러시아 라디오 방송국이 해킹 공격에 당했다고 일간지 워싱턴포스트가 보도했다. 그리고 우크라이나의 국가와 반전 노래들이 송출됐다. 문제의 라디오 방송국은 코...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20443926_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[과기정통부, ‘2022 온라인 코딩파티 시즌1’ 개최]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107408&amp;page=1&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107408&amp;page=1&amp;kind=2</guid>
+            <pubDate>Sun, 12 Jun 2022 12:25:46 GMT</pubDate>
+            <content:encoded><![CDATA[과학기술정보통신부(장관 이종호, 이하 ‘과기정통부’)와 교육부는 한국과학창의재단(이사장 조율래)과 함께 누구나 쉽고 재미있게 소프트웨어와 인공지능 교육을 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/msit_061001_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[예금보험공사, 신기술을 통한 대국민 서비스 강화]]></title>
@@ -231,14 +239,6 @@
             <pubDate>Fri, 10 Jun 2022 01:25:14 GMT</pubDate>
             <content:encoded><![CDATA[KAIST 기계공학과 김정 교수 연구팀이 메사추세츠 공과대학(MIT), 슈투트가르트대의 연구자들과 공동 연구를 통해 ‘넓은 면적에 대해 다양한 외부 촉각 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/6-94(295).jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[마크애니 평생학습이력 플랫폼 ‘몰리다’, 국내외 보안인증 동시 획득]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107409&amp;page=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107409&amp;page=1&amp;kind=3</guid>
-            <pubDate>Fri, 10 Jun 2022 01:25:14 GMT</pubDate>
-            <content:encoded><![CDATA[마크애니(대표 최고)는 평생학습이력 플랫폼 ‘몰리다’가 국내·외 보안인증인 ‘국제 정보보호 경영 시스템(ISO/IEC27001)’과 ‘정보보호 및 개인정보...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/mark_0610_main.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
