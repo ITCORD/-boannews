@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 12 Jun 2022 03:25:45 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 12 Jun 2022 04:29:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -32,20 +32,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/nis_061001_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[그나마 있던 보안인력들은 다 어디로 간 걸까?]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107149&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107149&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
-            <pubDate>Tue, 07 Jun 2022 18:19:32 GMT</pubDate>
-            <content:encoded><![CDATA[“보안시장은 자꾸 커지는데 보안 경력자 구하기가 하늘에 별 따기에요.” “보안 솔루션 개발인력이 돈 때문에 클라우드와 프로그램 개발 분야로 이동해요.” “온라인 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/20573394-c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[1년 반 동안 죽어 지냈던 이모텟, 슬슬 살아날 조짐 보인다]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107423&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107423&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Sat, 11 Jun 2022 07:15:03 GMT</pubDate>
             <content:encoded><![CDATA[악명 높은 봇넷 멀웨어인 이모텟(Emotet)이 되살아났다. 2021년 1월 국제적인 공조로 폐쇄된 조직 및 공격 인프라가 약 1년 반 만에 부활한 것이다. 국제...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20872051_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[그나마 있던 보안인력들은 다 어디로 간 걸까?]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107149&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107149&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
+            <pubDate>Tue, 07 Jun 2022 18:19:32 GMT</pubDate>
+            <content:encoded><![CDATA[“보안시장은 자꾸 커지는데 보안 경력자 구하기가 하늘에 별 따기에요.” “보안 솔루션 개발인력이 돈 때문에 클라우드와 프로그램 개발 분야로 이동해요.” “온라인 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/20573394-c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[4월 개정된 가명정보 처리 가이드라인, 핵심 내용 살펴보니]]></title>
@@ -144,6 +144,14 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/threat-thumb-0608.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[주말판] 랜섬웨어 전성시대에 최전선에서 점점 많이 보이는 얼굴, CDO]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107433&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107433&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
+            <pubDate>Sun, 12 Jun 2022 03:22:37 GMT</pubDate>
+            <content:encoded><![CDATA[랜섬웨어, 얼마나 큰 문제가 되고 있을까? 전 세계의 조직 1/3 이상이 이미 랜섬웨어 공격에 피해를 입은 적이 있다고 한다. 그것도 지난 12개월 안에 피해를 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/data-thumb-0610.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[기업이 스스로를 보호하기 위해 알아두어야 할 NFT 생태계의 7대 악]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107388&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107388&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
@@ -152,20 +160,12 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/22021221_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[AI와 스마트도시 등 신기술 등장에 따른 개인정보보호 정책방향은?]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107284&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107284&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
-            <pubDate>Sat, 11 Jun 2022 07:15:03 GMT</pubDate>
-            <content:encoded><![CDATA[디지털 전환의 시대가 다가오면서 데이터가 핵심 원천으로 등장했다. 특히 데이터 중 개인정보가 75% 이상을 차지하면서 이제는 ‘보호’의 대상에서 ‘안전한 활용’의...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/pisfair2022_0606_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주말판] 랜섬웨어 전성시대에 최전선에서 점점 많이 보이는 얼굴, CDO]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107433&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107433&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
-            <pubDate>Sun, 12 Jun 2022 03:22:37 GMT</pubDate>
-            <content:encoded><![CDATA[랜섬웨어, 얼마나 큰 문제가 되고 있을까? 전 세계의 조직 1/3 이상이 이미 랜섬웨어 공격에 피해를 입은 적이 있다고 한다. 그것도 지난 12개월 안에 피해를 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/data-thumb-0610.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[똑똑해지는 공항, 항공관제의 눈을 넓힌다]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107427&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107427&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
+            <pubDate>Sun, 12 Jun 2022 04:26:50 GMT</pubDate>
+            <content:encoded><![CDATA[국토교통부와 인천국제공항공사는 인천국제공항의 항공기 안전을 획기적으로 개선하고 미래 항공수요를 적기에 처리하기 위해 스마트통합관제플랫폼을 적극 도입한다고 밝혔다.]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/6-100(295).jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
