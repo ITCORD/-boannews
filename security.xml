@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-06-12T13:25:33.984Z</updated>
+    <updated>2022-06-12T14:17:07.414Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[정보보호제품 성능평가 제도, EDR 추가하고 평가기준 강화된다]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107422&amp;page=1&amp;mkind=1&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107422&amp;page=1&amp;mkind=1&amp;kind=2"/>
+        <updated>2022-06-12T14:14:30.497Z</updated>
+        <content type="html"><![CDATA[정보보호제품 성능평가 제도가 2022년부터 성능평가 기준을 강화하는 등 큰 변화를 맞이한다. 국가정보원(이하 국정원)과 국가보안연구소, 한국인터넷진흥원(이하 KISA)은 ‘IT보안제품 보안적합성 검증정책 설명회’를 개최하고 이와 같이 밝혔다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아크로니스, ‘아크로니스 사이버 프로텍트 클라우드’ 출시]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=107421&amp;page=1&amp;mkind=1&amp;kind=3</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=107372&amp;page=1&amp;mkind=1&amp;kind=1"/>
         <updated>2022-06-09T09:19:47.871Z</updated>
         <content type="html"><![CDATA[최근 가비아의 이메일 서비스 ‘하이웍스(hiworks)’를 사칭한 악성메일이 급증해 사용자의 주의가 요구된다. 발견된 악성메일은 대부분 이메일이나 비밀번호가 만료됐다거나, 이메일 계정이 오래돼 메시지를 받을 수 없다며 업데이트 할 것을 요구한다. 주로 링크를 통해 가짜...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스파이스웨어, ‘RSAC 2022’서 제로 트러스트 보안 제품 ‘스파이스웨어 원’ 소개]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107375&amp;page=1&amp;mkind=1&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107375&amp;page=1&amp;mkind=1&amp;kind=3"/>
-        <updated>2022-06-09T08:24:18.317Z</updated>
-        <content type="html"><![CDATA[데이터 중심 제로 트러스트 보안 스타트업 스파이스웨어(대표 김근진)는 미국 샌프란시스코에서 6~9일(현지시간)까지 나흘간 개최되는 세계 최대 규모 사이버 보안 전시회 ‘RSAC 2022’에 참가해 ‘스파이스웨어 원(Spiceware One) ZTS’를 소개한다고 9일 ...]]></content>
     </entry>
 </feed>

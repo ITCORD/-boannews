@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=2</id>
     <title>보안뉴스 ─ IT</title>
-    <updated>2022-06-12T13:25:33.980Z</updated>
+    <updated>2022-06-12T14:17:07.347Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[제조업 부문 중견기업 혁신을 위한 디지털 전환 전략 모색한다]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107431&amp;page=1&amp;mkind=2&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107431&amp;page=1&amp;mkind=2&amp;kind=2"/>
+        <updated>2022-06-12T14:14:46.013Z</updated>
+        <content type="html"><![CDATA[한국중견기업연합회가 제조업 부문 중견기업 혁신을 위한 디지털 전환 전략 모색에 나선다. 중견련은 지난 9일 ‘제14차 중견기업 CTO 협의회’를 개최, 제조업 부문 중견기업의 신성장동력 확보를 위한 디지털 전환 지원 정책을 공유하고 실효적인 디지털 전환 추진 방안에 관...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한국로봇산업진흥원, 한·중 글로벌 로봇포럼 개최]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=107429&amp;page=1&amp;mkind=2&amp;kind=2</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=107393&amp;page=1&amp;mkind=2&amp;kind=2"/>
         <updated>2022-06-10T01:25:56.925Z</updated>
         <content type="html"><![CDATA[과학기술정보통신부는 지난 9일 정보통신기술(ICT) 기반 혁신제품·서비스 아이디어 공모전 시상식을 개최했다. 과기정통부는 작년 11월 25일부터 12월 24일까지 공모전을 실시해 총 156건(기업 부문 107건, 개인 부문 49건)의 아이디어를 발굴했으며, 1차 아이디...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[하나된 산학연, 양자기술 강국 대한민국 이끈다]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107392&amp;page=1&amp;mkind=2&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107392&amp;page=1&amp;mkind=2&amp;kind=2"/>
-        <updated>2022-06-10T01:25:56.948Z</updated>
-        <content type="html"><![CDATA[이종호 과학기술정보통신부 장관은 지난 9일(목) 한국표준과학연구원을 방문해 ‘50큐비트 양자컴퓨터 구축 및 양자인터넷 개발 착수 보고회’를 가졌다.]]></content>
     </entry>
 </feed>
