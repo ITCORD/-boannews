@@ -4,9 +4,17 @@
         <title>보안뉴스 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Jun 2022 08:24:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jun 2022 09:21:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[애플의 M1 칩셋에서 시스템 권한 가져가게 하는 설계 오류 발견돼]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107455&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107455&amp;page=1&amp;kind=1</guid>
+            <pubDate>Mon, 13 Jun 2022 09:17:48 GMT</pubDate>
+            <content:encoded><![CDATA[애플의 M1 프로세스 칩에서 설계 오류에 해당하는 취약점이 발견됐다. 그리고 이 취약점을 악용한 개념증명용 공격이 성공하기도 했다. 공격을 통해 연구원들은...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20918512_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[범죄도시2의 사이버 판? 검사 사칭 보이스피싱 일당, 베트남서 검거]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107452&amp;page=1&amp;kind=1</link>
@@ -80,12 +88,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20162014_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[한글문서 ‘OLE 개체 연결 삽입’ 기능 악용한 APT 문서 유포]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107435&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107435&amp;page=1&amp;kind=1</guid>
-            <pubDate>Sun, 12 Jun 2022 14:14:01 GMT</pubDate>
-            <content:encoded><![CDATA[최근 MS 오피스의 제로데이 취약점인 ‘폴리나(Follina)’를 악용한 공격이 기승을 부리고 있는 가운데, 한글 문서의 정상기능을 악용한 APT 공격이 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20312979_main(3).jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[우경정보기술, 한국지능정보사회진흥원 ‘한국인 3D 스캐닝 데이터 구축 사업’ 수행]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107454&amp;page=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107454&amp;page=1&amp;kind=3</guid>
+            <pubDate>Mon, 13 Jun 2022 09:17:48 GMT</pubDate>
+            <content:encoded><![CDATA[인공지능(AI) 영상분석 전문기업 우경정보기술(대표 박윤하)이 과학기술정보통신부가 주관하고 한국지능정보사회진흥원(NIA)이 추진하는 2022 인공지능 학습...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/22061304ss.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[FIDO 얼라이언스, 2022년 FIDO 기술 세미나 개최]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107453&amp;page=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107453&amp;page=1&amp;kind=3</guid>
+            <pubDate>Mon, 13 Jun 2022 09:17:48 GMT</pubDate>
+            <content:encoded><![CDATA[패스워드 기반 온라인 인증이 야기하는 문제점을 해결하고자 전 세계 250여개 기업, 정부, 그리고 공공기관이 함께하는 글로벌 기술표준화 비영리 단체 FID...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/22061303ss.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[글로벌메타버스기술협회 설립... 주남진 초대 회장 내정]]></title>
@@ -141,6 +157,14 @@
             <guid>https://www.boannews.com/media/view.asp?idx=107436&amp;page=1&amp;kind=2</guid>
             <pubDate>Mon, 13 Jun 2022 01:41:04 GMT</pubDate>
             <content:encoded><![CDATA[SRT 운영사 SR(대표이사 이종국)은 2022년 정보보호 준비도 평가에서 지난해보다 1.5점 향상된 94.6점을 획득해 최상위 등급인 AAA등급을 유지했...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[한글문서 ‘OLE 개체 연결 삽입’ 기능 악용한 APT 문서 유포]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107435&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107435&amp;page=1&amp;kind=1</guid>
+            <pubDate>Sun, 12 Jun 2022 14:14:01 GMT</pubDate>
+            <content:encoded><![CDATA[최근 MS 오피스의 제로데이 취약점인 ‘폴리나(Follina)’를 악용한 공격이 기승을 부리고 있는 가운데, 한글 문서의 정상기능을 악용한 APT 공격이 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20312979_main(3).jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[도무지 일할 사람을 찾지 못했을 때, 대행 서비스를 활용하라]]></title>
@@ -218,28 +242,6 @@
             <guid>https://www.boannews.com/media/view.asp?idx=107426&amp;page=1&amp;kind=2</guid>
             <pubDate>Sat, 11 Jun 2022 06:19:38 GMT</pubDate>
             <content:encoded><![CDATA[특허청은 우리나라, 미국, 일본, 중국 및 유럽 특허청으로 구성된 세계 5대 특허청(IP5) 청장들은 산업계 대표들과의 연석회의, 청장회의를 각각 8일, ...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[특허청, 기술혁신형 중소기업의 지식재산 경영 지원한다]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107425&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107425&amp;page=1&amp;kind=2</guid>
-            <pubDate>Sat, 11 Jun 2022 06:19:38 GMT</pubDate>
-            <content:encoded><![CDATA[특허청과 이노비즈협회는 지난 10일 이노비즈기업이 지식재산 경영을 통해 민간 주도로 성장할 수 있도록 업무협약을 체결했다. 특허청 지역지식재산센터(RIPC...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[방통위, 2022년도 이용자 보호 업무 평가위원 간담회 개최]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107424&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107424&amp;page=1&amp;kind=2</guid>
-            <pubDate>Sat, 11 Jun 2022 06:19:38 GMT</pubDate>
-            <content:encoded><![CDATA[방송통신위원회는 지난 10일 통신·인터넷 분야 전문가, 소비자단체 등으로 구성된 평가위원 20명과 2022년도 전기통신사업자 이용자 보호 업무 평가를 위한...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[1년 반 동안 죽어 지냈던 이모텟, 슬슬 살아날 조짐 보인다]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107423&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107423&amp;page=1&amp;kind=1</guid>
-            <pubDate>Fri, 10 Jun 2022 10:18:28 GMT</pubDate>
-            <content:encoded><![CDATA[악명 높은 봇넷 멀웨어인 이모텟(Emotet)이 되살아났다. 2021년 1월 국제적인 공조로 폐쇄된 조직 및 공격 인프라가 약 1년 반 만에 부활한 것이다...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20872051_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

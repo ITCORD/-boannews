@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Jun 2022 08:24:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jun 2022 09:21:02 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[애플의 M1 칩셋에서 시스템 권한 가져가게 하는 설계 오류 발견돼 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107455&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107455&amp;page=1&amp;kind=1</guid>
+            <pubDate>Mon, 13 Jun 2022 09:17:48 GMT</pubDate>
+            <content:encoded><![CDATA[애플의 M1 프로세스 칩에서 설계 오류에 해당하는 취약점이 발견됐다. 그리고 이 취약점을 악용한 개념증명용 공격이 성공하기도 했다. 공격을 통해 연구원들은...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20918512_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[범죄도시2의 사이버 판? 검사 사칭 보이스피싱 일당, 베트남서 검거 (보안뉴스 ─ 전체기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107452&amp;page=1&amp;kind=1</link>
@@ -80,12 +88,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20162014_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[한글문서 ‘OLE 개체 연결 삽입’ 기능 악용한 APT 문서 유포 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107435&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107435&amp;page=1&amp;kind=1</guid>
-            <pubDate>Sun, 12 Jun 2022 14:14:01 GMT</pubDate>
-            <content:encoded><![CDATA[최근 MS 오피스의 제로데이 취약점인 ‘폴리나(Follina)’를 악용한 공격이 기승을 부리고 있는 가운데, 한글 문서의 정상기능을 악용한 APT 공격이 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20312979_main(3).jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[우경정보기술, 한국지능정보사회진흥원 ‘한국인 3D 스캐닝 데이터 구축 사업’ 수행 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107454&amp;page=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107454&amp;page=1&amp;kind=3</guid>
+            <pubDate>Mon, 13 Jun 2022 09:17:48 GMT</pubDate>
+            <content:encoded><![CDATA[인공지능(AI) 영상분석 전문기업 우경정보기술(대표 박윤하)이 과학기술정보통신부가 주관하고 한국지능정보사회진흥원(NIA)이 추진하는 2022 인공지능 학습...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/22061304ss.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[FIDO 얼라이언스, 2022년 FIDO 기술 세미나 개최 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107453&amp;page=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107453&amp;page=1&amp;kind=3</guid>
+            <pubDate>Mon, 13 Jun 2022 09:17:48 GMT</pubDate>
+            <content:encoded><![CDATA[패스워드 기반 온라인 인증이 야기하는 문제점을 해결하고자 전 세계 250여개 기업, 정부, 그리고 공공기관이 함께하는 글로벌 기술표준화 비영리 단체 FID...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/22061303ss.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[글로벌메타버스기술협회 설립... 주남진 초대 회장 내정 (보안뉴스 ─ 전체기사)]]></title>
@@ -141,6 +157,14 @@
             <guid>https://www.boannews.com/media/view.asp?idx=107436&amp;page=1&amp;kind=2</guid>
             <pubDate>Mon, 13 Jun 2022 01:41:04 GMT</pubDate>
             <content:encoded><![CDATA[SRT 운영사 SR(대표이사 이종국)은 2022년 정보보호 준비도 평가에서 지난해보다 1.5점 향상된 94.6점을 획득해 최상위 등급인 AAA등급을 유지했...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[한글문서 ‘OLE 개체 연결 삽입’ 기능 악용한 APT 문서 유포 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107435&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107435&amp;page=1&amp;kind=1</guid>
+            <pubDate>Sun, 12 Jun 2022 14:14:01 GMT</pubDate>
+            <content:encoded><![CDATA[최근 MS 오피스의 제로데이 취약점인 ‘폴리나(Follina)’를 악용한 공격이 기승을 부리고 있는 가운데, 한글 문서의 정상기능을 악용한 APT 공격이 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20312979_main(3).jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[도무지 일할 사람을 찾지 못했을 때, 대행 서비스를 활용하라 (보안뉴스 ─ 전체기사)]]></title>
@@ -218,28 +242,6 @@
             <guid>https://www.boannews.com/media/view.asp?idx=107426&amp;page=1&amp;kind=2</guid>
             <pubDate>Sat, 11 Jun 2022 06:19:38 GMT</pubDate>
             <content:encoded><![CDATA[특허청은 우리나라, 미국, 일본, 중국 및 유럽 특허청으로 구성된 세계 5대 특허청(IP5) 청장들은 산업계 대표들과의 연석회의, 청장회의를 각각 8일, ...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[특허청, 기술혁신형 중소기업의 지식재산 경영 지원한다 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107425&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107425&amp;page=1&amp;kind=2</guid>
-            <pubDate>Sat, 11 Jun 2022 06:19:38 GMT</pubDate>
-            <content:encoded><![CDATA[특허청과 이노비즈협회는 지난 10일 이노비즈기업이 지식재산 경영을 통해 민간 주도로 성장할 수 있도록 업무협약을 체결했다. 특허청 지역지식재산센터(RIPC...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[방통위, 2022년도 이용자 보호 업무 평가위원 간담회 개최 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107424&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107424&amp;page=1&amp;kind=2</guid>
-            <pubDate>Sat, 11 Jun 2022 06:19:38 GMT</pubDate>
-            <content:encoded><![CDATA[방송통신위원회는 지난 10일 통신·인터넷 분야 전문가, 소비자단체 등으로 구성된 평가위원 20명과 2022년도 전기통신사업자 이용자 보호 업무 평가를 위한...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[1년 반 동안 죽어 지냈던 이모텟, 슬슬 살아날 조짐 보인다 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107423&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107423&amp;page=1&amp;kind=1</guid>
-            <pubDate>Fri, 10 Jun 2022 10:18:28 GMT</pubDate>
-            <content:encoded><![CDATA[악명 높은 봇넷 멀웨어인 이모텟(Emotet)이 되살아났다. 2021년 1월 국제적인 공조로 폐쇄된 조직 및 공격 인프라가 약 1년 반 만에 부활한 것이다...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20872051_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[1년 반 동안 죽어 지냈던 이모텟, 슬슬 살아날 조짐 보인다 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
@@ -402,6 +404,13 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20220527REPORT-MS.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
+            <title><![CDATA[[bnTV] RAT 악성코드 파격세일!! 다크웹 마켓에서 13,000원에 살 수 있다고? (보안뉴스 ─ SECURITY)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107448&amp;page=1&amp;mkind=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107448&amp;page=1&amp;mkind=1&amp;kind=1</guid>
+            <pubDate>Mon, 13 Jun 2022 09:18:18 GMT</pubDate>
+            <content:encoded><![CDATA[DCRat은 ‘Dark Crystal Rat’이라고 하는 용어의 약자인데 DCRat이 재밌는 부분은 말씀하셨듯이 굉장히 저렴하게 판매가 됐어요. 한화로 13,000원 정도 굉장히 싸게 판매가 되고 있고요. 기능들을 봤을 때 기존 RAT 악성코드에서 제공하는 모든 기능을...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[올바른 행동 분석 알고리즘이 기업의 안전 좌지우지 한다 (보안뉴스 ─ SECURITY)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107447&amp;page=1&amp;mkind=1&amp;kind=1</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107447&amp;page=1&amp;mkind=1&amp;kind=1</guid>
@@ -512,13 +521,6 @@
             <guid>https://www.boannews.com/media/view.asp?idx=107421&amp;page=1&amp;mkind=1&amp;kind=3</guid>
             <pubDate>Sat, 11 Jun 2022 06:20:02 GMT</pubDate>
             <content:encoded><![CDATA[통합 사이버 보호 선두기업 아크로니스(지사장 고목동)는 10일 데이터 유출 방지(Data Loss Prevention, 이하 DLP) 기능을 적용한 아크로니스 사이버 프로텍트 클라우드(Acronis Cyber Protect Cloud)를 출시했다. 이 솔루션은 매니지드...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[“차별화된 AI 지식관리 솔루션 선보인다” 엠클라우독 신제품 출시 세미나 (보안뉴스 ─ SECURITY)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107420&amp;page=1&amp;mkind=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107420&amp;page=1&amp;mkind=1&amp;kind=3</guid>
-            <pubDate>Fri, 10 Jun 2022 10:19:03 GMT</pubDate>
-            <content:encoded><![CDATA[엠클라우독(대표 유상열)이 6월 7일 롯데월드 타워에서 인공지능 지식관리 솔루션 아이독(AIDOC)의 출시기념 세미나를 진행했다. 세미나는 문서관리와 관련된 세계적인 기술의 흐름을 분석한 후에 제품을 소개하는 순서로 진행됐다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[예금보험공사, 신기술을 통한 대국민 서비스 강화 (보안뉴스 ─ IT)]]></title>
@@ -759,20 +761,20 @@
             <content:encoded><![CDATA[국토안전관리원과 경찰청은 지난 26일 재난 및 안전사고 대응 협력으로 국민안전을 확보하기 위한 업무협약을 체결했다고 밝혔다. 김일환 관리원 원장과 김창룡 경찰청장은 지난 26일 건설·시설 분야 재난 대응 협력을 주요 내용으로 하는 업무협약서에 서명했다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[KAIST, 인공지능 엔진으로 영상 위변조 탐지 기... (보안뉴스 ─ Security World)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107442&amp;mkind=5</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107442&amp;mkind=5</guid>
-            <pubDate>Mon, 13 Jun 2022 04:39:23 GMT</pubDate>
-            <content:encoded><![CDATA[KAIST(총장 이광형)는 이흥규 전산학부 교수 연구팀이 새로운 인공지능 구조와 학습 방법론, 그리고 실험실 환경에서는 구하기 힘든 고급 변형 이미지 영상...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/22061301ss.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[우경정보기술, 한국지능정보사회진흥원 ‘한국인 3D ... (보안뉴스 ─ Security World)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107454&amp;mkind=5</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107454&amp;mkind=5</guid>
+            <pubDate>Mon, 13 Jun 2022 09:18:58 GMT</pubDate>
+            <content:encoded><![CDATA[인공지능(AI) 영상분석 전문기업 우경정보기술(대표 박윤하)이 과학기술정보통신부가 주관하고 한국지능정보사회진흥원(NIA)이 추진하는 2022 인공지능 학습...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/22061304ss.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[똑똑해지는 공항, 항공관제의 눈을 넓힌다 (보안뉴스 ─ Security World)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107427&amp;mkind=5</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107427&amp;mkind=5</guid>
-            <pubDate>Sat, 11 Jun 2022 06:20:31 GMT</pubDate>
-            <content:encoded><![CDATA[국토교통부와 인천국제공항공사는 인천국제공항의 항공기 안전을 획기적으로 개선하고 미래 항공수요를 적기에 처리하기 위해 스마트통합관제플랫폼을 적극 도입한다고 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/6-100(295).jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[FIDO 얼라이언스, 2022년 FIDO 기술 세미... (보안뉴스 ─ Security World)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107453&amp;mkind=5</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107453&amp;mkind=5</guid>
+            <pubDate>Mon, 13 Jun 2022 09:18:58 GMT</pubDate>
+            <content:encoded><![CDATA[패스워드 기반 온라인 인증이 야기하는 문제점을 해결하고자 전 세계 250여개 기업, 정부, 그리고 공공기관이 함께하는 글로벌 기술표준화 비영리 단체 FID...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/22061303ss.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[범죄도시2의 사이버 판? 검사 사칭 보이스피싱 일당, 베트남서 검거 (보안뉴스 ─ 취약점 경고 및 버그리포트)]]></title>
@@ -817,6 +819,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20220613TV-S.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
+            <title><![CDATA[애플 M1 칩에서 패치 불가능한 취약점 발견한 MIT 연구원 (보안뉴스 ─ 취약점 경고 및 버그리포트)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107445&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107445&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=</guid>
+            <pubDate>Mon, 13 Jun 2022 09:19:10 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/view.asp?idx=107445&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=">
+					
+					<img src="/media/upFiles2/2022/06/21412342_copy_295x190_1.jpg" alt="" class="news_img" height="70">
+					
+					<span class="news_txt">애플 M1 칩에서 패치 불가능한 취약점 발견한 MIT 연구원</span>
+					</a><br>
+					<a href="/media/view.asp?idx=107445&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=">애플의 고성능 칩셋인 M1을 겨냥한 실험용 공격이 성공을 거두며 애플 생태계에 적생 경보가 떴다고 보안 외신 해커뉴스가 보도했다. 실험실에서 진행된 공격을 공격자...</a> <span class="news_writer">문가용 기자 | 2022년 06월 13일 11:38</span>]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/21412342_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[한글문서 ‘OLE 개체 연결 삽입’ 기능 악용한 APT 문서 유포 (보안뉴스 ─ 취약점 경고 및 버그리포트)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107435&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107435&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=</guid>
@@ -829,6 +845,20 @@
 					</a><br>
 					<a href="/media/view.asp?idx=107435&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=">최근 MS 오피스의 제로데이 취약점인 ‘폴리나(Follina)’를 악용한 공격이 기승을 부리고 있는 가운데, 한글 문서의 정상기능을 악용한 APT 공격이 유포되고...</a> <span class="news_writer">원병철 기자 | 2022년 06월 12일 22:50</span>]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20312979_main(3).jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[1년 반 동안 죽어 지냈던 이모텟, 슬슬 살아날 조짐 보인다 (보안뉴스 ─ 취약점 경고 및 버그리포트)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107423&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107423&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=</guid>
+            <pubDate>Mon, 13 Jun 2022 09:19:10 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/view.asp?idx=107423&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=">
+					
+					<img src="/media/upFiles2/2022/06/20872051_copy_295x190_1.jpg" alt="" class="news_img" height="70">
+					
+					<span class="news_txt">1년 반 동안 죽어 지냈던 이모텟, 슬슬 살아날 조짐 보인다</span>
+					</a><br>
+					<a href="/media/view.asp?idx=107423&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=">악명 높은 봇넷 멀웨어인 이모텟(Emotet)이 되살아났다. 2021년 1월 국제적인 공조로 폐쇄된 조직 및 공격 인프라가 약 1년 반 만에 부활한 것이다. 국제...</a> <span class="news_writer">문가용 기자 | 2022년 06월 10일 19:02</span>]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20872051_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[6월 첫째 주, 정보탈취 ‘인포스틸러’ 악성코드 국내 유포 기승 부렸다 (보안뉴스 ─ 취약점 경고 및 버그리포트)]]></title>
@@ -1025,34 +1055,6 @@
 					</a><br>
 					<a href="/media/view.asp?idx=107141&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=">최근 들어 NSIS 설치 파일을 통해 다수의 악성 파일들을 배포하고 있는 정황을 확인돼 사용자들의 주의가 요구된다고 안랩 ASEC 분석팀이 밝혔다. </a> <span class="news_writer">원병철 기자 | 2022년 05월 29일 23:30</span>]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/20824594_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[추경 등 소상공인 지원자금 지급? 해당 유형 보이스피싱·스미싱 급증 (보안뉴스 ─ 취약점 경고 및 버그리포트)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107126&amp;page=1&amp;mkind=&amp;kind=2&amp;skind=5&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107126&amp;page=1&amp;mkind=&amp;kind=2&amp;skind=5&amp;search=title&amp;find=</guid>
-            <pubDate>Sat, 28 May 2022 03:10:34 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/view.asp?idx=107126&amp;page=1&amp;mkind=&amp;kind=2&amp;skind=5&amp;search=title&amp;find=">
-					
-					<img src="/media/upFiles2/2022/05/20220528voice-s.jpg" alt="" class="news_img" height="70">
-					
-					<span class="news_txt">추경 등 소상공인 지원자금 지급? 해당 유형 보이스피싱·스미싱 급증 </span>
-					</a><br>
-					<a href="/media/view.asp?idx=107126&amp;page=1&amp;mkind=&amp;kind=2&amp;skind=5&amp;search=title&amp;find=">경찰청 국가수사본부는 지난 4월 전화금융사기 피해 현황을 분석한 결과, 발생 건수와 피해액이 모두 3월 대비 증가했다고 밝혔다. 찰청은 국민·언론·방송 등 누구에...</a> <span class="news_writer">박미영 기자 | 2022년 05월 28일 11:37</span>]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/20220528voice-s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[bnTV] 무수히 많은 해커가 활동하는 다크웹, 그 실체를 파헤치다 (보안뉴스 ─ 취약점 경고 및 버그리포트)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107124&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107124&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=</guid>
-            <pubDate>Fri, 27 May 2022 10:22:19 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/view.asp?idx=107124&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=">
-					
-					<img src="/media/upFiles2/2022/05/20220527DARK-S.JPG" alt="" class="news_img" height="70">
-					
-					<span class="news_txt">[bnTV] 무수히 많은 해커가 활동하는 다크웹, 그 실체를 파헤치다  </span>
-					</a><br>
-					<a href="/media/view.asp?idx=107124&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=">저희가 오늘 보여드릴 다크웹내 사이트들은 여러 개 종류로 해봤는데요. 해커들이 모여서 탈취 데이터 팔고, 그 다음에 구인공고하고 이러한 해킹포럼을 먼저 찾아볼 겁...</a> <span class="news_writer">권준  기자 | 2022년 05월 27일 18:26</span>]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/20220527DARK-S.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[[최정식 발행인 칼럼] <시큐리티월드> 통권 300호를 맞아 드리는 감사의 말씀 (보안뉴스 ─ 오피니언)]]></title>
@@ -1895,6 +1897,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/20220522summit-s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[애플의 M1 칩셋에서 시스템 권한 가져가게 하는 설계 오류 발견돼 (보안뉴스 ─ 국제)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107455&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107455&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
+            <pubDate>Mon, 13 Jun 2022 09:20:06 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/view.asp?idx=107455&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
+					
+					<img src="/media/upFiles2/2022/06/20918512_copy_295x190_1.jpg" alt="" class="news_img" height="70">
+					
+					<span class="news_txt">애플의 M1 칩셋에서 시스템 권한 가져가게 하는 설계 오류 발견돼</span>
+					</a><br>
+					<a href="/media/view.asp?idx=107455&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">애플의 M1 프로세스 칩에서 설계 오류에 해당하는 취약점이 발견됐다. 그리고 이 취약점을 악용한 개념증명용 공격이 성공하기도 했다. 공격을 통해 연구원들은 OS의...</a> <span class="news_writer">문가용 기자 | 2022년 06월 13일 17:57</span>]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20918512_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[올바른 행동 분석 알고리즘이 기업의 안전 좌지우지 한다 (보안뉴스 ─ 국제)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107447&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107447&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
@@ -2159,20 +2175,6 @@
 					</a><br>
 					<a href="/media/view.asp?idx=107377&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">IT 외신 블리핑컴퓨터에 의하면 칼리 리눅스(Kali Linux)를 만든 보안 업체 오펜시브시큐리티(Offensive Security)가 이번 달부터 트위치라는 ...</a> <span class="news_writer">문가용 기자 | 2022년 06월 09일 13:46</span>]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/21487261_copy_295x190_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[랜섬웨에 공격의 피해자들, 돈을 냈어도 80%가 다시 공격 받았다 (보안뉴스 ─ 국제)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107376&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107376&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
-            <pubDate>Thu, 09 Jun 2022 05:18:19 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/view.asp?idx=107376&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
-					
-					<img src="/media/upFiles2/2022/06/21878869_copy_295x190_1.jpg" alt="" class="news_img" height="70">
-					
-					<span class="news_txt">랜섬웨에 공격의 피해자들, 돈을 냈어도 80%가 다시 공격 받았다</span>
-					</a><br>
-					<a href="/media/view.asp?idx=107376&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">보안 외신 시큐리티위크에 의하면 랜섬웨에 공격자들에게 돈을 내봐야 소용이 없다는 연구 결과가 나왔다고 한다. 랜섬웨어 공격에 당해 돈을 낸 기업들의 80%가 다시...</a> <span class="news_writer">문가용 기자 | 2022년 06월 09일 13:44</span>]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/21878869_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[보안 실무·책임자가 선호하는 영상보안 장비 제조사는 어디? (보안뉴스 ─ 기획특집)]]></title>
