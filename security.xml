@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-06-13T05:24:23.400Z</updated>
+    <updated>2022-06-13T06:25:50.740Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[애플 M1 칩에서 패치 불가능한 취약점 발견한 MIT 연구원]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107445&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107445&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-06-13T06:23:04.957Z</updated>
+        <content type="html"><![CDATA[애플의 고성능 칩셋인 M1을 겨냥한 실험용 공격이 성공을 거두며 애플 생태계에 적생 경보가 떴다고 보안 외신 해커뉴스가 보도했다. 실험실에서 진행된 공격을 공격자들이 성공할 경우 맥OS 시스템에서 임의의 코드를 실행할 수 있게 된다고 한다. 이 공격에는 팩맨(PACMA...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[PyPI 패키지들에서 비밀번호 탈취 코드 발견돼]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=107444&amp;page=1&amp;mkind=1&amp;kind=1</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=107417&amp;page=1&amp;mkind=1&amp;kind=3"/>
         <updated>2022-06-10T09:16:39.028Z</updated>
         <content type="html"><![CDATA[121개국이 참여하여 전 세계적 주요 쟁점인 2050 탄소중립 시대를 맞아 중요성이 더 커진 환경, 사회, 지배구조(ESG) 관점에서 투자자들이 어떻게 기업 성과를 평가해야 하는지 방향을 제시하는 ‘쉽게 이해하고 적용하는 ESG 투자와 경영’이 출간됐다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이상한 랜섬웨어, 복호화 키를 로블록스 게임 내에서 판매]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107415&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107415&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-06-10T09:16:39.030Z</updated>
-        <content type="html"><![CDATA[새로운 랜섬웨어가 등장했다고 외신인 블리핑컴퓨터가 보도했다. 이 랜섬웨어 운영자들은 복호화 키를 로블록스(Roblox)라는 게임 생태계 내에서 판매하는 중이다. 당연히 거래는 로블록스 내 화폐인 로벅스(Robux)로 이뤄진다. 이 랜섬웨어의 이름은 워너프렌드미(Wann...]]></content>
     </entry>
 </feed>
