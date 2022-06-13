@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=2</id>
     <title>보안뉴스 ─ IT</title>
-    <updated>2022-06-13T06:25:50.561Z</updated>
+    <updated>2022-06-13T07:19:02.723Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[예금보험공사, 신기술을 통한 대국민 서비스 강화]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107432&amp;page=1&amp;mkind=2&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107432&amp;page=1&amp;mkind=2&amp;kind=2"/>
+        <updated>2022-06-13T07:16:47.993Z</updated>
+        <content type="html"><![CDATA[예금보험공사는 AI챗봇 ‘예솜24’를 활용해 민원인이 쉽고 빠르게 궁금한 사항을 찾아보고 문제를 해결할 수 있는 24시간 대국민 서비스를 지난 9일부터 시작했다. 아울러 지난 3일 온라인에서 공매물건의 내·외부 현장을 상세하게 확인할 수 있는 ‘VR 공매정보 서비스’도...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[제조업 부문 중견기업 혁신을 위한 디지털 전환 전략 모색한다]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=107431&amp;page=1&amp;mkind=2&amp;kind=2</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=107396&amp;page=1&amp;mkind=2&amp;kind=2"/>
         <updated>2022-06-10T01:25:56.921Z</updated>
         <content type="html"><![CDATA[국토교통부와 서울시, 현대차 협업으로 선보이는 이번 시범 운행은 전 세계적으로도 가장 혼잡한 지역인 서울 강남 도심 내에서 자율주행 기술을 실증해 레벨4 완전 자율주행에 한발 더 다가갈 전망이다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[과기정통부, ‘정보통신기술 기반 혁신 제품·서비스 아이디어 공모전’ 시상식 개최]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107393&amp;page=1&amp;mkind=2&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107393&amp;page=1&amp;mkind=2&amp;kind=2"/>
-        <updated>2022-06-10T01:25:56.925Z</updated>
-        <content type="html"><![CDATA[과학기술정보통신부는 지난 9일 정보통신기술(ICT) 기반 혁신제품·서비스 아이디어 공모전 시상식을 개최했다. 과기정통부는 작년 11월 25일부터 12월 24일까지 공모전을 실시해 총 156건(기업 부문 107건, 개인 부문 49건)의 아이디어를 발굴했으며, 1차 아이디...]]></content>
     </entry>
 </feed>
