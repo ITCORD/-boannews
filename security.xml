@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-06-13T07:19:02.722Z</updated>
+    <updated>2022-06-13T08:24:14.293Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[올바른 행동 분석 알고리즘이 기업의 안전 좌지우지 한다]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107447&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107447&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-06-13T08:21:14.475Z</updated>
+        <content type="html"><![CDATA[사이버 공격이 점점 고도화 됨에 따라 섹옵스(SecOps) 팀이 느끼는 부담은 점점 커지고 있다. 공격자들이 빠르고 교묘함에 움직이니 방어자들도 탐지와 대응에 걸리는 시간을 단축해야 하는데, 이 책임이 고스란히 섹옵스 팀에 넘어가고 있는 것이다. 그래서 행동 분석을 기...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[블루투스 신호 악용하면 스마트폰 추적 가능하다]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=107446&amp;page=1&amp;mkind=1&amp;kind=1</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=107420&amp;page=1&amp;mkind=1&amp;kind=3"/>
         <updated>2022-06-10T10:19:03.774Z</updated>
         <content type="html"><![CDATA[엠클라우독(대표 유상열)이 6월 7일 롯데월드 타워에서 인공지능 지식관리 솔루션 아이독(AIDOC)의 출시기념 세미나를 진행했다. 세미나는 문서관리와 관련된 세계적인 기술의 흐름을 분석한 후에 제품을 소개하는 순서로 진행됐다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[6월 첫째 주, 정보탈취 ‘인포스틸러’ 악성코드 국내 유포 기승 부렸다]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107419&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107419&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-06-10T09:16:39.026Z</updated>
-        <content type="html"><![CDATA[2022년 6월 첫째 주에는 개인정보 및 계정정보 탈취 목적의 인포스틸러 악성코드가 국내에 유포된 전체 악성코드의 대부분을 차지한 것으로 분석됐다. 보안전문 업체 안랩의 ASEC 분석팀이 ASEC 자동 분석 시스템 ‘RAPIT’를 활용해 2022년 5월 30일부터 6월...]]></content>
     </entry>
 </feed>
