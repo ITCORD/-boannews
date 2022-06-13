@@ -4,9 +4,23 @@
         <title>보안뉴스 ─ 국제</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Jun 2022 10:23:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jun 2022 12:35:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[남미 은행들 주로 노리는 고급 리눅스 멀웨어, 심바이오트]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107456&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107456&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
+            <pubDate>Mon, 13 Jun 2022 12:34:35 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/view.asp?idx=107456&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
+					
+					<img src="/media/upFiles2/2022/06/21094099_copy_295x190_1.jpg" alt="" class="news_img" height="70">
+					
+					<span class="news_txt">남미 은행들 주로 노리는 고급 리눅스 멀웨어, 심바이오트</span>
+					</a><br>
+					<a href="/media/view.asp?idx=107456&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">남미 지역의 금융 기관들을 노리는 리눅스 멀웨어, 심바이오트(Symbiote)가 발견됐다. 모든 파일과 프로세스, 각종 네트워크 아티팩트를 숨기기 때문에 포렌식으...</a> <span class="news_writer">문가용 기자 | 2022년 06월 13일 20:52</span>]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/21094099_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[애플의 M1 칩셋에서 시스템 권한 가져가게 하는 설계 오류 발견돼]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107455&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
@@ -272,20 +286,6 @@
 					</a><br>
 					<a href="/media/view.asp?idx=107378&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">보안 외신 해커뉴스에 의하면 MS 윈도에서 제로데이 취약점이 발견됐다고 한다. 이 취약점의 이름은 도그워크(DogWalk)이며, 일종의 경로 조작 취약점으로 분석...</a> <span class="news_writer">문가용 기자 | 2022년 06월 09일 13:49</span>]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20833193_copy_295x190_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[칼리 리눅스 팀, 무료 모의 해킹 강좌를 트위치에서 제공]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107377&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107377&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
-            <pubDate>Thu, 09 Jun 2022 05:18:19 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/view.asp?idx=107377&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
-					
-					<img src="/media/upFiles2/2022/06/21487261_copy_295x190_1.jpg" alt="" class="news_img" height="70">
-					
-					<span class="news_txt">칼리 리눅스 팀, 무료 모의 해킹 강좌를 트위치에서 제공</span>
-					</a><br>
-					<a href="/media/view.asp?idx=107377&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">IT 외신 블리핑컴퓨터에 의하면 칼리 리눅스(Kali Linux)를 만든 보안 업체 오펜시브시큐리티(Offensive Security)가 이번 달부터 트위치라는 ...</a> <span class="news_writer">문가용 기자 | 2022년 06월 09일 13:46</span>]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/21487261_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
