@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-06-12T23:19:30.939Z</updated>
+    <updated>2022-06-13T01:44:26.415Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한글문서 ‘OLE 개체 연결 삽입’ 기능 악용한 APT 문서 유포]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107435&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107435&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-06-13T01:41:29.756Z</updated>
+        <content type="html"><![CDATA[최근 MS 오피스의 제로데이 취약점인 ‘폴리나(Follina)’를 악용한 공격이 기승을 부리고 있는 가운데, 한글 문서의 정상기능을 악용한 APT 공격이 유포되고 있어 사용자들의 주의가 요구된다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[주말판] 랜섬웨어 전성시대에 최전선에서 점점 많이 보이는 얼굴, CDO]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107433&amp;page=1&amp;mkind=1&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107433&amp;page=1&amp;mkind=1&amp;kind=3"/>
+        <updated>2022-06-13T01:41:29.757Z</updated>
+        <content type="html"><![CDATA[랜섬웨어, 얼마나 큰 문제가 되고 있을까? 전 세계의 조직 1/3 이상이 이미 랜섬웨어 공격에 피해를 입은 적이 있다고 한다. 그것도 지난 12개월 안에 피해를 입은 조직이 이만큼이다. FBI의 통계에 의하면 랜섬웨어 피해자는 매년 20% 꼴로 증가한다고 한다. 이 정...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[1년 반 동안 죽어 지냈던 이모텟, 슬슬 살아날 조짐 보인다]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107423&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107423&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-06-13T01:41:29.764Z</updated>
+        <content type="html"><![CDATA[악명 높은 봇넷 멀웨어인 이모텟(Emotet)이 되살아났다. 2021년 1월 국제적인 공조로 폐쇄된 조직 및 공격 인프라가 약 1년 반 만에 부활한 것이다. 국제 사법 기관들의 공조로 사라진 멀웨어들은 거의 항상 되살아난다는 것이 다시 한 번 증명됐다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[정보보호제품 성능평가 제도, EDR 추가하고 평가기준 강화된다]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=107422&amp;page=1&amp;mkind=1&amp;kind=2</id>
@@ -102,26 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=107387&amp;page=1&amp;mkind=1&amp;kind=1"/>
         <updated>2022-06-10T01:25:44.305Z</updated>
         <content type="html"><![CDATA[모바일 기기를 대상으로 하는 사이버 공격은 보이스피싱과 몸캠피싱은 물론 스미싱 등 다양하다. 수법이 더 다양화되고 정교해지면서 피해 금액도 상당한 수준이다. 경찰 자료에 따르면 2020년 기준 보이스피싱 사기는 3만 1,681건에 피해액 7,000억원이며, 몸캠피싱은 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Weekly Security Premium Report 제54호 발간! 최신 개인정보보호 이슈분석]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107386&amp;page=1&amp;mkind=1&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107386&amp;page=1&amp;mkind=1&amp;kind=3"/>
-        <updated>2022-06-10T01:25:44.306Z</updated>
-        <content type="html"><![CDATA[6월 9일 발간된 ‘Weekly Security Premium Report’ 제54호에는 &lt;보안 심층 리포트&gt; 코너에서 지난 6월 2일부터 3일까지 양일간 서울 코엑스 그랜드볼룸에서 개최된 ‘제11회 개인정보보호 페어 &amp; CPO 워크숍(PIS FAIR 202...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[신규 랜섬웨어 그룹 블랙바스타, 윈도를 넘어 가상기계들도 노리기 시작해]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107384&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107384&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-06-09T10:20:30.991Z</updated>
-        <content type="html"><![CDATA[블랙바스타(Black Basta)라는 랜섬웨어 공격 단체가 지난 달 처음 등장해 윈도 기반 시스템들을 노리기 시작했다. 그런데 지금은 VM웨어(VMware)의 가상기계들까지도 공략하고 있다. 공격자들의 빠른 세력 확장과 기술력 보강이 점점 더 위협적으로 다가온다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘하이웍스 업데이트’ 사칭 악성 메일, 클릭하면 계정정보 훔친다]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107372&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107372&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-06-09T09:19:47.871Z</updated>
-        <content type="html"><![CDATA[최근 가비아의 이메일 서비스 ‘하이웍스(hiworks)’를 사칭한 악성메일이 급증해 사용자의 주의가 요구된다. 발견된 악성메일은 대부분 이메일이나 비밀번호가 만료됐다거나, 이메일 계정이 오래돼 메시지를 받을 수 없다며 업데이트 할 것을 요구한다. 주로 링크를 통해 가짜...]]></content>
     </entry>
 </feed>
