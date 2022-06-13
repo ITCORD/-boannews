@@ -4,9 +4,17 @@
         <title>보안뉴스 ─ Security World</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Jun 2022 03:38:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jun 2022 04:41:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[KAIST, 인공지능 엔진으로 영상 위변조 탐지 기...]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107442&amp;mkind=5</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107442&amp;mkind=5</guid>
+            <pubDate>Mon, 13 Jun 2022 04:39:23 GMT</pubDate>
+            <content:encoded><![CDATA[KAIST(총장 이광형)는 이흥규 전산학부 교수 연구팀이 새로운 인공지능 구조와 학습 방법론, 그리고 실험실 환경에서는 구하기 힘든 고급 변형 이미지 영상...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/22061301ss.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[똑똑해지는 공항, 항공관제의 눈을 넓힌다]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107427&amp;mkind=5</link>
@@ -14,14 +22,6 @@
             <pubDate>Sat, 11 Jun 2022 06:20:31 GMT</pubDate>
             <content:encoded><![CDATA[국토교통부와 인천국제공항공사는 인천국제공항의 항공기 안전을 획기적으로 개선하고 미래 항공수요를 적기에 처리하기 위해 스마트통합관제플랫폼을 적극 도입한다고 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/6-100(295).jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한국항공보안학회, ‘엔데믹 시대의 안전한 하늘길’ ...]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107416&amp;mkind=5</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107416&amp;mkind=5</guid>
-            <pubDate>Fri, 10 Jun 2022 07:17:40 GMT</pubDate>
-            <content:encoded><![CDATA[한국항공보안학회(회장 황호원)가 서울 강서구에 위치한 국립항공박물관 대강당에서 ‘엔데믹 시대 안전한 하늘길을 위한 항공보안’이라는 주제로 2022년 춘계학...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/22061002ss.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
