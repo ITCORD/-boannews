@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Jun 2022 19:17:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jun 2022 20:20:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -349,20 +349,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20220613TV-S.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
-            <title><![CDATA[Weekly Security Premium Report 제54호 발간! 최신 개인정보보호 이슈분석 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107386&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107386&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
-            <pubDate>Mon, 13 Jun 2022 08:21:00 GMT</pubDate>
-            <content:encoded><![CDATA[6월 9일 발간된 ‘Weekly Security Premium Report’ 제54호에는 &lt;보안 심층 리포트&gt; 코너에서 지난 6월 2일부터 3일까지 양...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20220527REPORT-MS.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
             <title><![CDATA[주고 받은 ‘회신 이메일’도 다시 보자! 범블비 악성코드 기승 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107450&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107450&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Tue, 14 Jun 2022 01:45:58 GMT</pubDate>
             <content:encoded><![CDATA[최근 주고 받은 메일의 ‘회신된 이메일’로 악성코드를 담아 보내는 공격이 발견돼 사용자들의 주의가 요구된다. 정상적으로 주고 받던 메일의 ‘회신’된 메일이기에 피...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/esrc_061301_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Weekly Security Premium Report 제54호 발간! 최신 개인정보보호 이슈분석 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107386&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107386&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
+            <pubDate>Mon, 13 Jun 2022 08:21:00 GMT</pubDate>
+            <content:encoded><![CDATA[6월 9일 발간된 ‘Weekly Security Premium Report’ 제54호에는 &lt;보안 심층 리포트&gt; 코너에서 지난 6월 2일부터 3일까지 양...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20220527REPORT-MS.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[피해를 입힐 줄 아는 공격자들, 하다하다 허위 협박에까지 도달해 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
@@ -397,12 +397,12 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/pipc_060801_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[한글문서 ‘OLE 개체 연결 삽입’ 기능 악용한 APT 문서 유포 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107435&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107435&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Tue, 14 Jun 2022 09:23:02 GMT</pubDate>
-            <content:encoded><![CDATA[최근 MS 오피스의 제로데이 취약점인 ‘폴리나(Follina)’를 악용한 공격이 기승을 부리고 있는 가운데, 한글 문서의 정상기능을 악용한 APT 공격이 유포되고...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20312979_main(3).jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[범죄도시2의 사이버 판? 검사 사칭 보이스피싱 일당, 베트남서 검거 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107452&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107452&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Tue, 14 Jun 2022 20:17:30 GMT</pubDate>
+            <content:encoded><![CDATA[해외에서 우리나라 국민들을 대상으로 범행을 저질러온 보이스피싱 범죄단 일당이 베트남에서 검거됐다. 요즘 천만 관객몰이에 성공하는 등 흥행가도를 달리고 있는 범죄도...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/police_061301_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[러시아의 APT 단체, 폴리나 취약점 통해 우크라이나 조직들 공격 중 (보안뉴스 ─ SECURITY)]]></title>
