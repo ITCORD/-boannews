@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Jun 2022 09:25:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jun 2022 10:23:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -120,20 +120,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20220527REPORT-MS.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
-            <title><![CDATA[신규 랜섬웨어 그룹 블랙바스타, 윈도를 넘어 가상기계들도 노리기 시작해]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107384&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107384&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Sun, 12 Jun 2022 13:22:50 GMT</pubDate>
-            <content:encoded><![CDATA[블랙바스타(Black Basta)라는 랜섬웨어 공격 단체가 지난 달 처음 등장해 윈도 기반 시스템들을 노리기 시작했다. 그런데 지금은 VM웨어(VMware)의 가...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/21412442_copy_295x190_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[bnTV] RAT 악성코드 파격세일!! 다크웹 마켓에서 13,000원에 살 수 있다고?]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107448&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107448&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Tue, 14 Jun 2022 01:45:58 GMT</pubDate>
             <content:encoded><![CDATA[DCRat은 ‘Dark Crystal Rat’이라고 하는 용어의 약자인데 DCRat이 재밌는 부분은 말씀하셨듯이 굉장히 저렴하게 판매가 됐어요. 한화로 13,00...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20220613TV-S.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[신규 랜섬웨어 그룹 블랙바스타, 윈도를 넘어 가상기계들도 노리기 시작해]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107384&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107384&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Sun, 12 Jun 2022 13:22:50 GMT</pubDate>
+            <content:encoded><![CDATA[블랙바스타(Black Basta)라는 랜섬웨어 공격 단체가 지난 달 처음 등장해 윈도 기반 시스템들을 노리기 시작했다. 그런데 지금은 VM웨어(VMware)의 가...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/21412442_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[주고 받은 ‘회신 이메일’도 다시 보자! 범블비 악성코드 기승]]></title>

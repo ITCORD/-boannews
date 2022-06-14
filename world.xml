@@ -4,9 +4,23 @@
         <title>보안뉴스 ─ 국제</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Jun 2022 09:25:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jun 2022 10:23:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인기 높은 프록시 서버 오픈소스인 엔보이 프록시에서 디도스 취약점 발견돼]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107493&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107493&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
+            <pubDate>Tue, 14 Jun 2022 10:22:45 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/view.asp?idx=107493&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
+					
+					<img src="/media/upFiles2/2022/06/slow-thumb-0614.jpg" alt="" class="news_img" height="70">
+					
+					<span class="news_txt">인기 높은 프록시 서버 오픈소스인 엔보이 프록시에서 디도스 취약점 발견돼</span>
+					</a><br>
+					<a href="/media/view.asp?idx=107493&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">엔보이 프록시(Envoy Proxy)에서 디도스 공격을 가능하게 하는 취약점이 발견됐다. 이 취약점을 익스플로잇 할 경우 공격자들은 프록시 서버를 완전히 마비시킬...</a> <span class="news_writer">문가용 기자 | 2022년 06월 14일 19:06</span>]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/slow-thumb-0614.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[미국 CISA, 시스템 장악 가능케 하는 크롬 취약점 4개에 대한 경고문 발표]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107492&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
@@ -272,20 +286,6 @@
 					</a><br>
 					<a href="/media/view.asp?idx=107413&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">얼마 전 공개된 MS 생태계의 제로데이 취약점 폴리나(Follina)가 계속해서 공격자들에 의해 악용되고 있다고 보안 외신 시큐리티위크가 보도했다. 특히 큐봇(Q...</a> <span class="news_writer">문가용 기자 | 2022년 06월 10일 12:31</span>]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20470127_copy_295x190_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[해킹된 러시아 방송국, 우크라이나 국가 송출해]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107412&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107412&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
-            <pubDate>Fri, 10 Jun 2022 04:26:29 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/view.asp?idx=107412&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
-					
-					<img src="/media/upFiles2/2022/06/20443926_copy_295x190_1.jpg" alt="" class="news_img" height="70">
-					
-					<span class="news_txt">해킹된 러시아 방송국, 우크라이나 국가 송출해</span>
-					</a><br>
-					<a href="/media/view.asp?idx=107412&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">러시아 라디오 방송국이 해킹 공격에 당했다고 일간지 워싱턴포스트가 보도했다. 그리고 우크라이나의 국가와 반전 노래들이 송출됐다. 문제의 라디오 방송국은 코메르산트...</a> <span class="news_writer">문가용 기자 | 2022년 06월 10일 12:30</span>]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20443926_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,9 +4,17 @@
         <title>보안뉴스 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Jun 2022 09:25:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jun 2022 10:23:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인기 높은 프록시 서버 오픈소스인 엔보이 프록시에서 디도스 취약점 발견돼]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107493&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107493&amp;page=1&amp;kind=1</guid>
+            <pubDate>Tue, 14 Jun 2022 10:20:16 GMT</pubDate>
+            <content:encoded><![CDATA[엔보이 프록시(Envoy Proxy)에서 디도스 공격을 가능하게 하는 취약점이 발견됐다. 이 취약점을 익스플로잇 할 경우 공격자들은 프록시 서버를 완전히 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/slow-thumb-0614.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[미국 CISA, 시스템 장악 가능케 하는 크롬 취약점 4개에 대한 경고문 발표]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107492&amp;page=1&amp;kind=1</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 14 Jun 2022 01:45:41 GMT</pubDate>
             <content:encoded><![CDATA[뉴스채널 YTN이 운영하는 유튜브가 2일간 연속으로 해킹공격을 받아 운영이 중단됐다. YTN 유튜브는 해킹을 당해 가상화폐 홍보 영상이 방송됐으며, 구글은...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/ytn_061401_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[남미 은행들 주로 노리는 고급 리눅스 멀웨어, 심바이오트]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107456&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107456&amp;page=1&amp;kind=1</guid>
-            <pubDate>Mon, 13 Jun 2022 12:32:34 GMT</pubDate>
-            <content:encoded><![CDATA[남미 지역의 금융 기관들을 노리는 리눅스 멀웨어, 심바이오트(Symbiote)가 발견됐다. 모든 파일과 프로세스, 각종 네트워크 아티팩트를 숨기기 때문에 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/21094099_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[에스씨지솔루션즈, 대전지사 설립]]></title>

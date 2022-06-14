@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Jun 2022 09:25:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jun 2022 10:23:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인기 높은 프록시 서버 오픈소스인 엔보이 프록시에서 디도스 취약점 발견돼 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107493&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107493&amp;page=1&amp;kind=1</guid>
+            <pubDate>Tue, 14 Jun 2022 10:20:16 GMT</pubDate>
+            <content:encoded><![CDATA[엔보이 프록시(Envoy Proxy)에서 디도스 공격을 가능하게 하는 취약점이 발견됐다. 이 취약점을 익스플로잇 할 경우 공격자들은 프록시 서버를 완전히 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/slow-thumb-0614.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[미국 CISA, 시스템 장악 가능케 하는 크롬 취약점 4개에 대한 경고문 발표 (보안뉴스 ─ 전체기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107492&amp;page=1&amp;kind=1</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 14 Jun 2022 01:45:41 GMT</pubDate>
             <content:encoded><![CDATA[뉴스채널 YTN이 운영하는 유튜브가 2일간 연속으로 해킹공격을 받아 운영이 중단됐다. YTN 유튜브는 해킹을 당해 가상화폐 홍보 영상이 방송됐으며, 구글은...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/ytn_061401_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[남미 은행들 주로 노리는 고급 리눅스 멀웨어, 심바이오트 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107456&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107456&amp;page=1&amp;kind=1</guid>
-            <pubDate>Mon, 13 Jun 2022 12:32:34 GMT</pubDate>
-            <content:encoded><![CDATA[남미 지역의 금융 기관들을 노리는 리눅스 멀웨어, 심바이오트(Symbiote)가 발견됐다. 모든 파일과 프로세스, 각종 네트워크 아티팩트를 숨기기 때문에 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/21094099_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[에스씨지솔루션즈, 대전지사 설립 (보안뉴스 ─ 전체기사)]]></title>
@@ -357,20 +357,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20220527REPORT-MS.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
-            <title><![CDATA[신규 랜섬웨어 그룹 블랙바스타, 윈도를 넘어 가상기계들도 노리기 시작해 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107384&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107384&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Sun, 12 Jun 2022 13:22:50 GMT</pubDate>
-            <content:encoded><![CDATA[블랙바스타(Black Basta)라는 랜섬웨어 공격 단체가 지난 달 처음 등장해 윈도 기반 시스템들을 노리기 시작했다. 그런데 지금은 VM웨어(VMware)의 가...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/21412442_copy_295x190_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[bnTV] RAT 악성코드 파격세일!! 다크웹 마켓에서 13,000원에 살 수 있다고? (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107448&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107448&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Tue, 14 Jun 2022 01:45:58 GMT</pubDate>
             <content:encoded><![CDATA[DCRat은 ‘Dark Crystal Rat’이라고 하는 용어의 약자인데 DCRat이 재밌는 부분은 말씀하셨듯이 굉장히 저렴하게 판매가 됐어요. 한화로 13,00...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20220613TV-S.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[신규 랜섬웨어 그룹 블랙바스타, 윈도를 넘어 가상기계들도 노리기 시작해 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107384&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107384&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Sun, 12 Jun 2022 13:22:50 GMT</pubDate>
+            <content:encoded><![CDATA[블랙바스타(Black Basta)라는 랜섬웨어 공격 단체가 지난 달 처음 등장해 윈도 기반 시스템들을 노리기 시작했다. 그런데 지금은 VM웨어(VMware)의 가...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/21412442_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[주고 받은 ‘회신 이메일’도 다시 보자! 범블비 악성코드 기승 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
@@ -403,6 +403,13 @@
             <pubDate>Tue, 14 Jun 2022 09:23:02 GMT</pubDate>
             <content:encoded><![CDATA[최근 MS 오피스의 제로데이 취약점인 ‘폴리나(Follina)’를 악용한 공격이 기승을 부리고 있는 가운데, 한글 문서의 정상기능을 악용한 APT 공격이 유포되고...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20312979_main(3).jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[러시아의 APT 단체, 폴리나 취약점 통해 우크라이나 조직들 공격 중 (보안뉴스 ─ SECURITY)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107486&amp;page=1&amp;mkind=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107486&amp;page=1&amp;mkind=1&amp;kind=1</guid>
+            <pubDate>Tue, 14 Jun 2022 10:20:52 GMT</pubDate>
+            <content:encoded><![CDATA[보안 블로그 시큐리티어페어즈에 의하면 러시아의 APT 단체가 최근 공개된 MS 제품의 취약점인 폴리나(Follina)를 악용해 우크라이나 단체들을 공격하기 시작했다고 한다. 이는 우크라이나의 공식 침해대응센터에서부터 나온 경고를 인용한 것으로, 문제의 해킹 그룹은 샌드...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[회사에서 많이 사용하는 IP 전화 제품에서 취약점 발견돼 (보안뉴스 ─ SECURITY)]]></title>
@@ -515,13 +522,6 @@
             <guid>https://www.boannews.com/media/view.asp?idx=107450&amp;page=1&amp;mkind=1&amp;kind=1</guid>
             <pubDate>Mon, 13 Jun 2022 12:32:57 GMT</pubDate>
             <content:encoded><![CDATA[최근 주고 받은 메일의 ‘회신된 이메일’로 악성코드를 담아 보내는 공격이 발견돼 사용자들의 주의가 요구된다. 정상적으로 주고 받던 메일의 ‘회신’된 메일이기에 피해자는 별다른 의심없이 메일을 받고 첨부파일을 열어 악성코드에 감염되는 방식이라 피해가 커지고 있다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[bnTV] RAT 악성코드 파격세일!! 다크웹 마켓에서 13,000원에 살 수 있다고? (보안뉴스 ─ SECURITY)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107448&amp;page=1&amp;mkind=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107448&amp;page=1&amp;mkind=1&amp;kind=1</guid>
-            <pubDate>Mon, 13 Jun 2022 09:18:18 GMT</pubDate>
-            <content:encoded><![CDATA[DCRat은 ‘Dark Crystal Rat’이라고 하는 용어의 약자인데 DCRat이 재밌는 부분은 말씀하셨듯이 굉장히 저렴하게 판매가 됐어요. 한화로 13,000원 정도 굉장히 싸게 판매가 되고 있고요. 기능들을 봤을 때 기존 RAT 악성코드에서 제공하는 모든 기능을...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[현대차, 전문가와 함께하는 AI 경진대회 개최 (보안뉴스 ─ IT)]]></title>
@@ -1898,6 +1898,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/20220522summit-s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[인기 높은 프록시 서버 오픈소스인 엔보이 프록시에서 디도스 취약점 발견돼 (보안뉴스 ─ 국제)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107493&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107493&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
+            <pubDate>Tue, 14 Jun 2022 10:22:45 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/view.asp?idx=107493&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
+					
+					<img src="/media/upFiles2/2022/06/slow-thumb-0614.jpg" alt="" class="news_img" height="70">
+					
+					<span class="news_txt">인기 높은 프록시 서버 오픈소스인 엔보이 프록시에서 디도스 취약점 발견돼</span>
+					</a><br>
+					<a href="/media/view.asp?idx=107493&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">엔보이 프록시(Envoy Proxy)에서 디도스 공격을 가능하게 하는 취약점이 발견됐다. 이 취약점을 익스플로잇 할 경우 공격자들은 프록시 서버를 완전히 마비시킬...</a> <span class="news_writer">문가용 기자 | 2022년 06월 14일 19:06</span>]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/slow-thumb-0614.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[미국 CISA, 시스템 장악 가능케 하는 크롬 취약점 4개에 대한 경고문 발표 (보안뉴스 ─ 국제)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107492&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107492&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
@@ -2162,20 +2176,6 @@
 					</a><br>
 					<a href="/media/view.asp?idx=107413&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">얼마 전 공개된 MS 생태계의 제로데이 취약점 폴리나(Follina)가 계속해서 공격자들에 의해 악용되고 있다고 보안 외신 시큐리티위크가 보도했다. 특히 큐봇(Q...</a> <span class="news_writer">문가용 기자 | 2022년 06월 10일 12:31</span>]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20470127_copy_295x190_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[해킹된 러시아 방송국, 우크라이나 국가 송출해 (보안뉴스 ─ 국제)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107412&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107412&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
-            <pubDate>Fri, 10 Jun 2022 04:26:29 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/view.asp?idx=107412&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
-					
-					<img src="/media/upFiles2/2022/06/20443926_copy_295x190_1.jpg" alt="" class="news_img" height="70">
-					
-					<span class="news_txt">해킹된 러시아 방송국, 우크라이나 국가 송출해</span>
-					</a><br>
-					<a href="/media/view.asp?idx=107412&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">러시아 라디오 방송국이 해킹 공격에 당했다고 일간지 워싱턴포스트가 보도했다. 그리고 우크라이나의 국가와 반전 노래들이 송출됐다. 문제의 라디오 방송국은 코메르산트...</a> <span class="news_writer">문가용 기자 | 2022년 06월 10일 12:30</span>]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20443926_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[보안 실무·책임자가 선호하는 영상보안 장비 제조사는 어디? (보안뉴스 ─ 기획특집)]]></title>
