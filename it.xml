@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=2</id>
     <title>보안뉴스 ─ IT</title>
-    <updated>2022-06-14T01:48:55.831Z</updated>
+    <updated>2022-06-14T03:53:54.077Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[현대차, 전문가와 함께하는 AI 경진대회 개최]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107468&amp;page=1&amp;mkind=2&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107468&amp;page=1&amp;mkind=2&amp;kind=3"/>
+        <updated>2022-06-14T03:51:42.925Z</updated>
+        <content type="html"><![CDATA[현대차가 ‘제2회 현대차 연구개발본부 AI 경진대회’를 개최한다고 밝혔다. 올해로 두번째를 맞는 이번 ‘AI 경진대회’는 현대차 연구개발본부 실무자와 대학(원)생이 팀을 이뤄 실제 연구개발 현장에서 발굴된 문제점을 인공지능 알고리즘을 활용해 개선하는 프로젝트형 경진대회...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[LG유플러스, 인터넷 전용회선과 광랜에 ‘U+ SD-WAN’ 확대 적용]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=107467&amp;page=1&amp;mkind=2&amp;kind=3</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=107428&amp;page=1&amp;mkind=2&amp;kind=3"/>
         <updated>2022-06-11T06:20:12.271Z</updated>
         <content type="html"><![CDATA[KT는 올해 민영화 20주년을 맞았으며, 이를 기점으로 역동적 혁신 성장을 위한 미래 계획을 발표했다. KT그룹은 2022년부터 2026년까지 5개년간 네트워크·디지코·벤처/스타트업 분야에 27조원 투자를 단행하고, 디지털 인재 양성 주도와 함께 약 2.8만명을 직접 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[특허청, 산업계 협력 10주년 기념 선진 5개 특허청(IP5) 청장회의 개최]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107426&amp;page=1&amp;mkind=2&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107426&amp;page=1&amp;mkind=2&amp;kind=2"/>
-        <updated>2022-06-11T06:20:12.271Z</updated>
-        <content type="html"><![CDATA[특허청은 우리나라, 미국, 일본, 중국 및 유럽 특허청으로 구성된 세계 5대 특허청(IP5) 청장들은 산업계 대표들과의 연석회의, 청장회의를 각각 8일, 9일 양일에 걸쳐 개최해 지속가능발전목표의 실현을 위한 지식재산의 역할 등에 대해 열띤 토론을 하고 앞으로의 협력 ...]]></content>
     </entry>
 </feed>
