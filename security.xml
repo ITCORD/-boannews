@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-06-14T08:25:19.405Z</updated>
+    <updated>2022-06-14T09:25:40.855Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[회사에서 많이 사용하는 IP 전화 제품에서 취약점 발견돼]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107485&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107485&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-06-14T09:23:14.076Z</updated>
+        <content type="html"><![CDATA[보안 외신 해커뉴스가 사무실에서 많이 사용되는 업무용 IP 전화기에서 중위험도의 취약점 두 개가 발견됐다고 보도했다. 문제의 제품은 마이텔 6800/6900(Mitel 6800/6900) 시리즈이며, 취약점 익스플로잇에 성공할 경우 공격자는 전화기의 루트 권한을 취득할...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[우간다 증권 거래소에서 32GB의 민감 정보 유출돼]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=107484&amp;page=1&amp;mkind=1&amp;kind=1</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=107448&amp;page=1&amp;mkind=1&amp;kind=1"/>
         <updated>2022-06-13T09:18:18.646Z</updated>
         <content type="html"><![CDATA[DCRat은 ‘Dark Crystal Rat’이라고 하는 용어의 약자인데 DCRat이 재밌는 부분은 말씀하셨듯이 굉장히 저렴하게 판매가 됐어요. 한화로 13,000원 정도 굉장히 싸게 판매가 되고 있고요. 기능들을 봤을 때 기존 RAT 악성코드에서 제공하는 모든 기능을...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[올바른 행동 분석 알고리즘이 기업의 안전 좌지우지 한다]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107447&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107447&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-06-13T08:21:14.475Z</updated>
-        <content type="html"><![CDATA[사이버 공격이 점점 고도화 됨에 따라 섹옵스(SecOps) 팀이 느끼는 부담은 점점 커지고 있다. 공격자들이 빠르고 교묘함에 움직이니 방어자들도 탐지와 대응에 걸리는 시간을 단축해야 하는데, 이 책임이 고스란히 섹옵스 팀에 넘어가고 있는 것이다. 그래서 행동 분석을 기...]]></content>
     </entry>
 </feed>
