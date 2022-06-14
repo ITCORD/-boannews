@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Jun 2022 04:53:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jun 2022 05:32:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -86,6 +86,22 @@
             <pubDate>Mon, 13 Jun 2022 09:17:48 GMT</pubDate>
             <content:encoded><![CDATA[애플의 M1 프로세스 칩에서 설계 오류에 해당하는 취약점이 발견됐다. 그리고 이 취약점을 악용한 개념증명용 공격이 성공하기도 했다. 공격을 통해 연구원들은...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20918512_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[스파이스웨어, ‘넥스트라이즈 2022 서울’에서 ‘스파이스웨어 원’ 소개]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107489&amp;page=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107489&amp;page=1&amp;kind=3</guid>
+            <pubDate>Tue, 14 Jun 2022 05:29:26 GMT</pubDate>
+            <content:encoded><![CDATA[데이터 중심 제로 트러스트 보안 스타트업 스파이스웨어(대표 김근진)가 투자 유치 및 신규 인재 영입으로 사업 성장 기회를 모색한다. 스파이스웨어는 오는 1...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/spiceware-c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한국첨단안전산업협회, 한국재난안전산업기술연구조합과 안전산업 발전 위한 업무협약 체결]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107488&amp;page=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107488&amp;page=1&amp;kind=3</guid>
+            <pubDate>Tue, 14 Jun 2022 05:29:26 GMT</pubDate>
+            <content:encoded><![CDATA[ESG(환경·사회·지배구조)경영과 재난안전산업진흥법, 중대재해처벌법 시행 등으로 안전 관리 및 산업진흥의 중요성이 대두되고 있는 가운데, 국내 안전산업 발...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/22061401ss.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[퀀텀, ‘AI 기반 콘텐츠 분석 자동화 솔루션’ 발표]]></title>
@@ -225,20 +241,6 @@
             <guid>https://www.boannews.com/media/view.asp?idx=107460&amp;page=1&amp;kind=2</guid>
             <pubDate>Tue, 14 Jun 2022 01:45:41 GMT</pubDate>
             <content:encoded><![CDATA[특허청은 최근 주요국의 지재권 제도 동향과 개정 사항에 관한 정보 제공을 위해 대한변리사회와 함께 ‘2022년도 해외 지재권제도 설명회’를 14일 개최했다...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[첨단 운전자 보조 시스템, 자율주행차 시대 앞당긴다]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107459&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107459&amp;page=1&amp;kind=2</guid>
-            <pubDate>Tue, 14 Jun 2022 01:45:41 GMT</pubDate>
-            <content:encoded><![CDATA[특허청에 따르면 한국, 미국, 일본, 중국, 유럽에 출원된 첨단 운전자 보조 시스템(ADAS) 관련 특허는 2013년 2,000여건에서 연평균 약 20%씩...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[교통안전체험교육 받은 후 사고 약 56.8% 줄었다]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107458&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107458&amp;page=1&amp;kind=2</guid>
-            <pubDate>Tue, 14 Jun 2022 01:45:41 GMT</pubDate>
-            <content:encoded><![CDATA[국토교통부와 한국교통안전공단은 교통안전체험교육센터(상주/화성)에서 시행하는 교통안전체험교육 효과를 분석한 결과, 교육 후 교통사고가 절반 이상 줄어드는 것...]]></content:encoded>
         </item>
     </channel>
 </rss>

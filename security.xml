@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-06-14T04:53:29.393Z</updated>
+    <updated>2022-06-14T05:32:33.505Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[우간다 증권 거래소에서 32GB의 민감 정보 유출돼]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107484&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107484&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-06-14T05:29:49.531Z</updated>
+        <content type="html"><![CDATA[보안 외신 핵리드에 의하면 우간다의 증권 거래소인 USE가 데이터베이스 관리 실수를 통해 고도로 민감한 정보를 다량으로 유출시켰다고 한다. 각종 개인정보는 물론 금융 거래와 관련된 정보, 평문으로 저장된 로그인 크리덴셜들이 32GB나 새나간 것으로 집계된다. 데이터베이...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[정부 지원 해킹 단체 갈륨, 새로운 멀웨어 사용해 금융 기관 노려]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=107483&amp;page=1&amp;mkind=1&amp;kind=1</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=107447&amp;page=1&amp;mkind=1&amp;kind=1"/>
         <updated>2022-06-13T08:21:14.475Z</updated>
         <content type="html"><![CDATA[사이버 공격이 점점 고도화 됨에 따라 섹옵스(SecOps) 팀이 느끼는 부담은 점점 커지고 있다. 공격자들이 빠르고 교묘함에 움직이니 방어자들도 탐지와 대응에 걸리는 시간을 단축해야 하는데, 이 책임이 고스란히 섹옵스 팀에 넘어가고 있는 것이다. 그래서 행동 분석을 기...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[블루투스 신호 악용하면 스마트폰 추적 가능하다]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107446&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107446&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-06-13T07:16:34.881Z</updated>
-        <content type="html"><![CDATA[블루투스의 신호를 악용하는 공격이 개발됐다고 보안 매체 핵리드가 보도했다. 스마트폰에서 항시 나오는 블루투스 신호를 이용하여 스마트폰을 특정한 후 추적할 수 있다는 것으로, 프라이버시 침해와 특정 인물의 추적에 활용될 수 있다고 한다. 캘리포니아 대학의 엔지니어들이 발...]]></content>
     </entry>
 </feed>
