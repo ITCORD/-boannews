@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Jun 2022 07:19:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jun 2022 08:25:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,14 +46,6 @@
             <pubDate>Sun, 12 Jun 2022 04:26:50 GMT</pubDate>
             <content:encoded><![CDATA[국토교통부와 인천국제공항공사는 인천국제공항의 항공기 안전을 획기적으로 개선하고 미래 항공수요를 적기에 처리하기 위해 스마트통합관제플랫폼을 적극 도입한다고 밝혔다.]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/6-100(295).jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아틀라시안 컨플루언스 취약점 악용 공격 발견! 쇼단에 노출된 서버는 무방비]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107304&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107304&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Wed, 08 Jun 2022 01:21:36 GMT</pubDate>
-            <content:encoded><![CDATA[최근 아틀라시안 컨플루언스(Atlassian Confluence) 플랫폼에서 발견된 취약점(CVE-2022-26134)을 이용한 공격이 잇따라 포착돼 이용자들의 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20220607con-s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[보안 솔루션 사칭한 악성 앱이 사용자 정보를 노린다]]></title>
@@ -166,6 +158,14 @@
             <pubDate>Tue, 14 Jun 2022 05:29:37 GMT</pubDate>
             <content:encoded><![CDATA[애플의 M1 프로세스 칩에서 설계 오류에 해당하는 취약점이 발견됐다. 그리고 이 취약점을 악용한 개념증명용 공격이 성공하기도 했다. 공격을 통해 연구원들은 OS의...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20918512_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[랜섬웨어 산업에 스며드는 어두움, BEC가 활로될 수 있을까]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107306&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107306&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Tue, 14 Jun 2022 08:21:54 GMT</pubDate>
+            <content:encoded><![CDATA[사법 기관의 체포 활동과 암호화폐 규정이 점점 엄격해지고 있는 가운데 랜섬웨어 사업자들의 수익이 점점 낮아지고 있다고 한다. 앱노멀시큐리티(Abnormal Sec...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/21908049_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

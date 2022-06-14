@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Jun 2022 07:19:16 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jun 2022 08:25:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -86,6 +86,22 @@
             <pubDate>Mon, 13 Jun 2022 09:17:48 GMT</pubDate>
             <content:encoded><![CDATA[애플의 M1 프로세스 칩에서 설계 오류에 해당하는 취약점이 발견됐다. 그리고 이 취약점을 악용한 개념증명용 공격이 성공하기도 했다. 공격을 통해 연구원들은...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20918512_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[에스씨지솔루션즈, 대전지사 설립]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107491&amp;page=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107491&amp;page=1&amp;kind=3</guid>
+            <pubDate>Tue, 14 Jun 2022 08:21:42 GMT</pubDate>
+            <content:encoded><![CDATA[서울도시가스그룹 산하 IT전문기업인 에스씨지솔루션즈는 충청 및 호남지역 사업 강화를 위해 대전지사를 설립, 출범한다고 14일 밝혔다.]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/SG-SOLUTION_SUM.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[에스오에스랩, 코스닥 상장 대표 주관사로 한국투자증권 선정]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107490&amp;page=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107490&amp;page=1&amp;kind=3</guid>
+            <pubDate>Tue, 14 Jun 2022 08:21:42 GMT</pubDate>
+            <content:encoded><![CDATA[자율주행의 핵심 센서인 라이다(LiDAR)를 개발 및 제조하는 스타트업 에스오에스랩이 코스닥시장 상장을 위한 대표 주관사로 한국투자증권을, 공동 주관사로는...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/SOSLAM_SUM.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[스파이스웨어, ‘넥스트라이즈 2022 서울’에서 ‘스파이스웨어 원’ 소개]]></title>
@@ -227,20 +243,6 @@
             <guid>https://www.boannews.com/media/view.asp?idx=107462&amp;page=1&amp;kind=2</guid>
             <pubDate>Tue, 14 Jun 2022 01:45:41 GMT</pubDate>
             <content:encoded><![CDATA[부산시는 지난 13일부터 17일까지 5일간 부산·울산·양산 일대에서 ‘2022년도 화랑훈련’을 실시한다고 밝혔다. 화랑훈련은 전·평시 적 침투와 도발에 대...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[NIA, 2022년 인공지능 학습용 데이터 라벨링 전문 교육생 모집]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107461&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107461&amp;page=1&amp;kind=2</guid>
-            <pubDate>Tue, 14 Jun 2022 01:45:41 GMT</pubDate>
-            <content:encoded><![CDATA[과학기술정보통신부와 한국지능정보사회진흥원(NIA)은 고품질의 인공지능 학습용 데이터 구축 전문인력 양성을 위한 교육 과정을 오는 20일부터 운영한다고 밝혔...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[특허청-대한변리사회, 해외 지재권제도 설명회 개최]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107460&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107460&amp;page=1&amp;kind=2</guid>
-            <pubDate>Tue, 14 Jun 2022 01:45:41 GMT</pubDate>
-            <content:encoded><![CDATA[특허청은 최근 주요국의 지재권 제도 동향과 개정 사항에 관한 정보 제공을 위해 대한변리사회와 함께 ‘2022년도 해외 지재권제도 설명회’를 14일 개최했다...]]></content:encoded>
         </item>
     </channel>
 </rss>
