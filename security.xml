@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-06-14T23:18:41.119Z</updated>
+    <updated>2022-06-15T01:33:00.081Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[인기 높은 프록시 서버 오픈소스인 엔보이 프록시에서 디도스 취약점 발견돼]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107493&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107493&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-06-15T01:30:17.021Z</updated>
+        <content type="html"><![CDATA[엔보이 프록시(Envoy Proxy)에서 디도스 공격을 가능하게 하는 취약점이 발견됐다. 이 취약점을 익스플로잇 할 경우 공격자들은 프록시 서버를 완전히 마비시킬 수 있게 된다고 한다. 때문에 프록시 서버에서 처리하는 자원을 사용자들이 사용할 수 없게 되거나, 프록시 ...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[미국 CISA, 시스템 장악 가능케 하는 크롬 취약점 4개에 대한 경고문 발표]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107492&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107492&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-06-15T01:30:17.022Z</updated>
+        <content type="html"><![CDATA[미국의 사이버 보안 전담 기관인 CISA가 이번 주 금요일 구글 크롬 브라우저를 최신화 하라는 경고문을 발표했다. 지난 버전에서 일곱 개의 취약점이 발견됐고, 최신 버전을 통해 모두 패치가 되었기 때문이라고 한다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[스파이스웨어, ‘넥스트라이즈 2022 서울’에서 ‘스파이스웨어 원’ 소개]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107489&amp;page=1&amp;mkind=1&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107489&amp;page=1&amp;mkind=1&amp;kind=3"/>
+        <updated>2022-06-15T01:30:17.024Z</updated>
+        <content type="html"><![CDATA[데이터 중심 제로 트러스트 보안 스타트업 스파이스웨어(대표 김근진)가 투자 유치 및 신규 인재 영입으로 사업 성장 기회를 모색한다. 스파이스웨어는 오는 16~17일 이틀간 서울 강남구 삼성동 코엑스에서 진행되는 ‘넥스트라이즈(NextRise) 2022’에 참가해 기업의...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[러시아의 APT 단체, 폴리나 취약점 통해 우크라이나 조직들 공격 중]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=107486&amp;page=1&amp;mkind=1&amp;kind=1</id>
@@ -102,26 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=107456&amp;page=1&amp;mkind=1&amp;kind=1"/>
         <updated>2022-06-14T01:46:17.380Z</updated>
         <content type="html"><![CDATA[남미 지역의 금융 기관들을 노리는 리눅스 멀웨어, 심바이오트(Symbiote)가 발견됐다. 모든 파일과 프로세스, 각종 네트워크 아티팩트를 숨기기 때문에 포렌식으로 찾아내기가 쉽지 않다고 한다. 심바이오트가 처음 발견된 건 지난 11월이고, 당시의 발견자는 블랙베리(B...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[애플의 M1 칩셋에서 시스템 권한 가져가게 하는 설계 오류 발견돼]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107455&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107455&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-06-14T01:46:17.383Z</updated>
-        <content type="html"><![CDATA[애플의 M1 프로세스 칩에서 설계 오류에 해당하는 취약점이 발견됐다. 그리고 이 취약점을 악용한 개념증명용 공격이 성공하기도 했다. 공격을 통해 연구원들은 OS의 근간에 깔린 보호 장치를 무력화 하고 메모리를 변경시킬 수 있었다고 발표했다. 이 공격에는 팩맨(PACMA...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[범죄도시2의 사이버 판? 검사 사칭 보이스피싱 일당, 베트남서 검거]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107452&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107452&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-06-14T01:46:17.388Z</updated>
-        <content type="html"><![CDATA[해외에서 우리나라 국민들을 대상으로 범행을 저질러온 보이스피싱 범죄단 일당이 베트남에서 검거됐다. 요즘 천만 관객몰이에 성공하는 등 흥행가도를 달리고 있는 범죄도시2를 떠올리게 하는 성과라고 볼 수 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[주고 받은 ‘회신 이메일’도 다시 보자! 범블비 악성코드 기승]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107450&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107450&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-06-13T12:32:57.852Z</updated>
-        <content type="html"><![CDATA[최근 주고 받은 메일의 ‘회신된 이메일’로 악성코드를 담아 보내는 공격이 발견돼 사용자들의 주의가 요구된다. 정상적으로 주고 받던 메일의 ‘회신’된 메일이기에 피해자는 별다른 의심없이 메일을 받고 첨부파일을 열어 악성코드에 감염되는 방식이라 피해가 커지고 있다.]]></content>
     </entry>
 </feed>

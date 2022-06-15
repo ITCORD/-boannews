@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 14 Jun 2022 23:18:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jun 2022 01:33:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -128,6 +128,14 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20220527REPORT-MS.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
+            <title><![CDATA[애플의 M1 칩셋에서 시스템 권한 가져가게 하는 설계 오류 발견돼]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107455&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107455&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Tue, 14 Jun 2022 05:29:37 GMT</pubDate>
+            <content:encoded><![CDATA[애플의 M1 프로세스 칩에서 설계 오류에 해당하는 취약점이 발견됐다. 그리고 이 취약점을 악용한 개념증명용 공격이 성공하기도 했다. 공격을 통해 연구원들은 OS의...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20918512_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[피해를 입힐 줄 아는 공격자들, 하다하다 허위 협박에까지 도달해]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107346&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107346&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
@@ -144,12 +152,12 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/21412442_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[애플의 M1 칩셋에서 시스템 권한 가져가게 하는 설계 오류 발견돼]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107455&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107455&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Tue, 14 Jun 2022 05:29:37 GMT</pubDate>
-            <content:encoded><![CDATA[애플의 M1 프로세스 칩에서 설계 오류에 해당하는 취약점이 발견됐다. 그리고 이 취약점을 악용한 개념증명용 공격이 성공하기도 했다. 공격을 통해 연구원들은 OS의...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20918512_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[회사에서 많이 사용하는 IP 전화 제품에서 취약점 발견돼]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107485&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107485&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Wed, 15 Jun 2022 01:30:02 GMT</pubDate>
+            <content:encoded><![CDATA[보안 외신 해커뉴스가 사무실에서 많이 사용되는 업무용 IP 전화기에서 중위험도의 취약점 두 개가 발견됐다고 보도했다. 문제의 제품은 마이텔 6800/6900(Mi...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/21034119_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[개인정보위, 개인정보보호 법규 위반 3개 사업자 제재]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 13 Jun 2022 15:25:04 GMT</pubDate>
             <content:encoded><![CDATA[개인정보보호위원회(위원장 윤종인, 이하 ‘개인정보위’)는 6월 8일(수) 제10회 전체회의를 열고, 개인정보보호 법규를 위반한 3개 사업자에 총 3,700만 원의...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/pipc_060801_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[범죄도시2의 사이버 판? 검사 사칭 보이스피싱 일당, 베트남서 검거]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107452&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107452&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Tue, 14 Jun 2022 20:17:30 GMT</pubDate>
-            <content:encoded><![CDATA[해외에서 우리나라 국민들을 대상으로 범행을 저질러온 보이스피싱 범죄단 일당이 베트남에서 검거됐다. 요즘 천만 관객몰이에 성공하는 등 흥행가도를 달리고 있는 범죄도...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/police_061301_main.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
