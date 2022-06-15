@@ -4,9 +4,33 @@
         <title>보안뉴스 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Jun 2022 03:42:13 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jun 2022 04:36:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[짐브라 이메일 취약점, 로그인 크리덴셜 훔칠 수 있게 해]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107522&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107522&amp;page=1&amp;kind=1</guid>
+            <pubDate>Wed, 15 Jun 2022 04:33:19 GMT</pubDate>
+            <content:encoded><![CDATA[보안 외신 해커뉴스에 의하면 짐브라(Zimbra)라는 이메일 솔루션에서 고위험군 취약점이 발견됐다고 한다. 공격자가 이 취약점을 성공적으로 익스플로잇 할 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/21756787_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[랜섬웨어 갱단 알프V, 탈취된 정보 검색할 수 있게 서비스 제공]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107521&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107521&amp;page=1&amp;kind=1</guid>
+            <pubDate>Wed, 15 Jun 2022 04:33:19 GMT</pubDate>
+            <content:encoded><![CDATA[악명 높은 랜섬웨어 갱단인 알프V(ALPHV)가 새로운 웹사이트를 개설했다고 IT 외신인 블리핑컴퓨터가 보도했다. 랜섬웨어 고객들이나 피해 기업의 직원들이...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20584898_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[MS, 이번 달 패치 튜즈데이 통해 폴리나 취약점 해결]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107520&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107520&amp;page=1&amp;kind=1</guid>
+            <pubDate>Wed, 15 Jun 2022 04:33:19 GMT</pubDate>
+            <content:encoded><![CDATA[MS가 6월의 정기 패치를 진행했다. 이번 정기 패치를 통해 50개 정도의 취약점이 해결됐다고 보안 외신 시큐리티위크는 보도했다. 여기에는 최근 큰 문제가...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20159511_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[6·15 남북공동선언 22주년 이슈 악용한 북한 해킹 공격 포착됐다]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107518&amp;page=1&amp;kind=1</link>
@@ -62,30 +86,6 @@
             <pubDate>Tue, 14 Jun 2022 03:51:13 GMT</pubDate>
             <content:encoded><![CDATA[보안 외신 해커뉴스가 사무실에서 많이 사용되는 업무용 IP 전화기에서 중위험도의 취약점 두 개가 발견됐다고 보도했다. 문제의 제품은 마이텔 6800/690...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/21034119_copy_295x190_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우간다 증권 거래소에서 32GB의 민감 정보 유출돼]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107484&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107484&amp;page=1&amp;kind=1</guid>
-            <pubDate>Tue, 14 Jun 2022 03:51:13 GMT</pubDate>
-            <content:encoded><![CDATA[보안 외신 핵리드에 의하면 우간다의 증권 거래소인 USE가 데이터베이스 관리 실수를 통해 고도로 민감한 정보를 다량으로 유출시켰다고 한다. 각종 개인정보는...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/21171531_copy_295x190_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[정부 지원 해킹 단체 갈륨, 새로운 멀웨어 사용해 금융 기관 노려]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107483&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107483&amp;page=1&amp;kind=1</guid>
-            <pubDate>Tue, 14 Jun 2022 03:51:13 GMT</pubDate>
-            <content:encoded><![CDATA[갈륨(Gallium)이라는 정부 지원 해킹 단체가 핑풀(PingPull)이라는 새로운 멀웨어를 활용하여 유럽, 동남아시아, 아프리카의 은행과 금융 기관들을...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/21047961_copy_295x190_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[중국 해커들, iOS와 안드로이드 웹3 지갑들에 백도어 추가해]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107482&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107482&amp;page=1&amp;kind=1</guid>
-            <pubDate>Tue, 14 Jun 2022 03:51:13 GMT</pubDate>
-            <content:encoded><![CDATA[중국에서 활동하는 것으로 보이는 해킹 그룹이 백도어를 여기 저기 유포하고 있다는 소식을 보안 매체 시큐리티위크가 보도했다. 공격자들은 iOS와 안드로이드의...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20589142_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[마크애니, 의료 ICT 세미나에서 ‘수술실 CCTV 영상 반출 시스템’ 소개]]></title>
