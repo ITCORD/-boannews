@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Jun 2022 06:23:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jun 2022 07:19:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -86,6 +86,14 @@
             <pubDate>Tue, 14 Jun 2022 03:51:13 GMT</pubDate>
             <content:encoded><![CDATA[보안 블로그 시큐리티어페어즈에 의하면 러시아의 APT 단체가 최근 공개된 MS 제품의 취약점인 폴리나(Follina)를 악용해 우크라이나 단체들을 공격하기...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/22054717_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[KISA-단국대, 인터넷거버넌스 인재 양성 MoU 체결]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107526&amp;page=1&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107526&amp;page=1&amp;kind=2</guid>
+            <pubDate>Wed, 15 Jun 2022 07:16:46 GMT</pubDate>
+            <content:encoded><![CDATA[한국인터넷진흥원(KISA, 원장 이원태)은 단국대학교(총장 김수복)와 ‘인터넷거버넌스 미래인재 양성을 위한 업무협약’을 6월 15일(수) 단국대학교에서 체...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/KISA_061501_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한국MS, GS칼텍스 혁신적 하이브리드 업무 환경 구현]]></title>
@@ -232,13 +240,6 @@
             <pubDate>Wed, 15 Jun 2022 01:29:43 GMT</pubDate>
             <content:encoded><![CDATA[CJ대한통운이 문의 고객 의도와 맥락을 이해하는 AI 기술로 챗봇을 업그레이드했다. CJ대한통운은 고객 서비스 품질을 높이기 위해 더욱 강력한 인공지능(A...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/6-139(295).jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[대전소방, 겨울철 소방안전대책 ‘전국 1위’]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107512&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107512&amp;page=1&amp;kind=2</guid>
-            <pubDate>Wed, 15 Jun 2022 01:29:43 GMT</pubDate>
-            <content:encoded><![CDATA[대전소방본부는 소방청에서 실시한 2021~2022년 겨울철 소방안전대책 평가에서 전국 1위에 선정됐다고 밝혔다. 겨울철 소방안전대책은 소방청(화재예방국)이...]]></content:encoded>
         </item>
     </channel>
 </rss>

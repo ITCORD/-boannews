@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-06-15T06:23:00.026Z</updated>
+    <updated>2022-06-15T07:19:31.331Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[시큐레터, RSAC 2022서 차세대 지능형 위협 보안 솔루션 선보여]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107523&amp;page=1&amp;mkind=1&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107523&amp;page=1&amp;mkind=1&amp;kind=3"/>
+        <updated>2022-06-15T07:17:12.260Z</updated>
+        <content type="html"><![CDATA[악성코드 탐지 및 차단 전문기업 시큐레터(대표 임차성)가 지난 6일부터 9일까지 미국 샌프란시스코에서 열린 RSA 컨퍼런스 2022에 참가해 자사의 차세대 지능형 위협 보안 솔루션을 선보였다고 15일 밝혔다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[짐브라 이메일 취약점, 로그인 크리덴셜 훔칠 수 있게 해]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=107522&amp;page=1&amp;mkind=1&amp;kind=1</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=107476&amp;page=1&amp;mkind=1&amp;kind=3"/>
         <updated>2022-06-14T03:51:33.349Z</updated>
         <content type="html"><![CDATA[사이버 보안 기업 스틸리언(대표 박찬암)은 첫 자체 보안 세미나인 ‘Stealien Security Seminar(이하 3S)’를 개최한다고 14일 밝혔다.  올해 처음으로 개최되는 3S는 사이버 보안 업계의 발전에 이바지하고 미래 인재 양성에 도움이 되고자 다양한 연...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[파수, 고객초청 콘퍼런스 ‘FDI 2022’ 개최]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107477&amp;page=1&amp;mkind=1&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107477&amp;page=1&amp;mkind=1&amp;kind=3"/>
-        <updated>2022-06-14T03:51:33.351Z</updated>
-        <content type="html"><![CDATA[파수(대표 조규곤)가 6월 21일에 ‘파수 디지털 인텔리전스 2022(Fasoo Digital Intelligence 2022, 이하 FDI 2022)’를 개최한다. 파수의 연례 고객 행사인 FDI는 올해 3년만에 오프라인으로 개최되며, 하이브리드 워크플레이스와 보안에...]]></content>
     </entry>
 </feed>

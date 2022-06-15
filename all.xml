@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Jun 2022 06:23:00 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jun 2022 07:19:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -86,6 +86,14 @@
             <pubDate>Tue, 14 Jun 2022 03:51:13 GMT</pubDate>
             <content:encoded><![CDATA[보안 블로그 시큐리티어페어즈에 의하면 러시아의 APT 단체가 최근 공개된 MS 제품의 취약점인 폴리나(Follina)를 악용해 우크라이나 단체들을 공격하기...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/22054717_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[KISA-단국대, 인터넷거버넌스 인재 양성 MoU 체결 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107526&amp;page=1&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107526&amp;page=1&amp;kind=2</guid>
+            <pubDate>Wed, 15 Jun 2022 07:16:46 GMT</pubDate>
+            <content:encoded><![CDATA[한국인터넷진흥원(KISA, 원장 이원태)은 단국대학교(총장 김수복)와 ‘인터넷거버넌스 미래인재 양성을 위한 업무협약’을 6월 15일(수) 단국대학교에서 체...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/KISA_061501_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한국MS, GS칼텍스 혁신적 하이브리드 업무 환경 구현 (보안뉴스 ─ 전체기사)]]></title>
@@ -232,13 +240,6 @@
             <pubDate>Wed, 15 Jun 2022 01:29:43 GMT</pubDate>
             <content:encoded><![CDATA[CJ대한통운이 문의 고객 의도와 맥락을 이해하는 AI 기술로 챗봇을 업그레이드했다. CJ대한통운은 고객 서비스 품질을 높이기 위해 더욱 강력한 인공지능(A...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/6-139(295).jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[대전소방, 겨울철 소방안전대책 ‘전국 1위’ (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107512&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107512&amp;page=1&amp;kind=2</guid>
-            <pubDate>Wed, 15 Jun 2022 01:29:43 GMT</pubDate>
-            <content:encoded><![CDATA[대전소방본부는 소방청에서 실시한 2021~2022년 겨울철 소방안전대책 평가에서 전국 1위에 선정됐다고 밝혔다. 겨울철 소방안전대책은 소방청(화재예방국)이...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[1년 반 동안 죽어 지냈던 이모텟, 슬슬 살아날 조짐 보인다 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
@@ -393,12 +394,19 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/22054717_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[개인정보위, 개인정보보호 법규 위반 3개 사업자 제재 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107342&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107342&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
-            <pubDate>Wed, 15 Jun 2022 05:20:06 GMT</pubDate>
-            <content:encoded><![CDATA[개인정보보호위원회(위원장 윤종인, 이하 ‘개인정보위’)는 6월 8일(수) 제10회 전체회의를 열고, 개인정보보호 법규를 위반한 3개 사업자에 총 3,700만 원의...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/pipc_060801_main.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[미국 CISA, 시스템 장악 가능케 하는 크롬 취약점 4개에 대한 경고문 발표 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107492&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107492&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Wed, 15 Jun 2022 07:17:00 GMT</pubDate>
+            <content:encoded><![CDATA[미국의 사이버 보안 전담 기관인 CISA가 이번 주 금요일 구글 크롬 브라우저를 최신화 하라는 경고문을 발표했다. 지난 버전에서 일곱 개의 취약점이 발견됐고, 최...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/19935897_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[시큐레터, RSAC 2022서 차세대 지능형 위협 보안 솔루션 선보여 (보안뉴스 ─ SECURITY)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107523&amp;page=1&amp;mkind=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107523&amp;page=1&amp;mkind=1&amp;kind=3</guid>
+            <pubDate>Wed, 15 Jun 2022 07:17:12 GMT</pubDate>
+            <content:encoded><![CDATA[악성코드 탐지 및 차단 전문기업 시큐레터(대표 임차성)가 지난 6일부터 9일까지 미국 샌프란시스코에서 열린 RSA 컨퍼런스 2022에 참가해 자사의 차세대 지능형 위협 보안 솔루션을 선보였다고 15일 밝혔다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[짐브라 이메일 취약점, 로그인 크리덴셜 훔칠 수 있게 해 (보안뉴스 ─ SECURITY)]]></title>
@@ -511,13 +519,6 @@
             <guid>https://www.boannews.com/media/view.asp?idx=107476&amp;page=1&amp;mkind=1&amp;kind=3</guid>
             <pubDate>Tue, 14 Jun 2022 03:51:33 GMT</pubDate>
             <content:encoded><![CDATA[사이버 보안 기업 스틸리언(대표 박찬암)은 첫 자체 보안 세미나인 ‘Stealien Security Seminar(이하 3S)’를 개최한다고 14일 밝혔다.  올해 처음으로 개최되는 3S는 사이버 보안 업계의 발전에 이바지하고 미래 인재 양성에 도움이 되고자 다양한 연...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[파수, 고객초청 콘퍼런스 ‘FDI 2022’ 개최 (보안뉴스 ─ SECURITY)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107477&amp;page=1&amp;mkind=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107477&amp;page=1&amp;mkind=1&amp;kind=3</guid>
-            <pubDate>Tue, 14 Jun 2022 03:51:33 GMT</pubDate>
-            <content:encoded><![CDATA[파수(대표 조규곤)가 6월 21일에 ‘파수 디지털 인텔리전스 2022(Fasoo Digital Intelligence 2022, 이하 FDI 2022)’를 개최한다. 파수의 연례 고객 행사인 FDI는 올해 3년만에 오프라인으로 개최되며, 하이브리드 워크플레이스와 보안에...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[디지털 플랫폼 정부 시대, 공직자 데이터 활용역량 높인다 (보안뉴스 ─ IT)]]></title>
