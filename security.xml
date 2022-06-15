@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-06-15T07:19:31.331Z</updated>
+    <updated>2022-06-15T08:26:51.835Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[“제로데이 대항마, 트렌드마이크로의 차세대 침입방지 시스템 TippingPointTM TX”]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107487&amp;page=1&amp;mkind=1&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107487&amp;page=1&amp;mkind=1&amp;kind=3"/>
+        <updated>2022-06-15T08:23:48.337Z</updated>
+        <content type="html"><![CDATA[21세기 빠르게 발전하는 첨단기술 분야에서 사이버 공격은 점차 치밀해지고 지능화되고 있다. 특히, 운영체제나 네트워크 내 취약점이 발견된 이후 관련 보안패치가 적용되기 전까지의 기간을 칭하는 ‘제로데이(Zero Day)’는 많은 해커들에게 사이버보안의 구멍을 예리하게 ...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[시큐레터, RSAC 2022서 차세대 지능형 위협 보안 솔루션 선보여]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=107523&amp;page=1&amp;mkind=1&amp;kind=3</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=107480&amp;page=1&amp;mkind=1&amp;kind=2"/>
         <updated>2022-06-14T03:51:33.347Z</updated>
         <content type="html"><![CDATA[윤석열정부가 국정원 3차장에 백종욱 전 국정원 국가사이버안전센터 센터장을 임명했다. 백종욱 3차장은 경북대 전자공학과 경기대 정보보호학 박사 출신의 사이버보안 전문가로 국가사이버안전센터장과 가천대 컴퓨터공학과 교수를 역임했다. 때문에 과학·사이버 업무를 담당하는 3차장...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스틸리언, 사이버 보안 세미나 ‘Stealien Security Seminar’ 개최]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107476&amp;page=1&amp;mkind=1&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107476&amp;page=1&amp;mkind=1&amp;kind=3"/>
-        <updated>2022-06-14T03:51:33.349Z</updated>
-        <content type="html"><![CDATA[사이버 보안 기업 스틸리언(대표 박찬암)은 첫 자체 보안 세미나인 ‘Stealien Security Seminar(이하 3S)’를 개최한다고 14일 밝혔다.  올해 처음으로 개최되는 3S는 사이버 보안 업계의 발전에 이바지하고 미래 인재 양성에 도움이 되고자 다양한 연...]]></content>
     </entry>
 </feed>

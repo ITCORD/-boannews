@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Jun 2022 07:19:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jun 2022 08:26:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[MS 정기 패치일, 수주 동안 사용자 위협하던 폴리나 드디어 해결돼 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107527&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107527&amp;page=1&amp;kind=1</guid>
+            <pubDate>Wed, 15 Jun 2022 08:23:23 GMT</pubDate>
+            <content:encoded><![CDATA[마이크로소프트가 2022년 6월의 정기 패치를 진행했다. 이번 달 정기 패치가 주목받는 건 최근 MSDT에서 발견된 제로데이 취약점인 폴리나(Follina...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/21756789_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[“제로데이 대항마, 트렌드마이크로의 차세대 침입방지 시스템 TippingPointTM TX” (보안뉴스 ─ 전체기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107487&amp;page=1&amp;kind=3</link>
@@ -78,14 +86,6 @@
             <pubDate>Tue, 14 Jun 2022 09:22:47 GMT</pubDate>
             <content:encoded><![CDATA[미국의 사이버 보안 전담 기관인 CISA가 이번 주 금요일 구글 크롬 브라우저를 최신화 하라는 경고문을 발표했다. 지난 버전에서 일곱 개의 취약점이 발견됐...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/19935897_copy_295x190_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[러시아의 APT 단체, 폴리나 취약점 통해 우크라이나 조직들 공격 중 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107486&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107486&amp;page=1&amp;kind=1</guid>
-            <pubDate>Tue, 14 Jun 2022 03:51:13 GMT</pubDate>
-            <content:encoded><![CDATA[보안 블로그 시큐리티어페어즈에 의하면 러시아의 APT 단체가 최근 공개된 MS 제품의 취약점인 폴리나(Follina)를 악용해 우크라이나 단체들을 공격하기...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/22054717_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[KISA-단국대, 인터넷거버넌스 인재 양성 MoU 체결 (보안뉴스 ─ 전체기사)]]></title>
@@ -402,6 +402,13 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/19935897_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[“제로데이 대항마, 트렌드마이크로의 차세대 침입방지 시스템 TippingPointTM TX” (보안뉴스 ─ SECURITY)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107487&amp;page=1&amp;mkind=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107487&amp;page=1&amp;mkind=1&amp;kind=3</guid>
+            <pubDate>Wed, 15 Jun 2022 08:23:48 GMT</pubDate>
+            <content:encoded><![CDATA[21세기 빠르게 발전하는 첨단기술 분야에서 사이버 공격은 점차 치밀해지고 지능화되고 있다. 특히, 운영체제나 네트워크 내 취약점이 발견된 이후 관련 보안패치가 적용되기 전까지의 기간을 칭하는 ‘제로데이(Zero Day)’는 많은 해커들에게 사이버보안의 구멍을 예리하게 ...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[시큐레터, RSAC 2022서 차세대 지능형 위협 보안 솔루션 선보여 (보안뉴스 ─ SECURITY)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107523&amp;page=1&amp;mkind=1&amp;kind=3</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107523&amp;page=1&amp;mkind=1&amp;kind=3</guid>
@@ -512,13 +519,6 @@
             <guid>https://www.boannews.com/media/view.asp?idx=107480&amp;page=1&amp;mkind=1&amp;kind=2</guid>
             <pubDate>Tue, 14 Jun 2022 03:51:33 GMT</pubDate>
             <content:encoded><![CDATA[윤석열정부가 국정원 3차장에 백종욱 전 국정원 국가사이버안전센터 센터장을 임명했다. 백종욱 3차장은 경북대 전자공학과 경기대 정보보호학 박사 출신의 사이버보안 전문가로 국가사이버안전센터장과 가천대 컴퓨터공학과 교수를 역임했다. 때문에 과학·사이버 업무를 담당하는 3차장...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[스틸리언, 사이버 보안 세미나 ‘Stealien Security Seminar’ 개최 (보안뉴스 ─ SECURITY)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107476&amp;page=1&amp;mkind=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107476&amp;page=1&amp;mkind=1&amp;kind=3</guid>
-            <pubDate>Tue, 14 Jun 2022 03:51:33 GMT</pubDate>
-            <content:encoded><![CDATA[사이버 보안 기업 스틸리언(대표 박찬암)은 첫 자체 보안 세미나인 ‘Stealien Security Seminar(이하 3S)’를 개최한다고 14일 밝혔다.  올해 처음으로 개최되는 3S는 사이버 보안 업계의 발전에 이바지하고 미래 인재 양성에 도움이 되고자 다양한 연...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[디지털 플랫폼 정부 시대, 공직자 데이터 활용역량 높인다 (보안뉴스 ─ IT)]]></title>
@@ -1895,6 +1895,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/21819706_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[MS 정기 패치일, 수주 동안 사용자 위협하던 폴리나 드디어 해결돼 (보안뉴스 ─ 국제)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107527&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107527&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
+            <pubDate>Wed, 15 Jun 2022 08:25:53 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/view.asp?idx=107527&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
+					
+					<img src="/media/upFiles2/2022/06/21756789_copy_295x190_1.jpg" alt="" class="news_img" height="70">
+					
+					<span class="news_txt">MS 정기 패치일, 수주 동안 사용자 위협하던 폴리나 드디어 해결돼</span>
+					</a><br>
+					<a href="/media/view.asp?idx=107527&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">마이크로소프트가 2022년 6월의 정기 패치를 진행했다. 이번 달 정기 패치가 주목받는 건 최근 MSDT에서 발견된 제로데이 취약점인 폴리나(Follina)가 해...</a> <span class="news_writer">문가용 기자 | 2022년 06월 15일 16:45</span>]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/21756789_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[짐브라 이메일 취약점, 로그인 크리덴셜 훔칠 수 있게 해 (보안뉴스 ─ 국제)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107522&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107522&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
@@ -2159,20 +2173,6 @@
 					</a><br>
 					<a href="/media/view.asp?idx=107434&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=D&amp;search=title&amp;find=">전 세계적으로 예측 불허한 변화가 요동치고 있으며, 이에 직장인들과 근로자들은 새로운 기회를 찾아 바삐 걸음을 옮기고 있다. 산업혁명 때도 그랬고, 세계 2차대전...</a> <span class="news_writer">문가용 기자 | 2022년 06월 12일 22:22</span>]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20688908_copy_295x190_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주말판] 랜섬웨어 전성시대에 최전선에서 점점 많이 보이는 얼굴, CDO (보안뉴스 ─ 국제)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107433&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=D&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107433&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=D&amp;search=title&amp;find=</guid>
-            <pubDate>Sat, 11 Jun 2022 06:21:45 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/view.asp?idx=107433&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=D&amp;search=title&amp;find=">
-					
-					<img src="/media/upFiles2/2022/06/data-thumb-0610.jpg" alt="" class="news_img" height="70">
-					
-					<span class="news_txt">[주말판] 랜섬웨어 전성시대에 최전선에서 점점 많이 보이는 얼굴, CDO</span>
-					</a><br>
-					<a href="/media/view.asp?idx=107433&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=D&amp;search=title&amp;find=">랜섬웨어, 얼마나 큰 문제가 되고 있을까? 전 세계의 조직 1/3 이상이 이미 랜섬웨어 공격에 피해를 입은 적이 있다고 한다. 그것도 지난 12개월 안에 피해를 ...</a> <span class="news_writer">문가용 기자 | 2022년 06월 11일 15:14</span>]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/data-thumb-0610.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[보안 실무·책임자가 선호하는 영상보안 장비 제조사는 어디? (보안뉴스 ─ 기획특집)]]></title>
