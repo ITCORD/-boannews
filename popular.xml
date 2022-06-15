@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Jun 2022 04:36:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jun 2022 05:22:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -88,14 +88,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/hiworks_060902_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[2025년 글로벌 OT 보안 시장 ‘102억 달러’ 규모로 전망]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107339&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107339&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
-            <pubDate>Thu, 09 Jun 2022 08:24:01 GMT</pubDate>
-            <content:encoded><![CDATA[최근 효과적인 운영기술(OT) 보안을 구축하려는 기관들이 늘어나면서 OT 보안 전문가 부족 현상이 더욱 심화되고 있으며, 이로 인해 OT 보안 전문 기업들의 성장...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/21865747_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[기업이 스스로를 보호하기 위해 알아두어야 할 NFT 생태계의 7대 악]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107388&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107388&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
@@ -104,20 +96,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/22021221_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[주고 받은 ‘회신 이메일’도 다시 보자! 범블비 악성코드 기승]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107450&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107450&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Tue, 14 Jun 2022 01:45:58 GMT</pubDate>
-            <content:encoded><![CDATA[최근 주고 받은 메일의 ‘회신된 이메일’로 악성코드를 담아 보내는 공격이 발견돼 사용자들의 주의가 요구된다. 정상적으로 주고 받던 메일의 ‘회신’된 메일이기에 피...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/esrc_061301_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[애플의 M1 칩셋에서 시스템 권한 가져가게 하는 설계 오류 발견돼]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107455&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107455&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Tue, 14 Jun 2022 05:29:37 GMT</pubDate>
             <content:encoded><![CDATA[애플의 M1 프로세스 칩에서 설계 오류에 해당하는 취약점이 발견됐다. 그리고 이 취약점을 악용한 개념증명용 공격이 성공하기도 했다. 공격을 통해 연구원들은 OS의...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20918512_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[주고 받은 ‘회신 이메일’도 다시 보자! 범블비 악성코드 기승]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107450&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107450&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Tue, 14 Jun 2022 01:45:58 GMT</pubDate>
+            <content:encoded><![CDATA[최근 주고 받은 메일의 ‘회신된 이메일’로 악성코드를 담아 보내는 공격이 발견돼 사용자들의 주의가 요구된다. 정상적으로 주고 받던 메일의 ‘회신’된 메일이기에 피...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/esrc_061301_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[bnTV] RAT 악성코드 파격세일!! 다크웹 마켓에서 13,000원에 살 수 있다고?]]></title>
@@ -166,6 +158,14 @@
             <pubDate>Wed, 15 Jun 2022 03:39:17 GMT</pubDate>
             <content:encoded><![CDATA[보안 블로그 시큐리티어페어즈에 의하면 러시아의 APT 단체가 최근 공개된 MS 제품의 취약점인 폴리나(Follina)를 악용해 우크라이나 단체들을 공격하기 시작했...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/22054717_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[개인정보위, 개인정보보호 법규 위반 3개 사업자 제재]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107342&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107342&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
+            <pubDate>Wed, 15 Jun 2022 05:20:06 GMT</pubDate>
+            <content:encoded><![CDATA[개인정보보호위원회(위원장 윤종인, 이하 ‘개인정보위’)는 6월 8일(수) 제10회 전체회의를 열고, 개인정보보호 법규를 위반한 3개 사업자에 총 3,700만 원의...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/pipc_060801_main.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
