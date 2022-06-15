@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-06-15T08:26:51.835Z</updated>
+    <updated>2022-06-15T09:19:13.374Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[KISA-단국대, 인터넷거버넌스 인재 양성 MoU 체결]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107526&amp;page=1&amp;mkind=1&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107526&amp;page=1&amp;mkind=1&amp;kind=2"/>
+        <updated>2022-06-15T09:16:27.719Z</updated>
+        <content type="html"><![CDATA[한국인터넷진흥원(KISA, 원장 이원태)은 단국대학교(총장 김수복)와 ‘인터넷거버넌스 미래인재 양성을 위한 업무협약’을 6월 15일(수) 단국대학교에서 체결했다고 밝혔다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한국MS, GS칼텍스 혁신적 하이브리드 업무 환경 구현]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107524&amp;page=1&amp;mkind=1&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107524&amp;page=1&amp;mkind=1&amp;kind=3"/>
+        <updated>2022-06-15T09:16:27.720Z</updated>
+        <content type="html"><![CDATA[한국마이크로소프트가 협업·생산성 솔루션 마이크로소프트 365(Microsoft 365)를 기반으로 종합 에너지 기업 GS칼텍스의 안전한 하이브리드 업무 환경 구축을 돕는다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[“제로데이 대항마, 트렌드마이크로의 차세대 침입방지 시스템 TippingPointTM TX”]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=107487&amp;page=1&amp;mkind=1&amp;kind=3</id>
@@ -109,19 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=107483&amp;page=1&amp;mkind=1&amp;kind=1"/>
         <updated>2022-06-14T03:51:33.344Z</updated>
         <content type="html"><![CDATA[갈륨(Gallium)이라는 정부 지원 해킹 단체가 핑풀(PingPull)이라는 새로운 멀웨어를 활용하여 유럽, 동남아시아, 아프리카의 은행과 금융 기관들을 노린다는 보도가 IT 외신 블리핑컴퓨터를 통해 나왔다. 갈륨은 중국에서 활동하는 해킹 단체로 알려져 있으며, 핑풀...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[중국 해커들, iOS와 안드로이드 웹3 지갑들에 백도어 추가해]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107482&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107482&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-06-14T03:51:33.345Z</updated>
-        <content type="html"><![CDATA[중국에서 활동하는 것으로 보이는 해킹 그룹이 백도어를 여기 저기 유포하고 있다는 소식을 보안 매체 시큐리티위크가 보도했다. 공격자들은 iOS와 안드로이드의 웹3(Web3) 지갑들에 백도어를 심어 퍼트리고 있다고 한다. 즉 피해자들이 가짜 지갑을 설치하도록 하는 것인데,...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국정원 3차장에 백종욱 전 국가사이버안보센터장 임명]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107480&amp;page=1&amp;mkind=1&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107480&amp;page=1&amp;mkind=1&amp;kind=2"/>
-        <updated>2022-06-14T03:51:33.347Z</updated>
-        <content type="html"><![CDATA[윤석열정부가 국정원 3차장에 백종욱 전 국정원 국가사이버안전센터 센터장을 임명했다. 백종욱 3차장은 경북대 전자공학과 경기대 정보보호학 박사 출신의 사이버보안 전문가로 국가사이버안전센터장과 가천대 컴퓨터공학과 교수를 역임했다. 때문에 과학·사이버 업무를 담당하는 3차장...]]></content>
     </entry>
 </feed>
