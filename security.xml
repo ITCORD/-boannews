@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-06-16T01:26:07.177Z</updated>
+    <updated>2022-06-16T03:48:38.948Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[SK쉴더스, RSA Conference 2022 인사이트 및 보안 트렌드 발표]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107551&amp;page=1&amp;mkind=1&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107551&amp;page=1&amp;mkind=1&amp;kind=3"/>
+        <updated>2022-06-16T03:45:50.346Z</updated>
+        <content type="html"><![CDATA[라이프 케어 플랫폼 SK쉴더스(대표 박진효)가 지난 6일부터 9일까지 미국 샌프란시스코에서 열린 세계 최대 규모 사이버보안 컨퍼런스·전시회인 ‘RSA Conference 2022’에 참가하고, 현장에서 얻은 인사이트 기반의 참관 후기를 온라인 고객 세미나로 진행했다고 ...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘안랩 클라우드’, 공공분야 고객 확보로 시장 공략 ‘박차’]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107549&amp;page=1&amp;mkind=1&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107549&amp;page=1&amp;mkind=1&amp;kind=3"/>
+        <updated>2022-06-16T03:45:50.347Z</updated>
+        <content type="html"><![CDATA[‘공공클라우드 전환 사업’ 등 클라우드 도입에 대한 공공분야의 관심이 높아지는 가운데 안랩의 보안 특화 클라우드 관리 서비스가 주목을 받고 있다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[스패로우, SW 공급망 보안 강화하는 SBOM 기능 제공]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107547&amp;page=1&amp;mkind=1&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107547&amp;page=1&amp;mkind=1&amp;kind=3"/>
+        <updated>2022-06-16T03:45:50.348Z</updated>
+        <content type="html"><![CDATA[스패로우(대표 장일수)는 오픈소스 라이선스 식별 및 보안 취약점 관리 도구인 ‘스패로우 SCA(Sparrow SCA)’에 소프트웨어 자재명세서(Software Bill of Materials, 이하 SBOM) 내보내기 기능을 적용했다. 스패로우는 이를 통해 손쉽게 소프...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[“한국의 결제 카드·이메일 데이터 8,698~12,722원 대에 다크웹서 거래”]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107481&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107481&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-06-16T03:45:50.350Z</updated>
+        <content type="html"><![CDATA[다크웹 사이트에서 데이터 불법 거래가 기승을 부리고 있어 데이터 보안에 비상이 걸렸다. 다크웹내 사이트 1곳에서 거래된 금액만 220억 3,155만 원 규모다. 불법거래에 대한 단속은 물론 개인정보와 중요 데이터가 유출되지 않도록 각별한 주의가 필요한 상황이다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[금융보안원 ‘2022 핀테크 보안 지원 사업’ 수행기관 선정]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=107546&amp;page=1&amp;mkind=1&amp;kind=2</id>
@@ -95,33 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=107500&amp;page=1&amp;mkind=1&amp;kind=2"/>
         <updated>2022-06-15T04:33:45.660Z</updated>
         <content type="html"><![CDATA[방송통신위원회 소속 방송통신사무소는 불법 스팸 방지와 피해 예방을 위해 주요 방송사를 통한 자막방송 송출과 함께 한국인터넷진흥원(KISA)과 공동으로 정보통신망법 및 불법 스팸 행정처분 사례 등에 대한 온라인 설명회를 개최한다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지방자치단체 개인정보 보호체계 책임성 강화한다]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107509&amp;page=1&amp;mkind=1&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107509&amp;page=1&amp;mkind=1&amp;kind=2"/>
-        <updated>2022-06-15T04:33:45.661Z</updated>
-        <content type="html"><![CDATA[개인정보보호위원회는 지방자치단체의 개인정보 보호 수준 및 책임성 강화를 위한 ‘시도 개인정보 보호 표준 조례안’을 지난 14일 개최된 제2회 중앙·지방 정책협의회를 통해 각 지자체에 안내했다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인기 높은 프록시 서버 오픈소스인 엔보이 프록시에서 디도스 취약점 발견돼]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107493&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107493&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-06-15T01:30:17.021Z</updated>
-        <content type="html"><![CDATA[엔보이 프록시(Envoy Proxy)에서 디도스 공격을 가능하게 하는 취약점이 발견됐다. 이 취약점을 익스플로잇 할 경우 공격자들은 프록시 서버를 완전히 마비시킬 수 있게 된다고 한다. 때문에 프록시 서버에서 처리하는 자원을 사용자들이 사용할 수 없게 되거나, 프록시 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미국 CISA, 시스템 장악 가능케 하는 크롬 취약점 4개에 대한 경고문 발표]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107492&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107492&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-06-15T01:30:17.022Z</updated>
-        <content type="html"><![CDATA[미국의 사이버 보안 전담 기관인 CISA가 이번 주 금요일 구글 크롬 브라우저를 최신화 하라는 경고문을 발표했다. 지난 버전에서 일곱 개의 취약점이 발견됐고, 최신 버전을 통해 모두 패치가 되었기 때문이라고 한다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스파이스웨어, ‘넥스트라이즈 2022 서울’에서 ‘스파이스웨어 원’ 소개]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107489&amp;page=1&amp;mkind=1&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107489&amp;page=1&amp;mkind=1&amp;kind=3"/>
-        <updated>2022-06-15T01:30:17.024Z</updated>
-        <content type="html"><![CDATA[데이터 중심 제로 트러스트 보안 스타트업 스파이스웨어(대표 김근진)가 투자 유치 및 신규 인재 영입으로 사업 성장 기회를 모색한다. 스파이스웨어는 오는 16~17일 이틀간 서울 강남구 삼성동 코엑스에서 진행되는 ‘넥스트라이즈(NextRise) 2022’에 참가해 기업의...]]></content>
     </entry>
 </feed>
