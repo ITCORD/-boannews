@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-06-15T23:20:35.539Z</updated>
+    <updated>2022-06-16T01:26:07.177Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[금융보안원 ‘2022 핀테크 보안 지원 사업’ 수행기관 선정]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107546&amp;page=1&amp;mkind=1&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107546&amp;page=1&amp;mkind=1&amp;kind=2"/>
+        <updated>2022-06-16T01:23:13.018Z</updated>
+        <content type="html"><![CDATA[금융보안원(원장 김철웅)은 중소 핀테크 기업의 보안 점검을 지원하는 ‘2022년 핀테크 보안 지원 사업’ 수행기관으로 선정됐다고 밝혔다. 핀테크 보안 지원 사업은 금융위원회가 중소 핀테크 기업에 필요한 보안 점검 비용의 75%를 지원하는 사업으로, 2019년부터 금융보...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[구글, “취약점이 소프트웨어 물자의 이름을 불러 주었을 때 꽃이 된다”]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107528&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107528&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-06-16T01:23:13.020Z</updated>
+        <content type="html"><![CDATA[소프트웨어 재료표(Software Bills of Materials, SBOMs)라는 개념을 도입하려는 움직임이 빠르게 일어나고 있다. 특히 미국의 NIST가 이 제도를 강력하게 지지하고 있으며, 입법 기관에서도 이 움직임에 긍정적이다. 미국 백악관이 공급망 공격에 대...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[보안에 대한 기업들 우려 높아져... 부정감지 및 예방 솔루션 수요 증가]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107525&amp;page=1&amp;mkind=1&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107525&amp;page=1&amp;mkind=1&amp;kind=3"/>
+        <updated>2022-06-16T01:23:13.021Z</updated>
+        <content type="html"><![CDATA[기업 대상의 보안위협이 급증하면서, 기업들 사이에서 인터넷상의 부정 감지 및 예방에 대한 필요성이 높아지는 것이 ‘글로벌 부정 감지&amp;예방(FDP : Fraud Detection &amp; Prevention)’ 시장에 활기를 불어넣고 있다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MS 정기 패치일, 수주 동안 사용자 위협하던 폴리나 드디어 해결돼]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107527&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107527&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-06-16T01:23:13.026Z</updated>
+        <content type="html"><![CDATA[마이크로소프트가 2022년 6월의 정기 패치를 진행했다. 이번 달 정기 패치가 주목받는 건 최근 MSDT에서 발견된 제로데이 취약점인 폴리나(Follina)가 해결되었기 때문이다. 하지만 폴리나 외에도 60개 가까운 취약점들이 패치되었기 때문에 폴리나와 관련이 없다고 ...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[KISA-단국대, 인터넷거버넌스 인재 양성 MoU 체결]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=107526&amp;page=1&amp;mkind=1&amp;kind=2</id>
@@ -95,33 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=107489&amp;page=1&amp;mkind=1&amp;kind=3"/>
         <updated>2022-06-15T01:30:17.024Z</updated>
         <content type="html"><![CDATA[데이터 중심 제로 트러스트 보안 스타트업 스파이스웨어(대표 김근진)가 투자 유치 및 신규 인재 영입으로 사업 성장 기회를 모색한다. 스파이스웨어는 오는 16~17일 이틀간 서울 강남구 삼성동 코엑스에서 진행되는 ‘넥스트라이즈(NextRise) 2022’에 참가해 기업의...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[러시아의 APT 단체, 폴리나 취약점 통해 우크라이나 조직들 공격 중]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107486&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107486&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-06-14T10:20:52.952Z</updated>
-        <content type="html"><![CDATA[보안 블로그 시큐리티어페어즈에 의하면 러시아의 APT 단체가 최근 공개된 MS 제품의 취약점인 폴리나(Follina)를 악용해 우크라이나 단체들을 공격하기 시작했다고 한다. 이는 우크라이나의 공식 침해대응센터에서부터 나온 경고를 인용한 것으로, 문제의 해킹 그룹은 샌드...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[회사에서 많이 사용하는 IP 전화 제품에서 취약점 발견돼]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107485&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107485&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-06-14T09:23:14.076Z</updated>
-        <content type="html"><![CDATA[보안 외신 해커뉴스가 사무실에서 많이 사용되는 업무용 IP 전화기에서 중위험도의 취약점 두 개가 발견됐다고 보도했다. 문제의 제품은 마이텔 6800/6900(Mitel 6800/6900) 시리즈이며, 취약점 익스플로잇에 성공할 경우 공격자는 전화기의 루트 권한을 취득할...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우간다 증권 거래소에서 32GB의 민감 정보 유출돼]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107484&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107484&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-06-14T05:29:49.531Z</updated>
-        <content type="html"><![CDATA[보안 외신 핵리드에 의하면 우간다의 증권 거래소인 USE가 데이터베이스 관리 실수를 통해 고도로 민감한 정보를 다량으로 유출시켰다고 한다. 각종 개인정보는 물론 금융 거래와 관련된 정보, 평문으로 저장된 로그인 크리덴셜들이 32GB나 새나간 것으로 집계된다. 데이터베이...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정부 지원 해킹 단체 갈륨, 새로운 멀웨어 사용해 금융 기관 노려]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107483&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107483&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-06-14T03:51:33.344Z</updated>
-        <content type="html"><![CDATA[갈륨(Gallium)이라는 정부 지원 해킹 단체가 핑풀(PingPull)이라는 새로운 멀웨어를 활용하여 유럽, 동남아시아, 아프리카의 은행과 금융 기관들을 노린다는 보도가 IT 외신 블리핑컴퓨터를 통해 나왔다. 갈륨은 중국에서 활동하는 해킹 단체로 알려져 있으며, 핑풀...]]></content>
     </entry>
 </feed>
