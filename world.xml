@@ -4,9 +4,23 @@
         <title>보안뉴스 ─ 국제</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Jun 2022 08:28:47 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jun 2022 09:19:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[인텔과 AMD의 칩셋을 뚫고 암호화 키 훔치게 해 주는 새 부채널 공격, 헤르츠블리드]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107561&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107561&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
+            <pubDate>Thu, 16 Jun 2022 09:19:03 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/view.asp?idx=107561&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
+					
+					<img src="/media/upFiles2/2022/06/20459303_copy_295x190_1.jpg" alt="" class="news_img" height="70">
+					
+					<span class="news_txt">인텔과 AMD의 칩셋을 뚫고 암호화 키 훔치게 해 주는 새 부채널 공격, 헤르츠블리드</span>
+					</a><br>
+					<a href="/media/view.asp?idx=107561&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">많은 시스템에 탑재된 프로세서들을 겨냥한 부채널 공격 기법 하나가 새롭게 발굴됐다. 이 공격 기법에는 헤르츠블리드(Hertzbleed)라는 이름이 붙었다. 공격에...</a> <span class="news_writer">문가용 기자 | 2022년 06월 16일 17:48</span>]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20459303_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[지금 이 순간 다크웹에서 거래되는 비밀번호의 수량은 246억 개]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107555&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
@@ -272,20 +286,6 @@
 					</a><br>
 					<a href="/media/view.asp?idx=107456&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">남미 지역의 금융 기관들을 노리는 리눅스 멀웨어, 심바이오트(Symbiote)가 발견됐다. 모든 파일과 프로세스, 각종 네트워크 아티팩트를 숨기기 때문에 포렌식으...</a> <span class="news_writer">문가용 기자 | 2022년 06월 13일 20:52</span>]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/21094099_copy_295x190_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[애플의 M1 칩셋에서 시스템 권한 가져가게 하는 설계 오류 발견돼]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107455&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107455&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
-            <pubDate>Mon, 13 Jun 2022 09:20:06 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/view.asp?idx=107455&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
-					
-					<img src="/media/upFiles2/2022/06/20918512_copy_295x190_1.jpg" alt="" class="news_img" height="70">
-					
-					<span class="news_txt">애플의 M1 칩셋에서 시스템 권한 가져가게 하는 설계 오류 발견돼</span>
-					</a><br>
-					<a href="/media/view.asp?idx=107455&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">애플의 M1 프로세스 칩에서 설계 오류에 해당하는 취약점이 발견됐다. 그리고 이 취약점을 악용한 개념증명용 공격이 성공하기도 했다. 공격을 통해 연구원들은 OS의...</a> <span class="news_writer">문가용 기자 | 2022년 06월 13일 17:57</span>]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20918512_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

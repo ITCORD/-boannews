@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-06-16T08:28:47.547Z</updated>
+    <updated>2022-06-16T09:19:57.637Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[차세대 보안리더 양성 프로그램 ‘BoB’ 10주년 백서 발간]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107557&amp;page=1&amp;mkind=1&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107557&amp;page=1&amp;mkind=1&amp;kind=3"/>
+        <updated>2022-06-16T09:16:57.453Z</updated>
+        <content type="html"><![CDATA[한국정보기술연구원(원장 유준상, 이하 KITRI)은 차세대 보안리더 양성 프로그램(이하 BoB) 10년의 역사를 기록한 ‘차세대 보안리더 양성 프로그램(BoB) 10주년 백서(이하 백서)’를 발간했다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아듀! 인터넷 익스플로러, 공식지원 종료... 보안위협 커져 대안 필요]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107556&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107556&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-06-16T09:16:57.455Z</updated>
+        <content type="html"><![CDATA[인터넷 익스플로러가 11 버전을 마지막으로 사라진다. 마이크로소프트는 6월 15일자로 인터넷 익스플로러 11에 대한 공식지원을 종료했다. 프로그램 자체는 계속 사용할 수는 있지만, 제조사인 MS에서 정식 보안 업데이트를 제공하지 않아 계속 사용할 경우 보안상 문제가 생...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[지금 이 순간 다크웹에서 거래되는 비밀번호의 수량은 246억 개]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=107555&amp;page=1&amp;mkind=1&amp;kind=1</id>
@@ -109,19 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=107526&amp;page=1&amp;mkind=1&amp;kind=2"/>
         <updated>2022-06-15T09:16:27.719Z</updated>
         <content type="html"><![CDATA[한국인터넷진흥원(KISA, 원장 이원태)은 단국대학교(총장 김수복)와 ‘인터넷거버넌스 미래인재 양성을 위한 업무협약’을 6월 15일(수) 단국대학교에서 체결했다고 밝혔다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국MS, GS칼텍스 혁신적 하이브리드 업무 환경 구현]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107524&amp;page=1&amp;mkind=1&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107524&amp;page=1&amp;mkind=1&amp;kind=3"/>
-        <updated>2022-06-15T09:16:27.720Z</updated>
-        <content type="html"><![CDATA[한국마이크로소프트가 협업·생산성 솔루션 마이크로소프트 365(Microsoft 365)를 기반으로 종합 에너지 기업 GS칼텍스의 안전한 하이브리드 업무 환경 구축을 돕는다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[“제로데이 대항마, 트렌드마이크로의 차세대 침입방지 시스템 TippingPointTM TX”]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107487&amp;page=1&amp;mkind=1&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107487&amp;page=1&amp;mkind=1&amp;kind=3"/>
-        <updated>2022-06-15T08:23:48.337Z</updated>
-        <content type="html"><![CDATA[21세기 빠르게 발전하는 첨단기술 분야에서 사이버 공격은 점차 치밀해지고 지능화되고 있다. 특히, 운영체제나 네트워크 내 취약점이 발견된 이후 관련 보안패치가 적용되기 전까지의 기간을 칭하는 ‘제로데이(Zero Day)’는 많은 해커들에게 사이버보안의 구멍을 예리하게 ...]]></content>
     </entry>
 </feed>
