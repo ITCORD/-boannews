@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Jun 2022 06:23:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jun 2022 07:19:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -128,14 +128,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/19935897_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[신규 랜섬웨어 그룹 블랙바스타, 윈도를 넘어 가상기계들도 노리기 시작해]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107384&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107384&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Sun, 12 Jun 2022 13:22:50 GMT</pubDate>
-            <content:encoded><![CDATA[블랙바스타(Black Basta)라는 랜섬웨어 공격 단체가 지난 달 처음 등장해 윈도 기반 시스템들을 노리기 시작했다. 그런데 지금은 VM웨어(VMware)의 가...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/21412442_copy_295x190_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[인기 높은 프록시 서버 오픈소스인 엔보이 프록시에서 디도스 취약점 발견돼]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107493&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107493&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
@@ -166,6 +158,14 @@
             <pubDate>Thu, 16 Jun 2022 06:20:21 GMT</pubDate>
             <content:encoded><![CDATA[최근 MS 오피스의 제로데이 취약점인 ‘폴리나(Follina)’를 악용한 공격이 기승을 부리고 있는 가운데, 한글 문서의 정상기능을 악용한 APT 공격이 유포되고...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20312979_main(3).jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[우간다 증권 거래소에서 32GB의 민감 정보 유출돼]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107484&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107484&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Thu, 16 Jun 2022 07:16:05 GMT</pubDate>
+            <content:encoded><![CDATA[보안 외신 핵리드에 의하면 우간다의 증권 거래소인 USE가 데이터베이스 관리 실수를 통해 고도로 민감한 정보를 다량으로 유출시켰다고 한다. 각종 개인정보는 물론 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/21171531_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
