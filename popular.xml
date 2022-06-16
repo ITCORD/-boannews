@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Jun 2022 04:34:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jun 2022 06:23:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -70,14 +70,6 @@
             <pubDate>Sat, 11 Jun 2022 01:16:27 GMT</pubDate>
             <content:encoded><![CDATA[새로운 랜섬웨어가 등장했다고 외신인 블리핑컴퓨터가 보도했다. 이 랜섬웨어 운영자들은 복호화 키를 로블록스(Roblox)라는 게임 생태계 내에서 판매하는 중이다. ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/21867243_copy_295x190_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[‘하이웍스 업데이트’ 사칭 악성 메일, 클릭하면 계정정보 훔친다]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107372&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107372&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Fri, 10 Jun 2022 06:20:02 GMT</pubDate>
-            <content:encoded><![CDATA[최근 가비아의 이메일 서비스 ‘하이웍스(hiworks)’를 사칭한 악성메일이 급증해 사용자의 주의가 요구된다. 발견된 악성메일은 대부분 이메일이나 비밀번호가 만료...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/hiworks_060902_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[애플의 M1 칩셋에서 시스템 권한 가져가게 하는 설계 오류 발견돼]]></title>
@@ -166,6 +158,14 @@
             <pubDate>Wed, 15 Jun 2022 09:16:16 GMT</pubDate>
             <content:encoded><![CDATA[해외에서 우리나라 국민들을 대상으로 범행을 저질러온 보이스피싱 범죄단 일당이 베트남에서 검거됐다. 요즘 천만 관객몰이에 성공하는 등 흥행가도를 달리고 있는 범죄도...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/police_061301_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한글문서 ‘OLE 개체 연결 삽입’ 기능 악용한 APT 문서 유포]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107435&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107435&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Thu, 16 Jun 2022 06:20:21 GMT</pubDate>
+            <content:encoded><![CDATA[최근 MS 오피스의 제로데이 취약점인 ‘폴리나(Follina)’를 악용한 공격이 기승을 부리고 있는 가운데, 한글 문서의 정상기능을 악용한 APT 공격이 유포되고...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20312979_main(3).jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

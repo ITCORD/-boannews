@@ -4,9 +4,33 @@
         <title>보안뉴스 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Jun 2022 04:34:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jun 2022 06:23:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[아듀! 인터넷 익스플로러, 공식지원 종료... 보안위협 커져 대안 필요]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107556&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107556&amp;page=1&amp;kind=1</guid>
+            <pubDate>Thu, 16 Jun 2022 06:20:03 GMT</pubDate>
+            <content:encoded><![CDATA[인터넷 익스플로러가 11 버전을 마지막으로 사라진다. 마이크로소프트는 6월 15일자로 인터넷 익스플로러 11에 대한 공식지원을 종료했다. 프로그램 자체는 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/IE_0616%20(2)_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[지금 이 순간 다크웹에서 거래되는 비밀번호의 수량은 246억 개]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107555&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107555&amp;page=1&amp;kind=1</guid>
+            <pubDate>Thu, 16 Jun 2022 06:20:03 GMT</pubDate>
+            <content:encoded><![CDATA[현재 보안 업계에서 가장 주목을 많이 받는 기술을 하나 꼽는다면 ‘비밀번호 대체재’라고 말할 수 있다. 비밀번호라는 오랜 보안 장치를 없애고, 그걸 대신할...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20975801_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[사이버위협 집중 모니터링·대응 위한 ‘IE 보안 종합상황실’ 운영한다]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107548&amp;page=1&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107548&amp;page=1&amp;kind=2</guid>
+            <pubDate>Thu, 16 Jun 2022 06:20:04 GMT</pubDate>
+            <content:encoded><![CDATA[정부가 인터넷 익스플로러 지원 종료와 관련해 ‘IE 보안 종합상황실’을 운영한다고 밝혔다. 과학기술정보통신부(장관 이종호, 이하 과기정통부)와 한국인터넷진...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/12427834_main.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[AMD와 인텔 칩셋 내 정보 훔칠 수 있게 해 주는 부채널 공격법, 헤르츠블리드]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107554&amp;page=1&amp;kind=1</link>
@@ -64,28 +88,12 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/21743188_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[MS 정기 패치일, 수주 동안 사용자 위협하던 폴리나 드디어 해결돼]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107527&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107527&amp;page=1&amp;kind=1</guid>
-            <pubDate>Wed, 15 Jun 2022 08:23:23 GMT</pubDate>
-            <content:encoded><![CDATA[마이크로소프트가 2022년 6월의 정기 패치를 진행했다. 이번 달 정기 패치가 주목받는 건 최근 MSDT에서 발견된 제로데이 취약점인 폴리나(Follina...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/21756789_copy_295x190_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[“제로데이 대항마, 트렌드마이크로의 차세대 침입방지 시스템 TippingPointTM TX”]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107487&amp;page=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107487&amp;page=1&amp;kind=3</guid>
-            <pubDate>Wed, 15 Jun 2022 06:19:55 GMT</pubDate>
-            <content:encoded><![CDATA[21세기 빠르게 발전하는 첨단기술 분야에서 사이버 공격은 점차 치밀해지고 지능화되고 있다. 특히, 운영체제나 네트워크 내 취약점이 발견된 이후 관련 보안패...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20220615trend.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[짐브라 이메일 취약점, 로그인 크리덴셜 훔칠 수 있게 해]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107522&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107522&amp;page=1&amp;kind=1</guid>
-            <pubDate>Wed, 15 Jun 2022 04:33:19 GMT</pubDate>
-            <content:encoded><![CDATA[보안 외신 해커뉴스에 의하면 짐브라(Zimbra)라는 이메일 솔루션에서 고위험군 취약점이 발견됐다고 한다. 공격자가 이 취약점을 성공적으로 익스플로잇 할 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/21756787_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[KISA, 2022 해외 개인정보 보호 법률 상담 설명회 개최]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107545&amp;page=1&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107545&amp;page=1&amp;kind=2</guid>
+            <pubDate>Thu, 16 Jun 2022 06:20:04 GMT</pubDate>
+            <content:encoded><![CDATA[한국인터넷진흥원(KISA, 원장 이원태)과 개인정보보호위원회(위원장 윤종인)는 EU, 미국 등 해외 주요 시장에 진출하는 국내기업을 대상으로 ‘2022 해...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/kisa_061601_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[SK쉴더스, RSA Conference 2022 인사이트 및 보안 트렌드 발표]]></title>
@@ -230,14 +238,6 @@
             <guid>https://www.boannews.com/media/view.asp?idx=107531&amp;page=1&amp;kind=2</guid>
             <pubDate>Thu, 16 Jun 2022 01:22:40 GMT</pubDate>
             <content:encoded><![CDATA[경남도는 행정안전부가 주관하는 ‘클라우드컴퓨팅서비스 활용 모델 시범 사업’에 세종, 전남/광주, 전북, 제주와 함께 시범기관으로 선정됐다고 밝혔다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[KOMSA, 해양교통안전정보시스템(MTIS) 운영]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107530&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107530&amp;page=1&amp;kind=2</guid>
-            <pubDate>Thu, 16 Jun 2022 01:22:40 GMT</pubDate>
-            <content:encoded><![CDATA[한국해양교통안전공단(KOMSA)은 해양사고 예방 활동을 지원하기 위해 ‘해양교통안전정보시스템(MTIS)’을 지난 13일부터 운영하고 있다. 공단은 중앙해양...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/6-140(295).jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

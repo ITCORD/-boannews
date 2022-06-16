@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-06-16T04:34:55.483Z</updated>
+    <updated>2022-06-16T06:23:07.146Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[KISA, 2022 해외 개인정보 보호 법률 상담 설명회 개최]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107545&amp;page=1&amp;mkind=1&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107545&amp;page=1&amp;mkind=1&amp;kind=2"/>
+        <updated>2022-06-16T06:20:34.571Z</updated>
+        <content type="html"><![CDATA[한국인터넷진흥원(KISA, 원장 이원태)과 개인정보보호위원회(위원장 윤종인)는 EU, 미국 등 해외 주요 시장에 진출하는 국내기업을 대상으로 ‘2022 해외 개인정보 보호 법률 상담 설명회’를 온라인으로 6월 20일(월) 개최한다고 밝혔다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AMD와 인텔 칩셋 내 정보 훔칠 수 있게 해 주는 부채널 공격법, 헤르츠블리드]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107554&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107554&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-06-16T06:20:34.584Z</updated>
+        <content type="html"><![CDATA[보안 블로그 시큐리티어페어즈에 의하면 미국 여러 대학의 IT 연구원들이 연합하여 AMD와 인텔의 칩셋을 공략하는 새로운 기법을 발견했다고 한다. 일종의 부채널 공격 기법이 동원되었으며, 이 기법에는 헤르츠블리드(Hertzbleed)라는 이름이 붙었다. 원격에서 칩셋 내...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[전 CIA 직원, 대형 유출 사고에 연루되지 않았다고 주장]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107553&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107553&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-06-16T06:20:34.587Z</updated>
+        <content type="html"><![CDATA[전 CIA 소프트웨어 엔지니어였던 조슈아 슐트(Joshua Schulte)에 대한 2심이 시작됐다고 보안 외신 시큐리티위크가 보도했다. 슐트는 현재 2017년 위키리크스(WikiLeaks)를 통해 대량으로 공개된 CIA 내부 기밀과 해킹 도구들을 빼돌렸다는 혐의를 받고...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3년된 취약점 익스플로잇 해 코발트 스트라이크 심는 해커들]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107552&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107552&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-06-16T06:20:34.588Z</updated>
+        <content type="html"><![CDATA[IT 외신인 블리핑컴퓨터에 의하면 블루마킹버드(Blue Mockingbird)라는 해킹 단체가 텔레릭UI(Telerik UI)에서 3년 전에 발견된 취약점들을 익스플로잇 하고 있다고 한다. 이들의 익스플로잇 목적은 코발트 스트라이크라는 모의 해킹 도구를 심고, 이를 통...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SK쉴더스, RSA Conference 2022 인사이트 및 보안 트렌드 발표]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=107551&amp;page=1&amp;mkind=1&amp;kind=3</id>
@@ -95,33 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=107522&amp;page=1&amp;mkind=1&amp;kind=1"/>
         <updated>2022-06-15T06:20:25.546Z</updated>
         <content type="html"><![CDATA[보안 외신 해커뉴스에 의하면 짐브라(Zimbra)라는 이메일 솔루션에서 고위험군 취약점이 발견됐다고 한다. 공격자가 이 취약점을 성공적으로 익스플로잇 할 경우 피해자의 어떤 행위를 유발하지 않고도 피해자의 비밀번호를 평문으로 훔쳐낼 수 있게 된다. 피해자 이메일에 접근...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[랜섬웨어 갱단 알프V, 탈취된 정보 검색할 수 있게 서비스 제공]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107521&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107521&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-06-15T06:20:25.546Z</updated>
-        <content type="html"><![CDATA[악명 높은 랜섬웨어 갱단인 알프V(ALPHV)가 새로운 웹사이트를 개설했다고 IT 외신인 블리핑컴퓨터가 보도했다. 랜섬웨어 고객들이나 피해 기업의 직원들이 데이터를 검색할 수 있도록 해 주는 일종의 포탈이다. 랜섬웨어 공격자들의 협박 수위가 최근 계속해서 높아짐에 따라...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MS, 이번 달 패치 튜즈데이 통해 폴리나 취약점 해결]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107520&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107520&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-06-15T06:20:25.546Z</updated>
-        <content type="html"><![CDATA[MS가 6월의 정기 패치를 진행했다. 이번 정기 패치를 통해 50개 정도의 취약점이 해결됐다고 보안 외신 시큐리티위크는 보도했다. 여기에는 최근 큰 문제가 되고 있는 폴리나(Follina) 취약점도 포함되어 있다고 한다. 이번 패치 튜즈데이로 인해 보안이 강화된 제품은...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[6·15 남북공동선언 22주년 이슈 악용한 북한 해킹 공격 포착됐다]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107518&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107518&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-06-15T04:33:45.649Z</updated>
-        <content type="html"><![CDATA[6·15 남북공동선언이 22주년을 맞는 가운데 실제 개최되는 통일정책포럼 행사를 악용한 북한 해커조직의 사이버 공격이 발견돼 통일·외교·안보 분야 종사자들의 각별한 주의가 요구된다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[방통위, 불법 스팸 방지 및 국민 피해 예방 활동 확대]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107500&amp;page=1&amp;mkind=1&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107500&amp;page=1&amp;mkind=1&amp;kind=2"/>
-        <updated>2022-06-15T04:33:45.660Z</updated>
-        <content type="html"><![CDATA[방송통신위원회 소속 방송통신사무소는 불법 스팸 방지와 피해 예방을 위해 주요 방송사를 통한 자막방송 송출과 함께 한국인터넷진흥원(KISA)과 공동으로 정보통신망법 및 불법 스팸 행정처분 사례 등에 대한 온라인 설명회를 개최한다.]]></content>
     </entry>
 </feed>
