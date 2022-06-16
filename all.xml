@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Jun 2022 03:48:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jun 2022 04:34:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -376,20 +376,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/21412442_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[러시아의 APT 단체, 폴리나 취약점 통해 우크라이나 조직들 공격 중 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107486&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107486&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Wed, 15 Jun 2022 03:39:17 GMT</pubDate>
-            <content:encoded><![CDATA[보안 블로그 시큐리티어페어즈에 의하면 러시아의 APT 단체가 최근 공개된 MS 제품의 취약점인 폴리나(Follina)를 악용해 우크라이나 단체들을 공격하기 시작했...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/22054717_copy_295x190_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[인기 높은 프록시 서버 오픈소스인 엔보이 프록시에서 디도스 취약점 발견돼 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107493&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107493&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Wed, 15 Jun 2022 16:22:29 GMT</pubDate>
             <content:encoded><![CDATA[엔보이 프록시(Envoy Proxy)에서 디도스 공격을 가능하게 하는 취약점이 발견됐다. 이 취약점을 익스플로잇 할 경우 공격자들은 프록시 서버를 완전히 마비시킬...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/slow-thumb-0614.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[러시아의 APT 단체, 폴리나 취약점 통해 우크라이나 조직들 공격 중 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107486&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107486&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Wed, 15 Jun 2022 03:39:17 GMT</pubDate>
+            <content:encoded><![CDATA[보안 블로그 시큐리티어페어즈에 의하면 러시아의 APT 단체가 최근 공개된 MS 제품의 취약점인 폴리나(Follina)를 악용해 우크라이나 단체들을 공격하기 시작했...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/22054717_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[범죄도시2의 사이버 판? 검사 사칭 보이스피싱 일당, 베트남서 검거 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
