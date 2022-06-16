@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Jun 2022 07:19:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jun 2022 08:28:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,14 +104,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20220613TV-S.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
-            <title><![CDATA[Weekly Security Premium Report 제54호 발간! 최신 개인정보보호 이슈분석]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107386&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107386&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
-            <pubDate>Mon, 13 Jun 2022 08:21:00 GMT</pubDate>
-            <content:encoded><![CDATA[6월 9일 발간된 ‘Weekly Security Premium Report’ 제54호에는 &lt;보안 심층 리포트&gt; 코너에서 지난 6월 2일부터 3일까지 양...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20220527REPORT-MS.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
             <title><![CDATA[회사에서 많이 사용하는 IP 전화 제품에서 취약점 발견돼]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107485&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107485&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
@@ -166,6 +158,14 @@
             <pubDate>Thu, 16 Jun 2022 07:16:05 GMT</pubDate>
             <content:encoded><![CDATA[보안 외신 핵리드에 의하면 우간다의 증권 거래소인 USE가 데이터베이스 관리 실수를 통해 고도로 민감한 정보를 다량으로 유출시켰다고 한다. 각종 개인정보는 물론 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/21171531_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[남미 은행들 주로 노리는 고급 리눅스 멀웨어, 심바이오트]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107456&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107456&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Thu, 16 Jun 2022 08:25:42 GMT</pubDate>
+            <content:encoded><![CDATA[남미 지역의 금융 기관들을 노리는 리눅스 멀웨어, 심바이오트(Symbiote)가 발견됐다. 모든 파일과 프로세스, 각종 네트워크 아티팩트를 숨기기 때문에 포렌식으...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/21094099_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

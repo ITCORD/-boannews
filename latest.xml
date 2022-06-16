@@ -4,9 +4,17 @@
         <title>보안뉴스 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Jun 2022 07:19:09 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jun 2022 08:28:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[교묘한 ‘눈속임 설계’로부터 소중한 개인정보 지키세요!]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107558&amp;page=1&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107558&amp;page=1&amp;kind=2</guid>
+            <pubDate>Thu, 16 Jun 2022 08:25:26 GMT</pubDate>
+            <content:encoded><![CDATA[우리 생활 주변에서 각종 서비스를 이용하는 도중에 자신도 모르는 사이에 자기 개인정보를 침해받거나, 재화나 서비스 이용에 불이익을 받는 경우가 종종 있다....]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/21743177_main.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[아듀! 인터넷 익스플로러, 공식지원 종료... 보안위협 커져 대안 필요]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107556&amp;page=1&amp;kind=1</link>
@@ -80,12 +88,12 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/21765908_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[보안에 대한 기업들 우려 높아져... 부정감지 및 예방 솔루션 수요 증가]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107525&amp;page=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107525&amp;page=1&amp;kind=3</guid>
-            <pubDate>Wed, 15 Jun 2022 09:16:03 GMT</pubDate>
-            <content:encoded><![CDATA[기업 대상의 보안위협이 급증하면서, 기업들 사이에서 인터넷상의 부정 감지 및 예방에 대한 필요성이 높아지는 것이 ‘글로벌 부정 감지&amp;예방(FDP : Fra...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/21743188_main.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[차세대 보안리더 양성 프로그램 ‘BoB’ 10주년 백서 발간]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107557&amp;page=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107557&amp;page=1&amp;kind=3</guid>
+            <pubDate>Thu, 16 Jun 2022 08:25:26 GMT</pubDate>
+            <content:encoded><![CDATA[한국정보기술연구원(원장 유준상, 이하 KITRI)은 차세대 보안리더 양성 프로그램(이하 BoB) 10년의 역사를 기록한 ‘차세대 보안리더 양성 프로그램(B...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/bob_061601_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[KISA, 2022 해외 개인정보 보호 법률 상담 설명회 개최]]></title>
@@ -231,13 +239,6 @@
             <pubDate>Thu, 16 Jun 2022 01:22:40 GMT</pubDate>
             <content:encoded><![CDATA[양산시는 축제 장소에 방문하는 정확한 관광객 수를 확인하기 위해 2022년 2월 ‘인공지능을 활용한 유동인구 현장 측정장비 개발 용역’ 사업을 추진해 지난...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/6-142(295).jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[경남도, ‘행정·공공기관 정보시스템 클라우드 전환 시범기관’ 선정]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107531&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107531&amp;page=1&amp;kind=2</guid>
-            <pubDate>Thu, 16 Jun 2022 01:22:40 GMT</pubDate>
-            <content:encoded><![CDATA[경남도는 행정안전부가 주관하는 ‘클라우드컴퓨팅서비스 활용 모델 시범 사업’에 세종, 전남/광주, 전북, 제주와 함께 시범기관으로 선정됐다고 밝혔다.]]></content:encoded>
         </item>
     </channel>
 </rss>
