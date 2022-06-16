@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 16 Jun 2022 09:19:57 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jun 2022 10:21:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -306,14 +306,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20918512_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[기업이 스스로를 보호하기 위해 알아두어야 할 NFT 생태계의 7대 악 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107388&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107388&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Sat, 11 Jun 2022 07:15:03 GMT</pubDate>
-            <content:encoded><![CDATA[요 몇 년 동안 삶이 변하는 속도는 그야 말로 역대 최고치를 자꾸만 갱신하는 중이다. 새로운 기술이 매일 등장하고, 그것이 일반 대중들의 삶에도 깊이 관여된다. ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/22021221_copy_295x190_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[주고 받은 ‘회신 이메일’도 다시 보자! 범블비 악성코드 기승 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107450&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107450&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
@@ -400,6 +392,14 @@
             <pubDate>Thu, 16 Jun 2022 09:16:44 GMT</pubDate>
             <content:encoded><![CDATA[보안 외신 해커뉴스에 의하면 짐브라(Zimbra)라는 이메일 솔루션에서 고위험군 취약점이 발견됐다고 한다. 공격자가 이 취약점을 성공적으로 익스플로잇 할 경우 피...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/21756787_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[MS 정기 패치일, 수주 동안 사용자 위협하던 폴리나 드디어 해결돼 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107527&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107527&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Thu, 16 Jun 2022 10:18:04 GMT</pubDate>
+            <content:encoded><![CDATA[마이크로소프트가 2022년 6월의 정기 패치를 진행했다. 이번 달 정기 패치가 주목받는 건 최근 MSDT에서 발견된 제로데이 취약점인 폴리나(Follina)가 해...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/21756789_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[차세대 보안리더 양성 프로그램 ‘BoB’ 10주년 백서 발간 (보안뉴스 ─ SECURITY)]]></title>
@@ -789,6 +789,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/IE_0616%20(2)_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[3년된 취약점 익스플로잇 해 코발트 스트라이크 심는 해커들 (보안뉴스 ─ 취약점 경고 및 버그리포트)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107552&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107552&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=</guid>
+            <pubDate>Thu, 16 Jun 2022 10:19:04 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/view.asp?idx=107552&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=">
+					
+					<img src="/media/upFiles2/2022/06/21504471_copy_295x190_1.jpg" alt="" class="news_img" height="70">
+					
+					<span class="news_txt">3년된 취약점 익스플로잇 해 코발트 스트라이크 심는 해커들</span>
+					</a><br>
+					<a href="/media/view.asp?idx=107552&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=">IT 외신인 블리핑컴퓨터에 의하면 블루마킹버드(Blue Mockingbird)라는 해킹 단체가 텔레릭UI(Telerik UI)에서 3년 전에 발견된 취약점들을 익...</a> <span class="news_writer">문가용 기자 | 2022년 06월 16일 11:30</span>]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/21504471_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[“한국의 결제 카드·이메일 데이터 8,698~12,722원 대에 다크웹서 거래” (보안뉴스 ─ 취약점 경고 및 버그리포트)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107481&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107481&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=</guid>
@@ -1039,20 +1053,6 @@
 					</a><br>
 					<a href="/media/view.asp?idx=107304&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=">최근 아틀라시안 컨플루언스(Atlassian Confluence) 플랫폼에서 발견된 취약점(CVE-2022-26134)을 이용한 공격이 잇따라 포착돼 이용자들의 ...</a> <span class="news_writer">권준  기자 | 2022년 06월 07일 16:26</span>]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20220607con-s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[주요 게임사 8곳 보안 실태 조사결과 살펴보니 (보안뉴스 ─ 취약점 경고 및 버그리포트)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107253&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=5&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107253&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=5&amp;search=title&amp;find=</guid>
-            <pubDate>Mon, 06 Jun 2022 15:20:04 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/view.asp?idx=107253&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=5&amp;search=title&amp;find=">
-					
-					<img src="/media/upFiles2/2022/06/willmade11-C.jpg" alt="" class="news_img" height="70">
-					
-					<span class="news_txt">주요 게임사 8곳 보안 실태 조사결과 살펴보니 </span>
-					</a><br>
-					<a href="/media/view.asp?idx=107253&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=5&amp;search=title&amp;find=">온라인 게임 시장이 올해도 승승장구하고 있다. 2021년 18조 2,683억원을 기록했는데, 올해는 벌써 9조 9,125억원을 기록해 연말까지 20조 원을 돌파할...</a> <span class="news_writer">권준  기자 | 2022년 06월 06일 23:54</span>]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/willmade11-C.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[최정식 발행인 칼럼] <시큐리티월드> 통권 300호를 맞아 드리는 감사의 말씀 (보안뉴스 ─ 오피니언)]]></title>
