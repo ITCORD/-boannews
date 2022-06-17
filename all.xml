@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Jun 2022 15:20:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jun 2022 16:27:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -369,20 +369,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20975801_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[남미 은행들 주로 노리는 고급 리눅스 멀웨어, 심바이오트 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107456&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107456&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Thu, 16 Jun 2022 08:25:42 GMT</pubDate>
-            <content:encoded><![CDATA[남미 지역의 금융 기관들을 노리는 리눅스 멀웨어, 심바이오트(Symbiote)가 발견됐다. 모든 파일과 프로세스, 각종 네트워크 아티팩트를 숨기기 때문에 포렌식으...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/21094099_copy_295x190_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[인텔과 AMD의 칩셋을 뚫고 암호화 키 훔치게 해 주는 새 부채널 공격, 헤르츠블리드 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107561&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107561&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Fri, 17 Jun 2022 09:17:43 GMT</pubDate>
             <content:encoded><![CDATA[많은 시스템에 탑재된 프로세서들을 겨냥한 부채널 공격 기법 하나가 새롭게 발굴됐다. 이 공격 기법에는 헤르츠블리드(Hertzbleed)라는 이름이 붙었다. 공격에...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20459303_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[남미 은행들 주로 노리는 고급 리눅스 멀웨어, 심바이오트 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107456&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107456&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Thu, 16 Jun 2022 08:25:42 GMT</pubDate>
+            <content:encoded><![CDATA[남미 지역의 금융 기관들을 노리는 리눅스 멀웨어, 심바이오트(Symbiote)가 발견됐다. 모든 파일과 프로세스, 각종 네트워크 아티팩트를 숨기기 때문에 포렌식으...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/21094099_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[구글, “취약점이 소프트웨어 물자의 이름을 불러 주었을 때 꽃이 된다” (보안뉴스 ─ 가장 많이 본 기사)]]></title>
