@@ -4,17 +4,9 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Jun 2022 09:20:27 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jun 2022 10:21:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[1년 반 동안 죽어 지냈던 이모텟, 슬슬 살아날 조짐 보인다]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107423&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107423&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Sat, 11 Jun 2022 07:15:03 GMT</pubDate>
-            <content:encoded><![CDATA[악명 높은 봇넷 멀웨어인 이모텟(Emotet)이 되살아났다. 2021년 1월 국제적인 공조로 폐쇄된 조직 및 공격 인프라가 약 1년 반 만에 부활한 것이다. 국제...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20872051_copy_295x190_1.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[주말판] 랜섬웨어 전성시대에 최전선에서 점점 많이 보이는 얼굴, CDO]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107433&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
@@ -166,6 +158,14 @@
             <pubDate>Fri, 17 Jun 2022 09:17:43 GMT</pubDate>
             <content:encoded><![CDATA[많은 시스템에 탑재된 프로세서들을 겨냥한 부채널 공격 기법 하나가 새롭게 발굴됐다. 이 공격 기법에는 헤르츠블리드(Hertzbleed)라는 이름이 붙었다. 공격에...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20459303_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[보안에 대한 기업들 우려 높아져... 부정감지 및 예방 솔루션 수요 증가]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107525&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107525&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
+            <pubDate>Fri, 17 Jun 2022 10:18:07 GMT</pubDate>
+            <content:encoded><![CDATA[기업 대상의 보안위협이 급증하면서, 기업들 사이에서 인터넷상의 부정 감지 및 예방에 대한 필요성이 높아지는 것이 ‘글로벌 부정 감지&amp;예방(FDP : Fraud D...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/21743188_main.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
