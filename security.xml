@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-06-17T05:20:54.350Z</updated>
+    <updated>2022-06-17T06:23:48.088Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[페이스북 메신저 사기, 1천만 사용자 속여]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107585&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107585&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-06-17T06:21:22.647Z</updated>
+        <content type="html"><![CDATA[페이스북 메신저(Facebook Messanger)를 통해 지난 수개월 동안 가짜 피싱 메시지가 유포됐고, 여기에 1천만 사용자가 속았다고 보안 외신 쓰레트포스트가 보도했다. 이 피싱 캠페인의 목적은 사용자들의 크리덴셜을 훔치는 것이라고 하며, 심지어 지금도 활발히 진...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[블랙캣, 피해자의 데이터를 다크웹이 아니라 일반 웹에 공개]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107584&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107584&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-06-17T06:21:22.649Z</updated>
+        <content type="html"><![CDATA[보안 블로그 시큐리티어페어즈에 의하면 블랙캣(BlackCat) 랜섬웨어 집단이 피해자의 데이터를 일반 웹에 공개했다고 한다. 일반 웹에 공개했다는 건 구글과 같은 일반 검색엔진으로 개인정보를 검색할 수 있게 된다는 뜻이다. 따라서 발견될 가능성이 높다. 사용자의 수가 ...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[블랙캣 랜섬웨어 갱단, 취약한 익스체인지 서버 공략 중]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107583&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107583&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-06-17T06:21:22.650Z</updated>
+        <content type="html"><![CDATA[보안 외신 해커뉴스가 MS의 발표를 인용해 블랙캣(BlackCat) 랜섬웨어 갱단이 패치가 되지 않은 익스체인지 서버를 공격하는 중이라고 보도했다. 익스체인지 익스플로잇으로 피해자의 네트워크에 접근하고, 각종 정보를 수집하여 민감한 지적재산에까지 도달하는 것이 이들의 ...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[소포스 방화벽의 제로데이 취약점, 이미 수주 전부터 익스플로잇 돼]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=107582&amp;page=1&amp;mkind=1&amp;kind=1</id>
@@ -102,26 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=107555&amp;page=1&amp;mkind=1&amp;kind=1"/>
         <updated>2022-06-16T08:25:58.477Z</updated>
         <content type="html"><![CDATA[현재 보안 업계에서 가장 주목을 많이 받는 기술을 하나 꼽는다면 ‘비밀번호 대체재’라고 말할 수 있다. 비밀번호라는 오랜 보안 장치를 없애고, 그걸 대신할 만한 무언가를 만드는 것이 큰 화두였다. 하지만 비밀번호에 대한 일반 대중들의 선호도가 너무나 높기 때문에 아직까...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사이버위협 집중 모니터링·대응 위한 ‘IE 보안 종합상황실’ 운영한다]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107548&amp;page=1&amp;mkind=1&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107548&amp;page=1&amp;mkind=1&amp;kind=2"/>
-        <updated>2022-06-16T08:25:58.479Z</updated>
-        <content type="html"><![CDATA[정부가 인터넷 익스플로러 지원 종료와 관련해 ‘IE 보안 종합상황실’을 운영한다고 밝혔다. 과학기술정보통신부(장관 이종호, 이하 과기정통부)와 한국인터넷진흥원(원장 이원태, 이하 KISA)은 6월 15일부로 웹 브라우저 ‘인터넷 익스플로러(Internet Explore...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KISA, 2022 해외 개인정보 보호 법률 상담 설명회 개최]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107545&amp;page=1&amp;mkind=1&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107545&amp;page=1&amp;mkind=1&amp;kind=2"/>
-        <updated>2022-06-16T06:20:34.571Z</updated>
-        <content type="html"><![CDATA[한국인터넷진흥원(KISA, 원장 이원태)과 개인정보보호위원회(위원장 윤종인)는 EU, 미국 등 해외 주요 시장에 진출하는 국내기업을 대상으로 ‘2022 해외 개인정보 보호 법률 상담 설명회’를 온라인으로 6월 20일(월) 개최한다고 밝혔다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AMD와 인텔 칩셋 내 정보 훔칠 수 있게 해 주는 부채널 공격법, 헤르츠블리드]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107554&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107554&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-06-16T06:20:34.584Z</updated>
-        <content type="html"><![CDATA[보안 블로그 시큐리티어페어즈에 의하면 미국 여러 대학의 IT 연구원들이 연합하여 AMD와 인텔의 칩셋을 공략하는 새로운 기법을 발견했다고 한다. 일종의 부채널 공격 기법이 동원되었으며, 이 기법에는 헤르츠블리드(Hertzbleed)라는 이름이 붙었다. 원격에서 칩셋 내...]]></content>
     </entry>
 </feed>
