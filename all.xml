@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Jun 2022 07:19:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jun 2022 08:26:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -258,14 +258,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/nis_061001_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[6월 첫째 주, 정보탈취 ‘인포스틸러’ 악성코드 국내 유포 기승 부렸다 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107419&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107419&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Sat, 11 Jun 2022 04:21:37 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 6월 첫째 주에는 개인정보 및 계정정보 탈취 목적의 인포스틸러 악성코드가 국내에 유포된 전체 악성코드의 대부분을 차지한 것으로 분석됐다. 보안전문 업체...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20220610malware-s.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
             <title><![CDATA[[주말판] 랜섬웨어 전성시대에 최전선에서 점점 많이 보이는 얼굴, CDO (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107433&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107433&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
@@ -400,6 +392,14 @@
             <pubDate>Fri, 17 Jun 2022 07:15:52 GMT</pubDate>
             <content:encoded><![CDATA[소프트웨어 재료표(Software Bills of Materials, SBOMs)라는 개념을 도입하려는 움직임이 빠르게 일어나고 있다. 특히 미국의 NIST가 이...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/21765908_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[지금 이 순간 다크웹에서 거래되는 비밀번호의 수량은 246억 개 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107555&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107555&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Fri, 17 Jun 2022 08:23:46 GMT</pubDate>
+            <content:encoded><![CDATA[현재 보안 업계에서 가장 주목을 많이 받는 기술을 하나 꼽는다면 ‘비밀번호 대체재’라고 말할 수 있다. 비밀번호라는 오랜 보안 장치를 없애고, 그걸 대신할 만한 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20975801_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[페이스북 메신저 사기, 1천만 사용자 속여 (보안뉴스 ─ SECURITY)]]></title>
@@ -2735,6 +2735,17 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/anlab20220614-c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[인사] 한국인터넷진흥원 (보안뉴스 ─ 인사 부고)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107592&amp;page=1&amp;mkind=&amp;kind=2&amp;skind=K&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107592&amp;page=1&amp;mkind=&amp;kind=2&amp;skind=K&amp;search=title&amp;find=</guid>
+            <pubDate>Fri, 17 Jun 2022 08:26:32 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/view.asp?idx=107592&amp;page=1&amp;mkind=&amp;kind=2&amp;skind=K&amp;search=title&amp;find=">
+					
+					<span class="news_txt">[인사] 한국인터넷진흥원</span>
+					</a><br>
+					<a href="/media/view.asp?idx=107592&amp;page=1&amp;mkind=&amp;kind=2&amp;skind=K&amp;search=title&amp;find=">◇단장급 보임 △침해대응단장 임진수 △침해사고분석단장 심재홍 △사이버방역단장 서정훈  ◇ 팀장급 보임 △개인정보탐지조사팀장 안인회 △융합보안기술팀장 이재형 (20...</a> <span class="news_writer">원병철 기자 | 2022년 06월 17일 17:15</span>]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[국정원 3차장에 백종욱 전 국가사이버안보센터장 임명 (보안뉴스 ─ 인사 부고)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107480&amp;page=1&amp;mkind=&amp;kind=2&amp;skind=K&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107480&amp;page=1&amp;mkind=&amp;kind=2&amp;skind=K&amp;search=title&amp;find=</guid>
@@ -2969,20 +2980,6 @@
 					<span class="news_txt">[부고] 한국정보보호학회 수석부회장 원유재 교수 부친상</span>
 					</a><br>
 					<a href="/media/view.asp?idx=105505&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=K&amp;search=title&amp;find=">△내 용 : 충남대학교 원유재 교수 부친상 △빈 소 : 충남 아산 신정장례문화원 VIP 2호  △발 인 : 2022년 3월 19일(토) △장 지 : 아산시 신창면...</a> <span class="news_writer">원병철 기자 | 2022년 03월 17일 11:27</span>]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[2022년 보안업계 변화를 이끌 ‘새로운 CEO’들 (보안뉴스 ─ 인사 부고)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105406&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=K&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105406&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=K&amp;search=title&amp;find=</guid>
-            <pubDate>Mon, 14 Mar 2022 09:17:57 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/view.asp?idx=105406&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=K&amp;search=title&amp;find=">
-					
-					<img src="/media/upFiles2/2022/03/ceo_0315_main2.jpg" alt="" class="news_img" height="70">
-					
-					<span class="news_txt">2022년 보안업계 변화를 이끌 ‘새로운 CEO’들 </span>
-					</a><br>
-					<a href="/media/view.asp?idx=105406&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=K&amp;search=title&amp;find=">최근 국내외 대표 보안기업들의 CEO나 지사장들이 바뀌거나 새로 내정되며 보안산업에 변화의 바람이 불고 있다. 특히, 이들은 국내 정보보안은 물론 물리보안 분야를...</a> <span class="news_writer">원병철 기자 | 2022년 03월 14일 18:04</span>]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/ceo_0315_main2.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
