@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Jun 2022 01:21:54 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jun 2022 03:27:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -144,6 +144,14 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/21171531_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[아듀! 인터넷 익스플로러, 공식지원 종료... 보안위협 커져 대안 필요]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107556&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107556&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Fri, 17 Jun 2022 03:24:06 GMT</pubDate>
+            <content:encoded><![CDATA[인터넷 익스플로러가 11 버전을 마지막으로 사라진다. 마이크로소프트는 6월 15일자로 인터넷 익스플로러 11에 대한 공식지원을 종료했다. 프로그램 자체는 계속 사...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/IE_0616%20(2)_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[짐브라 이메일 취약점, 로그인 크리덴셜 훔칠 수 있게 해]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107522&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107522&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
@@ -158,14 +166,6 @@
             <pubDate>Thu, 16 Jun 2022 08:25:42 GMT</pubDate>
             <content:encoded><![CDATA[남미 지역의 금융 기관들을 노리는 리눅스 멀웨어, 심바이오트(Symbiote)가 발견됐다. 모든 파일과 프로세스, 각종 네트워크 아티팩트를 숨기기 때문에 포렌식으...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/21094099_copy_295x190_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[MS 정기 패치일, 수주 동안 사용자 위협하던 폴리나 드디어 해결돼]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107527&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107527&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Thu, 16 Jun 2022 10:18:04 GMT</pubDate>
-            <content:encoded><![CDATA[마이크로소프트가 2022년 6월의 정기 패치를 진행했다. 이번 달 정기 패치가 주목받는 건 최근 MSDT에서 발견된 제로데이 취약점인 폴리나(Follina)가 해...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/21756789_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
