@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-06-16T23:20:02.790Z</updated>
+    <updated>2022-06-17T01:21:54.478Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[익산시, 개인정보보호 및 정보보안 교육 실시]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107572&amp;page=1&amp;mkind=1&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107572&amp;page=1&amp;mkind=1&amp;kind=2"/>
+        <updated>2022-06-17T01:18:49.880Z</updated>
+        <content type="html"><![CDATA[익산시는 시민의 소중한 개인정보를 안전하게 관리하기 위한 노력을 기울인다. 시는 17일까지 부서 보안담당자와 신규 공무원을 대상으로 개인정보보호 및 정보보안 교육을 실시했다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한국화웨이, 지능형 캠퍼스 네트워크 구축 및 데이터 센터 지원]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107576&amp;page=1&amp;mkind=1&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107576&amp;page=1&amp;mkind=1&amp;kind=3"/>
+        <updated>2022-06-17T01:18:49.881Z</updated>
+        <content type="html"><![CDATA[한국화웨이가 16일 대전 ICC 호텔에서 ‘한국화웨이 엔터프라이즈 로드쇼(Huawei Korea Enterprise Roadshow)’ 포럼을 성황리에 개최했다고 밝혔다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[인텔과 AMD의 칩셋을 뚫고 암호화 키 훔치게 해 주는 새 부채널 공격, 헤르츠블리드]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107561&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107561&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-06-17T01:18:49.887Z</updated>
+        <content type="html"><![CDATA[많은 시스템에 탑재된 프로세서들을 겨냥한 부채널 공격 기법 하나가 새롭게 발굴됐다. 이 공격 기법에는 헤르츠블리드(Hertzbleed)라는 이름이 붙었다. 공격에 성공하게 될 경우 공격자는 원격에서 서버 암호화 키를 훔쳐갈 수 있게 된다고 한다. 인텔에서 출시된 프로세...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Weekly Security Premium Report 제55호 발간! 클라우드 비용 분석과 조직의 역할]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107560&amp;page=1&amp;mkind=1&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107560&amp;page=1&amp;mkind=1&amp;kind=3"/>
+        <updated>2022-06-17T01:18:49.888Z</updated>
+        <content type="html"><![CDATA[6월 16일 발간된 ‘Weekly Security Premium Report’ 제55호에는 &lt;보안 심층 리포트&gt; 코너에서 클라우드 사용 비용의 분석과 이해를 위한 조언 4가지와 클라우드로의 이전을 위한 조직과 CIO의 역할 3가지를 살펴봤다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[교묘한 ‘눈속임 설계’로부터 소중한 개인정보 지키세요!]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107558&amp;page=1&amp;mkind=1&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107558&amp;page=1&amp;mkind=1&amp;kind=2"/>
+        <updated>2022-06-17T01:18:49.889Z</updated>
+        <content type="html"><![CDATA[우리 생활 주변에서 각종 서비스를 이용하는 도중에 자신도 모르는 사이에 자기 개인정보를 침해받거나, 재화나 서비스 이용에 불이익을 받는 경우가 종종 있다. 특히 코로나19 확산 이후 온라인을 통한 비대면 활동이 일상화됨에 따라 이러한 현상이 더욱 확산되고 있다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[차세대 보안리더 양성 프로그램 ‘BoB’ 10주년 백서 발간]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=107557&amp;page=1&amp;mkind=1&amp;kind=3</id>
@@ -88,40 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=107481&amp;page=1&amp;mkind=1&amp;kind=1"/>
         <updated>2022-06-16T03:45:50.350Z</updated>
         <content type="html"><![CDATA[다크웹 사이트에서 데이터 불법 거래가 기승을 부리고 있어 데이터 보안에 비상이 걸렸다. 다크웹내 사이트 1곳에서 거래된 금액만 220억 3,155만 원 규모다. 불법거래에 대한 단속은 물론 개인정보와 중요 데이터가 유출되지 않도록 각별한 주의가 필요한 상황이다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[금융보안원 ‘2022 핀테크 보안 지원 사업’ 수행기관 선정]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107546&amp;page=1&amp;mkind=1&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107546&amp;page=1&amp;mkind=1&amp;kind=2"/>
-        <updated>2022-06-16T01:23:13.018Z</updated>
-        <content type="html"><![CDATA[금융보안원(원장 김철웅)은 중소 핀테크 기업의 보안 점검을 지원하는 ‘2022년 핀테크 보안 지원 사업’ 수행기관으로 선정됐다고 밝혔다. 핀테크 보안 지원 사업은 금융위원회가 중소 핀테크 기업에 필요한 보안 점검 비용의 75%를 지원하는 사업으로, 2019년부터 금융보...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[구글, “취약점이 소프트웨어 물자의 이름을 불러 주었을 때 꽃이 된다”]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107528&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107528&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-06-16T01:23:13.020Z</updated>
-        <content type="html"><![CDATA[소프트웨어 재료표(Software Bills of Materials, SBOMs)라는 개념을 도입하려는 움직임이 빠르게 일어나고 있다. 특히 미국의 NIST가 이 제도를 강력하게 지지하고 있으며, 입법 기관에서도 이 움직임에 긍정적이다. 미국 백악관이 공급망 공격에 대...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[보안에 대한 기업들 우려 높아져... 부정감지 및 예방 솔루션 수요 증가]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107525&amp;page=1&amp;mkind=1&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107525&amp;page=1&amp;mkind=1&amp;kind=3"/>
-        <updated>2022-06-16T01:23:13.021Z</updated>
-        <content type="html"><![CDATA[기업 대상의 보안위협이 급증하면서, 기업들 사이에서 인터넷상의 부정 감지 및 예방에 대한 필요성이 높아지는 것이 ‘글로벌 부정 감지&amp;예방(FDP : Fraud Detection &amp; Prevention)’ 시장에 활기를 불어넣고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MS 정기 패치일, 수주 동안 사용자 위협하던 폴리나 드디어 해결돼]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107527&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107527&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-06-16T01:23:13.026Z</updated>
-        <content type="html"><![CDATA[마이크로소프트가 2022년 6월의 정기 패치를 진행했다. 이번 달 정기 패치가 주목받는 건 최근 MSDT에서 발견된 제로데이 취약점인 폴리나(Follina)가 해결되었기 때문이다. 하지만 폴리나 외에도 60개 가까운 취약점들이 패치되었기 때문에 폴리나와 관련이 없다고 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KISA-단국대, 인터넷거버넌스 인재 양성 MoU 체결]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107526&amp;page=1&amp;mkind=1&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107526&amp;page=1&amp;mkind=1&amp;kind=2"/>
-        <updated>2022-06-15T09:16:27.719Z</updated>
-        <content type="html"><![CDATA[한국인터넷진흥원(KISA, 원장 이원태)은 단국대학교(총장 김수복)와 ‘인터넷거버넌스 미래인재 양성을 위한 업무협약’을 6월 15일(수) 단국대학교에서 체결했다고 밝혔다.]]></content>
     </entry>
 </feed>
