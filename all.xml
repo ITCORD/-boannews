@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Jun 2022 06:22:38 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Jun 2022 07:17:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -287,12 +287,28 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/IE_0616%20(2)_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[인터넷 익스플로러 공식 지원 종료, 하지만 정말 무덤에 묻힌 것일까? (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107588&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107588&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Sat, 18 Jun 2022 03:21:07 GMT</pubDate>
+            <content:encoded><![CDATA[마이크로소프트가 공식적으로 인터넷 익스플로러의 지원을 종료했다. 이로써 27년에 처음 탄생해 짧지 않은 기간 브라우저 시장의 왕좌에서 군림했던 애플리케이션 하나가...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/21551114_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[인기 높은 프록시 서버 오픈소스인 엔보이 프록시에서 디도스 취약점 발견돼 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107493&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107493&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Wed, 15 Jun 2022 16:22:29 GMT</pubDate>
             <content:encoded><![CDATA[엔보이 프록시(Envoy Proxy)에서 디도스 공격을 가능하게 하는 취약점이 발견됐다. 이 취약점을 익스플로잇 할 경우 공격자들은 프록시 서버를 완전히 마비시킬...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/slow-thumb-0614.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[6월 둘째 주, 사라졌다가 컴백한 뱅킹 악성코드 ‘이모텟’ 전성시대 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107587&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107587&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Sat, 18 Jun 2022 03:21:07 GMT</pubDate>
+            <content:encoded><![CDATA[한 동안 자취를 감췄던 뱅킹 악성코드 ‘이모텟(Emotet)’이 화려하게 부활해서 돌아왔다. 6월 둘째 주에는 계속 상위권을 점령해 왔던 정보탈취 목적의 인포스틸...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20220616_report_malware-add-s.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[범죄도시2의 사이버 판? 검사 사칭 보이스피싱 일당, 베트남서 검거 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
@@ -303,14 +319,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/police_061301_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[인터넷 익스플로러 공식 지원 종료, 하지만 정말 무덤에 묻힌 것일까? (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107588&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107588&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Sat, 18 Jun 2022 03:21:07 GMT</pubDate>
-            <content:encoded><![CDATA[마이크로소프트가 공식적으로 인터넷 익스플로러의 지원을 종료했다. 이로써 27년에 처음 탄생해 짧지 않은 기간 브라우저 시장의 왕좌에서 군림했던 애플리케이션 하나가...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/21551114_copy_295x190_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[러시아의 APT 단체, 폴리나 취약점 통해 우크라이나 조직들 공격 중 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107486&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107486&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
@@ -319,12 +327,12 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/22054717_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[6월 둘째 주, 사라졌다가 컴백한 뱅킹 악성코드 ‘이모텟’ 전성시대 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107587&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107587&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Sat, 18 Jun 2022 03:21:07 GMT</pubDate>
-            <content:encoded><![CDATA[한 동안 자취를 감췄던 뱅킹 악성코드 ‘이모텟(Emotet)’이 화려하게 부활해서 돌아왔다. 6월 둘째 주에는 계속 상위권을 점령해 왔던 정보탈취 목적의 인포스틸...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20220616_report_malware-add-s.JPG" length="0" type="image/JPG"/>
+            <title><![CDATA[[기자수첩] 유희열의 표절과 안테나의 대응, 그리고 기업의 취약점 대처법 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107586&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107586&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Sat, 18 Jun 2022 04:24:00 GMT</pubDate>
+            <content:encoded><![CDATA[유명 음악가인 유희열의 표절 논란이 불거지고 있다. 대중 가요 씬에 미치는 영향력이 적다고 할 수 없는 인물이라 많은 팬들이 충격을 받고 있는 모양이다. 기자도 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/3729561_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[페이스북 메신저 사기, 1천만 사용자 속여 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
@@ -341,14 +349,6 @@
             <pubDate>Thu, 16 Jun 2022 09:16:44 GMT</pubDate>
             <content:encoded><![CDATA[보안 외신 해커뉴스에 의하면 짐브라(Zimbra)라는 이메일 솔루션에서 고위험군 취약점이 발견됐다고 한다. 공격자가 이 취약점을 성공적으로 익스플로잇 할 경우 피...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/21756787_copy_295x190_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[기자수첩] 유희열의 표절과 안테나의 대응, 그리고 기업의 취약점 대처법 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107586&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107586&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Sat, 18 Jun 2022 04:24:00 GMT</pubDate>
-            <content:encoded><![CDATA[유명 음악가인 유희열의 표절 논란이 불거지고 있다. 대중 가요 씬에 미치는 영향력이 적다고 할 수 없는 인물이라 많은 팬들이 충격을 받고 있는 모양이다. 기자도 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/3729561_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한글문서 ‘OLE 개체 연결 삽입’ 기능 악용한 APT 문서 유포 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
@@ -391,12 +391,12 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/21756789_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[남미 은행들 주로 노리는 고급 리눅스 멀웨어, 심바이오트 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107456&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107456&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Sat, 18 Jun 2022 06:19:12 GMT</pubDate>
-            <content:encoded><![CDATA[남미 지역의 금융 기관들을 노리는 리눅스 멀웨어, 심바이오트(Symbiote)가 발견됐다. 모든 파일과 프로세스, 각종 네트워크 아티팩트를 숨기기 때문에 포렌식으...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/21094099_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[고급 스파이웨어 허밋, 만듦새와 기능에서 뛰어난 전문가 손길 느껴져 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107593&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107593&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Sat, 18 Jun 2022 07:14:42 GMT</pubDate>
+            <content:encoded><![CDATA[악명 높은 안드로이드 멀웨어가 다시 발견됐다. 이름은 허밋(Hermit)이라고 하며, 모듈 구성을 하고 있고, 카자흐스탄 국민들을 감시하는 데 사용되고 있다고 한...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20487822_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[인사] 한국인터넷진흥원 (보안뉴스 ─ SECURITY)]]></title>
