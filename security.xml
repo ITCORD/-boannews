@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-06-18T05:17:51.525Z</updated>
+    <updated>2022-06-18T06:22:38.757Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[인사] 한국인터넷진흥원]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107592&amp;page=1&amp;mkind=1&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107592&amp;page=1&amp;mkind=1&amp;kind=2"/>
+        <updated>2022-06-18T06:19:29.448Z</updated>
+        <content type="html"><![CDATA[◇단장급 보임 △침해대응단장 임진수 △침해사고분석단장 심재홍 △사이버방역단장 서정훈  ◇ 팀장급 보임 △개인정보탐지조사팀장 안인회 △융합보안기술팀장 이재형 (2022년 7월 1일자)]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[인터넷 익스플로러 공식 지원 종료, 하지만 정말 무덤에 묻힌 것일까?]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=107588&amp;page=1&amp;mkind=1&amp;kind=1</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=107560&amp;page=1&amp;mkind=1&amp;kind=3"/>
         <updated>2022-06-17T01:18:49.888Z</updated>
         <content type="html"><![CDATA[6월 16일 발간된 ‘Weekly Security Premium Report’ 제55호에는 &lt;보안 심층 리포트&gt; 코너에서 클라우드 사용 비용의 분석과 이해를 위한 조언 4가지와 클라우드로의 이전을 위한 조직과 CIO의 역할 3가지를 살펴봤다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[교묘한 ‘눈속임 설계’로부터 소중한 개인정보 지키세요!]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107558&amp;page=1&amp;mkind=1&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107558&amp;page=1&amp;mkind=1&amp;kind=2"/>
-        <updated>2022-06-17T01:18:49.889Z</updated>
-        <content type="html"><![CDATA[우리 생활 주변에서 각종 서비스를 이용하는 도중에 자신도 모르는 사이에 자기 개인정보를 침해받거나, 재화나 서비스 이용에 불이익을 받는 경우가 종종 있다. 특히 코로나19 확산 이후 온라인을 통한 비대면 활동이 일상화됨에 따라 이러한 현상이 더욱 확산되고 있다.]]></content>
     </entry>
 </feed>
