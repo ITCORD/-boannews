@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Jun 2022 16:25:59 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Jun 2022 17:17:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,14 +24,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20220616_report_malware-add-s.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
-            <title><![CDATA[애플의 M1 칩셋에서 시스템 권한 가져가게 하는 설계 오류 발견돼]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107455&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107455&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Tue, 14 Jun 2022 05:29:37 GMT</pubDate>
-            <content:encoded><![CDATA[애플의 M1 프로세스 칩에서 설계 오류에 해당하는 취약점이 발견됐다. 그리고 이 취약점을 악용한 개념증명용 공격이 성공하기도 했다. 공격을 통해 연구원들은 OS의...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20918512_copy_295x190_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[기자수첩] 유희열의 표절과 안테나의 대응, 그리고 기업의 취약점 대처법]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107586&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107586&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
@@ -40,12 +32,12 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/3729561_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[주고 받은 ‘회신 이메일’도 다시 보자! 범블비 악성코드 기승]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107450&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107450&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Tue, 14 Jun 2022 01:45:58 GMT</pubDate>
-            <content:encoded><![CDATA[최근 주고 받은 메일의 ‘회신된 이메일’로 악성코드를 담아 보내는 공격이 발견돼 사용자들의 주의가 요구된다. 정상적으로 주고 받던 메일의 ‘회신’된 메일이기에 피...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/esrc_061301_main.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[애플의 M1 칩셋에서 시스템 권한 가져가게 하는 설계 오류 발견돼]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107455&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107455&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Tue, 14 Jun 2022 05:29:37 GMT</pubDate>
+            <content:encoded><![CDATA[애플의 M1 프로세스 칩에서 설계 오류에 해당하는 취약점이 발견됐다. 그리고 이 취약점을 악용한 개념증명용 공격이 성공하기도 했다. 공격을 통해 연구원들은 OS의...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20918512_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[고급 스파이웨어 허밋, 만듦새와 기능에서 뛰어난 전문가 손길 느껴져]]></title>
@@ -54,6 +46,14 @@
             <pubDate>Sat, 18 Jun 2022 07:14:42 GMT</pubDate>
             <content:encoded><![CDATA[악명 높은 안드로이드 멀웨어가 다시 발견됐다. 이름은 허밋(Hermit)이라고 하며, 모듈 구성을 하고 있고, 카자흐스탄 국민들을 감시하는 데 사용되고 있다고 한...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20487822_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[주고 받은 ‘회신 이메일’도 다시 보자! 범블비 악성코드 기승]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107450&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107450&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Tue, 14 Jun 2022 01:45:58 GMT</pubDate>
+            <content:encoded><![CDATA[최근 주고 받은 메일의 ‘회신된 이메일’로 악성코드를 담아 보내는 공격이 발견돼 사용자들의 주의가 요구된다. 정상적으로 주고 받던 메일의 ‘회신’된 메일이기에 피...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/esrc_061301_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[bnTV] RAT 악성코드 파격세일!! 다크웹 마켓에서 13,000원에 살 수 있다고?]]></title>
