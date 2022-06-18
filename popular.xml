@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 18 Jun 2022 07:17:57 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 Jun 2022 08:23:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,14 +48,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/19935897_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[아듀! 인터넷 익스플로러, 공식지원 종료... 보안위협 커져 대안 필요]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107556&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107556&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Fri, 17 Jun 2022 03:24:06 GMT</pubDate>
-            <content:encoded><![CDATA[인터넷 익스플로러가 11 버전을 마지막으로 사라진다. 마이크로소프트는 6월 15일자로 인터넷 익스플로러 11에 대한 공식지원을 종료했다. 프로그램 자체는 계속 사...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/IE_0616%20(2)_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[인터넷 익스플로러 공식 지원 종료, 하지만 정말 무덤에 묻힌 것일까?]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107588&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107588&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
@@ -64,20 +56,36 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/21551114_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[인기 높은 프록시 서버 오픈소스인 엔보이 프록시에서 디도스 취약점 발견돼]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107493&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107493&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Wed, 15 Jun 2022 16:22:29 GMT</pubDate>
-            <content:encoded><![CDATA[엔보이 프록시(Envoy Proxy)에서 디도스 공격을 가능하게 하는 취약점이 발견됐다. 이 취약점을 익스플로잇 할 경우 공격자들은 프록시 서버를 완전히 마비시킬...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/slow-thumb-0614.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[6월 둘째 주, 사라졌다가 컴백한 뱅킹 악성코드 ‘이모텟’ 전성시대]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107587&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107587&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Sat, 18 Jun 2022 03:21:07 GMT</pubDate>
             <content:encoded><![CDATA[한 동안 자취를 감췄던 뱅킹 악성코드 ‘이모텟(Emotet)’이 화려하게 부활해서 돌아왔다. 6월 둘째 주에는 계속 상위권을 점령해 왔던 정보탈취 목적의 인포스틸...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20220616_report_malware-add-s.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[아듀! 인터넷 익스플로러, 공식지원 종료... 보안위협 커져 대안 필요]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107556&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107556&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Fri, 17 Jun 2022 03:24:06 GMT</pubDate>
+            <content:encoded><![CDATA[인터넷 익스플로러가 11 버전을 마지막으로 사라진다. 마이크로소프트는 6월 15일자로 인터넷 익스플로러 11에 대한 공식지원을 종료했다. 프로그램 자체는 계속 사...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/IE_0616%20(2)_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[기자수첩] 유희열의 표절과 안테나의 대응, 그리고 기업의 취약점 대처법]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107586&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107586&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Sat, 18 Jun 2022 04:24:00 GMT</pubDate>
+            <content:encoded><![CDATA[유명 음악가인 유희열의 표절 논란이 불거지고 있다. 대중 가요 씬에 미치는 영향력이 적다고 할 수 없는 인물이라 많은 팬들이 충격을 받고 있는 모양이다. 기자도 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/3729561_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[인기 높은 프록시 서버 오픈소스인 엔보이 프록시에서 디도스 취약점 발견돼]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107493&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107493&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Wed, 15 Jun 2022 16:22:29 GMT</pubDate>
+            <content:encoded><![CDATA[엔보이 프록시(Envoy Proxy)에서 디도스 공격을 가능하게 하는 취약점이 발견됐다. 이 취약점을 익스플로잇 할 경우 공격자들은 프록시 서버를 완전히 마비시킬...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/slow-thumb-0614.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[범죄도시2의 사이버 판? 검사 사칭 보이스피싱 일당, 베트남서 검거]]></title>
@@ -94,14 +102,6 @@
             <pubDate>Wed, 15 Jun 2022 03:39:17 GMT</pubDate>
             <content:encoded><![CDATA[보안 블로그 시큐리티어페어즈에 의하면 러시아의 APT 단체가 최근 공개된 MS 제품의 취약점인 폴리나(Follina)를 악용해 우크라이나 단체들을 공격하기 시작했...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/22054717_copy_295x190_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[기자수첩] 유희열의 표절과 안테나의 대응, 그리고 기업의 취약점 대처법]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107586&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107586&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Sat, 18 Jun 2022 04:24:00 GMT</pubDate>
-            <content:encoded><![CDATA[유명 음악가인 유희열의 표절 논란이 불거지고 있다. 대중 가요 씬에 미치는 영향력이 적다고 할 수 없는 인물이라 많은 팬들이 충격을 받고 있는 모양이다. 기자도 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/3729561_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[페이스북 메신저 사기, 1천만 사용자 속여]]></title>
@@ -152,20 +152,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20975801_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[MS 정기 패치일, 수주 동안 사용자 위협하던 폴리나 드디어 해결돼]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107527&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107527&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Sat, 18 Jun 2022 06:19:12 GMT</pubDate>
-            <content:encoded><![CDATA[마이크로소프트가 2022년 6월의 정기 패치를 진행했다. 이번 달 정기 패치가 주목받는 건 최근 MSDT에서 발견된 제로데이 취약점인 폴리나(Follina)가 해...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/21756789_copy_295x190_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[고급 스파이웨어 허밋, 만듦새와 기능에서 뛰어난 전문가 손길 느껴져]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107593&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107593&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Sat, 18 Jun 2022 07:14:42 GMT</pubDate>
             <content:encoded><![CDATA[악명 높은 안드로이드 멀웨어가 다시 발견됐다. 이름은 허밋(Hermit)이라고 하며, 모듈 구성을 하고 있고, 카자흐스탄 국민들을 감시하는 데 사용되고 있다고 한...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20487822_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[MS 정기 패치일, 수주 동안 사용자 위협하던 폴리나 드디어 해결돼]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107527&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107527&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Sat, 18 Jun 2022 06:19:12 GMT</pubDate>
+            <content:encoded><![CDATA[마이크로소프트가 2022년 6월의 정기 패치를 진행했다. 이번 달 정기 패치가 주목받는 건 최근 MSDT에서 발견된 제로데이 취약점인 폴리나(Follina)가 해...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/21756789_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
