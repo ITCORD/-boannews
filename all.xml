@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Jun 2022 05:19:57 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Jun 2022 06:22:32 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -359,6 +359,14 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/22054717_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[주말판] 개발자들의 양질의 코딩 제작 위한 특성 3가지 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107607&amp;page=1&amp;kind=5&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107607&amp;page=1&amp;kind=5&amp;search=title&amp;find=</guid>
+            <pubDate>Sun, 19 Jun 2022 03:39:16 GMT</pubDate>
+            <content:encoded><![CDATA[양질의 결과물을 내고 싶은 건 분야를 막론하고 모든 사람의 열망이다. 코딩을 업으로 삼고 있는 사람들도 마찬가지다. 다만 ‘품질’이라는 것의 정의를 모두가 다르게...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20268858_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[한글문서 ‘OLE 개체 연결 삽입’ 기능 악용한 APT 문서 유포 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107435&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107435&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
@@ -373,14 +381,6 @@
             <pubDate>Fri, 17 Jun 2022 09:17:43 GMT</pubDate>
             <content:encoded><![CDATA[많은 시스템에 탑재된 프로세서들을 겨냥한 부채널 공격 기법 하나가 새롭게 발굴됐다. 이 공격 기법에는 헤르츠블리드(Hertzbleed)라는 이름이 붙었다. 공격에...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20459303_copy_295x190_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주말판] 개발자들의 양질의 코딩 제작 위한 특성 3가지 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107607&amp;page=1&amp;kind=5&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107607&amp;page=1&amp;kind=5&amp;search=title&amp;find=</guid>
-            <pubDate>Sun, 19 Jun 2022 03:39:16 GMT</pubDate>
-            <content:encoded><![CDATA[양질의 결과물을 내고 싶은 건 분야를 막론하고 모든 사람의 열망이다. 코딩을 업으로 삼고 있는 사람들도 마찬가지다. 다만 ‘품질’이라는 것의 정의를 모두가 다르게...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20268858_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[지금 이 순간 다크웹에서 거래되는 비밀번호의 수량은 246억 개 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
