@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Jun 2022 07:18:04 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 19 Jun 2022 08:21:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -319,6 +319,14 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/19935897_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[주말판] 개발자들의 양질의 코딩 제작 위한 특성 3가지 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107607&amp;page=1&amp;kind=5&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107607&amp;page=1&amp;kind=5&amp;search=title&amp;find=</guid>
+            <pubDate>Sun, 19 Jun 2022 03:39:16 GMT</pubDate>
+            <content:encoded><![CDATA[양질의 결과물을 내고 싶은 건 분야를 막론하고 모든 사람의 열망이다. 코딩을 업으로 삼고 있는 사람들도 마찬가지다. 다만 ‘품질’이라는 것의 정의를 모두가 다르게...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20268858_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[인기 높은 프록시 서버 오픈소스인 엔보이 프록시에서 디도스 취약점 발견돼 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107493&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107493&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
@@ -349,14 +357,6 @@
             <pubDate>Thu, 16 Jun 2022 09:16:44 GMT</pubDate>
             <content:encoded><![CDATA[보안 외신 해커뉴스에 의하면 짐브라(Zimbra)라는 이메일 솔루션에서 고위험군 취약점이 발견됐다고 한다. 공격자가 이 취약점을 성공적으로 익스플로잇 할 경우 피...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/21756787_copy_295x190_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주말판] 개발자들의 양질의 코딩 제작 위한 특성 3가지 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107607&amp;page=1&amp;kind=5&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107607&amp;page=1&amp;kind=5&amp;search=title&amp;find=</guid>
-            <pubDate>Sun, 19 Jun 2022 03:39:16 GMT</pubDate>
-            <content:encoded><![CDATA[양질의 결과물을 내고 싶은 건 분야를 막론하고 모든 사람의 열망이다. 코딩을 업으로 삼고 있는 사람들도 마찬가지다. 다만 ‘품질’이라는 것의 정의를 모두가 다르게...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20268858_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[러시아의 APT 단체, 폴리나 취약점 통해 우크라이나 조직들 공격 중 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
