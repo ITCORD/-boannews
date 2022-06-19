@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=2</id>
     <title>보안뉴스 ─ IT</title>
-    <updated>2022-06-19T13:26:46.387Z</updated>
+    <updated>2022-06-19T14:17:39.384Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[DGIST-ADD, 공동 사업화 유망 기술이전 설명회 개최]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107602&amp;page=1&amp;mkind=2&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107602&amp;page=1&amp;mkind=2&amp;kind=2"/>
+        <updated>2022-06-19T14:14:58.368Z</updated>
+        <content type="html"><![CDATA[DGIST 기술사업화팀은 DGIST, ADD(국방과학연구소)가 보유한 사업화 유망 기술을 기업들에게 소개하고 교류하는 공동 기술이전 설명회를 오는 23일 오후 1시부터 대구 스케일업 허브(DASH) 5층 DGIST 동대구 산학협력캠퍼스에서 개최한다고 밝혔다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KAIST, 수요 중심 디지털 혁신 리더 양성 ‘데이터사이언스 대학원’ 설립]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107601&amp;page=1&amp;mkind=2&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107601&amp;page=1&amp;mkind=2&amp;kind=2"/>
+        <updated>2022-06-19T14:14:58.370Z</updated>
+        <content type="html"><![CDATA[KAIST가 지난 수년간 획기적으로 발전한 기계학습, 인공지능, 빅데이터 등의 기술을 일상에서 체감할 수 있는 교육과 연구를 수행하기 위해 ‘데이터사이언스 대학원(Graduate School of Data Science, GSDS)’을 설립했다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[KT, 미용업계 서비스 혁신 리딩을 위한 이미용 DX 사업 협약 체결]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=107600&amp;page=1&amp;mkind=2&amp;kind=3</id>
@@ -109,19 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=107563&amp;page=1&amp;mkind=2&amp;kind=2"/>
         <updated>2022-06-17T01:19:07.685Z</updated>
         <content type="html"><![CDATA[중소벤처기업부 이영 장관은 지난 16일 ‘퀄리타스반도체’에 방문해 시스템반도체 설계전문기업(팹리스)과 토론회를 가졌다. 이날 현장 방문은 시스템반도체 설계전문기업(팹리스)의 현장 애로 해결 방안과 국내 반도체 산업 발전 방향을 논의하기 위한 것이다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지속 가능성과 ESG가 화두, IT 기술이 뒷받침할 수 있는 것은?]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107544&amp;page=1&amp;mkind=2&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107544&amp;page=1&amp;mkind=2&amp;kind=3"/>
-        <updated>2022-06-17T01:19:07.688Z</updated>
-        <content type="html"><![CDATA[슬슬 압박감이 몰려오는 때다. 사업 행위를 하는 어느 누구에게나 환경 보호와 지속 가능성 추구라는 숙제가 무거워지고 있다. IT 업계는 어떨까? 아직까지는 IT 사업자 혹은 담당자들의 경우 데이터센터나 각종 장비, 서버들의 전력 사용 효율을 극대화 하는 데에 집중하고만...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국산 인공지능 서버, TPC AI 분야 세계 최초 국제공인인증 획득]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107542&amp;page=1&amp;mkind=2&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107542&amp;page=1&amp;mkind=2&amp;kind=2"/>
-        <updated>2022-06-17T01:19:07.694Z</updated>
-        <content type="html"><![CDATA[한국정보통신기술협회(TTA)는 국산 서버 제품이 세계 최초로 TPC AI 분야 국제공인인증을 획득했다고 밝혔다. 국제적으로 기술 경쟁이 치열한 AI 분야에서 국산 제품이 세계 최초로 국제공인인증을 획득한 것은 국내 기업과 시험기관의 기술력이 세계를 선도할 수 있는 최고...]]></content>
     </entry>
 </feed>
