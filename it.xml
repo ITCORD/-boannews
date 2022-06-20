@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=2</id>
     <title>보안뉴스 ─ IT</title>
-    <updated>2022-06-20T06:25:30.783Z</updated>
+    <updated>2022-06-20T07:20:17.402Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[IT 인재를 채용할 때 봐야할 중요한 특성 중 하나, 호기심]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107608&amp;page=1&amp;mkind=2&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107608&amp;page=1&amp;mkind=2&amp;kind=3"/>
+        <updated>2022-06-20T07:17:16.047Z</updated>
+        <content type="html"><![CDATA[채용을 앞둔 IT 담당자들에게는 후보자를 고르는 기준이 몇 가지 있는 듯하다. 정식 교육 과정을 어디까지 이수했는지, 어떤 자격증을 가지고 있는지, 어떤 근무 경험이 있는지 등이 보편적인 기준이다. 물론 중요하게 살펴야 할 것들임에는 분명하지만 절대적이거나 유일한 기준...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[주말판] 개발자들의 양질의 코딩 제작 위한 특성 3가지]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=107607&amp;page=1&amp;mkind=2&amp;kind=5</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=107565&amp;page=1&amp;mkind=2&amp;kind=2"/>
         <updated>2022-06-17T01:19:07.684Z</updated>
         <content type="html"><![CDATA[과학기술정보통신부는 대학·중소기업 등이 초거대 인공지능 모델을 활용해 혁신적인 인공지능 서비스를 개발할 수 있도록 초거대 인공지능 모델 활용 시범 사업을 시작했다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[방통위, 개정된 ‘위치정보법’ 해설서 발간]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107564&amp;page=1&amp;mkind=2&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107564&amp;page=1&amp;mkind=2&amp;kind=2"/>
-        <updated>2022-06-17T01:19:07.684Z</updated>
-        <content type="html"><![CDATA[방송통신위원회와 한국인터넷진흥원은 지난 2022년 4월 20일부터 시행된 ‘위치정보의 보호 및 이용 등에 관한 법률’에 대한 항목별 설명이 수록된 해설서를 개정 발간했다.]]></content>
     </entry>
 </feed>
