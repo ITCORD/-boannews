@@ -4,9 +4,17 @@
         <title>보안뉴스 ─ Security World</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 19 Jun 2022 23:19:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jun 2022 01:30:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[마크애니, 제주도에 인공지능 기반 실종자 수색·추적...]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107611&amp;mkind=5</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107611&amp;mkind=5</guid>
+            <pubDate>Mon, 20 Jun 2022 01:28:28 GMT</pubDate>
+            <content:encoded><![CDATA[마크애니 (대표 최고)는 과학기술정보통신부와 정보통신산업진흥원(NIPA)이 주관하는 ‘AI 융합 국민안전 확보 및 신속대응 지원 공모 사업’을 수주했다고 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/22062001ss.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[동두천시, 재난감시용 CCTV 추가 설치로 ‘재난 ...]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107606&amp;mkind=5</link>
@@ -14,14 +22,6 @@
             <pubDate>Sat, 18 Jun 2022 06:20:18 GMT</pubDate>
             <content:encoded><![CDATA[동두천시는 자연재난(태풍, 집중호우, 대설 등) 및 사회재난(산불, 화재 등) 신속 대응을 위해 재난감시용 CCTV 4개소를 구축 완료했다고 밝혔다.]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/6-178(295).jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[디지탈센스, 포스코에 노트북 반출입관리 시스템 구축]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107591&amp;mkind=5</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107591&amp;mkind=5</guid>
-            <pubDate>Fri, 17 Jun 2022 09:18:36 GMT</pubDate>
-            <content:encoded><![CDATA[디지탈센스(대표 최주호)는 포스코에 반·출입되는 노트북과 외장 저장매체 (CD-ROM, USB, 외장HDD, 프린터) 등의 보안관리를 위한 바이러스 방역 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/22061702ss.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

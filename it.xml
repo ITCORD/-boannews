@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=2</id>
     <title>보안뉴스 ─ IT</title>
-    <updated>2022-06-19T23:19:16.761Z</updated>
+    <updated>2022-06-20T01:30:34.551Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[주말판] 개발자들의 양질의 코딩 제작 위한 특성 3가지]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107607&amp;page=1&amp;mkind=2&amp;kind=5</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107607&amp;page=1&amp;mkind=2&amp;kind=5"/>
+        <updated>2022-06-20T01:28:05.827Z</updated>
+        <content type="html"><![CDATA[양질의 결과물을 내고 싶은 건 분야를 막론하고 모든 사람의 열망이다. 코딩을 업으로 삼고 있는 사람들도 마찬가지다. 다만 ‘품질’이라는 것의 정의를 모두가 다르게 내린다는 게 문제다. 알고 지내는 코더 아무나 잡고 “품질이 뛰어난 코드란 무엇입니까?” 질문을 받는 사람...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DGIST-ADD, 공동 사업화 유망 기술이전 설명회 개최]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=107602&amp;page=1&amp;mkind=2&amp;kind=2</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=107564&amp;page=1&amp;mkind=2&amp;kind=2"/>
         <updated>2022-06-17T01:19:07.684Z</updated>
         <content type="html"><![CDATA[방송통신위원회와 한국인터넷진흥원은 지난 2022년 4월 20일부터 시행된 ‘위치정보의 보호 및 이용 등에 관한 법률’에 대한 항목별 설명이 수록된 해설서를 개정 발간했다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[이영 장관, 중소 시스템반도체 설계전문기업 핵심 애로 해결 나선다]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107563&amp;page=1&amp;mkind=2&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107563&amp;page=1&amp;mkind=2&amp;kind=2"/>
-        <updated>2022-06-17T01:19:07.685Z</updated>
-        <content type="html"><![CDATA[중소벤처기업부 이영 장관은 지난 16일 ‘퀄리타스반도체’에 방문해 시스템반도체 설계전문기업(팹리스)과 토론회를 가졌다. 이날 현장 방문은 시스템반도체 설계전문기업(팹리스)의 현장 애로 해결 방안과 국내 반도체 산업 발전 방향을 논의하기 위한 것이다.]]></content>
     </entry>
 </feed>

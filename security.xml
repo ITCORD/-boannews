@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-06-19T23:19:16.764Z</updated>
+    <updated>2022-06-20T01:30:34.568Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[고급 스파이웨어 허밋, 만듦새와 기능에서 뛰어난 전문가 손길 느껴져]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107593&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107593&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-06-20T01:27:54.106Z</updated>
+        <content type="html"><![CDATA[악명 높은 안드로이드 멀웨어가 다시 발견됐다. 이름은 허밋(Hermit)이라고 하며, 모듈 구성을 하고 있고, 카자흐스탄 국민들을 감시하는 데 사용되고 있다고 한다. 이 멀웨어를 운영하고 있는 건 놀랍게도 카자흐스탄 정부인 것으로 보인다. 보안 업체 룩아웃(Lookou...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[시큐레터, ‘파트너서밋 2022’ 성료… 파트너사와 함께 신규 시장 발굴]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107590&amp;page=1&amp;mkind=1&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107590&amp;page=1&amp;mkind=1&amp;kind=3"/>
+        <updated>2022-06-20T01:27:54.106Z</updated>
+        <content type="html"><![CDATA[악성코드 탐지 및 차단 전문기업 시큐레터(대표 임차성)가 16일 인터컨넨탈 서울 코엑스에서 파트너사 70여 명이 참석한 가운데 ‘파트너서밋 2022’를 성공적으로 개최했다고 17일 밝혔다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[인사] 한국인터넷진흥원]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=107592&amp;page=1&amp;mkind=1&amp;kind=2</id>
@@ -109,19 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=107576&amp;page=1&amp;mkind=1&amp;kind=3"/>
         <updated>2022-06-17T01:18:49.881Z</updated>
         <content type="html"><![CDATA[한국화웨이가 16일 대전 ICC 호텔에서 ‘한국화웨이 엔터프라이즈 로드쇼(Huawei Korea Enterprise Roadshow)’ 포럼을 성황리에 개최했다고 밝혔다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인텔과 AMD의 칩셋을 뚫고 암호화 키 훔치게 해 주는 새 부채널 공격, 헤르츠블리드]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107561&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107561&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-06-17T01:18:49.887Z</updated>
-        <content type="html"><![CDATA[많은 시스템에 탑재된 프로세서들을 겨냥한 부채널 공격 기법 하나가 새롭게 발굴됐다. 이 공격 기법에는 헤르츠블리드(Hertzbleed)라는 이름이 붙었다. 공격에 성공하게 될 경우 공격자는 원격에서 서버 암호화 키를 훔쳐갈 수 있게 된다고 한다. 인텔에서 출시된 프로세...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Weekly Security Premium Report 제55호 발간! 클라우드 비용 분석과 조직의 역할]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107560&amp;page=1&amp;mkind=1&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107560&amp;page=1&amp;mkind=1&amp;kind=3"/>
-        <updated>2022-06-17T01:18:49.888Z</updated>
-        <content type="html"><![CDATA[6월 16일 발간된 ‘Weekly Security Premium Report’ 제55호에는 &lt;보안 심층 리포트&gt; 코너에서 클라우드 사용 비용의 분석과 이해를 위한 조언 4가지와 클라우드로의 이전을 위한 조직과 CIO의 역할 3가지를 살펴봤다.]]></content>
     </entry>
 </feed>
