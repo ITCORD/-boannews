@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Jun 2022 13:40:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jun 2022 14:21:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -347,20 +347,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/22054717_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[지금 이 순간 다크웹에서 거래되는 비밀번호의 수량은 246억 개 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107555&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107555&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Fri, 17 Jun 2022 08:23:46 GMT</pubDate>
-            <content:encoded><![CDATA[현재 보안 업계에서 가장 주목을 많이 받는 기술을 하나 꼽는다면 ‘비밀번호 대체재’라고 말할 수 있다. 비밀번호라는 오랜 보안 장치를 없애고, 그걸 대신할 만한 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20975801_copy_295x190_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Weekly Security Premium Report 제55호 발간! 클라우드 비용 분석과 조직의 역할 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107560&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107560&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
             <pubDate>Mon, 20 Jun 2022 03:16:04 GMT</pubDate>
             <content:encoded><![CDATA[6월 16일 발간된 ‘Weekly Security Premium Report’ 제55호에는 &lt;보안 심층 리포트&gt; 코너에서 클라우드 사용 비용의 분석과 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20220616report-sm.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[지금 이 순간 다크웹에서 거래되는 비밀번호의 수량은 246억 개 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107555&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107555&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Fri, 17 Jun 2022 08:23:46 GMT</pubDate>
+            <content:encoded><![CDATA[현재 보안 업계에서 가장 주목을 많이 받는 기술을 하나 꼽는다면 ‘비밀번호 대체재’라고 말할 수 있다. 비밀번호라는 오랜 보안 장치를 없애고, 그걸 대신할 만한 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20975801_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[MS 정기 패치일, 수주 동안 사용자 위협하던 폴리나 드디어 해결돼 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
