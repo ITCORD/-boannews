@@ -4,9 +4,23 @@
         <title>보안뉴스 ─ 국제</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Jun 2022 09:20:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jun 2022 10:23:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[컨플루언스 서버에서 발견된 제로데이 취약점, 패치 나왔지만 공격 여전히 활발]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107628&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107628&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
+            <pubDate>Mon, 20 Jun 2022 10:22:13 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/view.asp?idx=107628&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
+					
+					<img src="/media/upFiles2/2022/06/20375613_copy_295x190_1.jpg" alt="" class="news_img" height="70">
+					
+					<span class="news_txt">컨플루언스 서버에서 발견된 제로데이 취약점, 패치 나왔지만 공격 여전히 활발</span>
+					</a><br>
+					<a href="/media/view.asp?idx=107628&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">최근 아틀라시안(Atlassian)의 컨플루언스 서버(Confluence Server)에서 원격 코드 실행 취약점이 발견된 적이 있었다. 초고위험도로 분석됐던 그...</a> <span class="news_writer">문가용 기자 | 2022년 06월 20일 18:43</span>]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20375613_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[큐냅의 NAS 장비 노리는 랜섬웨어 캠페인, 동시에 두 개 발견돼]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107623&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
@@ -272,20 +286,6 @@
 					</a><br>
 					<a href="/media/view.asp?idx=107555&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">현재 보안 업계에서 가장 주목을 많이 받는 기술을 하나 꼽는다면 ‘비밀번호 대체재’라고 말할 수 있다. 비밀번호라는 오랜 보안 장치를 없애고, 그걸 대신할 만한 ...</a> <span class="news_writer">문가용 기자 | 2022년 06월 16일 14:12</span>]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20975801_copy_295x190_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[AMD와 인텔 칩셋 내 정보 훔칠 수 있게 해 주는 부채널 공격법, 헤르츠블리드]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107554&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107554&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
-            <pubDate>Thu, 16 Jun 2022 03:47:47 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/view.asp?idx=107554&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
-					
-					<img src="/media/upFiles2/2022/06/20387383_copy_295x190_1.jpg" alt="" class="news_img" height="70">
-					
-					<span class="news_txt">AMD와 인텔 칩셋 내 정보 훔칠 수 있게 해 주는 부채널 공격법, 헤르츠블리드</span>
-					</a><br>
-					<a href="/media/view.asp?idx=107554&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">보안 블로그 시큐리티어페어즈에 의하면 미국 여러 대학의 IT 연구원들이 연합하여 AMD와 인텔의 칩셋을 공략하는 새로운 기법을 발견했다고 한다. 일종의 부채널 공...</a> <span class="news_writer">문가용 기자 | 2022년 06월 16일 11:33</span>]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20387383_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Jun 2022 09:20:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jun 2022 10:23:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -80,20 +80,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/slow-thumb-0614.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[페이스북 메신저 사기, 1천만 사용자 속여]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107585&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107585&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Sat, 18 Jun 2022 01:26:53 GMT</pubDate>
-            <content:encoded><![CDATA[페이스북 메신저(Facebook Messanger)를 통해 지난 수개월 동안 가짜 피싱 메시지가 유포됐고, 여기에 1천만 사용자가 속았다고 보안 외신 쓰레트포스트...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20533879_copy_295x190_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[짐브라 이메일 취약점, 로그인 크리덴셜 훔칠 수 있게 해]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107522&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107522&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Thu, 16 Jun 2022 09:16:44 GMT</pubDate>
             <content:encoded><![CDATA[보안 외신 해커뉴스에 의하면 짐브라(Zimbra)라는 이메일 솔루션에서 고위험군 취약점이 발견됐다고 한다. 공격자가 이 취약점을 성공적으로 익스플로잇 할 경우 피...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/21756787_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[페이스북 메신저 사기, 1천만 사용자 속여]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107585&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107585&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Sat, 18 Jun 2022 01:26:53 GMT</pubDate>
+            <content:encoded><![CDATA[페이스북 메신저(Facebook Messanger)를 통해 지난 수개월 동안 가짜 피싱 메시지가 유포됐고, 여기에 1천만 사용자가 속았다고 보안 외신 쓰레트포스트...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20533879_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[인텔과 AMD의 칩셋을 뚫고 암호화 키 훔치게 해 주는 새 부채널 공격, 헤르츠블리드]]></title>

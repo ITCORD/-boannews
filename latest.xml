@@ -4,11 +4,19 @@
         <title>보안뉴스 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Jun 2022 09:20:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jun 2022 10:23:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[2021년 공공기관 경영실적 평가 살펴보니... 보안전문기관 KISA, B등급 ‘양호’ 평가]]></title>
+            <title><![CDATA[컨플루언스 서버에서 발견된 제로데이 취약점, 패치 나왔지만 공격 여전히 활발]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107628&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107628&amp;page=1&amp;kind=1</guid>
+            <pubDate>Mon, 20 Jun 2022 10:19:28 GMT</pubDate>
+            <content:encoded><![CDATA[최근 아틀라시안(Atlassian)의 컨플루언스 서버(Confluence Server)에서 원격 코드 실행 취약점이 발견된 적이 있었다. 초고위험도로 분석...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20375613_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2021년 공공기관 경영실적 평가 결과... 보안전문기관 KISA, 한 단계 ‘상승’]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107627&amp;page=1&amp;kind=2</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107627&amp;page=1&amp;kind=2</guid>
             <pubDate>Mon, 20 Jun 2022 09:16:40 GMT</pubDate>
@@ -80,14 +88,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/21900708_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[에코랙스 랜섬웨어 캠페인, 큐냅 NAS 장비 노리고 다시 시작돼]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107616&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107616&amp;page=1&amp;kind=1</guid>
-            <pubDate>Mon, 20 Jun 2022 03:15:51 GMT</pubDate>
-            <content:encoded><![CDATA[보안 블로그 시큐리티어페어즈에 의하면 에코랙스(eCh0raix)라는 랜섬웨어가 큐냅(QNAP) 사의 NAS 장비를 노리는 캠페인을 다시 시작한 것으로 보인...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20676842_copy_295x190_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[딥노이드, 하반기 신입 및 경력사원 대규모 채용]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107622&amp;page=1&amp;kind=3</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107622&amp;page=1&amp;kind=3</guid>
@@ -102,6 +102,14 @@
             <pubDate>Mon, 20 Jun 2022 06:22:37 GMT</pubDate>
             <content:encoded><![CDATA[디지털 시대에 개인정보는 제대로 보호하면 나를 증명하고 든든하게 지원하는 ‘벗’과도 같지만, 방치될 경우 경제·사회적 활동에 걸림돌이 되고 많은 피해를 가...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/msit_062001_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[에코랙스 랜섬웨어 캠페인, 큐냅 NAS 장비 노리고 다시 시작돼]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107616&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107616&amp;page=1&amp;kind=1</guid>
+            <pubDate>Mon, 20 Jun 2022 03:15:51 GMT</pubDate>
+            <content:encoded><![CDATA[보안 블로그 시큐리티어페어즈에 의하면 에코랙스(eCh0raix)라는 랜섬웨어가 큐냅(QNAP) 사의 NAS 장비를 노리는 캠페인을 다시 시작한 것으로 보인...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20676842_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[라온화이트햇, 중앙대학교와 블록체인 기반 혁신 서비스 구축 협력]]></title>
@@ -233,13 +241,6 @@
             <guid>https://www.boannews.com/media/view.asp?idx=107599&amp;page=1&amp;kind=2</guid>
             <pubDate>Sat, 18 Jun 2022 06:18:57 GMT</pubDate>
             <content:encoded><![CDATA[식품의약품안전처 오유경 처장은 디지털 헬스케어기기 제조업체인 라이프시맨틱스를 지난 17일 방문해 디지털 헬스케어기기 개발 현장을 점검하고, 이어진 디지털헬...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[‘국제전기통신연합 개발 부문 연구반’ 의장단 진출]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107598&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107598&amp;page=1&amp;kind=2</guid>
-            <pubDate>Sat, 18 Jun 2022 06:18:57 GMT</pubDate>
-            <content:encoded><![CDATA[과학기술정보통신부는 지난 6~16일 르완다 키갈리에서 개최된 국제전기통신연합(ITU) 세계전기통신개발총회(WTDC-22)에서 정보통신정책연구원(KISDI)...]]></content:encoded>
         </item>
     </channel>
 </rss>

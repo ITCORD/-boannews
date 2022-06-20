@@ -4,11 +4,19 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Jun 2022 09:20:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jun 2022 10:23:06 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
-            <title><![CDATA[2021년 공공기관 경영실적 평가 살펴보니... 보안전문기관 KISA, B등급 ‘양호’ 평가 (보안뉴스 ─ 전체기사)]]></title>
+            <title><![CDATA[컨플루언스 서버에서 발견된 제로데이 취약점, 패치 나왔지만 공격 여전히 활발 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107628&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107628&amp;page=1&amp;kind=1</guid>
+            <pubDate>Mon, 20 Jun 2022 10:19:28 GMT</pubDate>
+            <content:encoded><![CDATA[최근 아틀라시안(Atlassian)의 컨플루언스 서버(Confluence Server)에서 원격 코드 실행 취약점이 발견된 적이 있었다. 초고위험도로 분석...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20375613_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2021년 공공기관 경영실적 평가 결과... 보안전문기관 KISA, 한 단계 ‘상승’ (보안뉴스 ─ 전체기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107627&amp;page=1&amp;kind=2</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107627&amp;page=1&amp;kind=2</guid>
             <pubDate>Mon, 20 Jun 2022 09:16:40 GMT</pubDate>
@@ -80,14 +88,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/21900708_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[에코랙스 랜섬웨어 캠페인, 큐냅 NAS 장비 노리고 다시 시작돼 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107616&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107616&amp;page=1&amp;kind=1</guid>
-            <pubDate>Mon, 20 Jun 2022 03:15:51 GMT</pubDate>
-            <content:encoded><![CDATA[보안 블로그 시큐리티어페어즈에 의하면 에코랙스(eCh0raix)라는 랜섬웨어가 큐냅(QNAP) 사의 NAS 장비를 노리는 캠페인을 다시 시작한 것으로 보인...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20676842_copy_295x190_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[딥노이드, 하반기 신입 및 경력사원 대규모 채용 (보안뉴스 ─ 전체기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107622&amp;page=1&amp;kind=3</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107622&amp;page=1&amp;kind=3</guid>
@@ -102,6 +102,14 @@
             <pubDate>Mon, 20 Jun 2022 06:22:37 GMT</pubDate>
             <content:encoded><![CDATA[디지털 시대에 개인정보는 제대로 보호하면 나를 증명하고 든든하게 지원하는 ‘벗’과도 같지만, 방치될 경우 경제·사회적 활동에 걸림돌이 되고 많은 피해를 가...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/msit_062001_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[에코랙스 랜섬웨어 캠페인, 큐냅 NAS 장비 노리고 다시 시작돼 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107616&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107616&amp;page=1&amp;kind=1</guid>
+            <pubDate>Mon, 20 Jun 2022 03:15:51 GMT</pubDate>
+            <content:encoded><![CDATA[보안 블로그 시큐리티어페어즈에 의하면 에코랙스(eCh0raix)라는 랜섬웨어가 큐냅(QNAP) 사의 NAS 장비를 노리는 캠페인을 다시 시작한 것으로 보인...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20676842_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[라온화이트햇, 중앙대학교와 블록체인 기반 혁신 서비스 구축 협력 (보안뉴스 ─ 전체기사)]]></title>
@@ -235,13 +243,6 @@
             <content:encoded><![CDATA[식품의약품안전처 오유경 처장은 디지털 헬스케어기기 제조업체인 라이프시맨틱스를 지난 17일 방문해 디지털 헬스케어기기 개발 현장을 점검하고, 이어진 디지털헬...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[‘국제전기통신연합 개발 부문 연구반’ 의장단 진출 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107598&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107598&amp;page=1&amp;kind=2</guid>
-            <pubDate>Sat, 18 Jun 2022 06:18:57 GMT</pubDate>
-            <content:encoded><![CDATA[과학기술정보통신부는 지난 6~16일 르완다 키갈리에서 개최된 국제전기통신연합(ITU) 세계전기통신개발총회(WTDC-22)에서 정보통신정책연구원(KISDI)...]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[인터넷 익스플로러 공식 지원 종료, 하지만 정말 무덤에 묻힌 것일까? (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107588&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107588&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
@@ -314,20 +315,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/slow-thumb-0614.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[페이스북 메신저 사기, 1천만 사용자 속여 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107585&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107585&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Sat, 18 Jun 2022 01:26:53 GMT</pubDate>
-            <content:encoded><![CDATA[페이스북 메신저(Facebook Messanger)를 통해 지난 수개월 동안 가짜 피싱 메시지가 유포됐고, 여기에 1천만 사용자가 속았다고 보안 외신 쓰레트포스트...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20533879_copy_295x190_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[짐브라 이메일 취약점, 로그인 크리덴셜 훔칠 수 있게 해 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107522&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107522&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Thu, 16 Jun 2022 09:16:44 GMT</pubDate>
             <content:encoded><![CDATA[보안 외신 해커뉴스에 의하면 짐브라(Zimbra)라는 이메일 솔루션에서 고위험군 취약점이 발견됐다고 한다. 공격자가 이 취약점을 성공적으로 익스플로잇 할 경우 피...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/21756787_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[페이스북 메신저 사기, 1천만 사용자 속여 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107585&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107585&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Sat, 18 Jun 2022 01:26:53 GMT</pubDate>
+            <content:encoded><![CDATA[페이스북 메신저(Facebook Messanger)를 통해 지난 수개월 동안 가짜 피싱 메시지가 유포됐고, 여기에 1천만 사용자가 속았다고 보안 외신 쓰레트포스트...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20533879_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[인텔과 AMD의 칩셋을 뚫고 암호화 키 훔치게 해 주는 새 부채널 공격, 헤르츠블리드 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
@@ -400,6 +401,13 @@
             <pubDate>Mon, 20 Jun 2022 09:16:51 GMT</pubDate>
             <content:encoded><![CDATA[6·15 남북공동선언이 22주년을 맞는 가운데 실제 개최되는 통일정책포럼 행사를 악용한 북한 해커조직의 사이버 공격이 발견돼 통일·외교·안보 분야 종사자들의 각별...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20220615EAST1-S.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[개인정보, 지키면 ‘프라이-벗’ 놔두면 ‘프라이-빚’ (보안뉴스 ─ SECURITY)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107625&amp;page=1&amp;mkind=1&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107625&amp;page=1&amp;mkind=1&amp;kind=2</guid>
+            <pubDate>Mon, 20 Jun 2022 10:19:57 GMT</pubDate>
+            <content:encoded><![CDATA[디지털 시대에 개인정보는 제대로 보호하면 나를 증명하고 든든하게 지원하는 ‘벗’과도 같지만, 방치될 경우 경제·사회적 활동에 걸림돌이 되고 많은 피해를 가져오는 ‘빚’이 될 수도 있다. 특히 코로나19 확산 이후 경제, 사회 각 분야에서 비대면 활동이 보편화하면서 개인...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[큐냅의 NAS 장비 노리는 랜섬웨어 캠페인, 동시에 두 개 발견돼 (보안뉴스 ─ SECURITY)]]></title>
@@ -512,13 +520,6 @@
             <guid>https://www.boannews.com/media/view.asp?idx=107587&amp;page=1&amp;mkind=1&amp;kind=1</guid>
             <pubDate>Fri, 17 Jun 2022 09:17:59 GMT</pubDate>
             <content:encoded><![CDATA[한 동안 자취를 감췄던 뱅킹 악성코드 ‘이모텟(Emotet)’이 화려하게 부활해서 돌아왔다. 6월 둘째 주에는 계속 상위권을 점령해 왔던 정보탈취 목적의 인포스틸러 악성코드들을 밀어내고 주간 악성코드 통계에서 1위를 차지한 것이다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[[기자수첩] 유희열의 표절과 안테나의 대응, 그리고 기업의 취약점 대처법 (보안뉴스 ─ SECURITY)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107586&amp;page=1&amp;mkind=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107586&amp;page=1&amp;mkind=1&amp;kind=1</guid>
-            <pubDate>Fri, 17 Jun 2022 09:17:59 GMT</pubDate>
-            <content:encoded><![CDATA[유명 음악가인 유희열의 표절 논란이 불거지고 있다. 대중 가요 씬에 미치는 영향력이 적다고 할 수 없는 인물이라 많은 팬들이 충격을 받고 있는 모양이다. 기자도 어렸을 때부터 토이의 팬이었고, 한류라는 단어가 탄생하기 한참 전인 90년대에 잠깐 외국 캠퍼스에서 생활을 ...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[IT 인재를 채용할 때 봐야할 중요한 특성 중 하나, 호기심 (보안뉴스 ─ IT)]]></title>
@@ -773,6 +774,20 @@
             <pubDate>Mon, 20 Jun 2022 03:16:50 GMT</pubDate>
             <content:encoded><![CDATA[퀀텀코리아(이강욱 지사장)는 자사의 H4000 스토리지 플랫폼에 CatDV™ 미디어 자산 관리 및 스토어넥스트 7(StorNext™ 7) 공유 스토리지 소...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/H4000E-c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[지멘스의 산업 네트워크 관리 시스템에서 다량의 오류 발견돼 (보안뉴스 ─ 취약점 경고 및 버그리포트)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107617&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107617&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=</guid>
+            <pubDate>Mon, 20 Jun 2022 10:20:51 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/view.asp?idx=107617&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=">
+					
+					<img src="/media/upFiles2/2022/06/21900708_copy_295x190_1.jpg" alt="" class="news_img" height="70">
+					
+					<span class="news_txt">지멘스의 산업 네트워크 관리 시스템에서 다량의 오류 발견돼</span>
+					</a><br>
+					<a href="/media/view.asp?idx=107617&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=">보안 외신 해커뉴스에 의하면 지멘스(Siemens)의 SINEC이라는 네트워크 관리 시스템에서 15개의 보안 취약점이 발견됐다고 한다. 이 중 일부는 연쇄적으로 ...</a> <span class="news_writer">문가용 기자 | 2022년 06월 20일 11:34</span>]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/21900708_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[6월 둘째 주, 사라졌다가 컴백한 뱅킹 악성코드 ‘이모텟’ 전성시대 (보안뉴스 ─ 취약점 경고 및 버그리포트)]]></title>
@@ -1039,20 +1054,6 @@
 					</a><br>
 					<a href="/media/view.asp?idx=107345&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=">최근 법원을 사칭해 첨부된 파일을 실행하도록 유도하는 피싱메일이 재발견돼 사용자의 주의가 요구된다. 이스트시큐리티 시큐리티&nbsp;대응센터(ESRC)는 법원명령...</a> <span class="news_writer">원병철 기자 | 2022년 06월 08일 17:29</span>]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/esrc_060801_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[폴리나 취약점, 국가 지원 해커들에 의해 익스플로잇 되고 있어 (보안뉴스 ─ 취약점 경고 및 버그리포트)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107333&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107333&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=</guid>
-            <pubDate>Wed, 08 Jun 2022 09:17:37 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/view.asp?idx=107333&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=">
-					
-					<img src="/media/upFiles2/2022/06/20220723_copy_295x190_1.jpg" alt="" class="news_img" height="70">
-					
-					<span class="news_txt">폴리나 취약점, 국가 지원 해커들에 의해 익스플로잇 되고 있어</span>
-					</a><br>
-					<a href="/media/view.asp?idx=107333&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=">보안 외신 쓰레트포스트에 의하면 얼마 전 MS 생태계에서 발견된 취약점인 폴리나(Follina)가 실제 해킹 공격에 활용되고 있다고 한다. 보안 업체 프루프포인트...</a> <span class="news_writer">문가용 기자 | 2022년 06월 08일 11:47</span>]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20220723_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[최정식 발행인 칼럼] <시큐리티월드> 통권 300호를 맞아 드리는 감사의 말씀 (보안뉴스 ─ 오피니언)]]></title>
@@ -1615,7 +1616,7 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2021/12/20211231daegu-s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[2021년 공공기관 경영실적 평가 살펴보니... 보안전문기관 KISA, B등급 ‘양호’ 평가 (보안뉴스 ─ 정책)]]></title>
+            <title><![CDATA[2021년 공공기관 경영실적 평가 결과... 보안전문기관 KISA, 한 단계 ‘상승’ (보안뉴스 ─ 정책)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107627&amp;page=1&amp;mkind=&amp;kind=2&amp;skind=6&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107627&amp;page=1&amp;mkind=&amp;kind=2&amp;skind=6&amp;search=title&amp;find=</guid>
             <pubDate>Mon, 20 Jun 2022 09:18:42 GMT</pubDate>
@@ -1623,7 +1624,7 @@
 					
 					<img src="/media/upFiles2/2022/06/20727826_MAIN.jpg" alt="" class="news_img" height="70">
 					
-					<span class="news_txt">2021년 공공기관 경영실적 평가 살펴보니... 보안전문기관 KISA, B등급 ‘양호’ 평가 </span>
+					<span class="news_txt">2021년 공공기관 경영실적 평가 결과... 보안전문기관 KISA, 한 단계 ‘상승’  </span>
 					</a><br>
 					<a href="/media/view.asp?idx=107627&amp;page=1&amp;mkind=&amp;kind=2&amp;skind=6&amp;search=title&amp;find=">국내 유일의 정보보호 전문기관인 한국인터넷진흥원(KISA)이 2021년 공공기관 경영실적 평가에서 양호를 의미하는 B등급을 달성했다. KISA는 2017년부터 2...</a> <span class="news_writer">원병철 기자 | 2022년 06월 20일 18:13</span>]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20727826_MAIN.jpg" length="0" type="image/jpg"/>
@@ -1895,6 +1896,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/05/22052731ss.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[컨플루언스 서버에서 발견된 제로데이 취약점, 패치 나왔지만 공격 여전히 활발 (보안뉴스 ─ 국제)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107628&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107628&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
+            <pubDate>Mon, 20 Jun 2022 10:22:13 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/view.asp?idx=107628&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
+					
+					<img src="/media/upFiles2/2022/06/20375613_copy_295x190_1.jpg" alt="" class="news_img" height="70">
+					
+					<span class="news_txt">컨플루언스 서버에서 발견된 제로데이 취약점, 패치 나왔지만 공격 여전히 활발</span>
+					</a><br>
+					<a href="/media/view.asp?idx=107628&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">최근 아틀라시안(Atlassian)의 컨플루언스 서버(Confluence Server)에서 원격 코드 실행 취약점이 발견된 적이 있었다. 초고위험도로 분석됐던 그...</a> <span class="news_writer">문가용 기자 | 2022년 06월 20일 18:43</span>]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20375613_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[큐냅의 NAS 장비 노리는 랜섬웨어 캠페인, 동시에 두 개 발견돼 (보안뉴스 ─ 국제)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107623&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107623&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
@@ -2159,20 +2174,6 @@
 					</a><br>
 					<a href="/media/view.asp?idx=107555&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">현재 보안 업계에서 가장 주목을 많이 받는 기술을 하나 꼽는다면 ‘비밀번호 대체재’라고 말할 수 있다. 비밀번호라는 오랜 보안 장치를 없애고, 그걸 대신할 만한 ...</a> <span class="news_writer">문가용 기자 | 2022년 06월 16일 14:12</span>]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20975801_copy_295x190_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[AMD와 인텔 칩셋 내 정보 훔칠 수 있게 해 주는 부채널 공격법, 헤르츠블리드 (보안뉴스 ─ 국제)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107554&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107554&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
-            <pubDate>Thu, 16 Jun 2022 03:47:47 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/view.asp?idx=107554&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
-					
-					<img src="/media/upFiles2/2022/06/20387383_copy_295x190_1.jpg" alt="" class="news_img" height="70">
-					
-					<span class="news_txt">AMD와 인텔 칩셋 내 정보 훔칠 수 있게 해 주는 부채널 공격법, 헤르츠블리드</span>
-					</a><br>
-					<a href="/media/view.asp?idx=107554&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">보안 블로그 시큐리티어페어즈에 의하면 미국 여러 대학의 IT 연구원들이 연합하여 AMD와 인텔의 칩셋을 공략하는 새로운 기법을 발견했다고 한다. 일종의 부채널 공...</a> <span class="news_writer">문가용 기자 | 2022년 06월 16일 11:33</span>]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20387383_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[보안 레시피-1] ‘보안의 기본’ 안티 멀웨어 활용법 바로 알기 (보안뉴스 ─ 기획특집)]]></title>
