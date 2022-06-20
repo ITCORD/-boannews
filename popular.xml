@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Jun 2022 10:23:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Jun 2022 11:17:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -144,6 +144,14 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/21171531_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[6·15 남북공동선언 22주년 이슈 악용한 북한 해킹 공격 포착됐다]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107518&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107518&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Mon, 20 Jun 2022 09:16:51 GMT</pubDate>
+            <content:encoded><![CDATA[6·15 남북공동선언이 22주년을 맞는 가운데 실제 개최되는 통일정책포럼 행사를 악용한 북한 해커조직의 사이버 공격이 발견돼 통일·외교·안보 분야 종사자들의 각별...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20220615EAST1-S.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
             <title><![CDATA[남미 은행들 주로 노리는 고급 리눅스 멀웨어, 심바이오트]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107456&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107456&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
@@ -158,14 +166,6 @@
             <pubDate>Mon, 20 Jun 2022 08:23:57 GMT</pubDate>
             <content:encoded><![CDATA[소프트웨어 재료표(Software Bills of Materials, SBOMs)라는 개념을 도입하려는 움직임이 빠르게 일어나고 있다. 특히 미국의 NIST가 이...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/21765908_copy_295x190_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[6·15 남북공동선언 22주년 이슈 악용한 북한 해킹 공격 포착됐다]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107518&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107518&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Mon, 20 Jun 2022 09:16:51 GMT</pubDate>
-            <content:encoded><![CDATA[6·15 남북공동선언이 22주년을 맞는 가운데 실제 개최되는 통일정책포럼 행사를 악용한 북한 해커조직의 사이버 공격이 발견돼 통일·외교·안보 분야 종사자들의 각별...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20220615EAST1-S.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
