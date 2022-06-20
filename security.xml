@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-06-20T07:20:17.412Z</updated>
+    <updated>2022-06-20T08:27:13.248Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[크롬 플러그인, 사용자 핑거프린팅 및 추적에 악용될 수 있어]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107621&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107621&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-06-20T08:24:15.130Z</updated>
+        <content type="html"><![CDATA[IT 외신인 블리핑컴퓨터에 의하면 z0ccc라고 하는 한 웹 개발자가 독특한 웹사이트를 하나 만들어 공개했다고 한다. 이 사이트의 이름은 익스텐션 핑거프린트(Extension Fingerprints)라고 하며 접속자가 미리 설치해 둔 크롬 확장 프로그램을 통해 사용자를...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[사이버 공격으로 국제 행사 기조 연설 미뤄야 했던 푸틴]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=107620&amp;page=1&amp;mkind=1&amp;kind=1</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=107585&amp;page=1&amp;mkind=1&amp;kind=1"/>
         <updated>2022-06-17T06:21:22.647Z</updated>
         <content type="html"><![CDATA[페이스북 메신저(Facebook Messanger)를 통해 지난 수개월 동안 가짜 피싱 메시지가 유포됐고, 여기에 1천만 사용자가 속았다고 보안 외신 쓰레트포스트가 보도했다. 이 피싱 캠페인의 목적은 사용자들의 크리덴셜을 훔치는 것이라고 하며, 심지어 지금도 활발히 진...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[블랙캣, 피해자의 데이터를 다크웹이 아니라 일반 웹에 공개]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107584&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107584&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-06-17T06:21:22.649Z</updated>
-        <content type="html"><![CDATA[보안 블로그 시큐리티어페어즈에 의하면 블랙캣(BlackCat) 랜섬웨어 집단이 피해자의 데이터를 일반 웹에 공개했다고 한다. 일반 웹에 공개했다는 건 구글과 같은 일반 검색엔진으로 개인정보를 검색할 수 있게 된다는 뜻이다. 따라서 발견될 가능성이 높다. 사용자의 수가 ...]]></content>
     </entry>
 </feed>
