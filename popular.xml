@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Jun 2022 01:27:26 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jun 2022 03:36:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -56,14 +56,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/IE_0616%20(2)_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[회사에서 많이 사용하는 IP 전화 제품에서 취약점 발견돼]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107485&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107485&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Wed, 15 Jun 2022 01:30:02 GMT</pubDate>
-            <content:encoded><![CDATA[보안 외신 해커뉴스가 사무실에서 많이 사용되는 업무용 IP 전화기에서 중위험도의 취약점 두 개가 발견됐다고 보도했다. 문제의 제품은 마이텔 6800/6900(Mi...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/21034119_copy_295x190_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[미국 CISA, 시스템 장악 가능케 하는 크롬 취약점 4개에 대한 경고문 발표]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107492&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107492&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
@@ -104,14 +96,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20459303_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[러시아의 APT 단체, 폴리나 취약점 통해 우크라이나 조직들 공격 중]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107486&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107486&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Wed, 15 Jun 2022 03:39:17 GMT</pubDate>
-            <content:encoded><![CDATA[보안 블로그 시큐리티어페어즈에 의하면 러시아의 APT 단체가 최근 공개된 MS 제품의 취약점인 폴리나(Follina)를 악용해 우크라이나 단체들을 공격하기 시작했...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/22054717_copy_295x190_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Weekly Security Premium Report 제55호 발간! 클라우드 비용 분석과 조직의 역할]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107560&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107560&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
@@ -136,14 +120,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/21756789_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[우간다 증권 거래소에서 32GB의 민감 정보 유출돼]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107484&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107484&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Mon, 20 Jun 2022 06:22:50 GMT</pubDate>
-            <content:encoded><![CDATA[보안 외신 핵리드에 의하면 우간다의 증권 거래소인 USE가 데이터베이스 관리 실수를 통해 고도로 민감한 정보를 다량으로 유출시켰다고 한다. 각종 개인정보는 물론 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/21171531_copy_295x190_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[6·15 남북공동선언 22주년 이슈 악용한 북한 해킹 공격 포착됐다]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107518&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107518&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
@@ -166,6 +142,30 @@
             <pubDate>Mon, 20 Jun 2022 08:23:57 GMT</pubDate>
             <content:encoded><![CDATA[소프트웨어 재료표(Software Bills of Materials, SBOMs)라는 개념을 도입하려는 움직임이 빠르게 일어나고 있다. 특히 미국의 NIST가 이...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/21765908_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[IT 인재를 채용할 때 봐야할 중요한 특성 중 하나, 호기심]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107608&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107608&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
+            <pubDate>Tue, 21 Jun 2022 03:33:42 GMT</pubDate>
+            <content:encoded><![CDATA[채용을 앞둔 IT 담당자들에게는 후보자를 고르는 기준이 몇 가지 있는 듯하다. 정식 교육 과정을 어디까지 이수했는지, 어떤 자격증을 가지고 있는지, 어떤 근무 경...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20196328_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[보안 레시피-1] ‘보안의 기본’ 안티 멀웨어 활용법 바로 알기]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107624&amp;page=1&amp;kind=5&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107624&amp;page=1&amp;kind=5&amp;search=title&amp;find=</guid>
+            <pubDate>Tue, 21 Jun 2022 03:33:42 GMT</pubDate>
+            <content:encoded><![CDATA[우리가 흔히 ‘PC 백신(Vaccine)’이라 부르는 ‘안티 멀웨어(Anti-Malware)’의 최초의 제품은 1971년 세계 최초의 PC 바이러스인 ‘크리퍼 바...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/21607997_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[정재동의 창업에세이-6] 엘리트 창업교육으로 창업교육의 완성도가 높아질 수 있다]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107626&amp;page=1&amp;kind=6&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107626&amp;page=1&amp;kind=6&amp;search=title&amp;find=</guid>
+            <pubDate>Tue, 21 Jun 2022 03:33:42 GMT</pubDate>
+            <content:encoded><![CDATA[엘리트 창업교육은 창업교육의 성과를 풍성하게 하고 완성도를 높이는 데 큰 도움이 될 수 있다. 대학의 창업교육은 창업생태계 발전을 위해 많은 역할을 하고 있다. ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20220620start-s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
