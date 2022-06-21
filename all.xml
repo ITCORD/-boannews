@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Jun 2022 05:24:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jun 2022 06:23:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[파수 조규곤 대표,  “제로트러스트 관점에서 보안 디자인 다시해야” (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107660&amp;page=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107660&amp;page=1&amp;kind=3</guid>
+            <pubDate>Tue, 21 Jun 2022 06:21:02 GMT</pubDate>
+            <content:encoded><![CDATA[“기업에서 보안을 강화하기 위해서는 워크 플레이스를 어떤 관점에서 구성해야 할지 고민해야 하고, 재택근무의 효율성과 함께 모여서 근무해야 할 때의 효율성을...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20220621FASOO-SM.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[중국의 APT 그룹, 10년 동안 들키지 않고 활동해 (보안뉴스 ─ 전체기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107657&amp;page=1&amp;kind=1</link>
@@ -78,14 +86,6 @@
             <pubDate>Mon, 20 Jun 2022 10:19:28 GMT</pubDate>
             <content:encoded><![CDATA[최근 아틀라시안(Atlassian)의 컨플루언스 서버(Confluence Server)에서 원격 코드 실행 취약점이 발견된 적이 있었다. 초고위험도로 분석...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20375613_copy_295x190_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2021년 공공기관 경영실적 평가 결과... 보안전문기관 KISA, 한 단계 ‘상승’ (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107627&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107627&amp;page=1&amp;kind=2</guid>
-            <pubDate>Mon, 20 Jun 2022 09:16:40 GMT</pubDate>
-            <content:encoded><![CDATA[국내 유일의 정보보호 전문기관인 한국인터넷진흥원(KISA)이 2021년 공공기관 경영실적 평가에서 양호를 의미하는 B등급을 달성했다. KISA는 2017년...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20727826_MAIN.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[KISIA, 글로벌 클라우드 마켓플레이스 제품 및 솔루션 등록 지원 참가기업 모집 (보안뉴스 ─ 전체기사)]]></title>
@@ -403,6 +403,13 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20220620start-s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[중국의 APT 그룹, 10년 동안 들키지 않고 활동해 (보안뉴스 ─ SECURITY)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107657&amp;page=1&amp;mkind=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107657&amp;page=1&amp;mkind=1&amp;kind=1</guid>
+            <pubDate>Tue, 21 Jun 2022 06:21:31 GMT</pubDate>
+            <content:encoded><![CDATA[보안 외신 쓰레트포스트가 최근 새롭게 발견된 중국 APT 단체에 대해 보도했다. 문제는 이 단체가 최근에 발견됐지만 2013년부터 활동해왔다는 것이다. 보안 업체 센티넬원(SentinelOne)에서 처음 발견한 이 단체에는 현재 아오킨 드라곤(Aoqin Dragon)이...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[NATO 싱크탱크 해킹 사건에 러시아 APT28 연루돼 (보안뉴스 ─ SECURITY)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107656&amp;page=1&amp;mkind=1&amp;kind=1</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107656&amp;page=1&amp;mkind=1&amp;kind=1</guid>
@@ -513,13 +520,6 @@
             <guid>https://www.boannews.com/media/view.asp?idx=107623&amp;page=1&amp;mkind=1&amp;kind=1</guid>
             <pubDate>Mon, 20 Jun 2022 09:17:05 GMT</pubDate>
             <content:encoded><![CDATA[큐냅(QNAP)사의 NAS 장비들을 겨냥한 랜섬웨어 캠페인이 다시 시작됐다. 이번에 등장한 랜섬웨어는 데드볼트(DeadBolt)로, 이전부터 각종 NAS 장비들을 괴롭혔던 랜섬웨어 패밀리 중 하나다. 특히 사용자가 비밀번호를 약하게 설정한 경우에 위험에 처할 가능성이 ...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[크롬 플러그인, 사용자 핑거프린팅 및 추적에 악용될 수 있어 (보안뉴스 ─ SECURITY)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107621&amp;page=1&amp;mkind=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107621&amp;page=1&amp;mkind=1&amp;kind=1</guid>
-            <pubDate>Mon, 20 Jun 2022 08:24:15 GMT</pubDate>
-            <content:encoded><![CDATA[IT 외신인 블리핑컴퓨터에 의하면 z0ccc라고 하는 한 웹 개발자가 독특한 웹사이트를 하나 만들어 공개했다고 한다. 이 사이트의 이름은 익스텐션 핑거프린트(Extension Fingerprints)라고 하며 접속자가 미리 설치해 둔 크롬 확장 프로그램을 통해 사용자를...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[LG, 세계 최고 권위 AI 학회서 ‘초거대 AI’ 기술력 입증 (보안뉴스 ─ IT)]]></title>
@@ -1336,6 +1336,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2020/03/20200327SMART-SUM.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[파수 조규곤 대표,  “제로트러스트 관점에서 보안 디자인 다시해야” (보안뉴스 ─ 인터뷰)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107660&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=3&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107660&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=3&amp;search=title&amp;find=</guid>
+            <pubDate>Tue, 21 Jun 2022 06:22:39 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/view.asp?idx=107660&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=3&amp;search=title&amp;find=">
+					
+					<img src="/media/upFiles2/2022/06/20220621FASOO-SM.jpg" alt="" class="news_img" height="70">
+					
+					<span class="news_txt">파수 조규곤 대표,  “제로트러스트 관점에서 보안 디자인 다시해야”</span>
+					</a><br>
+					<a href="/media/view.asp?idx=107660&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=3&amp;search=title&amp;find=">“기업에서 보안을 강화하기 위해서는 워크 플레이스를 어떤 관점에서 구성해야 할지 고민해야 하고, 재택근무의 효율성과 함께 모여서 근무해야 할 때의 효율성을 명확하...</a> <span class="news_writer">권준  기자 | 2022년 06월 21일 14:27</span>]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20220621FASOO-SM.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[인터뷰] 이규환 지케이테코 대표, “제품 현지화로 국내 공공시장 공략” (보안뉴스 ─ 인터뷰)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107116&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=3&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107116&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=3&amp;search=title&amp;find=</guid>
@@ -1600,20 +1614,6 @@
 					</a><br>
 					<a href="/media/view.asp?idx=104063&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=3&amp;search=title&amp;find=">새해 첫 주, &lt;보안뉴스&gt;에 전 세계적으로도 매우 드문 유형의 가상자산(암호화폐) 탈취 사건에 대한 제보가 접수됐다. 이른바 ‘심스와핑(SIM Swap...</a> <span class="news_writer">원병철 기자 | 2022년 01월 12일 17:49</span>]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/19695308_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[대구시 자치경찰위원회 출범 6개월 “시민이 묻고, 자치경찰이 답하다” (보안뉴스 ─ 인터뷰)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=103817&amp;page=1&amp;mkind=&amp;kind=2&amp;skind=3&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=103817&amp;page=1&amp;mkind=&amp;kind=2&amp;skind=3&amp;search=title&amp;find=</guid>
-            <pubDate>Wed, 12 Jan 2022 20:16:15 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/view.asp?idx=103817&amp;page=1&amp;mkind=&amp;kind=2&amp;skind=3&amp;search=title&amp;find=">
-					
-					<img src="/media/upFiles2/2021/12/20211231daegu-s.jpg" alt="" class="news_img" height="70">
-					
-					<span class="news_txt">대구시 자치경찰위원회 출범 6개월 “시민이 묻고, 자치경찰이 답하다”</span>
-					</a><br>
-					<a href="/media/view.asp?idx=103817&amp;page=1&amp;mkind=&amp;kind=2&amp;skind=3&amp;search=title&amp;find=">대구시 자치경찰위원회는 7월 1일부터 공식활동을 시작해 이제 약 6개월이 지났다. 자치경찰 분야의 대표적인 전문가인 박동균 대구시 자치경찰위윈회 상임위원(사무국장...</a> <span class="news_writer">권준  기자 | 2021년 12월 31일 10:15</span>]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2021/12/20211231daegu-s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2021년 공공기관 경영실적 평가 결과... 보안전문기관 KISA, 한 단계 ‘상승’ (보안뉴스 ─ 정책)]]></title>
@@ -2456,6 +2456,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2021/12/21122110ss.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[파수 조규곤 대표,  “제로트러스트 관점에서 보안 디자인 다시해야” (보안뉴스 ─ 기업뉴스)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107660&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107660&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=</guid>
+            <pubDate>Tue, 21 Jun 2022 06:23:33 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/view.asp?idx=107660&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=">
+					
+					<img src="/media/upFiles2/2022/06/20220621FASOO-SM.jpg" alt="" class="news_img" height="70">
+					
+					<span class="news_txt">파수 조규곤 대표,  “제로트러스트 관점에서 보안 디자인 다시해야”</span>
+					</a><br>
+					<a href="/media/view.asp?idx=107660&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=">“기업에서 보안을 강화하기 위해서는 워크 플레이스를 어떤 관점에서 구성해야 할지 고민해야 하고, 재택근무의 효율성과 함께 모여서 근무해야 할 때의 효율성을 명확하...</a> <span class="news_writer">권준  기자 | 2022년 06월 21일 14:27</span>]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20220621FASOO-SM.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[해킹 공격, 내부 직원 소행... 끊이지 않는 개인정보 유출 사고 (보안뉴스 ─ 기업뉴스)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107658&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107658&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=</guid>
@@ -2720,20 +2734,6 @@
 					</a><br>
 					<a href="/media/view.asp?idx=107487&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=">21세기 빠르게 발전하는 첨단기술 분야에서 사이버 공격은 점차 치밀해지고 지능화되고 있다. 특히, 운영체제나 네트워크 내 취약점이 발견된 이후 관련 보안패치가 적...</a> <span class="news_writer">권준  기자 | 2022년 06월 15일 14:36</span>]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20220615trend.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[시큐레터, RSAC 2022서 차세대 지능형 위협 보안 솔루션 선보여 (보안뉴스 ─ 기업뉴스)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107523&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107523&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=</guid>
-            <pubDate>Wed, 15 Jun 2022 06:22:39 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/view.asp?idx=107523&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=">
-					
-					<img src="/media/upFiles2/2022/06/secul_061501_main.jpg" alt="" class="news_img" height="70">
-					
-					<span class="news_txt">시큐레터, RSAC 2022서 차세대 지능형 위협 보안 솔루션 선보여 </span>
-					</a><br>
-					<a href="/media/view.asp?idx=107523&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=">악성코드 탐지 및 차단 전문기업 시큐레터(대표 임차성)가 지난 6일부터 9일까지 미국 샌프란시스코에서 열린 RSA 컨퍼런스 2022에 참가해 자사의 차세대 지능형...</a> <span class="news_writer">원병철 기자 | 2022년 06월 15일 14:31</span>]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/secul_061501_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[인사] 한국인터넷진흥원 (보안뉴스 ─ 인사 부고)]]></title>
