@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-06-20T23:19:31.104Z</updated>
+    <updated>2022-06-21T01:27:26.459Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[보안 레시피-1] ‘보안의 기본’ 안티 멀웨어 활용법 바로 알기]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107624&amp;page=1&amp;mkind=1&amp;kind=5</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107624&amp;page=1&amp;mkind=1&amp;kind=5"/>
+        <updated>2022-06-21T01:24:40.829Z</updated>
+        <content type="html"><![CDATA[우리가 흔히 ‘PC 백신(Vaccine)’이라 부르는 ‘안티 멀웨어(Anti-Malware)’의 최초의 제품은 1971년 세계 최초의 PC 바이러스인 ‘크리퍼 바이러스(Creeper Virus)’를 잡기 위해 ‘레이 톰린슨’이 만든 ‘리퍼(Reaper)’로 알려졌다. ...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[개인정보, 지키면 ‘프라이-벗’ 놔두면 ‘프라이-빚’]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=107625&amp;page=1&amp;mkind=1&amp;kind=2</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=107588&amp;page=1&amp;mkind=1&amp;kind=1"/>
         <updated>2022-06-17T09:17:59.260Z</updated>
         <content type="html"><![CDATA[마이크로소프트가 공식적으로 인터넷 익스플로러의 지원을 종료했다. 이로써 27년에 처음 탄생해 짧지 않은 기간 브라우저 시장의 왕좌에서 군림했던 애플리케이션 하나가 역사책에 이름을 새기게 되었다. 하지만 의외로 묘비에까지 이름을 새길 때는 아닌 것으로 보인다. 여전히 인...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[6월 둘째 주, 사라졌다가 컴백한 뱅킹 악성코드 ‘이모텟’ 전성시대]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107587&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107587&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-06-17T09:17:59.264Z</updated>
-        <content type="html"><![CDATA[한 동안 자취를 감췄던 뱅킹 악성코드 ‘이모텟(Emotet)’이 화려하게 부활해서 돌아왔다. 6월 둘째 주에는 계속 상위권을 점령해 왔던 정보탈취 목적의 인포스틸러 악성코드들을 밀어내고 주간 악성코드 통계에서 1위를 차지한 것이다.]]></content>
     </entry>
 </feed>

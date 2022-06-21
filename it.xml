@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=2</id>
     <title>보안뉴스 ─ IT</title>
-    <updated>2022-06-20T23:19:31.117Z</updated>
+    <updated>2022-06-21T01:27:26.450Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[사무실로 돌아오는 이들을 맞이해야 하는 CIO, 시야를 넓혀라]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107609&amp;page=1&amp;mkind=2&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107609&amp;page=1&amp;mkind=2&amp;kind=3"/>
+        <updated>2022-06-21T01:24:56.939Z</updated>
+        <content type="html"><![CDATA[세계가 팬데믹의 공포에서 점차 회복되는 추세다. 생활이 다시 정상으로 되돌아 오는 중이다. 이런 흐름은 CIO들에게 막중한 책임을 안긴다. 직원들을 일제히 바깥으로 보낼 때에도 IT 담당자들이 할 일이 많았지만, 반대로 직원들이 일제히 안으로 들어올 때에도 IT 담당자...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022년 핵심산업 클라우드 플래그십 프로젝트 스타트! 52개 SaaS 개발 지원]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107610&amp;page=1&amp;mkind=2&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107610&amp;page=1&amp;mkind=2&amp;kind=2"/>
+        <updated>2022-06-21T01:24:56.947Z</updated>
+        <content type="html"><![CDATA[클라우드 인프라 기업과 서비스 기업의 연계를 통해 국내 클라우드 서비스의 개발 및 확산을 지원하는 대중소 기업 협력형 사업인 ‘핵심산업 클라우드 플래그십 프로젝트’가 본격 추진된다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[IT 인재를 채용할 때 봐야할 중요한 특성 중 하나, 호기심]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=107608&amp;page=1&amp;mkind=2&amp;kind=3</id>
@@ -109,19 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=107567&amp;page=1&amp;mkind=2&amp;kind=2"/>
         <updated>2022-06-17T01:19:07.683Z</updated>
         <content type="html"><![CDATA[이종욱 조달청장은 지난 16일 대구시 소재 한국자동차연구원 대경본부에서 자율주행 시범 운행 현장을 방문·점검하고, 민·관이 공동으로 참여하는 자율주행차 공공조달 협의체를 최초로 발족했다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국토부, 미래형 교통수단 ‘하이퍼튜브’ R&D 테스트베드 공모]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107566&amp;page=1&amp;mkind=2&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107566&amp;page=1&amp;mkind=2&amp;kind=2"/>
-        <updated>2022-06-17T01:19:07.684Z</updated>
-        <content type="html"><![CDATA[국토교통부는 17일부터 약 한 달간 전국 지자체를 대상으로 ‘초고속 이동수단 하이퍼튜브(한국형 하이퍼루프) 기술개발’ 테스트베드 부지 선정을 위한 공모를 추진할 예정이라고 밝혔다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[과기정통부, 초거대 인공지능 활용 시범 사업 착수]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107565&amp;page=1&amp;mkind=2&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107565&amp;page=1&amp;mkind=2&amp;kind=2"/>
-        <updated>2022-06-17T01:19:07.684Z</updated>
-        <content type="html"><![CDATA[과학기술정보통신부는 대학·중소기업 등이 초거대 인공지능 모델을 활용해 혁신적인 인공지능 서비스를 개발할 수 있도록 초거대 인공지능 모델 활용 시범 사업을 시작했다.]]></content>
     </entry>
 </feed>
