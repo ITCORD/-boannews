@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-06-21T07:22:44.240Z</updated>
+    <updated>2022-06-21T08:30:37.902Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[KISIA, 글로벌 클라우드 마켓플레이스 제품 및 솔루션 등록 지원 참가기업 모집]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107659&amp;page=1&amp;mkind=1&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107659&amp;page=1&amp;mkind=1&amp;kind=3"/>
+        <updated>2022-06-21T08:27:08.316Z</updated>
+        <content type="html"><![CDATA[한국정보보호산업협회(회장 이동범, 이하 KISIA)는 과학기술정보통신부(이하 과기정통부) 주최로 추진하는 ‘글로벌 클라우드 마켓플레이스 제품 및 솔루션 등록 지원’ 사업 참가기업을 모집한다고 밝혔다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[해킹 공격, 내부 직원 소행... 끊이지 않는 개인정보 유출 사고]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107658&amp;page=1&amp;mkind=1&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107658&amp;page=1&amp;mkind=1&amp;kind=3"/>
+        <updated>2022-06-21T08:27:08.331Z</updated>
+        <content type="html"><![CDATA[최근 각종 해킹 공격과 개인정보 유출사고로 기업이 홍역을 치루고 있다. 지난 달 전자책 플랫폼 기업 M사는 상장을 앞두고 해킹으로 1만 3,182명의 고객 개인정보가 유출되었다. M사는 앱 내 공지사항을 통해 해킹 피해 사실을 빠르게 알리고 대응하였으나, 2019년에도...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[중국의 APT 그룹, 10년 동안 들키지 않고 활동해]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=107657&amp;page=1&amp;mkind=1&amp;kind=1</id>
@@ -109,19 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=107624&amp;page=1&amp;mkind=1&amp;kind=5"/>
         <updated>2022-06-21T01:24:40.829Z</updated>
         <content type="html"><![CDATA[우리가 흔히 ‘PC 백신(Vaccine)’이라 부르는 ‘안티 멀웨어(Anti-Malware)’의 최초의 제품은 1971년 세계 최초의 PC 바이러스인 ‘크리퍼 바이러스(Creeper Virus)’를 잡기 위해 ‘레이 톰린슨’이 만든 ‘리퍼(Reaper)’로 알려졌다. ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[개인정보, 지키면 ‘프라이-벗’ 놔두면 ‘프라이-빚’]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107625&amp;page=1&amp;mkind=1&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107625&amp;page=1&amp;mkind=1&amp;kind=2"/>
-        <updated>2022-06-20T10:19:57.119Z</updated>
-        <content type="html"><![CDATA[디지털 시대에 개인정보는 제대로 보호하면 나를 증명하고 든든하게 지원하는 ‘벗’과도 같지만, 방치될 경우 경제·사회적 활동에 걸림돌이 되고 많은 피해를 가져오는 ‘빚’이 될 수도 있다. 특히 코로나19 확산 이후 경제, 사회 각 분야에서 비대면 활동이 보편화하면서 개인...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[큐냅의 NAS 장비 노리는 랜섬웨어 캠페인, 동시에 두 개 발견돼]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107623&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107623&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-06-20T09:17:05.970Z</updated>
-        <content type="html"><![CDATA[큐냅(QNAP)사의 NAS 장비들을 겨냥한 랜섬웨어 캠페인이 다시 시작됐다. 이번에 등장한 랜섬웨어는 데드볼트(DeadBolt)로, 이전부터 각종 NAS 장비들을 괴롭혔던 랜섬웨어 패밀리 중 하나다. 특히 사용자가 비밀번호를 약하게 설정한 경우에 위험에 처할 가능성이 ...]]></content>
     </entry>
 </feed>
