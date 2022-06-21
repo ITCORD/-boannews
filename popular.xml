@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Jun 2022 09:29:27 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Jun 2022 10:33:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,14 +54,6 @@
             <pubDate>Fri, 17 Jun 2022 03:24:06 GMT</pubDate>
             <content:encoded><![CDATA[인터넷 익스플로러가 11 버전을 마지막으로 사라진다. 마이크로소프트는 6월 15일자로 인터넷 익스플로러 11에 대한 공식지원을 종료했다. 프로그램 자체는 계속 사...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/IE_0616%20(2)_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[인기 높은 프록시 서버 오픈소스인 엔보이 프록시에서 디도스 취약점 발견돼]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107493&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107493&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Wed, 15 Jun 2022 16:22:29 GMT</pubDate>
-            <content:encoded><![CDATA[엔보이 프록시(Envoy Proxy)에서 디도스 공격을 가능하게 하는 취약점이 발견됐다. 이 취약점을 익스플로잇 할 경우 공격자들은 프록시 서버를 완전히 마비시킬...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/slow-thumb-0614.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[페이스북 메신저 사기, 1천만 사용자 속여]]></title>
@@ -166,6 +158,14 @@
             <pubDate>Tue, 21 Jun 2022 09:26:14 GMT</pubDate>
             <content:encoded><![CDATA[최근 아틀라시안(Atlassian)의 컨플루언스 서버(Confluence Server)에서 원격 코드 실행 취약점이 발견된 적이 있었다. 초고위험도로 분석됐던 그...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20375613_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[보안에 대한 기업들 우려 높아져... 부정감지 및 예방 솔루션 수요 증가]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107525&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107525&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
+            <pubDate>Tue, 21 Jun 2022 10:31:03 GMT</pubDate>
+            <content:encoded><![CDATA[기업 대상의 보안위협이 급증하면서, 기업들 사이에서 인터넷상의 부정 감지 및 예방에 대한 필요성이 높아지는 것이 ‘글로벌 부정 감지&amp;예방(FDP : Fraud D...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/21743188_main.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
