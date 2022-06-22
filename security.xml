@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-06-22T03:39:33.546Z</updated>
+    <updated>2022-06-22T04:37:48.725Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[사이버 범죄자들, 애저 프론트 도어를 피싱 공격에 활용]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107694&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107694&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-06-22T04:34:29.287Z</updated>
+        <content type="html"><![CDATA[보안 블로그 시큐리티어페어즈가 애저 프론트 도어(Azure Front Door, AFD)라는 클라우드 기반 CDN 서비스를 공격자들이 피싱 공격에 활용하고 있다고 경고했다. 주로 센드그리드(SendGrid), 도큐사인(DocuSign), 아마존(Amazon)의 서비스와...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[플래그스타 은행, 데이터 침해로 150만 고객 정보 유출시켜]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=107693&amp;page=1&amp;mkind=1&amp;kind=1</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=107657&amp;page=1&amp;mkind=1&amp;kind=1"/>
         <updated>2022-06-21T06:21:31.731Z</updated>
         <content type="html"><![CDATA[보안 외신 쓰레트포스트가 최근 새롭게 발견된 중국 APT 단체에 대해 보도했다. 문제는 이 단체가 최근에 발견됐지만 2013년부터 활동해왔다는 것이다. 보안 업체 센티넬원(SentinelOne)에서 처음 발견한 이 단체에는 현재 아오킨 드라곤(Aoqin Dragon)이...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NATO 싱크탱크 해킹 사건에 러시아 APT28 연루돼]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107656&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107656&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-06-21T04:36:31.506Z</updated>
-        <content type="html"><![CDATA[보안 블로그 시큐리티어페어즈에 의하면 2017년 4월에 발생한 해킹 사건의 배후에 APT28 소속 해커인 니콜라이 코자체크(Nikolaj Kozachek)가 있는 것으로 밝혀졌다고 한다. 해당 사건은 NATO의 싱크탱크인 조인트에어파워컴피턴스센터(Join Air Pow...]]></content>
     </entry>
 </feed>
