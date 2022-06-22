@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Jun 2022 07:19:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jun 2022 08:26:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -96,14 +96,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/21607997_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[MS 정기 패치일, 수주 동안 사용자 위협하던 폴리나 드디어 해결돼]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107527&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107527&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Sun, 19 Jun 2022 14:14:22 GMT</pubDate>
-            <content:encoded><![CDATA[마이크로소프트가 2022년 6월의 정기 패치를 진행했다. 이번 달 정기 패치가 주목받는 건 최근 MSDT에서 발견된 제로데이 취약점인 폴리나(Follina)가 해...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/21756789_copy_295x190_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[IT 인재를 채용할 때 봐야할 중요한 특성 중 하나, 호기심]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107608&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107608&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
@@ -166,6 +158,14 @@
             <pubDate>Wed, 22 Jun 2022 07:16:03 GMT</pubDate>
             <content:encoded><![CDATA[지난 5월 삼성전자 자회사인 반도체 생산 장비 업체 세메스가 보유한 국가핵심기술이 중국으로 유출되고, 안마의자로 유명한 바디프랜드의 전 임원이 800억원을 들여 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/ciso_062102_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[“한국의 결제 카드·이메일 데이터 8,698~12,722원 대에 다크웹서 거래”]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107481&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107481&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Wed, 22 Jun 2022 08:24:12 GMT</pubDate>
+            <content:encoded><![CDATA[다크웹 사이트에서 데이터 불법 거래가 기승을 부리고 있어 데이터 보안에 비상이 걸렸다. 다크웹내 사이트 1곳에서 거래된 금액만 220억 3,155만 원 규모다. ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/22020614DATA2-C.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
