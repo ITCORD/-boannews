@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-06-22T17:33:35.875Z</updated>
+    <updated>2022-06-22T18:25:56.718Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[슈나이더 일렉트릭-클래로티, ‘빌딩용 사이버 보안 솔루션’ 출시]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107702&amp;page=1&amp;mkind=1&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107702&amp;page=1&amp;mkind=1&amp;kind=3"/>
+        <updated>2022-06-22T18:23:23.628Z</updated>
+        <content type="html"><![CDATA[에너지 관리 및 자동화 분야의 디지털 혁신 선도기업인 슈나이더 일렉트릭(Schneider Electric)은 모든 빌딩 고객들이 안전한 빌딩 관리 시스템(BMS: Building Management System)으로 사람과 자산, 운영환경을 보호할 수 있도록 지원하는 ...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[VPN 대신 제로트러스트 접근 모델 선택하는 기업, 좀처럼 늘지 않아]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=107701&amp;page=1&amp;mkind=1&amp;kind=1</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=107665&amp;page=1&amp;mkind=1&amp;kind=3"/>
         <updated>2022-06-22T01:42:25.047Z</updated>
         <content type="html"><![CDATA[과학기술정보통신부(장관 이종호)와 한국정보기술연구원(원장 유준상)은 중학생을 위한 정보보안 온라인 교육 과정인 ‘사이버 가디언즈 보안 캠프’를 오는 7월 18일(월)부터 7월 29일(금)까지 온라인으로 진행한다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[버그바운티 플랫폼 해킹존, ‘파인더갭’으로 서비스명 변경]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107664&amp;page=1&amp;mkind=1&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107664&amp;page=1&amp;mkind=1&amp;kind=3"/>
-        <updated>2022-06-22T01:42:25.049Z</updated>
-        <content type="html"><![CDATA[파인더갭(대표이사 김오중)은 6월 1일 법인을 설립하면서, 버그바운티 플랫폼 해킹존의 서비스명을 ‘파인더갭’으로 변경했다고 17일 밝혔다. 이번 서비스명 변경을 통해 “보안의 틈을 찾는다”는 버그바운티 서비스로서 직관적인 브랜드 이미지를 강조하고, 고객들에게 다가가고자...]]></content>
     </entry>
 </feed>

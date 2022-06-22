@@ -4,9 +4,17 @@
         <title>보안뉴스 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Jun 2022 17:33:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jun 2022 18:25:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[새로운 APT 단체? 여러 정부 및 군사 기관 공격하고 있는 토디캣]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107721&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107721&amp;page=1&amp;kind=1</guid>
+            <pubDate>Wed, 22 Jun 2022 18:22:54 GMT</pubDate>
+            <content:encoded><![CDATA[작년 익스체인지 서버(Exchange Server)에서 발견된 제로데이 취약점인 프록시로그온(ProxyLogon)을 최초로 익스플로잇 한 것으로 의심되는 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20632576_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[개인정보위, 흥신소에 개인정보 유출한 수원시에 과태료 부과]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107704&amp;page=1&amp;kind=2</link>
@@ -80,14 +88,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20941229_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[러시아 해커들, 우크라이나 조직들에 코발트스트라이크와 크레도맵 심어]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107691&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107691&amp;page=1&amp;kind=1</guid>
-            <pubDate>Wed, 22 Jun 2022 03:35:59 GMT</pubDate>
-            <content:encoded><![CDATA[IT 외신 블리핑컴퓨터는 러시아 정부의 지원을 받는 해커들이 우크라이나의 다양한 조직들에 침투해 코발트스트라이크(Cobalt Strike)와 크레도맵(Cr...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/22003450_copy_295x190_1(0).jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[슈나이더 일렉트릭-클래로티, ‘빌딩용 사이버 보안 솔루션’ 출시]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107702&amp;page=1&amp;kind=3</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107702&amp;page=1&amp;kind=3</guid>
@@ -118,6 +118,14 @@
             <pubDate>Wed, 22 Jun 2022 04:33:56 GMT</pubDate>
             <content:encoded><![CDATA[한국정보보호산업협회(KISIA, 회장 이동범)는 6월 22일 부산지역 정보보호기업을 중심으로 ‘부산정보보호산업협의회(이하, 협의회)’를 발족했다고 밝혔다....]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/kisia_062201_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[러시아 해커들, 우크라이나 조직들에 코발트스트라이크와 크레도맵 심어]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107691&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107691&amp;page=1&amp;kind=1</guid>
+            <pubDate>Wed, 22 Jun 2022 03:35:59 GMT</pubDate>
+            <content:encoded><![CDATA[IT 외신 블리핑컴퓨터는 러시아 정부의 지원을 받는 해커들이 우크라이나의 다양한 조직들에 침투해 코발트스트라이크(Cobalt Strike)와 크레도맵(Cr...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/22003450_copy_295x190_1(0).jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[bnTV] 으악? 내 돈!! 데이터 복구 없이 먹튀?? 악질 다크웹 랜섬웨어 대응법]]></title>
@@ -232,13 +240,6 @@
             <guid>https://www.boannews.com/media/view.asp?idx=107676&amp;page=1&amp;kind=2</guid>
             <pubDate>Wed, 22 Jun 2022 01:41:55 GMT</pubDate>
             <content:encoded><![CDATA[과학기술정보통신부와 정보통신산업진흥원(NIPA)은 다양한 생활·산업 분야에서 국민 편익을 창출하고 지능형 사물인터넷(AIoT) 신기술을 적용한 킬러서비스를...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[한-아세안, 안전하고 지속발전가능한 아세안 공동체 구축]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107677&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107677&amp;page=1&amp;kind=2</guid>
-            <pubDate>Wed, 22 Jun 2022 01:41:55 GMT</pubDate>
-            <content:encoded><![CDATA[행정안전부는 22일 아세안 사무국과 공동으로 ‘제2회 한-아세안 재난관리위원회(국장급)’를 개최했다. 한-아세안 재난관리위원회는 재난으로 인한 인명 및 사...]]></content:encoded>
         </item>
     </channel>
 </rss>
