@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Jun 2022 20:20:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jun 2022 21:18:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -370,20 +370,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/cl-thumb-0621.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[중국의 APT 그룹, 10년 동안 들키지 않고 활동해 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107657&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107657&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Wed, 22 Jun 2022 01:42:10 GMT</pubDate>
-            <content:encoded><![CDATA[보안 외신 쓰레트포스트가 최근 새롭게 발견된 중국 APT 단체에 대해 보도했다. 문제는 이 단체가 최근에 발견됐지만 2013년부터 활동해왔다는 것이다. 보안 업체...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/21397254_copy_295x190_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[119차 CISO포럼, “기업기밀 노린 내부자 및 해커 위협 급증, 최선의 대안은?” (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107661&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107661&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
             <pubDate>Wed, 22 Jun 2022 07:16:03 GMT</pubDate>
             <content:encoded><![CDATA[지난 5월 삼성전자 자회사인 반도체 생산 장비 업체 세메스가 보유한 국가핵심기술이 중국으로 유출되고, 안마의자로 유명한 바디프랜드의 전 임원이 800억원을 들여 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/ciso_062102_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[중국의 APT 그룹, 10년 동안 들키지 않고 활동해 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107657&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107657&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Wed, 22 Jun 2022 01:42:10 GMT</pubDate>
+            <content:encoded><![CDATA[보안 외신 쓰레트포스트가 최근 새롭게 발견된 중국 APT 단체에 대해 보도했다. 문제는 이 단체가 최근에 발견됐지만 2013년부터 활동해왔다는 것이다. 보안 업체...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/21397254_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[“한국의 결제 카드·이메일 데이터 8,698~12,722원 대에 다크웹서 거래” (보안뉴스 ─ 가장 많이 본 기사)]]></title>
