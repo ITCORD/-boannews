@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 21 Jun 2022 23:21:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jun 2022 01:45:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -96,20 +96,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/21795917_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[6·15 남북공동선언 22주년 이슈 악용한 북한 해킹 공격 포착됐다]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107518&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107518&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Mon, 20 Jun 2022 09:16:51 GMT</pubDate>
-            <content:encoded><![CDATA[6·15 남북공동선언이 22주년을 맞는 가운데 실제 개최되는 통일정책포럼 행사를 악용한 북한 해커조직의 사이버 공격이 발견돼 통일·외교·안보 분야 종사자들의 각별...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20220615EAST1-S.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
             <title><![CDATA[MS 정기 패치일, 수주 동안 사용자 위협하던 폴리나 드디어 해결돼]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107527&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107527&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Sun, 19 Jun 2022 14:14:22 GMT</pubDate>
             <content:encoded><![CDATA[마이크로소프트가 2022년 6월의 정기 패치를 진행했다. 이번 달 정기 패치가 주목받는 건 최근 MSDT에서 발견된 제로데이 취약점인 폴리나(Follina)가 해...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/21756789_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[보안 레시피-1] ‘보안의 기본’ 안티 멀웨어 활용법 바로 알기]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107624&amp;page=1&amp;kind=5&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107624&amp;page=1&amp;kind=5&amp;search=title&amp;find=</guid>
+            <pubDate>Tue, 21 Jun 2022 03:33:42 GMT</pubDate>
+            <content:encoded><![CDATA[우리가 흔히 ‘PC 백신(Vaccine)’이라 부르는 ‘안티 멀웨어(Anti-Malware)’의 최초의 제품은 1971년 세계 최초의 PC 바이러스인 ‘크리퍼 바...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/21607997_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[지금 이 순간 다크웹에서 거래되는 비밀번호의 수량은 246억 개]]></title>
@@ -126,14 +126,6 @@
             <pubDate>Tue, 21 Jun 2022 03:33:42 GMT</pubDate>
             <content:encoded><![CDATA[채용을 앞둔 IT 담당자들에게는 후보자를 고르는 기준이 몇 가지 있는 듯하다. 정식 교육 과정을 어디까지 이수했는지, 어떤 자격증을 가지고 있는지, 어떤 근무 경...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20196328_copy_295x190_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[보안 레시피-1] ‘보안의 기본’ 안티 멀웨어 활용법 바로 알기]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107624&amp;page=1&amp;kind=5&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107624&amp;page=1&amp;kind=5&amp;search=title&amp;find=</guid>
-            <pubDate>Tue, 21 Jun 2022 03:33:42 GMT</pubDate>
-            <content:encoded><![CDATA[우리가 흔히 ‘PC 백신(Vaccine)’이라 부르는 ‘안티 멀웨어(Anti-Malware)’의 최초의 제품은 1971년 세계 최초의 PC 바이러스인 ‘크리퍼 바...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/21607997_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[구글, “취약점이 소프트웨어 물자의 이름을 불러 주었을 때 꽃이 된다”]]></title>
@@ -158,6 +150,14 @@
             <pubDate>Tue, 21 Jun 2022 09:26:14 GMT</pubDate>
             <content:encoded><![CDATA[최근 아틀라시안(Atlassian)의 컨플루언스 서버(Confluence Server)에서 원격 코드 실행 취약점이 발견된 적이 있었다. 초고위험도로 분석됐던 그...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20375613_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[중국의 APT 그룹, 10년 동안 들키지 않고 활동해]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107657&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107657&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Wed, 22 Jun 2022 01:42:10 GMT</pubDate>
+            <content:encoded><![CDATA[보안 외신 쓰레트포스트가 최근 새롭게 발견된 중국 APT 단체에 대해 보도했다. 문제는 이 단체가 최근에 발견됐지만 2013년부터 활동해왔다는 것이다. 보안 업체...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/21397254_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[보안에 대한 기업들 우려 높아져... 부정감지 및 예방 솔루션 수요 증가]]></title>
