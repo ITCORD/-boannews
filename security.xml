@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-06-22T06:22:59.821Z</updated>
+    <updated>2022-06-22T07:19:07.557Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[파수, ‘FDI 2022’ 개최로 제로 트러스트 데이터 보안 전략 제시]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107698&amp;page=1&amp;mkind=1&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107698&amp;page=1&amp;mkind=1&amp;kind=3"/>
+        <updated>2022-06-22T07:16:19.931Z</updated>
+        <content type="html"><![CDATA[파수(대표 조규곤)가 21일 3년만에 오프라인으로 개최된 연례 고객 행사 ‘파수 디지털 인텔리전스 2022(Fasoo Digital Intelligence 2022, 이하 FDI 2022)’를 성공리에 마쳤다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KAIST 등 4대 과기특성화대학, 국가정보원과 연구보안교육 협의체 발족]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107700&amp;page=1&amp;mkind=1&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107700&amp;page=1&amp;mkind=1&amp;kind=2"/>
+        <updated>2022-06-22T07:16:19.933Z</updated>
+        <content type="html"><![CDATA[KAIST(총장 이광형) 등 4대 과학기술특성화대학이 22일 오전 국가정보원(원장 김규현, 이하 국정원)과 ‘과학기술특성화대학 연구보안교육 협의체’를 발족했다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[KISIA, 부산정보보호산업협의회 발족]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=107697&amp;page=1&amp;mkind=1&amp;kind=3</id>
@@ -109,19 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=107662&amp;page=1&amp;mkind=1&amp;kind=1"/>
         <updated>2022-06-21T09:26:31.937Z</updated>
         <content type="html"><![CDATA[2019년 미국 전역을 충격에 빠뜨렸던 거대 해킹 범죄인 ‘캐피탈원(Capital One)’ 데이터 침해 사고의 배후에는 36세 테크 전문가가 있었다. 현재 이 인물은 7가지 혐의로 재판을 받는 중인데, 만약 모든 혐의에서 유죄가 인정된다면 최대 20년까지 징역살이를 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[119차 CISO포럼, “기업기밀 노린 내부자 및 해커 위협 급증, 최선의 대안은?”]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107661&amp;page=1&amp;mkind=1&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107661&amp;page=1&amp;mkind=1&amp;kind=3"/>
-        <updated>2022-06-21T09:26:31.938Z</updated>
-        <content type="html"><![CDATA[지난 5월 삼성전자 자회사인 반도체 생산 장비 업체 세메스가 보유한 국가핵심기술이 중국으로 유출되고, 안마의자로 유명한 바디프랜드의 전 임원이 800억원을 들여 개발한 핵심기술을 중국으로 넘기는 한편, 자신도 동종기업을 차려 빼돌린 기술로 제품을 제작하는 등 잇따른 기...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[파수 조규곤 대표,  “제로트러스트 관점에서 보안 디자인 다시해야”]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107660&amp;page=1&amp;mkind=1&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107660&amp;page=1&amp;mkind=1&amp;kind=3"/>
-        <updated>2022-06-21T09:26:31.940Z</updated>
-        <content type="html"><![CDATA[“기업에서 보안을 강화하기 위해서는 워크 플레이스를 어떤 관점에서 구성해야 할지 고민해야 하고, 재택근무의 효율성과 함께 모여서 근무해야 할 때의 효율성을 명확하게 구분해 보안을 짜야 한다. 또한, 협업할 때 흩어져 있는 채널을 어떻게 통합해야 할지 제로 트러스트 관점...]]></content>
     </entry>
 </feed>

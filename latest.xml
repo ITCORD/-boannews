@@ -4,9 +4,17 @@
         <title>보안뉴스 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Jun 2022 06:22:59 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jun 2022 07:19:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[VPN 대신 제로트러스트 접근 모델 선택하는 기업, 좀처럼 늘지 않아]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107701&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107701&amp;page=1&amp;kind=1</guid>
+            <pubDate>Wed, 22 Jun 2022 07:15:50 GMT</pubDate>
+            <content:encoded><![CDATA[제로트러스트를 도입하려는 계획을 가진 기업들이 많다고 하지만 아직 원격 접근에 주로 사용되는 기술은 VPN이다. 최근 발표된 조사 결과에 의하면 약 90%...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/21815683_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[KAIST 등 4대 과기특성화대학, 국가정보원과 연구보안교육 협의체 발족]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107700&amp;page=1&amp;kind=2</link>
@@ -80,12 +88,12 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/cert-thumb-0621.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[중학생 대상 정보보안 온라인 교육 ‘사이버 가디언즈 보안 캠프’ 참가자 모집]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107665&amp;page=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107665&amp;page=1&amp;kind=3</guid>
-            <pubDate>Tue, 21 Jun 2022 09:25:53 GMT</pubDate>
-            <content:encoded><![CDATA[과학기술정보통신부(장관 이종호)와 한국정보기술연구원(원장 유준상)은 중학생을 위한 정보보안 온라인 교육 과정인 ‘사이버 가디언즈 보안 캠프’를 오는 7월 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/bob_062101_main.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[슈나이더 일렉트릭-클래로티, ‘빌딩용 사이버 보안 솔루션’ 출시]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107702&amp;page=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107702&amp;page=1&amp;kind=3</guid>
+            <pubDate>Wed, 22 Jun 2022 07:15:50 GMT</pubDate>
+            <content:encoded><![CDATA[에너지 관리 및 자동화 분야의 디지털 혁신 선도기업인 슈나이더 일렉트릭(Schneider Electric)은 모든 빌딩 고객들이 안전한 빌딩 관리 시스템(...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/sch_062201_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[시큐어레터, 2022년 전문연구요원제도 병역지정업체 선정]]></title>
@@ -229,14 +237,6 @@
             <guid>https://www.boannews.com/media/view.asp?idx=107679&amp;page=1&amp;kind=2</guid>
             <pubDate>Wed, 22 Jun 2022 01:41:55 GMT</pubDate>
             <content:encoded><![CDATA[국토교통부는 한국국토정보공사와 공간정보산업진흥원을 ‘공개제한 공간정보 보안심사전문기관’으로 지정(6.15)했으며, 공개제한 공간정보를 활용하고자 하는 민간...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[LG CNS, 물류로봇 구독하는 ‘RaaS’ 시대 연다]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107680&amp;page=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107680&amp;page=1&amp;kind=3</guid>
-            <pubDate>Wed, 22 Jun 2022 01:41:55 GMT</pubDate>
-            <content:encoded><![CDATA[DX 전문기업 LG CNS가 ‘물류로봇 구독 서비스(RaaS, Robot as a Service)’를 새롭게 선보이며, 물류 고객 경험 혁신에 나선다. L...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/6-207(295).jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
