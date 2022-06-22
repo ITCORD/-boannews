@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-06-22T04:37:48.725Z</updated>
+    <updated>2022-06-22T05:22:55.540Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[KISIA, 부산정보보호산업협의회 발족]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107697&amp;page=1&amp;mkind=1&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107697&amp;page=1&amp;mkind=1&amp;kind=3"/>
+        <updated>2022-06-22T05:20:08.718Z</updated>
+        <content type="html"><![CDATA[한국정보보호산업협회(KISIA, 회장 이동범)는 6월 22일 부산지역 정보보호기업을 중심으로 ‘부산정보보호산업협의회(이하, 협의회)’를 발족했다고 밝혔다. 협의회는 부산지역 기업, 대학, 행정기관, 혁신기관 간 유기적인 협력체계를 구축, 지역 정보보호기업의 역량 확대와...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022년 상반기 ‘가상자산’ 노린 사이버 공격 급증했다]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107696&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107696&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-06-22T05:20:08.719Z</updated>
+        <content type="html"><![CDATA[2022년 상반기에 가장 많이 발생한 사이버 위협은 가상자산을 노린 금융권 대상 공격인 것으로 조사됐다. 라이프 케어 플랫폼 SK쉴더스(대표 박진효)가 2022년 상반기 주요 보안 트렌드 및 사이버 팬데믹 시대 보안 위협 전망에 대한 인사이트를 공유하는 미디어 세미나를...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오피스365의 기능 악용하면 랜섬웨어 공격에 각종 데이터 노출돼]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107695&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107695&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-06-22T05:20:08.721Z</updated>
+        <content type="html"><![CDATA[보안 외신 쓰레트포스트가 오피스365(Office 365)를 통해 셰어포인트(Sharepoint)와 원드라이브(OneDrive)에 저장된 데이터에 불법적으로 접근하는 방법이 개발됐다고 보도했다. 클라우드에 자동으로 백업되는 데이터들이 문제가 될 수 있다고 하는데, 보안...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[사이버 범죄자들, 애저 프론트 도어를 피싱 공격에 활용]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=107694&amp;page=1&amp;mkind=1&amp;kind=1</id>
@@ -102,26 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=107660&amp;page=1&amp;mkind=1&amp;kind=3"/>
         <updated>2022-06-21T09:26:31.940Z</updated>
         <content type="html"><![CDATA[“기업에서 보안을 강화하기 위해서는 워크 플레이스를 어떤 관점에서 구성해야 할지 고민해야 하고, 재택근무의 효율성과 함께 모여서 근무해야 할 때의 효율성을 명확하게 구분해 보안을 짜야 한다. 또한, 협업할 때 흩어져 있는 채널을 어떻게 통합해야 할지 제로 트러스트 관점...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KISIA, 글로벌 클라우드 마켓플레이스 제품 및 솔루션 등록 지원 참가기업 모집]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107659&amp;page=1&amp;mkind=1&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107659&amp;page=1&amp;mkind=1&amp;kind=3"/>
-        <updated>2022-06-21T08:27:08.316Z</updated>
-        <content type="html"><![CDATA[한국정보보호산업협회(회장 이동범, 이하 KISIA)는 과학기술정보통신부(이하 과기정통부) 주최로 추진하는 ‘글로벌 클라우드 마켓플레이스 제품 및 솔루션 등록 지원’ 사업 참가기업을 모집한다고 밝혔다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[해킹 공격, 내부 직원 소행... 끊이지 않는 개인정보 유출 사고]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107658&amp;page=1&amp;mkind=1&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107658&amp;page=1&amp;mkind=1&amp;kind=3"/>
-        <updated>2022-06-21T08:27:08.331Z</updated>
-        <content type="html"><![CDATA[최근 각종 해킹 공격과 개인정보 유출사고로 기업이 홍역을 치루고 있다. 지난 달 전자책 플랫폼 기업 M사는 상장을 앞두고 해킹으로 1만 3,182명의 고객 개인정보가 유출되었다. M사는 앱 내 공지사항을 통해 해킹 피해 사실을 빠르게 알리고 대응하였으나, 2019년에도...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[중국의 APT 그룹, 10년 동안 들키지 않고 활동해]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107657&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107657&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-06-21T06:21:31.731Z</updated>
-        <content type="html"><![CDATA[보안 외신 쓰레트포스트가 최근 새롭게 발견된 중국 APT 단체에 대해 보도했다. 문제는 이 단체가 최근에 발견됐지만 2013년부터 활동해왔다는 것이다. 보안 업체 센티넬원(SentinelOne)에서 처음 발견한 이 단체에는 현재 아오킨 드라곤(Aoqin Dragon)이...]]></content>
     </entry>
 </feed>

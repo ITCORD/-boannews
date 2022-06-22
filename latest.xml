@@ -4,9 +4,17 @@
         <title>보안뉴스 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Jun 2022 04:37:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jun 2022 05:22:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[KAIST 등 4대 과기특성화대학, 국가정보원과 연구보안교육 협의체 발족]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107700&amp;page=1&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107700&amp;page=1&amp;kind=2</guid>
+            <pubDate>Wed, 22 Jun 2022 05:19:45 GMT</pubDate>
+            <content:encoded><![CDATA[KAIST(총장 이광형) 등 4대 과학기술특성화대학이 22일 오전 국가정보원(원장 김규현, 이하 국정원)과 ‘과학기술특성화대학 연구보안교육 협의체’를 발족...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20220622kaist-s.JPG" length="0" type="image/JPG"/>
+        </item>
         <item>
             <title><![CDATA[2022년 상반기 ‘가상자산’ 노린 사이버 공격 급증했다]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107696&amp;page=1&amp;kind=1</link>
@@ -80,12 +88,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/bob_062101_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[1억 명 피해자 낳은 캐피탈원 침해 사고, 클라우드 보안 인식 바꿔]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107662&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107662&amp;page=1&amp;kind=1</guid>
-            <pubDate>Tue, 21 Jun 2022 08:26:31 GMT</pubDate>
-            <content:encoded><![CDATA[2019년 미국 전역을 충격에 빠뜨렸던 거대 해킹 범죄인 ‘캐피탈원(Capital One)’ 데이터 침해 사고의 배후에는 36세 테크 전문가가 있었다. 현...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/cl-thumb-0621.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[시큐어레터, 2022년 전문연구요원제도 병역지정업체 선정]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107699&amp;page=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107699&amp;page=1&amp;kind=3</guid>
+            <pubDate>Wed, 22 Jun 2022 05:19:45 GMT</pubDate>
+            <content:encoded><![CDATA[유무선 통합보안 솔루션 기업인 시큐어레터(대표 김대원)는 2022년 상반기 전문연구요원 제도 병역지정업체로 선정됐다고 21일 밝혔다.]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20220622LETT.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[파수, ‘FDI 2022’ 개최로 제로 트러스트 데이터 보안 전략 제시]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107698&amp;page=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107698&amp;page=1&amp;kind=3</guid>
+            <pubDate>Wed, 22 Jun 2022 05:19:45 GMT</pubDate>
+            <content:encoded><![CDATA[파수(대표 조규곤)가 21일 3년만에 오프라인으로 개최된 연례 고객 행사 ‘파수 디지털 인텔리전스 2022(Fasoo Digital Intelligence...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/FDI%202022-c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[KISIA, 부산정보보호산업협의회 발족]]></title>
@@ -221,22 +237,6 @@
             <pubDate>Wed, 22 Jun 2022 01:41:55 GMT</pubDate>
             <content:encoded><![CDATA[DX 전문기업 LG CNS가 ‘물류로봇 구독 서비스(RaaS, Robot as a Service)’를 새롭게 선보이며, 물류 고객 경험 혁신에 나선다. L...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/6-207(295).jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[소수 데이터만으로 새로운 물체를 정확하게 분류하는 딥러닝 기술 개발]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107681&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107681&amp;page=1&amp;kind=2</guid>
-            <pubDate>Wed, 22 Jun 2022 01:41:55 GMT</pubDate>
-            <content:encoded><![CDATA[DGIST 로봇및기계전자공학과 박상현 교수(인공지능전공 겸직) 연구팀은 여러 이미지로부터 상관관계를 학습하는 트랜스포머를 활용해 소수의 정답지를 가진 데이...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/6-208(295).jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[DGIST, 전 세계 자율주행 정보 국내 환경에 적용할 수 있는 딥러닝 기술 개발]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107682&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107682&amp;page=1&amp;kind=2</guid>
-            <pubDate>Wed, 22 Jun 2022 01:41:55 GMT</pubDate>
-            <content:encoded><![CDATA[DGIST 전기전자컴퓨터공학과 임성훈 교수팀은 다양한 환경 데이터를 인공지능 모델 학습에 효과적으로 활용할 수 있는 환경 적응 신경망 기술 개발에 성공했다...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/6-209(295).jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
