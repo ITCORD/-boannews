@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Jun 2022 21:18:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jun 2022 22:19:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -338,20 +338,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/21607997_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[지금 이 순간 다크웹에서 거래되는 비밀번호의 수량은 246억 개 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107555&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107555&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Fri, 17 Jun 2022 08:23:46 GMT</pubDate>
-            <content:encoded><![CDATA[현재 보안 업계에서 가장 주목을 많이 받는 기술을 하나 꼽는다면 ‘비밀번호 대체재’라고 말할 수 있다. 비밀번호라는 오랜 보안 장치를 없애고, 그걸 대신할 만한 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20975801_copy_295x190_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[정재동의 창업에세이-6] 엘리트 창업교육으로 창업교육의 완성도가 높아질 수 있다 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107626&amp;page=1&amp;kind=6&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107626&amp;page=1&amp;kind=6&amp;search=title&amp;find=</guid>
             <pubDate>Tue, 21 Jun 2022 03:33:42 GMT</pubDate>
             <content:encoded><![CDATA[엘리트 창업교육은 창업교육의 성과를 풍성하게 하고 완성도를 높이는 데 큰 도움이 될 수 있다. 대학의 창업교육은 창업생태계 발전을 위해 많은 역할을 하고 있다. ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20220620start-s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[지금 이 순간 다크웹에서 거래되는 비밀번호의 수량은 246억 개 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107555&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107555&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Fri, 17 Jun 2022 08:23:46 GMT</pubDate>
+            <content:encoded><![CDATA[현재 보안 업계에서 가장 주목을 많이 받는 기술을 하나 꼽는다면 ‘비밀번호 대체재’라고 말할 수 있다. 비밀번호라는 오랜 보안 장치를 없애고, 그걸 대신할 만한 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20975801_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[컨플루언스 서버에서 발견된 제로데이 취약점, 패치 나왔지만 공격 여전히 활발 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
