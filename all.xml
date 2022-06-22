@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 22 Jun 2022 08:26:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 22 Jun 2022 09:19:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -345,14 +345,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20975801_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[구글, “취약점이 소프트웨어 물자의 이름을 불러 주었을 때 꽃이 된다” (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107528&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107528&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Mon, 20 Jun 2022 08:23:57 GMT</pubDate>
-            <content:encoded><![CDATA[소프트웨어 재료표(Software Bills of Materials, SBOMs)라는 개념을 도입하려는 움직임이 빠르게 일어나고 있다. 특히 미국의 NIST가 이...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/21765908_copy_295x190_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[정재동의 창업에세이-6] 엘리트 창업교육으로 창업교육의 완성도가 높아질 수 있다 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107626&amp;page=1&amp;kind=6&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107626&amp;page=1&amp;kind=6&amp;search=title&amp;find=</guid>
@@ -399,6 +391,14 @@
             <pubDate>Wed, 22 Jun 2022 08:24:12 GMT</pubDate>
             <content:encoded><![CDATA[다크웹 사이트에서 데이터 불법 거래가 기승을 부리고 있어 데이터 보안에 비상이 걸렸다. 다크웹내 사이트 1곳에서 거래된 금액만 220억 3,155만 원 규모다. ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/22020614DATA2-C.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[파수 조규곤 대표,  “제로트러스트 관점에서 보안 디자인 다시해야” (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107660&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107660&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
+            <pubDate>Wed, 22 Jun 2022 09:15:50 GMT</pubDate>
+            <content:encoded><![CDATA[“기업에서 보안을 강화하기 위해서는 워크 플레이스를 어떤 관점에서 구성해야 할지 고민해야 하고, 재택근무의 효율성과 함께 모여서 근무해야 할 때의 효율성을 명확하...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20220621FASOO-SM.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[VPN 대신 제로트러스트 접근 모델 선택하는 기업, 좀처럼 늘지 않아 (보안뉴스 ─ SECURITY)]]></title>
@@ -774,6 +774,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/6-210(295).jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[새로운 해킹 그룹 토디캣, MS 익스체인지 서버 노려 (보안뉴스 ─ 취약점 경고 및 버그리포트)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107692&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107692&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=</guid>
+            <pubDate>Wed, 22 Jun 2022 09:17:05 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/view.asp?idx=107692&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=">
+					
+					<img src="/media/upFiles2/2022/06/20941229_copy_295x190_1.jpg" alt="" class="news_img" height="70">
+					
+					<span class="news_txt">새로운 해킹 그룹 토디캣, MS 익스체인지 서버 노려</span>
+					</a><br>
+					<a href="/media/view.asp?idx=107692&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=">보안 외신 해커뉴스에 의하면 새로운 해킹 그룹이 발견됐다고 한다. 이름은 토디캣(ToddyCat)이라고 하며 MS 익스체인지 서버를 최근 공격하다가 발각된 것으로...</a> <span class="news_writer">문가용 기자 | 2022년 06월 22일 11:33</span>]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20941229_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[bnTV] 으악? 내 돈!! 데이터 복구 없이 먹튀?? 악질 다크웹 랜섬웨어 대응법 (보안뉴스 ─ 취약점 경고 및 버그리포트)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107690&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107690&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=</guid>
@@ -1038,20 +1052,6 @@
 					</a><br>
 					<a href="/media/view.asp?idx=107419&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=">2022년 6월 첫째 주에는 개인정보 및 계정정보 탈취 목적의 인포스틸러 악성코드가 국내에 유포된 전체 악성코드의 대부분을 차지한 것으로 분석됐다. 보안전문 업체...</a> <span class="news_writer">권준  기자 | 2022년 06월 10일 16:22</span>]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20220610malware-s.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[보안 솔루션 사칭한 악성 앱이 사용자 정보를 노린다 (보안뉴스 ─ 취약점 경고 및 버그리포트)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107387&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107387&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=</guid>
-            <pubDate>Thu, 09 Jun 2022 09:20:47 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/view.asp?idx=107387&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=">
-					
-					<img src="/media/upFiles2/2022/06/esrc_060901_main.jpg" alt="" class="news_img" height="70">
-					
-					<span class="news_txt">보안 솔루션 사칭한 악성 앱이 사용자 정보를 노린다 </span>
-					</a><br>
-					<a href="/media/view.asp?idx=107387&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=5&amp;search=title&amp;find=">모바일 기기를 대상으로 하는 사이버 공격은 보이스피싱과 몸캠피싱은 물론 스미싱 등 다양하다. 수법이 더 다양화되고 정교해지면서 피해 금액도 상당한 수준이다. 경찰...</a> <span class="news_writer">원병철 기자 | 2022년 06월 09일 18:02</span>]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/esrc_060901_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[최정식 발행인 칼럼] <시큐리티월드> 통권 300호를 맞아 드리는 감사의 말씀 (보안뉴스 ─ 오피니언)]]></title>
