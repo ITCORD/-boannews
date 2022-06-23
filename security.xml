@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-06-23T07:19:37.977Z</updated>
+    <updated>2022-06-23T08:26:44.634Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[파고네트웍스, “조나시스템과 기존에 없던 혁신적 OT/ICS 보안 선보인다”]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107733&amp;page=1&amp;mkind=1&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107733&amp;page=1&amp;mkind=1&amp;kind=3"/>
+        <updated>2022-06-23T08:24:01.578Z</updated>
+        <content type="html"><![CDATA[조나시스템(XONA Systems)은 크리티컬 인프라스트럭처에 접속하기 위해 강력한 보안 액세스를 제공하는 플랫폼을 한국 고객들에게 보다 쉽고 빠르게 제공하기 위해 국내 보안 기업 파고네트웍스(PAGO Networks)와 파트너십을 체결했다고 밝혔다. 파고네트웍스는 이...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[러시아의 APT28도 폴리나 취약점 익스플로잇 하기 시작]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107735&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107735&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-06-23T08:24:01.581Z</updated>
+        <content type="html"><![CDATA[악명이 자자한 러시아의 APT 단체인 APT28이 MS 윈도에서 최근 발견됐다가 패치된 폴리나(Follina) 취약점을 익스플로잇 하기 시작했다. 보안 업체 멀웨어바이츠(Malwarebytes)에 의하면 APT28이 최근 우크라이나의 사용자들에게 악성 피싱 문서를 내보...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KISA-KAI, 항공우주산업 분야 사이버보안 업무협약 체결]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107734&amp;page=1&amp;mkind=1&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107734&amp;page=1&amp;mkind=1&amp;kind=2"/>
+        <updated>2022-06-23T08:24:01.582Z</updated>
+        <content type="html"><![CDATA[한국인터넷진흥원(KISA, 원장 이원태)과 한국항공우주산업(KAI, 대표이사 안현호)이 대한민국 항공우주산업 발전을 위한 안전한 사이버 환경 조성에 기여하기 위해 KAI 본사에서 업무협약을 체결했다고 6월 23일(목) 밝혔다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SMA 테크놀로지스의 자동화 솔루션에서 초고위험도 취약점 발견돼]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=107731&amp;page=1&amp;mkind=1&amp;kind=1</id>
@@ -102,26 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=107702&amp;page=1&amp;mkind=1&amp;kind=3"/>
         <updated>2022-06-22T18:23:23.628Z</updated>
         <content type="html"><![CDATA[에너지 관리 및 자동화 분야의 디지털 혁신 선도기업인 슈나이더 일렉트릭(Schneider Electric)은 모든 빌딩 고객들이 안전한 빌딩 관리 시스템(BMS: Building Management System)으로 사람과 자산, 운영환경을 보호할 수 있도록 지원하는 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[VPN 대신 제로트러스트 접근 모델 선택하는 기업, 좀처럼 늘지 않아]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107701&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107701&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-06-22T08:24:22.339Z</updated>
-        <content type="html"><![CDATA[제로트러스트를 도입하려는 계획을 가진 기업들이 많다고 하지만 아직 원격 접근에 주로 사용되는 기술은 VPN이다. 최근 발표된 조사 결과에 의하면 약 90%의 조직들이 아직도 원격에서의 접근을 보호하기 위해 VPN을 사용한다고 하며, VPN을 대체하기 위해 제로트러스트 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[시큐어레터, 2022년 전문연구요원제도 병역지정업체 선정]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107699&amp;page=1&amp;mkind=1&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107699&amp;page=1&amp;mkind=1&amp;kind=3"/>
-        <updated>2022-06-22T08:24:22.339Z</updated>
-        <content type="html"><![CDATA[유무선 통합보안 솔루션 기업인 시큐어레터(대표 김대원)는 2022년 상반기 전문연구요원 제도 병역지정업체로 선정됐다고 21일 밝혔다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[파수, ‘FDI 2022’ 개최로 제로 트러스트 데이터 보안 전략 제시]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107698&amp;page=1&amp;mkind=1&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107698&amp;page=1&amp;mkind=1&amp;kind=3"/>
-        <updated>2022-06-22T07:16:19.931Z</updated>
-        <content type="html"><![CDATA[파수(대표 조규곤)가 21일 3년만에 오프라인으로 개최된 연례 고객 행사 ‘파수 디지털 인텔리전스 2022(Fasoo Digital Intelligence 2022, 이하 FDI 2022)’를 성공리에 마쳤다.]]></content>
     </entry>
 </feed>
