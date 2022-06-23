@@ -2,9 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-06-23T01:20:40.436Z</updated>
+    <updated>2022-06-23T03:39:35.170Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[중국 해커들, 아마추어 해커들 노리고 정보 탈취 멀웨어 유포 중]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107727&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107727&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-06-23T03:36:32.910Z</updated>
+        <content type="html"><![CDATA[IT 외신 블리핑컴퓨터에 의하면 중국 해킹 그룹인 트로픽트루퍼(Tropic Trooper)가 새로운 캠페인을 벌이기 시작했다고 한다. 이번 캠페인에서 트로픽트루퍼는 새로운 무기를 사용하기 시작했는데, 하나는 님다(Nimbda)라는 로더이고, 다른 하나는 야호야(Yaho...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MS, “러시아가 우크라이나 동맹들에 대한 사이버 공격 수위 높인다”]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107726&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107726&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-06-23T03:36:32.911Z</updated>
+        <content type="html"><![CDATA[주요 일간지 CNN에 의하면 마이크로소프트는 미국과 우크라이나의 동맹국들을 겨냥한 러시아의 사이버 공격 및 정찰 행위가 점점 높은 강도와 빈도로 이뤄지고 있다고 고발했다고 한다. MS에 의하면 미국의 전쟁 관련 단체들이 가장 주요한 표적이 되고 있긴 하지만 현재 러시아...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[저작권 위반 메일 사칭해 LockBit 랜섬웨어 유포중]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107725&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107725&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-06-23T03:36:32.911Z</updated>
+        <content type="html"><![CDATA[과거에 유포된 동일한 저작권법 위반의 내용으로 사칭한 피싱 메일을 통해 최근 록빗(LockBit) 랜섬웨어가 다시 유포되고 있는 것으로 드러났다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[API 보안사고, 2024년까지 2배로 증가 전망... 중간자 공격 등 보안위협 급증]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107580&amp;page=1&amp;mkind=1&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107580&amp;page=1&amp;mkind=1&amp;kind=3"/>
+        <updated>2022-06-23T03:36:32.912Z</updated>
+        <content type="html"><![CDATA[API(Application Programming Interface)의 보안위협이 갈수록 커지고 있어 이용자들의 각별한 주의가 요구된다. 올해 상반기 API 공격 시도는 지난해에 비해 수백 배 급증했으며, 이에 따른 API 남용과 데이터 침해는 2024년까지 약 2배 ...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[시큐아이, 2022년 파트너스데이 행사 개최]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107724&amp;page=1&amp;mkind=1&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107724&amp;page=1&amp;mkind=1&amp;kind=3"/>
+        <updated>2022-06-23T03:36:32.913Z</updated>
+        <content type="html"><![CDATA[시큐아이(대표 정삼용)는 지난 22일 전국 60여개 파트너사를 초청해‘2022년 파트너스데이’행사를 개최했다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[소프트웨어 공급망이 위험해지는 시대, 어떻게 안전을 꾀할까?]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107722&amp;page=1&amp;mkind=1&amp;kind=4</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107722&amp;page=1&amp;mkind=1&amp;kind=4"/>
+        <updated>2022-06-23T03:36:32.921Z</updated>
+        <content type="html"><![CDATA[솔라윈즈(SolarWinds), 로그4j(Log4j), 코드코브(Codecov)와 같은 이름으로 표현되는 대규모 사건들 덕분에 소프트웨어 공급망 공격에 대한 관심도가 IT 업계 내에서 급격히 높아지고 있다. 소프트웨어 공급망 공격은 명백히 하나의 트렌드로 자리 잡은 현...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KISIA, 정보보호기업 채용확정형 교육생 모집]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107723&amp;page=1&amp;mkind=1&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107723&amp;page=1&amp;mkind=1&amp;kind=3"/>
+        <updated>2022-06-23T03:36:32.921Z</updated>
+        <content type="html"><![CDATA[한국정보보호산업협회(회장 이동범, 이하 ‘KISIA’)는 과학기술정보통신부가 추진하는 ‘기업멤버십SW캠프’ 사업의 일환으로 ‘정보보호 이상징후 탐지·대응 분야 전문가 양성 과정’ 교육생을 모집한다고 밝혔다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[새로운 APT 단체? 여러 정부 및 군사 기관 공격하고 있는 토디캣]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=107721&amp;page=1&amp;mkind=1&amp;kind=1</id>
@@ -74,54 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=107696&amp;page=1&amp;mkind=1&amp;kind=1"/>
         <updated>2022-06-22T05:20:08.719Z</updated>
         <content type="html"><![CDATA[2022년 상반기에 가장 많이 발생한 사이버 위협은 가상자산을 노린 금융권 대상 공격인 것으로 조사됐다. 라이프 케어 플랫폼 SK쉴더스(대표 박진효)가 2022년 상반기 주요 보안 트렌드 및 사이버 팬데믹 시대 보안 위협 전망에 대한 인사이트를 공유하는 미디어 세미나를...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오피스365의 기능 악용하면 랜섬웨어 공격에 각종 데이터 노출돼]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107695&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107695&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-06-22T05:20:08.721Z</updated>
-        <content type="html"><![CDATA[보안 외신 쓰레트포스트가 오피스365(Office 365)를 통해 셰어포인트(Sharepoint)와 원드라이브(OneDrive)에 저장된 데이터에 불법적으로 접근하는 방법이 개발됐다고 보도했다. 클라우드에 자동으로 백업되는 데이터들이 문제가 될 수 있다고 하는데, 보안...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사이버 범죄자들, 애저 프론트 도어를 피싱 공격에 활용]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107694&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107694&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-06-22T04:34:29.287Z</updated>
-        <content type="html"><![CDATA[보안 블로그 시큐리티어페어즈가 애저 프론트 도어(Azure Front Door, AFD)라는 클라우드 기반 CDN 서비스를 공격자들이 피싱 공격에 활용하고 있다고 경고했다. 주로 센드그리드(SendGrid), 도큐사인(DocuSign), 아마존(Amazon)의 서비스와...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[플래그스타 은행, 데이터 침해로 150만 고객 정보 유출시켜]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107693&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107693&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-06-22T03:36:30.506Z</updated>
-        <content type="html"><![CDATA[미국의 은행인 플래그스타(Flagstar)에서 데이터 유출 사고가 발생했다고 보안 외신 시큐리티위크가 보도했다. 이 사건으로 150만 명 이상의 개인정보가 해커들의 손에 넘어갔다. 플래그스타에 의하면 침해 사고는 2021년 12월에 발생했다고 하며, 수사가 종결된 것이...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[새로운 해킹 그룹 토디캣, MS 익스체인지 서버 노려]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107692&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107692&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-06-22T03:36:30.509Z</updated>
-        <content type="html"><![CDATA[보안 외신 해커뉴스에 의하면 새로운 해킹 그룹이 발견됐다고 한다. 이름은 토디캣(ToddyCat)이라고 하며 MS 익스체인지 서버를 최근 공격하다가 발각된 것으로 보인다. 특히 유럽과 아시아의 고위급 인사들을 노리는 캠페인을 2020년 12월부터 시작한 것으로 분석되고...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[러시아 해커들, 우크라이나 조직들에 코발트스트라이크와 크레도맵 심어]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107691&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107691&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-06-22T03:36:30.511Z</updated>
-        <content type="html"><![CDATA[IT 외신 블리핑컴퓨터는 러시아 정부의 지원을 받는 해커들이 우크라이나의 다양한 조직들에 침투해 코발트스트라이크(Cobalt Strike)와 크레도맵(CredoMap)이라는 해킹 도구를 심는다고 보도했다. 공격자들이 이런 행위를 하기 위해 실시하는 건 폴리나(Folli...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[bnTV] 으악? 내 돈!! 데이터 복구 없이 먹튀?? 악질 다크웹 랜섬웨어 대응법]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107690&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107690&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-06-22T03:36:30.512Z</updated>
-        <content type="html"><![CDATA[요즘에 ‘랜섬웨어에 걸려서 돈을 보냈는데 복구를 못 받았다’라는 사례들이 많다고 하더라고요. 어떤 조사결과 보면 돈을 보냈는데 3분의 1 정도가 복구가 안돼서 “어떻게 해야 되냐” 이런 걱정도 많이 하시고 그러는데 이사님이 고객들 접해보시기에 좀 어떠셨나요?]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지금 공부해 두면 당장은 물론 앞으로도 도움이 될 만한 IT/보안 자격증]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107666&amp;page=1&amp;mkind=1&amp;kind=4</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107666&amp;page=1&amp;mkind=1&amp;kind=4"/>
-        <updated>2022-06-22T03:36:30.515Z</updated>
-        <content type="html"><![CDATA[IT 인재를 구하기가 힘들다는 우는 소리가 지속적으로 나올 정도로 현재 IT 기술을 가진 사람들은 구인 구직 시장에서 귀하신 몸들이다. 하지만 IT 전문가 입장에서 원하는 모든 자리를 프리패스로 얻어낼 수 있는 건 아니다. 좋아 보이는 자리에는 사람들이 몰리기 마련이고...]]></content>
     </entry>
 </feed>
