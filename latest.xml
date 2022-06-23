@@ -4,9 +4,17 @@
         <title>보안뉴스 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Jun 2022 04:38:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Jun 2022 05:25:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[러시아의 APT28도 폴리나 취약점 익스플로잇 하기 시작]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107735&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107735&amp;page=1&amp;kind=1</guid>
+            <pubDate>Thu, 23 Jun 2022 05:21:57 GMT</pubDate>
+            <content:encoded><![CDATA[악명이 자자한 러시아의 APT 단체인 APT28이 MS 윈도에서 최근 발견됐다가 패치된 폴리나(Follina) 취약점을 익스플로잇 하기 시작했다. 보안 업...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/22054732_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[SMA 테크놀로지스의 자동화 솔루션에서 초고위험도 취약점 발견돼]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107731&amp;page=1&amp;kind=1</link>
@@ -80,12 +88,12 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20632576_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[개인정보위, 흥신소에 개인정보 유출한 수원시에 과태료 부과]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107704&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107704&amp;page=1&amp;kind=2</guid>
-            <pubDate>Wed, 22 Jun 2022 08:23:59 GMT</pubDate>
-            <content:encoded><![CDATA[중앙행정기관이 구축·운영하고 전국 지방자치단체(이하 지자체)가 공동으로 사용하는 대규모 개인정보처리시스템에 대해 개인정보 법령 위반 여부를 조사하고 처분한...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/21729015_main.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[KISA-KAI, 항공우주산업 분야 사이버보안 업무협약 체결]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107734&amp;page=1&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107734&amp;page=1&amp;kind=2</guid>
+            <pubDate>Thu, 23 Jun 2022 05:21:57 GMT</pubDate>
+            <content:encoded><![CDATA[한국인터넷진흥원(KISA, 원장 이원태)과 한국항공우주산업(KAI, 대표이사 안현호)이 대한민국 항공우주산업 발전을 위한 안전한 사이버 환경 조성에 기여하...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/kisa_062301_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[시큐아이, 2022년 파트너스데이 행사 개최]]></title>
@@ -217,28 +225,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/6-214(295).jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[개인정보위, 흥신소에 개인정보 유출한 수원시에 과태료 부과]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107704&amp;page=1&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107704&amp;page=1&amp;kind=2</guid>
+            <pubDate>Wed, 22 Jun 2022 08:23:59 GMT</pubDate>
+            <content:encoded><![CDATA[중앙행정기관이 구축·운영하고 전국 지방자치단체(이하 지자체)가 공동으로 사용하는 대규모 개인정보처리시스템에 대해 개인정보 법령 위반 여부를 조사하고 처분한...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/21729015_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[직원 동의 안 받고 사업장에 CCTV 설치한 ‘제이카’ 등 과태료 부과]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107703&amp;page=1&amp;kind=2</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107703&amp;page=1&amp;kind=2</guid>
             <pubDate>Wed, 22 Jun 2022 08:23:59 GMT</pubDate>
             <content:encoded><![CDATA[직원 동의를 받지 않고 사업장에 CCTV를 설치한 사업자 제이카에게 과태료 500만원이 부과됐다. 개인정보보호위원회(위원장 윤종인, 이하 ‘개인정보위’)는...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20751830_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[슈나이더 일렉트릭-클래로티, ‘빌딩용 사이버 보안 솔루션’ 출시]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107702&amp;page=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107702&amp;page=1&amp;kind=3</guid>
-            <pubDate>Wed, 22 Jun 2022 07:15:50 GMT</pubDate>
-            <content:encoded><![CDATA[에너지 관리 및 자동화 분야의 디지털 혁신 선도기업인 슈나이더 일렉트릭(Schneider Electric)은 모든 빌딩 고객들이 안전한 빌딩 관리 시스템(...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/sch_062201_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[VPN 대신 제로트러스트 접근 모델 선택하는 기업, 좀처럼 늘지 않아]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107701&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107701&amp;page=1&amp;kind=1</guid>
-            <pubDate>Wed, 22 Jun 2022 07:15:50 GMT</pubDate>
-            <content:encoded><![CDATA[제로트러스트를 도입하려는 계획을 가진 기업들이 많다고 하지만 아직 원격 접근에 주로 사용되는 기술은 VPN이다. 최근 발표된 조사 결과에 의하면 약 90%...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/21815683_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
