@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Jun 2022 09:20:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jun 2022 10:22:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -86,6 +86,14 @@
             <pubDate>Fri, 24 Jun 2022 01:23:15 GMT</pubDate>
             <content:encoded><![CDATA[외교부가 ‘신흥안보 위협의 과거와 현재, 그리고 미래–신뢰에 기반한 국제협력으로의 길’을 주제로 개최한 ‘2022 세계신안보포럼’이 지난 21~...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/6-231(295).jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[에스케어, 디지서트와 국내 파트너 계약 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107779&amp;page=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107779&amp;page=1&amp;kind=3</guid>
+            <pubDate>Fri, 24 Jun 2022 10:18:50 GMT</pubDate>
+            <content:encoded><![CDATA[IT 보안 전문기업 에스케어가 글로벌 인증 기업 디지서트(DigiCert)와 국내 파트너 계약을 맺고 SSL 사업을 본격적으로 시작한다고 밝혔다.]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/ESCARE-C.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이찬규 풍림무약 상무, ‘2022 서울 중소기업인 대회’ 중기부 장관상 표창 (보안뉴스 ─ 전체기사)]]></title>
@@ -229,13 +237,6 @@
             <content:encoded><![CDATA[과학기술정보통신부 오태석 1차관은 지난 23일 한국전자통신연구원(ETRI) 서울 SW-SoC R&amp;BD 센터에서 팹리스 기업 대표 및 반도체 설계 교육 전문...]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[대구시, 과기정통부 지역 지능화 혁신 인재 양성 공모 사업 선정 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107744&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107744&amp;page=1&amp;kind=2</guid>
-            <pubDate>Fri, 24 Jun 2022 01:23:15 GMT</pubDate>
-            <content:encoded><![CDATA[과학기술정보통신부(산하 정보통신기획평가원)가 지원하는 지역기업 재직자 대상 혁신 교육과 연구를 통해 지능화 혁신 산업 고급 연구인력 양성을 위한 ‘지역지능...]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[[주말판] 개발자들의 양질의 코딩 제작 위한 특성 3가지 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107607&amp;page=1&amp;kind=5&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107607&amp;page=1&amp;kind=5&amp;search=title&amp;find=</guid>
@@ -292,20 +293,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20375613_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[119차 CISO포럼, “기업기밀 노린 내부자 및 해커 위협 급증, 최선의 대안은?” (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107661&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107661&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
-            <pubDate>Wed, 22 Jun 2022 07:16:03 GMT</pubDate>
-            <content:encoded><![CDATA[지난 5월 삼성전자 자회사인 반도체 생산 장비 업체 세메스가 보유한 국가핵심기술이 중국으로 유출되고, 안마의자로 유명한 바디프랜드의 전 임원이 800억원을 들여 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/ciso_062102_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[VPN 대신 제로트러스트 접근 모델 선택하는 기업, 좀처럼 늘지 않아 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107701&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107701&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Thu, 23 Jun 2022 01:18:14 GMT</pubDate>
             <content:encoded><![CDATA[제로트러스트를 도입하려는 계획을 가진 기업들이 많다고 하지만 아직 원격 접근에 주로 사용되는 기술은 VPN이다. 최근 발표된 조사 결과에 의하면 약 90%의 조직...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/21815683_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[119차 CISO포럼, “기업기밀 노린 내부자 및 해커 위협 급증, 최선의 대안은?” (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107661&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107661&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
+            <pubDate>Wed, 22 Jun 2022 07:16:03 GMT</pubDate>
+            <content:encoded><![CDATA[지난 5월 삼성전자 자회사인 반도체 생산 장비 업체 세메스가 보유한 국가핵심기술이 중국으로 유출되고, 안마의자로 유명한 바디프랜드의 전 임원이 800억원을 들여 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/ciso_062102_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[중국의 APT 그룹, 10년 동안 들키지 않고 활동해 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
@@ -394,6 +395,13 @@
             <pubDate>Fri, 24 Jun 2022 09:16:42 GMT</pubDate>
             <content:encoded><![CDATA[6월 23일 발간된 ‘Weekly Security Premium Report’ 제56호에는 &lt;보안 심층 리포트&gt; 코너에서 마이크로소프트가 지난 6월 1...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20220623report-sm.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[구글, “애플과 안드로이드 모바일, 이탈리아 스파이웨어의 표적” (보안뉴스 ─ SECURITY)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107771&amp;page=1&amp;mkind=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107771&amp;page=1&amp;mkind=1&amp;kind=1</guid>
+            <pubDate>Fri, 24 Jun 2022 10:19:26 GMT</pubDate>
+            <content:encoded><![CDATA[AFP 통신은 구글의 발표문을 인용하여 “애플의 아이폰과 안드로이드 기반 스마트폰들이 염탐의 대상이 되고 있다”고 보도했다. 특히 이탈리아와 카자흐스탄의 스마트폰 사용자들이 주요 표적이 되고 있다고 한다. 공격자들은 피해자의 장비에 스파이웨어를 심는 방식으로 염탐을 하...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[NSO그룹, “최소 5개 유럽 국가에서 페가수스 구매했다” (보안뉴스 ─ SECURITY)]]></title>
@@ -506,13 +514,6 @@
             <guid>https://www.boannews.com/media/view.asp?idx=107733&amp;page=1&amp;mkind=1&amp;kind=3</guid>
             <pubDate>Thu, 23 Jun 2022 08:24:01 GMT</pubDate>
             <content:encoded><![CDATA[조나시스템(XONA Systems)은 크리티컬 인프라스트럭처에 접속하기 위해 강력한 보안 액세스를 제공하는 플랫폼을 한국 고객들에게 보다 쉽고 빠르게 제공하기 위해 국내 보안 기업 파고네트웍스(PAGO Networks)와 파트너십을 체결했다고 밝혔다. 파고네트웍스는 이...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[러시아의 APT28도 폴리나 취약점 익스플로잇 하기 시작 (보안뉴스 ─ SECURITY)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107735&amp;page=1&amp;mkind=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107735&amp;page=1&amp;mkind=1&amp;kind=1</guid>
-            <pubDate>Thu, 23 Jun 2022 08:24:01 GMT</pubDate>
-            <content:encoded><![CDATA[악명이 자자한 러시아의 APT 단체인 APT28이 MS 윈도에서 최근 발견됐다가 패치된 폴리나(Follina) 취약점을 익스플로잇 하기 시작했다. 보안 업체 멀웨어바이츠(Malwarebytes)에 의하면 APT28이 최근 우크라이나의 사용자들에게 악성 피싱 문서를 내보...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[DGIST-마크로젠, 바이오·AI 분야 공동 연구 및 인재 육성을 위한 MOU 체결 (보안뉴스 ─ IT)]]></title>
@@ -2449,6 +2450,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2021/12/21122110ss.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[에스케어, 디지서트와 국내 파트너 계약 (보안뉴스 ─ 기업뉴스)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107779&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107779&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=</guid>
+            <pubDate>Fri, 24 Jun 2022 10:22:15 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/view.asp?idx=107779&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=">
+					
+					<img src="/media/upFiles2/2022/06/ESCARE-C.jpg" alt="" class="news_img" height="70">
+					
+					<span class="news_txt">에스케어, 디지서트와 국내 파트너 계약</span>
+					</a><br>
+					<a href="/media/view.asp?idx=107779&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=">IT 보안 전문기업 에스케어가 글로벌 인증 기업 디지서트(DigiCert)와 국내 파트너 계약을 맺고 SSL 사업을 본격적으로 시작한다고 밝혔다.</a> <span class="news_writer">권준  기자 | 2022년 06월 24일 18:49</span>]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/ESCARE-C.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[포티넷코리아-KT, ‘SD-WAN에 기반을 둔 국내 데이터 서비스 시장 활성화’ 위한 MOU 체결 (보안뉴스 ─ 기업뉴스)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107766&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107766&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=</guid>
@@ -2710,20 +2725,6 @@
 					</a><br>
 					<a href="/media/view.asp?idx=107615&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=">IT통합보안·인증 선도기업 라온시큐어의 자회사 라온화이트햇(대표 이정아)이 중앙대학교와 함께 DID 신원인증, NFT 등 블록체인 기술을 활용한 다양한 교내의 미...</a> <span class="news_writer">권준  기자 | 2022년 06월 20일 11:10</span>]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/RAON-c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[퀀텀,  자산 관리 및 협업 스토리지 ‘H4000 에센셜’ 발표 (보안뉴스 ─ 기업뉴스)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107613&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107613&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=</guid>
-            <pubDate>Mon, 20 Jun 2022 03:18:42 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/view.asp?idx=107613&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=">
-					
-					<img src="/media/upFiles2/2022/06/H4000E-c.jpg" alt="" class="news_img" height="70">
-					
-					<span class="news_txt">퀀텀,  자산 관리 및 협업 스토리지 ‘H4000 에센셜’ 발표</span>
-					</a><br>
-					<a href="/media/view.asp?idx=107613&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=8&amp;search=title&amp;find=">퀀텀코리아(이강욱 지사장)는 자사의 H4000 스토리지 플랫폼에 CatDV™ 미디어 자산 관리 및 스토어넥스트 7(StorNext™ 7) 공유 스토리지 소프트웨어...</a> <span class="news_writer">권준  기자 | 2022년 06월 20일 11:08</span>]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/H4000E-c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[인사] 한국인터넷진흥원 (보안뉴스 ─ 인사 부고)]]></title>

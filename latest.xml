@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Jun 2022 09:20:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jun 2022 10:22:30 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -86,6 +86,14 @@
             <pubDate>Fri, 24 Jun 2022 01:23:15 GMT</pubDate>
             <content:encoded><![CDATA[외교부가 ‘신흥안보 위협의 과거와 현재, 그리고 미래–신뢰에 기반한 국제협력으로의 길’을 주제로 개최한 ‘2022 세계신안보포럼’이 지난 21~...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/6-231(295).jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[에스케어, 디지서트와 국내 파트너 계약]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107779&amp;page=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107779&amp;page=1&amp;kind=3</guid>
+            <pubDate>Fri, 24 Jun 2022 10:18:50 GMT</pubDate>
+            <content:encoded><![CDATA[IT 보안 전문기업 에스케어가 글로벌 인증 기업 디지서트(DigiCert)와 국내 파트너 계약을 맺고 SSL 사업을 본격적으로 시작한다고 밝혔다.]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/ESCARE-C.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[이찬규 풍림무약 상무, ‘2022 서울 중소기업인 대회’ 중기부 장관상 표창]]></title>
@@ -227,13 +235,6 @@
             <guid>https://www.boannews.com/media/view.asp?idx=107747&amp;page=1&amp;kind=2</guid>
             <pubDate>Fri, 24 Jun 2022 01:23:15 GMT</pubDate>
             <content:encoded><![CDATA[과학기술정보통신부 오태석 1차관은 지난 23일 한국전자통신연구원(ETRI) 서울 SW-SoC R&amp;BD 센터에서 팹리스 기업 대표 및 반도체 설계 교육 전문...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[대구시, 과기정통부 지역 지능화 혁신 인재 양성 공모 사업 선정]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107744&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107744&amp;page=1&amp;kind=2</guid>
-            <pubDate>Fri, 24 Jun 2022 01:23:15 GMT</pubDate>
-            <content:encoded><![CDATA[과학기술정보통신부(산하 정보통신기획평가원)가 지원하는 지역기업 재직자 대상 혁신 교육과 연구를 통해 지능화 혁신 산업 고급 연구인력 양성을 위한 ‘지역지능...]]></content:encoded>
         </item>
     </channel>
 </rss>

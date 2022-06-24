@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-06-24T09:20:24.735Z</updated>
+    <updated>2022-06-24T10:22:30.508Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[구글, “애플과 안드로이드 모바일, 이탈리아 스파이웨어의 표적”]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107771&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107771&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-06-24T10:19:26.199Z</updated>
+        <content type="html"><![CDATA[AFP 통신은 구글의 발표문을 인용하여 “애플의 아이폰과 안드로이드 기반 스마트폰들이 염탐의 대상이 되고 있다”고 보도했다. 특히 이탈리아와 카자흐스탄의 스마트폰 사용자들이 주요 표적이 되고 있다고 한다. 공격자들은 피해자의 장비에 스파이웨어를 심는 방식으로 염탐을 하...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NSO그룹, “최소 5개 유럽 국가에서 페가수스 구매했다”]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=107769&amp;page=1&amp;mkind=1&amp;kind=1</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=107733&amp;page=1&amp;mkind=1&amp;kind=3"/>
         <updated>2022-06-23T08:24:01.578Z</updated>
         <content type="html"><![CDATA[조나시스템(XONA Systems)은 크리티컬 인프라스트럭처에 접속하기 위해 강력한 보안 액세스를 제공하는 플랫폼을 한국 고객들에게 보다 쉽고 빠르게 제공하기 위해 국내 보안 기업 파고네트웍스(PAGO Networks)와 파트너십을 체결했다고 밝혔다. 파고네트웍스는 이...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[러시아의 APT28도 폴리나 취약점 익스플로잇 하기 시작]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107735&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107735&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-06-23T08:24:01.581Z</updated>
-        <content type="html"><![CDATA[악명이 자자한 러시아의 APT 단체인 APT28이 MS 윈도에서 최근 발견됐다가 패치된 폴리나(Follina) 취약점을 익스플로잇 하기 시작했다. 보안 업체 멀웨어바이츠(Malwarebytes)에 의하면 APT28이 최근 우크라이나의 사용자들에게 악성 피싱 문서를 내보...]]></content>
     </entry>
 </feed>
