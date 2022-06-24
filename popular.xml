@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 23 Jun 2022 23:20:01 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jun 2022 01:26:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -160,12 +160,12 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20220619cloudm-s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[개인정보위, 흥신소에 개인정보 유출한 수원시에 과태료 부과]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107704&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107704&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
-            <pubDate>Thu, 23 Jun 2022 09:16:29 GMT</pubDate>
-            <content:encoded><![CDATA[중앙행정기관이 구축·운영하고 전국 지방자치단체(이하 지자체)가 공동으로 사용하는 대규모 개인정보처리시스템에 대해 개인정보 법령 위반 여부를 조사하고 처분한 첫 사...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/21729015_main.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[러시아의 APT28도 폴리나 취약점 익스플로잇 하기 시작]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107735&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107735&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Fri, 24 Jun 2022 01:23:26 GMT</pubDate>
+            <content:encoded><![CDATA[악명이 자자한 러시아의 APT 단체인 APT28이 MS 윈도에서 최근 발견됐다가 패치된 폴리나(Follina) 취약점을 익스플로잇 하기 시작했다. 보안 업체 멀웨...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/22054732_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
