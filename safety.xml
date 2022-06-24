@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=4</id>
     <title>보안뉴스 ─ SAFETY</title>
-    <updated>2022-06-24T20:20:33.835Z</updated>
+    <updated>2022-06-24T21:17:14.765Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[광주시, 2022년 광주안전대진단 실시]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107743&amp;page=1&amp;mkind=4&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107743&amp;page=1&amp;mkind=4&amp;kind=2"/>
+        <updated>2022-06-24T21:15:23.222Z</updated>
+        <content type="html"><![CDATA[광주광역시는 오는 27일부터 7월 15일까지 3주간 올해 광주안전대진단을 실시한다. 올해는 도로 빗물배수구, 여름철 놀이시설, 사회복지시설 등 200여곳을 집중 점검할 계획이다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SR, 2022년 재난 대비 상시 훈련 전개]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=107717&amp;page=1&amp;mkind=4&amp;kind=2</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=107596&amp;page=1&amp;mkind=4&amp;kind=2"/>
         <updated>2022-06-18T06:20:07.327Z</updated>
         <content type="html"><![CDATA[행정안전부는 최근 이천 물류창고 화재(5.23.) 등 반복적으로 발생하는 물류창고 화재의 정확한 원인 진단과 실효성 있는 재발 방지 대책 마련(대통령 지시 사항, 5.26.)을 위해 ‘물류창고 화재 민관 합동 재난원인조사단’을 지난 17일 출범하고 전체회의를 개최했다고...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[중앙대, 한국소방안전원과 ‘ICT 융합 안전관리 협업’ 업무협약 체결]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107573&amp;page=1&amp;mkind=4&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107573&amp;page=1&amp;mkind=4&amp;kind=2"/>
-        <updated>2022-06-18T06:20:07.331Z</updated>
-        <content type="html"><![CDATA[중앙대 지난 15일 한국소방안전원과 디지털 중심의 ICT 융합 안전관리 체계를 발전시키기 위한 ‘ICT 융합 안전관리 협업 업무협약’을 체결했다.]]></content>
     </entry>
 </feed>
