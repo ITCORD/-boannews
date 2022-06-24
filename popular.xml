@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Jun 2022 21:17:14 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jun 2022 22:18:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -136,6 +136,14 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20220619cloudm-s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[CISA, “로그4셸 취약점, 여전히 VM웨어 서버 공략에 활용돼”]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107768&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107768&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Fri, 24 Jun 2022 22:15:43 GMT</pubDate>
+            <content:encoded><![CDATA[미국의 사이버 보안 전담 기관인 CISA가 다시 한 번 로그4셸(Log4Shell) 취약점에 대한 경고문을 발표했다고 IT 외신 블리핑컴퓨터가 보도했다. 경고문에...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20344422_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[개인정보위, 흥신소에 개인정보 유출한 수원시에 과태료 부과]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107704&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107704&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
@@ -144,28 +152,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/21729015_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[구글, “애플과 안드로이드 모바일, 이탈리아 스파이웨어의 표적”]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107771&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107771&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Fri, 24 Jun 2022 22:15:43 GMT</pubDate>
+            <content:encoded><![CDATA[AFP 통신은 구글의 발표문을 인용하여 “애플의 아이폰과 안드로이드 기반 스마트폰들이 염탐의 대상이 되고 있다”고 보도했다. 특히 이탈리아와 카자흐스탄의 스마트폰...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/21628397_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[과감한 다중인증 결정을 내린 깃허브에 박수를 보낸다]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107737&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107737&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Fri, 24 Jun 2022 06:21:07 GMT</pubDate>
             <content:encoded><![CDATA[깃허브(GitHub)가 최근 체제를 바꾸기로 했다. 모든 리포지터리에 다중인증을 기본으로 적용하기로 발표한 것이다. 소프트웨어 생태계에서 깃허브가 갖는 무게감은 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/18444678_copy_295x190_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[직원 동의 안 받고 사업장에 CCTV 설치한 ‘제이카’ 등 과태료 부과]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107703&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107703&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
-            <pubDate>Fri, 24 Jun 2022 05:21:30 GMT</pubDate>
-            <content:encoded><![CDATA[직원 동의를 받지 않고 사업장에 CCTV를 설치한 사업자 제이카에게 과태료 500만원이 부과됐다. 개인정보보호위원회(위원장 윤종인, 이하 ‘개인정보위’)는 6월 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20751830_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[Weekly Security Premium Report 제56호 발간! 인터넷 익스플로러 지원종료 이슈진단]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107739&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107739&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
-            <pubDate>Fri, 24 Jun 2022 09:16:42 GMT</pubDate>
-            <content:encoded><![CDATA[6월 23일 발간된 ‘Weekly Security Premium Report’ 제56호에는 &lt;보안 심층 리포트&gt; 코너에서 마이크로소프트가 지난 6월 1...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20220623report-sm.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
