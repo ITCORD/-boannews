@@ -4,17 +4,9 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Jun 2022 08:26:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jun 2022 09:20:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[고급 스파이웨어 허밋, 만듦새와 기능에서 뛰어난 전문가 손길 느껴져]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107593&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107593&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Sat, 18 Jun 2022 07:14:42 GMT</pubDate>
-            <content:encoded><![CDATA[악명 높은 안드로이드 멀웨어가 다시 발견됐다. 이름은 허밋(Hermit)이라고 하며, 모듈 구성을 하고 있고, 카자흐스탄 국민들을 감시하는 데 사용되고 있다고 한...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20487822_copy_295x190_1.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[주말판] 개발자들의 양질의 코딩 제작 위한 특성 3가지]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107607&amp;page=1&amp;kind=5&amp;search=title&amp;find=</link>
@@ -96,20 +88,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/21397254_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[파수 조규곤 대표,  “제로트러스트 관점에서 보안 디자인 다시해야”]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107660&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107660&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
-            <pubDate>Wed, 22 Jun 2022 09:15:50 GMT</pubDate>
-            <content:encoded><![CDATA[“기업에서 보안을 강화하기 위해서는 워크 플레이스를 어떤 관점에서 구성해야 할지 고민해야 하고, 재택근무의 효율성과 함께 모여서 근무해야 할 때의 효율성을 명확하...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20220621FASOO-SM.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[정보보호 공시제도 의무화 D-7... 602개 대상 중 참여기업 아직 50% 못 미쳐]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107736&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107736&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
             <pubDate>Fri, 24 Jun 2022 03:42:02 GMT</pubDate>
             <content:encoded><![CDATA[정보보호 공시제도 의무화로 오는 6월 30일까지 반드시 정보보호 공시를 해야 하는 기업은 총 602개이지만, KISA 정보보호 공시 종합 포털에 등록된 기업은 2...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/kisa_062301_main(0).jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[파수 조규곤 대표,  “제로트러스트 관점에서 보안 디자인 다시해야”]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107660&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107660&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
+            <pubDate>Wed, 22 Jun 2022 09:15:50 GMT</pubDate>
+            <content:encoded><![CDATA[“기업에서 보안을 강화하기 위해서는 워크 플레이스를 어떤 관점에서 구성해야 할지 고민해야 하고, 재택근무의 효율성과 함께 모여서 근무해야 할 때의 효율성을 명확하...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20220621FASOO-SM.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[KAIST 등 4대 과기특성화대학, 국가정보원과 연구보안교육 협의체 발족]]></title>
@@ -166,6 +158,14 @@
             <pubDate>Fri, 24 Jun 2022 06:21:07 GMT</pubDate>
             <content:encoded><![CDATA[깃허브(GitHub)가 최근 체제를 바꾸기로 했다. 모든 리포지터리에 다중인증을 기본으로 적용하기로 발표한 것이다. 소프트웨어 생태계에서 깃허브가 갖는 무게감은 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/18444678_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Weekly Security Premium Report 제56호 발간! 인터넷 익스플로러 지원종료 이슈진단]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107739&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107739&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
+            <pubDate>Fri, 24 Jun 2022 09:16:42 GMT</pubDate>
+            <content:encoded><![CDATA[6월 23일 발간된 ‘Weekly Security Premium Report’ 제56호에는 &lt;보안 심층 리포트&gt; 코너에서 마이크로소프트가 지난 6월 1...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20220623report-sm.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
