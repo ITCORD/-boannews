@@ -4,17 +4,9 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 24 Jun 2022 05:24:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jun 2022 06:24:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[인터넷 익스플로러 공식 지원 종료, 하지만 정말 무덤에 묻힌 것일까?]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107588&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107588&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Sat, 18 Jun 2022 03:21:07 GMT</pubDate>
-            <content:encoded><![CDATA[마이크로소프트가 공식적으로 인터넷 익스플로러의 지원을 종료했다. 이로써 27년에 처음 탄생해 짧지 않은 기간 브라우저 시장의 왕좌에서 군림했던 애플리케이션 하나가...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/21551114_copy_295x190_1.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[고급 스파이웨어 허밋, 만듦새와 기능에서 뛰어난 전문가 손길 느껴져]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107593&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
@@ -166,6 +158,14 @@
             <pubDate>Fri, 24 Jun 2022 05:21:30 GMT</pubDate>
             <content:encoded><![CDATA[직원 동의를 받지 않고 사업장에 CCTV를 설치한 사업자 제이카에게 과태료 500만원이 부과됐다. 개인정보보호위원회(위원장 윤종인, 이하 ‘개인정보위’)는 6월 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20751830_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[과감한 다중인증 결정을 내린 깃허브에 박수를 보낸다]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107737&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107737&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Fri, 24 Jun 2022 06:21:07 GMT</pubDate>
+            <content:encoded><![CDATA[깃허브(GitHub)가 최근 체제를 바꾸기로 했다. 모든 리포지터리에 다중인증을 기본으로 적용하기로 발표한 것이다. 소프트웨어 생태계에서 깃허브가 갖는 무게감은 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/18444678_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
