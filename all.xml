@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Jun 2022 13:26:33 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Jun 2022 14:16:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -256,14 +256,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20344422_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[NSO그룹, “최소 5개 유럽 국가에서 페가수스 구매했다” (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107769&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107769&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Fri, 24 Jun 2022 23:16:08 GMT</pubDate>
-            <content:encoded><![CDATA[보안 외신 해커뉴스에 의하면 이스라엘의 스파이웨어 개발사 NSO그룹(NSO Group)이 최소 5개의 유럽 국가에서 페가수스(Pegasus)를 구매했다는 사실을 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/21630898_copy_295x190_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[차세대 보안리더 양성 프로그램 ‘BoB’ 11기 발대식 개최 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107772&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107772&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
@@ -278,6 +270,14 @@
             <pubDate>Sat, 25 Jun 2022 04:27:30 GMT</pubDate>
             <content:encoded><![CDATA[6월 셋째 주에는 지난 주 1위를 차지했던 뱅킹 악성코드 ‘이모텟(Emotet)’를 밀어내고 정보탈취 목적의 인포스틸러 악성코드 AgentTesla, Formbo...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20220624malware-s.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[NSO그룹, “최소 5개 유럽 국가에서 페가수스 구매했다” (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107769&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107769&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Fri, 24 Jun 2022 23:16:08 GMT</pubDate>
+            <content:encoded><![CDATA[보안 외신 해커뉴스에 의하면 이스라엘의 스파이웨어 개발사 NSO그룹(NSO Group)이 최소 5개의 유럽 국가에서 페가수스(Pegasus)를 구매했다는 사실을 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/21630898_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[IT 인재를 채용할 때 봐야할 중요한 특성 중 하나, 호기심 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
