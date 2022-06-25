@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Jun 2022 17:18:09 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Jun 2022 18:23:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,20 +16,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/21628397_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[차세대 보안리더 양성 프로그램 ‘BoB’ 11기 발대식 개최]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107772&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107772&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
-            <pubDate>Sat, 25 Jun 2022 03:31:43 GMT</pubDate>
-            <content:encoded><![CDATA[과학기술정보통신부(장관 이종호)가 주최하고 한국정보기술연구원(원장 유준상, 이하 KITRI)이 주관하는 차세대 보안리더 양성 프로그램 Best of the Bes...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/bob_062401_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[6월 셋째 주, 다시 정상으로 복귀한 인포스틸러 악성코드... AgentTesla 1위]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107777&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107777&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Sat, 25 Jun 2022 04:27:30 GMT</pubDate>
             <content:encoded><![CDATA[6월 셋째 주에는 지난 주 1위를 차지했던 뱅킹 악성코드 ‘이모텟(Emotet)’를 밀어내고 정보탈취 목적의 인포스틸러 악성코드 AgentTesla, Formbo...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20220624malware-s.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[차세대 보안리더 양성 프로그램 ‘BoB’ 11기 발대식 개최]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107772&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107772&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
+            <pubDate>Sat, 25 Jun 2022 03:31:43 GMT</pubDate>
+            <content:encoded><![CDATA[과학기술정보통신부(장관 이종호)가 주최하고 한국정보기술연구원(원장 유준상, 이하 KITRI)이 주관하는 차세대 보안리더 양성 프로그램 Best of the Bes...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/bob_062401_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[CISA, “로그4셸 취약점, 여전히 VM웨어 서버 공략에 활용돼”]]></title>
