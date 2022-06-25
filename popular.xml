@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Jun 2022 18:23:38 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Jun 2022 19:15:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -128,20 +128,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/21397254_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[러시아의 APT28도 폴리나 취약점 익스플로잇 하기 시작]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107735&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107735&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Fri, 24 Jun 2022 01:23:26 GMT</pubDate>
-            <content:encoded><![CDATA[악명이 자자한 러시아의 APT 단체인 APT28이 MS 윈도에서 최근 발견됐다가 패치된 폴리나(Follina) 취약점을 익스플로잇 하기 시작했다. 보안 업체 멀웨...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/22054732_copy_295x190_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[과감한 다중인증 결정을 내린 깃허브에 박수를 보낸다]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107737&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107737&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Fri, 24 Jun 2022 06:21:07 GMT</pubDate>
             <content:encoded><![CDATA[깃허브(GitHub)가 최근 체제를 바꾸기로 했다. 모든 리포지터리에 다중인증을 기본으로 적용하기로 발표한 것이다. 소프트웨어 생태계에서 깃허브가 갖는 무게감은 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/18444678_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[러시아의 APT28도 폴리나 취약점 익스플로잇 하기 시작]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107735&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107735&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Fri, 24 Jun 2022 01:23:26 GMT</pubDate>
+            <content:encoded><![CDATA[악명이 자자한 러시아의 APT 단체인 APT28이 MS 윈도에서 최근 발견됐다가 패치된 폴리나(Follina) 취약점을 익스플로잇 하기 시작했다. 보안 업체 멀웨...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/22054732_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[파수 조규곤 대표,  “제로트러스트 관점에서 보안 디자인 다시해야”]]></title>
