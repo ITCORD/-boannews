@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-06-25T10:20:15.385Z</updated>
+    <updated>2022-06-25T11:17:11.210Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[에스케어, 디지서트와 국내 파트너 계약]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107779&amp;page=1&amp;mkind=1&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107779&amp;page=1&amp;mkind=1&amp;kind=3"/>
+        <updated>2022-06-25T11:14:34.832Z</updated>
+        <content type="html"><![CDATA[IT 보안 전문기업 에스케어가 글로벌 인증 기업 디지서트(DigiCert)와 국내 파트너 계약을 맺고 SSL 사업을 본격적으로 시작한다고 밝혔다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[6월 셋째 주, 다시 정상으로 복귀한 인포스틸러 악성코드... AgentTesla 1위]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107777&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107777&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-06-25T11:14:34.833Z</updated>
+        <content type="html"><![CDATA[6월 셋째 주에는 지난 주 1위를 차지했던 뱅킹 악성코드 ‘이모텟(Emotet)’를 밀어내고 정보탈취 목적의 인포스틸러 악성코드 AgentTesla, Formbook, Lokibot이 1~3위를 차지했다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[차세대 보안리더 양성 프로그램 ‘BoB’ 11기 발대식 개최]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=107772&amp;page=1&amp;mkind=1&amp;kind=3</id>
@@ -109,19 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=107739&amp;page=1&amp;mkind=1&amp;kind=3"/>
         <updated>2022-06-24T01:23:41.306Z</updated>
         <content type="html"><![CDATA[6월 23일 발간된 ‘Weekly Security Premium Report’ 제56호에는 &lt;보안 심층 리포트&gt; 코너에서 마이크로소프트가 지난 6월 15일자로 인터넷 익스플로러(IE) 11에 대한 공식지원을 종료함에 따라 발생할 수 있는 이슈를 진단했다. I...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KISIA, ‘민·관합동 랜섬웨어 대응 협의체’ 4차 회의 개최]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107738&amp;page=1&amp;mkind=1&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107738&amp;page=1&amp;mkind=1&amp;kind=3"/>
-        <updated>2022-06-23T09:16:40.871Z</updated>
-        <content type="html"><![CDATA[한국정보보호산업협회(회장 이동범, 이하 ‘KISIA’)는 상대적으로 보안에 취약한 중소기업의 사이버침해 사고 예방을 위해 ‘민·관합동 랜섬웨어 대응 협의체(이하 협의체)’ 4차 회의를 6월 23일(목) 개최했다고 밝혔다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[과감한 다중인증 결정을 내린 깃허브에 박수를 보낸다]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107737&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107737&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-06-23T09:16:40.872Z</updated>
-        <content type="html"><![CDATA[깃허브(GitHub)가 최근 체제를 바꾸기로 했다. 모든 리포지터리에 다중인증을 기본으로 적용하기로 발표한 것이다. 소프트웨어 생태계에서 깃허브가 갖는 무게감은 실로 막중하다. 그런 곳에서 자신의 입지를 알고 앞장서서 긍정적인 변화를 꾀한다는 것에 박수를 보내고 싶다.]]></content>
     </entry>
 </feed>

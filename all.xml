@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Jun 2022 10:20:15 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Jun 2022 11:17:11 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[주말판] 투자를 두렵게 만드는 사이버 보안 기업의 7가지 경고 신호 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107793&amp;page=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107793&amp;page=1&amp;kind=3</guid>
+            <pubDate>Sat, 25 Jun 2022 11:13:56 GMT</pubDate>
+            <content:encoded><![CDATA[투자 회사들과 벤처 캐피탈 회사들의 동향을 살피면 어떤 기업이 최근 주목을 받고 있으며, 어떤 회사가 유니콘이라 불리게 될지를 감 잡을 수 있다. 사이버 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/inv-thumb-0625.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[매그니베르 랜섬웨어, 타이포스쿼팅 방식 통해 또 다시 유포 중 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107794&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107794&amp;page=1&amp;kind=1</guid>
+            <pubDate>Sat, 25 Jun 2022 11:13:56 GMT</pubDate>
+            <content:encoded><![CDATA[한국에서 집중적으로 유포됐던 ‘매그니베르 랜섬웨어’가 최근 타이포스쿼팅&nbsp;방식을&nbsp;이용해 또 다시 유포되고&nbsp;있어&nbsp;사용자들의...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/21910959_main.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[6월 셋째 주, 다시 정상으로 복귀한 인포스틸러 악성코드... AgentTesla 1위 (보안뉴스 ─ 전체기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107777&amp;page=1&amp;kind=1</link>
@@ -70,22 +86,6 @@
             <pubDate>Fri, 24 Jun 2022 01:23:15 GMT</pubDate>
             <content:encoded><![CDATA[사이버 리질리언스란 무엇일까? 각종 사이버 위협을 예상하고, 대비하고, 대응하고, 피해로부터 빠르게 복구할 수 있는 능력을 말한다. 이상적으로 봤을 때 사...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/cyber-thumb-0624.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[보이스피싱 근절 위해 신고·대응 일원화 및 합동수사단 설치 추진한다 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107746&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107746&amp;page=1&amp;kind=2</guid>
-            <pubDate>Fri, 24 Jun 2022 01:23:15 GMT</pubDate>
-            <content:encoded><![CDATA[국무조정실은 지난 21일 보이스피싱 등 사이버범죄 대응 범부처 대책회의를 개최했다. 보이스피싱 범죄는 2006년 첫 피해 사례가 신고된 이후 지난 16년간...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20220624voice-s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[외교부, ‘2022 세계신안보포럼’ 개최... 사이버보안 이슈 등 논의 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107745&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107745&amp;page=1&amp;kind=2</guid>
-            <pubDate>Fri, 24 Jun 2022 01:23:15 GMT</pubDate>
-            <content:encoded><![CDATA[외교부가 ‘신흥안보 위협의 과거와 현재, 그리고 미래–신뢰에 기반한 국제협력으로의 길’을 주제로 개최한 ‘2022 세계신안보포럼’이 지난 21~...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/6-231(295).jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[환경부, ‘2022년 환경데이터 활용 아이디어 공모전’ 수상작 공개 (보안뉴스 ─ 전체기사)]]></title>
@@ -240,20 +240,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/6-246(295).jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[CISA, “로그4셸 취약점, 여전히 VM웨어 서버 공략에 활용돼” (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107768&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107768&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Fri, 24 Jun 2022 22:15:43 GMT</pubDate>
-            <content:encoded><![CDATA[미국의 사이버 보안 전담 기관인 CISA가 다시 한 번 로그4셸(Log4Shell) 취약점에 대한 경고문을 발표했다고 IT 외신 블리핑컴퓨터가 보도했다. 경고문에...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20344422_copy_295x190_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[구글, “애플과 안드로이드 모바일, 이탈리아 스파이웨어의 표적” (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107771&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107771&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Fri, 24 Jun 2022 22:15:43 GMT</pubDate>
             <content:encoded><![CDATA[AFP 통신은 구글의 발표문을 인용하여 “애플의 아이폰과 안드로이드 기반 스마트폰들이 염탐의 대상이 되고 있다”고 보도했다. 특히 이탈리아와 카자흐스탄의 스마트폰...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/21628397_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[CISA, “로그4셸 취약점, 여전히 VM웨어 서버 공략에 활용돼” (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107768&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107768&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Fri, 24 Jun 2022 22:15:43 GMT</pubDate>
+            <content:encoded><![CDATA[미국의 사이버 보안 전담 기관인 CISA가 다시 한 번 로그4셸(Log4Shell) 취약점에 대한 경고문을 발표했다고 IT 외신 블리핑컴퓨터가 보도했다. 경고문에...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20344422_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[NSO그룹, “최소 5개 유럽 국가에서 페가수스 구매했다” (보안뉴스 ─ 가장 많이 본 기사)]]></title>
@@ -280,6 +280,14 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/21795917_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[차세대 보안리더 양성 프로그램 ‘BoB’ 11기 발대식 개최 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107772&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107772&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
+            <pubDate>Sat, 25 Jun 2022 03:31:43 GMT</pubDate>
+            <content:encoded><![CDATA[과학기술정보통신부(장관 이종호)가 주최하고 한국정보기술연구원(원장 유준상, 이하 KITRI)이 주관하는 차세대 보안리더 양성 프로그램 Best of the Bes...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/bob_062401_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[보안 레시피-1] ‘보안의 기본’ 안티 멀웨어 활용법 바로 알기 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107624&amp;page=1&amp;kind=5&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107624&amp;page=1&amp;kind=5&amp;search=title&amp;find=</guid>
@@ -288,12 +296,12 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/21607997_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[차세대 보안리더 양성 프로그램 ‘BoB’ 11기 발대식 개최 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107772&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107772&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
-            <pubDate>Sat, 25 Jun 2022 03:31:43 GMT</pubDate>
-            <content:encoded><![CDATA[과학기술정보통신부(장관 이종호)가 주최하고 한국정보기술연구원(원장 유준상, 이하 KITRI)이 주관하는 차세대 보안리더 양성 프로그램 Best of the Bes...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/bob_062401_main.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[6월 셋째 주, 다시 정상으로 복귀한 인포스틸러 악성코드... AgentTesla 1위 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107777&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107777&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Sat, 25 Jun 2022 04:27:30 GMT</pubDate>
+            <content:encoded><![CDATA[6월 셋째 주에는 지난 주 1위를 차지했던 뱅킹 악성코드 ‘이모텟(Emotet)’를 밀어내고 정보탈취 목적의 인포스틸러 악성코드 AgentTesla, Formbo...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20220624malware-s.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[1억 명 피해자 낳은 캐피탈원 침해 사고, 클라우드 보안 인식 바꿔 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
@@ -310,14 +318,6 @@
             <pubDate>Tue, 21 Jun 2022 03:33:42 GMT</pubDate>
             <content:encoded><![CDATA[엘리트 창업교육은 창업교육의 성과를 풍성하게 하고 완성도를 높이는 데 큰 도움이 될 수 있다. 대학의 창업교육은 창업생태계 발전을 위해 많은 역할을 하고 있다. ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20220620start-s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[6월 셋째 주, 다시 정상으로 복귀한 인포스틸러 악성코드... AgentTesla 1위 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107777&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107777&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Sat, 25 Jun 2022 04:27:30 GMT</pubDate>
-            <content:encoded><![CDATA[6월 셋째 주에는 지난 주 1위를 차지했던 뱅킹 악성코드 ‘이모텟(Emotet)’를 밀어내고 정보탈취 목적의 인포스틸러 악성코드 AgentTesla, Formbo...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20220624malware-s.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[컨플루언스 서버에서 발견된 제로데이 취약점, 패치 나왔지만 공격 여전히 활발 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
@@ -398,6 +398,20 @@
             <pubDate>Sat, 25 Jun 2022 06:19:53 GMT</pubDate>
             <content:encoded><![CDATA[국내 유일의 정보보호 전문기관인 한국인터넷진흥원(KISA)이 2021년 공공기관 경영실적 평가에서 양호를 의미하는 B등급을 달성했다. KISA는 2017년부터 2...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20727826_MAIN.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[에스케어, 디지서트와 국내 파트너 계약 (보안뉴스 ─ SECURITY)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107779&amp;page=1&amp;mkind=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107779&amp;page=1&amp;mkind=1&amp;kind=3</guid>
+            <pubDate>Sat, 25 Jun 2022 11:14:34 GMT</pubDate>
+            <content:encoded><![CDATA[IT 보안 전문기업 에스케어가 글로벌 인증 기업 디지서트(DigiCert)와 국내 파트너 계약을 맺고 SSL 사업을 본격적으로 시작한다고 밝혔다.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[6월 셋째 주, 다시 정상으로 복귀한 인포스틸러 악성코드... AgentTesla 1위 (보안뉴스 ─ SECURITY)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107777&amp;page=1&amp;mkind=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107777&amp;page=1&amp;mkind=1&amp;kind=1</guid>
+            <pubDate>Sat, 25 Jun 2022 11:14:34 GMT</pubDate>
+            <content:encoded><![CDATA[6월 셋째 주에는 지난 주 1위를 차지했던 뱅킹 악성코드 ‘이모텟(Emotet)’를 밀어내고 정보탈취 목적의 인포스틸러 악성코드 AgentTesla, Formbook, Lokibot이 1~3위를 차지했다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[차세대 보안리더 양성 프로그램 ‘BoB’ 11기 발대식 개최 (보안뉴스 ─ SECURITY)]]></title>
@@ -503,20 +517,6 @@
             <guid>https://www.boannews.com/media/view.asp?idx=107739&amp;page=1&amp;mkind=1&amp;kind=3</guid>
             <pubDate>Fri, 24 Jun 2022 01:23:41 GMT</pubDate>
             <content:encoded><![CDATA[6월 23일 발간된 ‘Weekly Security Premium Report’ 제56호에는 &lt;보안 심층 리포트&gt; 코너에서 마이크로소프트가 지난 6월 15일자로 인터넷 익스플로러(IE) 11에 대한 공식지원을 종료함에 따라 발생할 수 있는 이슈를 진단했다. I...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[KISIA, ‘민·관합동 랜섬웨어 대응 협의체’ 4차 회의 개최 (보안뉴스 ─ SECURITY)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107738&amp;page=1&amp;mkind=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107738&amp;page=1&amp;mkind=1&amp;kind=3</guid>
-            <pubDate>Thu, 23 Jun 2022 09:16:40 GMT</pubDate>
-            <content:encoded><![CDATA[한국정보보호산업협회(회장 이동범, 이하 ‘KISIA’)는 상대적으로 보안에 취약한 중소기업의 사이버침해 사고 예방을 위해 ‘민·관합동 랜섬웨어 대응 협의체(이하 협의체)’ 4차 회의를 6월 23일(목) 개최했다고 밝혔다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[과감한 다중인증 결정을 내린 깃허브에 박수를 보낸다 (보안뉴스 ─ SECURITY)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107737&amp;page=1&amp;mkind=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107737&amp;page=1&amp;mkind=1&amp;kind=1</guid>
-            <pubDate>Thu, 23 Jun 2022 09:16:40 GMT</pubDate>
-            <content:encoded><![CDATA[깃허브(GitHub)가 최근 체제를 바꾸기로 했다. 모든 리포지터리에 다중인증을 기본으로 적용하기로 발표한 것이다. 소프트웨어 생태계에서 깃허브가 갖는 무게감은 실로 막중하다. 그런 곳에서 자신의 입지를 알고 앞장서서 긍정적인 변화를 꾀한다는 것에 박수를 보내고 싶다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[부산시, 비전공자 정보통신기술 인력 양성 오픈캠퍼스 교육생 모집 (보안뉴스 ─ IT)]]></title>
@@ -1893,6 +1893,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/seoul_060301_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[주말판] 투자를 두렵게 만드는 사이버 보안 기업의 7가지 경고 신호 (보안뉴스 ─ 국제)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107793&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=D&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107793&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=D&amp;search=title&amp;find=</guid>
+            <pubDate>Sat, 25 Jun 2022 11:16:24 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/view.asp?idx=107793&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=D&amp;search=title&amp;find=">
+					
+					<img src="/media/upFiles2/2022/06/inv-thumb-0625.jpg" alt="" class="news_img" height="70">
+					
+					<span class="news_txt">[주말판] 투자를 두렵게 만드는 사이버 보안 기업의 7가지 경고 신호 </span>
+					</a><br>
+					<a href="/media/view.asp?idx=107793&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=D&amp;search=title&amp;find=">투자 회사들과 벤처 캐피탈 회사들의 동향을 살피면 어떤 기업이 최근 주목을 받고 있으며, 어떤 회사가 유니콘이라 불리게 될지를 감 잡을 수 있다. 사이버 보안 분...</a> <span class="news_writer">문가용 기자 | 2022년 06월 25일 19:33</span>]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/inv-thumb-0625.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[구글, “애플과 안드로이드 모바일, 이탈리아 스파이웨어의 표적” (보안뉴스 ─ 국제)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107771&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107771&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
@@ -2157,20 +2171,6 @@
 					</a><br>
 					<a href="/media/view.asp?idx=107693&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">미국의 은행인 플래그스타(Flagstar)에서 데이터 유출 사고가 발생했다고 보안 외신 시큐리티위크가 보도했다. 이 사건으로 150만 명 이상의 개인정보가 해커들...</a> <span class="news_writer">문가용 기자 | 2022년 06월 22일 11:35</span>]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/17187965_copy_295x190_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[새로운 해킹 그룹 토디캣, MS 익스체인지 서버 노려 (보안뉴스 ─ 국제)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107692&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107692&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
-            <pubDate>Wed, 22 Jun 2022 03:38:49 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/view.asp?idx=107692&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
-					
-					<img src="/media/upFiles2/2022/06/20941229_copy_295x190_1.jpg" alt="" class="news_img" height="70">
-					
-					<span class="news_txt">새로운 해킹 그룹 토디캣, MS 익스체인지 서버 노려</span>
-					</a><br>
-					<a href="/media/view.asp?idx=107692&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">보안 외신 해커뉴스에 의하면 새로운 해킹 그룹이 발견됐다고 한다. 이름은 토디캣(ToddyCat)이라고 하며 MS 익스체인지 서버를 최근 공격하다가 발각된 것으로...</a> <span class="news_writer">문가용 기자 | 2022년 06월 22일 11:33</span>]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20941229_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[보안 레시피-1] ‘보안의 기본’ 안티 멀웨어 활용법 바로 알기 (보안뉴스 ─ 기획특집)]]></title>
