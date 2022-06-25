@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Jun 2022 12:29:48 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Jun 2022 13:26:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -32,14 +32,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/21630898_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[IT 인재를 채용할 때 봐야할 중요한 특성 중 하나, 호기심]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107608&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107608&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
-            <pubDate>Tue, 21 Jun 2022 03:33:42 GMT</pubDate>
-            <content:encoded><![CDATA[채용을 앞둔 IT 담당자들에게는 후보자를 고르는 기준이 몇 가지 있는 듯하다. 정식 교육 과정을 어디까지 이수했는지, 어떤 자격증을 가지고 있는지, 어떤 근무 경...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20196328_copy_295x190_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[차세대 보안리더 양성 프로그램 ‘BoB’ 11기 발대식 개최]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107772&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107772&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
@@ -48,20 +40,28 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/bob_062401_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[큐냅의 NAS 장비 노리는 랜섬웨어 캠페인, 동시에 두 개 발견돼]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107623&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107623&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Tue, 21 Jun 2022 01:24:26 GMT</pubDate>
-            <content:encoded><![CDATA[큐냅(QNAP)사의 NAS 장비들을 겨냥한 랜섬웨어 캠페인이 다시 시작됐다. 이번에 등장한 랜섬웨어는 데드볼트(DeadBolt)로, 이전부터 각종 NAS 장비들을...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/21795917_copy_295x190_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[6월 셋째 주, 다시 정상으로 복귀한 인포스틸러 악성코드... AgentTesla 1위]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107777&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107777&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Sat, 25 Jun 2022 04:27:30 GMT</pubDate>
             <content:encoded><![CDATA[6월 셋째 주에는 지난 주 1위를 차지했던 뱅킹 악성코드 ‘이모텟(Emotet)’를 밀어내고 정보탈취 목적의 인포스틸러 악성코드 AgentTesla, Formbo...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20220624malware-s.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[IT 인재를 채용할 때 봐야할 중요한 특성 중 하나, 호기심]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107608&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107608&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
+            <pubDate>Tue, 21 Jun 2022 03:33:42 GMT</pubDate>
+            <content:encoded><![CDATA[채용을 앞둔 IT 담당자들에게는 후보자를 고르는 기준이 몇 가지 있는 듯하다. 정식 교육 과정을 어디까지 이수했는지, 어떤 자격증을 가지고 있는지, 어떤 근무 경...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20196328_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[큐냅의 NAS 장비 노리는 랜섬웨어 캠페인, 동시에 두 개 발견돼]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107623&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107623&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Tue, 21 Jun 2022 01:24:26 GMT</pubDate>
+            <content:encoded><![CDATA[큐냅(QNAP)사의 NAS 장비들을 겨냥한 랜섬웨어 캠페인이 다시 시작됐다. 이번에 등장한 랜섬웨어는 데드볼트(DeadBolt)로, 이전부터 각종 NAS 장비들을...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/21795917_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[보안 레시피-1] ‘보안의 기본’ 안티 멀웨어 활용법 바로 알기]]></title>
