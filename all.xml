@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 25 Jun 2022 01:28:57 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Jun 2022 03:34:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -312,22 +312,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/ciso_062102_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[정보보호 공시제도 의무화 D-7... 602개 대상 중 참여기업 아직 50% 못 미쳐 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107736&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107736&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
-            <pubDate>Fri, 24 Jun 2022 03:42:02 GMT</pubDate>
-            <content:encoded><![CDATA[정보보호 공시제도 의무화로 오는 6월 30일까지 반드시 정보보호 공시를 해야 하는 기업은 총 602개이지만, KISA 정보보호 공시 종합 포털에 등록된 기업은 2...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/kisa_062301_main(0).jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[중국의 APT 그룹, 10년 동안 들키지 않고 활동해 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107657&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107657&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Wed, 22 Jun 2022 01:42:10 GMT</pubDate>
-            <content:encoded><![CDATA[보안 외신 쓰레트포스트가 최근 새롭게 발견된 중국 APT 단체에 대해 보도했다. 문제는 이 단체가 최근에 발견됐지만 2013년부터 활동해왔다는 것이다. 보안 업체...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/21397254_copy_295x190_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[CISA, “로그4셸 취약점, 여전히 VM웨어 서버 공략에 활용돼” (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107768&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107768&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
@@ -344,12 +328,28 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/21628397_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[정보보호 공시제도 의무화 D-7... 602개 대상 중 참여기업 아직 50% 못 미쳐 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107736&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107736&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
+            <pubDate>Fri, 24 Jun 2022 03:42:02 GMT</pubDate>
+            <content:encoded><![CDATA[정보보호 공시제도 의무화로 오는 6월 30일까지 반드시 정보보호 공시를 해야 하는 기업은 총 602개이지만, KISA 정보보호 공시 종합 포털에 등록된 기업은 2...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/kisa_062301_main(0).jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[NSO그룹, “최소 5개 유럽 국가에서 페가수스 구매했다” (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107769&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107769&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Fri, 24 Jun 2022 23:16:08 GMT</pubDate>
             <content:encoded><![CDATA[보안 외신 해커뉴스에 의하면 이스라엘의 스파이웨어 개발사 NSO그룹(NSO Group)이 최소 5개의 유럽 국가에서 페가수스(Pegasus)를 구매했다는 사실을 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/21630898_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[중국의 APT 그룹, 10년 동안 들키지 않고 활동해 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107657&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107657&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Wed, 22 Jun 2022 01:42:10 GMT</pubDate>
+            <content:encoded><![CDATA[보안 외신 쓰레트포스트가 최근 새롭게 발견된 중국 APT 단체에 대해 보도했다. 문제는 이 단체가 최근에 발견됐지만 2013년부터 활동해왔다는 것이다. 보안 업체...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/21397254_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[러시아의 APT28도 폴리나 취약점 익스플로잇 하기 시작 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
@@ -376,20 +376,12 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20220622kaist-s.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
-            <title><![CDATA[2021년 공공기관 경영실적 평가 결과... 보안전문기관 KISA, 한 단계 ‘상승’ (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107627&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107627&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
-            <pubDate>Thu, 23 Jun 2022 06:20:43 GMT</pubDate>
-            <content:encoded><![CDATA[국내 유일의 정보보호 전문기관인 한국인터넷진흥원(KISA)이 2021년 공공기관 경영실적 평가에서 양호를 의미하는 B등급을 달성했다. KISA는 2017년부터 2...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20727826_MAIN.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022년 핵심산업 클라우드 플래그십 프로젝트 스타트! 52개 SaaS 개발 지원 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107610&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107610&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
-            <pubDate>Thu, 23 Jun 2022 09:16:29 GMT</pubDate>
-            <content:encoded><![CDATA[클라우드 인프라 기업과 서비스 기업의 연계를 통해 국내 클라우드 서비스의 개발 및 확산을 지원하는 대중소 기업 협력형 사업인 ‘핵심산업 클라우드 플래그십 프로젝트...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20220619cloudm-s.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[차세대 보안리더 양성 프로그램 ‘BoB’ 11기 발대식 개최 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107772&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107772&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
+            <pubDate>Sat, 25 Jun 2022 03:31:43 GMT</pubDate>
+            <content:encoded><![CDATA[과학기술정보통신부(장관 이종호)가 주최하고 한국정보기술연구원(원장 유준상, 이하 KITRI)이 주관하는 차세대 보안리더 양성 프로그램 Best of the Bes...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/bob_062401_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[과감한 다중인증 결정을 내린 깃허브에 박수를 보낸다 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
@@ -398,6 +390,14 @@
             <pubDate>Fri, 24 Jun 2022 06:21:07 GMT</pubDate>
             <content:encoded><![CDATA[깃허브(GitHub)가 최근 체제를 바꾸기로 했다. 모든 리포지터리에 다중인증을 기본으로 적용하기로 발표한 것이다. 소프트웨어 생태계에서 깃허브가 갖는 무게감은 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/18444678_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2021년 공공기관 경영실적 평가 결과... 보안전문기관 KISA, 한 단계 ‘상승’ (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107627&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107627&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
+            <pubDate>Thu, 23 Jun 2022 06:20:43 GMT</pubDate>
+            <content:encoded><![CDATA[국내 유일의 정보보호 전문기관인 한국인터넷진흥원(KISA)이 2021년 공공기관 경영실적 평가에서 양호를 의미하는 B등급을 달성했다. KISA는 2017년부터 2...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20727826_MAIN.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[차세대 보안리더 양성 프로그램 ‘BoB’ 11기 발대식 개최 (보안뉴스 ─ SECURITY)]]></title>
