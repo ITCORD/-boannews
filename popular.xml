@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Jun 2022 15:18:34 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Jun 2022 16:24:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -32,6 +32,14 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/bob_062401_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[매그니베르 랜섬웨어, 타이포스쿼팅 방식 통해 또 다시 유포 중]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107794&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107794&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Sun, 26 Jun 2022 06:20:41 GMT</pubDate>
+            <content:encoded><![CDATA[한국에서 집중적으로 유포됐던 ‘매그니베르 랜섬웨어’가 최근 타이포스쿼팅&nbsp;방식을&nbsp;이용해 또 다시 유포되고&nbsp;있어&nbsp;사용자들의...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/21910959_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[CISA, “로그4셸 취약점, 여전히 VM웨어 서버 공략에 활용돼”]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107768&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107768&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
@@ -46,14 +54,6 @@
             <pubDate>Fri, 24 Jun 2022 23:16:08 GMT</pubDate>
             <content:encoded><![CDATA[보안 외신 해커뉴스에 의하면 이스라엘의 스파이웨어 개발사 NSO그룹(NSO Group)이 최소 5개의 유럽 국가에서 페가수스(Pegasus)를 구매했다는 사실을 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/21630898_copy_295x190_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[매그니베르 랜섬웨어, 타이포스쿼팅 방식 통해 또 다시 유포 중]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107794&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107794&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Sun, 26 Jun 2022 06:20:41 GMT</pubDate>
-            <content:encoded><![CDATA[한국에서 집중적으로 유포됐던 ‘매그니베르 랜섬웨어’가 최근 타이포스쿼팅&nbsp;방식을&nbsp;이용해 또 다시 유포되고&nbsp;있어&nbsp;사용자들의...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/21910959_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[주말판] 투자를 두렵게 만드는 사이버 보안 기업의 7가지 경고 신호]]></title>

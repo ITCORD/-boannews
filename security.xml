@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-06-26T15:18:34.529Z</updated>
+    <updated>2022-06-26T16:24:42.677Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[주말판] 투자를 두렵게 만드는 사이버 보안 기업의 7가지 경고 신호]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107793&amp;page=1&amp;mkind=1&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107793&amp;page=1&amp;mkind=1&amp;kind=3"/>
+        <updated>2022-06-26T16:21:39.756Z</updated>
+        <content type="html"><![CDATA[투자 회사들과 벤처 캐피탈 회사들의 동향을 살피면 어떤 기업이 최근 주목을 받고 있으며, 어떤 회사가 유니콘이라 불리게 될지를 감 잡을 수 있다. 사이버 보안 분야에서도 이는 예외가 아니다. 하지만 모든 것이 정배로만 흘러가는 건 아니다. 누가 봐도 손에 들고 있는 카...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[매그니베르 랜섬웨어, 타이포스쿼팅 방식 통해 또 다시 유포 중]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107794&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107794&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-06-26T16:21:39.766Z</updated>
+        <content type="html"><![CDATA[한국에서 집중적으로 유포됐던 ‘매그니베르 랜섬웨어’가 최근 타이포스쿼팅&nbsp;방식을&nbsp;이용해 또 다시 유포되고&nbsp;있어&nbsp;사용자들의&nbsp;주의가&nbsp;요구된다. 이스트시큐리티&nbsp;시큐리티대응센터(이하&nbsp;ESRC)는 매그니베르 ...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[현대오토에버, 차량보안 전문가 김휘강 교수 초청 세미나 진행]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107788&amp;page=1&amp;mkind=1&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107788&amp;page=1&amp;mkind=1&amp;kind=3"/>
+        <updated>2022-06-26T16:21:39.767Z</updated>
+        <content type="html"><![CDATA[현대오토에버는 지난 22일 임직원 실무 역량 강화의 하나로 고려대 정보보호대학원 김휘강 교수를 초청해 ‘차량보안 미래 동향 세미나’를 진행했다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[에스케어, 디지서트와 국내 파트너 계약]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=107779&amp;page=1&amp;mkind=1&amp;kind=3</id>
@@ -102,26 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=107745&amp;page=1&amp;mkind=1&amp;kind=2"/>
         <updated>2022-06-24T01:23:41.301Z</updated>
         <content type="html"><![CDATA[외교부가 ‘신흥안보 위협의 과거와 현재, 그리고 미래–신뢰에 기반한 국제협력으로의 길’을 주제로 개최한 ‘2022 세계신안보포럼’이 지난 21~22일 이틀간의 모든 일정을 마무리하고 종료됐다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정보보호 공시제도 의무화 D-7... 602개 대상 중 참여기업 아직 50% 못 미쳐]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107736&amp;page=1&amp;mkind=1&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107736&amp;page=1&amp;mkind=1&amp;kind=2"/>
-        <updated>2022-06-24T01:23:41.303Z</updated>
-        <content type="html"><![CDATA[정보보호 공시제도 의무화로 오는 6월 30일까지 반드시 정보보호 공시를 해야 하는 기업은 총 602개이지만, KISA 정보보호 공시 종합 포털에 등록된 기업은 276개에 불과해 아직 326개의 기업이 참여하지 않은 것으로 확인됐다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사이벨리움, ‘글로벌 인포섹 어워드 2022’에서 3개 부문 수상]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107740&amp;page=1&amp;mkind=1&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107740&amp;page=1&amp;mkind=1&amp;kind=3"/>
-        <updated>2022-06-24T01:23:41.304Z</updated>
-        <content type="html"><![CDATA[융합보안 전문 기업 쿤텍은 자동차 사이버 보안 위험 평가 솔루션 기업 사이벨리움(Cybellum)이 지난 RSA 컨퍼런스 2022에서 개최된 제10회 ‘글로벌 인포섹 어워드(Global InfoSec Awards)’에서 IoT(사물인터넷) 사이버보안, 의료 IoT 보안...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Weekly Security Premium Report 제56호 발간! 인터넷 익스플로러 지원종료 이슈진단]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107739&amp;page=1&amp;mkind=1&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107739&amp;page=1&amp;mkind=1&amp;kind=3"/>
-        <updated>2022-06-24T01:23:41.306Z</updated>
-        <content type="html"><![CDATA[6월 23일 발간된 ‘Weekly Security Premium Report’ 제56호에는 &lt;보안 심층 리포트&gt; 코너에서 마이크로소프트가 지난 6월 15일자로 인터넷 익스플로러(IE) 11에 대한 공식지원을 종료함에 따라 발생할 수 있는 이슈를 진단했다. I...]]></content>
     </entry>
 </feed>

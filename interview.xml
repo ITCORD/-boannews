@@ -4,9 +4,23 @@
         <title>보안뉴스 ─ 인터뷰</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Jun 2022 15:18:34 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Jun 2022 16:24:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[글로벌 인터뷰] 로우코드 자동화로 SOAR 보안 구현 선언 ‘스윔레인’]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107795&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=3&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107795&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=3&amp;search=title&amp;find=</guid>
+            <pubDate>Sun, 26 Jun 2022 16:23:16 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/view.asp?idx=107795&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=3&amp;search=title&amp;find=">
+					
+					<img src="/media/upFiles2/2022/06/swim-thumb-0626.jpg" alt="" class="news_img" height="70">
+					
+					<span class="news_txt">[글로벌 인터뷰] 로우코드 자동화로 SOAR 보안 구현 선언 ‘스윔레인’</span>
+					</a><br>
+					<a href="/media/view.asp?idx=107795&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=3&amp;search=title&amp;find=">전 세계적인 인재난 부족 현상이 수년 째 이어지고 있는 가운데, IT 보안 분야에서는 공석들이 채워지지 않고 매년 늘어나고만 있다. 그래서 기업들은 비슷한 업무를...</a> <span class="news_writer">문가용 기자 | 2022년 06월 27일 00:34</span>]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/swim-thumb-0626.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[파수 조규곤 대표,  “제로트러스트 관점에서 보안 디자인 다시해야”]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107660&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=3&amp;search=title&amp;find=</link>
@@ -272,20 +286,6 @@
 					</a><br>
 					<a href="/media/view.asp?idx=104150&amp;page=1&amp;mkind=&amp;kind=6&amp;skind=3&amp;search=title&amp;find=">국내를 대표하는 정보보호 분야 학회인 한국정보보호학회가 지난 1월 14일 신년인사회 및 이·취임식을 열고 이옥연 국민대학교 교수를 제27대 회장으로 추대했다. 한...</a> <span class="news_writer">원병철 기자 | 2022년 01월 17일 16:25</span>]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/lee_011701_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[단독 인터뷰] 한국 심스와핑 의심 피해자 “유심 복사로 가상자산 털렸다”]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=104063&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=3&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=104063&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=3&amp;search=title&amp;find=</guid>
-            <pubDate>Wed, 12 Jan 2022 20:16:15 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/view.asp?idx=104063&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=3&amp;search=title&amp;find=">
-					
-					<img src="/media/upFiles2/2022/01/19695308_main.jpg" alt="" class="news_img" height="70">
-					
-					<span class="news_txt">[단독 인터뷰] 한국 심스와핑 의심 피해자 “유심 복사로 가상자산 털렸다”</span>
-					</a><br>
-					<a href="/media/view.asp?idx=104063&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=3&amp;search=title&amp;find=">새해 첫 주, &lt;보안뉴스&gt;에 전 세계적으로도 매우 드문 유형의 가상자산(암호화폐) 탈취 사건에 대한 제보가 접수됐다. 이른바 ‘심스와핑(SIM Swap...</a> <span class="news_writer">원병철 기자 | 2022년 01월 12일 17:49</span>]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/01/19695308_main.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
