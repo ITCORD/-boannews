@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Jun 2022 13:26:53 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Jun 2022 14:17:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,14 +48,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/21630898_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[IT 인재를 채용할 때 봐야할 중요한 특성 중 하나, 호기심]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107608&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107608&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
-            <pubDate>Tue, 21 Jun 2022 03:33:42 GMT</pubDate>
-            <content:encoded><![CDATA[채용을 앞둔 IT 담당자들에게는 후보자를 고르는 기준이 몇 가지 있는 듯하다. 정식 교육 과정을 어디까지 이수했는지, 어떤 자격증을 가지고 있는지, 어떤 근무 경...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20196328_copy_295x190_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[매그니베르 랜섬웨어, 타이포스쿼팅 방식 통해 또 다시 유포 중]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107794&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107794&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
@@ -72,20 +64,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/21795917_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[보안 레시피-1] ‘보안의 기본’ 안티 멀웨어 활용법 바로 알기]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107624&amp;page=1&amp;kind=5&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107624&amp;page=1&amp;kind=5&amp;search=title&amp;find=</guid>
-            <pubDate>Tue, 21 Jun 2022 03:33:42 GMT</pubDate>
-            <content:encoded><![CDATA[우리가 흔히 ‘PC 백신(Vaccine)’이라 부르는 ‘안티 멀웨어(Anti-Malware)’의 최초의 제품은 1971년 세계 최초의 PC 바이러스인 ‘크리퍼 바...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/21607997_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[주말판] 투자를 두렵게 만드는 사이버 보안 기업의 7가지 경고 신호]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107793&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107793&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
             <pubDate>Sun, 26 Jun 2022 07:15:08 GMT</pubDate>
             <content:encoded><![CDATA[투자 회사들과 벤처 캐피탈 회사들의 동향을 살피면 어떤 기업이 최근 주목을 받고 있으며, 어떤 회사가 유니콘이라 불리게 될지를 감 잡을 수 있다. 사이버 보안 분...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/inv-thumb-0625.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[보안 레시피-1] ‘보안의 기본’ 안티 멀웨어 활용법 바로 알기]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107624&amp;page=1&amp;kind=5&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107624&amp;page=1&amp;kind=5&amp;search=title&amp;find=</guid>
+            <pubDate>Tue, 21 Jun 2022 03:33:42 GMT</pubDate>
+            <content:encoded><![CDATA[우리가 흔히 ‘PC 백신(Vaccine)’이라 부르는 ‘안티 멀웨어(Anti-Malware)’의 최초의 제품은 1971년 세계 최초의 PC 바이러스인 ‘크리퍼 바...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/21607997_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[1억 명 피해자 낳은 캐피탈원 침해 사고, 클라우드 보안 인식 바꿔]]></title>
@@ -166,6 +158,14 @@
             <pubDate>Sun, 26 Jun 2022 10:17:10 GMT</pubDate>
             <content:encoded><![CDATA[IT 인재를 구하기가 힘들다는 우는 소리가 지속적으로 나올 정도로 현재 IT 기술을 가진 사람들은 구인 구직 시장에서 귀하신 몸들이다. 하지만 IT 전문가 입장에...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/cert-thumb-0621.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Weekly Security Premium Report 제56호 발간! 인터넷 익스플로러 지원종료 이슈진단]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107739&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107739&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
+            <pubDate>Sun, 26 Jun 2022 14:14:16 GMT</pubDate>
+            <content:encoded><![CDATA[6월 23일 발간된 ‘Weekly Security Premium Report’ 제56호에는 &lt;보안 심층 리포트&gt; 코너에서 마이크로소프트가 지난 6월 1...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20220623report-sm.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>
