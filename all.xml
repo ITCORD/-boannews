@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Jun 2022 17:18:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Jun 2022 18:22:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -273,20 +273,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/21910959_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[CISA, “로그4셸 취약점, 여전히 VM웨어 서버 공략에 활용돼” (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107768&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107768&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Fri, 24 Jun 2022 22:15:43 GMT</pubDate>
-            <content:encoded><![CDATA[미국의 사이버 보안 전담 기관인 CISA가 다시 한 번 로그4셸(Log4Shell) 취약점에 대한 경고문을 발표했다고 IT 외신 블리핑컴퓨터가 보도했다. 경고문에...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20344422_copy_295x190_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[주말판] 투자를 두렵게 만드는 사이버 보안 기업의 7가지 경고 신호 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107793&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107793&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
             <pubDate>Sun, 26 Jun 2022 07:15:08 GMT</pubDate>
             <content:encoded><![CDATA[투자 회사들과 벤처 캐피탈 회사들의 동향을 살피면 어떤 기업이 최근 주목을 받고 있으며, 어떤 회사가 유니콘이라 불리게 될지를 감 잡을 수 있다. 사이버 보안 분...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/inv-thumb-0625.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[CISA, “로그4셸 취약점, 여전히 VM웨어 서버 공략에 활용돼” (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107768&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107768&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Fri, 24 Jun 2022 22:15:43 GMT</pubDate>
+            <content:encoded><![CDATA[미국의 사이버 보안 전담 기관인 CISA가 다시 한 번 로그4셸(Log4Shell) 취약점에 대한 경고문을 발표했다고 IT 외신 블리핑컴퓨터가 보도했다. 경고문에...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20344422_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[NSO그룹, “최소 5개 유럽 국가에서 페가수스 구매했다” (보안뉴스 ─ 가장 많이 본 기사)]]></title>
