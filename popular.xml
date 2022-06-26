@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Jun 2022 11:16:27 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Jun 2022 12:30:20 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -64,6 +64,14 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/21795917_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[매그니베르 랜섬웨어, 타이포스쿼팅 방식 통해 또 다시 유포 중]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107794&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107794&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Sun, 26 Jun 2022 06:20:41 GMT</pubDate>
+            <content:encoded><![CDATA[한국에서 집중적으로 유포됐던 ‘매그니베르 랜섬웨어’가 최근 타이포스쿼팅&nbsp;방식을&nbsp;이용해 또 다시 유포되고&nbsp;있어&nbsp;사용자들의...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/21910959_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[보안 레시피-1] ‘보안의 기본’ 안티 멀웨어 활용법 바로 알기]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107624&amp;page=1&amp;kind=5&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107624&amp;page=1&amp;kind=5&amp;search=title&amp;find=</guid>
@@ -88,14 +96,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20220620start-s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[매그니베르 랜섬웨어, 타이포스쿼팅 방식 통해 또 다시 유포 중]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107794&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107794&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Sun, 26 Jun 2022 06:20:41 GMT</pubDate>
-            <content:encoded><![CDATA[한국에서 집중적으로 유포됐던 ‘매그니베르 랜섬웨어’가 최근 타이포스쿼팅&nbsp;방식을&nbsp;이용해 또 다시 유포되고&nbsp;있어&nbsp;사용자들의...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/21910959_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[주말판] 투자를 두렵게 만드는 사이버 보안 기업의 7가지 경고 신호]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107793&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107793&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
@@ -112,20 +112,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/kisa_062301_main(0).jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[컨플루언스 서버에서 발견된 제로데이 취약점, 패치 나왔지만 공격 여전히 활발]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107628&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107628&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Tue, 21 Jun 2022 09:26:14 GMT</pubDate>
-            <content:encoded><![CDATA[최근 아틀라시안(Atlassian)의 컨플루언스 서버(Confluence Server)에서 원격 코드 실행 취약점이 발견된 적이 있었다. 초고위험도로 분석됐던 그...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20375613_copy_295x190_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[VPN 대신 제로트러스트 접근 모델 선택하는 기업, 좀처럼 늘지 않아]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107701&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107701&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Thu, 23 Jun 2022 01:18:14 GMT</pubDate>
             <content:encoded><![CDATA[제로트러스트를 도입하려는 계획을 가진 기업들이 많다고 하지만 아직 원격 접근에 주로 사용되는 기술은 VPN이다. 최근 발표된 조사 결과에 의하면 약 90%의 조직...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/21815683_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[컨플루언스 서버에서 발견된 제로데이 취약점, 패치 나왔지만 공격 여전히 활발]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107628&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107628&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Tue, 21 Jun 2022 09:26:14 GMT</pubDate>
+            <content:encoded><![CDATA[최근 아틀라시안(Atlassian)의 컨플루언스 서버(Confluence Server)에서 원격 코드 실행 취약점이 발견된 적이 있었다. 초고위험도로 분석됐던 그...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20375613_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[119차 CISO포럼, “기업기밀 노린 내부자 및 해커 위협 급증, 최선의 대안은?”]]></title>
