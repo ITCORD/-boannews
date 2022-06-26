@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Jun 2022 07:17:58 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Jun 2022 08:21:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -88,20 +88,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20220620start-s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[컨플루언스 서버에서 발견된 제로데이 취약점, 패치 나왔지만 공격 여전히 활발]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107628&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107628&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Tue, 21 Jun 2022 09:26:14 GMT</pubDate>
-            <content:encoded><![CDATA[최근 아틀라시안(Atlassian)의 컨플루언스 서버(Confluence Server)에서 원격 코드 실행 취약점이 발견된 적이 있었다. 초고위험도로 분석됐던 그...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20375613_copy_295x190_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[정보보호 공시제도 의무화 D-7... 602개 대상 중 참여기업 아직 50% 못 미쳐]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107736&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107736&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
             <pubDate>Fri, 24 Jun 2022 03:42:02 GMT</pubDate>
             <content:encoded><![CDATA[정보보호 공시제도 의무화로 오는 6월 30일까지 반드시 정보보호 공시를 해야 하는 기업은 총 602개이지만, KISA 정보보호 공시 종합 포털에 등록된 기업은 2...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/kisa_062301_main(0).jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[컨플루언스 서버에서 발견된 제로데이 취약점, 패치 나왔지만 공격 여전히 활발]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107628&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107628&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Tue, 21 Jun 2022 09:26:14 GMT</pubDate>
+            <content:encoded><![CDATA[최근 아틀라시안(Atlassian)의 컨플루언스 서버(Confluence Server)에서 원격 코드 실행 취약점이 발견된 적이 있었다. 초고위험도로 분석됐던 그...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20375613_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[VPN 대신 제로트러스트 접근 모델 선택하는 기업, 좀처럼 늘지 않아]]></title>
@@ -112,14 +112,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/21815683_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[119차 CISO포럼, “기업기밀 노린 내부자 및 해커 위협 급증, 최선의 대안은?”]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107661&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107661&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
-            <pubDate>Wed, 22 Jun 2022 07:16:03 GMT</pubDate>
-            <content:encoded><![CDATA[지난 5월 삼성전자 자회사인 반도체 생산 장비 업체 세메스가 보유한 국가핵심기술이 중국으로 유출되고, 안마의자로 유명한 바디프랜드의 전 임원이 800억원을 들여 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/ciso_062102_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[매그니베르 랜섬웨어, 타이포스쿼팅 방식 통해 또 다시 유포 중]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107794&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107794&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
@@ -128,12 +120,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/21910959_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[중국의 APT 그룹, 10년 동안 들키지 않고 활동해]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107657&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107657&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Wed, 22 Jun 2022 01:42:10 GMT</pubDate>
-            <content:encoded><![CDATA[보안 외신 쓰레트포스트가 최근 새롭게 발견된 중국 APT 단체에 대해 보도했다. 문제는 이 단체가 최근에 발견됐지만 2013년부터 활동해왔다는 것이다. 보안 업체...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/21397254_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[119차 CISO포럼, “기업기밀 노린 내부자 및 해커 위협 급증, 최선의 대안은?”]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107661&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107661&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
+            <pubDate>Wed, 22 Jun 2022 07:16:03 GMT</pubDate>
+            <content:encoded><![CDATA[지난 5월 삼성전자 자회사인 반도체 생산 장비 업체 세메스가 보유한 국가핵심기술이 중국으로 유출되고, 안마의자로 유명한 바디프랜드의 전 임원이 800억원을 들여 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/ciso_062102_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[주말판] 투자를 두렵게 만드는 사이버 보안 기업의 7가지 경고 신호]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107793&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107793&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
+            <pubDate>Sun, 26 Jun 2022 07:15:08 GMT</pubDate>
+            <content:encoded><![CDATA[투자 회사들과 벤처 캐피탈 회사들의 동향을 살피면 어떤 기업이 최근 주목을 받고 있으며, 어떤 회사가 유니콘이라 불리게 될지를 감 잡을 수 있다. 사이버 보안 분...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/inv-thumb-0625.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[과감한 다중인증 결정을 내린 깃허브에 박수를 보낸다]]></title>
@@ -144,20 +144,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/18444678_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[중국의 APT 그룹, 10년 동안 들키지 않고 활동해]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107657&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107657&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Wed, 22 Jun 2022 01:42:10 GMT</pubDate>
+            <content:encoded><![CDATA[보안 외신 쓰레트포스트가 최근 새롭게 발견된 중국 APT 단체에 대해 보도했다. 문제는 이 단체가 최근에 발견됐지만 2013년부터 활동해왔다는 것이다. 보안 업체...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/21397254_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[러시아의 APT28도 폴리나 취약점 익스플로잇 하기 시작]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107735&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107735&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Fri, 24 Jun 2022 01:23:26 GMT</pubDate>
             <content:encoded><![CDATA[악명이 자자한 러시아의 APT 단체인 APT28이 MS 윈도에서 최근 발견됐다가 패치된 폴리나(Follina) 취약점을 익스플로잇 하기 시작했다. 보안 업체 멀웨...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/22054732_copy_295x190_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[주말판] 투자를 두렵게 만드는 사이버 보안 기업의 7가지 경고 신호]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107793&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107793&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
-            <pubDate>Sun, 26 Jun 2022 07:15:08 GMT</pubDate>
-            <content:encoded><![CDATA[투자 회사들과 벤처 캐피탈 회사들의 동향을 살피면 어떤 기업이 최근 주목을 받고 있으며, 어떤 회사가 유니콘이라 불리게 될지를 감 잡을 수 있다. 사이버 보안 분...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/inv-thumb-0625.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[파수 조규곤 대표,  “제로트러스트 관점에서 보안 디자인 다시해야”]]></title>
