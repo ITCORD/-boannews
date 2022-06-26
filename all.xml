@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 26 Jun 2022 16:24:42 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Jun 2022 17:18:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -281,20 +281,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20344422_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[NSO그룹, “최소 5개 유럽 국가에서 페가수스 구매했다” (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107769&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107769&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Fri, 24 Jun 2022 23:16:08 GMT</pubDate>
-            <content:encoded><![CDATA[보안 외신 해커뉴스에 의하면 이스라엘의 스파이웨어 개발사 NSO그룹(NSO Group)이 최소 5개의 유럽 국가에서 페가수스(Pegasus)를 구매했다는 사실을 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/21630898_copy_295x190_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[주말판] 투자를 두렵게 만드는 사이버 보안 기업의 7가지 경고 신호 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107793&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107793&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
             <pubDate>Sun, 26 Jun 2022 07:15:08 GMT</pubDate>
             <content:encoded><![CDATA[투자 회사들과 벤처 캐피탈 회사들의 동향을 살피면 어떤 기업이 최근 주목을 받고 있으며, 어떤 회사가 유니콘이라 불리게 될지를 감 잡을 수 있다. 사이버 보안 분...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/inv-thumb-0625.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NSO그룹, “최소 5개 유럽 국가에서 페가수스 구매했다” (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107769&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107769&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Fri, 24 Jun 2022 23:16:08 GMT</pubDate>
+            <content:encoded><![CDATA[보안 외신 해커뉴스에 의하면 이스라엘의 스파이웨어 개발사 NSO그룹(NSO Group)이 최소 5개의 유럽 국가에서 페가수스(Pegasus)를 구매했다는 사실을 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/21630898_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[큐냅의 NAS 장비 노리는 랜섬웨어 캠페인, 동시에 두 개 발견돼 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
