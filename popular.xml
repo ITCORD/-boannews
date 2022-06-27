@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Jun 2022 04:55:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jun 2022 05:30:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -62,14 +62,6 @@
             <pubDate>Fri, 24 Jun 2022 23:16:08 GMT</pubDate>
             <content:encoded><![CDATA[보안 외신 해커뉴스에 의하면 이스라엘의 스파이웨어 개발사 NSO그룹(NSO Group)이 최소 5개의 유럽 국가에서 페가수스(Pegasus)를 구매했다는 사실을 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/21630898_copy_295x190_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[큐냅의 NAS 장비 노리는 랜섬웨어 캠페인, 동시에 두 개 발견돼]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107623&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107623&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Tue, 21 Jun 2022 01:24:26 GMT</pubDate>
-            <content:encoded><![CDATA[큐냅(QNAP)사의 NAS 장비들을 겨냥한 랜섬웨어 캠페인이 다시 시작됐다. 이번에 등장한 랜섬웨어는 데드볼트(DeadBolt)로, 이전부터 각종 NAS 장비들을...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/21795917_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[보안 레시피-1] ‘보안의 기본’ 안티 멀웨어 활용법 바로 알기]]></title>
@@ -166,6 +158,14 @@
             <pubDate>Fri, 24 Jun 2022 01:23:26 GMT</pubDate>
             <content:encoded><![CDATA[악명이 자자한 러시아의 APT 단체인 APT28이 MS 윈도에서 최근 발견됐다가 패치된 폴리나(Follina) 취약점을 익스플로잇 하기 시작했다. 보안 업체 멀웨...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/22054732_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[파수 조규곤 대표,  “제로트러스트 관점에서 보안 디자인 다시해야”]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107660&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107660&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
+            <pubDate>Mon, 27 Jun 2022 05:27:49 GMT</pubDate>
+            <content:encoded><![CDATA[“기업에서 보안을 강화하기 위해서는 워크 플레이스를 어떤 관점에서 구성해야 할지 고민해야 하고, 재택근무의 효율성과 함께 모여서 근무해야 할 때의 효율성을 명확하...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20220621FASOO-SM.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
