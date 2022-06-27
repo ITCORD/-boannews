@@ -2,9 +2,58 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-06-27T01:47:23.586Z</updated>
+    <updated>2022-06-27T03:51:59.232Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[호라이즌 블록체인 서비스 공략한 해커들, 1억 달러 훔쳐가]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107807&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107807&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-06-27T03:49:34.300Z</updated>
+        <content type="html"><![CDATA[보안 외신 핵리드에 의하면 바이넌스체인, 이더리움, 비트코인을 연결시켜 주는 브리지 서비스인 호라이즌 브리지(Horizon Bridge)가 익스플로잇 공격에 당했다고 한다. 공격자는 약 1억 달러의 자금을 다양한 종류의 코인으로 훔치는 데 성공했다. 서비스의 운영사인 ...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[마이텔 제로데이 익스플로잇 하는 공격자들, 랜섬웨어 퍼트려]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107806&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107806&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-06-27T03:49:34.304Z</updated>
+        <content type="html"><![CDATA[얼마 전 마이텔(Mitel)의 사무용 VoIP 전화 장비에서 제로데이 취약점이 발견됐었다. 보안 외신 해커뉴스에 의하면 최근 일부 공격자들이 이 취약점을 익스플로잇 하기 시작했다고 하며, 그 궁극적인 목적은 랜섬웨어를 심는 것으로 보인다고 한다. 보안 업체 크라우드스트...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[블랙바스타 랜섬웨어, 두 달 만에 주요 위협으로 떠올라]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107805&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107805&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-06-27T03:49:34.306Z</updated>
+        <content type="html"><![CDATA[보안 외신 시큐리티위크에 의하면 두 달 전에 세상에 모습을 드러낸 블랙바스타(Black Basta) 랜섬웨어가 세계의 주요 위협이 되었다고 한다. 4월부터 활동을 시작한 이 랜섬웨어는 영어권 국가의 조직 36개를 감염시키는 데 성공했다고 하며, 이 지금 이 시점에도 빠...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[화웨이, 한·아태 대학생 ICT 연수 프로그램 ‘씨드 포 더 퓨처 2022’ 개최]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107804&amp;page=1&amp;mkind=1&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107804&amp;page=1&amp;mkind=1&amp;kind=3"/>
+        <updated>2022-06-27T03:49:34.307Z</updated>
+        <content type="html"><![CDATA[화웨이가 오는 8월 아시아태평양 지역의 대학생 및 대학원생을 대상으로 개최하는 글로벌 ICT 융합인재 육성 프로그램인 ‘씨드 포 더 퓨처 2022(Seeds For The Future 2022)’의 국내 참가자를 모집한다고 밝혔다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아파트 월패드 해킹 공포 커진 이때... 자이스마트홈 월패드 취약점 발견]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107797&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107797&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-06-27T03:49:34.310Z</updated>
+        <content type="html"><![CDATA[대부분의 아파트에 기본으로 설치돼 있는 월패드의 해킹 위험 때문에 아파트 입주민들의 공포가 커지고 있는 가운데 최근 유명 아파트 브랜드 ‘자이’ 등에 설치되는 자이스마트홈 월패드에서 보안 취약점이 발견된 것으로 드러났다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[글로벌 인터뷰] 로우코드 자동화로 SOAR 보안 구현 선언 ‘스윔레인’]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107795&amp;page=1&amp;mkind=1&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107795&amp;page=1&amp;mkind=1&amp;kind=3"/>
+        <updated>2022-06-27T03:49:34.310Z</updated>
+        <content type="html"><![CDATA[전 세계적인 인재난 부족 현상이 수년 째 이어지고 있는 가운데, IT 보안 분야에서는 공석들이 채워지지 않고 매년 늘어나고만 있다. 그래서 기업들은 비슷한 업무를 담당하던 내부 인원에게 교육의 기회를 제공하여 보안 담당자가 되도록 한다든지, 사람의 손이 덜 가도록 하는...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SW 크랙 및 인스톨러 위장 신종 정보탈취 악성코드 유포]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107796&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107796&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-06-27T03:49:34.311Z</updated>
+        <content type="html"><![CDATA[최근 소프트웨어(SW) 크랙 및 인스톨러 파일로 위장한 신종 정보탈취 악성코드가 유포되고 있어 이용자들의 각별한 주의가 요구된다. CryptBot, RedLine, Vidar 악성코드 등 기존에 SW 크랙으로 위장했던 악성코드들을 밀어내고 새로운 정보탈취 악성코드가 등...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[주말판] 투자를 두렵게 만드는 사이버 보안 기업의 7가지 경고 신호]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=107793&amp;page=1&amp;mkind=1&amp;kind=3</id>
@@ -74,54 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=107767&amp;page=1&amp;mkind=1&amp;kind=1"/>
         <updated>2022-06-24T03:42:22.956Z</updated>
         <content type="html"><![CDATA[보안 외신 시큐리티위크에 의하면 두 개의 사이버 보안 관련 법안이 대통령 서명을 통해 통과됐다고 한다. 하나는 연방사이버보안인력순환프로그램법(Federal Rotational Cyber Workforce Program Act)이고 다른 하나는 주지역정부사이버보안법(St...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[포티넷코리아-KT, ‘SD-WAN에 기반을 둔 국내 데이터 서비스 시장 활성화’ 위한 MOU 체결]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107766&amp;page=1&amp;mkind=1&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107766&amp;page=1&amp;mkind=1&amp;kind=3"/>
-        <updated>2022-06-24T03:42:22.962Z</updated>
-        <content type="html"><![CDATA[SD-WAN 분야의 글로벌 리더인 포티넷 코리아(조원균 대표)는 24일 KT(대표 구현모)와 ‘SD-WAN에 기반을 둔 국내 데이터 서비스 시장 활성화’를 위한 전략적 파트너십을 체결했다고 밝혔다. 양사는 6월 23일 서울 KT 송파빌딩에서 전략적 사업 협력을 위한 업...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IT 기술 첨단화와 네트워크 확장 속에서 지켜야 할 최소한의 보안 실천사항]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107742&amp;page=1&amp;mkind=1&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107742&amp;page=1&amp;mkind=1&amp;kind=3"/>
-        <updated>2022-06-24T03:42:22.962Z</updated>
-        <content type="html"><![CDATA[아무리 첨단 보안 도구들을 구입할 재력과 능력을 갖췄어도 기억해야 할 것이 하나 있다. 결국 보안은 사람 문제라는 것이다. 네트워크 보안 전문 업체 뉴스파이어(Nuspire)의 부회장인 마이크 멜러(Mike Mellor)는 “현재 데이터베이스 침해 사고의 원인 대부분이...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사이버 리질리언스에 대한 모든 것의 간단 요약]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107762&amp;page=1&amp;mkind=1&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107762&amp;page=1&amp;mkind=1&amp;kind=3"/>
-        <updated>2022-06-24T03:42:22.965Z</updated>
-        <content type="html"><![CDATA[사이버 리질리언스란 무엇일까? 각종 사이버 위협을 예상하고, 대비하고, 대응하고, 피해로부터 빠르게 복구할 수 있는 능력을 말한다. 이상적으로 봤을 때 사이버 리질리언스를 갖춘 조직은 이미 널리 알려진 위협과 미지의 위협 모두에 대처할 수 있어야 한다. 뉴욕알바니주립대...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[안랩, 전사적 환경 활동 의지 담은 ‘환경경영방침’ 발표]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107764&amp;page=1&amp;mkind=1&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107764&amp;page=1&amp;mkind=1&amp;kind=3"/>
-        <updated>2022-06-24T03:42:22.968Z</updated>
-        <content type="html"><![CDATA[안랩(대표 강석균)이 친환경 경영 의지를 담은 전사적 환경전략 방향인 ‘환경경영방침’을 발표했다. 안랩은 ‘환경경영방침’에서 ‘환경성과의 지속적 개선(환경경영의 실천)’을 최우선 목표로 삼고 궁극적으로 안랩의 모든 경영활동이 환경에 긍정적인 영향을 미치도록 노력하겠다고...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[정읍시, 개인정보보호 중요성 인식 높이기 ‘앞장’]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107761&amp;page=1&amp;mkind=1&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107761&amp;page=1&amp;mkind=1&amp;kind=2"/>
-        <updated>2022-06-24T01:23:41.294Z</updated>
-        <content type="html"><![CDATA[정읍시는 개인정보보호 인식주간을 맞아 지난 21일부터 7월 13일까지 일상생활 속 개인정보 보호를 위해 ‘2022년 개인정보 보호 캠페인’을 진행한다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[보이스피싱 근절 위해 신고·대응 일원화 및 합동수사단 설치 추진한다]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107746&amp;page=1&amp;mkind=1&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107746&amp;page=1&amp;mkind=1&amp;kind=2"/>
-        <updated>2022-06-24T01:23:41.297Z</updated>
-        <content type="html"><![CDATA[국무조정실은 지난 21일 보이스피싱 등 사이버범죄 대응 범부처 대책회의를 개최했다. 보이스피싱 범죄는 2006년 첫 피해 사례가 신고된 이후 지난 16년간 정부·민간기관의 각종 대책 마련과 지속적인 단속에도 불구하고 그 피해가 점점 증가해, 지난해 총 피해금액이 7,7...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[외교부, ‘2022 세계신안보포럼’ 개최... 사이버보안 이슈 등 논의]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107745&amp;page=1&amp;mkind=1&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107745&amp;page=1&amp;mkind=1&amp;kind=2"/>
-        <updated>2022-06-24T01:23:41.301Z</updated>
-        <content type="html"><![CDATA[외교부가 ‘신흥안보 위협의 과거와 현재, 그리고 미래–신뢰에 기반한 국제협력으로의 길’을 주제로 개최한 ‘2022 세계신안보포럼’이 지난 21~22일 이틀간의 모든 일정을 마무리하고 종료됐다.]]></content>
     </entry>
 </feed>

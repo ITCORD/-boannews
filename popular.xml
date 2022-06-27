@@ -4,17 +4,9 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Jun 2022 01:47:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jun 2022 03:51:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[구글, “애플과 안드로이드 모바일, 이탈리아 스파이웨어의 표적”]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107771&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107771&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Fri, 24 Jun 2022 22:15:43 GMT</pubDate>
-            <content:encoded><![CDATA[AFP 통신은 구글의 발표문을 인용하여 “애플의 아이폰과 안드로이드 기반 스마트폰들이 염탐의 대상이 되고 있다”고 보도했다. 특히 이탈리아와 카자흐스탄의 스마트폰...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/21628397_copy_295x190_1.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[6월 셋째 주, 다시 정상으로 복귀한 인포스틸러 악성코드... AgentTesla 1위]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107777&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
@@ -22,6 +14,14 @@
             <pubDate>Sat, 25 Jun 2022 04:27:30 GMT</pubDate>
             <content:encoded><![CDATA[6월 셋째 주에는 지난 주 1위를 차지했던 뱅킹 악성코드 ‘이모텟(Emotet)’를 밀어내고 정보탈취 목적의 인포스틸러 악성코드 AgentTesla, Formbo...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20220624malware-s.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[구글, “애플과 안드로이드 모바일, 이탈리아 스파이웨어의 표적”]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107771&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107771&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Fri, 24 Jun 2022 22:15:43 GMT</pubDate>
+            <content:encoded><![CDATA[AFP 통신은 구글의 발표문을 인용하여 “애플의 아이폰과 안드로이드 기반 스마트폰들이 염탐의 대상이 되고 있다”고 보도했다. 특히 이탈리아와 카자흐스탄의 스마트폰...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/21628397_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[차세대 보안리더 양성 프로그램 ‘BoB’ 11기 발대식 개최]]></title>
@@ -152,20 +152,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/cert-thumb-0621.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[러시아의 APT28도 폴리나 취약점 익스플로잇 하기 시작]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107735&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107735&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Fri, 24 Jun 2022 01:23:26 GMT</pubDate>
-            <content:encoded><![CDATA[악명이 자자한 러시아의 APT 단체인 APT28이 MS 윈도에서 최근 발견됐다가 패치된 폴리나(Follina) 취약점을 익스플로잇 하기 시작했다. 보안 업체 멀웨...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/22054732_copy_295x190_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Weekly Security Premium Report 제56호 발간! 인터넷 익스플로러 지원종료 이슈진단]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107739&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107739&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
             <pubDate>Sun, 26 Jun 2022 14:14:16 GMT</pubDate>
             <content:encoded><![CDATA[6월 23일 발간된 ‘Weekly Security Premium Report’ 제56호에는 &lt;보안 심층 리포트&gt; 코너에서 마이크로소프트가 지난 6월 1...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20220623report-sm.JPG" length="0" type="image/JPG"/>
+        </item>
+        <item>
+            <title><![CDATA[러시아의 APT28도 폴리나 취약점 익스플로잇 하기 시작]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107735&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107735&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Fri, 24 Jun 2022 01:23:26 GMT</pubDate>
+            <content:encoded><![CDATA[악명이 자자한 러시아의 APT 단체인 APT28이 MS 윈도에서 최근 발견됐다가 패치된 폴리나(Follina) 취약점을 익스플로잇 하기 시작했다. 보안 업체 멀웨...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/22054732_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
