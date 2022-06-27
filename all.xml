@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Jun 2022 22:19:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jun 2022 23:19:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -348,14 +348,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/cert-thumb-0621.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[중국의 APT 그룹, 10년 동안 들키지 않고 활동해 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107657&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107657&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Wed, 22 Jun 2022 01:42:10 GMT</pubDate>
-            <content:encoded><![CDATA[보안 외신 쓰레트포스트가 최근 새롭게 발견된 중국 APT 단체에 대해 보도했다. 문제는 이 단체가 최근에 발견됐지만 2013년부터 활동해왔다는 것이다. 보안 업체...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/21397254_copy_295x190_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Weekly Security Premium Report 제56호 발간! 인터넷 익스플로러 지원종료 이슈진단 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107739&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107739&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
@@ -364,12 +356,12 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20220623report-sm.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
-            <title><![CDATA[러시아의 APT28도 폴리나 취약점 익스플로잇 하기 시작 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107735&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107735&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Fri, 24 Jun 2022 01:23:26 GMT</pubDate>
-            <content:encoded><![CDATA[악명이 자자한 러시아의 APT 단체인 APT28이 MS 윈도에서 최근 발견됐다가 패치된 폴리나(Follina) 취약점을 익스플로잇 하기 시작했다. 보안 업체 멀웨...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/22054732_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[중국의 APT 그룹, 10년 동안 들키지 않고 활동해 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107657&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107657&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Wed, 22 Jun 2022 01:42:10 GMT</pubDate>
+            <content:encoded><![CDATA[보안 외신 쓰레트포스트가 최근 새롭게 발견된 중국 APT 단체에 대해 보도했다. 문제는 이 단체가 최근에 발견됐지만 2013년부터 활동해왔다는 것이다. 보안 업체...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/21397254_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[아파트 월패드 해킹 공포 커진 이때... 자이스마트홈 월패드 취약점 발견 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
@@ -378,6 +370,14 @@
             <pubDate>Mon, 27 Jun 2022 12:34:36 GMT</pubDate>
             <content:encoded><![CDATA[대부분의 아파트에 기본으로 설치돼 있는 월패드의 해킹 위험 때문에 아파트 입주민들의 공포가 커지고 있는 가운데 최근 유명 아파트 브랜드 ‘자이’ 등에 설치되는 자...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20220626wall-s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[러시아의 APT28도 폴리나 취약점 익스플로잇 하기 시작 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107735&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107735&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Fri, 24 Jun 2022 01:23:26 GMT</pubDate>
+            <content:encoded><![CDATA[악명이 자자한 러시아의 APT 단체인 APT28이 MS 윈도에서 최근 발견됐다가 패치된 폴리나(Follina) 취약점을 익스플로잇 하기 시작했다. 보안 업체 멀웨...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/22054732_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[파수 조규곤 대표,  “제로트러스트 관점에서 보안 디자인 다시해야” (보안뉴스 ─ 가장 많이 본 기사)]]></title>
