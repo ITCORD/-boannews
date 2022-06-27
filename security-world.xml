@@ -4,9 +4,17 @@
         <title>보안뉴스 ─ Security World</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Jun 2022 06:27:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jun 2022 07:19:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[구축사례] 영상보정 회사 ‘루시드컬러’의 미디어용...]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107776&amp;mkind=5</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107776&amp;mkind=5</guid>
+            <pubDate>Mon, 27 Jun 2022 07:16:39 GMT</pubDate>
+            <content:encoded><![CDATA[영상 관제 환경에서 CCTV 카메라의 해상도와 채널 수의 증가, 보관 주기의 연장으로 인해 저장 요건이 늘어나고 있는 것처럼 미디어 환경에서도 Full H...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20220627seagate-s.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[포천시, 시민안전 위한 포천천 산책로 CCTV 확대...]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107814&amp;mkind=5</link>
@@ -14,14 +22,6 @@
             <pubDate>Mon, 27 Jun 2022 05:28:56 GMT</pubDate>
             <content:encoded><![CDATA[경기도 포천시는 시민들이 안심하고 산책할 수 있도록 1억 3,200만원의 예산을 들여 다목적 CCTV 31대를 포천천 산책로 주변 7개소에 확대 설치했다고...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/pocheon_sum.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[구로구, 지역 안전망 강화! Smart 방범 안심거...]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107812&amp;mkind=5</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107812&amp;mkind=5</guid>
-            <pubDate>Mon, 27 Jun 2022 05:28:56 GMT</pubDate>
-            <content:encoded><![CDATA[서울 구로구는 구로 2·4동 지역을 중심으로 Smart 방범 안심거리 조성사업을 실시한다고 밝혔다. 구로구는 올해 행정안전부 주관 ‘외국인 주민 등 거주지...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/seoul%20guro_sum.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
