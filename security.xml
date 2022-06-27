@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-06-27T05:30:55.153Z</updated>
+    <updated>2022-06-27T06:27:33.673Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[마이크로소프트 웹뷰2 앱을 활용한 새로운 피싱 기법 등장]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107809&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107809&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-06-27T06:24:53.735Z</updated>
+        <content type="html"><![CDATA[IT 외신 블리핑컴퓨터에 의하면 최근 일부 공격자들 사이에서 새로운 피싱 기법이 유행하기 시작했다고 한다. 이 기법의 핵심은 MS의 에지 웹뷰2(Edge WebView 2) 애플리케이션들을 활용하는 것이다. 이 애플리케이션들에서 피해자의 인증 쿠키를 훔쳐내고, 이를 통...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아틀라시안 제로데이 취약점으로 뚫린 공격로, 다크웹에서 활발히 거래돼]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=107808&amp;page=1&amp;mkind=1&amp;kind=1</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=107769&amp;page=1&amp;mkind=1&amp;kind=1"/>
         <updated>2022-06-24T09:16:57.414Z</updated>
         <content type="html"><![CDATA[보안 외신 해커뉴스에 의하면 이스라엘의 스파이웨어 개발사 NSO그룹(NSO Group)이 최소 5개의 유럽 국가에서 페가수스(Pegasus)를 구매했다는 사실을 시인했다고 한다. 스파이웨어가 전 세계적으로 남용되는 데에 자신들도 어느 정도 책임감을 느끼고 있다고 하며,...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CISA, “로그4셸 취약점, 여전히 VM웨어 서버 공략에 활용돼”]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107768&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107768&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-06-24T06:21:21.949Z</updated>
-        <content type="html"><![CDATA[미국의 사이버 보안 전담 기관인 CISA가 다시 한 번 로그4셸(Log4Shell) 취약점에 대한 경고문을 발표했다고 IT 외신 블리핑컴퓨터가 보도했다. 경고문에 따르면 국가 지원 해킹 단체를 비롯해 아마추어 해커들까지 다양한 공격자들이 VM웨어의 호라이즌(VMware...]]></content>
     </entry>
 </feed>
