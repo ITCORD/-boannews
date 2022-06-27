@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 27 Jun 2022 09:20:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jun 2022 10:23:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -324,14 +324,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/kisa_062301_main(0).jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[컨플루언스 서버에서 발견된 제로데이 취약점, 패치 나왔지만 공격 여전히 활발 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107628&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107628&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Tue, 21 Jun 2022 09:26:14 GMT</pubDate>
-            <content:encoded><![CDATA[최근 아틀라시안(Atlassian)의 컨플루언스 서버(Confluence Server)에서 원격 코드 실행 취약점이 발견된 적이 있었다. 초고위험도로 분석됐던 그...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20375613_copy_295x190_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[119차 CISO포럼, “기업기밀 노린 내부자 및 해커 위협 급증, 최선의 대안은?” (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107661&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107661&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
@@ -348,20 +340,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/18444678_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[중국의 APT 그룹, 10년 동안 들키지 않고 활동해 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107657&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107657&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Wed, 22 Jun 2022 01:42:10 GMT</pubDate>
-            <content:encoded><![CDATA[보안 외신 쓰레트포스트가 최근 새롭게 발견된 중국 APT 단체에 대해 보도했다. 문제는 이 단체가 최근에 발견됐지만 2013년부터 활동해왔다는 것이다. 보안 업체...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/21397254_copy_295x190_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[지금 공부해 두면 당장은 물론 앞으로도 도움이 될 만한 IT/보안 자격증 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107666&amp;page=1&amp;kind=4&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107666&amp;page=1&amp;kind=4&amp;search=title&amp;find=</guid>
             <pubDate>Sun, 26 Jun 2022 10:17:10 GMT</pubDate>
             <content:encoded><![CDATA[IT 인재를 구하기가 힘들다는 우는 소리가 지속적으로 나올 정도로 현재 IT 기술을 가진 사람들은 구인 구직 시장에서 귀하신 몸들이다. 하지만 IT 전문가 입장에...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/cert-thumb-0621.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[중국의 APT 그룹, 10년 동안 들키지 않고 활동해 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107657&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107657&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Wed, 22 Jun 2022 01:42:10 GMT</pubDate>
+            <content:encoded><![CDATA[보안 외신 쓰레트포스트가 최근 새롭게 발견된 중국 APT 단체에 대해 보도했다. 문제는 이 단체가 최근에 발견됐지만 2013년부터 활동해왔다는 것이다. 보안 업체...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/21397254_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[Weekly Security Premium Report 제56호 발간! 인터넷 익스플로러 지원종료 이슈진단 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
@@ -402,6 +394,14 @@
             <pubDate>Mon, 27 Jun 2022 09:17:07 GMT</pubDate>
             <content:encoded><![CDATA[중앙행정기관이 구축·운영하고 전국 지방자치단체(이하 지자체)가 공동으로 사용하는 대규모 개인정보처리시스템에 대해 개인정보 법령 위반 여부를 조사하고 처분한 첫 사...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/21729015_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[직원 동의 안 받고 사업장에 CCTV 설치한 ‘제이카’ 등 과태료 부과 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107703&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107703&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
+            <pubDate>Mon, 27 Jun 2022 10:19:53 GMT</pubDate>
+            <content:encoded><![CDATA[직원 동의를 받지 않고 사업장에 CCTV를 설치한 사업자 제이카에게 과태료 500만원이 부과됐다. 개인정보보호위원회(위원장 윤종인, 이하 ‘개인정보위’)는 6월 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20751830_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[센티넬원, 사이버 보안의 대규모 투자 계획 밝혀 (보안뉴스 ─ SECURITY)]]></title>
