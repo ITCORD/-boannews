@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-06-27T07:19:03.498Z</updated>
+    <updated>2022-06-27T08:26:18.935Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[센티넬원, 사이버 보안의 대규모 투자 계획 밝혀]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107780&amp;page=1&amp;mkind=1&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107780&amp;page=1&amp;mkind=1&amp;kind=3"/>
+        <updated>2022-06-27T08:23:46.399Z</updated>
+        <content type="html"><![CDATA[사이버 보안 회사인 센티넬원(SentinelOne)이 지속적인 글로벌 확장의 일환으로 인도에 5천만 달러를 투자할 계획이라고 발표했다. 이에 따라 향후 몇 년간 인재 500명을 목표로 규모를 확장할 계획이다. 센티넬원은 지난 6월 15일 조직이 사이버 공격 위협에 대처...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[마이크로소프트 웹뷰2 앱을 활용한 새로운 피싱 기법 등장]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=107809&amp;page=1&amp;mkind=1&amp;kind=1</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=107771&amp;page=1&amp;mkind=1&amp;kind=1"/>
         <updated>2022-06-24T10:19:26.199Z</updated>
         <content type="html"><![CDATA[AFP 통신은 구글의 발표문을 인용하여 “애플의 아이폰과 안드로이드 기반 스마트폰들이 염탐의 대상이 되고 있다”고 보도했다. 특히 이탈리아와 카자흐스탄의 스마트폰 사용자들이 주요 표적이 되고 있다고 한다. 공격자들은 피해자의 장비에 스파이웨어를 심는 방식으로 염탐을 하...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NSO그룹, “최소 5개 유럽 국가에서 페가수스 구매했다”]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107769&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107769&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-06-24T09:16:57.414Z</updated>
-        <content type="html"><![CDATA[보안 외신 해커뉴스에 의하면 이스라엘의 스파이웨어 개발사 NSO그룹(NSO Group)이 최소 5개의 유럽 국가에서 페가수스(Pegasus)를 구매했다는 사실을 시인했다고 한다. 스파이웨어가 전 세계적으로 남용되는 데에 자신들도 어느 정도 책임감을 느끼고 있다고 하며,...]]></content>
     </entry>
 </feed>
