@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-06-28T06:25:18.231Z</updated>
+    <updated>2022-06-28T07:18:29.558Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[KISA, 세계 최초로 ‘Hive 랜섬웨어 통합 복구도구’ 배포]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107851&amp;page=1&amp;mkind=1&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107851&amp;page=1&amp;mkind=1&amp;kind=2"/>
+        <updated>2022-06-28T07:16:05.317Z</updated>
+        <content type="html"><![CDATA[한국인터넷진흥원(KISA, 원장 이원태)은 과학기술정보통신부(장관 이종호)와 함께 올해 3월에 Hive 랜섬웨어 버전1 복구도구를 배포한 후, 다양한 변종에 대한 추가적인 암호학적 분석을 통해 버전4까지 복구 가능한 ‘Hive 랜섬웨어 통합 복구도구’를 세계 최초로 개...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[라온화이트햇, 디지털 통합 인증 서비스 기업으로 본격 ‘시동’]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=107853&amp;page=1&amp;mkind=1&amp;kind=3</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=107795&amp;page=1&amp;mkind=1&amp;kind=3"/>
         <updated>2022-06-27T03:49:34.310Z</updated>
         <content type="html"><![CDATA[전 세계적인 인재난 부족 현상이 수년 째 이어지고 있는 가운데, IT 보안 분야에서는 공석들이 채워지지 않고 매년 늘어나고만 있다. 그래서 기업들은 비슷한 업무를 담당하던 내부 인원에게 교육의 기회를 제공하여 보안 담당자가 되도록 한다든지, 사람의 손이 덜 가도록 하는...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SW 크랙 및 인스톨러 위장 신종 정보탈취 악성코드 유포]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107796&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107796&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-06-27T03:49:34.311Z</updated>
-        <content type="html"><![CDATA[최근 소프트웨어(SW) 크랙 및 인스톨러 파일로 위장한 신종 정보탈취 악성코드가 유포되고 있어 이용자들의 각별한 주의가 요구된다. CryptBot, RedLine, Vidar 악성코드 등 기존에 SW 크랙으로 위장했던 악성코드들을 밀어내고 새로운 정보탈취 악성코드가 등...]]></content>
     </entry>
 </feed>
