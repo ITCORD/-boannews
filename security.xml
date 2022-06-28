@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-06-28T08:26:25.255Z</updated>
+    <updated>2022-06-28T09:19:14.546Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[미국과 브라질 공조로 불법 음악 다운로드 사이트 272개 폐쇄]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107862&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107862&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-06-28T09:16:38.974Z</updated>
+        <content type="html"><![CDATA[IT 외신 블리핑컴퓨터에 의하면 음악에 대한 저작권을 위반한 사이트 272개가 미국과 브라질의 공조로 폐쇄되었다고 한다. 6개 사이트는 미국의 여러 정부 기관들이 미국에서 발견해 폐쇄시켰으며, 나머지 266개는 브라질에서 브라질 사법 기관들이 합세하여 문을 닫았다. 이...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이란의 가장 큰 철강 업체, 대규모 사이버 공격에 노출돼]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107861&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107861&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-06-28T09:16:38.975Z</updated>
+        <content type="html"><![CDATA[보안 외신 핵리드에 의하면 이란의 최대 제철소인 코제스탄 제철소(Khouzestan Steel Company)가 대규모 사이버 공격에 노출됐다고 한다. 공격의 규모가 워낙 컸기 때문에 제철소는 일부 운영을 중단해야만 했지만, 별다른 피해가 발생하지는 않았다고 코제스탄 ...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[코드시스 ICS 자동화 소프트웨어에서 초고위험도 보안 취약점 나와]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=107860&amp;page=1&amp;mkind=1&amp;kind=1</id>
@@ -109,19 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=107780&amp;page=1&amp;mkind=1&amp;kind=3"/>
         <updated>2022-06-27T08:23:46.399Z</updated>
         <content type="html"><![CDATA[사이버 보안 회사인 센티넬원(SentinelOne)이 지속적인 글로벌 확장의 일환으로 인도에 5천만 달러를 투자할 계획이라고 발표했다. 이에 따라 향후 몇 년간 인재 500명을 목표로 규모를 확장할 계획이다. 센티넬원은 지난 6월 15일 조직이 사이버 공격 위협에 대처...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마이크로소프트 웹뷰2 앱을 활용한 새로운 피싱 기법 등장]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107809&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107809&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-06-27T06:24:53.735Z</updated>
-        <content type="html"><![CDATA[IT 외신 블리핑컴퓨터에 의하면 최근 일부 공격자들 사이에서 새로운 피싱 기법이 유행하기 시작했다고 한다. 이 기법의 핵심은 MS의 에지 웹뷰2(Edge WebView 2) 애플리케이션들을 활용하는 것이다. 이 애플리케이션들에서 피해자의 인증 쿠키를 훔쳐내고, 이를 통...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아틀라시안 제로데이 취약점으로 뚫린 공격로, 다크웹에서 활발히 거래돼]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107808&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107808&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-06-27T05:28:04.829Z</updated>
-        <content type="html"><![CDATA[최근 아틀라시안 컨플루언스(Atlassian Confluence)에서 제로데이 취약점인 CVE-2022-26134가 발견되고 패치됐었다. 공격자들은 이미 이 제로데이를 열심히 익스플로잇 하는 중이다. 보안 블로그 시큐리티어페어즈에 의하면 공격자들은 이 제로데이 익스플로...]]></content>
     </entry>
 </feed>
