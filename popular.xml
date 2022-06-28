@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Jun 2022 05:27:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jun 2022 06:25:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -96,6 +96,14 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20220626wall-s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[항공보안 이슈진단-1] 기내 보안 강화에 방점 찍은 항공보안 정책]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107801&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107801&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
+            <pubDate>Tue, 28 Jun 2022 03:43:15 GMT</pubDate>
+            <content:encoded><![CDATA[코로나19가 전 세계의 ‘이동의 자유’를 집어삼킨 이후 세 번째 해를 맞았다. 원인불명의 바이러스와 맞서며 국가는 빗장을 내걸었고, 항공업계는 꽁꽁 얼어붙었다. ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/AC&HS%20Special%20Report_sum.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[119차 CISO포럼, “기업기밀 노린 내부자 및 해커 위협 급증, 최선의 대안은?”]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107661&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107661&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
@@ -128,14 +136,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/esrc_062401_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[항공보안 이슈진단-1] 기내 보안 강화에 방점 찍은 항공보안 정책]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107801&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107801&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
-            <pubDate>Tue, 28 Jun 2022 03:43:15 GMT</pubDate>
-            <content:encoded><![CDATA[코로나19가 전 세계의 ‘이동의 자유’를 집어삼킨 이후 세 번째 해를 맞았다. 원인불명의 바이러스와 맞서며 국가는 빗장을 내걸었고, 항공업계는 꽁꽁 얼어붙었다. ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/AC&HS%20Special%20Report_sum.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Weekly Security Premium Report 제56호 발간! 인터넷 익스플로러 지원종료 이슈진단]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107739&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107739&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
@@ -152,20 +152,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/22054732_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[파수 조규곤 대표,  “제로트러스트 관점에서 보안 디자인 다시해야”]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107660&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107660&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
-            <pubDate>Mon, 27 Jun 2022 05:27:49 GMT</pubDate>
-            <content:encoded><![CDATA[“기업에서 보안을 강화하기 위해서는 워크 플레이스를 어떤 관점에서 구성해야 할지 고민해야 하고, 재택근무의 효율성과 함께 모여서 근무해야 할 때의 효율성을 명확하...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20220621FASOO-SM.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[행정안전부, 경찰업무조직 신설 방침 확정... ‘경찰국’ 만든다]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107818&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107818&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
             <pubDate>Tue, 28 Jun 2022 04:40:56 GMT</pubDate>
             <content:encoded><![CDATA[행정안전부(장관 이상민)는 27일 대국민 브리핑에서 ‘경찰제도개선 자문위원회’ 권고안에 대한 입장을 밝히고, 경찰업무조직의 신설 필요성과 향후 추진계획 등을 설명...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/mois_062701_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[KAIST 등 4대 과기특성화대학, 국가정보원과 연구보안교육 협의체 발족]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107700&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107700&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
+            <pubDate>Tue, 28 Jun 2022 06:21:59 GMT</pubDate>
+            <content:encoded><![CDATA[KAIST(총장 이광형) 등 4대 과학기술특성화대학이 22일 오전 국가정보원(원장 김규현, 이하 국정원)과 ‘과학기술특성화대학 연구보안교육 협의체’를 발족했다.]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20220622kaist-s.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>

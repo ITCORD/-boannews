@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-06-28T05:27:00.570Z</updated>
+    <updated>2022-06-28T06:25:18.231Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[라온화이트햇, 디지털 통합 인증 서비스 기업으로 본격 ‘시동’]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107853&amp;page=1&amp;mkind=1&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107853&amp;page=1&amp;mkind=1&amp;kind=3"/>
+        <updated>2022-06-28T06:22:13.700Z</updated>
+        <content type="html"><![CDATA[라온시큐어의 자회사 라온화이트햇과 라온에스엔씨가 지난 6월 1일 합병을 완료하고, ‘디지털 통합 인증 서비스 기업으로써 사업을 본격화할 계획이다. 라온화이트햇 이정아 대표는 “라온화이트햇이 쌓아온 브랜드와 명성은 그대로 유지하고, 인증서비스의 화이트화 등의 의미를 담아...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[휴네시온, 동반성장 ‘파트너사 초청 행사’ 성료]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=107852&amp;page=1&amp;mkind=1&amp;kind=2</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=107796&amp;page=1&amp;mkind=1&amp;kind=1"/>
         <updated>2022-06-27T03:49:34.311Z</updated>
         <content type="html"><![CDATA[최근 소프트웨어(SW) 크랙 및 인스톨러 파일로 위장한 신종 정보탈취 악성코드가 유포되고 있어 이용자들의 각별한 주의가 요구된다. CryptBot, RedLine, Vidar 악성코드 등 기존에 SW 크랙으로 위장했던 악성코드들을 밀어내고 새로운 정보탈취 악성코드가 등...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[주말판] 투자를 두렵게 만드는 사이버 보안 기업의 7가지 경고 신호]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107793&amp;page=1&amp;mkind=1&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107793&amp;page=1&amp;mkind=1&amp;kind=3"/>
-        <updated>2022-06-26T16:21:39.756Z</updated>
-        <content type="html"><![CDATA[투자 회사들과 벤처 캐피탈 회사들의 동향을 살피면 어떤 기업이 최근 주목을 받고 있으며, 어떤 회사가 유니콘이라 불리게 될지를 감 잡을 수 있다. 사이버 보안 분야에서도 이는 예외가 아니다. 하지만 모든 것이 정배로만 흘러가는 건 아니다. 누가 봐도 손에 들고 있는 카...]]></content>
     </entry>
 </feed>

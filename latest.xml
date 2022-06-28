@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Jun 2022 05:27:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jun 2022 06:25:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -86,6 +86,14 @@
             <pubDate>Mon, 27 Jun 2022 05:27:23 GMT</pubDate>
             <content:encoded><![CDATA[중국의 APT 단체가 랜섬웨어 공격자인 것으로 가장해 각종 정부 기관 첩보와 지적재산을 훔치는 것으로 보인다는 고발이 나왔다. 이 단체는 먼저 HUI로더(...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/21896577_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[이글루코퍼레이션, OT·SIEM 관련 특허 3건 취득]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107856&amp;page=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107856&amp;page=1&amp;kind=3</guid>
+            <pubDate>Tue, 28 Jun 2022 06:21:43 GMT</pubDate>
+            <content:encoded><![CDATA[시큐리티·인텔리전스 기업 이글루코퍼레이션(대표 이득춘)은 2건의 운영기술(OT) 특허와 1건의 통합보안관제(SIEM) 특허 등록을 완료했다고 밝혔다. 특허...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/igloo_062801_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[KISA, 세계 최초로 ‘Hive 랜섬웨어 통합 복구도구’ 배포]]></title>
@@ -225,14 +233,6 @@
             <pubDate>Tue, 28 Jun 2022 01:39:02 GMT</pubDate>
             <content:encoded><![CDATA[SK텔레콤은 차량과 보행자, 교통 인프라 등 모든 것을 5G로 연결하는 차세대 지능형 교통 시스템인 ‘C-ITS(Cooperative-Intelligent...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/6-280(295).jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[전파진흥원, ‘KCA 안전의 날’ 종합 훈련 실시]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107845&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107845&amp;page=1&amp;kind=2</guid>
-            <pubDate>Tue, 28 Jun 2022 01:39:02 GMT</pubDate>
-            <content:encoded><![CDATA[한국방송통신전파진흥원(KCA)은 지난 21일부터 24일까지 전사적 안전보건경영 실천을 위한 안전보건주간을 설정해 종합적인 안전훈련을 시행했다고 밝혔다.]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/6-282(295).jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
