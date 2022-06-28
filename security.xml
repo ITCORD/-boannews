@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-06-28T11:17:56.376Z</updated>
+    <updated>2022-06-28T12:37:42.871Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2023년 주요R&D 예산 배분 조정안 확정... ‘사이버위협 탐지·대응’ 포함]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107819&amp;page=1&amp;mkind=1&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107819&amp;page=1&amp;mkind=1&amp;kind=2"/>
+        <updated>2022-06-28T12:34:32.048Z</updated>
+        <content type="html"><![CDATA[2023년 국가연구개발사업 예산에 사이버 위협 탐지·대응 관련 기술개발 투자 및 개인정보 보호·활용을 위한 기술개발과 표준화 연계를 지원하는 내용이 포함됐다. 과학기술정보통신부(장관 이종호, 이하 과기정통부)는 ‘2023년도 국가연구개발사업 예산 배분·조정(안)’을 마...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[미국과 브라질 공조로 불법 음악 다운로드 사이트 272개 폐쇄]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=107862&amp;page=1&amp;mkind=1&amp;kind=1</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=107816&amp;page=1&amp;mkind=1&amp;kind=1"/>
         <updated>2022-06-28T01:39:24.198Z</updated>
         <content type="html"><![CDATA[중국의 APT 단체가 랜섬웨어 공격자인 것으로 가장해 각종 정부 기관 첩보와 지적재산을 훔치는 것으로 보인다는 고발이 나왔다. 이 단체는 먼저 HUI로더(HUI Loader)라는 멀웨어 로더를 사용해 피해자의 시스템에 침투하며, 이를 통해 코발트스트라이크 비컨(Coba...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[센티넬원, 사이버 보안의 대규모 투자 계획 밝혀]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107780&amp;page=1&amp;mkind=1&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107780&amp;page=1&amp;mkind=1&amp;kind=3"/>
-        <updated>2022-06-27T08:23:46.399Z</updated>
-        <content type="html"><![CDATA[사이버 보안 회사인 센티넬원(SentinelOne)이 지속적인 글로벌 확장의 일환으로 인도에 5천만 달러를 투자할 계획이라고 발표했다. 이에 따라 향후 몇 년간 인재 500명을 목표로 규모를 확장할 계획이다. 센티넬원은 지난 6월 15일 조직이 사이버 공격 위협에 대처...]]></content>
     </entry>
 </feed>
