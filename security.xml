@@ -2,9 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-06-28T07:18:29.558Z</updated>
+    <updated>2022-06-28T08:26:25.255Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[코드시스 ICS 자동화 소프트웨어에서 초고위험도 보안 취약점 나와]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107860&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107860&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-06-28T08:23:44.189Z</updated>
+        <content type="html"><![CDATA[보안 외신 해커뉴스에 의하면 코드시스(CODESYS)가 11개의 취약점을 패치했다고 한다. 이 취약점들을 성공적으로 익스플로잇 할 경우 정보가 유출되고 디도스 공격을 실시할 수 있게 된다고 한다. 게다가 익스플로잇 난이도가 낮은 편에 속하며, 경우에 따라 임의 코드 실...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[마탄부쿠스 캠페인, 피해자 시스템에 코발트 스트라이크 비컨 심어]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107859&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107859&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-06-28T08:23:44.191Z</updated>
+        <content type="html"><![CDATA[보안 블로그 시큐리티어페어즈에 의하면 새로운 멀웨어 유포 캠페인이 발견됐다고 한다. 이 캠페인의 배후에는 ‘서비스형 멀웨어(MaaS)’ 형태로 거래되는 멀웨어인 마탄부쿠스(Matanbuchus)가 있으며, 마탄부쿠스 운영자들은 피싱 공격을 통해 코발트스트라이크 비컨(C...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[리투아니아 덮친 사이버 공격, 러시아가 범인?]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107858&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107858&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-06-28T08:23:44.196Z</updated>
+        <content type="html"><![CDATA[보안 외신 시큐리티위크에 의하면 리투아니아에 맹렬한 사이버 공격이 있었다고 한다. 국가 기관들은 물론 민간 기업들에서 대량의 디도스 공격이 이어졌고, 이 때문에 적잖은 사회 시설들이 마비됐다. 리투나이나는 러시아를 가장 유력한 용의자로 보고 있으나 아직 확실한 결론은 ...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오픈소스 취약점의 3%만이 해커들의 공격을 받는다?]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107857&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107857&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-06-28T08:23:44.197Z</updated>
+        <content type="html"><![CDATA[소프트웨어 공급망 위험과 보안이 대두되고 있는 때라 오픈소스 취약점 관리에 대한 부담감 역시 커져가고 있다. 그런데 오늘 한 보고서를 통해 새로운 사실이 밝혀졌다. 공격자가 실제로 악용하는 오픈소스 취약점은 전체의 3%에 불과하다는 것이다. 그렇다는 건 보안 담당자들이...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이글루코퍼레이션, OT·SIEM 관련 특허 3건 취득]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107856&amp;page=1&amp;mkind=1&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107856&amp;page=1&amp;mkind=1&amp;kind=3"/>
+        <updated>2022-06-28T08:23:44.198Z</updated>
+        <content type="html"><![CDATA[시큐리티·인텔리전스 기업 이글루코퍼레이션(대표 이득춘)은 2건의 운영기술(OT) 특허와 1건의 통합보안관제(SIEM) 특허 등록을 완료했다고 밝혔다. 특허 적용을 통해, OT 자산에 대한 폭넓은 가시성을 확보하고, 방대한 보안 데이터 분석의 효율성을 높일 수 있게 될 ...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[청소년 개인정보 보호 앞장설 ‘리더’ 모집한다]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107854&amp;page=1&amp;mkind=1&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107854&amp;page=1&amp;mkind=1&amp;kind=3"/>
+        <updated>2022-06-28T08:23:44.200Z</updated>
+        <content type="html"><![CDATA[청소년들은 스마트폰 등을 활용한 사회관계망서비스(SNS), 게임 등 온라인 활동을 활발하게 하지만, 개인정보 보호 인식이 성인에 비해 상대적으로 약하다보니 개인정보 침해에 노출되기 쉬운 문제를 안고 있다. 이에 개인정보보호위원회(위원장 윤종인, 이하 ‘개인정보위’)와 ...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[KISA, 세계 최초로 ‘Hive 랜섬웨어 통합 복구도구’ 배포]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=107851&amp;page=1&amp;mkind=1&amp;kind=2</id>
@@ -81,47 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=107808&amp;page=1&amp;mkind=1&amp;kind=1"/>
         <updated>2022-06-27T05:28:04.829Z</updated>
         <content type="html"><![CDATA[최근 아틀라시안 컨플루언스(Atlassian Confluence)에서 제로데이 취약점인 CVE-2022-26134가 발견되고 패치됐었다. 공격자들은 이미 이 제로데이를 열심히 익스플로잇 하는 중이다. 보안 블로그 시큐리티어페어즈에 의하면 공격자들은 이 제로데이 익스플로...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[호라이즌 블록체인 서비스 공략한 해커들, 1억 달러 훔쳐가]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107807&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107807&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-06-27T03:49:34.300Z</updated>
-        <content type="html"><![CDATA[보안 외신 핵리드에 의하면 바이넌스체인, 이더리움, 비트코인을 연결시켜 주는 브리지 서비스인 호라이즌 브리지(Horizon Bridge)가 익스플로잇 공격에 당했다고 한다. 공격자는 약 1억 달러의 자금을 다양한 종류의 코인으로 훔치는 데 성공했다. 서비스의 운영사인 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마이텔 제로데이 익스플로잇 하는 공격자들, 랜섬웨어 퍼트려]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107806&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107806&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-06-27T03:49:34.304Z</updated>
-        <content type="html"><![CDATA[얼마 전 마이텔(Mitel)의 사무용 VoIP 전화 장비에서 제로데이 취약점이 발견됐었다. 보안 외신 해커뉴스에 의하면 최근 일부 공격자들이 이 취약점을 익스플로잇 하기 시작했다고 하며, 그 궁극적인 목적은 랜섬웨어를 심는 것으로 보인다고 한다. 보안 업체 크라우드스트...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[블랙바스타 랜섬웨어, 두 달 만에 주요 위협으로 떠올라]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107805&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107805&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-06-27T03:49:34.306Z</updated>
-        <content type="html"><![CDATA[보안 외신 시큐리티위크에 의하면 두 달 전에 세상에 모습을 드러낸 블랙바스타(Black Basta) 랜섬웨어가 세계의 주요 위협이 되었다고 한다. 4월부터 활동을 시작한 이 랜섬웨어는 영어권 국가의 조직 36개를 감염시키는 데 성공했다고 하며, 이 지금 이 시점에도 빠...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[화웨이, 한·아태 대학생 ICT 연수 프로그램 ‘씨드 포 더 퓨처 2022’ 개최]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107804&amp;page=1&amp;mkind=1&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107804&amp;page=1&amp;mkind=1&amp;kind=3"/>
-        <updated>2022-06-27T03:49:34.307Z</updated>
-        <content type="html"><![CDATA[화웨이가 오는 8월 아시아태평양 지역의 대학생 및 대학원생을 대상으로 개최하는 글로벌 ICT 융합인재 육성 프로그램인 ‘씨드 포 더 퓨처 2022(Seeds For The Future 2022)’의 국내 참가자를 모집한다고 밝혔다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아파트 월패드 해킹 공포 커진 이때... 자이스마트홈 월패드 취약점 발견]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107797&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107797&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-06-27T03:49:34.310Z</updated>
-        <content type="html"><![CDATA[대부분의 아파트에 기본으로 설치돼 있는 월패드의 해킹 위험 때문에 아파트 입주민들의 공포가 커지고 있는 가운데 최근 유명 아파트 브랜드 ‘자이’ 등에 설치되는 자이스마트홈 월패드에서 보안 취약점이 발견된 것으로 드러났다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[글로벌 인터뷰] 로우코드 자동화로 SOAR 보안 구현 선언 ‘스윔레인’]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107795&amp;page=1&amp;mkind=1&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107795&amp;page=1&amp;mkind=1&amp;kind=3"/>
-        <updated>2022-06-27T03:49:34.310Z</updated>
-        <content type="html"><![CDATA[전 세계적인 인재난 부족 현상이 수년 째 이어지고 있는 가운데, IT 보안 분야에서는 공석들이 채워지지 않고 매년 늘어나고만 있다. 그래서 기업들은 비슷한 업무를 담당하던 내부 인원에게 교육의 기회를 제공하여 보안 담당자가 되도록 한다든지, 사람의 손이 덜 가도록 하는...]]></content>
     </entry>
 </feed>
