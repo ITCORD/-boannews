@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-06-28T04:43:41.830Z</updated>
+    <updated>2022-06-28T05:27:00.570Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[휴네시온, 동반성장 ‘파트너사 초청 행사’ 성료]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107852&amp;page=1&amp;mkind=1&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107852&amp;page=1&amp;mkind=1&amp;kind=2"/>
+        <updated>2022-06-28T05:25:12.583Z</updated>
+        <content type="html"><![CDATA[정보보안 소프트웨어 전문기업 휴네시온(대표이사 정동섭)은 전국 파트너사를 초청해 ‘2022 응답하라, 파트너 데이’ 행사를 성황리에 마쳤다고 28일 밝혔다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[원주시, ‘2022년 특수목적 유·무인드론 산업생태계 조성 지원’ 공모 선정]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=107847&amp;page=1&amp;mkind=1&amp;kind=2</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=107793&amp;page=1&amp;mkind=1&amp;kind=3"/>
         <updated>2022-06-26T16:21:39.756Z</updated>
         <content type="html"><![CDATA[투자 회사들과 벤처 캐피탈 회사들의 동향을 살피면 어떤 기업이 최근 주목을 받고 있으며, 어떤 회사가 유니콘이라 불리게 될지를 감 잡을 수 있다. 사이버 보안 분야에서도 이는 예외가 아니다. 하지만 모든 것이 정배로만 흘러가는 건 아니다. 누가 봐도 손에 들고 있는 카...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[매그니베르 랜섬웨어, 타이포스쿼팅 방식 통해 또 다시 유포 중]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107794&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107794&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-06-26T16:21:39.766Z</updated>
-        <content type="html"><![CDATA[한국에서 집중적으로 유포됐던 ‘매그니베르 랜섬웨어’가 최근 타이포스쿼팅&nbsp;방식을&nbsp;이용해 또 다시 유포되고&nbsp;있어&nbsp;사용자들의&nbsp;주의가&nbsp;요구된다. 이스트시큐리티&nbsp;시큐리티대응센터(이하&nbsp;ESRC)는 매그니베르 ...]]></content>
     </entry>
 </feed>
