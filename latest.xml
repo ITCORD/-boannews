@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Jun 2022 03:46:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Jun 2022 04:43:41 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -86,6 +86,14 @@
             <pubDate>Mon, 27 Jun 2022 03:49:13 GMT</pubDate>
             <content:encoded><![CDATA[IT 외신 블리핑컴퓨터에 의하면 최근 일부 공격자들 사이에서 새로운 피싱 기법이 유행하기 시작했다고 한다. 이 기법의 핵심은 MS의 에지 웹뷰2(Edge ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/21437443_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[KISA, 세계 최초로 ‘Hive 랜섬웨어 통합 복구도구’ 배포]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107851&amp;page=1&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107851&amp;page=1&amp;kind=2</guid>
+            <pubDate>Tue, 28 Jun 2022 04:40:42 GMT</pubDate>
+            <content:encoded><![CDATA[한국인터넷진흥원(KISA, 원장 이원태)은 과학기술정보통신부(장관 이종호)와 함께 올해 3월에 Hive 랜섬웨어 버전1 복구도구를 배포한 후, 다양한 변종...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/kisa_062801_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[휴네시온, 동반성장 ‘파트너사 초청 행사’ 성료]]></title>
@@ -225,14 +233,6 @@
             <pubDate>Tue, 28 Jun 2022 01:39:02 GMT</pubDate>
             <content:encoded><![CDATA[한국방송통신전파진흥원(KCA)은 지난 21일부터 24일까지 전사적 안전보건경영 실천을 위한 안전보건주간을 설정해 종합적인 안전훈련을 시행했다고 밝혔다.]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/6-282(295).jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[세종시, 승강기 안전에 인공지능을 입히다]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107846&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107846&amp;page=1&amp;kind=2</guid>
-            <pubDate>Tue, 28 Jun 2022 01:39:02 GMT</pubDate>
-            <content:encoded><![CDATA[세종시에 지능형 영상분석을 통해 시민안전을 지원하는 시스템이 구현된다. 시는 행정안전부와 과학기술정보통신부가 공동 주관한 ‘2022년도 과학기술 활용 주민...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/6-283(295).jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
