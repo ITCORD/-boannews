@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-06-29T08:26:48.230Z</updated>
+    <updated>2022-06-29T09:20:51.260Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[넷앤드, ‘커뮤닉아시아 2022’ 참가해  HIWARE 선보여]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107889&amp;page=1&amp;mkind=1&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107889&amp;page=1&amp;mkind=1&amp;kind=3"/>
+        <updated>2022-06-29T09:17:34.688Z</updated>
+        <content type="html"><![CDATA[통합 접근 및 계정관리 솔루션 전문 기업 넷앤드가 세계 주요 ICT 및 사이버 보안 박람회에 연이어 참가해 대표 제품 HIWARE를 소개했다. 넷앤드는 최근 싱가포르에서 열린 아시아 최대이자 세계 4대 정보통신 박람회 ‘커뮤닉아시아 2022’에 참가했다고 밝혔다. 코로...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[시큐어시스템즈-InforSec Plus,  업무협약으로 몽골에 보안 서비스 상호협력]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=107892&amp;page=1&amp;mkind=1&amp;kind=3</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=107863&amp;page=1&amp;mkind=1&amp;kind=3"/>
         <updated>2022-06-29T01:26:42.447Z</updated>
         <content type="html"><![CDATA[한국정보기술연구원(원장 유준상, 이하 KITRI)과 에이치엠컴퍼니(대표 조근호)는 6월 28일(화) 11시 서울 서초구에 위치한 에이치엠컴퍼니에서 차세대 보안 인재 양성과 기술 협력을 위한 업무협약을 체결했다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023년 주요R&D 예산 배분 조정안 확정... ‘사이버위협 탐지·대응’ 포함]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107819&amp;page=1&amp;mkind=1&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107819&amp;page=1&amp;mkind=1&amp;kind=2"/>
-        <updated>2022-06-28T12:34:32.048Z</updated>
-        <content type="html"><![CDATA[2023년 국가연구개발사업 예산에 사이버 위협 탐지·대응 관련 기술개발 투자 및 개인정보 보호·활용을 위한 기술개발과 표준화 연계를 지원하는 내용이 포함됐다. 과학기술정보통신부(장관 이종호, 이하 과기정통부)는 ‘2023년도 국가연구개발사업 예산 배분·조정(안)’을 마...]]></content>
     </entry>
 </feed>

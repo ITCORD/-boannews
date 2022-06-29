@@ -4,9 +4,17 @@
         <title>보안뉴스 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Jun 2022 08:26:48 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jun 2022 09:20:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[단독] 샌드박스 분석 플랫폼에 분석 맡긴 ‘개인정보’ 고스란히 유출됐다]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107905&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107905&amp;page=1&amp;kind=1</guid>
+            <pubDate>Wed, 29 Jun 2022 09:17:04 GMT</pubDate>
+            <content:encoded><![CDATA[사용자가 ‘악성파일’인지 확인하기 위해 사용하는 ‘웹 기반 샌드박스 분석 플랫폼’에서 다수의 개인정보가 유출된 정황이 포착됐다. 특히 글로벌 사이트임에도 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/sundae_0629001_main.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[항공보안 이슈진단-3] 공항보안 관련법, 책임 강화 통한 실효성 확보 ‘핵심’]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107803&amp;page=1&amp;kind=2</link>
@@ -80,12 +88,12 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20605779_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[해킹 그룹 에빌넘, 난민과 이주 관련 기관들 집중 공략 중]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107895&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107895&amp;page=1&amp;kind=1</guid>
-            <pubDate>Wed, 29 Jun 2022 03:47:45 GMT</pubDate>
-            <content:encoded><![CDATA[IT 외신 블리핑컴퓨터에 의하면 악명 높은 해킹 그룹인 에빌넘(Evilnum)이 다시 활동을 시작한 것으로 보인다고 한다. 이번에는 유럽의 난민 관련 기구...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/21622074_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[우경정보기술, 한국정보사회진흥원 ‘한국인 3D 스캐닝 데이터 구축 사업’ 본격 착수]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107906&amp;page=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107906&amp;page=1&amp;kind=3</guid>
+            <pubDate>Wed, 29 Jun 2022 09:17:04 GMT</pubDate>
+            <content:encoded><![CDATA[인공지능(AI) 영상분석 전문기업 우경정보기술(대표 박윤하)이 다양한 가상 서비스에서 활용될 한국인의 신체 특징을 데이터화하는 ‘한국인 3D 스캐닝 데이터...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/wook_062901_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[SK쉴더스, 한국폐기물재활용공제조합과 맞춤형 보안솔루션 구축 MOU 체결]]></title>
@@ -150,6 +158,14 @@
             <pubDate>Wed, 29 Jun 2022 04:45:37 GMT</pubDate>
             <content:encoded><![CDATA[한국화웨이가 29일부터 다음 달 1일까지 개최되는 ‘제30회 국제 방송·미디어·음향·조명 전시회(KOBA 2022)’에 참가한다고 밝혔다.]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/huawei_062901_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[해킹 그룹 에빌넘, 난민과 이주 관련 기관들 집중 공략 중]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107895&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107895&amp;page=1&amp;kind=1</guid>
+            <pubDate>Wed, 29 Jun 2022 03:47:45 GMT</pubDate>
+            <content:encoded><![CDATA[IT 외신 블리핑컴퓨터에 의하면 악명 높은 해킹 그룹인 에빌넘(Evilnum)이 다시 활동을 시작한 것으로 보인다고 한다. 이번에는 유럽의 난민 관련 기구...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/21622074_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[CISA, “폰킷 리눅스 취약점 익스플로잇 하는 해킹 행위 활발”]]></title>
@@ -224,22 +240,6 @@
             <guid>https://www.boannews.com/media/view.asp?idx=107874&amp;page=1&amp;kind=2</guid>
             <pubDate>Wed, 29 Jun 2022 01:26:23 GMT</pubDate>
             <content:encoded><![CDATA[국토교통부는 민간 부문의 시설물 안전진단 역량을 제고하기 위해 업계·학계·연구기관 등이 참여하는 ‘안전진단 전문가 협의체’를 구성하고 29일 첫 회의를 개...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[디지털플랫폼정부, 출발을 위한 닻 올린다]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107875&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107875&amp;page=1&amp;kind=2</guid>
-            <pubDate>Wed, 29 Jun 2022 01:26:23 GMT</pubDate>
-            <content:encoded><![CDATA[과학기술정보통신부와 행정안전부는 지난 28일 국무회의 의결을 통해 7월 1일부터 대통령 소속으로 디지털플랫폼정부위원회를 설치한다고 밝혔다.]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/21966944_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[KT, 프라이빗 5G DX 솔루션 발굴 공모전 개최]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107877&amp;page=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107877&amp;page=1&amp;kind=3</guid>
-            <pubDate>Wed, 29 Jun 2022 01:26:23 GMT</pubDate>
-            <content:encoded><![CDATA[KT가 중소기업과 협업을 통해 프라이빗 5G를 사용하는 기업 고객에게 다양한 솔루션을 제공하기 위한 ‘DX 솔루션 발굴 공모전’을 다음 달 1일부터 8월 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/6-293(295).jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

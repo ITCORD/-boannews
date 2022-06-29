@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=2</id>
     <title>보안뉴스 ─ IT</title>
-    <updated>2022-06-29T08:26:48.168Z</updated>
+    <updated>2022-06-29T09:20:51.277Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[서울시, 데이터 기반 행정 혁신 위한 인공지능 빅데이터 플랫폼 구축 본격 착수]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107868&amp;page=1&amp;mkind=2&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107868&amp;page=1&amp;mkind=2&amp;kind=2"/>
+        <updated>2022-06-29T09:17:51.331Z</updated>
+        <content type="html"><![CDATA[서울시는 시의 행정 데이터를 부서 칸막이 없이 공동 활용하고, 비전문가 또한 쉽게 이해하고 이용할 수 있는 ‘인공지능 기반 빅데이터 서비스 플랫폼(2단계)’ 구축 사업을 본격 착수한다고 밝혔다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[중기부, 하반기 스마트공장 보급에 총 718억원 지원]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=107869&amp;page=1&amp;mkind=2&amp;kind=2</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=107830&amp;page=1&amp;mkind=2&amp;kind=2"/>
         <updated>2022-06-29T01:26:51.303Z</updated>
         <content type="html"><![CDATA[과학기술정보통신부는 미래 산업·안보의 게임체인저인 양자기술에 대한 대국민 인식 확산과 연구·산업 활성화를 위해 지난 27부터 7월 1일까지를 ‘2022 양자정보주간(Quantum Week)’으로 정해 다양한 행사를 개최한다고 밝혔다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국토부, 인증제를 통해 우수한 스마트도시·서비스 발굴한다]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107832&amp;page=1&amp;mkind=2&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107832&amp;page=1&amp;mkind=2&amp;kind=2"/>
-        <updated>2022-06-28T03:43:44.694Z</updated>
-        <content type="html"><![CDATA[국토교통부는 지자체와 기업을 대상으로 스마트도시 우수 사례를 발굴하고 인증하기 위한 2022년 스마트 도시·서비스 인증 공모를 28일부터 약 두 달간 실시한다.]]></content>
     </entry>
 </feed>
