@@ -4,9 +4,17 @@
         <title>보안뉴스 ─ Security World</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Jun 2022 06:23:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jun 2022 07:18:08 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[SK쉴더스, 한국폐기물재활용공제조합과 맞춤형 보안솔...]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107887&amp;mkind=5</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107887&amp;mkind=5</guid>
+            <pubDate>Wed, 29 Jun 2022 07:16:26 GMT</pubDate>
+            <content:encoded><![CDATA[라이프 케어 플랫폼 기업 SK쉴더스(대표 박진효)는 지난 28일 한국폐기물재활용공제조합(이사장 오재만)과 폐기물재활용 업체 맞춤형 보안 솔루션 구축을 위한...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/skshieldus_20220629_01_sum.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[원모어시큐리티, 지능형 영상분석 솔루션 ‘원모어아이...]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107901&amp;mkind=5</link>
@@ -14,14 +22,6 @@
             <pubDate>Wed, 29 Jun 2022 06:21:44 GMT</pubDate>
             <content:encoded><![CDATA[원모어시큐리티는 지능형 영상분석 솔루션인 ‘원모어아이(OMEYE)’가 한국정보통신기술협회(TTA)로부터 ‘GS(Good Software)인증 1등급’을 획...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/onemore-eye_20220629_sum.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[항공보안 이슈진단-2] 사이버보안 위협 대비 기반...]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107802&amp;mkind=5</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107802&amp;mkind=5</guid>
-            <pubDate>Tue, 28 Jun 2022 10:19:30 GMT</pubDate>
-            <content:encoded><![CDATA[국토교통부가 &lt;제3차 항공보안 기본계획(2022~2026)&gt;을 수립·확정했다. 코로나19 팬데믹을 거치면서 비대면, 비접촉 시대가 확산하며 가파르게 늘어나...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20220628air-s.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
