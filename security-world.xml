@@ -4,9 +4,17 @@
         <title>보안뉴스 ─ Security World</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Jun 2022 05:28:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jun 2022 06:23:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[원모어시큐리티, 지능형 영상분석 솔루션 ‘원모어아이...]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107901&amp;mkind=5</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107901&amp;mkind=5</guid>
+            <pubDate>Wed, 29 Jun 2022 06:21:44 GMT</pubDate>
+            <content:encoded><![CDATA[원모어시큐리티는 지능형 영상분석 솔루션인 ‘원모어아이(OMEYE)’가 한국정보통신기술협회(TTA)로부터 ‘GS(Good Software)인증 1등급’을 획...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/onemore-eye_20220629_sum.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[항공보안 이슈진단-2] 사이버보안 위협 대비 기반...]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107802&amp;mkind=5</link>
@@ -14,14 +22,6 @@
             <pubDate>Tue, 28 Jun 2022 10:19:30 GMT</pubDate>
             <content:encoded><![CDATA[국토교통부가 &lt;제3차 항공보안 기본계획(2022~2026)&gt;을 수립·확정했다. 코로나19 팬데믹을 거치면서 비대면, 비접촉 시대가 확산하며 가파르게 늘어나...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20220628air-s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국내 공공 CCTV 설치·운영 가이드라인과 해외 규...]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107850&amp;mkind=5</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107850&amp;mkind=5</guid>
-            <pubDate>Tue, 28 Jun 2022 03:44:12 GMT</pubDate>
-            <content:encoded><![CDATA[CCTV의 증가와 생활 속 휴대전화 영상촬영, 그리고 유튜브와 인스타그램 등 SNS 공유의 일상화, 드론과 얼굴인식 등의 생체인식 기기, 자율주행차 등 영...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/22062801ss.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

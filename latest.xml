@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Jun 2022 05:28:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jun 2022 06:23:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -86,6 +86,14 @@
             <pubDate>Tue, 28 Jun 2022 12:34:01 GMT</pubDate>
             <content:encoded><![CDATA[유명 랜섬웨어 집단인 록빗(LockBit)이 최근 자신들의 공격 무기를 최신화 하여 새롭게 발표했다. 이른 바 록빗3.0(LockBit 3.0)인데, 단순...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20695495_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[원모어시큐리티, 지능형 영상분석 솔루션 ‘원모어아이’ GS인증 1등급 획득]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107901&amp;page=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107901&amp;page=1&amp;kind=3</guid>
+            <pubDate>Wed, 29 Jun 2022 06:20:54 GMT</pubDate>
+            <content:encoded><![CDATA[원모어시큐리티는 지능형 영상분석 솔루션인 ‘원모어아이(OMEYE)’가 한국정보통신기술협회(TTA)로부터 ‘GS(Good Software)인증 1등급’을 획...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/onemore-eye_20220629_sum.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[한국화웨이, KOBA 국제 방송·미디어·음향·조명 전시회 참가]]></title>
@@ -229,14 +237,6 @@
             <pubDate>Tue, 28 Jun 2022 09:16:07 GMT</pubDate>
             <content:encoded><![CDATA[떨림과 설렘을 가득 안고 [BN미팅]에서 만나볼 그 첫 번째 주인공은 바로 시큐레터 양승환 팀장이다. 이 바닥에서 소위 ‘영재’라는 소리 들으며 어려서부터...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20220628letter-ms.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[KITRI-에이치엠컴퍼니, 차세대 보안 인재 양성 및 기술 협력 MOU]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107863&amp;page=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107863&amp;page=1&amp;kind=3</guid>
-            <pubDate>Tue, 28 Jun 2022 09:16:07 GMT</pubDate>
-            <content:encoded><![CDATA[한국정보기술연구원(원장 유준상, 이하 KITRI)과 에이치엠컴퍼니(대표 조근호)는 6월 28일(화) 11시 서울 서초구에 위치한 에이치엠컴퍼니에서 차세대 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/kitri_062801_main.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
