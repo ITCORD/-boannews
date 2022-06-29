@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=2</id>
     <title>보안뉴스 ─ IT</title>
-    <updated>2022-06-29T03:51:29.333Z</updated>
+    <updated>2022-06-29T04:48:36.685Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[중기부, 민관협력 오픈이노베이션 공모전 과제 공개]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107870&amp;page=1&amp;mkind=2&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107870&amp;page=1&amp;mkind=2&amp;kind=2"/>
+        <updated>2022-06-29T04:46:20.503Z</updated>
+        <content type="html"><![CDATA[중소벤처기업부는 ‘민관협력 오픈이노베이션 공모전’ 과제를 확정하고, 지난 28일부터 참가 희망 창업초기기업(스타트업) 신청을 받는다고 밝혔다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[과기정통부, 서비스형 소프트웨어 개발 지원 착수]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=107871&amp;page=1&amp;mkind=2&amp;kind=2</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=107833&amp;page=1&amp;mkind=2&amp;kind=2"/>
         <updated>2022-06-28T03:43:44.698Z</updated>
         <content type="html"><![CDATA[국토교통부와 국토안전관리원은 첨단 기술을 활용한 스마트 건설안전 체계의 현장 확산을 위해 추진하고 있는 스마트 건설안전 지원 시범 사업을 28일부터 7월 15일까지 공모할 계획이라고 밝혔다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[산업부, 시스템반도체 설계전문인력 양성 교육 실시]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107835&amp;page=1&amp;mkind=2&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107835&amp;page=1&amp;mkind=2&amp;kind=2"/>
-        <updated>2022-06-28T01:39:35.504Z</updated>
-        <content type="html"><![CDATA[산업통상자원부와 반도체산업협회는 지난 27일 ‘취업연계형 시스템반도체 설계전문교육’ 과정의 입교식을 개최하고, 기업이 원하는 설계전문인력을 양성하기로 했다.]]></content>
     </entry>
 </feed>

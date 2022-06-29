@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Jun 2022 03:51:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jun 2022 04:48:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -86,6 +86,14 @@
             <pubDate>Tue, 28 Jun 2022 12:34:01 GMT</pubDate>
             <content:encoded><![CDATA[유명 랜섬웨어 집단인 록빗(LockBit)이 최근 자신들의 공격 무기를 최신화 하여 새롭게 발표했다. 이른 바 록빗3.0(LockBit 3.0)인데, 단순...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20695495_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한국화웨이, KOBA 국제 방송·미디어·음향·조명 전시회 참가]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107900&amp;page=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107900&amp;page=1&amp;kind=3</guid>
+            <pubDate>Wed, 29 Jun 2022 04:45:37 GMT</pubDate>
+            <content:encoded><![CDATA[한국화웨이가 29일부터 다음 달 1일까지 개최되는 ‘제30회 국제 방송·미디어·음향·조명 전시회(KOBA 2022)’에 참가한다고 밝혔다.]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/huawei_062901_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[서울시, 데이터 기반 행정 혁신 위한 인공지능 빅데이터 플랫폼 구축 본격 착수]]></title>
@@ -229,14 +237,6 @@
             <pubDate>Tue, 28 Jun 2022 09:16:07 GMT</pubDate>
             <content:encoded><![CDATA[한국정보기술연구원(원장 유준상, 이하 KITRI)과 에이치엠컴퍼니(대표 조근호)는 6월 28일(화) 11시 서울 서초구에 위치한 에이치엠컴퍼니에서 차세대 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/kitri_062801_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2023년 주요R&D 예산 배분 조정안 확정... ‘사이버위협 탐지·대응’ 포함]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107819&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107819&amp;page=1&amp;kind=2</guid>
-            <pubDate>Tue, 28 Jun 2022 08:23:13 GMT</pubDate>
-            <content:encoded><![CDATA[2023년 국가연구개발사업 예산에 사이버 위협 탐지·대응 관련 기술개발 투자 및 개인정보 보호·활용을 위한 기술개발과 표준화 연계를 지원하는 내용이 포함됐...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/msit_062701_main.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
