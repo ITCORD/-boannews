@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=4</id>
     <title>보안뉴스 ─ SAFETY</title>
-    <updated>2022-06-28T23:18:55.518Z</updated>
+    <updated>2022-06-29T01:29:33.010Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[여름철 화학사고, 확 줄입시다... 작업 전 안전 여부 확인]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107829&amp;page=1&amp;mkind=4&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107829&amp;page=1&amp;mkind=4&amp;kind=2"/>
+        <updated>2022-06-29T01:27:00.223Z</updated>
+        <content type="html"><![CDATA[환경부는 28일부터 여름철 화학사고 예방을 위해 화학물질 취급 사업장, 운송차량, 실험실 등을 대상으로 화학안전 홍보 활동(캠페인)을 펼친다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[행안부-현대백화점, 국민안전 위해 손을 맞잡다]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=107834&amp;page=1&amp;mkind=4&amp;kind=2</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=107674&amp;page=1&amp;mkind=4&amp;kind=2"/>
         <updated>2022-06-22T01:42:55.422Z</updated>
         <content type="html"><![CDATA[안전보건공단은 지난 21일 데이터 기반의 안전보건 서비스 디지털 대전환을 목표로 데이터 안전보건 선도기관 선포식을 개최했다. 이날 행사는 국내 공공기관 중 최초로 기관장 주관하에 데이터 비전(디지털로 소통하는 안전하고 건강한 세상)을 선포했으며, 데이터를 가장 잘 다루...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한-아세안, 안전하고 지속발전가능한 아세안 공동체 구축]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107677&amp;page=1&amp;mkind=4&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107677&amp;page=1&amp;mkind=4&amp;kind=2"/>
-        <updated>2022-06-22T01:42:55.424Z</updated>
-        <content type="html"><![CDATA[행정안전부는 22일 아세안 사무국과 공동으로 ‘제2회 한-아세안 재난관리위원회(국장급)’를 개최했다. 한-아세안 재난관리위원회는 재난으로 인한 인명 및 사회·경제·환경 자산의 손실을 실질적으로 줄이기 위한 목표를 실행하기 위해 설립됐다.]]></content>
     </entry>
 </feed>

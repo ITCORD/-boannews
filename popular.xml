@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 28 Jun 2022 23:18:55 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Jun 2022 01:29:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -96,14 +96,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20220626wall-s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[지금 공부해 두면 당장은 물론 앞으로도 도움이 될 만한 IT/보안 자격증]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107666&amp;page=1&amp;kind=4&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107666&amp;page=1&amp;kind=4&amp;search=title&amp;find=</guid>
-            <pubDate>Sun, 26 Jun 2022 10:17:10 GMT</pubDate>
-            <content:encoded><![CDATA[IT 인재를 구하기가 힘들다는 우는 소리가 지속적으로 나올 정도로 현재 IT 기술을 가진 사람들은 구인 구직 시장에서 귀하신 몸들이다. 하지만 IT 전문가 입장에...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/cert-thumb-0621.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[FIELD MASTER] ‘나는야 천상 Reverser’ 문종현 이스트시큐리티 이사]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107778&amp;page=1&amp;kind=6&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107778&amp;page=1&amp;kind=6&amp;search=title&amp;find=</guid>
@@ -166,6 +158,14 @@
             <pubDate>Tue, 28 Jun 2022 08:23:29 GMT</pubDate>
             <content:encoded><![CDATA[직원 동의를 받지 않고 사업장에 CCTV를 설치한 사업자 제이카에게 과태료 500만원이 부과됐다. 개인정보보호위원회(위원장 윤종인, 이하 ‘개인정보위’)는 6월 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20751830_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[개인정보위, 흥신소에 개인정보 유출한 수원시에 과태료 부과]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107704&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107704&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
+            <pubDate>Wed, 29 Jun 2022 01:26:32 GMT</pubDate>
+            <content:encoded><![CDATA[중앙행정기관이 구축·운영하고 전국 지방자치단체(이하 지자체)가 공동으로 사용하는 대규모 개인정보처리시스템에 대해 개인정보 법령 위반 여부를 조사하고 처분한 첫 사...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/21729015_main.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

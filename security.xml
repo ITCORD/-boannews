@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-06-28T23:18:55.511Z</updated>
+    <updated>2022-06-29T01:29:33.008Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[요즘 제일 잘 나가는 랜섬웨어 록빗, 다크웹 사상 최초 버그바운티도 시작]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107865&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107865&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-06-29T01:26:42.444Z</updated>
+        <content type="html"><![CDATA[유명 랜섬웨어 집단인 록빗(LockBit)이 최근 자신들의 공격 무기를 최신화 하여 새롭게 발표했다. 이른 바 록빗3.0(LockBit 3.0)인데, 단순히 새로운 랜섬웨어를 출시한 것이 아니라 버그바운티 프로그램도 같이 시행한다고 한다. 다크웹에서 버그바운티가 진행된...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[BN미팅] 시큐레터 양승환 팀장이 꼽은 2022년 상반기 보안이슈 TOP 5]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107705&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107705&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-06-29T01:26:42.445Z</updated>
+        <content type="html"><![CDATA[떨림과 설렘을 가득 안고 [BN미팅]에서 만나볼 그 첫 번째 주인공은 바로 시큐레터 양승환 팀장이다. 이 바닥에서 소위 ‘영재’라는 소리 들으며 어려서부터 발을 디딘 정보보안 전문가와 달리 그는 26세 늦깎이로 입문했다. 하지만 늦바람이 무섭다 했던가. 이미 시큐레터에...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KITRI-에이치엠컴퍼니, 차세대 보안 인재 양성 및 기술 협력 MOU]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107863&amp;page=1&amp;mkind=1&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107863&amp;page=1&amp;mkind=1&amp;kind=3"/>
+        <updated>2022-06-29T01:26:42.447Z</updated>
+        <content type="html"><![CDATA[한국정보기술연구원(원장 유준상, 이하 KITRI)과 에이치엠컴퍼니(대표 조근호)는 6월 28일(화) 11시 서울 서초구에 위치한 에이치엠컴퍼니에서 차세대 보안 인재 양성과 기술 협력을 위한 업무협약을 체결했다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2023년 주요R&D 예산 배분 조정안 확정... ‘사이버위협 탐지·대응’ 포함]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=107819&amp;page=1&amp;mkind=1&amp;kind=2</id>
@@ -102,26 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=107849&amp;page=1&amp;mkind=1&amp;kind=2"/>
         <updated>2022-06-28T03:43:29.055Z</updated>
         <content type="html"><![CDATA[법제처는 2022년 7월부터 12월까지 총 361개의 법령(타법 개정 사항 제외, 2022.6.25. 기준)이 새로 시행된다고 밝히고, 그중 국민이 꼭 알아두면 좋은 법령 10개를 선별해 소개했다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[FIELD MASTER] ‘나는야 천상 Reverser’ 문종현 이스트시큐리티 이사]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107778&amp;page=1&amp;mkind=1&amp;kind=6</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107778&amp;page=1&amp;mkind=1&amp;kind=6"/>
-        <updated>2022-06-28T03:43:29.055Z</updated>
-        <content type="html"><![CDATA[최근 가장 많은 유형의 해킹 공격인 이메일을 통한 악성파일에 감염될 경우 단순히 삭제하는 것만으로는 해결되지 않는다. 악성파일이 어떤 경로에서 어떤 행위를 하는 지 알 수 없고, 이미 악성 행위를 했는지도 알 수 없기 때문이다. 이 때문에 우리가 ‘역공학자’라 부르는 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[행정안전부, 경찰업무조직 신설 방침 확정... ‘경찰국’ 만든다]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107818&amp;page=1&amp;mkind=1&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107818&amp;page=1&amp;mkind=1&amp;kind=2"/>
-        <updated>2022-06-28T01:39:24.191Z</updated>
-        <content type="html"><![CDATA[행정안전부(장관 이상민)는 27일 대국민 브리핑에서 ‘경찰제도개선 자문위원회’ 권고안에 대한 입장을 밝히고, 경찰업무조직의 신설 필요성과 향후 추진계획 등을 설명했다. 한편, 김창용 경찰청장은 행정안전부 발표 전 사의를 밝혔다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[중국의 APT 단체, 랜섬웨어 공격 단체 사칭해 추적자의 시선 돌려]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107816&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107816&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-06-28T01:39:24.198Z</updated>
-        <content type="html"><![CDATA[중국의 APT 단체가 랜섬웨어 공격자인 것으로 가장해 각종 정부 기관 첩보와 지적재산을 훔치는 것으로 보인다는 고발이 나왔다. 이 단체는 먼저 HUI로더(HUI Loader)라는 멀웨어 로더를 사용해 피해자의 시스템에 침투하며, 이를 통해 코발트스트라이크 비컨(Coba...]]></content>
     </entry>
 </feed>
