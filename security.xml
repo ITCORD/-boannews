@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-06-30T07:17:29.218Z</updated>
+    <updated>2022-06-30T08:26:58.275Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[2022년 상반기 사이버 보안 동향 결산, 공격자 혁신 조짐 3가지]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107815&amp;page=1&amp;mkind=1&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107815&amp;page=1&amp;mkind=1&amp;kind=3"/>
+        <updated>2022-06-30T08:23:30.141Z</updated>
+        <content type="html"><![CDATA[2022년 상반기를 정리해 보면 공격자는 서비스형 멀웨어를 개발 및 판매하고, 공급망 공격을 서슴없이 시도했다. 그런데 앞으로는 사이버 공격자들의 행위가 더욱 대범해지고 공격 측면에서도 혁신이 일어날 것이라는 전망이 나왔다. 특히, 사이버 보안 지형이 크게 바뀔 것이라...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[log4j 교훈 잊었나? 2년 이상 방치된 오픈소스 88%가 사용 중]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107948&amp;page=1&amp;mkind=1&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107948&amp;page=1&amp;mkind=1&amp;kind=3"/>
+        <updated>2022-06-30T08:23:30.142Z</updated>
+        <content type="html"><![CDATA[사상 최악의 보안 취약점으로 손꼽히는 Log4j 취약점 발견으로 오픈소스 관리의 중요성이 강조됐지만, 아직도 오픈소스 사용 기업의 88%가 2년 이상 방치된 오픈소스를 사용하는 것으로 알려져 충격을 주고 있다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[새로운 중국 APT 단체, 건물 자동화 시스템 통해 공격 실시]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=107949&amp;page=1&amp;mkind=1&amp;kind=1</id>
@@ -109,19 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=107919&amp;page=1&amp;mkind=1&amp;kind=2"/>
         <updated>2022-06-30T01:26:10.328Z</updated>
         <content type="html"><![CDATA[국가정보자원관리원은 30일 ‘국가융합망’에 양자암호통신을 48개 기관 중 33개 기관에 처음으로 적용한다고 밝혔다. 관리원은 점점 더 고도화·지능화돼 가는 사이버 위협에서 국가정보를 한층 더 강하게 보호하기 위해 이번 양자암호통신을 적용하게 됐다고 배경을 설명했다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국예탁결제원, 2022년 상반기 부산 사이버보안협의회 개최]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107929&amp;page=1&amp;mkind=1&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107929&amp;page=1&amp;mkind=1&amp;kind=2"/>
-        <updated>2022-06-30T01:26:10.329Z</updated>
-        <content type="html"><![CDATA[한국예탁결제원은 지난 29일 ‘2022년 상반기 부산 사이버보안협의회’를 개최했다. 올해 상반기 협의회에서는 △최근 사이버위협 동향 △보안 전문가 특강 △기관별 사이버 대응 논의 등으로 진행됐다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[고리원자력본부, 상반기 협력사 정보보안협의회 개최]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107930&amp;page=1&amp;mkind=1&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107930&amp;page=1&amp;mkind=1&amp;kind=2"/>
-        <updated>2022-06-30T01:26:10.331Z</updated>
-        <content type="html"><![CDATA[한국수력원자력 고리원자력본부는 지난 27일 ‘2022년 상반기 협력사 정보보안협의회’를 개최했다. 협력사 정보보안협의회는 고리원자력본부와 사업소 내 상주 협력회사 간 사이버 위협 공동 대응을 위해 구성돼 관련 현안을 논의하고 기술 공유를 통해 정보보안 수준을 동반 향상...]]></content>
     </entry>
 </feed>
