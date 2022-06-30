@@ -4,9 +4,33 @@
         <title>보안뉴스 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Jun 2022 04:40:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jun 2022 05:26:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022년 상반기 사이버 보안 동향 결산, 공격자 혁신 조짐 3가지]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107815&amp;page=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107815&amp;page=1&amp;kind=3</guid>
+            <pubDate>Thu, 30 Jun 2022 05:23:34 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 상반기를 정리해 보면 공격자는 서비스형 멀웨어를 개발 및 판매하고, 공급망 공격을 서슴없이 시도했다. 그런데 앞으로는 사이버 공격자들의 행위가 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/cyberark.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[log4j 교훈 잊었나? 2년 이상 방치된 오픈소스 88%가 사용 중]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107948&amp;page=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107948&amp;page=1&amp;kind=3</guid>
+            <pubDate>Thu, 30 Jun 2022 05:23:34 GMT</pubDate>
+            <content:encoded><![CDATA[사상 최악의 보안 취약점으로 손꼽히는 Log4j 취약점 발견으로 오픈소스 관리의 중요성이 강조됐지만, 아직도 오픈소스 사용 기업의 88%가 2년 이상 방치...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20159494_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[새로운 중국 APT 단체, 건물 자동화 시스템 통해 공격 실시]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107949&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107949&amp;page=1&amp;kind=1</guid>
+            <pubDate>Thu, 30 Jun 2022 05:23:34 GMT</pubDate>
+            <content:encoded><![CDATA[현재까지 한 번도 발견된 적 없던 중국 APT 단체가 새롭게 모습을 드러냈다. 이들은 마이크로소프트 익스체인지(Microsoft Exchange)의 프록시...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/bas-thumb-0630.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[KT텔레캅, 환경부 주관 환경보호 캠페인 ‘고고 챌린지’ 참여]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107937&amp;page=1&amp;kind=3</link>
@@ -64,30 +88,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/chip-thumb-0630.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[사무실로 돌아오기 싫어하는 직원들이 있을 때 기업이 알아두어야 할 것]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107866&amp;page=1&amp;kind=4</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107866&amp;page=1&amp;kind=4</guid>
-            <pubDate>Thu, 30 Jun 2022 01:25:45 GMT</pubDate>
-            <content:encoded><![CDATA[2020년 코로나가 전 세계를 휩쓸었을 때, 그래서 기업들이 전부 ‘봉쇄 체제’에 돌입했을 때, 모든 사람들이 집으로 돌아가 업무를 수행하기 시작했다. 그...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20239169_copy_295x190_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[국가융합망에 양자암호통신 첫 적용, 국가정보 보안 강화]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107919&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107919&amp;page=1&amp;kind=2</guid>
-            <pubDate>Thu, 30 Jun 2022 01:25:45 GMT</pubDate>
-            <content:encoded><![CDATA[국가정보자원관리원은 30일 ‘국가융합망’에 양자암호통신을 48개 기관 중 33개 기관에 처음으로 적용한다고 밝혔다. 관리원은 점점 더 고도화·지능화돼 가는...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20220630quantum-s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[단독] 샌드박스 분석 플랫폼에 분석 맡긴 ‘개인정보’ 고스란히 유출됐다]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107905&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107905&amp;page=1&amp;kind=1</guid>
-            <pubDate>Wed, 29 Jun 2022 09:17:04 GMT</pubDate>
-            <content:encoded><![CDATA[사용자가 ‘악성파일’인지 확인하기 위해 사용하는 ‘웹 기반 샌드박스 분석 플랫폼’에서 다수의 개인정보가 유출된 정황이 포착됐다. 특히 글로벌 사이트임에도 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/sundae_0629001_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[라온화이트햇, 피싱 방지·차단 서비스 ‘스마트안티피싱’ 출시]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107938&amp;page=1&amp;kind=3</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107938&amp;page=1&amp;kind=3</guid>
@@ -125,6 +125,14 @@
             <pubDate>Thu, 30 Jun 2022 01:25:45 GMT</pubDate>
             <content:encoded><![CDATA[시큐아이(대표 정삼용)가 11년 연속 국내 네트워크 보안 시장 1위를 달성했다. 글로벌 시장조사 기관 프로스트 앤 설리번이 발표한 ‘2021년 APAC 네...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/secui20220630-C.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[사무실로 돌아오기 싫어하는 직원들이 있을 때 기업이 알아두어야 할 것]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107866&amp;page=1&amp;kind=4</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107866&amp;page=1&amp;kind=4</guid>
+            <pubDate>Thu, 30 Jun 2022 01:25:45 GMT</pubDate>
+            <content:encoded><![CDATA[2020년 코로나가 전 세계를 휩쓸었을 때, 그래서 기업들이 전부 ‘봉쇄 체제’에 돌입했을 때, 모든 사람들이 집으로 돌아가 업무를 수행하기 시작했다. 그...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20239169_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[넷스카우트 옴니스 AED 201% 투자 수익률 제공]]></title>
@@ -214,27 +222,19 @@
             <content:encoded><![CDATA[한국 정부의 전자인사관리시스템(e-사람)이 인사행정 분야 디지털 혁신 대표 사례로 소개되며 국제사회의 주목을 받고 있다. 인사혁신처는 카자흐스탄 소재 공공...]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[국가융합망에 양자암호통신 첫 적용, 국가정보 보안 강화]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107919&amp;page=1&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107919&amp;page=1&amp;kind=2</guid>
+            <pubDate>Thu, 30 Jun 2022 01:25:45 GMT</pubDate>
+            <content:encoded><![CDATA[국가정보자원관리원은 30일 ‘국가융합망’에 양자암호통신을 48개 기관 중 33개 기관에 처음으로 적용한다고 밝혔다. 관리원은 점점 더 고도화·지능화돼 가는...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20220630quantum-s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[새로운 불법·유해환경으로부터 청소년 안전 지킨다]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107920&amp;page=1&amp;kind=2</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107920&amp;page=1&amp;kind=2</guid>
             <pubDate>Thu, 30 Jun 2022 01:25:45 GMT</pubDate>
             <content:encoded><![CDATA[정부는 지난 29일 관계 부처 합동으로 다양한 매체환경에서 나타날 수 있는 유해요인으로부터 청소년을 보호하고 건강한 성장환경을 조성하기 위한 ‘제4차 청소...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[국립공원 급경사지, 3차원 영상으로 안전 점검한다]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107922&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107922&amp;page=1&amp;kind=2</guid>
-            <pubDate>Thu, 30 Jun 2022 01:25:45 GMT</pubDate>
-            <content:encoded><![CDATA[환경부 산하 국립공원공단은 태풍 및 호우 등 여름철 자연재난에 대비하기 위해 국립공원 내 급경사지의 안전 점검에 무인기(드론) 및 3차원 모델링 기술을 처...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/6-313(295).jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[KT, 초정밀 측위 사업 본격화]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107923&amp;page=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107923&amp;page=1&amp;kind=3</guid>
-            <pubDate>Thu, 30 Jun 2022 01:25:45 GMT</pubDate>
-            <content:encoded><![CDATA[디지코 KT가 글로벌 리딩 위치정보 테크 기업과 손잡고 초정밀 측위 사업에 본격 나서면서 모빌리티 시장 리더십을 강화한다. KT는 미국 실리콘밸리의 스위프...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/6-314(295).jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Jun 2022 04:40:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jun 2022 05:26:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -136,14 +136,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20220627seagate-s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[러시아의 APT28도 폴리나 취약점 익스플로잇 하기 시작]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107735&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107735&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Fri, 24 Jun 2022 01:23:26 GMT</pubDate>
-            <content:encoded><![CDATA[악명이 자자한 러시아의 APT 단체인 APT28이 MS 윈도에서 최근 발견됐다가 패치된 폴리나(Follina) 취약점을 익스플로잇 하기 시작했다. 보안 업체 멀웨...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/22054732_copy_295x190_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[항공보안 이슈진단-2] 사이버보안 위협 대비 기반 미래형 항공보안 실현]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107802&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107802&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
@@ -166,6 +158,14 @@
             <pubDate>Wed, 29 Jun 2022 12:33:43 GMT</pubDate>
             <content:encoded><![CDATA[떨림과 설렘을 가득 안고 [BN미팅]에서 만나볼 그 첫 번째 주인공은 바로 시큐레터 양승환 팀장이다. 이 바닥에서 소위 ‘영재’라는 소리 들으며 어려서부터 발을 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20220628letter-ms.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022년 하반기 시작 7월, 물리·정보보안 업계가 찾고 있는 인재는?]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107773&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107773&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
+            <pubDate>Thu, 30 Jun 2022 05:23:45 GMT</pubDate>
+            <content:encoded><![CDATA[본격적인 무더위와 하반기의 시작을 알리는 7월이 코앞으로 다가왔다. 아직 실내에서의 마스크 착용은 지속되고 있지만, 항공산업의 회복 등으로 그동안 미진했던 국내 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20220629JOB-S.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

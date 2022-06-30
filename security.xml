@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-06-30T04:40:59.315Z</updated>
+    <updated>2022-06-30T05:26:36.298Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[라온화이트햇, 피싱 방지·차단 서비스 ‘스마트안티피싱’ 출시]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107938&amp;page=1&amp;mkind=1&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107938&amp;page=1&amp;mkind=1&amp;kind=3"/>
+        <updated>2022-06-30T05:23:58.191Z</updated>
+        <content type="html"><![CDATA[IT통합보안·인증 선도기업 라온시큐어의 자회사 라온화이트햇(대표 이정아)이 피싱 사기 방지 및 차단 서비스 ‘스마트안티피싱(Smart Antiphishing)’을 출시했다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[지란지교데이터, 스파크플러스와 SMB 정보보안 역량 강화 지원]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107936&amp;page=1&amp;mkind=1&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107936&amp;page=1&amp;mkind=1&amp;kind=3"/>
+        <updated>2022-06-30T05:23:58.192Z</updated>
+        <content type="html"><![CDATA[개인정보보호 SW 전문 기업 지란지교데이터가 소호·중소기업 개인정보보호 체계 강화를 지원하기 위해 공유오피스 전문 기업 스파크플러스와 손을 잡았다. 30일 지란지교데이터(대표 조원희)는 스파크플러스와 ‘스파크플러스 입주사의 개인정보 유출방지 역량 강화 지원을 위한 업무...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[기업대상 상시 ‘해킹메일 모의훈련’ 가능한 플랫폼 만든다]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107931&amp;page=1&amp;mkind=1&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107931&amp;page=1&amp;mkind=1&amp;kind=2"/>
+        <updated>2022-06-30T05:23:58.194Z</updated>
+        <content type="html"><![CDATA[기업이 해킹메일에 대한 모의훈련을 상시적으로 반복 훈련할 수 있도록 ‘상시 해킹메일 모의훈련 플랫폼’이 구축된다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[유튜브 콘텐츠 훔치는 YT스틸러 멀웨어, 크리에이터들 노려]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=107943&amp;page=1&amp;mkind=1&amp;kind=1</id>
@@ -102,26 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=107905&amp;page=1&amp;mkind=1&amp;kind=1"/>
         <updated>2022-06-30T01:26:10.331Z</updated>
         <content type="html"><![CDATA[사용자가 ‘악성파일’인지 확인하기 위해 사용하는 ‘웹 기반 샌드박스 분석 플랫폼’에서 다수의 개인정보가 유출된 정황이 포착됐다. 특히 글로벌 사이트임에도 불구하고 유출된 자료에는 한국인 자료가 다수 포함된 것으로 알려졌다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[케이사인, 자회사 샌즈랩 코스닥 상장 기술평가 A 등급 획득]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107888&amp;page=1&amp;mkind=1&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107888&amp;page=1&amp;mkind=1&amp;kind=3"/>
-        <updated>2022-06-30T01:26:10.331Z</updated>
-        <content type="html"><![CDATA[정보보안 전문업체 케이사인(대표 최승락)은 사이버 위협 인텔리전스 서비스 전문기업 샌즈랩(대표 김기홍)이 올해 하반기를 목표로 진행중인 기술특례상장을 위한 기술사업계획서 평가에서 모두 A등급을 받았다고 29일 밝혔다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[파고네트웍스, 사이웨어 기술·플랫폼 이용해 ‘사이버 퓨전 센터’ 구축]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107903&amp;page=1&amp;mkind=1&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107903&amp;page=1&amp;mkind=1&amp;kind=3"/>
-        <updated>2022-06-30T01:26:10.333Z</updated>
-        <content type="html"><![CDATA[사이웨어는 엔터프라이즈 기업과 MSSP/MDR 서비스 사업자를 대상으로 기존의 보안 관제센터를 대비해 상당 수준으로 업그레이드된 ‘사이버 퓨전 센터’ 구축을 지원하고, ISAC/ISAO 기관들을 위한 위협 인텔리전스 공유 체계를 지원해 주는 보안 플랫폼 전문 기업이다....]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[넷앤드, ‘커뮤닉아시아 2022’ 참가해  HIWARE 선보여]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107889&amp;page=1&amp;mkind=1&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107889&amp;page=1&amp;mkind=1&amp;kind=3"/>
-        <updated>2022-06-29T09:17:34.688Z</updated>
-        <content type="html"><![CDATA[통합 접근 및 계정관리 솔루션 전문 기업 넷앤드가 세계 주요 ICT 및 사이버 보안 박람회에 연이어 참가해 대표 제품 HIWARE를 소개했다. 넷앤드는 최근 싱가포르에서 열린 아시아 최대이자 세계 4대 정보통신 박람회 ‘커뮤닉아시아 2022’에 참가했다고 밝혔다. 코로...]]></content>
     </entry>
 </feed>
