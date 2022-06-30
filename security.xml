@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-06-30T09:19:12.127Z</updated>
+    <updated>2022-06-30T10:25:44.761Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아동·청소년 개인정보 보호, 학부모와 함께 이야기한다]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107954&amp;page=1&amp;mkind=1&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107954&amp;page=1&amp;mkind=1&amp;kind=2"/>
+        <updated>2022-06-30T10:23:24.949Z</updated>
+        <content type="html"><![CDATA[본인 개인정보의 가치를 인식하는 데 있어서, 성인에 비해 상대적으로 취약할 수밖에 없는 아동과 청소년들의 개인정보 보호를 강화하기 위해 학부모들이 함께 모여 의견을 나누는 자리가 마련된다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[3개월 전에 사라졌던 라쿤스틸러, 최근 버전 2 나오며 활동 재개]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=107951&amp;page=1&amp;mkind=1&amp;kind=1</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=107907&amp;page=1&amp;mkind=1&amp;kind=3"/>
         <updated>2022-06-30T01:26:10.327Z</updated>
         <content type="html"><![CDATA[사이버 보안, 서비스 보증 및 비즈니스 분석 솔루션 제공업체인 넷스카우트는 오늘 Forrester Consulting의 위탁을 받은 Total Economic Impact™ 연구 결과를 공개했다. 이 연구는 분산 서비스 거부(Distributed Denial of Se...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[방통위, 국민은행·카카오뱅크·신한은행·하나은행 등 4사 본인확인기관 지정]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107914&amp;page=1&amp;mkind=1&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107914&amp;page=1&amp;mkind=1&amp;kind=2"/>
-        <updated>2022-06-30T01:26:10.328Z</updated>
-        <content type="html"><![CDATA[방송통신위원회는 지난 29일 국민은행, 카카오뱅크, 신한은행, 하나은행 등 4사에 대한 본인확인기관 지정을 의결했다. 본인확인기관은 정보통신망법 제23조의2에 따라 온라인상에서 주민등록번호가 아닌 아이핀, 휴대폰, 신용카드, 인증서 등 대체수단을 이용해 본인 여부를 확...]]></content>
     </entry>
 </feed>
