@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-06-30T05:26:36.298Z</updated>
+    <updated>2022-06-30T06:24:26.483Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[새로운 중국 APT 단체, 건물 자동화 시스템 통해 공격 실시]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107949&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107949&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-06-30T06:21:45.666Z</updated>
+        <content type="html"><![CDATA[현재까지 한 번도 발견된 적 없던 중국 APT 단체가 새롭게 모습을 드러냈다. 이들은 마이크로소프트 익스체인지(Microsoft Exchange)의 프록시로그온(ProxyLogon) 취약점을 익스플로잇 하고 있으며, 이를 통해 셰도우패드(ShadowPad)라는 백도어 ...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[라온화이트햇, 피싱 방지·차단 서비스 ‘스마트안티피싱’ 출시]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=107938&amp;page=1&amp;mkind=1&amp;kind=3</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=107930&amp;page=1&amp;mkind=1&amp;kind=2"/>
         <updated>2022-06-30T01:26:10.331Z</updated>
         <content type="html"><![CDATA[한국수력원자력 고리원자력본부는 지난 27일 ‘2022년 상반기 협력사 정보보안협의회’를 개최했다. 협력사 정보보안협의회는 고리원자력본부와 사업소 내 상주 협력회사 간 사이버 위협 공동 대응을 위해 구성돼 관련 현안을 논의하고 기술 공유를 통해 정보보안 수준을 동반 향상...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[단독] 샌드박스 분석 플랫폼에 분석 맡긴 ‘개인정보’ 고스란히 유출됐다]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107905&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107905&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-06-30T01:26:10.331Z</updated>
-        <content type="html"><![CDATA[사용자가 ‘악성파일’인지 확인하기 위해 사용하는 ‘웹 기반 샌드박스 분석 플랫폼’에서 다수의 개인정보가 유출된 정황이 포착됐다. 특히 글로벌 사이트임에도 불구하고 유출된 자료에는 한국인 자료가 다수 포함된 것으로 알려졌다.]]></content>
     </entry>
 </feed>
