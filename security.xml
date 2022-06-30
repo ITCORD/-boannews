@@ -2,9 +2,65 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-06-30T01:28:42.925Z</updated>
+    <updated>2022-06-30T03:44:50.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[유튜브 콘텐츠 훔치는 YT스틸러 멀웨어, 크리에이터들 노려]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107943&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107943&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-06-30T03:42:11.208Z</updated>
+        <content type="html"><![CDATA[보안 외신 해커뉴스에 의하면 유튜브 생태계에 새로운 멀웨어가 출현했다고 한다. 이름은 YT스틸러(YTStealer)이며, 유튜브 콘텐츠 크리에이터들의 인증 쿠키를 노린다. 이를 발견한 보안 업체 인테저(Intezer)에 의하면 YT스틸러는 다크웹에서 쉽게 구매가 가능하...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[UnRAR 유틸리티의 제로데이 취약점, 짐브라 메일 서버 위험하게 해]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107942&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107942&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-06-30T03:42:11.208Z</updated>
+        <content type="html"><![CDATA[보안 블로그 시큐리티어페어즈에 의하면 인기 리에 사용되는 압축 해제 유틸리티인 UnRAR에서 경로 조작 취약점이 발견됐다고 한다. 이 취약점은 CVE-2022-30333이며, 이를 통해 짐브라 웹메일(Zimbra Webmail) 서버를 원격에서 해킹하는 게 가능하다고 ...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[파이어폭스 102, 19개 보안 취약점 패치하고 프라이버시 강화]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107941&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107941&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-06-30T03:42:11.209Z</updated>
+        <content type="html"><![CDATA[보안 외신 시큐리티위크에 의하면 모질라(Mozilla)가 파이어폭스 102를 발표하며 19개의 보안 취약점을 패치했다고 한다. 이 19개 취약점 중에는 고위험도로 분류된 것이 4개 포함되어 있다. 또한 프라이버시 기능도 강화했다고 모질라는 발표했다. 가장 위험한 취약점...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[월마트, 랜섬웨어 공격에 당했다는 주장에 거짓이라고 반박]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107940&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107940&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-06-30T03:42:11.211Z</updated>
+        <content type="html"><![CDATA[IT 외신 블리핑컴퓨터에 의하면 최근 미국의 대형 도소매 체인인 월마트(Walmart)가 얀루오왕(Yanluowang)이라는 사이버 갱단의 랜섬웨어 공격에 당했다고 한다. 얀루오왕 측은 자신들의 공격이 성공했으며 4만~5만 대의 컴퓨터 장비가 암호화 돼 마비 상태라고 ...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[랜섬하우스 갱단, 450GB의 데이터를 AMD로부터 훔쳐냈다고 주장]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107939&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107939&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-06-30T03:42:11.211Z</updated>
+        <content type="html"><![CDATA[보안 외신 핵리드에 의하면 미국의 대형 칩 제조사인 AMD에서 데이터 유출 사고가 발생한 것으로 보인다고 한다. 랜섬하우스(RansomHouse)라는 사이버 갱단이 450GB의 금융 및 연구 데이터를 AMD로부터 빼돌렸다고 주장하기 시작했으며, 현재 이 주장의 진위 여...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[파수, ‘랩소디’ 편의성 강화하고 도면 파일 등 지원 확대]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107933&amp;page=1&amp;mkind=1&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107933&amp;page=1&amp;mkind=1&amp;kind=3"/>
+        <updated>2022-06-30T03:42:11.212Z</updated>
+        <content type="html"><![CDATA[수(대표 조규곤)는 사용자 편의성을 대폭 향상한 신규 버전의 엔터프라이즈 문서 플랫폼 랩소디(Wrapsody)를 선보였다. 새로워진 랩소디는 드라이브 방식을 적용하고 CAD를 포함한 애플리케이션 지원을 대폭 확대, 편의성과 활용성을 크게 향상했다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[주니퍼 네트웍스, “AI/ML 리더 44%, 해킹과 AI 테러 우려”]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107934&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107934&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-06-30T03:42:11.219Z</updated>
+        <content type="html"><![CDATA[안전한 AI 기반 네트워크 전문업체 주니퍼 네트웍스가 지난 12개월 동안 엔터프라이즈 AI 도입 증가에 따른 조직의 실질적인 이점을 보여주는 글로벌 연구 프로젝트 결과를 발표했다. 그러나 여전히 숙련된 인력 부족과 미흡한 거버넌스 정책으로 인해 해결해야 할 과제가 남아...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[시큐아이, 11년 연속 국내 네트워크 보안 시장 1위 달성]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107932&amp;page=1&amp;mkind=1&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107932&amp;page=1&amp;mkind=1&amp;kind=3"/>
+        <updated>2022-06-30T03:42:11.227Z</updated>
+        <content type="html"><![CDATA[시큐아이(대표 정삼용)가 11년 연속 국내 네트워크 보안 시장 1위를 달성했다. 글로벌 시장조사 기관 프로스트 앤 설리번이 발표한 ‘2021년 APAC 네트워크 보안시장’보고서에 따르면, 시큐아이는 전년대비 4%p 상승한 점유율을 기록하며 국내 네트워크 보안시장 1위를...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[넷스카우트 옴니스 AED 201% 투자 수익률 제공]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=107907&amp;page=1&amp;mkind=1&amp;kind=3</id>
@@ -67,61 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=107889&amp;page=1&amp;mkind=1&amp;kind=3"/>
         <updated>2022-06-29T09:17:34.688Z</updated>
         <content type="html"><![CDATA[통합 접근 및 계정관리 솔루션 전문 기업 넷앤드가 세계 주요 ICT 및 사이버 보안 박람회에 연이어 참가해 대표 제품 HIWARE를 소개했다. 넷앤드는 최근 싱가포르에서 열린 아시아 최대이자 세계 4대 정보통신 박람회 ‘커뮤닉아시아 2022’에 참가했다고 밝혔다. 코로...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[시큐어시스템즈-InforSec Plus,  업무협약으로 몽골에 보안 서비스 상호협력]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107892&amp;page=1&amp;mkind=1&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107892&amp;page=1&amp;mkind=1&amp;kind=3"/>
-        <updated>2022-06-29T07:16:00.939Z</updated>
-        <content type="html"><![CDATA[인공지능 보안관제 전문업체 시큐어시스템즈(대표 손동식)가 몽골 사이버보안 1위 업체 InforSec Plus(대표 Ganbayar Uuganbayar)와 업무협약을 맺고, 몽골의 주요산업에 보안관제제품의 공급 및 정보보안 컨설팅과 보안관제 서비스 분야에서 상호협력한다....]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[개인정보위, 개인정보보호 ‘민관협력 자율규제’ 설명회 개최]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107904&amp;page=1&amp;mkind=1&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107904&amp;page=1&amp;mkind=1&amp;kind=2"/>
-        <updated>2022-06-29T07:16:00.942Z</updated>
-        <content type="html"><![CDATA[개인정보보호위원회(위원장 윤종인, 이하 ‘개인정보위’)는 온라인플랫폼 분야 개인정보 보호 강화를 위한 ‘민관협력 자율규제’ 설명회를 6월 29일(수) 개최했다고 밝혔다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[기업노린 랜섬웨어 기승부리는데... 대응책 마련한 한국 기업 겨우 40% 불과]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107902&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107902&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-06-29T07:16:00.943Z</updated>
-        <content type="html"><![CDATA[기업과 기관을 노리는 랜섬웨어 공격은 날로 증가하고 있지만, 아직도 랜섬웨어 대응책을 마련한 한국 기업은 40% 수준인 것으로 알려져 충격을 주고 있다. 주요 정보 시스템, 사이버 보안 및 데이터 보안 기업 탈레스는 ‘2022 데이터 위협 보고서(2022 Thales ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[APT 해커들, ICS 시스템 침투하여 셰도우패드 백도어 심어]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107899&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107899&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-06-29T07:16:00.944Z</updated>
-        <content type="html"><![CDATA[보안 외신인 해커뉴스에 의하면 최근 마이크로소프트 익스체인지 서버를 겨냥한 공격 캠페인이 한창 진행되고 있다고 한다. 특히 아프가니스탄과 말레이시아, 파키스탄의 기업과 기관들에서 피해가 발생하고 있는데, 공격자들의 목적은 셰도우패드(ShadowPad)라는 백도어를 심는...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최신 오픈SSL 라이브러리, 원격 메모리 변형 취약점 내포해]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107898&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107898&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-06-29T07:16:00.946Z</updated>
-        <content type="html"><![CDATA[보안 블로그 시큐리티어페어즈에 의하면 최근 발표된 오픈SSL(OpenSSL) 3.0.4 버전에서 메모리 변형 취약점이 발견됐다고 한다. 3.0.4 버전은 2022년 6월 21일에 발표된 것으로, 이번 취약점은 AVX512를 지원하는 x64 시스템들에만 영향을 준다. 익...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[온라인 성적 학대에 가담한 10명 용의자, 유럽에서 체포돼]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107897&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107897&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-06-29T07:16:00.947Z</updated>
-        <content type="html"><![CDATA[유럽 여러 나라와 브라질의 사법 기관이 공조를 통해 인신매매 및 성적 학대를 일삼던 조직원 10명이 체포됐다고 보안 외신 핵리드가 보도했다. 프랑스, 스페인, 포르투갈, 브라질 경찰이 이 작전에 참여했으며, 여러 국가에서 동시다발적인 체포가 이뤄졌다. 체포된 10명 중...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[가정용 라우터 하이재킹하는 멀웨어, 주로랫 발견돼]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107896&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107896&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-06-29T03:48:14.541Z</updated>
-        <content type="html"><![CDATA[보안 외신 해커뉴스에 의하면 새로운 원격 접근 트로이목마가 발견됐다고 한다. 이름은 주로랫(ZuroRAT)이라고 하며, 주로 소규모 사무실이나 가정용 라우터를 공략한다. 현재까지는 북미와 유럽에서 피해가 발견되는 중이다. 피해자의 시스템에 주로랫을 설치하는 데 성공한 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[해킹 그룹 에빌넘, 난민과 이주 관련 기관들 집중 공략 중]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107895&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107895&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-06-29T03:48:14.542Z</updated>
-        <content type="html"><![CDATA[IT 외신 블리핑컴퓨터에 의하면 악명 높은 해킹 그룹인 에빌넘(Evilnum)이 다시 활동을 시작한 것으로 보인다고 한다. 이번에는 유럽의 난민 관련 기구들이 집중 공략 대상이라고 하며, 악성 매트로가 적용된 메일이 이러한 기구들 내 직원들에게 대량으로 발송되는 중이다...]]></content>
     </entry>
 </feed>
