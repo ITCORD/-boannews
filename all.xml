@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Jun 2022 03:44:50 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jun 2022 04:40:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -325,6 +325,14 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/esrc_062401_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[단독] 샌드박스 분석 플랫폼에 분석 맡긴 ‘개인정보’ 고스란히 유출됐다 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107905&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107905&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Thu, 30 Jun 2022 01:25:56 GMT</pubDate>
+            <content:encoded><![CDATA[사용자가 ‘악성파일’인지 확인하기 위해 사용하는 ‘웹 기반 샌드박스 분석 플랫폼’에서 다수의 개인정보가 유출된 정황이 포착됐다. 특히 글로벌 사이트임에도 불구하고...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/sundae_0629001_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[과감한 다중인증 결정을 내린 깃허브에 박수를 보낸다 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107737&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107737&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
@@ -339,14 +347,6 @@
             <pubDate>Sun, 26 Jun 2022 14:14:16 GMT</pubDate>
             <content:encoded><![CDATA[6월 23일 발간된 ‘Weekly Security Premium Report’ 제56호에는 &lt;보안 심층 리포트&gt; 코너에서 마이크로소프트가 지난 6월 1...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20220623report-sm.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
-            <title><![CDATA[[단독] 샌드박스 분석 플랫폼에 분석 맡긴 ‘개인정보’ 고스란히 유출됐다 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107905&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107905&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Thu, 30 Jun 2022 01:25:56 GMT</pubDate>
-            <content:encoded><![CDATA[사용자가 ‘악성파일’인지 확인하기 위해 사용하는 ‘웹 기반 샌드박스 분석 플랫폼’에서 다수의 개인정보가 유출된 정황이 포착됐다. 특히 글로벌 사이트임에도 불구하고...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/sundae_0629001_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[행정안전부, 경찰업무조직 신설 방침 확정... ‘경찰국’ 만든다 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
