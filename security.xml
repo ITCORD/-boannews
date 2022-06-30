@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-06-30T08:26:58.275Z</updated>
+    <updated>2022-06-30T09:19:12.127Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[3개월 전에 사라졌던 라쿤스틸러, 최근 버전 2 나오며 활동 재개]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107951&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107951&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-06-30T09:16:38.106Z</updated>
+        <content type="html"><![CDATA[악명 높은 멀웨어인 라쿤스틸러(Racoon Stealer)의 개발자들이 새로운 멀웨어를 발표했다. 라쿤스틸러의 운영을 중단한 후 3개월 만의 일이다. 참고로 라쿤스틸러 운영 단체의 수석 개발자는 우크라이나에서 사망한 것으로 전해지고 있다. 이 때문에 운영이 중단된 것이...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022년 상반기 사이버 보안 동향 결산, 공격자 혁신 조짐 3가지]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=107815&amp;page=1&amp;mkind=1&amp;kind=3</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=107914&amp;page=1&amp;mkind=1&amp;kind=2"/>
         <updated>2022-06-30T01:26:10.328Z</updated>
         <content type="html"><![CDATA[방송통신위원회는 지난 29일 국민은행, 카카오뱅크, 신한은행, 하나은행 등 4사에 대한 본인확인기관 지정을 의결했다. 본인확인기관은 정보통신망법 제23조의2에 따라 온라인상에서 주민등록번호가 아닌 아이핀, 휴대폰, 신용카드, 인증서 등 대체수단을 이용해 본인 여부를 확...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국가융합망에 양자암호통신 첫 적용, 국가정보 보안 강화]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107919&amp;page=1&amp;mkind=1&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107919&amp;page=1&amp;mkind=1&amp;kind=2"/>
-        <updated>2022-06-30T01:26:10.328Z</updated>
-        <content type="html"><![CDATA[국가정보자원관리원은 30일 ‘국가융합망’에 양자암호통신을 48개 기관 중 33개 기관에 처음으로 적용한다고 밝혔다. 관리원은 점점 더 고도화·지능화돼 가는 사이버 위협에서 국가정보를 한층 더 강하게 보호하기 위해 이번 양자암호통신을 적용하게 됐다고 배경을 설명했다.]]></content>
     </entry>
 </feed>

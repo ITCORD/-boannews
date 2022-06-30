@@ -4,9 +4,17 @@
         <title>보안뉴스 ─ Security World</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 30 Jun 2022 08:26:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Jun 2022 09:19:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[시놀로지, 5베이 올인원 시토리지 솔루션 DiskS...]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107953&amp;mkind=5</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107953&amp;mkind=5</guid>
+            <pubDate>Thu, 30 Jun 2022 09:17:15 GMT</pubDate>
+            <content:encoded><![CDATA[시놀로지(Synology)는 6월 30일 새로운 5베이 Synology DiskStation DS1522+를 발표, 전국 Synology 파트너와 대리점에...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/Synology%20DS1522_sum.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[KT텔레캅, 환경부 주관 환경보호 캠페인 ‘고고 챌...]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107937&amp;mkind=5</link>
@@ -14,14 +22,6 @@
             <pubDate>Thu, 30 Jun 2022 03:42:44 GMT</pubDate>
             <content:encoded><![CDATA[보안전문기업 KT텔레캅(대표 장지호)은 장지호 대표와 임직원들이 환경부의 환경보호 캠페인 ‘고고 챌린지’에 동참한다고 30일 밝혔다.]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/KT%20telecop_20220630_01_sum.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[한화시스템의 영상 화질 개선 솔루션, 세계적 AI ...]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107927&amp;mkind=5</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107927&amp;mkind=5</guid>
-            <pubDate>Thu, 30 Jun 2022 01:26:45 GMT</pubDate>
-            <content:encoded><![CDATA[한화시스템이 세계적인 AI 딥러닝 및 컴퓨터 비전 분야 학술대회인 ‘CVPR 2022’에서 열린 AI 업스케일링(화질 개선) 분야 경연대회에서 1위를 기록...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/6-318(295).jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

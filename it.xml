@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=2</id>
     <title>보안뉴스 ─ IT</title>
-    <updated>2022-06-30T08:26:58.289Z</updated>
+    <updated>2022-06-30T09:19:12.121Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[무협, 빅데이터 기술 협력 통해 회원사 디지털 전환 가속화]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107908&amp;page=1&amp;mkind=2&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107908&amp;page=1&amp;mkind=2&amp;kind=2"/>
+        <updated>2022-06-30T09:16:50.532Z</updated>
+        <content type="html"><![CDATA[한국무역협회가 지난 28일 한국데이터산업협회와 ‘빅데이터 산업 활성화 및 디지털 전환(DX) 촉진을 위한 업무협약’을 체결하고 ‘빅데이터 트렌드 세미나’와 ‘DX전략 컨설팅’을 개최했다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[중기부와 삼성이 손잡고 혁신 팹리스 지원한다]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=107910&amp;page=1&amp;mkind=2&amp;kind=2</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=107868&amp;page=1&amp;mkind=2&amp;kind=2"/>
         <updated>2022-06-29T09:17:51.331Z</updated>
         <content type="html"><![CDATA[서울시는 시의 행정 데이터를 부서 칸막이 없이 공동 활용하고, 비전문가 또한 쉽게 이해하고 이용할 수 있는 ‘인공지능 기반 빅데이터 서비스 플랫폼(2단계)’ 구축 사업을 본격 착수한다고 밝혔다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[중기부, 하반기 스마트공장 보급에 총 718억원 지원]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107869&amp;page=1&amp;mkind=2&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107869&amp;page=1&amp;mkind=2&amp;kind=2"/>
-        <updated>2022-06-29T07:16:09.767Z</updated>
-        <content type="html"><![CDATA[중소벤처기업부는 하반기 ‘스마트공장 보급·확산 지원 사업’을 공고하고, 참여 희망 중소·중견기업의 신청을 29일부터 받는다고 밝혔다.]]></content>
     </entry>
 </feed>
