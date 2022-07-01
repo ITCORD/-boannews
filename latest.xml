@@ -4,9 +4,17 @@
         <title>보안뉴스 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Jul 2022 10:21:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Jul 2022 11:17:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022년 상반기에 발견된 제로데이 취약점은 18개, 막을 수 있었던 건 9개]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107987&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107987&amp;page=1&amp;kind=1</guid>
+            <pubDate>Fri, 01 Jul 2022 11:13:45 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 상반기가 막 지난 지금까지 발견된 제로데이 취약점은 총 18개로 집계됐다. 공격자들이 먼저 발견해 공격을 실시했던 취약점들이며, 절반은 사전에 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/07/20734555_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[기술 분야 책임자인 CTO, 우리 회사에도 필요할까?]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107956&amp;page=1&amp;kind=3</link>
@@ -80,14 +88,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/7-10(295).jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[전남도, 차세대 양자 기술로 행정망 해킹 차단]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107968&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107968&amp;page=1&amp;kind=2</guid>
-            <pubDate>Fri, 01 Jul 2022 08:22:10 GMT</pubDate>
-            <content:encoded><![CDATA[전남도가 현존하는 보안기술 중 가장 안전한 통신 암호화 방식으로 평가받는 ‘양자암호통신(Quantum Cryptography Communication)’ ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/7-9(295).jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[지란지교시큐리티, ‘스팸스나이퍼 6.0’ 출시]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107985&amp;page=1&amp;kind=3</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107985&amp;page=1&amp;kind=3</guid>
@@ -126,6 +126,14 @@
             <pubDate>Fri, 01 Jul 2022 08:22:10 GMT</pubDate>
             <content:encoded><![CDATA[한국서부발전이 중소협력기업의 산업경쟁력을 강화하기 위해 추진한 스마트공장 지원 사업이 첫 결실을 맺었다. 서부발전은 2019년부터 지속가능한 공감경영의 일...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/7-11(295).jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[전남도, 차세대 양자 기술로 행정망 해킹 차단]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107968&amp;page=1&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107968&amp;page=1&amp;kind=2</guid>
+            <pubDate>Fri, 01 Jul 2022 08:22:10 GMT</pubDate>
+            <content:encoded><![CDATA[전남도가 현존하는 보안기술 중 가장 안전한 통신 암호화 방식으로 평가받는 ‘양자암호통신(Quantum Cryptography Communication)’ ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/7-9(295).jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[LG, 고용노동부와 함께 청년 AI 인재 양성 나선다]]></title>
@@ -232,14 +240,6 @@
             <pubDate>Thu, 30 Jun 2022 09:16:12 GMT</pubDate>
             <content:encoded><![CDATA[한국인터넷신문협회(이하 인신협, 회장 이의춘)는 6월 30일 목요일 오전 7시 여의도 켄싱턴호텔 첼시홀에서 최형두 의원(국민의힘, 창원마산합포구)이 연사로...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/inter_063001_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[KISA, ‘사랑해 지구’ 행사로 ESG경영 적극 실천]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107955&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107955&amp;page=1&amp;kind=2</guid>
-            <pubDate>Thu, 30 Jun 2022 08:23:00 GMT</pubDate>
-            <content:encoded><![CDATA[한국인터넷진흥원(KISA, 원장 이원태)은 세계 환경의 달을 맞아 환경 교육, 업사이클링 체험, 친환경 제품 구매 등 환경 개선을 위한 ‘사랑해 지구(LO...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/kisa_063001_main.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

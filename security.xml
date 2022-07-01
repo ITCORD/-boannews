@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-07-01T10:21:57.278Z</updated>
+    <updated>2022-07-01T11:17:52.252Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[지란지교시큐리티, ‘스팸스나이퍼 6.0’ 출시]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107985&amp;page=1&amp;mkind=1&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107985&amp;page=1&amp;mkind=1&amp;kind=3"/>
+        <updated>2022-07-01T11:14:32.689Z</updated>
+        <content type="html"><![CDATA[보안SW 전문기업 지란지교시큐리티(대표 윤두식)는 보안성과 사용자 편의성을 한층 강화한 이메일 통합 보안 솔루션 스팸스나이퍼 6.0 버전을 출시했다고 5일 밝혔다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[호라이즌 브리지의 1억 달러 탈취 사건, 유력 용의자는 북한 라자루스]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=107982&amp;page=1&amp;mkind=1&amp;kind=1</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=107938&amp;page=1&amp;mkind=1&amp;kind=3"/>
         <updated>2022-06-30T05:23:58.191Z</updated>
         <content type="html"><![CDATA[IT통합보안·인증 선도기업 라온시큐어의 자회사 라온화이트햇(대표 이정아)이 피싱 사기 방지 및 차단 서비스 ‘스마트안티피싱(Smart Antiphishing)’을 출시했다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[지란지교데이터, 스파크플러스와 SMB 정보보안 역량 강화 지원]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107936&amp;page=1&amp;mkind=1&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107936&amp;page=1&amp;mkind=1&amp;kind=3"/>
-        <updated>2022-06-30T05:23:58.192Z</updated>
-        <content type="html"><![CDATA[개인정보보호 SW 전문 기업 지란지교데이터가 소호·중소기업 개인정보보호 체계 강화를 지원하기 위해 공유오피스 전문 기업 스파크플러스와 손을 잡았다. 30일 지란지교데이터(대표 조원희)는 스파크플러스와 ‘스파크플러스 입주사의 개인정보 유출방지 역량 강화 지원을 위한 업무...]]></content>
     </entry>
 </feed>

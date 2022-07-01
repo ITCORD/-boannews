@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Jul 2022 10:21:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Jul 2022 11:17:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[2022년 상반기에 발견된 제로데이 취약점은 18개, 막을 수 있었던 건 9개 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107987&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107987&amp;page=1&amp;kind=1</guid>
+            <pubDate>Fri, 01 Jul 2022 11:13:45 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 상반기가 막 지난 지금까지 발견된 제로데이 취약점은 총 18개로 집계됐다. 공격자들이 먼저 발견해 공격을 실시했던 취약점들이며, 절반은 사전에 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/07/20734555_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[기술 분야 책임자인 CTO, 우리 회사에도 필요할까? (보안뉴스 ─ 전체기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107956&amp;page=1&amp;kind=3</link>
@@ -80,14 +88,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/7-10(295).jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[전남도, 차세대 양자 기술로 행정망 해킹 차단 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107968&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107968&amp;page=1&amp;kind=2</guid>
-            <pubDate>Fri, 01 Jul 2022 08:22:10 GMT</pubDate>
-            <content:encoded><![CDATA[전남도가 현존하는 보안기술 중 가장 안전한 통신 암호화 방식으로 평가받는 ‘양자암호통신(Quantum Cryptography Communication)’ ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/7-9(295).jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[지란지교시큐리티, ‘스팸스나이퍼 6.0’ 출시 (보안뉴스 ─ 전체기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107985&amp;page=1&amp;kind=3</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107985&amp;page=1&amp;kind=3</guid>
@@ -126,6 +126,14 @@
             <pubDate>Fri, 01 Jul 2022 08:22:10 GMT</pubDate>
             <content:encoded><![CDATA[한국서부발전이 중소협력기업의 산업경쟁력을 강화하기 위해 추진한 스마트공장 지원 사업이 첫 결실을 맺었다. 서부발전은 2019년부터 지속가능한 공감경영의 일...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/7-11(295).jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[전남도, 차세대 양자 기술로 행정망 해킹 차단 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107968&amp;page=1&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107968&amp;page=1&amp;kind=2</guid>
+            <pubDate>Fri, 01 Jul 2022 08:22:10 GMT</pubDate>
+            <content:encoded><![CDATA[전남도가 현존하는 보안기술 중 가장 안전한 통신 암호화 방식으로 평가받는 ‘양자암호통신(Quantum Cryptography Communication)’ ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/7-9(295).jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[LG, 고용노동부와 함께 청년 AI 인재 양성 나선다 (보안뉴스 ─ 전체기사)]]></title>
@@ -232,14 +240,6 @@
             <pubDate>Thu, 30 Jun 2022 09:16:12 GMT</pubDate>
             <content:encoded><![CDATA[한국인터넷신문협회(이하 인신협, 회장 이의춘)는 6월 30일 목요일 오전 7시 여의도 켄싱턴호텔 첼시홀에서 최형두 의원(국민의힘, 창원마산합포구)이 연사로...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/inter_063001_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[KISA, ‘사랑해 지구’ 행사로 ESG경영 적극 실천 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107955&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107955&amp;page=1&amp;kind=2</guid>
-            <pubDate>Thu, 30 Jun 2022 08:23:00 GMT</pubDate>
-            <content:encoded><![CDATA[한국인터넷진흥원(KISA, 원장 이원태)은 세계 환경의 달을 맞아 환경 교육, 업사이클링 체험, 친환경 제품 구매 등 환경 개선을 위한 ‘사랑해 지구(LO...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/kisa_063001_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[매그니베르 랜섬웨어, 타이포스쿼팅 방식 통해 또 다시 유포 중 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
@@ -402,6 +402,13 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/rac-thumb-0630.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[지란지교시큐리티, ‘스팸스나이퍼 6.0’ 출시 (보안뉴스 ─ SECURITY)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107985&amp;page=1&amp;mkind=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107985&amp;page=1&amp;mkind=1&amp;kind=3</guid>
+            <pubDate>Fri, 01 Jul 2022 11:14:32 GMT</pubDate>
+            <content:encoded><![CDATA[보안SW 전문기업 지란지교시큐리티(대표 윤두식)는 보안성과 사용자 편의성을 한층 강화한 이메일 통합 보안 솔루션 스팸스나이퍼 6.0 버전을 출시했다고 5일 밝혔다.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[호라이즌 브리지의 1억 달러 탈취 사건, 유력 용의자는 북한 라자루스 (보안뉴스 ─ SECURITY)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107982&amp;page=1&amp;mkind=1&amp;kind=1</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107982&amp;page=1&amp;mkind=1&amp;kind=1</guid>
@@ -512,13 +519,6 @@
             <guid>https://www.boannews.com/media/view.asp?idx=107938&amp;page=1&amp;mkind=1&amp;kind=3</guid>
             <pubDate>Thu, 30 Jun 2022 05:23:58 GMT</pubDate>
             <content:encoded><![CDATA[IT통합보안·인증 선도기업 라온시큐어의 자회사 라온화이트햇(대표 이정아)이 피싱 사기 방지 및 차단 서비스 ‘스마트안티피싱(Smart Antiphishing)’을 출시했다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[지란지교데이터, 스파크플러스와 SMB 정보보안 역량 강화 지원 (보안뉴스 ─ SECURITY)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107936&amp;page=1&amp;mkind=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107936&amp;page=1&amp;mkind=1&amp;kind=3</guid>
-            <pubDate>Thu, 30 Jun 2022 05:23:58 GMT</pubDate>
-            <content:encoded><![CDATA[개인정보보호 SW 전문 기업 지란지교데이터가 소호·중소기업 개인정보보호 체계 강화를 지원하기 위해 공유오피스 전문 기업 스파크플러스와 손을 잡았다. 30일 지란지교데이터(대표 조원희)는 스파크플러스와 ‘스파크플러스 입주사의 개인정보 유출방지 역량 강화 지원을 위한 업무...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[LG, 고용노동부와 함께 청년 AI 인재 양성 나선다 (보안뉴스 ─ IT)]]></title>
@@ -1895,6 +1895,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/21729089-c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[2022년 상반기에 발견된 제로데이 취약점은 18개, 막을 수 있었던 건 9개 (보안뉴스 ─ 국제)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107987&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107987&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
+            <pubDate>Fri, 01 Jul 2022 11:16:53 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/view.asp?idx=107987&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
+					
+					<img src="/media/upFiles2/2022/07/20734555_copy_295x190_1.jpg" alt="" class="news_img" height="70">
+					
+					<span class="news_txt">2022년 상반기에 발견된 제로데이 취약점은 18개, 막을 수 있었던 건 9개</span>
+					</a><br>
+					<a href="/media/view.asp?idx=107987&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">2022년 상반기가 막 지난 지금까지 발견된 제로데이 취약점은 총 18개로 집계됐다. 공격자들이 먼저 발견해 공격을 실시했던 취약점들이며, 절반은 사전에 충분히 ...</a> <span class="news_writer">문가용 기자 | 2022년 07월 01일 19:40</span>]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/07/20734555_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[기술 분야 책임자인 CTO, 우리 회사에도 필요할까? (보안뉴스 ─ 국제)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107956&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=D&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107956&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=D&amp;search=title&amp;find=</guid>
@@ -2159,20 +2173,6 @@
 					</a><br>
 					<a href="/media/view.asp?idx=107895&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">IT 외신 블리핑컴퓨터에 의하면 악명 높은 해킹 그룹인 에빌넘(Evilnum)이 다시 활동을 시작한 것으로 보인다고 한다. 이번에는 유럽의 난민 관련 기구들이 집...</a> <span class="news_writer">문가용 기자 | 2022년 06월 29일 11:19</span>]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/21622074_copy_295x190_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[CISA, “폰킷 리눅스 취약점 익스플로잇 하는 해킹 행위 활발” (보안뉴스 ─ 국제)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107894&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107894&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
-            <pubDate>Wed, 29 Jun 2022 03:50:11 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/view.asp?idx=107894&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
-					
-					<img src="/media/upFiles2/2022/06/20152186_copy_295x190_1.jpg" alt="" class="news_img" height="70">
-					
-					<span class="news_txt">CISA, “폰킷 리눅스 취약점 익스플로잇 하는 해킹 행위 활발”</span>
-					</a><br>
-					<a href="/media/view.asp?idx=107894&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">보안 외신 시큐리티위크에 의하면 미국의 사이버 보안 전담 기관인 CISA에서 새로운 보안 경고문이 나왔다고 한다. 이번 경고문은 폰킷(PwnKit)이라고 하는 리...</a> <span class="news_writer">문가용 기자 | 2022년 06월 29일 11:18</span>]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20152186_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[가명정보 처리 솔루션 리포트] 안전한 개인정보 활용으로 ‘新보안체계 구축’ (보안뉴스 ─ 기획특집)]]></title>
