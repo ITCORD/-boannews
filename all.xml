@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Jul 2022 10:20:36 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Jul 2022 11:17:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -241,14 +241,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/7-8(295).jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[주말판] 투자를 두렵게 만드는 사이버 보안 기업의 7가지 경고 신호 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107793&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107793&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
-            <pubDate>Sun, 26 Jun 2022 07:15:08 GMT</pubDate>
-            <content:encoded><![CDATA[투자 회사들과 벤처 캐피탈 회사들의 동향을 살피면 어떤 기업이 최근 주목을 받고 있으며, 어떤 회사가 유니콘이라 불리게 될지를 감 잡을 수 있다. 사이버 보안 분...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/inv-thumb-0625.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[항공보안 이슈진단-1] 기내 보안 강화에 방점 찍은 항공보안 정책 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107801&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107801&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
@@ -383,6 +375,14 @@
             <pubDate>Fri, 01 Jul 2022 08:22:25 GMT</pubDate>
             <content:encoded><![CDATA[소방청은 6월 8일부터 시행된 ‘다중이용업소의 안전관리에 관한 특별법 시행 규칙’ 개정안에 따라 안전관리사각지대에 있던 방탈출·키즈·만화카페 등 신종 3개 업종이...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/sobangchung_sum.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022년 상반기에 발견된 제로데이 취약점은 18개, 막을 수 있었던 건 9개 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107987&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107987&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Sat, 02 Jul 2022 11:13:42 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 상반기가 막 지난 지금까지 발견된 제로데이 취약점은 총 18개로 집계됐다. 공격자들이 먼저 발견해 공격을 실시했던 취약점들이며, 절반은 사전에 충분히 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/07/20734555_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[가명정보 처리 솔루션 리포트] 안전한 개인정보 활용으로 ‘新보안체계 구축’ (보안뉴스 ─ 가장 많이 본 기사)]]></title>
