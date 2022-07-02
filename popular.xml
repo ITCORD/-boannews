@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Jul 2022 20:19:54 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Jul 2022 21:17:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,14 +16,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/AC&HS%20Special%20Report_sum.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[자이스마트홈 월패드 취약점 발견,  자이S&D “조치 완료”]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107797&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107797&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Mon, 27 Jun 2022 12:34:36 GMT</pubDate>
-            <content:encoded><![CDATA[대부분의 아파트에 기본으로 설치돼 있는 월패드의 해킹 위험 때문에 아파트 입주민들의 공포가 커지고 있는 가운데 최근 유명 아파트 브랜드 ‘자이’ 등에 설치되는 자...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20220626wall-s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[단독] 샌드박스 분석 플랫폼에 분석 맡긴 ‘개인정보’ 고스란히 유출됐다]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107905&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107905&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
@@ -32,12 +24,28 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/sundae_0629001_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[자이스마트홈 월패드 취약점 발견,  자이S&D “조치 완료”]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107797&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107797&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Mon, 27 Jun 2022 12:34:36 GMT</pubDate>
+            <content:encoded><![CDATA[대부분의 아파트에 기본으로 설치돼 있는 월패드의 해킹 위험 때문에 아파트 입주민들의 공포가 커지고 있는 가운데 최근 유명 아파트 브랜드 ‘자이’ 등에 설치되는 자...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20220626wall-s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[FIELD MASTER] ‘나는야 천상 Reverser’ 문종현 이스트시큐리티 이사]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107778&amp;page=1&amp;kind=6&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107778&amp;page=1&amp;kind=6&amp;search=title&amp;find=</guid>
             <pubDate>Tue, 28 Jun 2022 03:43:15 GMT</pubDate>
             <content:encoded><![CDATA[최근 가장 많은 유형의 해킹 공격인 이메일을 통한 악성파일에 감염될 경우 단순히 삭제하는 것만으로는 해결되지 않는다. 악성파일이 어떤 경로에서 어떤 행위를 하는 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/esrc_062401_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022년 상반기에 발견된 제로데이 취약점은 18개, 막을 수 있었던 건 9개]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107987&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107987&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Sat, 02 Jul 2022 11:13:42 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 상반기가 막 지난 지금까지 발견된 제로데이 취약점은 총 18개로 집계됐다. 공격자들이 먼저 발견해 공격을 실시했던 취약점들이며, 절반은 사전에 충분히 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/07/20734555_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[구축사례] 영상보정 회사 ‘루시드컬러’의 미디어용 데이터 스토리지 사용記]]></title>
@@ -54,14 +62,6 @@
             <pubDate>Wed, 29 Jun 2022 08:24:05 GMT</pubDate>
             <content:encoded><![CDATA[국토교통부가 &lt;제3차 항공보안 기본계획(2022~2026)&gt;을 수립·확정했다. 코로나19 팬데믹을 거치면서 비대면, 비접촉 시대가 확산하며 가파르게 늘...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20220628air-s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022년 상반기에 발견된 제로데이 취약점은 18개, 막을 수 있었던 건 9개]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107987&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107987&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Sat, 02 Jul 2022 11:13:42 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 상반기가 막 지난 지금까지 발견된 제로데이 취약점은 총 18개로 집계됐다. 공격자들이 먼저 발견해 공격을 실시했던 취약점들이며, 절반은 사전에 충분히 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/07/20734555_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[행정안전부, 경찰업무조직 신설 방침 확정... ‘경찰국’ 만든다]]></title>
@@ -120,20 +120,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20159494_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[유명호 스누아이랩 대표 “딥러닝 기반 비전 AI 통해 영상보안업계 경쟁력 확보 조력”]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107823&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107823&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
-            <pubDate>Fri, 01 Jul 2022 08:22:25 GMT</pubDate>
-            <content:encoded><![CDATA[서울대학교 연구공원 본관 5층에 있는 비전 AI 기업 ‘스누아이랩’에 있는 카페테리아에는 ‘data has a better idea(데이터가 더 나은 아이디어를 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/22062709ss(1).jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[가명정보 처리 솔루션 리포트] 안전한 개인정보 활용으로 ‘新보안체계 구축’]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107952&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107952&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
             <pubDate>Sat, 02 Jul 2022 10:17:33 GMT</pubDate>
             <content:encoded><![CDATA[제20대 대통령직 인수위원회 디지털 플랫폼 정부 TF에서 지난 5월 4일 발표한 디지털 플랫폼 정부 구현 중점 추진과제 중 하나가 바로 안전하고 신뢰할 수 있는 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20220630NAME-MS.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[유명호 스누아이랩 대표 “딥러닝 기반 비전 AI 통해 영상보안업계 경쟁력 확보 조력”]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107823&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107823&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
+            <pubDate>Fri, 01 Jul 2022 08:22:25 GMT</pubDate>
+            <content:encoded><![CDATA[서울대학교 연구공원 본관 5층에 있는 비전 AI 기업 ‘스누아이랩’에 있는 카페테리아에는 ‘data has a better idea(데이터가 더 나은 아이디어를 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/22062709ss(1).jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[요즘 제일 잘 나가는 랜섬웨어 록빗, 다크웹 사상 최초 버그바운티도 시작]]></title>
