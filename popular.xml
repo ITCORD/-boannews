@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Jul 2022 22:18:32 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Jul 2022 23:18:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -48,20 +48,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/07/20734555_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[구축사례] 영상보정 회사 ‘루시드컬러’의 미디어용 데이터 스토리지 사용記]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107776&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107776&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
-            <pubDate>Tue, 28 Jun 2022 08:23:29 GMT</pubDate>
-            <content:encoded><![CDATA[영상 관제 환경에서 CCTV 카메라의 해상도와 채널 수의 증가, 보관 주기의 연장으로 인해 저장 요건이 늘어나고 있는 것처럼 미디어 환경에서도 Full HD, 2...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20220627seagate-s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[항공보안 이슈진단-2] 사이버보안 위협 대비 기반 미래형 항공보안 실현]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107802&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107802&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
             <pubDate>Wed, 29 Jun 2022 08:24:05 GMT</pubDate>
             <content:encoded><![CDATA[국토교통부가 &lt;제3차 항공보안 기본계획(2022~2026)&gt;을 수립·확정했다. 코로나19 팬데믹을 거치면서 비대면, 비접촉 시대가 확산하며 가파르게 늘...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20220628air-s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[구축사례] 영상보정 회사 ‘루시드컬러’의 미디어용 데이터 스토리지 사용記]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107776&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107776&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
+            <pubDate>Tue, 28 Jun 2022 08:23:29 GMT</pubDate>
+            <content:encoded><![CDATA[영상 관제 환경에서 CCTV 카메라의 해상도와 채널 수의 증가, 보관 주기의 연장으로 인해 저장 요건이 늘어나고 있는 것처럼 미디어 환경에서도 Full HD, 2...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20220627seagate-s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[행정안전부, 경찰업무조직 신설 방침 확정... ‘경찰국’ 만든다]]></title>
@@ -136,14 +136,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/22062709ss(1).jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[요즘 제일 잘 나가는 랜섬웨어 록빗, 다크웹 사상 최초 버그바운티도 시작]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107865&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107865&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Thu, 30 Jun 2022 08:23:16 GMT</pubDate>
-            <content:encoded><![CDATA[유명 랜섬웨어 집단인 록빗(LockBit)이 최근 자신들의 공격 무기를 최신화 하여 새롭게 발표했다. 이른 바 록빗3.0(LockBit 3.0)인데, 단순히 새로...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20695495_copy_295x190_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[모던 웹 환경에서의 대표적인 취약점 TOP 7]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107983&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107983&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
@@ -152,12 +144,12 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/07/20220701steal-s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[2023년 주요R&D 예산 배분 조정안 확정... ‘사이버위협 탐지·대응’ 포함]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107819&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107819&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
-            <pubDate>Thu, 30 Jun 2022 14:15:09 GMT</pubDate>
-            <content:encoded><![CDATA[2023년 국가연구개발사업 예산에 사이버 위협 탐지·대응 관련 기술개발 투자 및 개인정보 보호·활용을 위한 기술개발과 표준화 연계를 지원하는 내용이 포함됐다. 과...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/msit_062701_main.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[요즘 제일 잘 나가는 랜섬웨어 록빗, 다크웹 사상 최초 버그바운티도 시작]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107865&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107865&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Thu, 30 Jun 2022 08:23:16 GMT</pubDate>
+            <content:encoded><![CDATA[유명 랜섬웨어 집단인 록빗(LockBit)이 최근 자신들의 공격 무기를 최신화 하여 새롭게 발표했다. 이른 바 록빗3.0(LockBit 3.0)인데, 단순히 새로...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20695495_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[3개월 전에 사라졌던 라쿤스틸러, 최근 버전 2 나오며 활동 재개]]></title>
@@ -166,6 +158,14 @@
             <pubDate>Sat, 02 Jul 2022 17:15:56 GMT</pubDate>
             <content:encoded><![CDATA[악명 높은 멀웨어인 라쿤스틸러(Racoon Stealer)의 개발자들이 새로운 멀웨어를 발표했다. 라쿤스틸러의 운영을 중단한 후 3개월 만의 일이다. 참고로 라쿤...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/rac-thumb-0630.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2023년 주요R&D 예산 배분 조정안 확정... ‘사이버위협 탐지·대응’ 포함]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107819&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107819&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
+            <pubDate>Thu, 30 Jun 2022 14:15:09 GMT</pubDate>
+            <content:encoded><![CDATA[2023년 국가연구개발사업 예산에 사이버 위협 탐지·대응 관련 기술개발 투자 및 개인정보 보호·활용을 위한 기술개발과 표준화 연계를 지원하는 내용이 포함됐다. 과...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/msit_062701_main.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
