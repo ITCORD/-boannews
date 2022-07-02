@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Jul 2022 23:21:27 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Jul 2022 01:29:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -88,20 +88,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/airport_security_sum.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[SW 크랙 및 인스톨러 위장 신종 정보탈취 악성코드 유포]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107796&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107796&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Wed, 29 Jun 2022 03:48:00 GMT</pubDate>
-            <content:encoded><![CDATA[최근 소프트웨어(SW) 크랙 및 인스톨러 파일로 위장한 신종 정보탈취 악성코드가 유포되고 있어 이용자들의 각별한 주의가 요구된다. CryptBot, RedLine...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20220626ahn1-s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[2022년 하반기 시작 7월, 물리·정보보안 업계가 찾고 있는 인재는?]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107773&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107773&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
             <pubDate>Thu, 30 Jun 2022 05:23:45 GMT</pubDate>
             <content:encoded><![CDATA[본격적인 무더위와 하반기의 시작을 알리는 7월이 코앞으로 다가왔다. 아직 실내에서의 마스크 착용은 지속되고 있지만, 항공산업의 회복 등으로 그동안 미진했던 국내 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20220629JOB-S.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[SW 크랙 및 인스톨러 위장 신종 정보탈취 악성코드 유포]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107796&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107796&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Wed, 29 Jun 2022 03:48:00 GMT</pubDate>
+            <content:encoded><![CDATA[최근 소프트웨어(SW) 크랙 및 인스톨러 파일로 위장한 신종 정보탈취 악성코드가 유포되고 있어 이용자들의 각별한 주의가 요구된다. CryptBot, RedLine...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20220626ahn1-s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[BN미팅] 시큐레터 양승환 팀장이 꼽은 2022년 상반기 보안이슈 TOP 5]]></title>
@@ -136,20 +136,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/msit_062701_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[방탈출·키즈·만화카페 등 신종다중이용업소, 안전관리 강화]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107817&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107817&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
-            <pubDate>Fri, 01 Jul 2022 08:22:25 GMT</pubDate>
-            <content:encoded><![CDATA[소방청은 6월 8일부터 시행된 ‘다중이용업소의 안전관리에 관한 특별법 시행 규칙’ 개정안에 따라 안전관리사각지대에 있던 방탈출·키즈·만화카페 등 신종 3개 업종이...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/sobangchung_sum.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[log4j 교훈 잊었나? 2년 이상 방치된 오픈소스 88%가 사용 중]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107948&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107948&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
             <pubDate>Fri, 01 Jul 2022 08:22:25 GMT</pubDate>
             <content:encoded><![CDATA[사상 최악의 보안 취약점으로 손꼽히는 Log4j 취약점 발견으로 오픈소스 관리의 중요성이 강조됐지만, 아직도 오픈소스 사용 기업의 88%가 2년 이상 방치된 오픈...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20159494_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[방탈출·키즈·만화카페 등 신종다중이용업소, 안전관리 강화]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107817&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107817&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
+            <pubDate>Fri, 01 Jul 2022 08:22:25 GMT</pubDate>
+            <content:encoded><![CDATA[소방청은 6월 8일부터 시행된 ‘다중이용업소의 안전관리에 관한 특별법 시행 규칙’ 개정안에 따라 안전관리사각지대에 있던 방탈출·키즈·만화카페 등 신종 3개 업종이...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/sobangchung_sum.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[3개월 전에 사라졌던 라쿤스틸러, 최근 버전 2 나오며 활동 재개]]></title>
