@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-07-02T03:48:07.258Z</updated>
+    <updated>2022-07-02T04:39:09.659Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[긴급] 한국원자력연구원 계정정보 노린 피싱 메일 발견]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107984&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107984&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-07-02T04:36:14.233Z</updated>
+        <content type="html"><![CDATA[최근 한국원자력연구원의 임직원 계정을 탈취하려는 공격이 다시금 발생해 주의가 요구된다. 이스트시큐리티&nbsp;시큐리티대응센터(이하&nbsp;ESRC)는 최근 국가기반시설에서&nbsp;근무하는&nbsp;임직원의&nbsp;계정을&nbsp;탈취하려&nbsp;하는&nbsp;...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[모던 웹 환경에서의 대표적인 취약점 TOP 7]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=107983&amp;page=1&amp;mkind=1&amp;kind=1</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=107948&amp;page=1&amp;mkind=1&amp;kind=3"/>
         <updated>2022-06-30T08:23:30.142Z</updated>
         <content type="html"><![CDATA[사상 최악의 보안 취약점으로 손꼽히는 Log4j 취약점 발견으로 오픈소스 관리의 중요성이 강조됐지만, 아직도 오픈소스 사용 기업의 88%가 2년 이상 방치된 오픈소스를 사용하는 것으로 알려져 충격을 주고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[새로운 중국 APT 단체, 건물 자동화 시스템 통해 공격 실시]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107949&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107949&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-06-30T06:21:45.666Z</updated>
-        <content type="html"><![CDATA[현재까지 한 번도 발견된 적 없던 중국 APT 단체가 새롭게 모습을 드러냈다. 이들은 마이크로소프트 익스체인지(Microsoft Exchange)의 프록시로그온(ProxyLogon) 취약점을 익스플로잇 하고 있으며, 이를 통해 셰도우패드(ShadowPad)라는 백도어 ...]]></content>
     </entry>
 </feed>

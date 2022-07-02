@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Jul 2022 03:48:07 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Jul 2022 04:39:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -128,6 +128,14 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/22062709ss(1).jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[긴급] 한국원자력연구원 계정정보 노린 피싱 메일 발견]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107984&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107984&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Sat, 02 Jul 2022 03:45:28 GMT</pubDate>
+            <content:encoded><![CDATA[최근 한국원자력연구원의 임직원 계정을 탈취하려는 공격이 다시금 발생해 주의가 요구된다. 이스트시큐리티&nbsp;시큐리티대응센터(이하&nbsp;ESRC)는 최근 국...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/07/esrc_070102_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[log4j 교훈 잊었나? 2년 이상 방치된 오픈소스 88%가 사용 중]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107948&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107948&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
@@ -142,14 +150,6 @@
             <pubDate>Thu, 30 Jun 2022 14:15:09 GMT</pubDate>
             <content:encoded><![CDATA[2023년 국가연구개발사업 예산에 사이버 위협 탐지·대응 관련 기술개발 투자 및 개인정보 보호·활용을 위한 기술개발과 표준화 연계를 지원하는 내용이 포함됐다. 과...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/msit_062701_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[긴급] 한국원자력연구원 계정정보 노린 피싱 메일 발견]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107984&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107984&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Sat, 02 Jul 2022 03:45:28 GMT</pubDate>
-            <content:encoded><![CDATA[최근 한국원자력연구원의 임직원 계정을 탈취하려는 공격이 다시금 발생해 주의가 요구된다. 이스트시큐리티&nbsp;시큐리티대응센터(이하&nbsp;ESRC)는 최근 국...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/07/esrc_070102_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[방탈출·키즈·만화카페 등 신종다중이용업소, 안전관리 강화]]></title>
