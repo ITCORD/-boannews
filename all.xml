@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Jul 2022 09:17:54 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Jul 2022 10:20:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -241,14 +241,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/7-8(295).jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[매그니베르 랜섬웨어, 타이포스쿼팅 방식 통해 또 다시 유포 중 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107794&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107794&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Sun, 26 Jun 2022 06:20:41 GMT</pubDate>
-            <content:encoded><![CDATA[한국에서 집중적으로 유포됐던 ‘매그니베르 랜섬웨어’가 최근 타이포스쿼팅&nbsp;방식을&nbsp;이용해 또 다시 유포되고&nbsp;있어&nbsp;사용자들의...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/21910959_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[주말판] 투자를 두렵게 만드는 사이버 보안 기업의 7가지 경고 신호 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107793&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107793&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
@@ -353,20 +345,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/07/esrc_070102_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[요즘 제일 잘 나가는 랜섬웨어 록빗, 다크웹 사상 최초 버그바운티도 시작 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107865&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107865&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Thu, 30 Jun 2022 08:23:16 GMT</pubDate>
-            <content:encoded><![CDATA[유명 랜섬웨어 집단인 록빗(LockBit)이 최근 자신들의 공격 무기를 최신화 하여 새롭게 발표했다. 이른 바 록빗3.0(LockBit 3.0)인데, 단순히 새로...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20695495_copy_295x190_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[log4j 교훈 잊었나? 2년 이상 방치된 오픈소스 88%가 사용 중 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107948&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107948&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
             <pubDate>Fri, 01 Jul 2022 08:22:25 GMT</pubDate>
             <content:encoded><![CDATA[사상 최악의 보안 취약점으로 손꼽히는 Log4j 취약점 발견으로 오픈소스 관리의 중요성이 강조됐지만, 아직도 오픈소스 사용 기업의 88%가 2년 이상 방치된 오픈...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20159494_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[요즘 제일 잘 나가는 랜섬웨어 록빗, 다크웹 사상 최초 버그바운티도 시작 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107865&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107865&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Thu, 30 Jun 2022 08:23:16 GMT</pubDate>
+            <content:encoded><![CDATA[유명 랜섬웨어 집단인 록빗(LockBit)이 최근 자신들의 공격 무기를 최신화 하여 새롭게 발표했다. 이른 바 록빗3.0(LockBit 3.0)인데, 단순히 새로...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20695495_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[유명호 스누아이랩 대표 “딥러닝 기반 비전 AI 통해 영상보안업계 경쟁력 확보 조력” (보안뉴스 ─ 가장 많이 본 기사)]]></title>
@@ -391,6 +383,14 @@
             <pubDate>Fri, 01 Jul 2022 08:22:25 GMT</pubDate>
             <content:encoded><![CDATA[소방청은 6월 8일부터 시행된 ‘다중이용업소의 안전관리에 관한 특별법 시행 규칙’ 개정안에 따라 안전관리사각지대에 있던 방탈출·키즈·만화카페 등 신종 3개 업종이...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/sobangchung_sum.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[가명정보 처리 솔루션 리포트] 안전한 개인정보 활용으로 ‘新보안체계 구축’ (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107952&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107952&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
+            <pubDate>Sat, 02 Jul 2022 10:17:33 GMT</pubDate>
+            <content:encoded><![CDATA[제20대 대통령직 인수위원회 디지털 플랫폼 정부 TF에서 지난 5월 4일 발표한 디지털 플랫폼 정부 구현 중점 추진과제 중 하나가 바로 안전하고 신뢰할 수 있는 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20220630NAME-MS.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[3개월 전에 사라졌던 라쿤스틸러, 최근 버전 2 나오며 활동 재개 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
