@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Jul 2022 12:30:25 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Jul 2022 13:27:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,20 +104,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/07/esrc_070102_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[log4j 교훈 잊었나? 2년 이상 방치된 오픈소스 88%가 사용 중]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107948&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107948&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
-            <pubDate>Fri, 01 Jul 2022 08:22:25 GMT</pubDate>
-            <content:encoded><![CDATA[사상 최악의 보안 취약점으로 손꼽히는 Log4j 취약점 발견으로 오픈소스 관리의 중요성이 강조됐지만, 아직도 오픈소스 사용 기업의 88%가 2년 이상 방치된 오픈...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20159494_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[2022년 상반기에 발견된 제로데이 취약점은 18개, 막을 수 있었던 건 9개]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107987&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107987&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Sat, 02 Jul 2022 11:13:42 GMT</pubDate>
             <content:encoded><![CDATA[2022년 상반기가 막 지난 지금까지 발견된 제로데이 취약점은 총 18개로 집계됐다. 공격자들이 먼저 발견해 공격을 실시했던 취약점들이며, 절반은 사전에 충분히 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/07/20734555_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[log4j 교훈 잊었나? 2년 이상 방치된 오픈소스 88%가 사용 중]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107948&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107948&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
+            <pubDate>Fri, 01 Jul 2022 08:22:25 GMT</pubDate>
+            <content:encoded><![CDATA[사상 최악의 보안 취약점으로 손꼽히는 Log4j 취약점 발견으로 오픈소스 관리의 중요성이 강조됐지만, 아직도 오픈소스 사용 기업의 88%가 2년 이상 방치된 오픈...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20159494_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[요즘 제일 잘 나가는 랜섬웨어 록빗, 다크웹 사상 최초 버그바운티도 시작]]></title>
