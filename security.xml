@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-07-02T01:29:01.207Z</updated>
+    <updated>2022-07-02T03:48:07.258Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[모던 웹 환경에서의 대표적인 취약점 TOP 7]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107983&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107983&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-07-02T03:45:39.173Z</updated>
+        <content type="html"><![CDATA[사이버보안 전문기업 스틸리언이 6월 29일 개최한 사이버보안 세미나 ‘Stealien Security Seminar’에서 ‘모던 웹’ 환경에서 발생하는 대표 취약점을 공개했다. 모던 웹’은 NodeJS, Django와 같이 최근 영향력 있는 웹 프레임워크로 제작된 서비...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[지란지교시큐리티, ‘스팸스나이퍼 6.0’ 출시]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=107985&amp;page=1&amp;mkind=1&amp;kind=3</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=107949&amp;page=1&amp;mkind=1&amp;kind=1"/>
         <updated>2022-06-30T06:21:45.666Z</updated>
         <content type="html"><![CDATA[현재까지 한 번도 발견된 적 없던 중국 APT 단체가 새롭게 모습을 드러냈다. 이들은 마이크로소프트 익스체인지(Microsoft Exchange)의 프록시로그온(ProxyLogon) 취약점을 익스플로잇 하고 있으며, 이를 통해 셰도우패드(ShadowPad)라는 백도어 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[라온화이트햇, 피싱 방지·차단 서비스 ‘스마트안티피싱’ 출시]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107938&amp;page=1&amp;mkind=1&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107938&amp;page=1&amp;mkind=1&amp;kind=3"/>
-        <updated>2022-06-30T05:23:58.191Z</updated>
-        <content type="html"><![CDATA[IT통합보안·인증 선도기업 라온시큐어의 자회사 라온화이트햇(대표 이정아)이 피싱 사기 방지 및 차단 서비스 ‘스마트안티피싱(Smart Antiphishing)’을 출시했다.]]></content>
     </entry>
 </feed>

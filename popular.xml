@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Jul 2022 01:29:01 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Jul 2022 03:48:07 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -128,6 +128,14 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/22062709ss(1).jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[log4j 교훈 잊었나? 2년 이상 방치된 오픈소스 88%가 사용 중]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107948&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107948&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
+            <pubDate>Fri, 01 Jul 2022 08:22:25 GMT</pubDate>
+            <content:encoded><![CDATA[사상 최악의 보안 취약점으로 손꼽히는 Log4j 취약점 발견으로 오픈소스 관리의 중요성이 강조됐지만, 아직도 오픈소스 사용 기업의 88%가 2년 이상 방치된 오픈...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20159494_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[2023년 주요R&D 예산 배분 조정안 확정... ‘사이버위협 탐지·대응’ 포함]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107819&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107819&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
@@ -136,12 +144,12 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/msit_062701_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[log4j 교훈 잊었나? 2년 이상 방치된 오픈소스 88%가 사용 중]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107948&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107948&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
-            <pubDate>Fri, 01 Jul 2022 08:22:25 GMT</pubDate>
-            <content:encoded><![CDATA[사상 최악의 보안 취약점으로 손꼽히는 Log4j 취약점 발견으로 오픈소스 관리의 중요성이 강조됐지만, 아직도 오픈소스 사용 기업의 88%가 2년 이상 방치된 오픈...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20159494_main.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[긴급] 한국원자력연구원 계정정보 노린 피싱 메일 발견]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107984&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107984&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Sat, 02 Jul 2022 03:45:28 GMT</pubDate>
+            <content:encoded><![CDATA[최근 한국원자력연구원의 임직원 계정을 탈취하려는 공격이 다시금 발생해 주의가 요구된다. 이스트시큐리티&nbsp;시큐리티대응센터(이하&nbsp;ESRC)는 최근 국...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/07/esrc_070102_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[방탈출·키즈·만화카페 등 신종다중이용업소, 안전관리 강화]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 01 Jul 2022 09:20:51 GMT</pubDate>
             <content:encoded><![CDATA[악명 높은 멀웨어인 라쿤스틸러(Racoon Stealer)의 개발자들이 새로운 멀웨어를 발표했다. 라쿤스틸러의 운영을 중단한 후 3개월 만의 일이다. 참고로 라쿤...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/rac-thumb-0630.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[2022년 상반기 사이버 보안 동향 결산, 공격자 혁신 조짐 3가지]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107815&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107815&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
-            <pubDate>Fri, 01 Jul 2022 08:22:25 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 상반기를 정리해 보면 공격자는 서비스형 멀웨어를 개발 및 판매하고, 공급망 공격을 서슴없이 시도했다. 그런데 앞으로는 사이버 공격자들의 행위가 더욱 대...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/cyberark.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
