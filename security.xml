@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-07-03T14:17:41.595Z</updated>
+    <updated>2022-07-03T15:19:13.708Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[주말판] 대 데이터 시대에 새롭게 태어난 기업들의 고민거리, CTC]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107959&amp;page=1&amp;mkind=1&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107959&amp;page=1&amp;mkind=1&amp;kind=3"/>
+        <updated>2022-07-03T15:16:35.306Z</updated>
+        <content type="html"><![CDATA[지난 몇 년 동안 가장 귀한 대접을 받은 자원은 단연 데이터다. 석유와 금, 화폐에 비유될 정도로 데이터는 치명적으로 중요한 존재였다. 데이터를 잘 활용하기만 하면 새로운 수익 창구가 열리고 전에 없던 사업 모델이 생겨났다. 그래서인지 너도 나도 데이터를 마구 만들어내...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[LG U+, 양자암호통신 인프라 구축 국책과제 3년 연속 주관기관 선정]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=107997&amp;page=1&amp;mkind=1&amp;kind=3</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=107954&amp;page=1&amp;mkind=1&amp;kind=2"/>
         <updated>2022-06-30T10:23:24.949Z</updated>
         <content type="html"><![CDATA[본인 개인정보의 가치를 인식하는 데 있어서, 성인에 비해 상대적으로 취약할 수밖에 없는 아동과 청소년들의 개인정보 보호를 강화하기 위해 학부모들이 함께 모여 의견을 나누는 자리가 마련된다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3개월 전에 사라졌던 라쿤스틸러, 최근 버전 2 나오며 활동 재개]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107951&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107951&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-06-30T09:16:38.106Z</updated>
-        <content type="html"><![CDATA[악명 높은 멀웨어인 라쿤스틸러(Racoon Stealer)의 개발자들이 새로운 멀웨어를 발표했다. 라쿤스틸러의 운영을 중단한 후 3개월 만의 일이다. 참고로 라쿤스틸러 운영 단체의 수석 개발자는 우크라이나에서 사망한 것으로 전해지고 있다. 이 때문에 운영이 중단된 것이...]]></content>
     </entry>
 </feed>
