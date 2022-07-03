@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Jul 2022 07:18:24 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Jul 2022 08:21:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -16,20 +16,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/AC&HS%20Special%20Report_sum.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[단독] 샌드박스 분석 플랫폼에 분석 맡긴 ‘개인정보’ 고스란히 유출됐다]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107905&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107905&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Thu, 30 Jun 2022 01:25:56 GMT</pubDate>
-            <content:encoded><![CDATA[사용자가 ‘악성파일’인지 확인하기 위해 사용하는 ‘웹 기반 샌드박스 분석 플랫폼’에서 다수의 개인정보가 유출된 정황이 포착됐다. 특히 글로벌 사이트임에도 불구하고...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/sundae_0629001_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[2022년 상반기에 발견된 제로데이 취약점은 18개, 막을 수 있었던 건 9개]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107987&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107987&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Sat, 02 Jul 2022 11:13:42 GMT</pubDate>
             <content:encoded><![CDATA[2022년 상반기가 막 지난 지금까지 발견된 제로데이 취약점은 총 18개로 집계됐다. 공격자들이 먼저 발견해 공격을 실시했던 취약점들이며, 절반은 사전에 충분히 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/07/20734555_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[단독] 샌드박스 분석 플랫폼에 분석 맡긴 ‘개인정보’ 고스란히 유출됐다]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107905&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107905&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Thu, 30 Jun 2022 01:25:56 GMT</pubDate>
+            <content:encoded><![CDATA[사용자가 ‘악성파일’인지 확인하기 위해 사용하는 ‘웹 기반 샌드박스 분석 플랫폼’에서 다수의 개인정보가 유출된 정황이 포착됐다. 특히 글로벌 사이트임에도 불구하고...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/sundae_0629001_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[자이스마트홈 월패드 취약점 발견,  자이S&D “조치 완료”]]></title>
@@ -128,6 +128,14 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20159494_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[주말판] 대 데이터 시대에 새롭게 태어난 기업들의 고민거리, CTC]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107959&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107959&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
+            <pubDate>Sun, 03 Jul 2022 06:20:04 GMT</pubDate>
+            <content:encoded><![CDATA[지난 몇 년 동안 가장 귀한 대접을 받은 자원은 단연 데이터다. 석유와 금, 화폐에 비유될 정도로 데이터는 치명적으로 중요한 존재였다. 데이터를 잘 활용하기만 하...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/tax-thumb-0630.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[가명정보 처리 솔루션 리포트] 안전한 개인정보 활용으로 ‘新보안체계 구축’]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107952&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107952&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
@@ -144,12 +152,12 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/07/20220701steal-s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[주말판] 대 데이터 시대에 새롭게 태어난 기업들의 고민거리, CTC]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107959&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107959&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
-            <pubDate>Sun, 03 Jul 2022 06:20:04 GMT</pubDate>
-            <content:encoded><![CDATA[지난 몇 년 동안 가장 귀한 대접을 받은 자원은 단연 데이터다. 석유와 금, 화폐에 비유될 정도로 데이터는 치명적으로 중요한 존재였다. 데이터를 잘 활용하기만 하...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/tax-thumb-0630.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[넓은 국토 가진 인도의 드론 사용 설명서]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107944&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107944&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
+            <pubDate>Sun, 03 Jul 2022 08:19:05 GMT</pubDate>
+            <content:encoded><![CDATA[글로벌 시장전문기관 마켓츠앤드마켓츠(MarketsandMarkets) 자료에 따르면 인도의 드론 시장은 2022년 11억달러로 전망했으며 2021~2026 평균성...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/utoimage_21860346_sum.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[유명호 스누아이랩 대표 “딥러닝 기반 비전 AI 통해 영상보안업계 경쟁력 확보 조력”]]></title>
@@ -158,14 +166,6 @@
             <pubDate>Fri, 01 Jul 2022 08:22:25 GMT</pubDate>
             <content:encoded><![CDATA[서울대학교 연구공원 본관 5층에 있는 비전 AI 기업 ‘스누아이랩’에 있는 카페테리아에는 ‘data has a better idea(데이터가 더 나은 아이디어를 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/22062709ss(1).jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[요즘 제일 잘 나가는 랜섬웨어 록빗, 다크웹 사상 최초 버그바운티도 시작]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107865&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107865&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Thu, 30 Jun 2022 08:23:16 GMT</pubDate>
-            <content:encoded><![CDATA[유명 랜섬웨어 집단인 록빗(LockBit)이 최근 자신들의 공격 무기를 최신화 하여 새롭게 발표했다. 이른 바 록빗3.0(LockBit 3.0)인데, 단순히 새로...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20695495_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
