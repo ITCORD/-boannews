@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-07-03T04:30:00.949Z</updated>
+    <updated>2022-07-03T05:17:34.513Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[LG U+, 양자암호통신 인프라 구축 국책과제 3년 연속 주관기관 선정]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107997&amp;page=1&amp;mkind=1&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107997&amp;page=1&amp;mkind=1&amp;kind=3"/>
+        <updated>2022-07-03T05:15:02.354Z</updated>
+        <content type="html"><![CDATA[LG유플러스는 지난 2년간 양자내성암호(PQC, Post-Quantum Cryptography)를 활용한 뛰어난 과제 수행 결과를 바탕으로 ‘2022년 양자암호통신 시범 인프라 구축 운영 공모과제’ 주관기관으로 선정됐다고 밝혔다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022년 상반기에 발견된 제로데이 취약점은 18개, 막을 수 있었던 건 9개]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=107987&amp;page=1&amp;mkind=1&amp;kind=1</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=107951&amp;page=1&amp;mkind=1&amp;kind=1"/>
         <updated>2022-06-30T09:16:38.106Z</updated>
         <content type="html"><![CDATA[악명 높은 멀웨어인 라쿤스틸러(Racoon Stealer)의 개발자들이 새로운 멀웨어를 발표했다. 라쿤스틸러의 운영을 중단한 후 3개월 만의 일이다. 참고로 라쿤스틸러 운영 단체의 수석 개발자는 우크라이나에서 사망한 것으로 전해지고 있다. 이 때문에 운영이 중단된 것이...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022년 상반기 사이버 보안 동향 결산, 공격자 혁신 조짐 3가지]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107815&amp;page=1&amp;mkind=1&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107815&amp;page=1&amp;mkind=1&amp;kind=3"/>
-        <updated>2022-06-30T08:23:30.141Z</updated>
-        <content type="html"><![CDATA[2022년 상반기를 정리해 보면 공격자는 서비스형 멀웨어를 개발 및 판매하고, 공급망 공격을 서슴없이 시도했다. 그런데 앞으로는 사이버 공격자들의 행위가 더욱 대범해지고 공격 측면에서도 혁신이 일어날 것이라는 전망이 나왔다. 특히, 사이버 보안 지형이 크게 바뀔 것이라...]]></content>
     </entry>
 </feed>
