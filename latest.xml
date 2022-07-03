@@ -4,9 +4,25 @@
         <title>보안뉴스 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Jul 2022 15:19:13 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Jul 2022 16:24:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[중대재해처벌법 시행으로 주목! 산업안전 솔루션 집중 분석]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107820&amp;page=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107820&amp;page=1&amp;kind=3</guid>
+            <pubDate>Sun, 03 Jul 2022 16:20:59 GMT</pubDate>
+            <content:encoded><![CDATA[올해 1월 17일부터 중대재해처벌법이 시행됐다. 중대재해처벌법이란 기업의 안전보건조치를 강화하고, 안전 투자를 확대해 중대산업재해를 예방, 종사자의 생명과...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20220703INDU-S.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[긴급] 국내 병원 환자 의료영상 관리 시스템 ‘PACS’ 노린 공격 발견]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=108000&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=108000&amp;page=1&amp;kind=1</guid>
+            <pubDate>Sun, 03 Jul 2022 16:20:59 GMT</pubDate>
+            <content:encoded><![CDATA[최근 국내 의료 기관에서 사용 중인 PACS(Picture Archiving and Communication System) 서버를 공격한 사례가 확인돼 관...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/07/21070189_main.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[‘2022 국가정보보호백서’로 살펴본 우리나라 사이버 보안 이슈 TOP 10]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107986&amp;page=1&amp;kind=2</link>
@@ -70,22 +86,6 @@
             <pubDate>Fri, 01 Jul 2022 08:22:10 GMT</pubDate>
             <content:encoded><![CDATA[CIO로서의 개인적인 경험이긴 하지만, CTO에게는 신기술과 기술 아키텍처에 관한 임무를 맡기는 것이 가장 높은 효과를 발휘한다. 여태까지 같이 일했던 C...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/tech-thumb-0630.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[긴급] 한국원자력연구원 계정정보 노린 피싱 메일 발견]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107984&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107984&amp;page=1&amp;kind=1</guid>
-            <pubDate>Fri, 01 Jul 2022 08:22:10 GMT</pubDate>
-            <content:encoded><![CDATA[최근 한국원자력연구원의 임직원 계정을 탈취하려는 공격이 다시금 발생해 주의가 요구된다. 이스트시큐리티&nbsp;시큐리티대응센터(이하&nbsp;ESRC)는 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/07/esrc_070102_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영국 런던, AI-데이터 혁명 기반 데이터 경제 중심지로 부상]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107891&amp;page=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107891&amp;page=1&amp;kind=3</guid>
-            <pubDate>Fri, 01 Jul 2022 08:22:10 GMT</pubDate>
-            <content:encoded><![CDATA[전 세계 데이터 시장이 지속해서 성장하는 가운데 파생되는 데이터 경제 중심지로 영국 런던이 급속도로 부상하고 있는 것으로 파악됐다. 데이터 기반 혁신은 의...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/england%20image_sum.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[금융보안원, 정보보호 및 개인정보보호 관리체계 인증기관 재지정]]></title>
@@ -169,6 +169,22 @@
             <content:encoded><![CDATA[과학기술정보통신부(장관 이종호) 박윤규 2차관은 7월 1일(금), 한국지능정보사회진흥원(NIA) 서울사무소에서 정보통신 분야 6개 공공기관장과 함께 디지털...]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[[긴급] 한국원자력연구원 계정정보 노린 피싱 메일 발견]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107984&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107984&amp;page=1&amp;kind=1</guid>
+            <pubDate>Fri, 01 Jul 2022 08:22:10 GMT</pubDate>
+            <content:encoded><![CDATA[최근 한국원자력연구원의 임직원 계정을 탈취하려는 공격이 다시금 발생해 주의가 요구된다. 이스트시큐리티&nbsp;시큐리티대응센터(이하&nbsp;ESRC)는 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/07/esrc_070102_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[영국 런던, AI-데이터 혁명 기반 데이터 경제 중심지로 부상]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107891&amp;page=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107891&amp;page=1&amp;kind=3</guid>
+            <pubDate>Fri, 01 Jul 2022 08:22:10 GMT</pubDate>
+            <content:encoded><![CDATA[전 세계 데이터 시장이 지속해서 성장하는 가운데 파생되는 데이터 경제 중심지로 영국 런던이 급속도로 부상하고 있는 것으로 파악됐다. 데이터 기반 혁신은 의...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/england%20image_sum.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[모던 웹 환경에서의 대표적인 취약점 TOP 7]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107983&amp;page=1&amp;kind=1</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107983&amp;page=1&amp;kind=1</guid>
@@ -223,22 +239,6 @@
             <pubDate>Fri, 01 Jul 2022 08:22:10 GMT</pubDate>
             <content:encoded><![CDATA[라이프 케어 플랫폼 SK쉴더스(대표 박진효)가 한국표준협회(KSA)가 주관하는 ‘2022년 한국서비스품질지수(KS-SQI)’ 조사에서 2년 연속으로 무인경...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/07/2022%20KS-SQI-c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[공항공사, AI X-RAY 검색장비 국산화 개발 협약 체결]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107973&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107973&amp;page=1&amp;kind=2</guid>
-            <pubDate>Fri, 01 Jul 2022 08:22:10 GMT</pubDate>
-            <content:encoded><![CDATA[한국공항공사는 지난달 29일 딥노이드, 씨엔아이와 민간 협업을 통한 ‘인공지능(AI) X-ray 검색장비 국산화 개발’ 업무협약을 체결했다. 이번 협약으로...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/7-14(295).jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[교통안전공단-전파진흥협회, 드론·UAM 안전한 비행환경 조성 위한 업무협약 체결]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107971&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107971&amp;page=1&amp;kind=2</guid>
-            <pubDate>Fri, 01 Jul 2022 08:22:10 GMT</pubDate>
-            <content:encoded><![CDATA[한국교통안전공단은 지난달 29일 한국전파진흥협회와 드론·도심항공교통(UAM)의 안전한 비행환경 조성 구축을 위해 업무협약을 체결했다고 밝혔다.]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/7-12(295).jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

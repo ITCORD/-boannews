@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-07-03T15:19:13.708Z</updated>
+    <updated>2022-07-03T16:24:19.657Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[금융보안원, 정보보호 및 개인정보보호 관리체계 인증기관 재지정]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107998&amp;page=1&amp;mkind=1&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107998&amp;page=1&amp;mkind=1&amp;kind=2"/>
+        <updated>2022-07-03T16:21:25.984Z</updated>
+        <content type="html"><![CDATA[금융보안원(원장 김철웅)은 정보통신망법 및 개인정보 보호법에 따라 정부(과기정통부·개인정보위)로부터 정보보호 및 개인정보보호 관리체계(ISMS-P) 인증기관으로 ‵22년 7월 1일 재지정 받았다고 밝혔다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[주말판] 대 데이터 시대에 새롭게 태어난 기업들의 고민거리, CTC]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=107959&amp;page=1&amp;mkind=1&amp;kind=3</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=107955&amp;page=1&amp;mkind=1&amp;kind=2"/>
         <updated>2022-07-01T08:22:44.766Z</updated>
         <content type="html"><![CDATA[한국인터넷진흥원(KISA, 원장 이원태)은 세계 환경의 달을 맞아 환경 교육, 업사이클링 체험, 친환경 제품 구매 등 환경 개선을 위한 ‘사랑해 지구(LOVE EARTH)’ 행사를 실시했다고 6월 30일(목) 밝혔다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아동·청소년 개인정보 보호, 학부모와 함께 이야기한다]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107954&amp;page=1&amp;mkind=1&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107954&amp;page=1&amp;mkind=1&amp;kind=2"/>
-        <updated>2022-06-30T10:23:24.949Z</updated>
-        <content type="html"><![CDATA[본인 개인정보의 가치를 인식하는 데 있어서, 성인에 비해 상대적으로 취약할 수밖에 없는 아동과 청소년들의 개인정보 보호를 강화하기 위해 학부모들이 함께 모여 의견을 나누는 자리가 마련된다.]]></content>
     </entry>
 </feed>

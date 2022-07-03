@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Jul 2022 15:19:13 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Jul 2022 16:24:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,14 +30,6 @@
             <pubDate>Thu, 30 Jun 2022 01:25:56 GMT</pubDate>
             <content:encoded><![CDATA[사용자가 ‘악성파일’인지 확인하기 위해 사용하는 ‘웹 기반 샌드박스 분석 플랫폼’에서 다수의 개인정보가 유출된 정황이 포착됐다. 특히 글로벌 사이트임에도 불구하고...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/sundae_0629001_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[자이스마트홈 월패드 취약점 발견,  자이S&D “조치 완료”]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107797&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107797&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Mon, 27 Jun 2022 12:34:36 GMT</pubDate>
-            <content:encoded><![CDATA[대부분의 아파트에 기본으로 설치돼 있는 월패드의 해킹 위험 때문에 아파트 입주민들의 공포가 커지고 있는 가운데 최근 유명 아파트 브랜드 ‘자이’ 등에 설치되는 자...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20220626wall-s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[FIELD MASTER] ‘나는야 천상 Reverser’ 문종현 이스트시큐리티 이사]]></title>
@@ -120,14 +112,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20220629JOB-S.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[SW 크랙 및 인스톨러 위장 신종 정보탈취 악성코드 유포]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107796&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107796&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Wed, 29 Jun 2022 03:48:00 GMT</pubDate>
-            <content:encoded><![CDATA[최근 소프트웨어(SW) 크랙 및 인스톨러 파일로 위장한 신종 정보탈취 악성코드가 유포되고 있어 이용자들의 각별한 주의가 요구된다. CryptBot, RedLine...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20220626ahn1-s.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[BN미팅] 시큐레터 양승환 팀장이 꼽은 2022년 상반기 보안이슈 TOP 5]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107705&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107705&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
@@ -166,6 +150,22 @@
             <pubDate>Fri, 01 Jul 2022 08:22:25 GMT</pubDate>
             <content:encoded><![CDATA[서울대학교 연구공원 본관 5층에 있는 비전 AI 기업 ‘스누아이랩’에 있는 카페테리아에는 ‘data has a better idea(데이터가 더 나은 아이디어를 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/22062709ss(1).jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[3개월 전에 사라졌던 라쿤스틸러, 최근 버전 2 나오며 활동 재개]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107951&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107951&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Sun, 03 Jul 2022 16:21:11 GMT</pubDate>
+            <content:encoded><![CDATA[악명 높은 멀웨어인 라쿤스틸러(Racoon Stealer)의 개발자들이 새로운 멀웨어를 발표했다. 라쿤스틸러의 운영을 중단한 후 3개월 만의 일이다. 참고로 라쿤...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/rac-thumb-0630.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[요즘 제일 잘 나가는 랜섬웨어 록빗, 다크웹 사상 최초 버그바운티도 시작]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107865&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107865&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Sun, 03 Jul 2022 16:21:11 GMT</pubDate>
+            <content:encoded><![CDATA[유명 랜섬웨어 집단인 록빗(LockBit)이 최근 자신들의 공격 무기를 최신화 하여 새롭게 발표했다. 이른 바 록빗3.0(LockBit 3.0)인데, 단순히 새로...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20695495_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
