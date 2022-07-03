@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Jul 2022 23:18:07 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Jul 2022 01:48:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -86,6 +86,14 @@
             <pubDate>Fri, 01 Jul 2022 08:22:10 GMT</pubDate>
             <content:encoded><![CDATA[NFT의 마켓플레이스로 유명한 오픈시(OpenSea)에서 정보 유출 사고가 발생했다고 보안 외신 핵리드(HackRead)가 보도했다. 오픈시는 자사의 이메...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/07/22026974_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[금융보안원, 정보보호 및 개인정보보호 관리체계 인증기관 재지정]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107998&amp;page=1&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107998&amp;page=1&amp;kind=2</guid>
+            <pubDate>Sun, 03 Jul 2022 01:44:52 GMT</pubDate>
+            <content:encoded><![CDATA[금융보안원(원장 김철웅)은 정보통신망법 및 개인정보 보호법에 따라 정부(과기정통부·개인정보위)로부터 정보보호 및 개인정보보호 관리체계(ISMS-P) 인증기...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/07/fsi_070301_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[LG U+, 양자암호통신 인프라 구축 국책과제 3년 연속 주관기관 선정]]></title>
@@ -231,14 +239,6 @@
             <pubDate>Fri, 01 Jul 2022 08:22:10 GMT</pubDate>
             <content:encoded><![CDATA[전남도가 현존하는 보안기술 중 가장 안전한 통신 암호화 방식으로 평가받는 ‘양자암호통신(Quantum Cryptography Communication)’ ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/7-9(295).jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[LG, 고용노동부와 함께 청년 AI 인재 양성 나선다]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107967&amp;page=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107967&amp;page=1&amp;kind=3</guid>
-            <pubDate>Fri, 01 Jul 2022 08:22:10 GMT</pubDate>
-            <content:encoded><![CDATA[LG가 청년 AI 인재 양성을 위해 고용노동부와 손을 잡았다. LG와 고용노동부는 지난달 30일 ‘청년고용 응원 멤버십’ 가입 행사를 진행했다.]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/7-8(295).jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 02 Jul 2022 23:18:08 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Jul 2022 01:48:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -86,6 +86,14 @@
             <pubDate>Fri, 01 Jul 2022 08:22:10 GMT</pubDate>
             <content:encoded><![CDATA[NFT의 마켓플레이스로 유명한 오픈시(OpenSea)에서 정보 유출 사고가 발생했다고 보안 외신 핵리드(HackRead)가 보도했다. 오픈시는 자사의 이메...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/07/22026974_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[금융보안원, 정보보호 및 개인정보보호 관리체계 인증기관 재지정 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107998&amp;page=1&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107998&amp;page=1&amp;kind=2</guid>
+            <pubDate>Sun, 03 Jul 2022 01:44:52 GMT</pubDate>
+            <content:encoded><![CDATA[금융보안원(원장 김철웅)은 정보통신망법 및 개인정보 보호법에 따라 정부(과기정통부·개인정보위)로부터 정보보호 및 개인정보보호 관리체계(ISMS-P) 인증기...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/07/fsi_070301_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[LG U+, 양자암호통신 인프라 구축 국책과제 3년 연속 주관기관 선정 (보안뉴스 ─ 전체기사)]]></title>
@@ -233,14 +241,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/7-9(295).jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[LG, 고용노동부와 함께 청년 AI 인재 양성 나선다 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107967&amp;page=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107967&amp;page=1&amp;kind=3</guid>
-            <pubDate>Fri, 01 Jul 2022 08:22:10 GMT</pubDate>
-            <content:encoded><![CDATA[LG가 청년 AI 인재 양성을 위해 고용노동부와 손을 잡았다. LG와 고용노동부는 지난달 30일 ‘청년고용 응원 멤버십’ 가입 행사를 진행했다.]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/7-8(295).jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[항공보안 이슈진단-1] 기내 보안 강화에 방점 찍은 항공보안 정책 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107801&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107801&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
@@ -265,20 +265,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20220626wall-s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[FIELD MASTER] ‘나는야 천상 Reverser’ 문종현 이스트시큐리티 이사 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107778&amp;page=1&amp;kind=6&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107778&amp;page=1&amp;kind=6&amp;search=title&amp;find=</guid>
-            <pubDate>Tue, 28 Jun 2022 03:43:15 GMT</pubDate>
-            <content:encoded><![CDATA[최근 가장 많은 유형의 해킹 공격인 이메일을 통한 악성파일에 감염될 경우 단순히 삭제하는 것만으로는 해결되지 않는다. 악성파일이 어떤 경로에서 어떤 행위를 하는 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/esrc_062401_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[2022년 상반기에 발견된 제로데이 취약점은 18개, 막을 수 있었던 건 9개 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107987&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107987&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Sat, 02 Jul 2022 11:13:42 GMT</pubDate>
             <content:encoded><![CDATA[2022년 상반기가 막 지난 지금까지 발견된 제로데이 취약점은 총 18개로 집계됐다. 공격자들이 먼저 발견해 공격을 실시했던 취약점들이며, 절반은 사전에 충분히 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/07/20734555_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[FIELD MASTER] ‘나는야 천상 Reverser’ 문종현 이스트시큐리티 이사 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107778&amp;page=1&amp;kind=6&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107778&amp;page=1&amp;kind=6&amp;search=title&amp;find=</guid>
+            <pubDate>Tue, 28 Jun 2022 03:43:15 GMT</pubDate>
+            <content:encoded><![CDATA[최근 가장 많은 유형의 해킹 공격인 이메일을 통한 악성파일에 감염될 경우 단순히 삭제하는 것만으로는 해결되지 않는다. 악성파일이 어떤 경로에서 어떤 행위를 하는 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/esrc_062401_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[항공보안 이슈진단-2] 사이버보안 위협 대비 기반 미래형 항공보안 실현 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
@@ -297,20 +297,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20220627seagate-s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[행정안전부, 경찰업무조직 신설 방침 확정... ‘경찰국’ 만든다 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107818&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107818&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
-            <pubDate>Tue, 28 Jun 2022 04:40:56 GMT</pubDate>
-            <content:encoded><![CDATA[행정안전부(장관 이상민)는 27일 대국민 브리핑에서 ‘경찰제도개선 자문위원회’ 권고안에 대한 입장을 밝히고, 경찰업무조직의 신설 필요성과 향후 추진계획 등을 설명...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/mois_062701_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[항공보안 이슈진단-3] 공항보안 관련법, 책임 강화 통한 실효성 확보 ‘핵심’ (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107803&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107803&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
             <pubDate>Thu, 30 Jun 2022 08:23:16 GMT</pubDate>
             <content:encoded><![CDATA[항행안전시설의 경쟁력 확보는 항공산업의 성공열쇠가 된다. 국내 15개 공항의 내부 수요에서 항공교통 수요가 가장 많은 공항(2021년 기준)은 제주공항으로 출발 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/airport_security_sum.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[행정안전부, 경찰업무조직 신설 방침 확정... ‘경찰국’ 만든다 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107818&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107818&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
+            <pubDate>Tue, 28 Jun 2022 04:40:56 GMT</pubDate>
+            <content:encoded><![CDATA[행정안전부(장관 이상민)는 27일 대국민 브리핑에서 ‘경찰제도개선 자문위원회’ 권고안에 대한 입장을 밝히고, 경찰업무조직의 신설 필요성과 향후 추진계획 등을 설명...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/mois_062701_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[2022년 하반기 시작 7월, 물리·정보보안 업계가 찾고 있는 인재는? (보안뉴스 ─ 가장 많이 본 기사)]]></title>
@@ -329,20 +329,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20220626ahn1-s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[BN미팅] 시큐레터 양승환 팀장이 꼽은 2022년 상반기 보안이슈 TOP 5 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107705&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107705&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Wed, 29 Jun 2022 12:33:43 GMT</pubDate>
-            <content:encoded><![CDATA[떨림과 설렘을 가득 안고 [BN미팅]에서 만나볼 그 첫 번째 주인공은 바로 시큐레터 양승환 팀장이다. 이 바닥에서 소위 ‘영재’라는 소리 들으며 어려서부터 발을 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20220628letter-ms.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[긴급] 한국원자력연구원 계정정보 노린 피싱 메일 발견 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107984&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107984&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Sat, 02 Jul 2022 03:45:28 GMT</pubDate>
             <content:encoded><![CDATA[최근 한국원자력연구원의 임직원 계정을 탈취하려는 공격이 다시금 발생해 주의가 요구된다. 이스트시큐리티&nbsp;시큐리티대응센터(이하&nbsp;ESRC)는 최근 국...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/07/esrc_070102_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[BN미팅] 시큐레터 양승환 팀장이 꼽은 2022년 상반기 보안이슈 TOP 5 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107705&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107705&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Wed, 29 Jun 2022 12:33:43 GMT</pubDate>
+            <content:encoded><![CDATA[떨림과 설렘을 가득 안고 [BN미팅]에서 만나볼 그 첫 번째 주인공은 바로 시큐레터 양승환 팀장이다. 이 바닥에서 소위 ‘영재’라는 소리 들으며 어려서부터 발을 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20220628letter-ms.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[log4j 교훈 잊었나? 2년 이상 방치된 오픈소스 88%가 사용 중 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
@@ -361,20 +361,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20220630NAME-MS.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[유명호 스누아이랩 대표 “딥러닝 기반 비전 AI 통해 영상보안업계 경쟁력 확보 조력” (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107823&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107823&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
-            <pubDate>Fri, 01 Jul 2022 08:22:25 GMT</pubDate>
-            <content:encoded><![CDATA[서울대학교 연구공원 본관 5층에 있는 비전 AI 기업 ‘스누아이랩’에 있는 카페테리아에는 ‘data has a better idea(데이터가 더 나은 아이디어를 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/22062709ss(1).jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[모던 웹 환경에서의 대표적인 취약점 TOP 7 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107983&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107983&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Sat, 02 Jul 2022 16:21:33 GMT</pubDate>
             <content:encoded><![CDATA[사이버보안 전문기업 스틸리언이 6월 29일 개최한 사이버보안 세미나 ‘Stealien Security Seminar’에서 ‘모던 웹’ 환경에서 발생하는 대표 취약...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/07/20220701steal-s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[유명호 스누아이랩 대표 “딥러닝 기반 비전 AI 통해 영상보안업계 경쟁력 확보 조력” (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107823&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107823&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
+            <pubDate>Fri, 01 Jul 2022 08:22:25 GMT</pubDate>
+            <content:encoded><![CDATA[서울대학교 연구공원 본관 5층에 있는 비전 AI 기업 ‘스누아이랩’에 있는 카페테리아에는 ‘data has a better idea(데이터가 더 나은 아이디어를 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/22062709ss(1).jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[요즘 제일 잘 나가는 랜섬웨어 록빗, 다크웹 사상 최초 버그바운티도 시작 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
@@ -399,6 +399,13 @@
             <pubDate>Thu, 30 Jun 2022 14:15:09 GMT</pubDate>
             <content:encoded><![CDATA[2023년 국가연구개발사업 예산에 사이버 위협 탐지·대응 관련 기술개발 투자 및 개인정보 보호·활용을 위한 기술개발과 표준화 연계를 지원하는 내용이 포함됐다. 과...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/msit_062701_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022년 상반기에 발견된 제로데이 취약점은 18개, 막을 수 있었던 건 9개 (보안뉴스 ─ SECURITY)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107987&amp;page=1&amp;mkind=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107987&amp;page=1&amp;mkind=1&amp;kind=1</guid>
+            <pubDate>Sun, 03 Jul 2022 01:45:40 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 상반기가 막 지난 지금까지 발견된 제로데이 취약점은 총 18개로 집계됐다. 공격자들이 먼저 발견해 공격을 실시했던 취약점들이며, 절반은 사전에 충분히 예방할 수 있었던 것으로 분석됐다. 구글 프로젝트 제로 팀이 자사 블로그를 통해 발표한 내용이다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[[긴급] 한국원자력연구원 계정정보 노린 피싱 메일 발견 (보안뉴스 ─ SECURITY)]]></title>
@@ -511,13 +518,6 @@
             <guid>https://www.boannews.com/media/view.asp?idx=107815&amp;page=1&amp;mkind=1&amp;kind=3</guid>
             <pubDate>Thu, 30 Jun 2022 08:23:30 GMT</pubDate>
             <content:encoded><![CDATA[2022년 상반기를 정리해 보면 공격자는 서비스형 멀웨어를 개발 및 판매하고, 공급망 공격을 서슴없이 시도했다. 그런데 앞으로는 사이버 공격자들의 행위가 더욱 대범해지고 공격 측면에서도 혁신이 일어날 것이라는 전망이 나왔다. 특히, 사이버 보안 지형이 크게 바뀔 것이라...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[log4j 교훈 잊었나? 2년 이상 방치된 오픈소스 88%가 사용 중 (보안뉴스 ─ SECURITY)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107948&amp;page=1&amp;mkind=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107948&amp;page=1&amp;mkind=1&amp;kind=3</guid>
-            <pubDate>Thu, 30 Jun 2022 08:23:30 GMT</pubDate>
-            <content:encoded><![CDATA[사상 최악의 보안 취약점으로 손꼽히는 Log4j 취약점 발견으로 오픈소스 관리의 중요성이 강조됐지만, 아직도 오픈소스 사용 기업의 88%가 2년 이상 방치된 오픈소스를 사용하는 것으로 알려져 충격을 주고 있다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[한-베, 미래 산업 핵심 기반 공간정보 협력 강화 (보안뉴스 ─ IT)]]></title>
