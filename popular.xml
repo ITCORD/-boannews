@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Jul 2022 06:29:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Jul 2022 07:19:22 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -62,14 +62,6 @@
             <pubDate>Sun, 03 Jul 2022 06:20:04 GMT</pubDate>
             <content:encoded><![CDATA[지난 몇 년 동안 가장 귀한 대접을 받은 자원은 단연 데이터다. 석유와 금, 화폐에 비유될 정도로 데이터는 치명적으로 중요한 존재였다. 데이터를 잘 활용하기만 하...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/tax-thumb-0630.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[구축사례] 영상보정 회사 ‘루시드컬러’의 미디어용 데이터 스토리지 사용記]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107776&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107776&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
-            <pubDate>Tue, 28 Jun 2022 08:23:29 GMT</pubDate>
-            <content:encoded><![CDATA[영상 관제 환경에서 CCTV 카메라의 해상도와 채널 수의 증가, 보관 주기의 연장으로 인해 저장 요건이 늘어나고 있는 것처럼 미디어 환경에서도 Full HD, 2...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20220627seagate-s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[항공보안 이슈진단-3] 공항보안 관련법, 책임 강화 통한 실효성 확보 ‘핵심’]]></title>
@@ -166,6 +158,14 @@
             <pubDate>Mon, 04 Jul 2022 06:26:54 GMT</pubDate>
             <content:encoded><![CDATA[2023년 국가연구개발사업 예산에 사이버 위협 탐지·대응 관련 기술개발 투자 및 개인정보 보호·활용을 위한 기술개발과 표준화 연계를 지원하는 내용이 포함됐다. 과...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/msit_062701_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Weekly Security Premium Report 제57호 발간! 사이버 리질리언스 5단계]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107958&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107958&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
+            <pubDate>Mon, 04 Jul 2022 07:15:57 GMT</pubDate>
+            <content:encoded><![CDATA[6월 30일 발간된 ‘Weekly Security Premium Report’ 제57호에는 &lt;보안 심층 리포트&gt; 코너에서 각종 사이버 위협을 예상하고,...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20220630REPORT-SM.JPG" length="0" type="image/JPG"/>
         </item>
     </channel>
 </rss>

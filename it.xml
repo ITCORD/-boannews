@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=2</id>
     <title>보안뉴스 ─ IT</title>
-    <updated>2022-07-04T06:29:53.420Z</updated>
+    <updated>2022-07-04T07:19:22.369Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[최근 떠오르는 ‘사설 무선’ 기술, 디지털 격차를 줄인다]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=108001&amp;page=1&amp;mkind=2&amp;kind=4</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=108001&amp;page=1&amp;mkind=2&amp;kind=4"/>
+        <updated>2022-07-04T07:16:25.616Z</updated>
+        <content type="html"><![CDATA[50년대 활동하던 공상과학 작가들을 현대로 환생시키면 그들은 어떤 반응을 보일까? 아마 대부분은 ‘와, 내가 예언한 게 맞았어!’라는 생각을 할 것이다. 스스로 운전하는 자동차, 가상현실, 로봇이 집도하는 수술 등 그들이 글자로 묘사하던 것들이 구현되었으니 말이다. 게...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SKT, 뚝심으로 일군 ‘양자 12년’ 양자암호통신 선도기업 자리매김]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=107996&amp;page=1&amp;mkind=2&amp;kind=3</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=107961&amp;page=1&amp;mkind=2&amp;kind=2"/>
         <updated>2022-07-01T08:23:02.780Z</updated>
         <content type="html"><![CDATA[경기도는 건물·도로 중심의 기존 주소체계를 보완하고 데이터·네트워크·인공지능 등 미래 생태계에 대응하기 위해 2026년까지 건물 지하 내부 시설물·숲길 등 주소정보를 현재 118만5,000여개에서 두 배 이상으로 확충하는 내용의 ‘제1차 경기도 주소정보 활용 집행계획(...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[‘2021-2022 화웨이 ICT 경진대회’ 글로벌 파이널 성료]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107975&amp;page=1&amp;mkind=2&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107975&amp;page=1&amp;mkind=2&amp;kind=3"/>
-        <updated>2022-07-01T08:23:02.781Z</updated>
-        <content type="html"><![CDATA[중국 선전에서 개최된 ‘2021-2022 화웨이 ICT 경진대회(Huawei ICT Competition 2021-2022)’ 글로벌 파이널이 지난 달 25일 막을 내렸다. 6회째를 맞이한 ‘화웨이 ICT 경진대회’는 실무, 혁신, 산업 등 3개 분야로 나뉘어 진행되고...]]></content>
     </entry>
 </feed>
