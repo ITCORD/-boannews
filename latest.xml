@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 03 Jul 2022 23:19:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Jul 2022 01:53:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -86,6 +86,14 @@
             <pubDate>Fri, 01 Jul 2022 08:22:10 GMT</pubDate>
             <content:encoded><![CDATA[CIO로서의 개인적인 경험이긴 하지만, CTO에게는 신기술과 기술 아키텍처에 관한 임무를 맡기는 것이 가장 높은 효과를 발휘한다. 여태까지 같이 일했던 C...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/tech-thumb-0630.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[제네텍, 차세대 ‘시너지스 클라우드 링크’ 공개]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=108004&amp;page=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=108004&amp;page=1&amp;kind=3</guid>
+            <pubDate>Mon, 04 Jul 2022 01:50:30 GMT</pubDate>
+            <content:encoded><![CDATA[융합 보안과 공공 안전, 운영·비즈니스 인텔리전스 솔루션 분야의 기술 선도기업인 제네텍(Genetec)은 출입통제용 차세대 시너지스 클라우드 링크(Syne...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/07/genetec%20photoproduct%20synergis%20cloud%20link%20sum.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[금융보안원, 정보보호 및 개인정보보호 관리체계 인증기관 재지정]]></title>
@@ -231,14 +239,6 @@
             <pubDate>Fri, 01 Jul 2022 08:22:10 GMT</pubDate>
             <content:encoded><![CDATA[전 세계 개인정보보호 법제에 영향을 끼친 EU GDPR이 EU 시장 대상 기업의 매출과 이익에 부정적 영향을 끼친 것으로 조사됐다. 반면 기업 보안담당자와...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/07/20547490_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SK쉴더스, 한국서비스품질지수 무인경비서비스 부문 2년 연속 1위]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107977&amp;page=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107977&amp;page=1&amp;kind=3</guid>
-            <pubDate>Fri, 01 Jul 2022 08:22:10 GMT</pubDate>
-            <content:encoded><![CDATA[라이프 케어 플랫폼 SK쉴더스(대표 박진효)가 한국표준협회(KSA)가 주관하는 ‘2022년 한국서비스품질지수(KS-SQI)’ 조사에서 2년 연속으로 무인경...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/07/2022%20KS-SQI-c.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
