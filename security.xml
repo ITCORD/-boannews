@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-07-04T07:19:22.431Z</updated>
+    <updated>2022-07-04T08:23:55.962Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[무료 스마트폰 스토커웨어 탐지 도구, 전용 허브까지 만들어져]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=108008&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=108008&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-07-04T08:21:44.635Z</updated>
+        <content type="html"><![CDATA[IT 외신 블리핑컴퓨터에 의하면 무료 스토커웨어가 모바일 장비에 설치되어 있는지 확인할 수 있게 해 주는 도구인 타이니체크(TinyCheck)를 위한 전용 정보 허브가 개설됐다고 한다. 타이니체크는 2019년 보안 업체 카스퍼스키(Kaspersky)가 만든 것으로, 자...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[코인베이스, 사용자의 위치 정보를 이민세관단속국에 판매했다?]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=108007&amp;page=1&amp;mkind=1&amp;kind=1</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=107981&amp;page=1&amp;mkind=1&amp;kind=1"/>
         <updated>2022-07-01T08:22:44.750Z</updated>
         <content type="html"><![CDATA[NFT의 마켓플레이스로 유명한 오픈시(OpenSea)에서 정보 유출 사고가 발생했다고 보안 외신 핵리드(HackRead)가 보도했다. 오픈시는 자사의 이메일 솔루션 벤더인 커스터머아이오(Customer.io)에서부터 사고가 시작됐다고 밝혔다. 직원 한 명이 권한을 남용...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[구글, 해킹 용병들이 사용하는 악성 도메인 수십 개 차단]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107980&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107980&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-07-01T08:22:44.753Z</updated>
-        <content type="html"><![CDATA[보안 외신 해커뉴스에 의하면 구글이 36개의 악성 도메인을 폐쇄시키는 데 성공했다고 한다. 이 도메인들은 인도, 러시아, UAE의 해킹 용병이 사용하던 것이다. 공격 도메인을 폐쇄했다는 것은 이들이 활용할 수 있는 공격 인프라에 손상을 주었다는 뜻이고, 결국 공격 효율...]]></content>
     </entry>
 </feed>

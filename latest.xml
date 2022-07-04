@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Jul 2022 07:19:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Jul 2022 08:23:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -86,6 +86,14 @@
             <pubDate>Mon, 04 Jul 2022 03:49:20 GMT</pubDate>
             <content:encoded><![CDATA[50년대 활동하던 공상과학 작가들을 현대로 환생시키면 그들은 어떤 반응을 보일까? 아마 대부분은 ‘와, 내가 예언한 게 맞았어!’라는 생각을 할 것이다. ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/07/wire-thumb-0703.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[한싹, 창립 30주년 “융합보안 선도기업 도약 박차”]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=108014&amp;page=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=108014&amp;page=1&amp;kind=3</guid>
+            <pubDate>Mon, 04 Jul 2022 08:21:12 GMT</pubDate>
+            <content:encoded><![CDATA[“한싹은 1992년 IT 벤처기업으로 시작해 코스닥 상장을 추진하는 국내 대표 보안기업으로 성장했습니다. 미래 발전과 새로운 도약을 위해 모두 화합하며 나...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/07/hansak-c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[정보통신·교육 등 생활밀접 5개 분야 마이데이터 표준화 우선 추진]]></title>
@@ -232,13 +240,6 @@
             <guid>https://www.boannews.com/media/view.asp?idx=107992&amp;page=1&amp;kind=2</guid>
             <pubDate>Sat, 02 Jul 2022 03:45:14 GMT</pubDate>
             <content:encoded><![CDATA[과학기술정보통신부는 지난 1일 정보통신기술(ICT) 예산 사업 전담기관들과 함께 현장의 애로 사항 해소와 사업의 성과 창출을 위해 ‘과기정통부, 정보통신기...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[한-베, 미래 산업 핵심 기반 공간정보 협력 강화]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107990&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107990&amp;page=1&amp;kind=2</guid>
-            <pubDate>Sat, 02 Jul 2022 03:45:14 GMT</pubDate>
-            <content:encoded><![CDATA[국토교통부는 공간정보 및 측지 분야에서 한국-베트남 사이의 기술·인적자원 교류와 아세안 지역 우리 기업 진출의 교두보를 확충하기 위해 대한민국 국토지리정보...]]></content:encoded>
         </item>
     </channel>
 </rss>
