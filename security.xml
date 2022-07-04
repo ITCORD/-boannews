@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-07-04T05:30:46.215Z</updated>
+    <updated>2022-07-04T06:29:53.422Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[코인베이스, 사용자의 위치 정보를 이민세관단속국에 판매했다?]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=108007&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=108007&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-07-04T06:27:13.115Z</updated>
+        <content type="html"><![CDATA[보안 외신 핵리드가 테크인콰이어리(Tech Inquiry)의 충격적인 보고서를 인용해 미국 국토안보부와 암호화폐 거래소인 코인베이스(Coinbase) 간의 은밀한 거래가 있었다고 고발했다. 보고서에 의하면 코인베이스는 지난 3년 간 국토안보부 산하 이민세관단속국(ICE...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[젠킨스 플러그인 수십 개에서 제로데이 취약점들 발견돼]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=108006&amp;page=1&amp;mkind=1&amp;kind=1</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=107980&amp;page=1&amp;mkind=1&amp;kind=1"/>
         <updated>2022-07-01T08:22:44.753Z</updated>
         <content type="html"><![CDATA[보안 외신 해커뉴스에 의하면 구글이 36개의 악성 도메인을 폐쇄시키는 데 성공했다고 한다. 이 도메인들은 인도, 러시아, UAE의 해킹 용병이 사용하던 것이다. 공격 도메인을 폐쇄했다는 것은 이들이 활용할 수 있는 공격 인프라에 손상을 주었다는 뜻이고, 결국 공격 효율...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GDPR, EU 시장 진출기업의 매출에 부정적 영향... 사이버 보안엔 ‘긍정’]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107979&amp;page=1&amp;mkind=1&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107979&amp;page=1&amp;mkind=1&amp;kind=2"/>
-        <updated>2022-07-01T08:22:44.755Z</updated>
-        <content type="html"><![CDATA[전 세계 개인정보보호 법제에 영향을 끼친 EU GDPR이 EU 시장 대상 기업의 매출과 이익에 부정적 영향을 끼친 것으로 조사됐다. 반면 기업 보안담당자와 정보주체들은 GDPR 시행 이후 기업의 사이버보안 태세가 강화됐다는 긍정적인 평가를 내렸다.]]></content>
     </entry>
 </feed>
