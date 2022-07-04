@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 04 Jul 2022 14:18:00 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 04 Jul 2022 15:20:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -152,20 +152,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20220630REPORT-SM.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
-            <title><![CDATA[2022년 상반기 사이버 보안 동향 결산, 공격자 혁신 조짐 3가지]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107815&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107815&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
-            <pubDate>Mon, 04 Jul 2022 08:21:28 GMT</pubDate>
-            <content:encoded><![CDATA[2022년 상반기를 정리해 보면 공격자는 서비스형 멀웨어를 개발 및 판매하고, 공급망 공격을 서슴없이 시도했다. 그런데 앞으로는 사이버 공격자들의 행위가 더욱 대...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/cyberark.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[7월은 ‘제11회 정보보호의 달’, 다채로운 보안행사 열린다]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107999&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107999&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
             <pubDate>Mon, 04 Jul 2022 10:21:03 GMT</pubDate>
             <content:encoded><![CDATA[정부가 ‘제11회 정보보호의 달’을 기념해 7월 한 달 동안 다채로운 보안 행사를 추진한다. 과학기술정보통신부(장관 이종호, 이하 ‘과기정통부’)와 한국정보보호산...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/07/msit_070301_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[2022년 상반기 사이버 보안 동향 결산, 공격자 혁신 조짐 3가지]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107815&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107815&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
+            <pubDate>Mon, 04 Jul 2022 08:21:28 GMT</pubDate>
+            <content:encoded><![CDATA[2022년 상반기를 정리해 보면 공격자는 서비스형 멀웨어를 개발 및 판매하고, 공급망 공격을 서슴없이 시도했다. 그런데 앞으로는 사이버 공격자들의 행위가 더욱 대...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/cyberark.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
