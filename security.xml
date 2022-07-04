@@ -2,9 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-07-04T01:53:52.643Z</updated>
+    <updated>2022-07-04T03:52:26.492Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[젠킨스 플러그인 수십 개에서 제로데이 취약점들 발견돼]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=108006&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=108006&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-07-04T03:49:49.469Z</updated>
+        <content type="html"><![CDATA[보안 블로그 시큐리티어페어즈에 의하면 젠킨스(Jenkins) 자동화 서버 플러그인 29개에서 다수의 제로데이 취약점이 발견됐다고 한다. 29개 플러그인에서 발견된 취약점은 총 34개이며, 이 중 29개 취약점은 아직 패치가 나오지도 않았다. 제로데이 취약점이라는 것이다...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[네덜란드 대학, 랜섬웨어 공격자들에게 낸 돈 돌려 받아]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=108005&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=108005&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-07-04T03:49:49.471Z</updated>
+        <content type="html"><![CDATA[보안 외신 시큐리티위크에 의하면 네덜란드의 한 대학 기관이 랜섬웨어 공격에 당했고, 이 때문에 범인들에게 20만 유로의 돈을 지불했다고 한다. 그 사건이 벌어진 것이 2019년이었는데, 경찰이 이 돈을 추적해 결국 일부를 돌려받는 데 성공했다. 재미있는 건 그 기간 사...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[이메일 사기 공격(BEC)의 교묘한 수법, 어떻게 대응해야 할까]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107800&amp;page=1&amp;mkind=1&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107800&amp;page=1&amp;mkind=1&amp;kind=3"/>
+        <updated>2022-07-04T03:49:49.472Z</updated>
+        <content type="html"><![CDATA[기업이나 조직의 보안을 위협하는 요소는 너무도 다양하게 있지만 최근에 BEC(Business Email Compromise), 즉 이메일 사기 공격이 심각한 위협으로 떠오르고 있다. 국내 기업들도 이메일 사기 공격(BEC)에 당해서 해커에게 거액을 송금하거나 내부 정보...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[긴급] 국내 병원 환자 의료영상 관리 시스템 ‘PACS’ 노린 공격 발견]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=108000&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=108000&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-07-04T03:49:49.474Z</updated>
+        <content type="html"><![CDATA[최근 국내 의료 기관에서 사용 중인 PACS(Picture Archiving and Communication System) 서버를 공격한 사례가 확인돼 관계기관의 주의가 요구된다. 안랩 ASEC 분석팀에서는 취약한 서버를 대상으로 유포 중인 악성코드를 모니터링 하던 중...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[‘2022 국가정보보호백서’로 살펴본 우리나라 사이버 보안 이슈 TOP 10]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107986&amp;page=1&amp;mkind=1&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107986&amp;page=1&amp;mkind=1&amp;kind=2"/>
+        <updated>2022-07-04T03:49:49.475Z</updated>
+        <content type="html"><![CDATA[‘2022 국가정보보호백서’에서 키워드로 선정한 2021년 정보보호 10대 이슈는 △국경을 넘는 공격망과 첨단기술 탈취 심화 △랜섬웨어 조직의 진화와 공격 대상 확장 △Log4j 등 오픈소스 프로그램의 심각한 보안 취약점 노출 △‘우리 생활을 더 편리하게’, 스마트홈·...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[7월은 ‘제11회 정보보호의 달’, 다채로운 보안행사 열린다]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107999&amp;page=1&amp;mkind=1&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107999&amp;page=1&amp;mkind=1&amp;kind=2"/>
+        <updated>2022-07-04T03:49:49.477Z</updated>
+        <content type="html"><![CDATA[정부가 ‘제11회 정보보호의 달’을 기념해 7월 한 달 동안 다채로운 보안 행사를 추진한다. 과학기술정보통신부(장관 이종호, 이하 ‘과기정통부’)와 한국정보보호산업협회(회장 이동범, 이하 ‘KISIA’)은 ‘튼튼한 사이버안보, 안전한 디지털강국’를 주제로 7월 한 달 ...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[금융보안원, 정보보호 및 개인정보보호 관리체계 인증기관 재지정]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=107998&amp;page=1&amp;mkind=1&amp;kind=2</id>
@@ -81,47 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=107979&amp;page=1&amp;mkind=1&amp;kind=2"/>
         <updated>2022-07-01T08:22:44.755Z</updated>
         <content type="html"><![CDATA[전 세계 개인정보보호 법제에 영향을 끼친 EU GDPR이 EU 시장 대상 기업의 매출과 이익에 부정적 영향을 끼친 것으로 조사됐다. 반면 기업 보안담당자와 정보주체들은 GDPR 시행 이후 기업의 사이버보안 태세가 강화됐다는 긍정적인 평가를 내렸다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전남도, 차세대 양자 기술로 행정망 해킹 차단]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107968&amp;page=1&amp;mkind=1&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107968&amp;page=1&amp;mkind=1&amp;kind=2"/>
-        <updated>2022-07-01T08:22:44.759Z</updated>
-        <content type="html"><![CDATA[전남도가 현존하는 보안기술 중 가장 안전한 통신 암호화 방식으로 평가받는 ‘양자암호통신(Quantum Cryptography Communication)’ 기술을 내부 통신망에 적용해 사이버 침해 대응 능력을 획기적으로 강화할 계획이라고 밝혔다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[박윤규 과기정통부 2차관 두 번째 현장 밀착 소통, SW 기업 의견 경청]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107964&amp;page=1&amp;mkind=1&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107964&amp;page=1&amp;mkind=1&amp;kind=2"/>
-        <updated>2022-07-01T08:22:44.760Z</updated>
-        <content type="html"><![CDATA[과학기술정보통신부 박윤규 제2차관은 ‘소프트웨어산업의 질적 도약을 위한 국내 소프트웨어기업의 성장 및 해외 진출 지원 방안’을 주제로 지난달 30일 ‘제2차 디지털 국정과제 연속 현장 간담회’를 진행했다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[안랩, 사옥 주차장 전기차 충전 인프라 설치]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107974&amp;page=1&amp;mkind=1&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107974&amp;page=1&amp;mkind=1&amp;kind=3"/>
-        <updated>2022-07-01T08:22:44.762Z</updated>
-        <content type="html"><![CDATA[안랩(대표 강석균)이 환경경영 실천의 일환으로 판교 사옥의 지하 주차장에 전기차 (완속)충전기를 설치했다. 안랩은 ‘환경친화적 자동차의 개발 및 보급 촉진에 관한 법률 시행령’에 따라, 전체 주차면의 2% 이상인 12면의 전기차 충전 구역을 마련했다고 밝혔다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[가명정보 처리 솔루션 리포트] 안전한 개인정보 활용으로 ‘新보안체계 구축’]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107952&amp;page=1&amp;mkind=1&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107952&amp;page=1&amp;mkind=1&amp;kind=3"/>
-        <updated>2022-07-01T08:22:44.765Z</updated>
-        <content type="html"><![CDATA[제20대 대통령직 인수위원회 디지털 플랫폼 정부 TF에서 지난 5월 4일 발표한 디지털 플랫폼 정부 구현 중점 추진과제 중 하나가 바로 안전하고 신뢰할 수 있는 이용환경 보장이다. 개인정보 활용 시에는 이력 상시 확인, 이상 행위 탐지 등으로 데이터 유출을 방지하고, ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Weekly Security Premium Report 제57호 발간! 사이버 리질리언스 5단계]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107958&amp;page=1&amp;mkind=1&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107958&amp;page=1&amp;mkind=1&amp;kind=3"/>
-        <updated>2022-07-01T08:22:44.766Z</updated>
-        <content type="html"><![CDATA[6월 30일 발간된 ‘Weekly Security Premium Report’ 제57호에는 &lt;보안 심층 리포트&gt; 코너에서 각종 사이버 위협을 예상하고, 대비하고, 대응하고, 피해로부터 빠르게 복구할 수 있는 능력을 의미하는 사이버 리질리언스 개념에 대해 살펴...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KISA, ‘사랑해 지구’ 행사로 ESG경영 적극 실천]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107955&amp;page=1&amp;mkind=1&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107955&amp;page=1&amp;mkind=1&amp;kind=2"/>
-        <updated>2022-07-01T08:22:44.766Z</updated>
-        <content type="html"><![CDATA[한국인터넷진흥원(KISA, 원장 이원태)은 세계 환경의 달을 맞아 환경 교육, 업사이클링 체험, 친환경 제품 구매 등 환경 개선을 위한 ‘사랑해 지구(LOVE EARTH)’ 행사를 실시했다고 6월 30일(목) 밝혔다.]]></content>
     </entry>
 </feed>

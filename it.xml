@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=2</id>
     <title>보안뉴스 ─ IT</title>
-    <updated>2022-07-04T01:53:52.645Z</updated>
+    <updated>2022-07-04T03:52:26.395Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[과기정통부, ‘정보통신기술(ICT)예산정책협의체’ 제3차 전체 회의 개최]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107992&amp;page=1&amp;mkind=2&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107992&amp;page=1&amp;mkind=2&amp;kind=2"/>
+        <updated>2022-07-04T03:50:02.166Z</updated>
+        <content type="html"><![CDATA[과학기술정보통신부는 지난 1일 정보통신기술(ICT) 예산 사업 전담기관들과 함께 현장의 애로 사항 해소와 사업의 성과 창출을 위해 ‘과기정통부, 정보통신기술(ICT)예산정책협의체’의 제3차 전체회의를 개최했다고 밝혔다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한-베, 미래 산업 핵심 기반 공간정보 협력 강화]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=107990&amp;page=1&amp;mkind=2&amp;kind=2</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=107934&amp;page=1&amp;mkind=2&amp;kind=1"/>
         <updated>2022-07-01T08:23:02.783Z</updated>
         <content type="html"><![CDATA[안전한 AI 기반 네트워크 전문업체 주니퍼 네트웍스가 지난 12개월 동안 엔터프라이즈 AI 도입 증가에 따른 조직의 실질적인 이점을 보여주는 글로벌 연구 프로젝트 결과를 발표했다. 그러나 여전히 숙련된 인력 부족과 미흡한 거버넌스 정책으로 인해 해결해야 할 과제가 남아...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사무실로 돌아오기 싫어하는 직원들이 있을 때 기업이 알아두어야 할 것]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107866&amp;page=1&amp;mkind=2&amp;kind=4</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107866&amp;page=1&amp;mkind=2&amp;kind=4"/>
-        <updated>2022-07-01T08:23:02.785Z</updated>
-        <content type="html"><![CDATA[2020년 코로나가 전 세계를 휩쓸었을 때, 그래서 기업들이 전부 ‘봉쇄 체제’에 돌입했을 때, 모든 사람들이 집으로 돌아가 업무를 수행하기 시작했다. 그리고 시간이 흐르고, 이제는 다시 모두가 사무실로의 복귀를 서두르고 있다. 이미 복귀한 곳도 상당수다. 그런데 여기...]]></content>
     </entry>
 </feed>
