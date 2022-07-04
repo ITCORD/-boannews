@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=2</id>
     <title>보안뉴스 ─ IT</title>
-    <updated>2022-07-04T04:51:02.888Z</updated>
+    <updated>2022-07-04T05:30:46.217Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[SKT, 뚝심으로 일군 ‘양자 12년’ 양자암호통신 선도기업 자리매김]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107996&amp;page=1&amp;mkind=2&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107996&amp;page=1&amp;mkind=2&amp;kind=3"/>
+        <updated>2022-07-04T05:28:42.102Z</updated>
+        <content type="html"><![CDATA[SK텔레콤과 SK브로드밴드는 과학기술정보통신부가 ‘2022 양자정보주간’을 맞아 개최한 ‘양자기술 산업화 성과 발표 및 미래양자융합포럼 1주년 기념식’을 통해 양자 분야 기술개발 및 상용화 성과를 발표했다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[눈앞에 다가오는 양자기술, 산학연 역량 결집으로 적극 대응]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107994&amp;page=1&amp;mkind=2&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107994&amp;page=1&amp;mkind=2&amp;kind=2"/>
+        <updated>2022-07-04T05:28:42.102Z</updated>
+        <content type="html"><![CDATA[과학기술정보통신부는 ‘2022 양자정보주간’을 맞아 지난 1일 양자암호통신·양자센서 등 양자 분야 기술개발 및 상용화 성과를 확인하고, ‘미래양자융합포럼’ 창립 1주년을 기념하기 위해 ‘양자기술 산업화 성과 발표 및 미래양자융합포럼 1주년 기념식’을 개최했다고 밝혔다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[과기정통부, ‘정보통신기술(ICT)예산정책협의체’ 제3차 전체 회의 개최]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=107992&amp;page=1&amp;mkind=2&amp;kind=2</id>
@@ -109,19 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=107975&amp;page=1&amp;mkind=2&amp;kind=3"/>
         <updated>2022-07-01T08:23:02.781Z</updated>
         <content type="html"><![CDATA[중국 선전에서 개최된 ‘2021-2022 화웨이 ICT 경진대회(Huawei ICT Competition 2021-2022)’ 글로벌 파이널이 지난 달 25일 막을 내렸다. 6회째를 맞이한 ‘화웨이 ICT 경진대회’는 실무, 혁신, 산업 등 3개 분야로 나뉘어 진행되고...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국인터넷신문협회, 정책포럼 개최]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107957&amp;page=1&amp;mkind=2&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107957&amp;page=1&amp;mkind=2&amp;kind=3"/>
-        <updated>2022-07-01T08:23:02.782Z</updated>
-        <content type="html"><![CDATA[한국인터넷신문협회(이하 인신협, 회장 이의춘)는 6월 30일 목요일 오전 7시 여의도 켄싱턴호텔 첼시홀에서 최형두 의원(국민의힘, 창원마산합포구)이 연사로 참석한 가운데 정책 포럼(위원장 폴리뉴스 김능구 대표)을 개최했다고 밝혔다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[주니퍼 네트웍스, “AI/ML 리더 44%, 해킹과 AI 테러 우려”]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107934&amp;page=1&amp;mkind=2&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107934&amp;page=1&amp;mkind=2&amp;kind=1"/>
-        <updated>2022-07-01T08:23:02.783Z</updated>
-        <content type="html"><![CDATA[안전한 AI 기반 네트워크 전문업체 주니퍼 네트웍스가 지난 12개월 동안 엔터프라이즈 AI 도입 증가에 따른 조직의 실질적인 이점을 보여주는 글로벌 연구 프로젝트 결과를 발표했다. 그러나 여전히 숙련된 인력 부족과 미흡한 거버넌스 정책으로 인해 해결해야 할 과제가 남아...]]></content>
     </entry>
 </feed>
