@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=4</id>
     <title>보안뉴스 ─ SAFETY</title>
-    <updated>2022-07-05T01:30:49.652Z</updated>
+    <updated>2022-07-05T03:46:18.498Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[울산시, 지역 비상대비태세 확립 위한 ‘2022년 충무훈련’ 실시]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=108042&amp;page=1&amp;mkind=4&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=108042&amp;page=1&amp;mkind=4&amp;kind=2"/>
+        <updated>2022-07-05T03:43:40.099Z</updated>
+        <content type="html"><![CDATA[울산시는 지난 4일부터 7일까지 비상대비계획의 실효성 검증과 시행 절차 숙달을 통한 지역 비상대비태세 확립을 위한 ‘2022 충무훈련’을 실시한다고 밝혔다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[안전한 도로, 국민참여단이 만들어 나간다]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=107995&amp;page=1&amp;mkind=4&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=107995&amp;page=1&amp;mkind=4&amp;kind=2"/>
+        <updated>2022-07-05T03:43:40.101Z</updated>
+        <content type="html"><![CDATA[국토교통부와 한국건설기술연구원, 한국교통안전공단 및 손해보험협회는 지난달 30일 ‘2022 도로안전 국민참여단 발대식’을 개최했다. 2019년부터 운영 중인 도로안전 국민참여단은 3년 동안 총 5만6,037건의 도로불편사항을 스마트폰 앱인 ‘척척해결서비스’로 신고했으며...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[외교부, 미국 하와이에서 재난 대응 신속대응팀 모의훈련 실시]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=107993&amp;page=1&amp;mkind=4&amp;kind=2</id>
@@ -109,19 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=107817&amp;page=1&amp;mkind=4&amp;kind=3"/>
         <updated>2022-06-28T01:39:45.507Z</updated>
         <content type="html"><![CDATA[소방청은 6월 8일부터 시행된 ‘다중이용업소의 안전관리에 관한 특별법 시행 규칙’ 개정안에 따라 안전관리사각지대에 있던 방탈출·키즈·만화카페 등 신종 3개 업종이 다중이용업소로 편입돼 안전관리가 강화된다고 밝혔다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SR, IoT 시스템으로 풍수해 대비 특별 안전 점검 실시]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107791&amp;page=1&amp;mkind=4&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107791&amp;page=1&amp;mkind=4&amp;kind=2"/>
-        <updated>2022-06-28T01:39:45.508Z</updated>
-        <content type="html"><![CDATA[SRT 운영사 SR은 지난 24일 IoT 시스템 기반으로 수서역 일대에서 여름철 풍수해 대비 특별 점검에 나섰다. 이날 훈련은 IoT 기반 스마트안전모를 활용해 현장별 상황을 재난안전상황실로 실시간 송출하고, 이종국 SR 대표이사가 점검 현장 직원들과 바로 소통하며 보...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[과기정통부, ‘생활환경 전자파 바로알기’ 공모전 개최]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=107755&amp;page=1&amp;mkind=4&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=107755&amp;page=1&amp;mkind=4&amp;kind=2"/>
-        <updated>2022-06-28T01:39:45.510Z</updated>
-        <content type="html"><![CDATA[과학기술정보통신부는 이동통신 기지국 전자파에 대한 정확한 정보 제공과 대국민 인식 개선을 위한 ‘생활환경 전자파 바로알기’ 동영상·포스터 공모전을 오는 9월 30일까지 개최한다고 밝혔다.]]></content>
     </entry>
 </feed>
