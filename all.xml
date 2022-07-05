@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 05 Jul 2022 11:18:10 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Jul 2022 12:37:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -359,14 +359,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/07/21493824_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[요즘 제일 잘 나가는 랜섬웨어 록빗, 다크웹 사상 최초 버그바운티도 시작 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107865&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107865&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Sun, 03 Jul 2022 16:21:11 GMT</pubDate>
-            <content:encoded><![CDATA[유명 랜섬웨어 집단인 록빗(LockBit)이 최근 자신들의 공격 무기를 최신화 하여 새롭게 발표했다. 이른 바 록빗3.0(LockBit 3.0)인데, 단순히 새로...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20695495_copy_295x190_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[Weekly Security Premium Report 제57호 발간! 사이버 리질리언스 5단계 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107958&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107958&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
@@ -389,6 +381,14 @@
             <pubDate>Tue, 05 Jul 2022 09:26:46 GMT</pubDate>
             <content:encoded><![CDATA[최근 국내 의료 기관에서 사용 중인 PACS(Picture Archiving and Communication System) 서버를 공격한 사례가 확인돼 관계기관의...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/07/21070189_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[부산 EDC-3] 스마트빌리지, 미래 기술 체험하고 피드백하는 실험적 공간 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107947&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107947&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
+            <pubDate>Tue, 05 Jul 2022 12:34:30 GMT</pubDate>
+            <content:encoded><![CDATA[부산 에코델타시티(EDC) 스마트시티 내 스마트빌리지(Smart Village)는 스마트시티 국가 시범도시에서 첫 번째 입주단지다. 스마트빌리지는 부산 EDC에 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/pusan%20eco_070501.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[영국 런던, AI-데이터 혁명 기반 데이터 경제 중심지로 부상 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
