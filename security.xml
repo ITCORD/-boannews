@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-07-05T04:38:54.028Z</updated>
+    <updated>2022-07-05T05:23:00.509Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[안랩, 임직원이 참여하는 도서 2000권 기부 목표 캠페인 시작]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=108058&amp;page=1&amp;mkind=1&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=108058&amp;page=1&amp;mkind=1&amp;kind=3"/>
+        <updated>2022-07-05T05:20:45.798Z</updated>
+        <content type="html"><![CDATA[안랩(대표 강석균)이 연말까지 24주간 도서 2000권 기부를 목표로 캠페인을 시작했다. 이번 ‘도서 2000권 기부 캠페인’은 임직원이 더 이상 보지 않는 도서를 기부하는 자원 재활용 및 사회 기여 관점의 행사다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[중국 국민 10억 명의 개인정보, 다크웹에서 거래되는 중]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=108064&amp;page=1&amp;mkind=1&amp;kind=1</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=108013&amp;page=1&amp;mkind=1&amp;kind=1"/>
         <updated>2022-07-05T01:28:27.560Z</updated>
         <content type="html"><![CDATA[보안 전문가들은 최근 새로운 소셜 엔지니어링 기법에 경악하고 있다. 딥페이크 기술을 활용해 원격 직업 면접을 실시하는 전략인데, 이에 대한 최초 경고는 FBI의 인터넷범죄신고센터에서부터 나왔다. 최근 사이버 사기꾼들이 온라인 면접을 통해 원격 근무자 자격을 취득한 뒤 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[틱톡, 미국 정치인들에 읍소하며 “중국 임직원 접근 불가하게 한다”]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=108009&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=108009&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-07-04T09:22:44.027Z</updated>
-        <content type="html"><![CDATA[보안 외신 핵리드에 의하면 틱톡을 둘러싼 중국과 미국의 신경전이 여전한 가운데 틱톡 측에서 미국 의회에 새로운 약속을 했다고 한다. 사용자 데이터를 중국 사무실 임직원들이 열람하거나 사용할 수 없도록 조치를 취하겠다는 것이다. 내부 직원들의 사용자 데이터 접근 권한 통...]]></content>
     </entry>
 </feed>
