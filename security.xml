@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-07-05T05:23:00.509Z</updated>
+    <updated>2022-07-05T06:24:03.705Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[41개 해외국가도메인까지 확대해 인터넷주소 분쟁조정 나선다]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=108066&amp;page=1&amp;mkind=1&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=108066&amp;page=1&amp;mkind=1&amp;kind=2"/>
+        <updated>2022-07-05T06:21:37.319Z</updated>
+        <content type="html"><![CDATA[한국인터넷진흥원(KISA, 원장 이원태)은 웹 3.0시대를 맞아 국내 기업을 지원하기 위해 기존의 일반도메인(gTLD)에서 추가로 41개 해외 국가도메인(ccTLD)까지 인터넷주소분쟁조정 대상을 확대한다고 7월 5일(화) 밝혔다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[안랩, 임직원이 참여하는 도서 2000권 기부 목표 캠페인 시작]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=108058&amp;page=1&amp;mkind=1&amp;kind=3</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=108014&amp;page=1&amp;mkind=1&amp;kind=3"/>
         <updated>2022-07-05T01:28:27.558Z</updated>
         <content type="html"><![CDATA[“한싹은 1992년 IT 벤처기업으로 시작해 코스닥 상장을 추진하는 국내 대표 보안기업으로 성장했습니다. 미래 발전과 새로운 도약을 위해 모두 화합하며 나아갑시다”한싹(대표 이주도)은 창립 30주년을 맞아 1일 기념 행사를 개최하고, ‘융합보안 선도기업’으로 제2의 도...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[새로운 소셜 엔지니어링? 딥페이크 활용한 온라인 면접 사기 속출]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=108013&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=108013&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-07-05T01:28:27.560Z</updated>
-        <content type="html"><![CDATA[보안 전문가들은 최근 새로운 소셜 엔지니어링 기법에 경악하고 있다. 딥페이크 기술을 활용해 원격 직업 면접을 실시하는 전략인데, 이에 대한 최초 경고는 FBI의 인터넷범죄신고센터에서부터 나왔다. 최근 사이버 사기꾼들이 온라인 면접을 통해 원격 근무자 자격을 취득한 뒤 ...]]></content>
     </entry>
 </feed>
