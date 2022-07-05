@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=2</id>
     <title>보안뉴스 ─ IT</title>
-    <updated>2022-07-05T03:46:18.500Z</updated>
+    <updated>2022-07-05T04:38:54.026Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[LG U+, 실시간 건강 관리 서비스 ‘스마트 실버케어’ 실증]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=108032&amp;page=1&amp;mkind=2&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=108032&amp;page=1&amp;mkind=2&amp;kind=3"/>
+        <updated>2022-07-05T04:36:23.076Z</updated>
+        <content type="html"><![CDATA[LG유플러스가 인천시 남동구·가천대와 손잡고 어르신들의 건강 상태를 비대면으로 실시간 모니터링해 맞춤형 관리를 제공하고, 위급 상황 발생 시 보호자가 즉각 대응할 수 있는 ‘스마트 실버케어’ 서비스의 상용화를 위해 실증에 돌입한다고 밝혔다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[창원시, ‘2022 창원 빅데이터 공모전’ 개최]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=108034&amp;page=1&amp;mkind=2&amp;kind=2</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=108011&amp;page=1&amp;mkind=2&amp;kind=3"/>
         <updated>2022-07-05T01:28:39.018Z</updated>
         <content type="html"><![CDATA[AI 서비스 전문 기업 이스트소프트(대표 정상원)는 이사회 결의를 통해 주가안정과 주주가치 제고를 목적으로 20억 원 규모의 자기주식 취득 신탁 계약을 체결했다고 4일 공시했다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[최근 떠오르는 ‘사설 무선’ 기술, 디지털 격차를 줄인다]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=108001&amp;page=1&amp;mkind=2&amp;kind=4</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=108001&amp;page=1&amp;mkind=2&amp;kind=4"/>
-        <updated>2022-07-04T07:16:25.616Z</updated>
-        <content type="html"><![CDATA[50년대 활동하던 공상과학 작가들을 현대로 환생시키면 그들은 어떤 반응을 보일까? 아마 대부분은 ‘와, 내가 예언한 게 맞았어!’라는 생각을 할 것이다. 스스로 운전하는 자동차, 가상현실, 로봇이 집도하는 수술 등 그들이 글자로 묘사하던 것들이 구현되었으니 말이다. 게...]]></content>
     </entry>
 </feed>
