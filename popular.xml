@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 06 Jul 2022 04:51:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jul 2022 05:30:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -136,20 +136,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/07/21070189_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Weekly Security Premium Report 제57호 발간! 사이버 리질리언스 5단계]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107958&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107958&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
-            <pubDate>Mon, 04 Jul 2022 07:15:57 GMT</pubDate>
-            <content:encoded><![CDATA[6월 30일 발간된 ‘Weekly Security Premium Report’ 제57호에는 &lt;보안 심층 리포트&gt; 코너에서 각종 사이버 위협을 예상하고,...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20220630REPORT-SM.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
             <title><![CDATA[[부산 EDC-3] 스마트빌리지, 미래 기술 체험하고 피드백하는 실험적 공간]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107947&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107947&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
             <pubDate>Tue, 05 Jul 2022 12:34:30 GMT</pubDate>
             <content:encoded><![CDATA[부산 에코델타시티(EDC) 스마트시티 내 스마트빌리지(Smart Village)는 스마트시티 국가 시범도시에서 첫 번째 입주단지다. 스마트빌리지는 부산 EDC에 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/pusan%20eco_070501.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[Weekly Security Premium Report 제57호 발간! 사이버 리질리언스 5단계]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107958&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107958&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
+            <pubDate>Mon, 04 Jul 2022 07:15:57 GMT</pubDate>
+            <content:encoded><![CDATA[6월 30일 발간된 ‘Weekly Security Premium Report’ 제57호에는 &lt;보안 심층 리포트&gt; 코너에서 각종 사이버 위협을 예상하고,...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20220630REPORT-SM.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[2022년 상반기 사이버 보안 동향 결산, 공격자 혁신 조짐 3가지]]></title>
