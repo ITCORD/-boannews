@@ -4,9 +4,49 @@
         <title>보안뉴스 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Jul 2022 01:46:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jul 2022 03:51:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[NIST, 양자 컴퓨팅 기술에 끄떡없는 암호화 알고리즘 4개 발표]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=108149&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=108149&amp;page=1&amp;kind=1</guid>
+            <pubDate>Thu, 07 Jul 2022 03:47:25 GMT</pubDate>
+            <content:encoded><![CDATA[보안 외신 해커뉴스에 의하면 미국의 NIST가 양자 컴퓨팅 기술로도 해독하기 어려운 암호화 알고리즘을 발표했다고 한다. 현재까지는 총 4개의 암호화 알고리...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/07/20473259_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[메리어트 인터내셔널에서 발생한 보안 사고로 20GB 데이터 유출돼]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=108148&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=108148&amp;page=1&amp;kind=1</guid>
+            <pubDate>Thu, 07 Jul 2022 03:47:25 GMT</pubDate>
+            <content:encoded><![CDATA[보안 블로그 시큐리티어페어즈에 따르면 대형 호텔 체인인 메리어트 인터내셔널(Marriott International)에서 대형 보안 사고가 발생했다고 한다...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/07/21487305_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[보안 취약점 권고문, 오히려 민감한 시스템 노출시켜]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=108147&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=108147&amp;page=1&amp;kind=1</guid>
+            <pubDate>Thu, 07 Jul 2022 03:47:25 GMT</pubDate>
+            <content:encoded><![CDATA[IT 외신 블리핑컴퓨터가 마이터(MITRE)의 취약점 보고서를 통해 취약한 장비들로 연결되는 링크들이 지난 4월부터 공개되어 왔다고 보도했다. CVE 취약...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/07/20348986_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[애플, 새로운 락다운 모드 추가하여 정부 스파이웨어 차단]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=108146&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=108146&amp;page=1&amp;kind=1</guid>
+            <pubDate>Thu, 07 Jul 2022 03:47:25 GMT</pubDate>
+            <content:encoded><![CDATA[보안 외신 시큐리티위크는 애플이 자사 생태계에 추가한 새로운 모드에 대해 보도하며, 정부의 스파이웨어로부터 소비자들을 보호하기 위한 기능이라고 설명했다. ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/07/20344536_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[미국 FBI와 영국 MI5, 최초 합동 경고문 통해 중국 저격]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=108145&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=108145&amp;page=1&amp;kind=1</guid>
+            <pubDate>Thu, 07 Jul 2022 03:47:25 GMT</pubDate>
+            <content:encoded><![CDATA[일간지 가디언에 의하면 미국과 영국의 수사 및 첩보 기관인 FBI와 MI5가 합동으로 중국에 대한 경고를 발표했다고 한다. 중국 정부가 세계 여러 기업들의...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/07/21525505_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[버그바운티 플랫폼의 해커원, 직원 한 명 때문에 신뢰 크게 잃을 뻔]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=108111&amp;page=1&amp;kind=1</link>
@@ -46,46 +86,6 @@
             <pubDate>Wed, 06 Jul 2022 05:27:00 GMT</pubDate>
             <content:encoded><![CDATA[멀티/하이브리드 클라우드를 위한 인프라 자동화 소프트웨어 선도기업인 하시코프(HashiCorp®)는 6일 기자 간담회를 개최하고 다양해진 한국 기업 인프라...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/07/HashiCorp_070601_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[개인정보 활용의 핵심, 가명정보 처리에 관한 궁금증 몇 가지]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=108010&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=108010&amp;page=1&amp;kind=2</guid>
-            <pubDate>Wed, 06 Jul 2022 04:47:40 GMT</pubDate>
-            <content:encoded><![CDATA[지난 4월 28일 ‘가명정보 처리 가이드라인’ 개정안이 발표된 가운데, 가명정보 개념, 가명정보의 결합과 개인정보 가명처리 등과 관련해서 헷갈리는 경우가 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/07/21022812-c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[대 사기의 시대, 우리에게 필요한 건 방대한 데이터와 분석 기술]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=108097&amp;page=1&amp;kind=4</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=108097&amp;page=1&amp;kind=4</guid>
-            <pubDate>Wed, 06 Jul 2022 04:47:40 GMT</pubDate>
-            <content:encoded><![CDATA[코로나 19 팬데믹은 우리의 일하고 놀고 사업하는 방식을 완전히 바꾸었다. 우리 일상의 수많은 활동들이 온라인으로 무대를 옮겼고, 그러면서 상상만 하던 것...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/07/20863392_copy_295x190_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[악성 NPM 패키지들, 앱과 웹 양식에서 데이터 훔쳐]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=108104&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=108104&amp;page=1&amp;kind=1</guid>
-            <pubDate>Wed, 06 Jul 2022 03:48:59 GMT</pubDate>
-            <content:encoded><![CDATA[보안 외신 해커뉴스에 의하면 주요 리포지터리인 NPM에서 악성 패키지들이 발견됐다고 한다. 보안 업체 리버싱랩스(ReversingLabs)에 의하면 이 패...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/07/19924168_copy_295x190_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영국 군 공식 소셜미디어 계정, 누가 해킹했나]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=108103&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=108103&amp;page=1&amp;kind=1</guid>
-            <pubDate>Wed, 06 Jul 2022 03:48:59 GMT</pubDate>
-            <content:encoded><![CDATA[보안 외신 시큐리티위크에 의하면 영국 군의 공식 트위터 및 유튜브 계정이 주말 동안 해킹됐다고 한다. 해커는 유튜브 계정을 장악한 뒤 각종 암호화폐 선전 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/07/21797929_copy_295x190_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[새 레드알러트 랜섬웨어, 윈도와 리눅스 VM웨어 ESXi 서버 공격]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=108102&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=108102&amp;page=1&amp;kind=1</guid>
-            <pubDate>Wed, 06 Jul 2022 03:48:59 GMT</pubDate>
-            <content:encoded><![CDATA[IT 외신 블리핑컴퓨터에 의하면 레드알러트(RedAlert)라고 하는 새로운 랜섬웨어가 나타났다고 한다. 윈도와 리눅스 기반 VM웨어 ESXi 서버들에 침...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/07/20710727_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[무인매장 절도범죄 동향분석 결과 살펴보니]]></title>

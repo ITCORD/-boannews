@@ -4,9 +4,49 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Jul 2022 01:46:55 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jul 2022 03:51:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[NIST, 양자 컴퓨팅 기술에 끄떡없는 암호화 알고리즘 4개 발표 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=108149&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=108149&amp;page=1&amp;kind=1</guid>
+            <pubDate>Thu, 07 Jul 2022 03:47:25 GMT</pubDate>
+            <content:encoded><![CDATA[보안 외신 해커뉴스에 의하면 미국의 NIST가 양자 컴퓨팅 기술로도 해독하기 어려운 암호화 알고리즘을 발표했다고 한다. 현재까지는 총 4개의 암호화 알고리...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/07/20473259_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[메리어트 인터내셔널에서 발생한 보안 사고로 20GB 데이터 유출돼 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=108148&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=108148&amp;page=1&amp;kind=1</guid>
+            <pubDate>Thu, 07 Jul 2022 03:47:25 GMT</pubDate>
+            <content:encoded><![CDATA[보안 블로그 시큐리티어페어즈에 따르면 대형 호텔 체인인 메리어트 인터내셔널(Marriott International)에서 대형 보안 사고가 발생했다고 한다...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/07/21487305_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[보안 취약점 권고문, 오히려 민감한 시스템 노출시켜 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=108147&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=108147&amp;page=1&amp;kind=1</guid>
+            <pubDate>Thu, 07 Jul 2022 03:47:25 GMT</pubDate>
+            <content:encoded><![CDATA[IT 외신 블리핑컴퓨터가 마이터(MITRE)의 취약점 보고서를 통해 취약한 장비들로 연결되는 링크들이 지난 4월부터 공개되어 왔다고 보도했다. CVE 취약...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/07/20348986_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[애플, 새로운 락다운 모드 추가하여 정부 스파이웨어 차단 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=108146&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=108146&amp;page=1&amp;kind=1</guid>
+            <pubDate>Thu, 07 Jul 2022 03:47:25 GMT</pubDate>
+            <content:encoded><![CDATA[보안 외신 시큐리티위크는 애플이 자사 생태계에 추가한 새로운 모드에 대해 보도하며, 정부의 스파이웨어로부터 소비자들을 보호하기 위한 기능이라고 설명했다. ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/07/20344536_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[미국 FBI와 영국 MI5, 최초 합동 경고문 통해 중국 저격 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=108145&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=108145&amp;page=1&amp;kind=1</guid>
+            <pubDate>Thu, 07 Jul 2022 03:47:25 GMT</pubDate>
+            <content:encoded><![CDATA[일간지 가디언에 의하면 미국과 영국의 수사 및 첩보 기관인 FBI와 MI5가 합동으로 중국에 대한 경고를 발표했다고 한다. 중국 정부가 세계 여러 기업들의...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/07/21525505_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[버그바운티 플랫폼의 해커원, 직원 한 명 때문에 신뢰 크게 잃을 뻔 (보안뉴스 ─ 전체기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=108111&amp;page=1&amp;kind=1</link>
@@ -46,46 +86,6 @@
             <pubDate>Wed, 06 Jul 2022 05:27:00 GMT</pubDate>
             <content:encoded><![CDATA[멀티/하이브리드 클라우드를 위한 인프라 자동화 소프트웨어 선도기업인 하시코프(HashiCorp®)는 6일 기자 간담회를 개최하고 다양해진 한국 기업 인프라...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/07/HashiCorp_070601_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[개인정보 활용의 핵심, 가명정보 처리에 관한 궁금증 몇 가지 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=108010&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=108010&amp;page=1&amp;kind=2</guid>
-            <pubDate>Wed, 06 Jul 2022 04:47:40 GMT</pubDate>
-            <content:encoded><![CDATA[지난 4월 28일 ‘가명정보 처리 가이드라인’ 개정안이 발표된 가운데, 가명정보 개념, 가명정보의 결합과 개인정보 가명처리 등과 관련해서 헷갈리는 경우가 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/07/21022812-c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[대 사기의 시대, 우리에게 필요한 건 방대한 데이터와 분석 기술 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=108097&amp;page=1&amp;kind=4</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=108097&amp;page=1&amp;kind=4</guid>
-            <pubDate>Wed, 06 Jul 2022 04:47:40 GMT</pubDate>
-            <content:encoded><![CDATA[코로나 19 팬데믹은 우리의 일하고 놀고 사업하는 방식을 완전히 바꾸었다. 우리 일상의 수많은 활동들이 온라인으로 무대를 옮겼고, 그러면서 상상만 하던 것...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/07/20863392_copy_295x190_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[악성 NPM 패키지들, 앱과 웹 양식에서 데이터 훔쳐 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=108104&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=108104&amp;page=1&amp;kind=1</guid>
-            <pubDate>Wed, 06 Jul 2022 03:48:59 GMT</pubDate>
-            <content:encoded><![CDATA[보안 외신 해커뉴스에 의하면 주요 리포지터리인 NPM에서 악성 패키지들이 발견됐다고 한다. 보안 업체 리버싱랩스(ReversingLabs)에 의하면 이 패...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/07/19924168_copy_295x190_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영국 군 공식 소셜미디어 계정, 누가 해킹했나 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=108103&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=108103&amp;page=1&amp;kind=1</guid>
-            <pubDate>Wed, 06 Jul 2022 03:48:59 GMT</pubDate>
-            <content:encoded><![CDATA[보안 외신 시큐리티위크에 의하면 영국 군의 공식 트위터 및 유튜브 계정이 주말 동안 해킹됐다고 한다. 해커는 유튜브 계정을 장악한 뒤 각종 암호화폐 선전 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/07/21797929_copy_295x190_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[새 레드알러트 랜섬웨어, 윈도와 리눅스 VM웨어 ESXi 서버 공격 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=108102&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=108102&amp;page=1&amp;kind=1</guid>
-            <pubDate>Wed, 06 Jul 2022 03:48:59 GMT</pubDate>
-            <content:encoded><![CDATA[IT 외신 블리핑컴퓨터에 의하면 레드알러트(RedAlert)라고 하는 새로운 랜섬웨어가 나타났다고 한다. 윈도와 리눅스 기반 VM웨어 ESXi 서버들에 침...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/07/20710727_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[무인매장 절도범죄 동향분석 결과 살펴보니 (보안뉴스 ─ 전체기사)]]></title>
@@ -370,14 +370,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/cyberark.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[틱톡, 미국 정치인들에 읍소하며 “중국 임직원 접근 불가하게 한다” (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=108009&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=108009&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Wed, 06 Jul 2022 08:21:09 GMT</pubDate>
-            <content:encoded><![CDATA[보안 외신 핵리드에 의하면 틱톡을 둘러싼 중국과 미국의 신경전이 여전한 가운데 틱톡 측에서 미국 의회에 새로운 약속을 했다고 한다. 사용자 데이터를 중국 사무실 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/07/20332547_copy_295x190_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[부산 EDC-4] 스마트빌리지 입주자 대표 “스마트미러, 주거단지 내 가장 인상적인 기술” (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107950&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107950&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
@@ -386,12 +378,55 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/pusan%20eco_070502.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[틱톡, 미국 정치인들에 읍소하며 “중국 임직원 접근 불가하게 한다” (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=108009&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=108009&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Wed, 06 Jul 2022 08:21:09 GMT</pubDate>
+            <content:encoded><![CDATA[보안 외신 핵리드에 의하면 틱톡을 둘러싼 중국과 미국의 신경전이 여전한 가운데 틱톡 측에서 미국 의회에 새로운 약속을 했다고 한다. 사용자 데이터를 중국 사무실 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/07/20332547_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[영국 런던, AI-데이터 혁명 기반 데이터 경제 중심지로 부상 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107891&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107891&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
             <pubDate>Wed, 06 Jul 2022 08:21:09 GMT</pubDate>
             <content:encoded><![CDATA[전 세계 데이터 시장이 지속해서 성장하는 가운데 파생되는 데이터 경제 중심지로 영국 런던이 급속도로 부상하고 있는 것으로 파악됐다. 데이터 기반 혁신은 의료 등 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/england%20image_sum.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[애플, 새로운 락다운 모드 추가하여 정부 스파이웨어 차단 (보안뉴스 ─ SECURITY)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=108146&amp;page=1&amp;mkind=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=108146&amp;page=1&amp;mkind=1&amp;kind=1</guid>
+            <pubDate>Thu, 07 Jul 2022 03:47:53 GMT</pubDate>
+            <content:encoded><![CDATA[보안 외신 시큐리티위크는 애플이 자사 생태계에 추가한 새로운 모드에 대해 보도하며, 정부의 스파이웨어로부터 소비자들을 보호하기 위한 기능이라고 설명했다. 새 모드의 이름은 ‘락다운 모드(Lockdown Mode)’이며, iOS 16, iPadOS 16, 맥OS 벤추라를...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[미국 FBI와 영국 MI5, 최초 합동 경고문 통해 중국 저격 (보안뉴스 ─ SECURITY)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=108145&amp;page=1&amp;mkind=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=108145&amp;page=1&amp;mkind=1&amp;kind=1</guid>
+            <pubDate>Thu, 07 Jul 2022 03:47:53 GMT</pubDate>
+            <content:encoded><![CDATA[일간지 가디언에 의하면 미국과 영국의 수사 및 첩보 기관인 FBI와 MI5가 합동으로 중국에 대한 경고를 발표했다고 한다. 중국 정부가 세계 여러 기업들의 지적재산과 기술 정보를 훔치기 위해 광범위한 사이버 스파이 행위를 실시하고 있다는 내용이다. 두 기관의 수장은 나...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[원광대병원, 개인정보보호-정보보안 교육 및 슬로건 공모전 시행 (보안뉴스 ─ SECURITY)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=108114&amp;page=1&amp;mkind=1&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=108114&amp;page=1&amp;mkind=1&amp;kind=2</guid>
+            <pubDate>Thu, 07 Jul 2022 03:47:53 GMT</pubDate>
+            <content:encoded><![CDATA[원광대병원이 안전한 정보보호 환경 조성과 안전문화 확산을 위해 개인정보보호·정보보안에 대한 교육 및 슬로건 공모전을 시행했다. 원광대병원은 정보 관리의 중요성을 강조하고 의료정보의 안전한 관리와 유·노출 방지를 위해 개인정보보호·정보보안에 심혈을 쏟고 있다.]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[SK브로드밴드, ‘클라우드PC 솔루션’ 국가정보원 보안기능확인서 획득 (보안뉴스 ─ SECURITY)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=108128&amp;page=1&amp;mkind=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=108128&amp;page=1&amp;mkind=1&amp;kind=3</guid>
+            <pubDate>Thu, 07 Jul 2022 03:47:53 GMT</pubDate>
+            <content:encoded><![CDATA[SK브로드밴드는 클라우드PC 솔루션(제품명 Cloud X 2.0)이 국가정보원으로부터 보안기능확인서를 획득했다고 밝혔다. 이에 따라 ‘Cloud X 2.0’은 최신 개정된 국가·공공기관용 보안 요구 사항을 모두 충족한 국내 최초 솔루션으로, 한층 더 높은 보안 수준과 ...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[KISA-CJ올리브네트웍스, 총 상금 3천만원 규모의 버그바운티 대회 연다 (보안뉴스 ─ SECURITY)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=108139&amp;page=1&amp;mkind=1&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=108139&amp;page=1&amp;mkind=1&amp;kind=2</guid>
+            <pubDate>Thu, 07 Jul 2022 03:47:53 GMT</pubDate>
+            <content:encoded><![CDATA[CJ올리브네트웍스(대표이사 차인혁)와 한국인터넷진흥원(원장 이원태, 이하 KISA)은 파인더갭과 함께 총 상금 3,000만원 규모의 버그바운티 대회를 개최한다고 밝혔다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[세종시, 생활 속 보안 수칙 준수로 정보보호 강화한다 (보안뉴스 ─ SECURITY)]]></title>
@@ -476,41 +511,6 @@
             <guid>https://www.boannews.com/media/view.asp?idx=108101&amp;page=1&amp;mkind=1&amp;kind=1</guid>
             <pubDate>Wed, 06 Jul 2022 03:49:38 GMT</pubDate>
             <content:encoded><![CDATA[중국 국민 10억 명의 개인정보가 다크웹에서 거래되고 있다는 충격적인 소식이 어제 나왔는데, 알고 보니 그 정보는 이미 1년 전부터 웹상에 존재하고 있었다고 한다. 보다 정확히 설명하면, 10억 명의 개인정보가 저장되어 있던 데이터베이스가 최소 2021년 4월부터 아무...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[인도 정부의 콘텐츠 검열에 저항하는 트위터, 정부 고소 (보안뉴스 ─ SECURITY)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=108100&amp;page=1&amp;mkind=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=108100&amp;page=1&amp;mkind=1&amp;kind=1</guid>
-            <pubDate>Wed, 06 Jul 2022 03:49:38 GMT</pubDate>
-            <content:encoded><![CDATA[일간지 뉴욕타임즈에 의하면 트위터가 이번 주 인도 정부를 고소했다고 발표했다고 한다. 트위터는 일부 콘텐츠와 계정 삭제 명령을 이번 주 월요일까지 수행해야만 했다. 트위터 측에서는 여태까지 별 다른 움직임이 없었기 때문에 인도 정부의 이러한 요구를 들어줄 것으로 보였는...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[제주시, 2022년 정보보안 및 개인정보보호 관리실태 점검 실시 (보안뉴스 ─ SECURITY)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=108090&amp;page=1&amp;mkind=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=108090&amp;page=1&amp;mkind=1&amp;kind=2</guid>
-            <pubDate>Wed, 06 Jul 2022 03:49:38 GMT</pubDate>
-            <content:encoded><![CDATA[제주시는 오는 8일부터 22일까지 2주간 읍·면·동을 포함한 전 부서를 대상으로 정보보안 및 개인정보보호 관리실태 이행 점검을 실시한다고 밝혔다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[세종대 정보보호학과 윤주범 교수팀, 한국정보보호학회 최우수 논문상 수상 (보안뉴스 ─ SECURITY)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=108093&amp;page=1&amp;mkind=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=108093&amp;page=1&amp;mkind=1&amp;kind=2</guid>
-            <pubDate>Wed, 06 Jul 2022 03:49:38 GMT</pubDate>
-            <content:encoded><![CDATA[세종대 정보보호학과 윤주범 교수 연구팀이 2022년 한국정보보호학회 하계학술대회에서 최우수 논문상인 과기정통부 장관상을 수상했다. 한국정보보호학회는 정보보호 분야에서 국내 최고 권위를 인정받는 학회다. 이번 학술대회는 220여편의 논문이 접수됐으며 최우수 논문 3편, ...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[델 테크놀로지스 보고서 발표 “랜섬웨어 대비 위한 복구 전략 필수” (보안뉴스 ─ SECURITY)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=108099&amp;page=1&amp;mkind=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=108099&amp;page=1&amp;mkind=1&amp;kind=3</guid>
-            <pubDate>Wed, 06 Jul 2022 03:49:38 GMT</pubDate>
-            <content:encoded><![CDATA[델 테크놀로지스(Dell Technologies)가 시장조사기관 ESG(The Enterprise Strategy Group)와 함께 발간한 ‘철저한 대비가 필요한 랜섬웨어 방어(The Long Road Ahead to Ransomware Preparedness)’라는...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[안랩 V3 모바일 시큐리티, ‘AV-TEST’ 모바일 부문 평가에서 전회 인증 획득 (보안뉴스 ─ SECURITY)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=108098&amp;page=1&amp;mkind=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=108098&amp;page=1&amp;mkind=1&amp;kind=3</guid>
-            <pubDate>Wed, 06 Jul 2022 03:49:38 GMT</pubDate>
-            <content:encoded><![CDATA[안랩(대표 강석균)이 글로벌 보안제품 성능 평가기관 ‘AV-TEST(www.av-test.org )’의 2022년 상반기(1, 3, 5월) 모바일 보안 솔루션 성능 평가에서 전회 인증을 획득했다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[과기정통부, 생활가전 등에 대한 전자파 측정 결과 공개 (보안뉴스 ─ IT)]]></title>
@@ -1887,6 +1887,76 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20220615pri-s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[NIST, 양자 컴퓨팅 기술에 끄떡없는 암호화 알고리즘 4개 발표 (보안뉴스 ─ 국제)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=108149&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=108149&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
+            <pubDate>Thu, 07 Jul 2022 03:50:13 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/view.asp?idx=108149&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
+					
+					<img src="/media/upFiles2/2022/07/20473259_copy_295x190_1.jpg" alt="" class="news_img" height="70">
+					
+					<span class="news_txt">NIST, 양자 컴퓨팅 기술에 끄떡없는 암호화 알고리즘 4개 발표</span>
+					</a><br>
+					<a href="/media/view.asp?idx=108149&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">보안 외신 해커뉴스에 의하면 미국의 NIST가 양자 컴퓨팅 기술로도 해독하기 어려운 암호화 알고리즘을 발표했다고 한다. 현재까지는 총 4개의 암호화 알고리즘이 공...</a> <span class="news_writer">문가용 기자 | 2022년 07월 07일 11:33</span>]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/07/20473259_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[메리어트 인터내셔널에서 발생한 보안 사고로 20GB 데이터 유출돼 (보안뉴스 ─ 국제)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=108148&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=108148&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
+            <pubDate>Thu, 07 Jul 2022 03:50:13 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/view.asp?idx=108148&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
+					
+					<img src="/media/upFiles2/2022/07/21487305_copy_295x190_1.jpg" alt="" class="news_img" height="70">
+					
+					<span class="news_txt">메리어트 인터내셔널에서 발생한 보안 사고로 20GB 데이터 유출돼</span>
+					</a><br>
+					<a href="/media/view.asp?idx=108148&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">보안 블로그 시큐리티어페어즈에 따르면 대형 호텔 체인인 메리어트 인터내셔널(Marriott International)에서 대형 보안 사고가 발생했다고 한다. 이 ...</a> <span class="news_writer">문가용 기자 | 2022년 07월 07일 11:32</span>]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/07/21487305_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[보안 취약점 권고문, 오히려 민감한 시스템 노출시켜 (보안뉴스 ─ 국제)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=108147&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=108147&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
+            <pubDate>Thu, 07 Jul 2022 03:50:13 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/view.asp?idx=108147&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
+					
+					<img src="/media/upFiles2/2022/07/20348986_copy_295x190_1.jpg" alt="" class="news_img" height="70">
+					
+					<span class="news_txt">보안 취약점 권고문, 오히려 민감한 시스템 노출시켜</span>
+					</a><br>
+					<a href="/media/view.asp?idx=108147&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">IT 외신 블리핑컴퓨터가 마이터(MITRE)의 취약점 보고서를 통해 취약한 장비들로 연결되는 링크들이 지난 4월부터 공개되어 왔다고 보도했다. CVE 취약점 보고...</a> <span class="news_writer">문가용 기자 | 2022년 07월 07일 11:29</span>]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/07/20348986_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[애플, 새로운 락다운 모드 추가하여 정부 스파이웨어 차단 (보안뉴스 ─ 국제)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=108146&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=108146&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
+            <pubDate>Thu, 07 Jul 2022 03:50:13 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/view.asp?idx=108146&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
+					
+					<img src="/media/upFiles2/2022/07/20344536_copy_295x190_1.jpg" alt="" class="news_img" height="70">
+					
+					<span class="news_txt">애플, 새로운 락다운 모드 추가하여 정부 스파이웨어 차단</span>
+					</a><br>
+					<a href="/media/view.asp?idx=108146&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">보안 외신 시큐리티위크는 애플이 자사 생태계에 추가한 새로운 모드에 대해 보도하며, 정부의 스파이웨어로부터 소비자들을 보호하기 위한 기능이라고 설명했다. 새 모드...</a> <span class="news_writer">문가용 기자 | 2022년 07월 07일 11:28</span>]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/07/20344536_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[미국 FBI와 영국 MI5, 최초 합동 경고문 통해 중국 저격 (보안뉴스 ─ 국제)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=108145&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=108145&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
+            <pubDate>Thu, 07 Jul 2022 03:50:13 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/view.asp?idx=108145&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
+					
+					<img src="/media/upFiles2/2022/07/21525505_copy_295x190_1.jpg" alt="" class="news_img" height="70">
+					
+					<span class="news_txt">미국 FBI와 영국 MI5, 최초 합동 경고문 통해 중국 저격</span>
+					</a><br>
+					<a href="/media/view.asp?idx=108145&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">일간지 가디언에 의하면 미국과 영국의 수사 및 첩보 기관인 FBI와 MI5가 합동으로 중국에 대한 경고를 발표했다고 한다. 중국 정부가 세계 여러 기업들의 지적재...</a> <span class="news_writer">문가용 기자 | 2022년 07월 07일 11:26</span>]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/07/21525505_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[버그바운티 플랫폼의 해커원, 직원 한 명 때문에 신뢰 크게 잃을 뻔 (보안뉴스 ─ 국제)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=108111&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=108111&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
@@ -2095,76 +2165,6 @@
 					</a><br>
 					<a href="/media/view.asp?idx=108061&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">보안 외신 핵리드에 의하면 버그바운티 플랫폼인 해커원(HackerOne)의 직원 한 명이 접수되는 버그 보고서를 지속적으로 가로챈 후, 그 보고서를 똑같이 복제하...</a> <span class="news_writer">문가용 기자 | 2022년 07월 05일 11:30</span>]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/07/21704837_copy_295x190_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[우크라이나 당국, 1억 UAH 훔친 피싱 갱단 체포 (보안뉴스 ─ 국제)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=108060&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=108060&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
-            <pubDate>Tue, 05 Jul 2022 03:45:26 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/view.asp?idx=108060&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
-					
-					<img src="/media/upFiles2/2022/07/21200125_copy_295x190_1.jpg" alt="" class="news_img" height="70">
-					
-					<span class="news_txt">우크라이나 당국, 1억 UAH 훔친 피싱 갱단 체포</span>
-					</a><br>
-					<a href="/media/view.asp?idx=108060&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">우크라이나의 사이버 경찰은 각종 피싱 사이트를 통해 우크라이나 시민들로부터 큰 돈을 훔쳐왔던 피싱 갱단 멤버 9명을 체포했다고 발표했다. 보안 외신 해커뉴스에 따...</a> <span class="news_writer">문가용 기자 | 2022년 07월 05일 11:28</span>]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/07/21200125_copy_295x190_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[새로운 소셜 엔지니어링? 딥페이크 활용한 온라인 면접 사기 속출 (보안뉴스 ─ 국제)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=108013&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=108013&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
-            <pubDate>Mon, 04 Jul 2022 06:29:06 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/view.asp?idx=108013&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
-					
-					<img src="/media/upFiles2/2022/07/21493824_copy_295x190_1.jpg" alt="" class="news_img" height="70">
-					
-					<span class="news_txt">새로운 소셜 엔지니어링? 딥페이크 활용한 온라인 면접 사기 속출</span>
-					</a><br>
-					<a href="/media/view.asp?idx=108013&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">보안 전문가들은 최근 새로운 소셜 엔지니어링 기법에 경악하고 있다. 딥페이크 기술을 활용해 원격 직업 면접을 실시하는 전략인데, 이에 대한 최초 경고는 FBI의 ...</a> <span class="news_writer">문가용 기자 | 2022년 07월 04일 14:45</span>]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/07/21493824_copy_295x190_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[사우디 드론 시장, 건설·일상 등 다양한 분야에서 성장세 지속 (보안뉴스 ─ 국제)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107893&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=D&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107893&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=D&amp;search=title&amp;find=</guid>
-            <pubDate>Mon, 04 Jul 2022 06:29:06 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/view.asp?idx=107893&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=D&amp;search=title&amp;find=">
-					
-					<img src="/media/upFiles2/2022/06/01 DJI-Mini SE_sum.jpg" alt="" class="news_img" height="70">
-					
-					<span class="news_txt">사우디 드론 시장, 건설·일상 등 다양한 분야에서 성장세 지속</span>
-					</a><br>
-					<a href="/media/view.asp?idx=107893&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=D&amp;search=title&amp;find=">드론 시장의 성장 여부는 정부 규제와 정책에 따라 결정되는 경우가 많다. 이는 드론의 사용목적을 명확히 알 수 없는 경우가 발생하거나, 혹은 불가피한 사생활 침해...</a> <span class="news_writer">김영명 기자 | 2022년 07월 04일 14:34</span>]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/01%20DJI-Mini%20SE_sum.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[틱톡, 미국 정치인들에 읍소하며 “중국 임직원 접근 불가하게 한다” (보안뉴스 ─ 국제)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=108009&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=108009&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
-            <pubDate>Mon, 04 Jul 2022 03:51:28 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/view.asp?idx=108009&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
-					
-					<img src="/media/upFiles2/2022/07/20332547_copy_295x190_1.jpg" alt="" class="news_img" height="70">
-					
-					<span class="news_txt">틱톡, 미국 정치인들에 읍소하며 “중국 임직원 접근 불가하게 한다”</span>
-					</a><br>
-					<a href="/media/view.asp?idx=108009&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">보안 외신 핵리드에 의하면 틱톡을 둘러싼 중국과 미국의 신경전이 여전한 가운데 틱톡 측에서 미국 의회에 새로운 약속을 했다고 한다. 사용자 데이터를 중국 사무실 ...</a> <span class="news_writer">문가용 기자 | 2022년 07월 04일 11:46</span>]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/07/20332547_copy_295x190_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[무료 스마트폰 스토커웨어 탐지 도구, 전용 허브까지 만들어져 (보안뉴스 ─ 국제)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=108008&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=108008&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
-            <pubDate>Mon, 04 Jul 2022 03:51:28 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/view.asp?idx=108008&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
-					
-					<img src="/media/upFiles2/2022/07/20777605_copy_295x190_1.jpg" alt="" class="news_img" height="70">
-					
-					<span class="news_txt">무료 스마트폰 스토커웨어 탐지 도구, 전용 허브까지 만들어져</span>
-					</a><br>
-					<a href="/media/view.asp?idx=108008&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">IT 외신 블리핑컴퓨터에 의하면 무료 스토커웨어가 모바일 장비에 설치되어 있는지 확인할 수 있게 해 주는 도구인 타이니체크(TinyCheck)를 위한 전용 정보 ...</a> <span class="news_writer">문가용 기자 | 2022년 07월 04일 11:45</span>]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/07/20777605_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[부산 EDC-4] 스마트빌리지 입주자 대표 “스마트미러, 주거단지 내 가장 인상적인 기술” (보안뉴스 ─ 기획특집)]]></title>
