@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=2</id>
     <title>보안뉴스 ─ IT</title>
-    <updated>2022-07-07T03:51:17.376Z</updated>
+    <updated>2022-07-07T04:48:42.042Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[국가연구개발투자전략 수립을 전문적으로 뒷받침할 ‘국가기술전략센터’ 출범]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=108117&amp;page=1&amp;mkind=2&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=108117&amp;page=1&amp;mkind=2&amp;kind=2"/>
+        <updated>2022-07-07T04:46:31.684Z</updated>
+        <content type="html"><![CDATA[과학기술정보통신부는 ‘과학기술기본법’ 제12조의2에 근거해 정부의 국가연구개발투자전략 수립 등을 전문적으로 지원하기 위한 기술전문기관인 국가기술전략센터를 공식 지정했다고 밝혔다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[과기정통부, 생활가전 등에 대한 전자파 측정 결과 공개]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=108119&amp;page=1&amp;mkind=2&amp;kind=2</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=108074&amp;page=1&amp;mkind=2&amp;kind=2"/>
         <updated>2022-07-07T01:44:23.890Z</updated>
         <content type="html"><![CDATA[국토교통부는 C-ITS 실증사업을 추진한 지방자치단체와 공공기관, 내비게이션 서비스 제공사, 이동통신사 등의 기관과 지난 5일 ‘C-ITS 데이터 공유·활용 촉진을 위한 업무협약’을 체결했다고 밝혔다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[과기정통부, ‘정보통신공사업법 시행령’ 개정안 국무회의 의결]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=108075&amp;page=1&amp;mkind=2&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=108075&amp;page=1&amp;mkind=2&amp;kind=2"/>
-        <updated>2022-07-07T01:44:23.894Z</updated>
-        <content type="html"><![CDATA[과학기술정보통신부는 정보통신공사업의 육성·보호와 건전한 시장질서 확립을 위한 ‘정보통신공사업법 시행령’ 개정안이 지난 5일 국무회의를 통과해 오는 12일부터 시행될 예정이라고 밝혔다.]]></content>
     </entry>
 </feed>
