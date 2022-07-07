@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-07-07T05:29:12.404Z</updated>
+    <updated>2022-07-07T06:23:59.312Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[NIST, 양자 컴퓨팅 기술에 끄떡없는 암호화 알고리즘 4개 발표]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=108149&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=108149&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-07-07T06:21:35.647Z</updated>
+        <content type="html"><![CDATA[보안 외신 해커뉴스에 의하면 미국의 NIST가 양자 컴퓨팅 기술로도 해독하기 어려운 암호화 알고리즘을 발표했다고 한다. 현재까지는 총 4개의 암호화 알고리즘이 공개됐다고 하는데, 추가로 더 많은 발표가 있을 법도 하다. 이 4개의 알고리즘은 CRYSTALS-Kyber,...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[메리어트 인터내셔널에서 발생한 보안 사고로 20GB 데이터 유출돼]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=108148&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=108148&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-07-07T06:21:35.650Z</updated>
+        <content type="html"><![CDATA[보안 블로그 시큐리티어페어즈에 따르면 대형 호텔 체인인 메리어트 인터내셔널(Marriott International)에서 대형 보안 사고가 발생했다고 한다. 이 사고로 공격자는 약 한 달 전에 메리어트 네트워크에 침투했으며 20GB의 데이터를 훔쳐 가는 데 성공했다고 ...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[보안 취약점 권고문, 오히려 민감한 시스템 노출시켜]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=108147&amp;page=1&amp;mkind=1&amp;kind=1</id>
@@ -109,19 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=108104&amp;page=1&amp;mkind=1&amp;kind=1"/>
         <updated>2022-07-06T05:27:24.057Z</updated>
         <content type="html"><![CDATA[보안 외신 해커뉴스에 의하면 주요 리포지터리인 NPM에서 악성 패키지들이 발견됐다고 한다. 보안 업체 리버싱랩스(ReversingLabs)에 의하면 이 패키지들은 민감한 정보를 훔쳐내는 기능을 내포하고 있다고 한다. 공격자들이 악성 모듈을 2021년 12월부터 유포한 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영국 군 공식 소셜미디어 계정, 누가 해킹했나]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=108103&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=108103&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-07-06T04:48:20.265Z</updated>
-        <content type="html"><![CDATA[보안 외신 시큐리티위크에 의하면 영국 군의 공식 트위터 및 유튜브 계정이 주말 동안 해킹됐다고 한다. 해커는 유튜브 계정을 장악한 뒤 각종 암호화폐 선전 콘텐츠를 업로드 했고, 트위터 계정을 통해서는 NFT 아이템과 마켓에 대한 광고를 이어갔다. 군은 계정을 전부 정상...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[새 레드알러트 랜섬웨어, 윈도와 리눅스 VM웨어 ESXi 서버 공격]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=108102&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=108102&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-07-06T04:48:20.268Z</updated>
-        <content type="html"><![CDATA[IT 외신 블리핑컴퓨터에 의하면 레드알러트(RedAlert)라고 하는 새로운 랜섬웨어가 나타났다고 한다. 윈도와 리눅스 기반 VM웨어 ESXi 서버들에 침투해 파일들을 암호화 한다고 하는데, 요즘 랜섬웨어 운영자들이 다 그러하듯, 정보를 미리 빼돌린 후 공개하기도 한다...]]></content>
     </entry>
 </feed>

@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Jul 2022 05:29:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jul 2022 06:23:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[러시아-우크라이나 전쟁이 진행 중인 이 때, 기업에게 필요한 보안 프랙티스 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=108069&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=108069&amp;page=1&amp;kind=1</guid>
+            <pubDate>Thu, 07 Jul 2022 06:21:05 GMT</pubDate>
+            <content:encoded><![CDATA[마리안느 베일리(Marianne Bailey)는 현대 사회를 살아가는 우리가 겪을 수 있는 가장 첨예한 형태의 사이버 공격을 경험하고 있다. 그리고 한 나...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/07/22054749_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[라온화이트햇 이정아 대표 “디지탈 통합 인증 서비스 업체로 포지셔닝할 것” (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=108065&amp;page=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=108065&amp;page=1&amp;kind=3</guid>
+            <pubDate>Thu, 07 Jul 2022 06:21:05 GMT</pubDate>
+            <content:encoded><![CDATA[보안업계도 그런 디테일이 엿보이는 곳이 있다. 바로 라온화이트햇이다. 여성 CEO가 경영해서일까. 마케팅 10년 경력의 터치 때문일까. 뭔가 남다른 디테일...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/07/20220707raon-s.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[미국의 의료와 보건 기관 노리는 랜섬웨어 마우이의 기묘한 특성들 (보안뉴스 ─ 전체기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=108150&amp;page=1&amp;kind=1</link>
@@ -70,22 +86,6 @@
             <pubDate>Wed, 06 Jul 2022 09:22:17 GMT</pubDate>
             <content:encoded><![CDATA[한국인터넷진흥원(KISA, 원장 이원태)은 사회안전 분야에 관심이 높아짐에 따라 과학기술정보통신부(장관 이종호)와 함께 지능형 CCTV 시험·인증...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/07/smart%20CCTV%20history_20220706_sum.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[구글 크롬에서 올해에만 네 번째 제로데이 취약점 발견되고 패치돼 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=108108&amp;page=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=108108&amp;page=1&amp;kind=1</guid>
-            <pubDate>Wed, 06 Jul 2022 07:15:41 GMT</pubDate>
-            <content:encoded><![CDATA[안드로이드용 구글 크롬에서 제로데이 취약점이 발견됐고, 해커들이 이를 이미 익스플로잇 하기 시작했다. 문제의 취약점은 CVE-2022-2294로, 일종의 ...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/07/21866626_copy_295x190_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[영국 진출기업, 영국 개인정보 국내이전 수월해진다 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=108107&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=108107&amp;page=1&amp;kind=2</guid>
-            <pubDate>Wed, 06 Jul 2022 06:20:48 GMT</pubDate>
-            <content:encoded><![CDATA[앞으로 국내 기업들이 영국 내 거주민들의 개인정보를 안전하고 자유롭게 국내로 이전해 기업활동에 활용할 수 있게 될 전망이다.]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/07/13169261_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[신세계아이앤씨, 솔루엠과 AI 기반 매장 관리 플랫폼 개발 나선다 (보안뉴스 ─ 전체기사)]]></title>
@@ -299,14 +299,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/07/21493824_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[3개월 전에 사라졌던 라쿤스틸러, 최근 버전 2 나오며 활동 재개 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107951&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107951&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Sun, 03 Jul 2022 16:21:11 GMT</pubDate>
-            <content:encoded><![CDATA[악명 높은 멀웨어인 라쿤스틸러(Racoon Stealer)의 개발자들이 새로운 멀웨어를 발표했다. 라쿤스틸러의 운영을 중단한 후 3개월 만의 일이다. 참고로 라쿤...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/rac-thumb-0630.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[부산 EDC-3] 스마트빌리지, 미래 기술 체험하고 피드백하는 실험적 공간 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107947&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107947&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
@@ -393,6 +385,28 @@
             <pubDate>Thu, 07 Jul 2022 05:25:34 GMT</pubDate>
             <content:encoded><![CDATA[드론 시장의 성장 여부는 정부 규제와 정책에 따라 결정되는 경우가 많다. 이는 드론의 사용목적을 명확히 알 수 없는 경우가 발생하거나, 혹은 불가피한 사생활 침해...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/01%20DJI-Mini%20SE_sum.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[구글 크롬에서 올해에만 네 번째 제로데이 취약점 발견되고 패치돼 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=108108&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=108108&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Thu, 07 Jul 2022 06:21:20 GMT</pubDate>
+            <content:encoded><![CDATA[안드로이드용 구글 크롬에서 제로데이 취약점이 발견됐고, 해커들이 이를 이미 익스플로잇 하기 시작했다. 문제의 취약점은 CVE-2022-2294로, 일종의 힙 버퍼...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/07/21866626_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[NIST, 양자 컴퓨팅 기술에 끄떡없는 암호화 알고리즘 4개 발표 (보안뉴스 ─ SECURITY)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=108149&amp;page=1&amp;mkind=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=108149&amp;page=1&amp;mkind=1&amp;kind=1</guid>
+            <pubDate>Thu, 07 Jul 2022 06:21:35 GMT</pubDate>
+            <content:encoded><![CDATA[보안 외신 해커뉴스에 의하면 미국의 NIST가 양자 컴퓨팅 기술로도 해독하기 어려운 암호화 알고리즘을 발표했다고 한다. 현재까지는 총 4개의 암호화 알고리즘이 공개됐다고 하는데, 추가로 더 많은 발표가 있을 법도 하다. 이 4개의 알고리즘은 CRYSTALS-Kyber,...]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[메리어트 인터내셔널에서 발생한 보안 사고로 20GB 데이터 유출돼 (보안뉴스 ─ SECURITY)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=108148&amp;page=1&amp;mkind=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=108148&amp;page=1&amp;mkind=1&amp;kind=1</guid>
+            <pubDate>Thu, 07 Jul 2022 06:21:35 GMT</pubDate>
+            <content:encoded><![CDATA[보안 블로그 시큐리티어페어즈에 따르면 대형 호텔 체인인 메리어트 인터내셔널(Marriott International)에서 대형 보안 사고가 발생했다고 한다. 이 사고로 공격자는 약 한 달 전에 메리어트 네트워크에 침투했으며 20GB의 데이터를 훔쳐 가는 데 성공했다고 ...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[보안 취약점 권고문, 오히려 민감한 시스템 노출시켜 (보안뉴스 ─ SECURITY)]]></title>
@@ -498,20 +512,6 @@
             <guid>https://www.boannews.com/media/view.asp?idx=108104&amp;page=1&amp;mkind=1&amp;kind=1</guid>
             <pubDate>Wed, 06 Jul 2022 05:27:24 GMT</pubDate>
             <content:encoded><![CDATA[보안 외신 해커뉴스에 의하면 주요 리포지터리인 NPM에서 악성 패키지들이 발견됐다고 한다. 보안 업체 리버싱랩스(ReversingLabs)에 의하면 이 패키지들은 민감한 정보를 훔쳐내는 기능을 내포하고 있다고 한다. 공격자들이 악성 모듈을 2021년 12월부터 유포한 ...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[영국 군 공식 소셜미디어 계정, 누가 해킹했나 (보안뉴스 ─ SECURITY)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=108103&amp;page=1&amp;mkind=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=108103&amp;page=1&amp;mkind=1&amp;kind=1</guid>
-            <pubDate>Wed, 06 Jul 2022 04:48:20 GMT</pubDate>
-            <content:encoded><![CDATA[보안 외신 시큐리티위크에 의하면 영국 군의 공식 트위터 및 유튜브 계정이 주말 동안 해킹됐다고 한다. 해커는 유튜브 계정을 장악한 뒤 각종 암호화폐 선전 콘텐츠를 업로드 했고, 트위터 계정을 통해서는 NFT 아이템과 마켓에 대한 광고를 이어갔다. 군은 계정을 전부 정상...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[새 레드알러트 랜섬웨어, 윈도와 리눅스 VM웨어 ESXi 서버 공격 (보안뉴스 ─ SECURITY)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=108102&amp;page=1&amp;mkind=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=108102&amp;page=1&amp;mkind=1&amp;kind=1</guid>
-            <pubDate>Wed, 06 Jul 2022 04:48:20 GMT</pubDate>
-            <content:encoded><![CDATA[IT 외신 블리핑컴퓨터에 의하면 레드알러트(RedAlert)라고 하는 새로운 랜섬웨어가 나타났다고 한다. 윈도와 리눅스 기반 VM웨어 ESXi 서버들에 침투해 파일들을 암호화 한다고 하는데, 요즘 랜섬웨어 운영자들이 다 그러하듯, 정보를 미리 빼돌린 후 공개하기도 한다...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[국가연구개발투자전략 수립을 전문적으로 뒷받침할 ‘국가기술전략센터’ 출범 (보안뉴스 ─ IT)]]></title>
@@ -1328,6 +1328,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2020/03/20200327SMART-SUM.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[라온화이트햇 이정아 대표 “디지탈 통합 인증 서비스 업체로 포지셔닝할 것” (보안뉴스 ─ 인터뷰)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=108065&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=3&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=108065&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=3&amp;search=title&amp;find=</guid>
+            <pubDate>Thu, 07 Jul 2022 06:22:44 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/view.asp?idx=108065&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=3&amp;search=title&amp;find=">
+					
+					<img src="/media/upFiles2/2022/07/20220707raon-s.jpg" alt="" class="news_img" height="70">
+					
+					<span class="news_txt">라온화이트햇 이정아 대표 “디지탈 통합 인증 서비스 업체로 포지셔닝할 것” </span>
+					</a><br>
+					<a href="/media/view.asp?idx=108065&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=3&amp;search=title&amp;find=">보안업계도 그런 디테일이 엿보이는 곳이 있다. 바로 라온화이트햇이다. 여성 CEO가 경영해서일까. 마케팅 10년 경력의 터치 때문일까. 뭔가 남다른 디테일이 느껴...</a> <span class="news_writer">권준  기자 | 2022년 07월 07일 14:34</span>]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/07/20220707raon-s.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[유명호 스누아이랩 대표 “딥러닝 기반 비전 AI 통해 영상보안업계 경쟁력 확보 조력” (보안뉴스 ─ 인터뷰)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107823&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=3&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107823&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=3&amp;search=title&amp;find=</guid>
@@ -1592,20 +1606,6 @@
 					</a><br>
 					<a href="/media/view.asp?idx=105767&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=3&amp;search=title&amp;find=">한국감시기기공업협동조합(KOCIC)은 우리나라 영상 및 첨단 보안장비 업체를 대표하는 단체 중 하나로 전국 430여개 회원사와 함께하고 있다. 그리고 지난해 2월...</a> <span class="news_writer">엄호식 기자 | 2022년 03월 31일 11:17</span>]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/03/22032905ss.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[신현구 중부대 교수, 한국기업보안협의회 제5대 회장 취임 (보안뉴스 ─ 인터뷰)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=105002&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=3&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=105002&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=3&amp;search=title&amp;find=</guid>
-            <pubDate>Wed, 23 Feb 2022 08:19:05 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/view.asp?idx=105002&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=3&amp;search=title&amp;find=">
-					
-					<img src="/media/upFiles2/2022/02/20220223KCMC-S.JPG" alt="" class="news_img" height="70">
-					
-					<span class="news_txt">신현구 중부대 교수, 한국기업보안협의회 제5대 회장 취임</span>
-					</a><br>
-					<a href="/media/view.asp?idx=105002&amp;page=1&amp;mkind=&amp;kind=3&amp;skind=3&amp;search=title&amp;find=">국내외 기업보안 분야 종사자들의 모임인 한국기업보안협의회(KCMC: Korea Corporate Security Council)가 지난 16일 온라인으로 정기총회...</a> <span class="news_writer">권준  기자 | 2022년 02월 23일 17:03</span>]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/02/20220223KCMC-S.JPG" length="0" type="image/JPG"/>
         </item>
         <item>
             <title><![CDATA[지능형 CCTV 시험·인증, 재난재해 방지 포함해 10종 확대된다 (보안뉴스 ─ 정책)]]></title>
@@ -1888,6 +1888,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20220615pri-s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[러시아-우크라이나 전쟁이 진행 중인 이 때, 기업에게 필요한 보안 프랙티스 (보안뉴스 ─ 국제)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=108069&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=108069&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
+            <pubDate>Thu, 07 Jul 2022 06:23:12 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/view.asp?idx=108069&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
+					
+					<img src="/media/upFiles2/2022/07/22054749_copy_295x190_1.jpg" alt="" class="news_img" height="70">
+					
+					<span class="news_txt">러시아-우크라이나 전쟁이 진행 중인 이 때, 기업에게 필요한 보안 프랙티스 </span>
+					</a><br>
+					<a href="/media/view.asp?idx=108069&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">마리안느 베일리(Marianne Bailey)는 현대 사회를 살아가는 우리가 겪을 수 있는 가장 첨예한 형태의 사이버 공격을 경험하고 있다. 그리고 한 나라의 가...</a> <span class="news_writer">문가용 기자 | 2022년 07월 07일 14:41</span>]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/07/22054749_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[미국의 의료와 보건 기관 노리는 랜섬웨어 마우이의 기묘한 특성들 (보안뉴스 ─ 국제)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=108150&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=108150&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
@@ -2152,20 +2166,6 @@
 					</a><br>
 					<a href="/media/view.asp?idx=108063&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">IT 외신 블리핑컴퓨터에 의하면 아스트라록커(AstraLocker)라는 랜섬웨어 그룹이 사업을 접었다고 한다. 이들은 이와 같은 발표를 하며 복호화 키도 무료로 ...</a> <span class="news_writer">문가용 기자 | 2022년 07월 05일 11:33</span>]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/07/20764533_copy_295x190_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[긴급 크롬 103 업데이트, 활발히 익스플로잇 되는 제로데이 취약점 해결해 (보안뉴스 ─ 국제)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=108062&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=108062&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
-            <pubDate>Tue, 05 Jul 2022 03:45:26 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/view.asp?idx=108062&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
-					
-					<img src="/media/upFiles2/2022/07/21319689_copy_295x190_1.jpg" alt="" class="news_img" height="70">
-					
-					<span class="news_txt">긴급 크롬 103 업데이트, 활발히 익스플로잇 되는 제로데이 취약점 해결해</span>
-					</a><br>
-					<a href="/media/view.asp?idx=108062&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">보안 외신 시큐리티위크에 의하면 크롬 브라우저에서 새로운 제로데이 취약점이 나타났다고 한다. 이미 공격자들이 발견해 익스플로잇 하고 있었던 것으로, CVE-202...</a> <span class="news_writer">문가용 기자 | 2022년 07월 05일 11:31</span>]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/07/21319689_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[부산 EDC-4] 스마트빌리지 입주자 대표 “스마트미러, 주거단지 내 가장 인상적인 기술” (보안뉴스 ─ 기획특집)]]></title>
