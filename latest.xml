@@ -4,9 +4,17 @@
         <title>보안뉴스 ─ 전체기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Jul 2022 04:48:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jul 2022 05:29:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[미국의 의료와 보건 기관 노리는 랜섬웨어 마우이의 기묘한 특성들]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=108150&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=108150&amp;page=1&amp;kind=1</guid>
+            <pubDate>Thu, 07 Jul 2022 05:25:20 GMT</pubDate>
+            <content:encoded><![CDATA[미국의 정보 및 첩보 기관인 FBI, CISA와 재무부가 북한 정부의 지원을 받는 해킹 그룹의 활동에 대한 경고문을 발표했다. 주요 타격 대상은 미국의 공...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/07/21303863_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[NIST, 양자 컴퓨팅 기술에 끄떡없는 암호화 알고리즘 4개 발표]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=108149&amp;page=1&amp;kind=1</link>
@@ -80,12 +88,12 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/07/13169261_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[안전한 클라우드 시크릿 관리를 위한 하시코프의 선택 ‘볼트’]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=108106&amp;page=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=108106&amp;page=1&amp;kind=3</guid>
-            <pubDate>Wed, 06 Jul 2022 05:27:00 GMT</pubDate>
-            <content:encoded><![CDATA[멀티/하이브리드 클라우드를 위한 인프라 자동화 소프트웨어 선도기업인 하시코프(HashiCorp®)는 6일 기자 간담회를 개최하고 다양해진 한국 기업 인프라...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/07/HashiCorp_070601_main.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[신세계아이앤씨, 솔루엠과 AI 기반 매장 관리 플랫폼 개발 나선다]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=108141&amp;page=1&amp;kind=3</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=108141&amp;page=1&amp;kind=3</guid>
+            <pubDate>Thu, 07 Jul 2022 05:25:20 GMT</pubDate>
+            <content:encoded><![CDATA[신세계아이앤씨(대표 손정현)가 전자부품 제조기업 ‘솔루엠’과 손잡고 AI 비전 기술 기반 매장 관리 플랫폼을 개발하고 글로벌 시장 확대에 나선다.]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/07/22070709ss.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[산업통상자원부, 2022 무역안보의 날 기념식 개최]]></title>
@@ -225,13 +233,6 @@
             <pubDate>Thu, 07 Jul 2022 01:43:47 GMT</pubDate>
             <content:encoded><![CDATA[LG유플러스는 글로벌 통신장비 제조업체 노키아와 함께 5G 어드밴스드(Advanced) 및 6G 분야 연구개발 협력을 강화하는 업무협약을 체결했다고 밝혔다...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/07/7-94(295).jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[SK브로드밴드, ‘클라우드PC 솔루션’ 국가정보원 보안기능확인서 획득]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=108128&amp;page=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=108128&amp;page=1&amp;kind=3</guid>
-            <pubDate>Thu, 07 Jul 2022 01:43:47 GMT</pubDate>
-            <content:encoded><![CDATA[SK브로드밴드는 클라우드PC 솔루션(제품명 Cloud X 2.0)이 국가정보원으로부터 보안기능확인서를 획득했다고 밝혔다. 이에 따라 ‘Cloud X 2.0...]]></content:encoded>
         </item>
     </channel>
 </rss>
