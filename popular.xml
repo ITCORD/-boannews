@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Jul 2022 08:24:46 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jul 2022 09:19:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -104,14 +104,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/07/21793459_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[Weekly Security Premium Report 제57호 발간! 사이버 리질리언스 5단계]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107958&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107958&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
-            <pubDate>Mon, 04 Jul 2022 07:15:57 GMT</pubDate>
-            <content:encoded><![CDATA[6월 30일 발간된 ‘Weekly Security Premium Report’ 제57호에는 &lt;보안 심층 리포트&gt; 코너에서 각종 사이버 위협을 예상하고,...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20220630REPORT-SM.JPG" length="0" type="image/JPG"/>
-        </item>
-        <item>
             <title><![CDATA[전 세계 홈 CCTV 시장 내 점유율 10%, 급성장세 ‘중국’]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107890&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107890&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
@@ -166,6 +158,14 @@
             <pubDate>Thu, 07 Jul 2022 06:21:20 GMT</pubDate>
             <content:encoded><![CDATA[안드로이드용 구글 크롬에서 제로데이 취약점이 발견됐고, 해커들이 이를 이미 익스플로잇 하기 시작했다. 문제의 취약점은 CVE-2022-2294로, 일종의 힙 버퍼...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/07/21866626_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[부산 EDC-2] “제로트러스트 보안 구현되는 스마트시티 조성”]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=107946&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=107946&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
+            <pubDate>Thu, 07 Jul 2022 09:16:46 GMT</pubDate>
+            <content:encoded><![CDATA[부산 에코델타 스마트시티(EDC)가 올해 초 전반적인 사업 구상을 마치고 특수목적법인(SPC) 설립을 위한 민간기업 공모 절차도 대부분 완료했다. 국내 첫 스마트...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20220703edc-sm.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
