@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-07-07T10:25:56.068Z</updated>
+    <updated>2022-07-07T11:18:04.723Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Weekly Security Premium Report 제58호 발간! 재택근무 끝나는 직원들 대응법]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=108156&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=108156&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-07-07T11:15:27.823Z</updated>
+        <content type="html"><![CDATA[7월 7일 발간된 ‘Weekly Security Premium Report’ 제58호에는 &lt;보안 심층 리포트&gt; 코너에서 코로나로 인한 위기감이 조금씩 완화되고 있고, 재택근무 대신 사무실로 직원들을 부르는 회사들이 늘어나기 시작한 가운데 집에서 근무하는 것의...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[메리어트 인터내셔널에서 또 다시 발생한 대형 정보 유출 사고?]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=108153&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=108153&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-07-07T11:15:27.826Z</updated>
+        <content type="html"><![CDATA[대형 호텔 체인 메리어트 인터내셔널(Marriott International)에서 대형 데이터 침해 사고가 발생했다. 영향을 받은 것으로 보이는 사람의 수는 300~400명이지만 유출된 데이터는 무려 20GB 되는 것으로 추정된다. 메리어트 측은 한 호텔 직원을 겨냥한...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[러시아-우크라이나 전쟁이 진행 중인 이 때, 기업에게 필요한 보안 프랙티스]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=108069&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=108069&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-07-07T11:15:27.827Z</updated>
+        <content type="html"><![CDATA[마리안느 베일리(Marianne Bailey)는 현대 사회를 살아가는 우리가 겪을 수 있는 가장 첨예한 형태의 사이버 공격을 경험하고 있다. 그리고 한 나라의 가장 높은 위치에 있는 사람들에게 대응책을 제언한다. 국가안보시스템(National Security Syste...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[라온화이트햇 이정아 대표 “디지탈 통합 인증 서비스 업체로 포지셔닝할 것”]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=108065&amp;page=1&amp;mkind=1&amp;kind=3</id>
@@ -102,26 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=108108&amp;page=1&amp;mkind=1&amp;kind=1"/>
         <updated>2022-07-07T01:44:09.897Z</updated>
         <content type="html"><![CDATA[안드로이드용 구글 크롬에서 제로데이 취약점이 발견됐고, 해커들이 이를 이미 익스플로잇 하기 시작했다. 문제의 취약점은 CVE-2022-2294로, 일종의 힙 버퍼 오버플로우 버그로 분류됐다. WebRTC 요소에서 발견됐고, 고위험군으로 분류됐다. WebRTC는 HTML...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[영국 진출기업, 영국 개인정보 국내이전 수월해진다]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=108107&amp;page=1&amp;mkind=1&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=108107&amp;page=1&amp;mkind=1&amp;kind=2"/>
-        <updated>2022-07-06T09:22:45.798Z</updated>
-        <content type="html"><![CDATA[앞으로 국내 기업들이 영국 내 거주민들의 개인정보를 안전하고 자유롭게 국내로 이전해 기업활동에 활용할 수 있게 될 전망이다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[안전한 클라우드 시크릿 관리를 위한 하시코프의 선택 ‘볼트’]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=108106&amp;page=1&amp;mkind=1&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=108106&amp;page=1&amp;mkind=1&amp;kind=3"/>
-        <updated>2022-07-06T09:22:45.802Z</updated>
-        <content type="html"><![CDATA[멀티/하이브리드 클라우드를 위한 인프라 자동화 소프트웨어 선도기업인 하시코프(HashiCorp®)는 6일 기자 간담회를 개최하고 다양해진 한국 기업 인프라를 유연하고 안전하게 운영하는 방안을 소개했다고 밝혔다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[개인정보 활용의 핵심, 가명정보 처리에 관한 궁금증 몇 가지]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=108010&amp;page=1&amp;mkind=1&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=108010&amp;page=1&amp;mkind=1&amp;kind=2"/>
-        <updated>2022-07-06T07:16:12.684Z</updated>
-        <content type="html"><![CDATA[지난 4월 28일 ‘가명정보 처리 가이드라인’ 개정안이 발표된 가운데, 가명정보 개념, 가명정보의 결합과 개인정보 가명처리 등과 관련해서 헷갈리는 경우가 적지 않다. 이에 &lt;보안뉴스&gt;는 ‘가명정보 처리 가이드라인’과 관련해 한국인터넷진흥원(KISA) 박윤식 ...]]></content>
     </entry>
 </feed>
