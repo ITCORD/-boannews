@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 07 Jul 2022 06:23:59 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jul 2022 07:19:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[메리어트 인터내셔널에서 또 다시 발생한 대형 정보 유출 사고? (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=108153&amp;page=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=108153&amp;page=1&amp;kind=1</guid>
+            <pubDate>Thu, 07 Jul 2022 07:16:32 GMT</pubDate>
+            <content:encoded><![CDATA[대형 호텔 체인 메리어트 인터내셔널(Marriott International)에서 대형 데이터 침해 사고가 발생했다. 영향을 받은 것으로 보이는 사람의 수...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/07/22017988_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[러시아-우크라이나 전쟁이 진행 중인 이 때, 기업에게 필요한 보안 프랙티스 (보안뉴스 ─ 전체기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=108069&amp;page=1&amp;kind=1</link>
@@ -78,14 +86,6 @@
             <pubDate>Wed, 06 Jul 2022 09:22:17 GMT</pubDate>
             <content:encoded><![CDATA[버그바운티 플랫폼 해커원(HackerOne)이 직원 한 명을 해고했다. 해커원 고객들이 난 취약점 보고서를 가로채 자기 이름으로 제출한 후 상금을 차지하려...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/07/20690729_copy_295x190_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[지능형 CCTV 시험·인증, 재난재해 방지 포함해 10종 확대된다 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=108109&amp;page=1&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=108109&amp;page=1&amp;kind=2</guid>
-            <pubDate>Wed, 06 Jul 2022 09:22:17 GMT</pubDate>
-            <content:encoded><![CDATA[한국인터넷진흥원(KISA, 원장 이원태)은 사회안전 분야에 관심이 높아짐에 따라 과학기술정보통신부(장관 이종호)와 함께 지능형 CCTV 시험·인증...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/07/smart%20CCTV%20history_20220706_sum.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[신세계아이앤씨, 솔루엠과 AI 기반 매장 관리 플랫폼 개발 나선다 (보안뉴스 ─ 전체기사)]]></title>
@@ -395,6 +395,13 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/07/21866626_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[미국의 의료와 보건 기관 노리는 랜섬웨어 마우이의 기묘한 특성들 (보안뉴스 ─ SECURITY)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=108150&amp;page=1&amp;mkind=1&amp;kind=1</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=108150&amp;page=1&amp;mkind=1&amp;kind=1</guid>
+            <pubDate>Thu, 07 Jul 2022 07:16:50 GMT</pubDate>
+            <content:encoded><![CDATA[미국의 정보 및 첩보 기관인 FBI, CISA와 재무부가 북한 정부의 지원을 받는 해킹 그룹의 활동에 대한 경고문을 발표했다. 주요 타격 대상은 미국의 공중 보건과 의료 관련 조직들이라고 한다. 이 공격에 활용되는 건 마우이(Maui)라고 하는 랜섬웨어이며, 북한의 해...]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[NIST, 양자 컴퓨팅 기술에 끄떡없는 암호화 알고리즘 4개 발표 (보안뉴스 ─ SECURITY)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=108149&amp;page=1&amp;mkind=1&amp;kind=1</link>
             <guid>https://www.boannews.com/media/view.asp?idx=108149&amp;page=1&amp;mkind=1&amp;kind=1</guid>
@@ -505,13 +512,6 @@
             <guid>https://www.boannews.com/media/view.asp?idx=108097&amp;page=1&amp;mkind=1&amp;kind=4</guid>
             <pubDate>Wed, 06 Jul 2022 05:27:24 GMT</pubDate>
             <content:encoded><![CDATA[코로나 19 팬데믹은 우리의 일하고 놀고 사업하는 방식을 완전히 바꾸었다. 우리 일상의 수많은 활동들이 온라인으로 무대를 옮겼고, 그러면서 상상만 하던 것들을 집에 앉아서 할 수 있게 됐다. 인터넷을 기반으로 한 각종 솔루션들이 급격히 발달하면서 가상 수업, 가상 회의...]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[악성 NPM 패키지들, 앱과 웹 양식에서 데이터 훔쳐 (보안뉴스 ─ SECURITY)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=108104&amp;page=1&amp;mkind=1&amp;kind=1</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=108104&amp;page=1&amp;mkind=1&amp;kind=1</guid>
-            <pubDate>Wed, 06 Jul 2022 05:27:24 GMT</pubDate>
-            <content:encoded><![CDATA[보안 외신 해커뉴스에 의하면 주요 리포지터리인 NPM에서 악성 패키지들이 발견됐다고 한다. 보안 업체 리버싱랩스(ReversingLabs)에 의하면 이 패키지들은 민감한 정보를 훔쳐내는 기능을 내포하고 있다고 한다. 공격자들이 악성 모듈을 2021년 12월부터 유포한 ...]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[국가연구개발투자전략 수립을 전문적으로 뒷받침할 ‘국가기술전략센터’ 출범 (보안뉴스 ─ IT)]]></title>
@@ -1888,6 +1888,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20220615pri-s.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[메리어트 인터내셔널에서 또 다시 발생한 대형 정보 유출 사고? (보안뉴스 ─ 국제)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=108153&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=108153&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
+            <pubDate>Thu, 07 Jul 2022 07:18:05 GMT</pubDate>
+            <content:encoded><![CDATA[<a href="/media/view.asp?idx=108153&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
+					
+					<img src="/media/upFiles2/2022/07/22017988_copy_295x190_1.jpg" alt="" class="news_img" height="70">
+					
+					<span class="news_txt">메리어트 인터내셔널에서 또 다시 발생한 대형 정보 유출 사고?</span>
+					</a><br>
+					<a href="/media/view.asp?idx=108153&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">대형 호텔 체인 메리어트 인터내셔널(Marriott International)에서 대형 데이터 침해 사고가 발생했다. 영향을 받은 것으로 보이는 사람의 수는 30...</a> <span class="news_writer">문가용 기자 | 2022년 07월 07일 16:02</span>]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/07/22017988_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[러시아-우크라이나 전쟁이 진행 중인 이 때, 기업에게 필요한 보안 프랙티스 (보안뉴스 ─ 국제)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=108069&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=108069&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
@@ -2152,20 +2166,6 @@
 					</a><br>
 					<a href="/media/view.asp?idx=108064&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">보안 블로그 시큐리티어페어즈에 의하면 상하이 공안의 데이터베이스가 한 해킹 단체에 의해 침해됐다고 한다. 이 때문에 십 억 중국 국민들의 개인정보가 유출됐으며, ...</a> <span class="news_writer">문가용 기자 | 2022년 07월 05일 11:36</span>]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/07/21873999_copy_295x190_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[아스트라록커, 랜섬웨어 사업 폐쇄하며 복호화 키 공개 (보안뉴스 ─ 국제)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=108063&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=108063&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=</guid>
-            <pubDate>Tue, 05 Jul 2022 03:45:26 GMT</pubDate>
-            <content:encoded><![CDATA[<a href="/media/view.asp?idx=108063&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">
-					
-					<img src="/media/upFiles2/2022/07/20764533_copy_295x190_1.jpg" alt="" class="news_img" height="70">
-					
-					<span class="news_txt">아스트라록커, 랜섬웨어 사업 폐쇄하며 복호화 키 공개</span>
-					</a><br>
-					<a href="/media/view.asp?idx=108063&amp;page=1&amp;mkind=&amp;kind=1&amp;skind=D&amp;search=title&amp;find=">IT 외신 블리핑컴퓨터에 의하면 아스트라록커(AstraLocker)라는 랜섬웨어 그룹이 사업을 접었다고 한다. 이들은 이와 같은 발표를 하며 복호화 키도 무료로 ...</a> <span class="news_writer">문가용 기자 | 2022년 07월 05일 11:33</span>]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/07/20764533_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[부산 EDC-4] 스마트빌리지 입주자 대표 “스마트미러, 주거단지 내 가장 인상적인 기술” (보안뉴스 ─ 기획특집)]]></title>

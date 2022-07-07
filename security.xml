@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-07-07T06:23:59.312Z</updated>
+    <updated>2022-07-07T07:19:14.966Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[미국의 의료와 보건 기관 노리는 랜섬웨어 마우이의 기묘한 특성들]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=108150&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=108150&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-07-07T07:16:50.559Z</updated>
+        <content type="html"><![CDATA[미국의 정보 및 첩보 기관인 FBI, CISA와 재무부가 북한 정부의 지원을 받는 해킹 그룹의 활동에 대한 경고문을 발표했다. 주요 타격 대상은 미국의 공중 보건과 의료 관련 조직들이라고 한다. 이 공격에 활용되는 건 마우이(Maui)라고 하는 랜섬웨어이며, 북한의 해...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NIST, 양자 컴퓨팅 기술에 끄떡없는 암호화 알고리즘 4개 발표]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=108149&amp;page=1&amp;mkind=1&amp;kind=1</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=108097&amp;page=1&amp;mkind=1&amp;kind=4"/>
         <updated>2022-07-06T05:27:24.056Z</updated>
         <content type="html"><![CDATA[코로나 19 팬데믹은 우리의 일하고 놀고 사업하는 방식을 완전히 바꾸었다. 우리 일상의 수많은 활동들이 온라인으로 무대를 옮겼고, 그러면서 상상만 하던 것들을 집에 앉아서 할 수 있게 됐다. 인터넷을 기반으로 한 각종 솔루션들이 급격히 발달하면서 가상 수업, 가상 회의...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[악성 NPM 패키지들, 앱과 웹 양식에서 데이터 훔쳐]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=108104&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=108104&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-07-06T05:27:24.057Z</updated>
-        <content type="html"><![CDATA[보안 외신 해커뉴스에 의하면 주요 리포지터리인 NPM에서 악성 패키지들이 발견됐다고 한다. 보안 업체 리버싱랩스(ReversingLabs)에 의하면 이 패키지들은 민감한 정보를 훔쳐내는 기능을 내포하고 있다고 한다. 공격자들이 악성 모듈을 2021년 12월부터 유포한 ...]]></content>
     </entry>
 </feed>
