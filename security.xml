@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-07-07T23:20:33.785Z</updated>
+    <updated>2022-07-08T01:46:03.182Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[나날이 커지는 도박 문제, 불법 도박사이트부터 빠르게 탐색해야]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=108151&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=108151&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-07-08T01:43:41.238Z</updated>
+        <content type="html"><![CDATA[최근 불법 도박사이트를 통한 청소년 및 군 장병들의 도박문제가 사회적 이슈로 떠오르고 있다. 전문가들은 암호화폐로 인한 한탕주의가 불법 도박사이트로 옮겨간 것으로 보고 대책 마련을 촉구하고 있다.]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[에스케어, 창립 ‘10주년 기념 에스케어 시큐리티 포럼’ 개최]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=108152&amp;page=1&amp;mkind=1&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=108152&amp;page=1&amp;mkind=1&amp;kind=3"/>
+        <updated>2022-07-08T01:43:41.239Z</updated>
+        <content type="html"><![CDATA[에스케어가 7일 창립 10주년을 맞이해 ‘10주년 기념 에스케어 시큐리티 포럼’을 양재동 엘타워에서 개최했다. 에스케어는 2012년 7월 2일 창립 아래 엔드포인트, 2017년 글로벌 회사와 기술 총판 계약 체결, 네트워크 클라우드의 모든 분야를 아우르는 사이버전문 보...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Weekly Security Premium Report 제58호 발간! 재택근무 끝나는 직원들 대응법]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=108156&amp;page=1&amp;mkind=1&amp;kind=1</id>
@@ -27,7 +41,7 @@
         <content type="html"><![CDATA[마리안느 베일리(Marianne Bailey)는 현대 사회를 살아가는 우리가 겪을 수 있는 가장 첨예한 형태의 사이버 공격을 경험하고 있다. 그리고 한 나라의 가장 높은 위치에 있는 사람들에게 대응책을 제언한다. 국가안보시스템(National Security Syste...]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[라온화이트햇 이정아 대표 “디지탈 통합 인증 서비스 업체로 포지셔닝할 것”]]></title>
+        <title type="html"><![CDATA[라온화이트햇 이정아 대표 “디지털 통합 인증 서비스 기업으로 포지셔닝할 것”]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=108065&amp;page=1&amp;mkind=1&amp;kind=3</id>
         <link href="https://www.boannews.com/media/view.asp?idx=108065&amp;page=1&amp;mkind=1&amp;kind=3"/>
         <updated>2022-07-07T10:23:02.276Z</updated>
@@ -109,19 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=108111&amp;page=1&amp;mkind=1&amp;kind=1"/>
         <updated>2022-07-07T01:44:09.891Z</updated>
         <content type="html"><![CDATA[버그바운티 플랫폼 해커원(HackerOne)이 직원 한 명을 해고했다. 해커원 고객들이 난 취약점 보고서를 가로채 자기 이름으로 제출한 후 상금을 차지하려 했기 때문이다. 해커원의 취약점 공개 절차와 구조를 악용한 것으로, 해커원의 신뢰도를 하락시키는 결과를 낳았다. ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국정보보호학회 5G보안연구회, ‘제5회 5G보안 워크숍’ 개최]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=108110&amp;page=1&amp;mkind=1&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=108110&amp;page=1&amp;mkind=1&amp;kind=3"/>
-        <updated>2022-07-07T01:44:09.893Z</updated>
-        <content type="html"><![CDATA[한국정보보호학회(학회장 이옥연 교수, 국민대) 산하 5G보안연구회(위원장 유일선 교수) 주관으로 오는 7월 7일과 8일, 양일간 여수 베네치아호텔에서 ‘제5회 5G보안 워크숍’이 온·오프라인 혼합방식으로 개최된다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[구글 크롬에서 올해에만 네 번째 제로데이 취약점 발견되고 패치돼]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=108108&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=108108&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-07-07T01:44:09.897Z</updated>
-        <content type="html"><![CDATA[안드로이드용 구글 크롬에서 제로데이 취약점이 발견됐고, 해커들이 이를 이미 익스플로잇 하기 시작했다. 문제의 취약점은 CVE-2022-2294로, 일종의 힙 버퍼 오버플로우 버그로 분류됐다. WebRTC 요소에서 발견됐고, 고위험군으로 분류됐다. WebRTC는 HTML...]]></content>
     </entry>
 </feed>
