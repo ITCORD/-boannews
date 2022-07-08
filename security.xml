@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-07-08T05:26:49.055Z</updated>
+    <updated>2022-07-08T06:25:00.697Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[안랩, ‘횡령·배임의 민형사적 책임 및 기업윤리’ 주제로 전사 ESG 교육 진행]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=108187&amp;page=1&amp;mkind=1&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=108187&amp;page=1&amp;mkind=1&amp;kind=3"/>
+        <updated>2022-07-08T06:22:24.366Z</updated>
+        <content type="html"><![CDATA[안랩(대표 강석균)이 7월 7일 (목) ‘횡령·배임의 민형사적 책임 및 기업윤리’를 주제로 임직원 대상 ESG 교육을 실시했다. 이번 교육에서 '법무법인 정의' 강동원 대표 변호사는 실제 사례를 중심으로 횡령과 배임의 의미와 형법상 구성요건 및 가중처벌요건, 상법·민법...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[파이오링크, 클라우드 보안관제 강화... 국제 정보보안 인증 4종 획득]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=108188&amp;page=1&amp;mkind=1&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=108188&amp;page=1&amp;mkind=1&amp;kind=3"/>
+        <updated>2022-07-08T06:22:24.368Z</updated>
+        <content type="html"><![CDATA[파이오링크(대표 조영철)가 클라우드 보안관제 서비스 강화를 위해 국제 정보보안 관련 인증(ISO/IEC) 4종을 획득했다고 밝혔다. 파이오링크는 2020년 ‘정보보안경영시스템 인증(ISO/IEC 27001)’ 획득 이후, 이번에 ‘클라우드 서비스 정보보안경영시스템 인증...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[하이브리드 근무 환경을 준비하는 기업들이 고려해야 할 것 3]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=108172&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=108172&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-07-08T06:22:24.370Z</updated>
+        <content type="html"><![CDATA[하이브리드 근무 환경은 원격 근무의 자유로움과 사무실 근무의 익숙함 - 그리고 대면의 가능성 -을 모두 제공한다. 하지만 그만큼 뒷단의 운영자에겐 커다란 부담이 된다. 갤럽 조사에 의하면 77%의 근무자들이 계속해서 원격에서 근무를 하거나 최소 하이브리드 환경에서 근무...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[MS, 오피스 매크로의 ‘기본 비활성화’ 방침 취소시켜]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=108185&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=108185&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-07-08T06:22:24.375Z</updated>
+        <content type="html"><![CDATA[IT 외신 블리핑컴퓨터에 의하면 마이크로소프트가 올해 초 오피스 매크로 기능을 기본적으로 비활성화시키겠다는 방침을 취소시켰다고 한다. 원래 MS는 다운로드 된 오피스 문서에 VBA 매크로가 자동으로 적용되지 않도록 디폴트 옵션을 바꾸겠다고 발표했었다. 이 변경 사항은 ...]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[큐티보이 암호화폐 채굴 캠페인에 1200개 넘는 NPM 패키지 악용돼]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=108184&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=108184&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-07-08T06:22:24.377Z</updated>
+        <content type="html"><![CDATA[보안 외신 해커뉴스에 의하면 자바스크립트 패키지 리포지터리인 NPM에서 또 한 번 사고가 발생했다고 한다. 다행이라면, 기존 NPM 패키지에 악성 코드가 주입된 건 아니고, 악성 코드가 주입된 신규 악성 패키지가 대거 등록되었기 때문이다. 큐티보이(Cuteboi)라고 ...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오픈SSL, 원격 코드 실행 취약점 패치해]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=108183&amp;page=1&amp;mkind=1&amp;kind=1</id>
@@ -88,40 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=108149&amp;page=1&amp;mkind=1&amp;kind=1"/>
         <updated>2022-07-07T06:21:35.647Z</updated>
         <content type="html"><![CDATA[보안 외신 해커뉴스에 의하면 미국의 NIST가 양자 컴퓨팅 기술로도 해독하기 어려운 암호화 알고리즘을 발표했다고 한다. 현재까지는 총 4개의 암호화 알고리즘이 공개됐다고 하는데, 추가로 더 많은 발표가 있을 법도 하다. 이 4개의 알고리즘은 CRYSTALS-Kyber,...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[메리어트 인터내셔널에서 발생한 보안 사고로 20GB 데이터 유출돼]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=108148&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=108148&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-07-07T06:21:35.650Z</updated>
-        <content type="html"><![CDATA[보안 블로그 시큐리티어페어즈에 따르면 대형 호텔 체인인 메리어트 인터내셔널(Marriott International)에서 대형 보안 사고가 발생했다고 한다. 이 사고로 공격자는 약 한 달 전에 메리어트 네트워크에 침투했으며 20GB의 데이터를 훔쳐 가는 데 성공했다고 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[보안 취약점 권고문, 오히려 민감한 시스템 노출시켜]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=108147&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=108147&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-07-07T05:25:53.794Z</updated>
-        <content type="html"><![CDATA[IT 외신 블리핑컴퓨터가 마이터(MITRE)의 취약점 보고서를 통해 취약한 장비들로 연결되는 링크들이 지난 4월부터 공개되어 왔다고 보도했다. CVE 취약점 보고서 안에는 ‘참조(references)’ 항목이 있는데, 이 항목을 통해 취약점에 영향을 받는 장비들이 무엇...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[애플, 새로운 락다운 모드 추가하여 정부 스파이웨어 차단]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=108146&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=108146&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-07-07T03:47:53.323Z</updated>
-        <content type="html"><![CDATA[보안 외신 시큐리티위크는 애플이 자사 생태계에 추가한 새로운 모드에 대해 보도하며, 정부의 스파이웨어로부터 소비자들을 보호하기 위한 기능이라고 설명했다. 새 모드의 이름은 ‘락다운 모드(Lockdown Mode)’이며, iOS 16, iPadOS 16, 맥OS 벤추라를...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[미국 FBI와 영국 MI5, 최초 합동 경고문 통해 중국 저격]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=108145&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=108145&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-07-07T03:47:53.325Z</updated>
-        <content type="html"><![CDATA[일간지 가디언에 의하면 미국과 영국의 수사 및 첩보 기관인 FBI와 MI5가 합동으로 중국에 대한 경고를 발표했다고 한다. 중국 정부가 세계 여러 기업들의 지적재산과 기술 정보를 훔치기 위해 광범위한 사이버 스파이 행위를 실시하고 있다는 내용이다. 두 기관의 수장은 나...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[원광대병원, 개인정보보호-정보보안 교육 및 슬로건 공모전 시행]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=108114&amp;page=1&amp;mkind=1&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=108114&amp;page=1&amp;mkind=1&amp;kind=2"/>
-        <updated>2022-07-07T03:47:53.327Z</updated>
-        <content type="html"><![CDATA[원광대병원이 안전한 정보보호 환경 조성과 안전문화 확산을 위해 개인정보보호·정보보안에 대한 교육 및 슬로건 공모전을 시행했다. 원광대병원은 정보 관리의 중요성을 강조하고 의료정보의 안전한 관리와 유·노출 방지를 위해 개인정보보호·정보보안에 심혈을 쏟고 있다.]]></content>
     </entry>
 </feed>
