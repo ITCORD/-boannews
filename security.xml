@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-07-08T11:17:18.092Z</updated>
+    <updated>2022-07-08T12:40:59.589Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[중국의 APT 정찰 단체 톤토팀, 러시아 향한 공격 수위 높여]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=108192&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=108192&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-07-08T12:38:32.540Z</updated>
+        <content type="html"><![CDATA[우크라이나의 컴퓨터 침해 대응 센터(CERT)가 중국의 사이버 정찰 행위에 대해 새로운 경고를 발표했다. 놀랍게도 중국 정부의 지원을 받는 해커들은 현재 러시아 조직들을 겨냥한 사이버 공격을 실시하고 있다고 하며, 수위도 높은 수준이라고 한다. 러시아 정부의 다음 움직...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[대중문화와 보안] 사이버지옥 : n번방을 무너뜨려라]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=108067&amp;page=1&amp;mkind=1&amp;kind=1</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=108151&amp;page=1&amp;mkind=1&amp;kind=1"/>
         <updated>2022-07-08T01:43:41.238Z</updated>
         <content type="html"><![CDATA[최근 불법 도박사이트를 통한 청소년 및 군 장병들의 도박문제가 사회적 이슈로 떠오르고 있다. 전문가들은 암호화폐로 인한 한탕주의가 불법 도박사이트로 옮겨간 것으로 보고 대책 마련을 촉구하고 있다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에스케어, 창립 ‘10주년 기념 에스케어 시큐리티 포럼’ 개최]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=108152&amp;page=1&amp;mkind=1&amp;kind=3</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=108152&amp;page=1&amp;mkind=1&amp;kind=3"/>
-        <updated>2022-07-08T01:43:41.239Z</updated>
-        <content type="html"><![CDATA[에스케어가 7일 창립 10주년을 맞이해 ‘10주년 기념 에스케어 시큐리티 포럼’을 양재동 엘타워에서 개최했다. 에스케어는 2012년 7월 2일 창립 아래 엔드포인트, 2017년 글로벌 회사와 기술 총판 계약 체결, 네트워크 클라우드의 모든 분야를 아우르는 사이버전문 보...]]></content>
     </entry>
 </feed>
