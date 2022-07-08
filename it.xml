@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=2</id>
     <title>보안뉴스 ─ IT</title>
-    <updated>2022-07-08T08:26:22.106Z</updated>
+    <updated>2022-07-08T09:27:00.583Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[국민·기업·정부가 함께 데이터에 기반해 사회문제를 해결한다]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=108165&amp;page=1&amp;mkind=2&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=108165&amp;page=1&amp;mkind=2&amp;kind=2"/>
+        <updated>2022-07-08T09:23:48.548Z</updated>
+        <content type="html"><![CDATA[앞으로는 민·관이 함께 데이터를 분석하고 이를 사회문제 해결에 활용함으로써, 정부 의사결정이 보다 과학적이고 합리적으로 이뤄질 것으로 보인다. 행정안전부는 8일 ‘민관 합동 데이터분석협의회’를 개최한다고 밝혔다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[새만금 국가산단, 스마트그린 국가시범산단 최초 지정]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=108167&amp;page=1&amp;mkind=2&amp;kind=1</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=108122&amp;page=1&amp;mkind=2&amp;kind=2"/>
         <updated>2022-07-07T01:44:23.865Z</updated>
         <content type="html"><![CDATA[행정안전부와 국가공무원인재개발원은 7일부터 공무원들의 데이터 분석에 필요한 기초 지식 습득을 지원하기 위해 ‘엑셀 하나로 나의 보고서가 달라진다, 데이터 분석 기초편’ 온라인 교육 과정을 ‘나라배움터(e-learning.nhi.go.kr)’에서 신규 운영한다고 밝혔다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[새정부 과기정통부의 적극행정은 민-관 협력]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=108123&amp;page=1&amp;mkind=2&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=108123&amp;page=1&amp;mkind=2&amp;kind=2"/>
-        <updated>2022-07-07T01:44:23.867Z</updated>
-        <content type="html"><![CDATA[이종호 과학기술정보통신부 장관은 2022년 1분기 적극행정 우수 사례에 대한 포상 수여식을 지난 6일에 개최했다. 이번에 선정된 우수 사례는 1차로 외부 전문가, 적극행정 모니터링단, 혁신 어벤져스의 서면평가와 적극행정위원회의 최종 발표 평가를 통해 최우수 2건, 우수...]]></content>
     </entry>
 </feed>
