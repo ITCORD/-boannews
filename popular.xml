@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 09 Jul 2022 17:19:44 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Jul 2022 18:22:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -24,20 +24,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/07/21493824_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[긴급] 국내 병원 환자 의료영상 관리 시스템 ‘PACS’ 노린 공격 발견]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=108000&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=108000&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Tue, 05 Jul 2022 09:26:46 GMT</pubDate>
-            <content:encoded><![CDATA[최근 국내 의료 기관에서 사용 중인 PACS(Picture Archiving and Communication System) 서버를 공격한 사례가 확인돼 관계기관의...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/07/21070189_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[중국의 APT 정찰 단체 톤토팀, 러시아 향한 공격 수위 높여]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=108192&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=108192&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Sat, 09 Jul 2022 04:22:46 GMT</pubDate>
             <content:encoded><![CDATA[우크라이나의 컴퓨터 침해 대응 센터(CERT)가 중국의 사이버 정찰 행위에 대해 새로운 경고를 발표했다. 놀랍게도 중국 정부의 지원을 받는 해커들은 현재 러시아 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/07/ton-thumb-0708.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[긴급] 국내 병원 환자 의료영상 관리 시스템 ‘PACS’ 노린 공격 발견]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=108000&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=108000&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Tue, 05 Jul 2022 09:26:46 GMT</pubDate>
+            <content:encoded><![CDATA[최근 국내 의료 기관에서 사용 중인 PACS(Picture Archiving and Communication System) 서버를 공격한 사례가 확인돼 관계기관의...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/07/21070189_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[최대 규모의 NFT 마켓인 오픈시에서 악성 내부자 사건 발생]]></title>
