@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 09 Jul 2022 13:28:22 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Jul 2022 14:16:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -88,20 +88,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/07/air-thumb-0708.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[구글 크롬에서 올해에만 네 번째 제로데이 취약점 발견되고 패치돼]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=108108&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=108108&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Thu, 07 Jul 2022 06:21:20 GMT</pubDate>
-            <content:encoded><![CDATA[안드로이드용 구글 크롬에서 제로데이 취약점이 발견됐고, 해커들이 이를 이미 익스플로잇 하기 시작했다. 문제의 취약점은 CVE-2022-2294로, 일종의 힙 버퍼...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/07/21866626_copy_295x190_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[최근 3개월간 한국 노린 랜섬웨어 총 148,689건... 1분기보다 줄었다]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=108193&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=108193&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Sat, 09 Jul 2022 08:20:03 GMT</pubDate>
             <content:encoded><![CDATA[2022년 2분기에 국내에서 발견된 랜섬웨어가 총 148,689건에 달하는 것으로 알려졌다. 보안 전문 기업 이스트시큐리티(대표 정진일)는 자사의 백신 프로그램...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/07/est_070801_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[구글 크롬에서 올해에만 네 번째 제로데이 취약점 발견되고 패치돼]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=108108&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=108108&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Thu, 07 Jul 2022 06:21:20 GMT</pubDate>
+            <content:encoded><![CDATA[안드로이드용 구글 크롬에서 제로데이 취약점이 발견됐고, 해커들이 이를 이미 익스플로잇 하기 시작했다. 문제의 취약점은 CVE-2022-2294로, 일종의 힙 버퍼...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/07/21866626_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[틱톡, 미국 정치인들에 읍소하며 “중국 임직원 접근 불가하게 한다”]]></title>
@@ -136,20 +136,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/07/cyber_070401_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[핵티비스트 단체 드래곤포스 말레이시아, 익스플로잇 공개하고 랜섬웨어 예고]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=108070&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=108070&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Thu, 07 Jul 2022 10:22:42 GMT</pubDate>
-            <content:encoded><![CDATA[드래곤포스 말레이시아(DragonForce Malaysia)라는 핵티비스트 단체가 새로운 익스플로잇을 공개했다. 윈도 서버에서 로컬 권한 상승 공격을 함으로써 로...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/07/21805198_copy_295x190_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[사우디 드론 시장, 건설·일상 등 다양한 분야에서 성장세 지속]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107893&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107893&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
             <pubDate>Thu, 07 Jul 2022 05:25:34 GMT</pubDate>
             <content:encoded><![CDATA[드론 시장의 성장 여부는 정부 규제와 정책에 따라 결정되는 경우가 많다. 이는 드론의 사용목적을 명확히 알 수 없는 경우가 발생하거나, 혹은 불가피한 사생활 침해...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/01%20DJI-Mini%20SE_sum.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[핵티비스트 단체 드래곤포스 말레이시아, 익스플로잇 공개하고 랜섬웨어 예고]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=108070&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=108070&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Thu, 07 Jul 2022 10:22:42 GMT</pubDate>
+            <content:encoded><![CDATA[드래곤포스 말레이시아(DragonForce Malaysia)라는 핵티비스트 단체가 새로운 익스플로잇을 공개했다. 윈도 서버에서 로컬 권한 상승 공격을 함으로써 로...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/07/21805198_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[버그바운티 플랫폼의 해커원, 직원 한 명 때문에 신뢰 크게 잃을 뻔]]></title>
