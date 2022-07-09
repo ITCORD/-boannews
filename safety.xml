@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=4</id>
     <title>보안뉴스 ─ SAFETY</title>
-    <updated>2022-07-09T07:19:31.900Z</updated>
+    <updated>2022-07-09T08:23:08.671Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[고용부, 기업의 안전보건관리체계 구축 및 이행 우수 사례 발표]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=108116&amp;page=1&amp;mkind=4&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=108116&amp;page=1&amp;mkind=4&amp;kind=2"/>
+        <updated>2022-07-09T08:20:46.164Z</updated>
+        <content type="html"><![CDATA[고용노동부와 산업안전보건공단은 ‘2022년 산업안전보건 강조주간(7.4.~8.)’을 맞아 지난 6일 기업의 안전보건관리체계 구축 및 이행 우수 사례 발표회를 개최했다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[행안부, 국민을 위한 재난안전통신망 운영 토대 마련]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=108120&amp;page=1&amp;mkind=4&amp;kind=2</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=108029&amp;page=1&amp;mkind=4&amp;kind=2"/>
         <updated>2022-07-06T01:49:25.498Z</updated>
         <content type="html"><![CDATA[행정안전부는 수출 경험이 부족한 재난안전 국내 기업의 판로 개척을 지원하기 위해 ‘2022년 재난안전기업 1차 수출 화상상담회’를 8일까지 개최한다고 밝혔다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서부발전, 지역주민 체험형 재난안전교육 시행]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=108019&amp;page=1&amp;mkind=4&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=108019&amp;page=1&amp;mkind=4&amp;kind=2"/>
-        <updated>2022-07-05T05:21:11.601Z</updated>
-        <content type="html"><![CDATA[한국서부발전은 지난 2일 한서대 부설 재난안전교육원에서 태안군민 80여명을 대상으로 체험형 재난안전교육을 시행했다고 밝혔다. 이번 교육은 평상시 재난안전교육 기회를 접하기 어려운 태안군 내 지역주민 중 가족 단위로 신청자를 모집해 진행됐다. 2019년 첫 교육을 시작한...]]></content>
     </entry>
 </feed>
