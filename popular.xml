@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 09 Jul 2022 11:15:52 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Jul 2022 12:32:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -64,20 +64,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/pusan%20eco_070502.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[내 전화번호가 포털에 검색된다? 추적해 보니 한미마이크로닉스 게시판 문제로 드러나]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=108155&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=108155&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Fri, 08 Jul 2022 08:23:26 GMT</pubDate>
-            <content:encoded><![CDATA[컴퓨터 장비 전문 업체인 한미마이크로닉스에서 개인정보 일부가 노출되는 사고가 발생했다. 이를 제일 처음 발견한 사용자는 해당 사실을 인터넷 커뮤니티 게시판에 알려...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/07/Screenshot_copy_295x190_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[중국의 APT 정찰 단체 톤토팀, 러시아 향한 공격 수위 높여]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=108192&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=108192&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Sat, 09 Jul 2022 04:22:46 GMT</pubDate>
             <content:encoded><![CDATA[우크라이나의 컴퓨터 침해 대응 센터(CERT)가 중국의 사이버 정찰 행위에 대해 새로운 경고를 발표했다. 놀랍게도 중국 정부의 지원을 받는 해커들은 현재 러시아 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/07/ton-thumb-0708.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[내 전화번호가 포털에 검색된다? 추적해 보니 한미마이크로닉스 게시판 문제로 드러나]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=108155&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=108155&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Fri, 08 Jul 2022 08:23:26 GMT</pubDate>
+            <content:encoded><![CDATA[컴퓨터 장비 전문 업체인 한미마이크로닉스에서 개인정보 일부가 노출되는 사고가 발생했다. 이를 제일 처음 발견한 사용자는 해당 사실을 인터넷 커뮤니티 게시판에 알려...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/07/Screenshot_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[구글 크롬에서 올해에만 네 번째 제로데이 취약점 발견되고 패치돼]]></title>
@@ -104,14 +104,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20220703INDU-S.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[메리어트 인터내셔널에서 또 다시 발생한 대형 정보 유출 사고?]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=108153&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=108153&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Fri, 08 Jul 2022 11:14:45 GMT</pubDate>
-            <content:encoded><![CDATA[대형 호텔 체인 메리어트 인터내셔널(Marriott International)에서 대형 데이터 침해 사고가 발생했다. 영향을 받은 것으로 보이는 사람의 수는 30...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/07/22017988_copy_295x190_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[또 클라우드 설정 오류 사건! 이번엔 4개 공항 3TB 데이터 유출돼]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=108196&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=108196&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
@@ -126,6 +118,14 @@
             <pubDate>Sat, 09 Jul 2022 08:20:03 GMT</pubDate>
             <content:encoded><![CDATA[2022년 2분기에 국내에서 발견된 랜섬웨어가 총 148,689건에 달하는 것으로 알려졌다. 보안 전문 기업 이스트시큐리티(대표 정진일)는 자사의 백신 프로그램...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/07/est_070801_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[메리어트 인터내셔널에서 또 다시 발생한 대형 정보 유출 사고?]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=108153&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=108153&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Fri, 08 Jul 2022 11:14:45 GMT</pubDate>
+            <content:encoded><![CDATA[대형 호텔 체인 메리어트 인터내셔널(Marriott International)에서 대형 데이터 침해 사고가 발생했다. 영향을 받은 것으로 보이는 사람의 수는 30...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/07/22017988_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[대중문화와 보안] 사이버지옥 : n번방을 무너뜨려라]]></title>
