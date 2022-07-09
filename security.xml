@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-07-09T06:22:31.898Z</updated>
+    <updated>2022-07-09T07:19:31.897Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[최근 3개월간 한국 노린 랜섬웨어 총 148,689건... 1분기보다 줄었다]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=108193&amp;page=1&amp;mkind=1&amp;kind=1</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=108193&amp;page=1&amp;mkind=1&amp;kind=1"/>
+        <updated>2022-07-09T07:16:48.084Z</updated>
+        <content type="html"><![CDATA[2022년 2분기에 국내에서 발견된 랜섬웨어가 총 148,689건에 달하는 것으로 알려졌다. 보안 전문 기업 이스트시큐리티(대표 정진일)는 자사의 백신 프로그램 ‘알약’에 탑재되어 있는 ‘랜섬웨어 행위기반 사전 차단’ 기능을 통해 차단했다고 밝혔다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[중국의 APT 정찰 단체 톤토팀, 러시아 향한 공격 수위 높여]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=108192&amp;page=1&amp;mkind=1&amp;kind=1</id>
@@ -70,9 +77,9 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[하이브리드 근무 환경을 준비하는 기업들이 고려해야 할 것 3]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=108172&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=108172&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-07-08T06:22:24.370Z</updated>
+        <id>https://www.boannews.com/media/view.asp?idx=108172&amp;page=1&amp;mkind=1&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=108172&amp;page=1&amp;mkind=1&amp;kind=3"/>
+        <updated>2022-07-09T07:16:48.110Z</updated>
         <content type="html"><![CDATA[하이브리드 근무 환경은 원격 근무의 자유로움과 사무실 근무의 익숙함 - 그리고 대면의 가능성 -을 모두 제공한다. 하지만 그만큼 뒷단의 운영자에겐 커다란 부담이 된다. 갤럽 조사에 의하면 77%의 근무자들이 계속해서 원격에서 근무를 하거나 최소 하이브리드 환경에서 근무...]]></content>
     </entry>
     <entry>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=108155&amp;page=1&amp;mkind=1&amp;kind=1"/>
         <updated>2022-07-08T03:44:01.185Z</updated>
         <content type="html"><![CDATA[컴퓨터 장비 전문 업체인 한미마이크로닉스에서 개인정보 일부가 노출되는 사고가 발생했다. 이를 제일 처음 발견한 사용자는 해당 사실을 인터넷 커뮤니티 게시판에 알려 잠재적 피해자들에게 알렸고, 회사 측은 문제가 되는 기능을 임시로 차단함으로써 사건이 악화되는 걸 일단락시...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나날이 커지는 도박 문제, 불법 도박사이트부터 빠르게 탐색해야]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=108151&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=108151&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-07-08T01:43:41.238Z</updated>
-        <content type="html"><![CDATA[최근 불법 도박사이트를 통한 청소년 및 군 장병들의 도박문제가 사회적 이슈로 떠오르고 있다. 전문가들은 암호화폐로 인한 한탕주의가 불법 도박사이트로 옮겨간 것으로 보고 대책 마련을 촉구하고 있다.]]></content>
     </entry>
 </feed>
