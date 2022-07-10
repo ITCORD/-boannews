@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Jul 2022 14:18:42 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Jul 2022 15:20:27 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -274,14 +274,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/07/21493824_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[긴급] 국내 병원 환자 의료영상 관리 시스템 ‘PACS’ 노린 공격 발견 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=108000&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=108000&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Tue, 05 Jul 2022 09:26:46 GMT</pubDate>
-            <content:encoded><![CDATA[최근 국내 의료 기관에서 사용 중인 PACS(Picture Archiving and Communication System) 서버를 공격한 사례가 확인돼 관계기관의...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/07/21070189_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[최대 규모의 NFT 마켓인 오픈시에서 악성 내부자 사건 발생 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=108068&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=108068&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
@@ -338,20 +330,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/07/cyber_070401_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[구글 크롬에서 올해에만 네 번째 제로데이 취약점 발견되고 패치돼 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=108108&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=108108&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Thu, 07 Jul 2022 06:21:20 GMT</pubDate>
-            <content:encoded><![CDATA[안드로이드용 구글 크롬에서 제로데이 취약점이 발견됐고, 해커들이 이를 이미 익스플로잇 하기 시작했다. 문제의 취약점은 CVE-2022-2294로, 일종의 힙 버퍼...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/07/21866626_copy_295x190_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[중대재해처벌법 시행으로 주목! 산업안전 솔루션 집중 분석 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107820&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107820&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
             <pubDate>Thu, 07 Jul 2022 05:25:34 GMT</pubDate>
             <content:encoded><![CDATA[올해 1월 17일부터 중대재해처벌법이 시행됐다. 중대재해처벌법이란 기업의 안전보건조치를 강화하고, 안전 투자를 확대해 중대산업재해를 예방, 종사자의 생명과 신체를...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20220703INDU-S.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[구글 크롬에서 올해에만 네 번째 제로데이 취약점 발견되고 패치돼 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=108108&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=108108&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Thu, 07 Jul 2022 06:21:20 GMT</pubDate>
+            <content:encoded><![CDATA[안드로이드용 구글 크롬에서 제로데이 취약점이 발견됐고, 해커들이 이를 이미 익스플로잇 하기 시작했다. 문제의 취약점은 CVE-2022-2294로, 일종의 힙 버퍼...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/07/21866626_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[메리어트 인터내셔널에서 또 다시 발생한 대형 정보 유출 사고? (보안뉴스 ─ 가장 많이 본 기사)]]></title>
@@ -392,6 +384,14 @@
             <pubDate>Thu, 07 Jul 2022 10:22:42 GMT</pubDate>
             <content:encoded><![CDATA[드래곤포스 말레이시아(DragonForce Malaysia)라는 핵티비스트 단체가 새로운 익스플로잇을 공개했다. 윈도 서버에서 로컬 권한 상승 공격을 함으로써 로...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/07/21805198_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[버그바운티 플랫폼의 해커원, 직원 한 명 때문에 신뢰 크게 잃을 뻔 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=108111&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=108111&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Sun, 10 Jul 2022 15:17:33 GMT</pubDate>
+            <content:encoded><![CDATA[버그바운티 플랫폼 해커원(HackerOne)이 직원 한 명을 해고했다. 해커원 고객들이 난 취약점 보고서를 가로채 자기 이름으로 제출한 후 상금을 차지하려 했기 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/07/20690729_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[또 클라우드 설정 오류 사건! 이번엔 4개 공항 3TB 데이터 유출돼 (보안뉴스 ─ SECURITY)]]></title>
