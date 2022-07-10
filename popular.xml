@@ -4,7 +4,7 @@
         <title>보안뉴스 ─ 가장 많이 본 기사</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Jul 2022 04:30:38 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Jul 2022 05:19:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -64,14 +64,6 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/07/21793459_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[7월은 ‘제11회 정보보호의 달’, 다채로운 보안행사 열린다]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=107999&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=107999&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
-            <pubDate>Mon, 04 Jul 2022 10:21:03 GMT</pubDate>
-            <content:encoded><![CDATA[정부가 ‘제11회 정보보호의 달’을 기념해 7월 한 달 동안 다채로운 보안 행사를 추진한다. 과학기술정보통신부(장관 이종호, 이하 ‘과기정통부’)와 한국정보보호산...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/07/msit_070301_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[전 세계 홈 CCTV 시장 내 점유율 10%, 급성장세 ‘중국’]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=107890&amp;page=1&amp;kind=3&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=107890&amp;page=1&amp;kind=3&amp;search=title&amp;find=</guid>
@@ -96,20 +88,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/07/Screenshot_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[구글 크롬에서 올해에만 네 번째 제로데이 취약점 발견되고 패치돼]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=108108&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=108108&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Thu, 07 Jul 2022 06:21:20 GMT</pubDate>
-            <content:encoded><![CDATA[안드로이드용 구글 크롬에서 제로데이 취약점이 발견됐고, 해커들이 이를 이미 익스플로잇 하기 시작했다. 문제의 취약점은 CVE-2022-2294로, 일종의 힙 버퍼...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/07/21866626_copy_295x190_1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[대중문화와 보안] 사이버지옥 : n번방을 무너뜨려라]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=108067&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=108067&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
             <pubDate>Sat, 09 Jul 2022 04:22:46 GMT</pubDate>
             <content:encoded><![CDATA[2019년 11월 한겨레에 ‘청소년 텔레그램 비밀방에 불법 성착취 영상 활개’란 제목의 기사가 올라왔다. 처음에는 크게 알려지지 않았지만 이후 SBS의 궁금한 이...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/07/cyber_070401_main.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[구글 크롬에서 올해에만 네 번째 제로데이 취약점 발견되고 패치돼]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=108108&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=108108&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Thu, 07 Jul 2022 06:21:20 GMT</pubDate>
+            <content:encoded><![CDATA[안드로이드용 구글 크롬에서 제로데이 취약점이 발견됐고, 해커들이 이를 이미 익스플로잇 하기 시작했다. 문제의 취약점은 CVE-2022-2294로, 일종의 힙 버퍼...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/07/21866626_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[중대재해처벌법 시행으로 주목! 산업안전 솔루션 집중 분석]]></title>
@@ -166,6 +158,14 @@
             <pubDate>Thu, 07 Jul 2022 09:16:46 GMT</pubDate>
             <content:encoded><![CDATA[부산 에코델타 스마트시티(EDC)가 올해 초 전반적인 사업 구상을 마치고 특수목적법인(SPC) 설립을 위한 민간기업 공모 절차도 대부분 완료했다. 국내 첫 스마트...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/06/20220703edc-sm.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[나날이 커지는 도박 문제, 불법 도박사이트부터 빠르게 탐색해야]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=108151&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=108151&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Sun, 10 Jul 2022 05:16:29 GMT</pubDate>
+            <content:encoded><![CDATA[최근 불법 도박사이트를 통한 청소년 및 군 장병들의 도박문제가 사회적 이슈로 떠오르고 있다. 전문가들은 암호화폐로 인한 한탕주의가 불법 도박사이트로 옮겨간 것으로...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/07/20023099_main.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
