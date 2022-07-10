@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=4</id>
     <title>보안뉴스 ─ SAFETY</title>
-    <updated>2022-07-10T12:32:17.616Z</updated>
+    <updated>2022-07-10T13:28:09.651Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[새롭게 개편된 생활안전지도에서 안전정보를 확인하세요]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=108164&amp;page=1&amp;mkind=4&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=108164&amp;page=1&amp;mkind=4&amp;kind=2"/>
+        <updated>2022-07-10T13:25:27.629Z</updated>
+        <content type="html"><![CDATA[행정안전부는 생활안전지도(APP)에 폭염·호우 등 재난안전 예방정보, 코로나19 일반 의료체계에 맞춘 통합(원스톱) 진료기관과 호흡기환자진료센터, 사물주소 반영 등 신규 서비스 제공한다고 밝혔다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[고용부, 기업의 안전보건관리체계 구축 및 이행 우수 사례 발표]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=108116&amp;page=1&amp;mkind=4&amp;kind=2</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=108026&amp;page=1&amp;mkind=4&amp;kind=2"/>
         <updated>2022-07-06T01:49:25.496Z</updated>
         <content type="html"><![CDATA[해양수산부는 항만건설 분야 안전보건관리체계 구축을 위한 세부 실행 방안이 수록된 ‘중대재해 예방을 위한 안전 관리 업무 길라잡이’를 제작·배포한다고 밝혔다.]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[행안부, 재난안전기업 해외 판로 개척 지원에 앞장선다]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=108029&amp;page=1&amp;mkind=4&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=108029&amp;page=1&amp;mkind=4&amp;kind=2"/>
-        <updated>2022-07-06T01:49:25.498Z</updated>
-        <content type="html"><![CDATA[행정안전부는 수출 경험이 부족한 재난안전 국내 기업의 판로 개척을 지원하기 위해 ‘2022년 재난안전기업 1차 수출 화상상담회’를 8일까지 개최한다고 밝혔다.]]></content>
     </entry>
 </feed>

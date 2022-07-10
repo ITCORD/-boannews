@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 10 Jul 2022 12:32:17 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Jul 2022 13:28:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -86,6 +86,14 @@
             <pubDate>Fri, 08 Jul 2022 03:43:27 GMT</pubDate>
             <content:encoded><![CDATA[보안 외신 해커뉴스에 의하면 자바스크립트 패키지 리포지터리인 NPM에서 또 한 번 사고가 발생했다고 한다. 다행이라면, 기존 NPM 패키지에 악성 코드가 ...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/07/20712820_copy_295x190_1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[서부발전, 행안부 2021년 재난관리평가 ‘우수’ 등급 선정 (보안뉴스 ─ 전체기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=108159&amp;page=1&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=108159&amp;page=1&amp;kind=2</guid>
+            <pubDate>Sun, 10 Jul 2022 13:24:38 GMT</pubDate>
+            <content:encoded><![CDATA[한국서부발전이 지난해 국가 재난관리평가에서 ‘우수’ 등급을 받았다. 행정안전부는 지난 6일 중앙부처, 공공기관, 지방자치단체 등 335곳을 대상으로 지난 ...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/07/7-107(295).jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[경남교육청, ‘아이톡톡’ 공교육 특화 모델로 우뚝 (보안뉴스 ─ 전체기사)]]></title>
@@ -226,14 +234,6 @@
             <content:encoded><![CDATA[국토교통부와 새만금개발청은 ‘새만금 국가산업단지(5·6공구)’를 국내 최초의 ‘스마트그린 국가시범산업단지’로 지정했다고 발표했다.]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[SK텔레콤·SK하이닉스, AI·반도체 인재 양성 위해 대학과 맞손 (보안뉴스 ─ 전체기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=108170&amp;page=1&amp;kind=3</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=108170&amp;page=1&amp;kind=3</guid>
-            <pubDate>Fri, 08 Jul 2022 07:15:33 GMT</pubDate>
-            <content:encoded><![CDATA[SK텔레콤과 SK하이닉스는 AI와 반도체 인재 양성을 위해 현업 전문가들의 실무 지식과 현장 노하우를 대학에 전달하는 ‘SK ICT커리큘럼(SK ICT C...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/07/7-118(295).jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[중국의 APT 정찰 단체 톤토팀, 러시아 향한 공격 수위 높여 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=108192&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=108192&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
@@ -322,20 +322,20 @@
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/07/20945949_copy_295x190_1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[대중문화와 보안] 사이버지옥 : n번방을 무너뜨려라 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=108067&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=108067&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
-            <pubDate>Sat, 09 Jul 2022 04:22:46 GMT</pubDate>
-            <content:encoded><![CDATA[2019년 11월 한겨레에 ‘청소년 텔레그램 비밀방에 불법 성착취 영상 활개’란 제목의 기사가 올라왔다. 처음에는 크게 알려지지 않았지만 이후 SBS의 궁금한 이...]]></content:encoded>
-            <enclosure url="https://www.boannews.com/media/upFiles2/2022/07/cyber_070401_main.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[성남시, 안전귀가 서비스 ‘위급 상황 땐 스마트폰 흔드세요’ (보안뉴스 ─ 가장 많이 본 기사)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=108204&amp;page=1&amp;kind=2&amp;search=title&amp;find=</link>
             <guid>https://www.boannews.com/media/view.asp?idx=108204&amp;page=1&amp;kind=2&amp;search=title&amp;find=</guid>
             <pubDate>Sun, 10 Jul 2022 09:15:35 GMT</pubDate>
             <content:encoded><![CDATA[성남시는 지역 내 방범용 CCTV 9,415대와 스마트폰 앱을 연계·활용한 ‘안전귀가 서비스’를 오는 11일부터 시범 운영한다. 이 서비스는 ‘안전귀가’ 앱을 설...]]></content:encoded>
             <enclosure url="https://www.boannews.com/media/upFiles2/2022/07/7-128(295)(0).jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[대중문화와 보안] 사이버지옥 : n번방을 무너뜨려라 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=108067&amp;page=1&amp;kind=1&amp;search=title&amp;find=</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=108067&amp;page=1&amp;kind=1&amp;search=title&amp;find=</guid>
+            <pubDate>Sat, 09 Jul 2022 04:22:46 GMT</pubDate>
+            <content:encoded><![CDATA[2019년 11월 한겨레에 ‘청소년 텔레그램 비밀방에 불법 성착취 영상 활개’란 제목의 기사가 올라왔다. 처음에는 크게 알려지지 않았지만 이후 SBS의 궁금한 이...]]></content:encoded>
+            <enclosure url="https://www.boannews.com/media/upFiles2/2022/07/cyber_070401_main.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[구글 크롬에서 올해에만 네 번째 제로데이 취약점 발견되고 패치돼 (보안뉴스 ─ 가장 많이 본 기사)]]></title>
@@ -632,6 +632,13 @@
             <content:encoded><![CDATA[방기선 기획재정부 1차관은 지난 6일 ‘제1차 범부처 플랫폼 정책협의체’를 개최했다. 이번 회의에는 과기정통부·고용부 차관, 공정위·방통위·개인정보보호위 부위원장, 중소벤처기업부 창업진흥정책관이 참석해 역동적이고 혁신적인 플랫폼 생태계 구축 방안에 대해 논의했다.]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[새롭게 개편된 생활안전지도에서 안전정보를 확인하세요 (보안뉴스 ─ SAFETY)]]></title>
+            <link>https://www.boannews.com/media/view.asp?idx=108164&amp;page=1&amp;mkind=4&amp;kind=2</link>
+            <guid>https://www.boannews.com/media/view.asp?idx=108164&amp;page=1&amp;mkind=4&amp;kind=2</guid>
+            <pubDate>Sun, 10 Jul 2022 13:25:27 GMT</pubDate>
+            <content:encoded><![CDATA[행정안전부는 생활안전지도(APP)에 폭염·호우 등 재난안전 예방정보, 코로나19 일반 의료체계에 맞춘 통합(원스톱) 진료기관과 호흡기환자진료센터, 사물주소 반영 등 신규 서비스 제공한다고 밝혔다.]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[고용부, 기업의 안전보건관리체계 구축 및 이행 우수 사례 발표 (보안뉴스 ─ SAFETY)]]></title>
             <link>https://www.boannews.com/media/view.asp?idx=108116&amp;page=1&amp;mkind=4&amp;kind=2</link>
             <guid>https://www.boannews.com/media/view.asp?idx=108116&amp;page=1&amp;mkind=4&amp;kind=2</guid>
@@ -742,13 +749,6 @@
             <guid>https://www.boannews.com/media/view.asp?idx=108026&amp;page=1&amp;mkind=4&amp;kind=2</guid>
             <pubDate>Wed, 06 Jul 2022 01:49:25 GMT</pubDate>
             <content:encoded><![CDATA[해양수산부는 항만건설 분야 안전보건관리체계 구축을 위한 세부 실행 방안이 수록된 ‘중대재해 예방을 위한 안전 관리 업무 길라잡이’를 제작·배포한다고 밝혔다.]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[행안부, 재난안전기업 해외 판로 개척 지원에 앞장선다 (보안뉴스 ─ SAFETY)]]></title>
-            <link>https://www.boannews.com/media/view.asp?idx=108029&amp;page=1&amp;mkind=4&amp;kind=2</link>
-            <guid>https://www.boannews.com/media/view.asp?idx=108029&amp;page=1&amp;mkind=4&amp;kind=2</guid>
-            <pubDate>Wed, 06 Jul 2022 01:49:25 GMT</pubDate>
-            <content:encoded><![CDATA[행정안전부는 수출 경험이 부족한 재난안전 국내 기업의 판로 개척을 지원하기 위해 ‘2022년 재난안전기업 1차 수출 화상상담회’를 8일까지 개최한다고 밝혔다.]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[성남시, 안전귀가 서비스 ‘위급 상황 땐 스마트폰 ... (보안뉴스 ─ Security World)]]></title>
