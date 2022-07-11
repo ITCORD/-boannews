@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=2</id>
     <title>보안뉴스 ─ IT</title>
-    <updated>2022-07-11T01:42:52.233Z</updated>
+    <updated>2022-07-11T03:44:03.923Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[더 빠르고 쾌적한 공공와이파이가 온다]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=108200&amp;page=1&amp;mkind=2&amp;kind=2</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=108200&amp;page=1&amp;mkind=2&amp;kind=2"/>
+        <updated>2022-07-11T03:41:47.169Z</updated>
+        <content type="html"><![CDATA[과학기술정보통신부는 지난 8일 ‘고물가 부담 경감을 위한 생활안정 대책’에서 발표된 바와 같이 국민들의 가계통신비 절감 및 보편적 통신접근성을 위한 2022년 공공와이파이 구축 확대 및 고도화를 본격 추진한다고 밝혔다.]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[청년의 창의적인 생각, 로봇에서 미래 농업을 만나다]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=108199&amp;page=1&amp;mkind=2&amp;kind=2</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=108143&amp;page=1&amp;mkind=2&amp;kind=2"/>
         <updated>2022-07-08T06:22:37.521Z</updated>
         <content type="html"><![CDATA[산업통상자원부(장관 이창양)는 7월 6일 코엑스에서 무역안보 유공자, 수출기업 CEO 등 200여 명이 참석한 가운데 ‘2022 무역안보의 날 기념식’을 개최했다]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[방기선 기획재정부 1차관, ‘제1차 범부처 플랫폼 정책협의체’ 개최]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=108115&amp;page=1&amp;mkind=2&amp;kind=2</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=108115&amp;page=1&amp;mkind=2&amp;kind=2"/>
-        <updated>2022-07-08T06:22:37.522Z</updated>
-        <content type="html"><![CDATA[방기선 기획재정부 1차관은 지난 6일 ‘제1차 범부처 플랫폼 정책협의체’를 개최했다. 이번 회의에는 과기정통부·고용부 차관, 공정위·방통위·개인정보보호위 부위원장, 중소벤처기업부 창업진흥정책관이 참석해 역동적이고 혁신적인 플랫폼 생태계 구축 방안에 대해 논의했다.]]></content>
     </entry>
 </feed>
