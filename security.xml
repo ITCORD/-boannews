@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://www.boannews.com/media/list.asp?mkind=1</id>
     <title>보안뉴스 ─ SECURITY</title>
-    <updated>2022-07-10T23:19:34.276Z</updated>
+    <updated>2022-07-11T01:42:52.224Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://www.boannews.com/media/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[[주말판] 지금 모든 회사들이 육성해야 하는 건 ‘데이터 리터러시’]]></title>
+        <id>https://www.boannews.com/media/view.asp?idx=108207&amp;page=1&amp;mkind=1&amp;kind=3</id>
+        <link href="https://www.boannews.com/media/view.asp?idx=108207&amp;page=1&amp;mkind=1&amp;kind=3"/>
+        <updated>2022-07-11T01:40:28.121Z</updated>
+        <content type="html"><![CDATA[데이터를 수집하고 처리하는 인류의 능력은 지난 20년 동안 기하급수적으로 발전했다. 그러한 급격한 발전의 중심에는 클라우드 기술이 있다. 이제 기업들은 큰 용량의 정보도 쉽게 저장하고, 언제 어디서나 열람하거나 처리할 수 있다. 어느 새 데이터라는 거, 누구나 손끝으로...]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[경남교육청, ‘아이톡톡’ 공교육 특화 모델로 우뚝]]></title>
         <id>https://www.boannews.com/media/view.asp?idx=108206&amp;page=1&amp;mkind=1&amp;kind=2</id>
@@ -116,12 +123,5 @@
         <link href="https://www.boannews.com/media/view.asp?idx=108185&amp;page=1&amp;mkind=1&amp;kind=1"/>
         <updated>2022-07-08T06:22:24.375Z</updated>
         <content type="html"><![CDATA[IT 외신 블리핑컴퓨터에 의하면 마이크로소프트가 올해 초 오피스 매크로 기능을 기본적으로 비활성화시키겠다는 방침을 취소시켰다고 한다. 원래 MS는 다운로드 된 오피스 문서에 VBA 매크로가 자동으로 적용되지 않도록 디폴트 옵션을 바꾸겠다고 발표했었다. 이 변경 사항은 ...]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[큐티보이 암호화폐 채굴 캠페인에 1200개 넘는 NPM 패키지 악용돼]]></title>
-        <id>https://www.boannews.com/media/view.asp?idx=108184&amp;page=1&amp;mkind=1&amp;kind=1</id>
-        <link href="https://www.boannews.com/media/view.asp?idx=108184&amp;page=1&amp;mkind=1&amp;kind=1"/>
-        <updated>2022-07-08T06:22:24.377Z</updated>
-        <content type="html"><![CDATA[보안 외신 해커뉴스에 의하면 자바스크립트 패키지 리포지터리인 NPM에서 또 한 번 사고가 발생했다고 한다. 다행이라면, 기존 NPM 패키지에 악성 코드가 주입된 건 아니고, 악성 코드가 주입된 신규 악성 패키지가 대거 등록되었기 때문이다. 큐티보이(Cuteboi)라고 ...]]></content>
     </entry>
 </feed>
