@@ -1,7 +1,7 @@
 [default]
 timeout = 240
 
-[latest]
+[news_last]
 title = "보안뉴스 ─ 전체기사"
 url = "https://www.boannews.com/media/t_list.asp"
 entrySelector = "div[id='news_area'] div.news_list"
